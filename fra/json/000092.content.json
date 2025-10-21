@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 734224,
+    "reference_id": 203281,
+    "title": "Les ancêtres de Jésus",
+    "media_type": "Text",
+    "index_reference": "les ancêtres de jésus",
+    "language": "fra",
+    "content": "<p>Les Évangiles de Matthieu et de Luc incluent chacun une liste des ancêtres de Jésus (<a href=\"https://ref.ly/Matt1:1-Matt1:17\">Mt 1.1–17</a> ; <a href=\"https://ref.ly/Luke3:23-Luke3:38\">Lc 3.23–38</a>). Ces listes sont appelées des généalogies. Il y a des différences entre ces deux généalogies. En arrivant au roi David, la liste de Matthieu présente les ancêtres de Jésus à travers le roi Salomon, fils de David. Par contre, la liste de Luc présente les ancêtres de Jésus à travers un autre fils de David, Nathan. Comment expliquer ces différences ? Une explication possible est que Matthieu présente les ancêtres de Jésus à travers Joseph, son père légal, tandis que Luc le fait à travers Marie. Joseph serait le gendre (beau-fils) d&apos;Héli.</p><p>Dans la culture juive ancienne, des listes très précises d&apos;ancêtres étaient tenues. Josèphe, un historien juif ayant vécu au premier siècle <span>apr.&nbsp;J.‑C.</span>, le confirme dans ses écrits. Les généalogies étaient importantes dans l&apos;Ancien Testament et pour le judaïsme parce que les droits d&apos;héritage des terres étaient déterminés par les liens familiaux. Certains rôles, comme ceux de sacrificateur et de roi, se transmettaient de père en fils.</p><p>Les généalogies rappelaient souvent les liens entre le passé et le présent. Elles soulignaient des événements religieux importants, l&apos;appartenance familiale, les liens politiques, et donnaient des indications de quand les gens avaient vécu (<a href=\"https://ref.ly/1Chr1:1-1Chr9:44\">1&nbsp;Chroniques 1–9</a>). La plupart des généalogies ne font pas une liste complète de tous les ancêtres et membres d&apos;une famille. Elles mentionnent plutôt des personnes importantes dans l&apos;histoire d&apos;Israël.  </p><p>Matthieu et Luc ont des raisons différentes de donner la liste des ancêtres de Jésus. Matthieu veut montrer que Jésus descend d&apos;Abraham et du roi David. La généalogie de Matthieu confirme que Jésus est héritier légitime du trône de David. Par conséquent, Matthieu montre les ancêtres de Jésus jusqu&apos;à Abraham, le père du peuple juif. Par contre, la généalogie de Luc donne une liste des ancêtres de Jésus jusqu&apos;à Adam, le premier être humain. Luc présente Jésus comme le Sauveur de toute l&apos;humanité, de tous les peuples.</p><p>Matthieu mentionne plusieurs femmes parmi les ancêtres de Jésus, alors que la coutume juive était de mentionner juste les pères et les fils. Ces femmes incluent Tamar, Rahab, Ruth et Bath-Schéba. Certaines avaient eu un passé de mauvaise réputation et d&apos;autres étaient non-juives. Peut-être que certains Juifs pensaient que Marie, la mère de Jésus, ne pouvait pas être la mère du Messie car elle était pauvre. Peut-être ne croyaient-ils pas que sa grossesse était miraculeuse. En montrant que Dieu avait déjà utilisé des femmes que des Juifs penseraient indignes, Matthieu montre que dans sa grâce, Dieu a aussi utilisé une personne humble comme Marie.</p><p>Les généalogies de Jésus ne prouvent pas qu&apos;il est le Messie (l&apos;élu de Dieu), mais elles montrent qu&apos;il est bien un descendant de David comme l&apos;avaient annoncé les prophètes de l&apos;Ancien Testament. L&apos;identité de Jésus en tant que Messie est ensuite montrée d&apos;autres façons dans les deux Évangiles (voir p. ex. <a href=\"https://ref.ly/Matt11:2-Matt11:6\">Mt 11.2–6</a>). Dieu a guidé l&apos;Histoire vers l&apos;accomplissement du salut. Jésus est le Messie que l&apos;Ancien Testament avait annoncé. Il est le sauveur de son peuple et le roi descendant de David qui hérite son trône (voir <a href=\"https://ref.ly/2Sam7:16\">2S 7.16</a>). Jésus est l&apos;héritier d&apos;Abraham et c&apos;est à travers lui que s&apos;accomplissent finalement les promesses de Dieu à ce patriarche (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Gn 12.1–3</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen12:1-Gen12:3\">Genèse 12.1–3</a> ; <a href=\"https://ref.ly/2Sam7:16\">2&nbsp;Samuel 7.16</a> ; <a href=\"https://ref.ly/Matt1:1-Matt1:17\">Matthieu 1.1–17</a> ; <a href=\"https://ref.ly/Luke3:23-Luke3:38\">Luc 3.23–38</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10007016",
+          "start_ref_usfm": "2SA 7:16",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "42003023",
+          "start_ref_usfm": "LUK 3:23",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13009044",
+          "end_ref_usfm": "1CH 9:44"
+        },
+        {
+          "start_ref": "40011002",
+          "start_ref_usfm": "MAT 11:2",
+          "end_ref": "40011006",
+          "end_ref_usfm": "MAT 11:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

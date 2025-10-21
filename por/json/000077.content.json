@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 800533,
+    "reference_id": 203364,
+    "title": "As últimas coisas e os tessalonicenses",
+    "media_type": "Text",
+    "index_reference": "as últimas coisas e os tessalonicenses",
+    "language": "por",
+    "content": "<p>Os cristãos em Tessalônica aceitaram com entusiasmo os ensinamentos do apóstolo Paulo sobre o dia do Senhor e a segunda vinda de Jesus. No entanto, isso gerou perguntas e suposições sobre o fim dos tempos.</p><p>Eles se perguntavam o que aconteceria com os cristãos que morreram antes de Jesus retornar (<a href=\"https://ref.ly/1Thess4:13-1Thess4:18\">1 Tessalonicenses 4.13–18</a>). Eles também perguntaram quando &quot;o Dia do Senhor&quot; chegaria (<a href=\"https://ref.ly/1Thess5:1-1Thess5:11\">5.1–11</a>). Eles se questionavam se os cristãos experimentariam a ira de Deus (<a href=\"https://ref.ly/1Thess1:10\">1.10</a>; <a href=\"https://ref.ly/1Thess5:9\">5.9</a>). Paulo tranquiliza a igreja explicando esses tópicos e lembrando-os dos ensinamentos que já haviam recebido (<a href=\"https://ref.ly/1Thess4:13-1Thess5:11\">4.13–5.11</a>).</p><p>Paulo provavelmente esperava que Jesus retornasse durante sua vida (<a href=\"https://ref.ly/1Thess4:15\">4.15</a>). No entanto, ele também sabia que o evento final ocorreria de forma inesperada, “como um ladrão, na calada da noite” (<a href=\"https://ref.ly/1Thess5:2\">5.2</a>). A maneira de estar preparado para o fim não é conhecendo a data, mas vivendo com vigilância cristã. Isso significa manter uma constante vigilância espiritual e estar pronto para encontrar Jesus.</p><p>Os Tessalonicenses precisavam compreender as mortes de seus colegas cristãos. Paulo não discute o estado dos cristãos entre sua morte e o retorno de Jesus. Em vez disso, ele se concentra na ressurreição. Assim como Deus ressuscitou Jesus dos mortos, os cristãos que morrerem também serão ressuscitados quando ele retornar. Eles ressuscitarão primeiro e, em seguida, se juntarão aos cristãos vivos para encontrar Jesus em sua vinda real.</p><p>Paulo tentou explicar a esperança cristã. No entanto, os cristãos tessalonicenses ficaram confusos com falsos ensinamentos que diziam: &quot;o Dia do Senhor já chegou&quot; (veja <a href=\"https://ref.ly/2Thess2:2\">2 Tessalonicenses 2.2</a>). Para corrigir esse mal-entendido, Paulo discutiu mais sobre esse assunto em sua segunda carta à jovem igreja (veja <a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Tessalonicenses 2.1–12</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Mark13:1-Mark13:37\">Marcos 13.1–37</a>; <a href=\"https://ref.ly/1Thess4:13-1Thess5:11\">1 Tessalonicenses 4.13–5.11</a>; <a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Tessalonicenses 2.1–12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "52001010",
+          "start_ref_usfm": "1TH 1:10",
+          "end_ref": "52001010",
+          "end_ref_usfm": "1TH 1:10"
+        },
+        {
+          "start_ref": "52004015",
+          "start_ref_usfm": "1TH 4:15",
+          "end_ref": "52004015",
+          "end_ref_usfm": "1TH 4:15"
+        },
+        {
+          "start_ref": "52005002",
+          "start_ref_usfm": "1TH 5:2",
+          "end_ref": "52005002",
+          "end_ref_usfm": "1TH 5:2"
+        },
+        {
+          "start_ref": "52005009",
+          "start_ref_usfm": "1TH 5:9",
+          "end_ref": "52005009",
+          "end_ref_usfm": "1TH 5:9"
+        },
+        {
+          "start_ref": "53002002",
+          "start_ref_usfm": "2TH 2:2",
+          "end_ref": "53002002",
+          "end_ref_usfm": "2TH 2:2"
+        },
+        {
+          "start_ref": "41013001",
+          "start_ref_usfm": "MRK 13:1",
+          "end_ref": "41013037",
+          "end_ref_usfm": "MRK 13:37"
+        },
+        {
+          "start_ref": "52004013",
+          "start_ref_usfm": "1TH 4:13",
+          "end_ref": "52004018",
+          "end_ref_usfm": "1TH 4:18"
+        },
+        {
+          "start_ref": "52005001",
+          "start_ref_usfm": "1TH 5:1",
+          "end_ref": "52005011",
+          "end_ref_usfm": "1TH 5:11"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "52004013",
+          "start_ref_usfm": "1TH 4:13",
+          "end_ref": "52005011",
+          "end_ref_usfm": "1TH 5:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

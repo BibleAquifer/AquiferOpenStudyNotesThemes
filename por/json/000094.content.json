@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 800453,
+    "reference_id": 203284,
+    "title": "Cidadania no Reino",
+    "media_type": "Text",
+    "index_reference": "cidadania no reino",
+    "language": "por",
+    "content": "<p>Os judeus do primeiro século desejavam um rei como Davi ou um líder como Judas Macabeu para derrotar seus opressores. A concepção de Jesus sobre o reino de Deus era muito diferente dessas expectativas (<a href=\"https://ref.ly/Matt5:43-Matt5:48\">Mateus 5.43–48</a>).</p><p>O Evangelho de Mateus apresenta Jesus como um professor singular, e o Sermão da Montanha é seu sermão mais longo e famoso. É mais do que apenas um conjunto de ensinamentos de Jesus sobre o certo e o errado; é um guia para viver como cidadão no reino dos céus.</p><p>Jesus descreveu o reino dos céus como:</p><ol><li><p>Uma conexão com Deus.</p></li><li><p>Uma transformação do coração.</p></li><li><p>Relacionamentos com os outros.</p></li></ol><p>Esta nova mensagem do reino causou um forte impacto nas pessoas que ouviram Jesus (<a href=\"https://ref.ly/Matt7:28-Matt7:29\">Mateus 7.28–29</a>).</p><p>As pessoas frequentemente fazem distinções claras entre essas três áreas, mas todas estão sempre presentes. Por exemplo, a instrução de Jesus sobre humildade parece interna a princípio, mas também envolve nossa atitude em relação a Deus e aos outros (<a href=\"https://ref.ly/Matt5:5\">Mateus 5.5</a>). O mandamento de não resistir a uma pessoa má parece focado externamente (<a href=\"https://ref.ly/Matt5:39\">5.39</a>), mas muitas vezes requer fé ativa em Deus e força interior. A instrução de Jesus sobre a oração diz respeito principalmente ao nosso relacionamento com Deus (<a href=\"https://ref.ly/Matt6:5-Matt6:15\">6.5–15</a>), mas a oração começa com o entendimento de que você precisa da ajuda de Deus. Ela também frequentemente envolve seus relacionamentos com outras pessoas.</p><p>Para ser um cidadão no reino do céu, você deve seguir Jesus e viver uma vida centrada em Deus, não em si mesmo. Tentar ser justo por conta própria o mantém na escuridão, pois ainda está focado em si mesmo. Jesus chama para a verdadeira justiça, que é a justiça do próprio Deus (<a href=\"https://ref.ly/Matt5:20\">Mateus 5.20</a>,<a href=\"https://ref.ly/Matt5:48\">48</a>). Você não pode alcançar essa justiça por conta própria. Jesus a concede àqueles que o seguem.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt7:24-Matt7:29\">Mateus 7.24–29</a>; <a href=\"https://ref.ly/Matt13:1-Matt13:52\">13.1–52</a>; <a href=\"https://ref.ly/Mark10:14-Mark10:16\">Marcos 10.14–16</a>; <a href=\"https://ref.ly/Luke8:1-Luke8:3\">Lucas 8.1–3</a>; <a href=\"https://ref.ly/Luke9:1-Luke9:6\">9.1–6</a>; <a href=\"https://ref.ly/John3:1-John3:21\">João 3.1–21</a>; <a href=\"https://ref.ly/Acts8:12\">Atos 8.12</a>; <a href=\"https://ref.ly/Acts28:23-Acts28:31\">28.23–31.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40005005",
+          "start_ref_usfm": "MAT 5:5",
+          "end_ref": "40005005",
+          "end_ref_usfm": "MAT 5:5"
+        },
+        {
+          "start_ref": "40005020",
+          "start_ref_usfm": "MAT 5:20",
+          "end_ref": "40005020",
+          "end_ref_usfm": "MAT 5:20"
+        },
+        {
+          "start_ref": "40005039",
+          "start_ref_usfm": "MAT 5:39",
+          "end_ref": "40005039",
+          "end_ref_usfm": "MAT 5:39"
+        },
+        {
+          "start_ref": "40005048",
+          "start_ref_usfm": "MAT 5:48",
+          "end_ref": "40005048",
+          "end_ref_usfm": "MAT 5:48"
+        },
+        {
+          "start_ref": "44008012",
+          "start_ref_usfm": "ACT 8:12",
+          "end_ref": "44008012",
+          "end_ref_usfm": "ACT 8:12"
+        },
+        {
+          "start_ref": "40005043",
+          "start_ref_usfm": "MAT 5:43",
+          "end_ref": "40005048",
+          "end_ref_usfm": "MAT 5:48"
+        },
+        {
+          "start_ref": "42009001",
+          "start_ref_usfm": "LUK 9:1",
+          "end_ref": "42009006",
+          "end_ref_usfm": "LUK 9:6"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003021",
+          "end_ref_usfm": "JHN 3:21"
+        },
+        {
+          "start_ref": "40007028",
+          "start_ref_usfm": "MAT 7:28",
+          "end_ref": "40007029",
+          "end_ref_usfm": "MAT 7:29"
+        },
+        {
+          "start_ref": "40013001",
+          "start_ref_usfm": "MAT 13:1",
+          "end_ref": "40013052",
+          "end_ref_usfm": "MAT 13:52"
+        },
+        {
+          "start_ref": "40006005",
+          "start_ref_usfm": "MAT 6:5",
+          "end_ref": "40006015",
+          "end_ref_usfm": "MAT 6:15"
+        },
+        {
+          "start_ref": "42008001",
+          "start_ref_usfm": "LUK 8:1",
+          "end_ref": "42008003",
+          "end_ref_usfm": "LUK 8:3"
+        },
+        {
+          "start_ref": "40007024",
+          "start_ref_usfm": "MAT 7:24",
+          "end_ref": "40007029",
+          "end_ref_usfm": "MAT 7:29"
+        },
+        {
+          "start_ref": "41010014",
+          "start_ref_usfm": "MRK 10:14",
+          "end_ref": "41010016",
+          "end_ref_usfm": "MRK 10:16"
+        },
+        {
+          "start_ref": "44028023",
+          "start_ref_usfm": "ACT 28:23",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

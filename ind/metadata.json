@@ -1,0 +1,569 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "StudyNotes",
+    "resource_type": "Study Notes",
+    "title": "Aquifer Open Study Notes (Themes)",
+    "aquifer_name": "Study Notes - Themes (Tyndale)",
+    "collection_title": "Study Notes - Themes (Tyndale)",
+    "short_name": "TSNT",
+    "license_info": {
+      "title": "Tyndale Open Study Notes",
+      "copyright": {
+        "dates": "2019",
+        "holder": {
+          "name": "Tyndale House Publishers",
+          "url": "https://tyndaleopenresources.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by BiblioNexus and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
+    "resource_code": "TyndaleStudyNotesThemes",
+    "date_created": "2025-10-20",
+    "language": "ind",
+    "localizations": [
+      "eng",
+      "arb",
+      "fra",
+      "hin",
+      "por",
+      "swh",
+      "zht",
+      "rus"
+    ],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-20T14:45:05.975502"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "TyndaleStudyNotesThemes": {
+            "timestamp": "2025-10-20T14:45:05.975502"
+          }
+        }
+      },
+      "name": {
+        "id": "Tyndale Open Study Notes"
+      },
+      "abbreviation": {
+        "id": "TSNT"
+      }
+    },
+    "languages": [
+      {
+        "tag": "id",
+        "name": {
+          "id": "Indonesian"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 6820
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 16964
+      },
+      "json/000003.content.json": {
+        "mimeType": "text/json",
+        "size": 10241
+      },
+      "json/000004.content.json": {
+        "mimeType": "text/json",
+        "size": 5094
+      },
+      "json/000005.content.json": {
+        "mimeType": "text/json",
+        "size": 4503
+      },
+      "json/000006.content.json": {
+        "mimeType": "text/json",
+        "size": 7544
+      },
+      "json/000007.content.json": {
+        "mimeType": "text/json",
+        "size": 11139
+      },
+      "json/000008.content.json": {
+        "mimeType": "text/json",
+        "size": 4516
+      },
+      "json/000009.content.json": {
+        "mimeType": "text/json",
+        "size": 11588
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4474
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7560
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5002
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3381
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4064
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4374
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5840
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1258
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4835
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Tyndale Open Study Notes © 2019 Tyndale House Publishers.</p>",
+          "mimetype": "text/html",
+          "lang": "id"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "769381": {
+      "content_id": 769381,
+      "reference_id": 203114,
+      "index_reference": "aturan hukum kuno",
+      "localizations": {
+        "eng": {
+          "content_id": 500171,
+          "language": "eng",
+          "title": "Ancient Law Codes"
+        },
+        "arb": {
+          "content_id": 702178,
+          "language": "arb",
+          "title": "قوانين العصور القديمة"
+        },
+        "fra": {
+          "content_id": 708411,
+          "language": "fra",
+          "title": "Codes de lois anciens"
+        },
+        "hin": {
+          "content_id": 709343,
+          "language": "hin",
+          "title": "प्राचीन व्यवस्था संहिताएँ"
+        },
+        "por": {
+          "content_id": 800283,
+          "language": "por",
+          "title": "Códigos de lei antigos"
+        },
+        "swh": {
+          "content_id": 764971,
+          "language": "swh",
+          "title": "Kanuni za Sheria za Kale"
+        },
+        "zht": {
+          "content_id": 700177,
+          "language": "zht",
+          "title": "古代法典"
+        }
+      }
+    },
+    "769558": {
+      "content_id": 769558,
+      "reference_id": 203291,
+      "index_reference": "iman dan perbuatan baik",
+      "localizations": {
+        "eng": {
+          "content_id": 500348,
+          "language": "eng",
+          "title": "Faith and Good Deeds"
+        },
+        "arb": {
+          "content_id": 702355,
+          "language": "arb",
+          "title": "الإيمان والأعمال الصالحة"
+        },
+        "fra": {
+          "content_id": 708447,
+          "language": "fra",
+          "title": "Foi et bonnes œuvres"
+        },
+        "hin": {
+          "content_id": 709520,
+          "language": "hin",
+          "title": "विश्वास और अच्छे कर्म"
+        },
+        "por": {
+          "content_id": 800460,
+          "language": "por",
+          "title": "Fé e boas obras"
+        },
+        "swh": {
+          "content_id": 765148,
+          "language": "swh",
+          "title": "Imani na Matendo Mema"
+        },
+        "zht": {
+          "content_id": 700354,
+          "language": "zht",
+          "title": "信心與善行"
+        }
+      }
+    },
+    "769413": {
+      "content_id": 769413,
+      "reference_id": 203146,
+      "index_reference": "kepemimpinan karismatik",
+      "localizations": {
+        "eng": {
+          "content_id": 500203,
+          "language": "eng",
+          "title": "Charismatic Leadership"
+        },
+        "arb": {
+          "content_id": 702210,
+          "language": "arb",
+          "title": "القيادة بالروح القدس"
+        },
+        "fra": {
+          "content_id": 708422,
+          "language": "fra",
+          "title": "Les serviteurs appelés par l'Esprit"
+        },
+        "hin": {
+          "content_id": 709375,
+          "language": "hin",
+          "title": "करिश्माई नेतृत्व"
+        },
+        "por": {
+          "content_id": 800315,
+          "language": "por",
+          "title": "Liderança carismática"
+        },
+        "swh": {
+          "content_id": 765003,
+          "language": "swh",
+          "title": "Uongozi wenye Mvuto"
+        },
+        "zht": {
+          "content_id": 700209,
+          "language": "zht",
+          "title": "屬靈恩賜型領導"
+        }
+      }
+    },
+    "769405": {
+      "content_id": 769405,
+      "reference_id": 203138,
+      "index_reference": "kutuk dan berkat",
+      "localizations": {
+        "eng": {
+          "content_id": 500195,
+          "language": "eng",
+          "title": "Curses and Blessings"
+        },
+        "arb": {
+          "content_id": 702202,
+          "language": "arb",
+          "title": "اللعنات والبركات"
+        },
+        "fra": {
+          "content_id": 708420,
+          "language": "fra",
+          "title": "Les malédictions et bénédictions de la loi"
+        },
+        "hin": {
+          "content_id": 709367,
+          "language": "hin",
+          "title": "श्राप और आशीषें "
+        },
+        "por": {
+          "content_id": 800307,
+          "language": "por",
+          "title": "Maldições e bênçãos"
+        },
+        "swh": {
+          "content_id": 764995,
+          "language": "swh",
+          "title": "Laana na Baraka"
+        },
+        "zht": {
+          "content_id": 700201,
+          "language": "zht",
+          "title": "詛咒和祝福"
+        }
+      }
+    },
+    "769528": {
+      "content_id": 769528,
+      "reference_id": 203261,
+      "index_reference": "literatur apokaliptik",
+      "localizations": {
+        "eng": {
+          "content_id": 500318,
+          "language": "eng",
+          "title": "Apocalyptic Literature"
+        },
+        "arb": {
+          "content_id": 702325,
+          "language": "arb",
+          "title": "الأدب الرؤيويّ الأخرويّ (أبوغلمسيس/ أبوكلبسيس)"
+        },
+        "fra": {
+          "content_id": 708443,
+          "language": "fra",
+          "title": "Les écrits apocalyptiques"
+        },
+        "hin": {
+          "content_id": 709490,
+          "language": "hin",
+          "title": "अंतकालीन साहित्य"
+        },
+        "por": {
+          "content_id": 800430,
+          "language": "por",
+          "title": "Literatura apocalíptica"
+        },
+        "swh": {
+          "content_id": 765118,
+          "language": "swh",
+          "title": "Fasihi ya Apokaliptiki"
+        },
+        "zht": {
+          "content_id": 700324,
+          "language": "zht",
+          "title": "天啟文學"
+        }
+      }
+    },
+    "769553": {
+      "content_id": 769553,
+      "reference_id": 203286,
+      "index_reference": "makan bersama",
+      "localizations": {
+        "eng": {
+          "content_id": 500343,
+          "language": "eng",
+          "title": "Eating Together"
+        },
+        "arb": {
+          "content_id": 702350,
+          "language": "arb",
+          "title": "تناول الطعام معًا"
+        },
+        "fra": {
+          "content_id": 708445,
+          "language": "fra",
+          "title": "Les repas en commun"
+        },
+        "hin": {
+          "content_id": 709515,
+          "language": "hin",
+          "title": "सामूहिक भोज"
+        },
+        "por": {
+          "content_id": 800455,
+          "language": "por",
+          "title": "Comendo juntos"
+        },
+        "rus": {
+          "content_id": 718836,
+          "language": "rus",
+          "title": "Совместные трапезы"
+        },
+        "swh": {
+          "content_id": 765143,
+          "language": "swh",
+          "title": "Kula Pamoja"
+        },
+        "zht": {
+          "content_id": 700349,
+          "language": "zht",
+          "title": "一同吃飯"
+        }
+      }
+    },
+    "769394": {
+      "content_id": 769394,
+      "reference_id": 203127,
+      "index_reference": "pengkhususan total",
+      "localizations": {
+        "eng": {
+          "content_id": 500184,
+          "language": "eng",
+          "title": "Complete Dedication"
+        },
+        "arb": {
+          "content_id": 702191,
+          "language": "arb",
+          "title": "التكريس الكامل"
+        },
+        "fra": {
+          "content_id": 708417,
+          "language": "fra",
+          "title": "Dévouer par interdit"
+        },
+        "hin": {
+          "content_id": 709356,
+          "language": "hin",
+          "title": "सम्पूर्ण समर्पण "
+        },
+        "por": {
+          "content_id": 800296,
+          "language": "por",
+          "title": "Dedicação completa"
+        },
+        "swh": {
+          "content_id": 764984,
+          "language": "swh",
+          "title": "Kujitolea Kikamilifu"
+        },
+        "zht": {
+          "content_id": 700190,
+          "language": "zht",
+          "title": "完全的獻上"
+        }
+      }
+    },
+    "769420": {
+      "content_id": 769420,
+      "reference_id": 203153,
+      "index_reference": "pengrusakan total",
+      "localizations": {
+        "eng": {
+          "content_id": 500210,
+          "language": "eng",
+          "title": "Complete Destruction"
+        },
+        "arb": {
+          "content_id": 702217,
+          "language": "arb",
+          "title": "التحريم الكامل"
+        },
+        "fra": {
+          "content_id": 708423,
+          "language": "fra",
+          "title": "Destruction complète"
+        },
+        "hin": {
+          "content_id": 709382,
+          "language": "hin",
+          "title": "सम्पूर्ण विनाश "
+        },
+        "por": {
+          "content_id": 800322,
+          "language": "por",
+          "title": "Destruição completa"
+        },
+        "swh": {
+          "content_id": 765010,
+          "language": "swh",
+          "title": "Uharibifu Kamili"
+        },
+        "zht": {
+          "content_id": 700216,
+          "language": "zht",
+          "title": "毀滅淨盡"
+        }
+      }
+    },
+    "769554": {
+      "content_id": 769554,
+      "reference_id": 203287,
+      "index_reference": "penyembuh yang penuh belas kasihan",
+      "localizations": {
+        "eng": {
+          "content_id": 500344,
+          "language": "eng",
+          "title": "Compassionate Healer"
+        },
+        "arb": {
+          "content_id": 702351,
+          "language": "arb",
+          "title": "الشافي المتحنن"
+        },
+        "fra": {
+          "content_id": 708446,
+          "language": "fra",
+          "title": "La compassion de Jésus"
+        },
+        "hin": {
+          "content_id": 709516,
+          "language": "hin",
+          "title": "करुणामय चंगा करनेवाला"
+        },
+        "por": {
+          "content_id": 800456,
+          "language": "por",
+          "title": "O compassivo curador"
+        },
+        "swh": {
+          "content_id": 765144,
+          "language": "swh",
+          "title": "Mponyaji Mwenye Huruma"
+        },
+        "zht": {
+          "content_id": 700350,
+          "language": "zht",
+          "title": "憐憫的醫治者"
+        }
+      }
+    }
+  }
+}

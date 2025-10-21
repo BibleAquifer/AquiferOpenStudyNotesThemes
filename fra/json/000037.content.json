@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 708412,
+    "reference_id": 203119,
+    "title": "Identité communautaire",
+    "media_type": "Text",
+    "index_reference": "identité communautaire",
+    "language": "fra",
+    "content": "<p>Dans de nombreuses cultures occidentales, ce sont plus souvent les choix et les convictions individuels que la communauté qui déterminent l&apos;identité et les actions de chacun. L&apos;identité est principalement considérée comme individuelle et non communautaire. L&apos;individu est très indépendant de sa communauté.</p><p>En revanche, de nombreuses cultures orientales (p. ex. en Chine ou en Inde) privilégient les relations familiales et communautaires par rapport aux intérêts individuels. Il en était de même en Israël aux temps bibliques. L&apos;identité et l&apos;importance d&apos;une personne provenaient de son rôle dans la communauté. Tous les Israélites avaient une identité commune d&apos;« enfants d&apos;Israël » qui caractérisait et définissait le groupe en tant que tel.</p><p>Dans l&apos;AT, Dieu s&apos;adresse souvent à tout le peuple en parlant à chacun au singulier, car ces paroles s&apos;appliquaient à tous dans le groupe. De la même façon, les dix commandements et la bénédiction d&apos;Aaron utilisent un langage au singulier (<a href=\"https://ref.ly/Exod20:2-Exod20:17\">Ex 20.2–17</a> ; <a href=\"https://ref.ly/Num6:24-Num6:26\">Nb 6.24–26</a>). Une personne pouvait représenter le groupe, et le groupe pouvait avoir une personne comme représentant.</p><p>Par exemple, Néhémie demande pardon pour les péchés qui ont conduit à l&apos;exil babylonien, en confessant qu&apos;Israël a péché (<a href=\"https://ref.ly/Neh1:6-Neh1:7\">Né 1.6–7</a>). Néhémie est gouverneur de Judée de 445 à 433 av. J.‑C., soit environ 140 ans après la destruction de Jérusalem en 586 av. J.‑C. Pourtant, dans sa prière, il ne considère pas que cela ne le concerne pas en tant qu&apos;individu. Il fait partie du peuple d&apos;Israël et s&apos;identifie donc aux péchés de son peuple.</p><p>Ce n&apos;étaient pas juste les péchés des individus pour lesquels le souverain sacrificateur demandait le pardon de Dieu. Le Jour des Expiations, le pardon était recherché pour l&apos;impact collectif de tous les péchés des gens du peuple (<a href=\"https://ref.ly/Lev16:1-Lev16:34\">Lv 16</a>). D&apos;autres passages montrent que la communauté était tenue pour responsable si elle ne faisait rien lorsque des individus commettaient certains péchés (<a href=\"https://ref.ly/Lev4:3-Lev4:21\">Lv 4.3–21</a> ; <a href=\"https://ref.ly/Lev20:1-Lev20:5\">20.1–5</a>). </p><p>Dans le NT, Paul décrit la communauté chrétienne comme le « corps du Christ » (<a href=\"https://ref.ly/1Cor12:27\">1Co 12.27</a> ; <a href=\"https://ref.ly/Eph4:12\">Ep 4.12</a>). Les chrétiens sont membres de ce même corps. Tous les membres du corps partage la même identité de chrétien et sont unis en Christ par le Saint-Esprit. Ils sont frères et sœurs en Christ. Ils manifestent la vie du Christ en eux dans leurs propres vies et ensemble, le révèlent au monde. L&apos;apôtre Paul exhorte les chrétiens à « porter les fardeaux les uns des autres » et ainsi suivre l&apos;exemple du Christ (<a href=\"https://ref.ly/Gal6:2\">Ga 6.2</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Exod20:5-Exod20:6\">Exode 20.5–6</a>, <a href=\"https://ref.ly/Exod20:8-Exod20:10\">8–10</a> ; <a href=\"https://ref.ly/Lev4:3-Lev4:21\">Lévitique 4.3–21</a> ; <a href=\"https://ref.ly/Lev20:1-Lev20:5\">20.1–5</a> ; <a href=\"https://ref.ly/Josh7:1-Josh7:26\">Josué 7.1–26</a> ; <a href=\"https://ref.ly/Neh1:6-Neh1:7\">Néhémie 1.6–7</a> ; <a href=\"https://ref.ly/1Cor12:12-1Cor12:27\">1 Corinthiens 12.12–27</a> ; <a href=\"https://ref.ly/Gal6:2\">Galates 6.2</a> ; <a href=\"https://ref.ly/Eph4:11-Eph4:13\">Éphésiens 4.11–13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46012027",
+          "start_ref_usfm": "1CO 12:27",
+          "end_ref": "46012027",
+          "end_ref_usfm": "1CO 12:27"
+        },
+        {
+          "start_ref": "48006002",
+          "start_ref_usfm": "GAL 6:2",
+          "end_ref": "48006002",
+          "end_ref_usfm": "GAL 6:2"
+        },
+        {
+          "start_ref": "49004012",
+          "start_ref_usfm": "EPH 4:12",
+          "end_ref": "49004012",
+          "end_ref_usfm": "EPH 4:12"
+        },
+        {
+          "start_ref": "02020005",
+          "start_ref_usfm": "EXO 20:5",
+          "end_ref": "02020006",
+          "end_ref_usfm": "EXO 20:6"
+        },
+        {
+          "start_ref": "03016001",
+          "start_ref_usfm": "LEV 16:1",
+          "end_ref": "03016034",
+          "end_ref_usfm": "LEV 16:34"
+        },
+        {
+          "start_ref": "02020002",
+          "start_ref_usfm": "EXO 20:2",
+          "end_ref": "02020017",
+          "end_ref_usfm": "EXO 20:17"
+        },
+        {
+          "start_ref": "06007001",
+          "start_ref_usfm": "JOS 7:1",
+          "end_ref": "06007026",
+          "end_ref_usfm": "JOS 7:26"
+        },
+        {
+          "start_ref": "46012012",
+          "start_ref_usfm": "1CO 12:12",
+          "end_ref": "46012027",
+          "end_ref_usfm": "1CO 12:27"
+        },
+        {
+          "start_ref": "40011028",
+          "start_ref_usfm": "MAT 11:28",
+          "end_ref": "40011030",
+          "end_ref_usfm": "MAT 11:30"
+        },
+        {
+          "start_ref": "03020001",
+          "start_ref_usfm": "LEV 20:1",
+          "end_ref": "03020005",
+          "end_ref_usfm": "LEV 20:5"
+        },
+        {
+          "start_ref": "03004003",
+          "start_ref_usfm": "LEV 4:3",
+          "end_ref": "03004021",
+          "end_ref_usfm": "LEV 4:21"
+        },
+        {
+          "start_ref": "04006024",
+          "start_ref_usfm": "NUM 6:24",
+          "end_ref": "04006026",
+          "end_ref_usfm": "NUM 6:26"
+        },
+        {
+          "start_ref": "16001006",
+          "start_ref_usfm": "NEH 1:6",
+          "end_ref": "16001007",
+          "end_ref_usfm": "NEH 1:7"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004013",
+          "end_ref_usfm": "EPH 4:13"
+        },
+        {
+          "start_ref": "02020008",
+          "start_ref_usfm": "EXO 20:8",
+          "end_ref": "02020010",
+          "end_ref_usfm": "EXO 20:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

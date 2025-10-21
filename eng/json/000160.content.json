@@ -1,0 +1,154 @@
+[
+  {
+    "content_id": 500261,
+    "reference_id": 203204,
+    "title": "Psalms of Suffering",
+    "media_type": "Text",
+    "index_reference": "psalms of suffering",
+    "language": "eng",
+    "content": "<p>The four psalms of suffering (Psalms 16, 22, 40, and 69) describe the intense distress experienced by God&apos;s servant. They are also called &quot;Passion Psalms.&quot;</p><p><a href=\"https://ref.ly/Ps22:1-Ps22:31\">Psalm 22</a> uses some of the most powerful language about suffering in the psalms. In this psalm, God&apos;s servant suffers even though he is righteous. There is no mention of any sin, so the psalmist&apos;s suffering seems completely unfair. Despite being treated very badly, there is no prayer for revenge (see <a href=\"https://ref.ly/Ps137:1-Ps137:9\">Psalm 137</a>). </p><p>This psalm has important connections to Jesus’ death on the cross (for example, <a href=\"https://ref.ly/Ps22:6-Ps22:8\">Psalm 22:6–8</a>, <a href=\"https://ref.ly/Ps22:14-Ps22:18\">14–18</a>). In fact, Jesus quoted part of <a href=\"https://ref.ly/Ps22:1-Ps22:31\">Psalm 22</a> while hanging on the cross (<a href=\"https://ref.ly/Ps22:1\">22:1</a>; see <a href=\"https://ref.ly/Matt27:46\">Matthew 27:46</a>). The sinless Christ even prayed for those who killed him (<a href=\"https://ref.ly/Luke23:34\">Luke 23:34</a>).</p><p>Other psalms of suffering also became linked with Jesus. <a href=\"https://ref.ly/Ps16:10\">Psalm 16:10</a> anticipates Jesus’ victory over death (see <a href=\"https://ref.ly/Acts2:24-Acts2:31\">Acts 2:24–31</a>). <a href=\"https://ref.ly/Ps40:6-Ps40:8\">Psalm 40:6–8</a> suggests Jesus’ selfless, redemptive work (<a href=\"https://ref.ly/Heb10:5-Heb10:10\">Hebrews 10:5–10</a>). <a href=\"https://ref.ly/Ps69:1-Ps69:36\">Psalm 69</a> speaks of isolation because of commitment to God&apos;s cause (<a href=\"https://ref.ly/Ps69:8-Ps69:9\">69:8–9</a>). It also predicts the disciple Judas&apos; role in God&apos;s work through Christ (<a href=\"https://ref.ly/Ps69:25-Ps69:26\">69:25–26</a>; see <a href=\"https://ref.ly/Ps109:8\">Psalm 109:8</a>; <a href=\"https://ref.ly/Isa53:10\">Isaiah 53:10</a>; <a href=\"https://ref.ly/Acts1:20\">Acts 1:20</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ps16:1-Ps16:11\">Psalms 16</a>; <a href=\"https://ref.ly/Ps22:1-Ps22:31\">22</a>; <a href=\"https://ref.ly/Ps40:1-Ps40:17\">40</a>; <a href=\"https://ref.ly/Ps69:1-Ps69:36\">69</a>; <a href=\"https://ref.ly/Ps102:1-Ps102:28\">102</a>; <a href=\"https://ref.ly/Ps109:1-Ps109:31\">109</a>; <a href=\"https://ref.ly/Isa42:1-Isa42:9\">Isaiah 42:1–9</a>; <a href=\"https://ref.ly/Isa52:13-Isa53:12\">52:13–53:12</a>; <a href=\"https://ref.ly/Matt27:46\">Matthew 27:46</a>; <a href=\"https://ref.ly/Luke23:34\">Luke 23:34</a>; <a href=\"https://ref.ly/Heb10:5-Heb10:10\">Hebrews 10:5–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19016010",
+          "start_ref_usfm": "PSA 16:10",
+          "end_ref": "19016010",
+          "end_ref_usfm": "PSA 16:10"
+        },
+        {
+          "start_ref": "19022001",
+          "start_ref_usfm": "PSA 22:1",
+          "end_ref": "19022001",
+          "end_ref_usfm": "PSA 22:1"
+        },
+        {
+          "start_ref": "19109008",
+          "start_ref_usfm": "PSA 109:8",
+          "end_ref": "19109008",
+          "end_ref_usfm": "PSA 109:8"
+        },
+        {
+          "start_ref": "23053010",
+          "start_ref_usfm": "ISA 53:10",
+          "end_ref": "23053010",
+          "end_ref_usfm": "ISA 53:10"
+        },
+        {
+          "start_ref": "40027046",
+          "start_ref_usfm": "MAT 27:46",
+          "end_ref": "40027046",
+          "end_ref_usfm": "MAT 27:46"
+        },
+        {
+          "start_ref": "42023034",
+          "start_ref_usfm": "LUK 23:34",
+          "end_ref": "42023034",
+          "end_ref_usfm": "LUK 23:34"
+        },
+        {
+          "start_ref": "44001020",
+          "start_ref_usfm": "ACT 1:20",
+          "end_ref": "44001020",
+          "end_ref_usfm": "ACT 1:20"
+        },
+        {
+          "start_ref": "19022001",
+          "start_ref_usfm": "PSA 22:1",
+          "end_ref": "19022031",
+          "end_ref_usfm": "PSA 22:31"
+        },
+        {
+          "start_ref": "23052013",
+          "start_ref_usfm": "ISA 52:13",
+          "end_ref": "23053012",
+          "end_ref_usfm": "ISA 53:12"
+        },
+        {
+          "start_ref": "19040001",
+          "start_ref_usfm": "PSA 40:1",
+          "end_ref": "19040017",
+          "end_ref_usfm": "PSA 40:17"
+        },
+        {
+          "start_ref": "19109001",
+          "start_ref_usfm": "PSA 109:1",
+          "end_ref": "19109031",
+          "end_ref_usfm": "PSA 109:31"
+        },
+        {
+          "start_ref": "19016001",
+          "start_ref_usfm": "PSA 16:1",
+          "end_ref": "19016011",
+          "end_ref_usfm": "PSA 16:11"
+        },
+        {
+          "start_ref": "19040006",
+          "start_ref_usfm": "PSA 40:6",
+          "end_ref": "19040008",
+          "end_ref_usfm": "PSA 40:8"
+        },
+        {
+          "start_ref": "58010005",
+          "start_ref_usfm": "HEB 10:5",
+          "end_ref": "58010010",
+          "end_ref_usfm": "HEB 10:10"
+        },
+        {
+          "start_ref": "19137001",
+          "start_ref_usfm": "PSA 137:1",
+          "end_ref": "19137009",
+          "end_ref_usfm": "PSA 137:9"
+        },
+        {
+          "start_ref": "19102001",
+          "start_ref_usfm": "PSA 102:1",
+          "end_ref": "19102028",
+          "end_ref_usfm": "PSA 102:28"
+        },
+        {
+          "start_ref": "19069001",
+          "start_ref_usfm": "PSA 69:1",
+          "end_ref": "19069036",
+          "end_ref_usfm": "PSA 69:36"
+        },
+        {
+          "start_ref": "23042001",
+          "start_ref_usfm": "ISA 42:1",
+          "end_ref": "23042009",
+          "end_ref_usfm": "ISA 42:9"
+        },
+        {
+          "start_ref": "19022006",
+          "start_ref_usfm": "PSA 22:6",
+          "end_ref": "19022008",
+          "end_ref_usfm": "PSA 22:8"
+        },
+        {
+          "start_ref": "19022014",
+          "start_ref_usfm": "PSA 22:14",
+          "end_ref": "19022018",
+          "end_ref_usfm": "PSA 22:18"
+        },
+        {
+          "start_ref": "44002024",
+          "start_ref_usfm": "ACT 2:24",
+          "end_ref": "44002031",
+          "end_ref_usfm": "ACT 2:31"
+        },
+        {
+          "start_ref": "19069008",
+          "start_ref_usfm": "PSA 69:8",
+          "end_ref": "19069009",
+          "end_ref_usfm": "PSA 69:9"
+        },
+        {
+          "start_ref": "19069025",
+          "start_ref_usfm": "PSA 69:25",
+          "end_ref": "19069026",
+          "end_ref_usfm": "PSA 69:26"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

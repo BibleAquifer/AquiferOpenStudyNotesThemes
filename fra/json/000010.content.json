@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 708406,
+    "reference_id": 203100,
+    "title": "Babel : la dispersion des nations",
+    "media_type": "Text",
+    "index_reference": "babel : la dispersion des nations",
+    "language": "fra",
+    "content": "<p>L&apos;histoire de la tour de Babel explique comment les nations et les groupes ethniques ont été séparés par leurs langages et dispersés géographiquement. Après le déluge envoyé par Dieu pour juger l&apos;humanité corrompue, les êtres humains se sont à nouveau rebellés en construisant une tour pour toucher au ciel (<a href=\"https://ref.ly/Gen11:4\">Gn 11.4</a>). Au lieu d&apos;adorer Dieu, ils voulaient se faire un nom pour eux-mêmes et être unis dans leur orgueil sans Dieu. Voyant que ce projet allait amener plus de mal et de destruction, Dieu agit alors pour « confondre leur langage, » et les disperse « sur la face de toute la terre » (<a href=\"https://ref.ly/Gen11:7\">11.7</a>, <a href=\"https://ref.ly/Gen11:9\">9</a>).</p><p>Babel est l&apos;origine historique des différences et des malentendus entre peuples et nations qui ne peuvent pas comprendre les langues et les cultures des autres. Cette séparation entre les peuples de la terre ne commence à  s&apos;inverser qu&apos;avec l&apos;arrivée du Saint-Esprit à la Pentecôte (voir <a href=\"https://ref.ly/Acts2:1-Acts2:47\">Ac 2</a>).</p><p>Après la dispersion des nations à Babel, Dieu renouvelle son plan de salut pour l&apos;humanité à travers Abraham et ses descendants (<a href=\"https://ref.ly/Gen12:1-Gen12:9\">Gn 12.1–9</a>). Contrairement aux gens de Babel, Abraham était juste parce qu&apos;il avait « confiance en l’Éternel ». Il vivait par la foi en Dieu plutôt que dans l&apos;orgueil de ses propres projets (<a href=\"https://ref.ly/Gen15:6\">15.6</a>; <a href=\"https://ref.ly/Gen17:1\">17.1 </a>; <a href=\"https://ref.ly/Gen18:19\">18.19 </a>; <a href=\"https://ref.ly/Gen26:5\">26.5</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen11:1-Gen11:9\">Genèse 11.1–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011004",
+          "start_ref_usfm": "GEN 11:4",
+          "end_ref": "01011004",
+          "end_ref_usfm": "GEN 11:4"
+        },
+        {
+          "start_ref": "01011007",
+          "start_ref_usfm": "GEN 11:7",
+          "end_ref": "01011007",
+          "end_ref_usfm": "GEN 11:7"
+        },
+        {
+          "start_ref": "01011009",
+          "start_ref_usfm": "GEN 11:9",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015006",
+          "end_ref_usfm": "GEN 15:6"
+        },
+        {
+          "start_ref": "01017001",
+          "start_ref_usfm": "GEN 17:1",
+          "end_ref": "01017001",
+          "end_ref_usfm": "GEN 17:1"
+        },
+        {
+          "start_ref": "01018019",
+          "start_ref_usfm": "GEN 18:19",
+          "end_ref": "01018019",
+          "end_ref_usfm": "GEN 18:19"
+        },
+        {
+          "start_ref": "01026005",
+          "start_ref_usfm": "GEN 26:5",
+          "end_ref": "01026005",
+          "end_ref_usfm": "GEN 26:5"
+        },
+        {
+          "start_ref": "01011001",
+          "start_ref_usfm": "GEN 11:1",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "44002001",
+          "start_ref_usfm": "ACT 2:1",
+          "end_ref": "44002047",
+          "end_ref_usfm": "ACT 2:47"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

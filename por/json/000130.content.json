@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 800313,
+    "reference_id": 203144,
+    "title": "Herdando a terra",
+    "media_type": "Text",
+    "index_reference": "herdando a terra",
+    "language": "por",
+    "content": "<p>O mundo físico é ruim? São o espírito, a alma e a energia o verdadeiro bem que buscamos em nossa jornada de vida? Só seremos verdadeiramente espirituais e felizes quando estivermos livres de nossos corpos terrenos?</p><p>A Bíblia responde a estas e a perguntas semelhantes com um enfático &quot;Não!&quot; O universo, incluindo a terra e todas as criaturas vivas, veio das mãos habilidosas de um criador amoroso. Ele considerou isso &quot;muito bom&quot; (<a href=\"https://ref.ly/Gen1:31\">Gênesis 1.31</a>). Por causa do pecado humano, este mundo físico precisa de redenção. Pela graça de Deus, ele compartilhará da redenção de Deus no fim dos tempos (veja <a href=\"https://ref.ly/Rom8:19-Rom8:21\">Romanos 8.19–21</a>).</p><p>As escrituras destacam a bondade e a importância do mundo, enfatizando o que Deus diz sobre a terra. Toda a terra pertence a Deus. Deus removeu o povo cananeu da terra prometida devido à sua maldade. Ele trouxe Israel para aquela terra por causa de suas promessas aos patriarcas israelitas. Ele também deseja que os humanos cuidem da terra em harmonia com seu criador.</p><p>Na antiga Israel, cada família recebia uma porção para viver. A atribuição da terra por Deus, e não a terra em si, era o que ele confiava a eles para gerenciarem. Os pais passavam essa atribuição de terra para seus filhos como a principal parte das heranças familiares.</p><p>Seguindo esses princípios e as instruções de Deus, Josué dividiu a terra entre as tribos. As tribos, por sua vez, a dividiram entre clãs, famílias e lares individuais. O dom de Deus de gestão sobre uma porção específica de terra era, essencialmente, um presente de vida para cada lar.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen1:31\">Gênesis 1.31</a>; <a href=\"https://ref.ly/Gen12:7\">12.7</a>; <a href=\"https://ref.ly/Gen13:14-Gen13:17\">13.14–17</a>; <a href=\"https://ref.ly/Gen15:12-Gen15:21\">15.12–21</a>; <a href=\"https://ref.ly/Gen17:7-Gen17:8\">17.7–8</a>; <a href=\"https://ref.ly/Gen35:11-Gen35:13\">35.11–13</a>; <a href=\"https://ref.ly/Gen50:24\">50.24</a>; <a href=\"https://ref.ly/Josh13:1-Josh21:45\">Josué 13.1–21.45</a>; <a href=\"https://ref.ly/Ps37:9-Ps37:34\">Salmos 37.9–34</a>; <a href=\"https://ref.ly/Luke12:22-Luke12:34\">Lucas 12.22–34</a>; <a href=\"https://ref.ly/Luke16:9-Luke16:11\">16.9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001031",
+          "start_ref_usfm": "GEN 1:31",
+          "end_ref": "01001031",
+          "end_ref_usfm": "GEN 1:31"
+        },
+        {
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "01050024",
+          "start_ref_usfm": "GEN 50:24",
+          "end_ref": "01050024",
+          "end_ref_usfm": "GEN 50:24"
+        },
+        {
+          "start_ref": "01017007",
+          "start_ref_usfm": "GEN 17:7",
+          "end_ref": "01017008",
+          "end_ref_usfm": "GEN 17:8"
+        },
+        {
+          "start_ref": "45008019",
+          "start_ref_usfm": "ROM 8:19",
+          "end_ref": "45008021",
+          "end_ref_usfm": "ROM 8:21"
+        },
+        {
+          "start_ref": "01015012",
+          "start_ref_usfm": "GEN 15:12",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "06013001",
+          "start_ref_usfm": "JOS 13:1",
+          "end_ref": "06021045",
+          "end_ref_usfm": "JOS 21:45"
+        },
+        {
+          "start_ref": "42016009",
+          "start_ref_usfm": "LUK 16:9",
+          "end_ref": "42016011",
+          "end_ref_usfm": "LUK 16:11"
+        },
+        {
+          "start_ref": "01013014",
+          "start_ref_usfm": "GEN 13:14",
+          "end_ref": "01013017",
+          "end_ref_usfm": "GEN 13:17"
+        },
+        {
+          "start_ref": "42012022",
+          "start_ref_usfm": "LUK 12:22",
+          "end_ref": "42012034",
+          "end_ref_usfm": "LUK 12:34"
+        },
+        {
+          "start_ref": "01035011",
+          "start_ref_usfm": "GEN 35:11",
+          "end_ref": "01035013",
+          "end_ref_usfm": "GEN 35:13"
+        },
+        {
+          "start_ref": "19037009",
+          "start_ref_usfm": "PSA 37:9",
+          "end_ref": "19037034",
+          "end_ref_usfm": "PSA 37:34"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

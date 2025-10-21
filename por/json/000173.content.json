@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 800476,
+    "reference_id": 203307,
+    "title": "O clímax das escrituras",
+    "media_type": "Text",
+    "index_reference": "o clímax das escrituras",
+    "language": "por",
+    "content": "<p>A história do evangelho sobre os dois discípulos no caminho para Emaús é importante. Ela demonstra a vitória de Jesus sobre a morte e revela seu papel como o Messias (o eleito de Deus). Além disso, conecta-se com as profecias do Antigo Testamento sobre ele.</p><p>Os dois discípulos disseram ao seu companheiro de viagem desconhecido que Jesus era um grande profeta por causa de seus ensinamentos e milagres. Eles tinham esperança de que ele fosse o Messias. Quando os líderes judeus o prenderam e crucificaram, esses dois discípulos ficaram desesperados e desanimados.</p><p>Jesus os repreendeu por não lerem as escrituras com atenção. As escrituras sempre profetizaram o sofrimento do Messias. O apóstolo Lucas então descreve como Jesus guiou os dois discípulos pelas escrituras, esclarecendo-os e “começou a explicar todas as passagens das Escrituras Sagradas que falavam dele” (<a href=\"https://ref.ly/Luke24:27\">Lucas 24.27</a>).</p><p>Jesus não especifica quais passagens do Antigo Testamento falam sobre o sofrimento de Cristo. No entanto, outros trechos dos escritos de Lucas fazem referência a vários textos:</p><ul><li><p>Jesus é &quot;a pedra que os construtores rejeitaram&quot; que &quot;se tornou a pedra angular&quot; para um novo templo de Deus (<a href=\"https://ref.ly/Ps118:22\">Salmo 118.22</a>, citado em <a href=\"https://ref.ly/Luke20:17\">Lucas 20.17</a>);</p></li><li><p>Ele é o servo sofredor do Senhor, tratado como um criminoso comum (<a href=\"https://ref.ly/Isa53:12\">Isaías 53.12</a>, citado em <a href=\"https://ref.ly/Luke22:37\">Lucas 22.37</a>);</p></li><li><p>Seus oponentes zombam, insultam e cospem nele (<a href=\"https://ref.ly/Isa50:6\">Isaías 50.6</a>, sugerido em <a href=\"https://ref.ly/Luke18:32\">Lucas 18.32</a>);</p></li><li><p>Ele é o rei ungido rejeitado pelos líderes e pelo povo de Israel, mas declarado inocente por Deus (<a href=\"https://ref.ly/Ps2:1-Ps2:2\">Salmo 2.1–2</a>, citado em <a href=\"https://ref.ly/Acts4:25-Acts4:28\">Atos 4.25–28</a>);</p></li><li><p>Ele é o descendente do rei Davi que Deus não abandonará à sepultura (<a href=\"https://ref.ly/Ps16:8-Ps16:11\">Salmo 16.8–11</a>, citado em <a href=\"https://ref.ly/Acts2:25-Acts2:28\">Atos 2.25–28</a>).</p></li></ul><p>De acordo com <a href=\"https://ref.ly/Luke24:27\">Lucas 24.27</a>, Jesus revisou a história de Israel e mostrou como ela antecipa e alcança seu propósito (clímax) com Jesus, o Messias, agente de salvação de Deus. Isso é semelhante à forma como o apóstolo Paulo descreve Cristo como &quot;o fim da lei&quot; (<a href=\"https://ref.ly/Rom10:4\">Romanos 10.4</a>). Todas as escrituras do Antigo Testamento, incluindo a lei de Moisés, os profetas e os Salmos, mostram a história de salvação de Deus (<a href=\"https://ref.ly/Luke24:44\">Lucas 24.44</a>). Essa história alcança seu propósito na vida, morte e ressurreição de Jesus.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Luke24:13-Luke24:49\">Lucas 24.13–49</a>; <a href=\"https://ref.ly/Rom10:4\">Romanos 10.4.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19118022",
+          "start_ref_usfm": "PSA 118:22",
+          "end_ref": "19118022",
+          "end_ref_usfm": "PSA 118:22"
+        },
+        {
+          "start_ref": "23050006",
+          "start_ref_usfm": "ISA 50:6",
+          "end_ref": "23050006",
+          "end_ref_usfm": "ISA 50:6"
+        },
+        {
+          "start_ref": "23053012",
+          "start_ref_usfm": "ISA 53:12",
+          "end_ref": "23053012",
+          "end_ref_usfm": "ISA 53:12"
+        },
+        {
+          "start_ref": "42018032",
+          "start_ref_usfm": "LUK 18:32",
+          "end_ref": "42018032",
+          "end_ref_usfm": "LUK 18:32"
+        },
+        {
+          "start_ref": "42020017",
+          "start_ref_usfm": "LUK 20:17",
+          "end_ref": "42020017",
+          "end_ref_usfm": "LUK 20:17"
+        },
+        {
+          "start_ref": "42022037",
+          "start_ref_usfm": "LUK 22:37",
+          "end_ref": "42022037",
+          "end_ref_usfm": "LUK 22:37"
+        },
+        {
+          "start_ref": "42024027",
+          "start_ref_usfm": "LUK 24:27",
+          "end_ref": "42024027",
+          "end_ref_usfm": "LUK 24:27"
+        },
+        {
+          "start_ref": "42024044",
+          "start_ref_usfm": "LUK 24:44",
+          "end_ref": "42024044",
+          "end_ref_usfm": "LUK 24:44"
+        },
+        {
+          "start_ref": "45010004",
+          "start_ref_usfm": "ROM 10:4",
+          "end_ref": "45010004",
+          "end_ref_usfm": "ROM 10:4"
+        },
+        {
+          "start_ref": "44004025",
+          "start_ref_usfm": "ACT 4:25",
+          "end_ref": "44004028",
+          "end_ref_usfm": "ACT 4:28"
+        },
+        {
+          "start_ref": "19002001",
+          "start_ref_usfm": "PSA 2:1",
+          "end_ref": "19002002",
+          "end_ref_usfm": "PSA 2:2"
+        },
+        {
+          "start_ref": "19016008",
+          "start_ref_usfm": "PSA 16:8",
+          "end_ref": "19016011",
+          "end_ref_usfm": "PSA 16:11"
+        },
+        {
+          "start_ref": "44002025",
+          "start_ref_usfm": "ACT 2:25",
+          "end_ref": "44002028",
+          "end_ref_usfm": "ACT 2:28"
+        },
+        {
+          "start_ref": "42024013",
+          "start_ref_usfm": "LUK 24:13",
+          "end_ref": "42024049",
+          "end_ref_usfm": "LUK 24:49"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

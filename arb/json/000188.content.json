@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 702164,
+    "reference_id": 203100,
+    "title": "بابل: شتات الأمم",
+    "media_type": "Text",
+    "index_reference": "بابل: شتات الأمم",
+    "language": "arb",
+    "content": "<p>تشرح قصة برج بابل كيف أدَّت حواجز اللغة إلى تفريق الأُمم والجماعات العرقية، وتوزيعهم جغرافيًا. فبعد الطوفان الكبير، وبعد قضاء الله على جيل فاسد من البشر، عادت البشرية إلى التمرد، وبنوا برجًا &quot;<span>رَأْسُهُ بِٱلسَّمَاءِ</span>&quot; (<a href=\"https://ref.ly/Gen11:4\">تكوين 11:4</a>). فبدلًا من عبادة الله، أرادوا أن يُمجّدوا أنفسهم ويتحدوا بعيدًا عن الله. رأى الله أن هذا التصرّف يعكس غرورًا واستقلالًا خطيرًا، قد يؤدي إلى عودتهم إلى الشر والدمار. لذلك، قرر الله قائلًا: &quot;نُبَلبِل<span> هُنَاكَ لِسَانَهُمْ</span>&quot;، و&quot;<span>بَدَّدَهُمُ ٱلرَّبُّ عَلَى وَجْهِ كُلِّ ٱلْأَرْضِ.</span>&quot; (<a href=\"https://ref.ly/Gen11:7\">11:7</a>, <a href=\"https://ref.ly/Gen11:9\">9</a>).</p><p>بابل تمثل بداية الاختلافات وسوء الفهم بين الشعوب والأمم بسبب عدم قدرتهم علي فهم لغات وثقافات بعضهم البعض. هذا الانفصال بدأ يتغير فقط عند مجيء  ٱلرّوح القدوس (انظر <a href=\"https://ref.ly/Acts2:1-Acts2:47\">أعمال الرسل 2</a>).</p><p>بعد أن تفرقت الأمم في بابل، جدد الله علاقته مع البشر من خلال إبراهيم ونسله (<a href=\"https://ref.ly/Gen12:1-Gen12:9\">تكوين 12:1–9</a>). فعلى خلاف أهل بابل، كان إبراهيم بارًا لأنه &quot;<span>آمَنَ بِٱلرَّبِّ</span>.&quot; لقد عاش بالإيمان بالله، وليس بالفخر بإنجازاته (<a href=\"https://ref.ly/Gen15:6\">15:6</a>; <a href=\"https://ref.ly/Gen17:1\">17:1</a>; <a href=\"https://ref.ly/Gen18:19\">18:19</a>; <a href=\"https://ref.ly/Gen26:5\">26:5</a>).</p><p><u>مقاطع إضافية للدراسة</u></p><p><a href=\"https://ref.ly/Gen11:1-Gen11:9\">تكوين 11:1–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011004",
+          "start_ref_usfm": "GEN 11:4",
+          "end_ref": "01011004",
+          "end_ref_usfm": "GEN 11:4"
+        },
+        {
+          "start_ref": "01011007",
+          "start_ref_usfm": "GEN 11:7",
+          "end_ref": "01011007",
+          "end_ref_usfm": "GEN 11:7"
+        },
+        {
+          "start_ref": "01011009",
+          "start_ref_usfm": "GEN 11:9",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015006",
+          "end_ref_usfm": "GEN 15:6"
+        },
+        {
+          "start_ref": "01017001",
+          "start_ref_usfm": "GEN 17:1",
+          "end_ref": "01017001",
+          "end_ref_usfm": "GEN 17:1"
+        },
+        {
+          "start_ref": "01018019",
+          "start_ref_usfm": "GEN 18:19",
+          "end_ref": "01018019",
+          "end_ref_usfm": "GEN 18:19"
+        },
+        {
+          "start_ref": "01026005",
+          "start_ref_usfm": "GEN 26:5",
+          "end_ref": "01026005",
+          "end_ref_usfm": "GEN 26:5"
+        },
+        {
+          "start_ref": "01011001",
+          "start_ref_usfm": "GEN 11:1",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "44002001",
+          "start_ref_usfm": "ACT 2:1",
+          "end_ref": "44002047",
+          "end_ref_usfm": "ACT 2:47"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

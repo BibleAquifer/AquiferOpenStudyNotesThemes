@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 500303,
+    "reference_id": 203246,
+    "title": "Invasion",
+    "media_type": "Text",
+    "index_reference": "invasion",
+    "language": "eng",
+    "content": "<p>In the ancient world, foreign invasions were common. They caused great difficulty. If invaders succeeded, they brought destruction and suffering. Victorious invaders killed adult men, raped women, enslaved children, stole valuables, and destroyed everything else. The threat of invasion made the people afraid.</p><p>In the final decades of the kingdom, the people of Judah and Jerusalem lived under the threat of Babylon&apos;s conquest. Over a century earlier, the Assyrians had destroyed the northern kingdom of Israel, invaded Judah, and attacked Jerusalem. These events stayed clearly in the memories of the people of Judah. The prophet Jeremiah warned of another coming invasion and the destruction it would cause.</p><p>When invasion threatened, people wanted to find ways to avoid the coming suffering. Prophets like Jeremiah urged God&apos;s people to abandon false gods and obey the Lord. They advised against relying on powerful allies for rescue. Instead, they encouraged seeking the Lord&apos;s protection. </p><p>The prophets sometimes described in detail what would happen during an invasion. Their goal was not to scare or discourage God&apos;s people. God sent them to encourage obedience to him. They wanted people to trust in the Lord for salvation and experience his rescue. This is how King Hezekiah reacted to the Assyrian invasion a century earlier. He trusted the Lord, and the Lord rescued him and his people.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen14:1-Gen14:16\">Genesis 14:1–16</a>; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2 Kings 17:5–23</a>; <a href=\"https://ref.ly/2Kgs18:13-2Kgs19:37\">18:13–19:37</a>; <a href=\"https://ref.ly/Isa6:8-Isa6:13\">Isaiah 6:8–13</a>; <a href=\"https://ref.ly/Isa36:1-Isa37:38\">36:1–37:38</a>; <a href=\"https://ref.ly/Isa65:21-Isa65:23\">65:21–23</a>; <a href=\"https://ref.ly/Jer6:22-Jer6:26\">Jeremiah 6:22–26</a>; <a href=\"https://ref.ly/Jer19:7-Jer19:15\">19:7–15</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "12018013",
+          "start_ref_usfm": "2KI 18:13",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23037038",
+          "end_ref_usfm": "ISA 37:38"
+        },
+        {
+          "start_ref": "12017005",
+          "start_ref_usfm": "2KI 17:5",
+          "end_ref": "12017023",
+          "end_ref_usfm": "2KI 17:23"
+        },
+        {
+          "start_ref": "23006008",
+          "start_ref_usfm": "ISA 6:8",
+          "end_ref": "23006013",
+          "end_ref_usfm": "ISA 6:13"
+        },
+        {
+          "start_ref": "23065021",
+          "start_ref_usfm": "ISA 65:21",
+          "end_ref": "23065023",
+          "end_ref_usfm": "ISA 65:23"
+        },
+        {
+          "start_ref": "24006022",
+          "start_ref_usfm": "JER 6:22",
+          "end_ref": "24006026",
+          "end_ref_usfm": "JER 6:26"
+        },
+        {
+          "start_ref": "24019007",
+          "start_ref_usfm": "JER 19:7",
+          "end_ref": "24019015",
+          "end_ref_usfm": "JER 19:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

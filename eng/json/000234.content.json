@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 500421,
+    "reference_id": 203364,
+    "title": "The Last Things and the Thessalonians",
+    "media_type": "Text",
+    "index_reference": "the last things and the thessalonians",
+    "language": "eng",
+    "content": "<p>The Christians in Thessalonica eagerly accepted the apostle Paul&apos;s teachings about the day of the Lord and Jesus&apos; second coming. Yet, this led to questions and guesses about the end of time. </p><p>They wondered what would happen to Christians who died before Jesus returned (<a href=\"https://ref.ly/1Thess4:13-1Thess4:18\">1 Thessalonians 4:13–18</a>). They also asked when &quot;<span>the Day of the Lord&quot;</span> would come (<a href=\"https://ref.ly/1Thess5:1-1Thess5:11\">5:1–11</a>). They wondered if Christians would experience God&apos;s wrath (<a href=\"https://ref.ly/1Thess1:10\">1:10</a>; <a href=\"https://ref.ly/1Thess5:9\">5:9</a>). Paul reassures the church by explaining these topics and reminding them of the teachings they had already received (<a href=\"https://ref.ly/1Thess4:13-1Thess5:11\">4:13–5:11</a>).</p><p>Paul probably expected Jesus to return during his lifetime (<a href=\"https://ref.ly/1Thess4:15\">4:15</a>). Yet, he also knew the final event would occur unexpectedly, “like a thief in the night” (<a href=\"https://ref.ly/1Thess5:2\">5:2</a>). The way to be ready for the end is not by knowing the date but by living with Christian alertness. This means keeping a constant spiritual watchfulness and being ready to meet Jesus.</p><p>The Thessalonians needed to understand the deaths of fellow Christians. Paul does not discuss the state of Christians between their death and Jesus&apos; return. Instead, he focuses on the resurrection. Just as God raised Jesus from the dead, Christians who die will also be raised when he returns. They will rise from the dead first, then join the living Christians to meet Jesus at his royal coming.</p><p>Paul tried to explain the Christian hope. But the Thessalonian Christians became confused by false teachings that said, &quot;<span>the Day of the Lord has already come&quot;</span> (see <a href=\"https://ref.ly/2Thess2:2\">2 Thessalonians 2:2</a>). To correct this misunderstanding, Paul discussed this topic further in his second letter to the young church (see <a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Thessalonians 2:1–12</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Mark13:1-Mark13:37\">Mark 13:1–37</a>; <a href=\"https://ref.ly/1Thess4:13-1Thess5:11\">1 Thessalonians 4:13–5:11</a>; <a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Thessalonians 2:1–12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "52001010",
+          "start_ref_usfm": "1TH 1:10",
+          "end_ref": "52001010",
+          "end_ref_usfm": "1TH 1:10"
+        },
+        {
+          "start_ref": "52004015",
+          "start_ref_usfm": "1TH 4:15",
+          "end_ref": "52004015",
+          "end_ref_usfm": "1TH 4:15"
+        },
+        {
+          "start_ref": "52005002",
+          "start_ref_usfm": "1TH 5:2",
+          "end_ref": "52005002",
+          "end_ref_usfm": "1TH 5:2"
+        },
+        {
+          "start_ref": "52005009",
+          "start_ref_usfm": "1TH 5:9",
+          "end_ref": "52005009",
+          "end_ref_usfm": "1TH 5:9"
+        },
+        {
+          "start_ref": "53002002",
+          "start_ref_usfm": "2TH 2:2",
+          "end_ref": "53002002",
+          "end_ref_usfm": "2TH 2:2"
+        },
+        {
+          "start_ref": "41013001",
+          "start_ref_usfm": "MRK 13:1",
+          "end_ref": "41013037",
+          "end_ref_usfm": "MRK 13:37"
+        },
+        {
+          "start_ref": "52004013",
+          "start_ref_usfm": "1TH 4:13",
+          "end_ref": "52004018",
+          "end_ref_usfm": "1TH 4:18"
+        },
+        {
+          "start_ref": "52005001",
+          "start_ref_usfm": "1TH 5:1",
+          "end_ref": "52005011",
+          "end_ref_usfm": "1TH 5:11"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "52004013",
+          "start_ref_usfm": "1TH 4:13",
+          "end_ref": "52005011",
+          "end_ref_usfm": "1TH 5:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

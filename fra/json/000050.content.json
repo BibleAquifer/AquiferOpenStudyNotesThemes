@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 708457,
+    "reference_id": 203361,
+    "title": "La joie du chrétien",
+    "media_type": "Text",
+    "index_reference": "la joie du chrétien",
+    "language": "fra",
+    "content": "<p>Dans les dernières heures de sa vie, Jésus a dit qu&apos;il voulait que ses disciples aient sa joie en eux et que leur joie soit parfaite (voir <a href=\"https://ref.ly/John15:11\">Jn 15.11</a> ; <a href=\"https://ref.ly/John16:20-John16:24\">16.20–24</a>). La joie est un sujet qui revient dans plusieurs des lettres de l&apos;apôtre Paul, particulièrement dans l&apos;épître aux Philippiens. Paul encourage souvent les chrétiens à se réjouir dans le Seigneur, surtout ceux étaient persécutés, comme les chrétiens de Philippes et de Thessalonique (<a href=\"https://ref.ly/Phil3:1\">Ph 3.1</a> ; <a href=\"https://ref.ly/Phil4:4\">4.4</a> ; <a href=\"https://ref.ly/1Thess5:16\">1Th 5.16</a>).</p><p>La joie superficielle dépend des circonstances. La joie en Christ est différente. Sa source est la relation du chrétien avec le Seigneur. Cette joie reste donc constante même face à la souffrance et à la mort. Cette joie vient du fait de savoir que, quoi qu&apos;il arrive, Dieu fera tout concourir au bien de ceux qui l&apos;aiment (voir <a href=\"https://ref.ly/Rom5:3-Rom5:4\">Rm 5.3–4</a> ; <a href=\"https://ref.ly/Rom8:28\">8.28</a>).</p><p>La source de la joie du chrétien vient également de la présence et de l&apos;œuvre de l&apos;Esprit de Dieu dans son cœur (voir <a href=\"https://ref.ly/Gal5:22\">Ga 5.22</a>). Le véritable secret d&apos;une vie joyeuse est « d&apos;être rempli du Saint-Esprit » (voir <a href=\"https://ref.ly/Eph5:18\">Ep 5.18</a>). La relation du chrétien avec Dieu est ce qui façonne ses attitudes plutôt que les circonstances extérieures et passagères.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/John15:11\">Jean 15.11</a> ; <a href=\"https://ref.ly/John16:24\">16.24</a> ; <a href=\"https://ref.ly/Rom5:3-Rom5:4\">Romains 5.3–4</a> ; <a href=\"https://ref.ly/Rom8:28\">8.28</a> ; <a href=\"https://ref.ly/Gal5:22\">Galates 5.22</a> ; <a href=\"https://ref.ly/Eph5:18\">Éphésiens 5.18</a> ; <a href=\"https://ref.ly/Phil3:1\">Philippiens 3.1</a> ; <a href=\"https://ref.ly/Phil4:4\">4.4</a> ; <a href=\"https://ref.ly/1Thess5:16\">1 Thessaloniciens 5.16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43015011",
+          "start_ref_usfm": "JHN 15:11",
+          "end_ref": "43015011",
+          "end_ref_usfm": "JHN 15:11"
+        },
+        {
+          "start_ref": "43016024",
+          "start_ref_usfm": "JHN 16:24",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "48005022",
+          "start_ref_usfm": "GAL 5:22",
+          "end_ref": "48005022",
+          "end_ref_usfm": "GAL 5:22"
+        },
+        {
+          "start_ref": "49005018",
+          "start_ref_usfm": "EPH 5:18",
+          "end_ref": "49005018",
+          "end_ref_usfm": "EPH 5:18"
+        },
+        {
+          "start_ref": "50003001",
+          "start_ref_usfm": "PHP 3:1",
+          "end_ref": "50003001",
+          "end_ref_usfm": "PHP 3:1"
+        },
+        {
+          "start_ref": "50004004",
+          "start_ref_usfm": "PHP 4:4",
+          "end_ref": "50004004",
+          "end_ref_usfm": "PHP 4:4"
+        },
+        {
+          "start_ref": "52005016",
+          "start_ref_usfm": "1TH 5:16",
+          "end_ref": "52005016",
+          "end_ref_usfm": "1TH 5:16"
+        },
+        {
+          "start_ref": "45005003",
+          "start_ref_usfm": "ROM 5:3",
+          "end_ref": "45005004",
+          "end_ref_usfm": "ROM 5:4"
+        },
+        {
+          "start_ref": "43016020",
+          "start_ref_usfm": "JHN 16:20",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

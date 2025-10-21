@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 734194,
+    "reference_id": 203176,
+    "title": "Le nom de Dieu et son Temple",
+    "media_type": "Text",
+    "index_reference": "le nom de dieu et son temple",
+    "language": "fra",
+    "content": "<p>Dans sa prière de dédicace du Temple, le roi Salomon demande que le Temple soit la maison où serait le nom de Dieu (<a href=\"https://ref.ly/2Chr6:20\">2Ch 6.20</a> ; voir aussi <a href=\"https://ref.ly/2Chr6:5-2Chr6:6\">6.5–6</a>). Dieu avait dit que le fils du roi David bâtirait une maison au nom de Dieu à Jérusalem (<a href=\"https://ref.ly/2Sam7:4-2Sam7:17\">2S 7.4–17</a>). </p><p>Quand Dieu met son nom sur un lieu, cela indique qu&apos;il l&apos;a choisi pour en faire un lieu particulièrement important dans sa relation avec son peuple. Salomon prie pour qu&apos;il se souvienne spécialement de cette relation quand son peuple priera au Temple.</p><p>Dans plusieurs versions françaises, le nom personnel de Dieu (YWHW) est traduit «&nbsp;l&apos;Éternel&nbsp;» ou «&nbsp;SEIGNEUR&nbsp;» tout en majuscules. La présence du nom de Dieu au Temple faisait de ce lieu le principal symbole de la foi d&apos;Israël. Le Temple est alors devenu le lieu principal pour l&apos;adoration et les sacrifices conformément à l&apos;alliance avec Dieu. </p><p>La promesse de la présence du nom de Dieu dans son Temple s&apos;accomplit à présent différemment. L&apos;apôtre Pierre exhorte les croyants ainsi&nbsp;: « Approchez-vous de lui, <span>pierre vivante, rejetée par les hommes, mais choisie et précieuse devant Dieu ; et vous-mêmes, comme des pierres vivantes, édifiez vous pour former une maison spirituelle, un saint sacerdoce, afin d’offrir des victimes spirituelles, agréables à Dieu par Jésus-Christ</span> » (<a href=\"https://ref.ly/1Pet2:4-1Pet2:5\">1P 2.4–5</a>).</p><p>Tout comme le nom de Dieu était lié au Temple, centre de la présence de Dieu et de son culte dans l&apos;Ancien Testament, le nom de Dieu repose maintenant sur l&apos;Église, le peuple de Dieu et nouveau temple dans le Nouveau Testament.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Exod3:13-Exod3:15\">Exode 3.13–15</a> ; <a href=\"https://ref.ly/2Sam7:12-2Sam7:13\">2 Samuel 7.12–13</a> ; <a href=\"https://ref.ly/2Chr6:3-2Chr6:42\">2 Chroniques 6.3–42</a> ; <a href=\"https://ref.ly/Ps23:3\">Psaume 23.3</a> ; <a href=\"https://ref.ly/1Pet2:4-1Pet2:5\">1 Pierre 2.4–5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14006020",
+          "start_ref_usfm": "2CH 6:20",
+          "end_ref": "14006020",
+          "end_ref_usfm": "2CH 6:20"
+        },
+        {
+          "start_ref": "19023003",
+          "start_ref_usfm": "PSA 23:3",
+          "end_ref": "19023003",
+          "end_ref_usfm": "PSA 23:3"
+        },
+        {
+          "start_ref": "60002004",
+          "start_ref_usfm": "1PE 2:4",
+          "end_ref": "60002005",
+          "end_ref_usfm": "1PE 2:5"
+        },
+        {
+          "start_ref": "10007004",
+          "start_ref_usfm": "2SA 7:4",
+          "end_ref": "10007017",
+          "end_ref_usfm": "2SA 7:17"
+        },
+        {
+          "start_ref": "10007012",
+          "start_ref_usfm": "2SA 7:12",
+          "end_ref": "10007013",
+          "end_ref_usfm": "2SA 7:13"
+        },
+        {
+          "start_ref": "14006005",
+          "start_ref_usfm": "2CH 6:5",
+          "end_ref": "14006006",
+          "end_ref_usfm": "2CH 6:6"
+        },
+        {
+          "start_ref": "02003013",
+          "start_ref_usfm": "EXO 3:13",
+          "end_ref": "02003015",
+          "end_ref_usfm": "EXO 3:15"
+        },
+        {
+          "start_ref": "14006003",
+          "start_ref_usfm": "2CH 6:3",
+          "end_ref": "14006042",
+          "end_ref_usfm": "2CH 6:42"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

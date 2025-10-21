@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 702313,
+    "reference_id": 203249,
+    "title": "رب الأمم",
+    "media_type": "Text",
+    "index_reference": "رب الأمم",
+    "language": "arb",
+    "content": "<p>ينص كل من العهد القديم والعهد الجديد على أن الرب هو الإله الواحد الحقيقي. الله عليّ فوق جميع الأمم والشعوب في جميع الأوقات. حتى زإن لم يؤمن الحكام به أو يعترفون بسلطانه، يظل الله المتحكم. قد يظن الملوك والأباطرة أنهم يتحكمون في كل شيء في أراضيهم، لكنهم مخطئون. فالرب الإله هو المسيطر في النهاية.</p><p>ذكر أنبياء العهد القديم أن الرب إله إسرائيل اختار ملوك كل أمة وأباطرتها. وحاسب الله الحكام على أخلاقيات سياساتهم وكيفية ممارستهم لها. تتضح هذه الفكرة في <a href=\"https://ref.ly/Jer18:1-Jer18:23\">إرميا 18</a>، <a href=\"https://ref.ly/Jer25:1-Jer25:38\">25</a>، و<a href=\"https://ref.ly/Jer46:1-Jer51:64\">46–51</a>.</p><p>الأمم التي لم تعترف بالإله الواحد الحقيقي واجهت عقابًا شديدًا. بالنسبة لبعض الأمم، وعد الله بأن مجموعة صغيرة (تُعرف بالبقية) ستنجو (انظر <a href=\"https://ref.ly/Jer46:1-Jer51:64\">إرميا 46–51</a>).</p><p>يرغب الرب في أن يأتي إليه البشر من كل أمة ويتبعوه بقلوب صادقة وتكريس كامل. لقد أراد دائمًا أن يعيش جميع الناس حياة بارة ويختبرون فرحة عبادته الحقيقية. يصف سفر الرؤيا الناس من كل أمة، وقبيلة، ولسان يعبدون الله في المستقبل (<a href=\"https://ref.ly/Rev7:9-Rev7:10\">رؤيا 7:9–10</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Exod8:20-Exod8:22\">خروج 8:20–22</a>; <a href=\"https://ref.ly/Exod9:29\">9:29</a>; <a href=\"https://ref.ly/2Kgs19:22-2Kgs19:37\">2 ملوك 19:22–37</a>; <a href=\"https://ref.ly/Jer18:5-Jer18:11\">إرميا 18:5–11</a>; <a href=\"https://ref.ly/Jer25:15-Jer25:29\">25:15–29</a>; <a href=\"https://ref.ly/Jer46:1-Jer51:64\">46:1–51:64</a>; <a href=\"https://ref.ly/Dan2:19-Dan2:21\">دانيال 2:19–21</a>; <a href=\"https://ref.ly/Dan4:34-Dan4:37\">4:34–37</a>; <a href=\"https://ref.ly/Hag2:7\">حجي 2:7</a>; <a href=\"https://ref.ly/Matt28:18-Matt28:20\">متى 28:18–20</a>; <a href=\"https://ref.ly/Acts12:21-Acts12:23\">أعمال الرسل 12:21–23</a>; <a href=\"https://ref.ly/Rom13:1-Rom13:7\">رومية 13:1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02009029",
+          "start_ref_usfm": "EXO 9:29",
+          "end_ref": "02009029",
+          "end_ref_usfm": "EXO 9:29"
+        },
+        {
+          "start_ref": "37002007",
+          "start_ref_usfm": "HAG 2:7",
+          "end_ref": "37002007",
+          "end_ref_usfm": "HAG 2:7"
+        },
+        {
+          "start_ref": "44012021",
+          "start_ref_usfm": "ACT 12:21",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        },
+        {
+          "start_ref": "40028018",
+          "start_ref_usfm": "MAT 28:18",
+          "end_ref": "40028020",
+          "end_ref_usfm": "MAT 28:20"
+        },
+        {
+          "start_ref": "24046001",
+          "start_ref_usfm": "JER 46:1",
+          "end_ref": "24051064",
+          "end_ref_usfm": "JER 51:64"
+        },
+        {
+          "start_ref": "24018001",
+          "start_ref_usfm": "JER 18:1",
+          "end_ref": "24018023",
+          "end_ref_usfm": "JER 18:23"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        },
+        {
+          "start_ref": "27004034",
+          "start_ref_usfm": "DAN 4:34",
+          "end_ref": "27004037",
+          "end_ref_usfm": "DAN 4:37"
+        },
+        {
+          "start_ref": "24025001",
+          "start_ref_usfm": "JER 25:1",
+          "end_ref": "24025038",
+          "end_ref_usfm": "JER 25:38"
+        },
+        {
+          "start_ref": "66007009",
+          "start_ref_usfm": "REV 7:9",
+          "end_ref": "66007010",
+          "end_ref_usfm": "REV 7:10"
+        },
+        {
+          "start_ref": "02008020",
+          "start_ref_usfm": "EXO 8:20",
+          "end_ref": "02008022",
+          "end_ref_usfm": "EXO 8:22"
+        },
+        {
+          "start_ref": "12019022",
+          "start_ref_usfm": "2KI 19:22",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "24018005",
+          "start_ref_usfm": "JER 18:5",
+          "end_ref": "24018011",
+          "end_ref_usfm": "JER 18:11"
+        },
+        {
+          "start_ref": "24025015",
+          "start_ref_usfm": "JER 25:15",
+          "end_ref": "24025029",
+          "end_ref_usfm": "JER 25:29"
+        },
+        {
+          "start_ref": "27002019",
+          "start_ref_usfm": "DAN 2:19",
+          "end_ref": "27002021",
+          "end_ref_usfm": "DAN 2:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

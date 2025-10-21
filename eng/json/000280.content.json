@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 500448,
+    "reference_id": 203391,
+    "title": "The Worship of Angels",
+    "media_type": "Text",
+    "index_reference": "the worship of angels",
+    "language": "eng",
+    "content": "<p>Scripture often describes angels as beings that inspire awe or fear (for example, <a href=\"https://ref.ly/Josh5:13-Josh5:15\">Joshua 5:13–15</a>; <a href=\"https://ref.ly/Luke2:8-Luke2:10\">Luke 2:8–10</a>). Yet, angels serve God and he does not allow people to worship them (<a href=\"https://ref.ly/Heb1:5-Heb1:14\">Hebrews 1:5–14</a>; <a href=\"https://ref.ly/Rev19:10\">Revelation 19:10</a>). Jewish tradition developed the idea of angels as mediators (those who connect others to God). In pre-Christian Judaism, people emphasized God&apos;s <em>transcendence</em> or &quot;otherness&quot; so much that they believed mediators were necessary to communicate with him. In this context, angels became more important.</p><p>For Christians, Jesus has a unique role as mediator between God and humans.  Focusing on angels or deceased saints as ways to communicate with God can distract from honoring Jesus as the only necessary mediator (<a href=\"https://ref.ly/1Tim2:5-1Tim2:6\">1 Timothy 2:5–6</a>; see also <a href=\"https://ref.ly/2Cor5:19-2Cor5:21\">2 Corinthians 5:19–21</a>; <a href=\"https://ref.ly/Heb7:24-Heb7:25\">Hebrews 7:24–25</a>). God still uses angelic messengers, but they are creatures serving him, not divine beings to worship. Only God deserves our prayers and worship.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts27:23-Acts27:24\">Acts 27:23–24</a>; <a href=\"https://ref.ly/2Cor5:19-2Cor5:21\">2 Corinthians 5:19–21</a>; <a href=\"https://ref.ly/1Tim2:5-1Tim2:6\">1 Timothy 2:5–6</a>; <a href=\"https://ref.ly/Heb1:5-Heb1:14\">Hebrews 1:5–14</a>; <a href=\"https://ref.ly/Heb7:24-Heb7:25\">7:24–25</a>; <a href=\"https://ref.ly/Rev19:10\">Revelation 19:10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "66019010",
+          "start_ref_usfm": "REV 19:10",
+          "end_ref": "66019010",
+          "end_ref_usfm": "REV 19:10"
+        },
+        {
+          "start_ref": "58007024",
+          "start_ref_usfm": "HEB 7:24",
+          "end_ref": "58007025",
+          "end_ref_usfm": "HEB 7:25"
+        },
+        {
+          "start_ref": "06005013",
+          "start_ref_usfm": "JOS 5:13",
+          "end_ref": "06005015",
+          "end_ref_usfm": "JOS 5:15"
+        },
+        {
+          "start_ref": "54002005",
+          "start_ref_usfm": "1TI 2:5",
+          "end_ref": "54002006",
+          "end_ref_usfm": "1TI 2:6"
+        },
+        {
+          "start_ref": "58001005",
+          "start_ref_usfm": "HEB 1:5",
+          "end_ref": "58001014",
+          "end_ref_usfm": "HEB 1:14"
+        },
+        {
+          "start_ref": "44027023",
+          "start_ref_usfm": "ACT 27:23",
+          "end_ref": "44027024",
+          "end_ref_usfm": "ACT 27:24"
+        },
+        {
+          "start_ref": "47005019",
+          "start_ref_usfm": "2CO 5:19",
+          "end_ref": "47005021",
+          "end_ref_usfm": "2CO 5:21"
+        },
+        {
+          "start_ref": "42002008",
+          "start_ref_usfm": "LUK 2:8",
+          "end_ref": "42002010",
+          "end_ref_usfm": "LUK 2:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

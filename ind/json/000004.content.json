@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 769405,
+    "reference_id": 203138,
+    "title": "Kutuk dan Berkat",
+    "media_type": "Text",
+    "index_reference": "kutuk dan berkat",
+    "language": "ind",
+    "content": "<p>Hampir semua teks kesepakatan atau perjanjian dari Timur Dekat kuno menyertakan kutuk dan berkat. Kutuk difokuskan kepada mereka yang melanggar ketentuan perjanjian. Berkat diberikan kepada mereka yang tetap setia. Hal ini terutama berlaku untuk perjanjian <em>suzerain-vassal</em> (raja agung-raja bawahan atau rakyat) seperti yang terdapat dalam kitab Ulangan (lihat <span data-bnType=\"resourceReference\" data-resourceId=\"Deut_BookIntro_Filament\" data-resourceType=\"UNKNOWN\">Pengantar Kitab Ulangan</span>, “Bentuk Sastra”).</p><p>Kitab Ulangan menjelaskan kepada orang-orang Israel apa yang diharapkan Allah dari mereka. Perjanjian tersebut mengharuskan Israel untuk menaati Allah. Bangsa Israel berjanji untuk melakukan hal ini (<a href=\"https://ref.ly/Exod19:8\">Kel. 19:8</a>). Bagian tentang kutuk dan berkat menjelaskan bagaimana Allah akan memberikan upah atas ketaatan dan menghukum ketidaktaatan (<a href=\"https://ref.ly/Deut27:1-Deut29:1\">Ul. 27:1–29:1</a>).</p><p>Teks ini menekankan kutuk daripada berkat. Hal ini mungkin karena orang-orang cenderung lebih fokus pada janji daripada peringatan. Berkat seringkali lebih mudah dipahami. Hal ini karena berkat menjanjikan keselamatan di masa depan. Penghakiman kurang jelas dan memerlukan penjelasan yang lebih terperinci.</p><p>Allah menekankan kutuk untuk berfokus pada konsekuensi dari kesalahan. Peringatan yang diberikan Yesus tentang peristiwa-peristiwa masa depan sejalan dengan peringatan ini (<a href=\"https://ref.ly/Matt24:1-Matt25:46\">Mat. 24–25</a>).</p><p>Sejarah Israel menunjukkan bagaimana Allah menggenapi janji-Nya tentang berkat dan kutuk. Ketika Israel mematuhi perjanjian mereka dengan Allah, Dia memberkati mereka. Ketika mereka memberontak, Dia menghakimi mereka. Pemberontakan Israel dirangkum dalam <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2Raj. 17:7–20</a>. Ketika bangsa Israel melanggar dua perintah pertama, mereka melanggar seluruh perjanjian (<a href=\"https://ref.ly/Deut5:7-Deut5:10\">Ul. 5:7–10</a>). Pemberontakan mereka mendatangkan kutuk yang tercantum dalam <a href=\"https://ref.ly/Deut28:1-Deut28:68\">Ul. 28</a> atas mereka.</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><a href=\"https://ref.ly/Gen9:24-Gen9:27\">Kej. 9:24–27</a>; <a href=\"https://ref.ly/Lev26:3-Lev26:45\">Im. 26:3–45</a>; <a href=\"https://ref.ly/Deut8:7-Deut8:20\">Ul. 8:7–20</a>; <a href=\"https://ref.ly/Deut11:29\">11:29</a>; <a href=\"https://ref.ly/Deut27:1-Deut29:1\">Ul. 27:1–29:1</a>; <a href=\"https://ref.ly/Josh8:33-Josh8:35\">Yos. 8:33–35</a>; <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2Raj. 17:7–20</a>; <a href=\"https://ref.ly/2Chr36:17-2Chr36:21\">2Taw. 36:17–21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019008",
+          "start_ref_usfm": "EXO 19:8",
+          "end_ref": "02019008",
+          "end_ref_usfm": "EXO 19:8"
+        },
+        {
+          "start_ref": "05011029",
+          "start_ref_usfm": "DEU 11:29",
+          "end_ref": "05011029",
+          "end_ref_usfm": "DEU 11:29"
+        },
+        {
+          "start_ref": "05028001",
+          "start_ref_usfm": "DEU 28:1",
+          "end_ref": "05028068",
+          "end_ref_usfm": "DEU 28:68"
+        },
+        {
+          "start_ref": "40024001",
+          "start_ref_usfm": "MAT 24:1",
+          "end_ref": "40025046",
+          "end_ref_usfm": "MAT 25:46"
+        },
+        {
+          "start_ref": "06008033",
+          "start_ref_usfm": "JOS 8:33",
+          "end_ref": "06008035",
+          "end_ref_usfm": "JOS 8:35"
+        },
+        {
+          "start_ref": "05027001",
+          "start_ref_usfm": "DEU 27:1",
+          "end_ref": "05029001",
+          "end_ref_usfm": "DEU 29:1"
+        },
+        {
+          "start_ref": "12017007",
+          "start_ref_usfm": "2KI 17:7",
+          "end_ref": "12017020",
+          "end_ref_usfm": "2KI 17:20"
+        },
+        {
+          "start_ref": "05005007",
+          "start_ref_usfm": "DEU 5:7",
+          "end_ref": "05005010",
+          "end_ref_usfm": "DEU 5:10"
+        },
+        {
+          "start_ref": "01009024",
+          "start_ref_usfm": "GEN 9:24",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "03026003",
+          "start_ref_usfm": "LEV 26:3",
+          "end_ref": "03026045",
+          "end_ref_usfm": "LEV 26:45"
+        },
+        {
+          "start_ref": "05008007",
+          "start_ref_usfm": "DEU 8:7",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "14036017",
+          "start_ref_usfm": "2CH 36:17",
+          "end_ref": "14036021",
+          "end_ref_usfm": "2CH 36:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

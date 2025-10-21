@@ -1,0 +1,110 @@
+[
+  {
+    "content_id": 500171,
+    "reference_id": 203114,
+    "title": "Ancient Law Codes",
+    "media_type": "Text",
+    "index_reference": "ancient law codes",
+    "language": "eng",
+    "content": "<p>Until the late 1800s, people thought the law of Moses was a unique legal code. They believed it existed nearly a thousand years before anything similar in Greek and Roman laws. Yet, archaeological excavations in Persia in the early 1900s uncovered the laws from the Babylonian king Hammurabi (called the Code of Hammurabi). He lived in the 1700s BC. This was several centuries before the time traditionally associated with Moses. </p><p>Surprisingly, many of these laws are almost the same as those in the Bible. This suggested that biblical laws might have come from Hammurabi. But later discoveries found law codes that existed at least 500 years before Hammurabi. Several laws are common to all these codes, so Hammurabi was not the first to start them either.</p><p>What does this mean for the Bible? </p><ol><li><p>It is not surprising to find similar laws in cultures near Israel. Similar societies need similar rules to ensure justice. </p></li><li><p>Biblical laws are unique because they are part of a covenant (special agreement) with God. In the ancient Near East, religious laws and civil laws were separate. Religious laws spoke of sacrifice, prayers, offerings, and others. Civil laws spoke of theft, lying, sexual conduct, murder, and others. </p><p>They considered ethics (rules about right and wrong) and religion to be different topics. Religion involved prayer, devotion, offerings, and ceremonies, managed by priests. Ethics dealt with social and civil behavior, managed by the king. The biblical view is different. God rules over both religion and society. So, a person in a relationship with the true God must worship properly and treat others well.</p></li></ol><p>Israel&apos;s covenant with God used existing law forms but gave them new meaning. For example, the way God arranged Israel&apos;s tabernacle and temple was similar to others in the ancient world (<a href=\"https://ref.ly/Exod26:1-Exod27:21\">Exodus 26–27</a>; see <a href=\"https://ref.ly/1Kgs6:1-1Kgs7:51\">1 Kings 6:1–7:51</a>). The Hebrew sacrifices were also similar to pagan sacrifices (see <a href=\"https://ref.ly/Lev1:1-Lev7:38\">Leviticus 1–7</a>). Yet, the temple and sacrifices had different meanings and purposes than those in paganism (see study notes on <span data-bnType=\"resourceReference\" data-resourceId=\"10320\" data-resourceType=\"TyndaleStudyNotes\">Exodus 20:3–17</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"10376\" data-resourceType=\"TyndaleStudyNotes\">25:1–40:38</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"19233\" data-resourceType=\"TyndaleStudyNotes\">Leviticus 1:1–7:38</span>).</p><p>Many of the laws of Moses were not new to the ancient world. What was unique was that they came from the one Creator God, who called his people to live in a way that showed his character.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod20:1-Exod23:33\">Exodus 20:1–23:33</a>; <a href=\"https://ref.ly/Exod34:1-Exod35:3\">34:1–35:3</a>; <a href=\"https://ref.ly/Lev1:1-Lev27:34\">Leviticus 1:1–27:34</a>; <a href=\"https://ref.ly/Deut4:1-Deut33:29\">Deuteronomy 4:1–33:29</a>; <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Ezra 1:1–4</a>; <a href=\"https://ref.ly/Esth1:13-Esth1:19\">Esther 1:13–19</a>; <a href=\"https://ref.ly/Esth8:9-Esth8:14\">8:9–14</a>; <a href=\"https://ref.ly/Dan6:6-Dan6:9\">Daniel 6:6–9</a>; <a href=\"https://ref.ly/Luke2:1-Luke2:3\">Luke 2:1–3</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001004",
+          "end_ref_usfm": "EZR 1:4"
+        },
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002003",
+          "end_ref_usfm": "LUK 2:3"
+        },
+        {
+          "start_ref": "03001001",
+          "start_ref_usfm": "LEV 1:1",
+          "end_ref": "03027034",
+          "end_ref_usfm": "LEV 27:34"
+        },
+        {
+          "start_ref": "11006001",
+          "start_ref_usfm": "1KI 6:1",
+          "end_ref": "11007051",
+          "end_ref_usfm": "1KI 7:51"
+        },
+        {
+          "start_ref": "03001001",
+          "start_ref_usfm": "LEV 1:1",
+          "end_ref": "03007038",
+          "end_ref_usfm": "LEV 7:38"
+        },
+        {
+          "start_ref": "02020001",
+          "start_ref_usfm": "EXO 20:1",
+          "end_ref": "02023033",
+          "end_ref_usfm": "EXO 23:33"
+        },
+        {
+          "start_ref": "02026001",
+          "start_ref_usfm": "EXO 26:1",
+          "end_ref": "02027021",
+          "end_ref_usfm": "EXO 27:21"
+        },
+        {
+          "start_ref": "02034001",
+          "start_ref_usfm": "EXO 34:1",
+          "end_ref": "02035003",
+          "end_ref_usfm": "EXO 35:3"
+        },
+        {
+          "start_ref": "05004001",
+          "start_ref_usfm": "DEU 4:1",
+          "end_ref": "05033029",
+          "end_ref_usfm": "DEU 33:29"
+        },
+        {
+          "start_ref": "17001013",
+          "start_ref_usfm": "EST 1:13",
+          "end_ref": "17001019",
+          "end_ref_usfm": "EST 1:19"
+        },
+        {
+          "start_ref": "17008009",
+          "start_ref_usfm": "EST 8:9",
+          "end_ref": "17008014",
+          "end_ref_usfm": "EST 8:14"
+        },
+        {
+          "start_ref": "27006006",
+          "start_ref_usfm": "DAN 6:6",
+          "end_ref": "27006009",
+          "end_ref_usfm": "DAN 6:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 10320,
+          "content_id": 11152,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Exodus 20:3-17",
+          "language": "eng"
+        },
+        {
+          "reference_id": 10376,
+          "content_id": 11208,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Exodus 25:1-40.38",
+          "language": "eng"
+        },
+        {
+          "reference_id": 19233,
+          "content_id": 20065,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Leviticus 1:1-7:38",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

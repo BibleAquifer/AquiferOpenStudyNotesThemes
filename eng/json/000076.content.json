@@ -1,0 +1,142 @@
+[
+  {
+    "content_id": 500211,
+    "reference_id": 203154,
+    "title": "God’s Change of Mind",
+    "media_type": "Text",
+    "index_reference": "god’s change of mind",
+    "language": "eng",
+    "content": "<p>The Old Testament describes God 34 times as “changing his mind” or “being sorry” (the Hebrew word <em>nakham</em>). What does this mean? Does God relent, feel pity, experience sorrow, or grieve?</p><p>One thing is clear: God never repents of sin or moral failure because he is perfect (see <a href=\"https://ref.ly/1Sam15:29\">1 Samuel 15:29</a>; <a href=\"https://ref.ly/Num23:19\">Numbers 23:19</a>). God may &quot;change his mind&quot; about disaster or judgment that he started. This means God may decide to change his plans in response to:</p><ul><li><p>when people pray with repentance (<a href=\"https://ref.ly/Jer18:7-Jer18:10\">Jeremiah 18:7–10</a>; <a href=\"https://ref.ly/Joel2:14\">Joel 2:14</a>; <a href=\"https://ref.ly/Jonah3:9-Jonah3:10\">Jonah 3:9–10</a>);</p></li><li><p>when a human speaks to God on behalf of others (<a href=\"https://ref.ly/Exod32:11-Exod32:14\">Exodus 32:11–14</a>; <a href=\"https://ref.ly/Amos7:2-Amos7:6\">Amos 7:2–6</a>); or</p></li><li><p>without any clear human involvement (<a href=\"https://ref.ly/Judg2:18\">Judges 2:18</a>; <a href=\"https://ref.ly/2Sam24:16\">2 Samuel 24:16</a>).</p></li></ul><p>A few times, God regrets something he has already done. For example, God regretted choosing Saul as king (<a href=\"https://ref.ly/1Sam15:11\">1 Samuel 15:11</a>, <a href=\"https://ref.ly/1Sam15:35\">35</a>; compare <a href=\"https://ref.ly/Gen6:6\">Genesis 6:6</a>). But God is not admitting he made mistakes in the past. He is showing sadness about lives that have gone wrong.</p><p>Theologians debate how much God, who is all-wise and all-powerful, can &quot;change his mind.&quot; In the Bible, when it seems like God changes his mind, it shows a human view of God&apos;s actions. Any change that God seems to show is how humans experience God. God is constant in his love, mercy, faithfulness, and holy will. God&apos;s power, all-knowing nature, foreknowledge, wisdom, and holiness do not change.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen6:6-Gen6:7\">Genesis 6:6–7</a>; <a href=\"https://ref.ly/Exod32:11-Exod32:14\">Exodus 32:11–14</a>; <a href=\"https://ref.ly/Num23:19\">Numbers 23:19</a>; <a href=\"https://ref.ly/Deut32:36\">Deuteronomy 32:36</a>; <a href=\"https://ref.ly/1Sam15:10-1Sam15:11\">1 Samuel 15:10–11</a>, <a href=\"https://ref.ly/1Sam15:29\">29</a>, <a href=\"https://ref.ly/1Sam15:35\">35</a>; <a href=\"https://ref.ly/2Sam24:15-2Sam24:16\">2 Samuel 24:15–16</a>; <a href=\"https://ref.ly/Jer4:28\">Jeremiah 4:28</a>; <a href=\"https://ref.ly/Jer18:7-Jer18:10\">18:7–10</a>; <a href=\"https://ref.ly/Jer26:2-Jer26:19\">26:2–19</a>; <a href=\"https://ref.ly/Ezek24:14\">Ezekiel 24:14</a>; <a href=\"https://ref.ly/Joel2:13-Joel2:14\">Joel 2:13–14</a>; <a href=\"https://ref.ly/Amos7:2-Amos7:6\">Amos 7:2–6</a>; <a href=\"https://ref.ly/Jonah3:9-Jonah4:11\">Jonah 3:9–4:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006006",
+          "start_ref_usfm": "GEN 6:6",
+          "end_ref": "01006006",
+          "end_ref_usfm": "GEN 6:6"
+        },
+        {
+          "start_ref": "04023019",
+          "start_ref_usfm": "NUM 23:19",
+          "end_ref": "04023019",
+          "end_ref_usfm": "NUM 23:19"
+        },
+        {
+          "start_ref": "05032036",
+          "start_ref_usfm": "DEU 32:36",
+          "end_ref": "05032036",
+          "end_ref_usfm": "DEU 32:36"
+        },
+        {
+          "start_ref": "07002018",
+          "start_ref_usfm": "JDG 2:18",
+          "end_ref": "07002018",
+          "end_ref_usfm": "JDG 2:18"
+        },
+        {
+          "start_ref": "09015011",
+          "start_ref_usfm": "1SA 15:11",
+          "end_ref": "09015011",
+          "end_ref_usfm": "1SA 15:11"
+        },
+        {
+          "start_ref": "09015029",
+          "start_ref_usfm": "1SA 15:29",
+          "end_ref": "09015029",
+          "end_ref_usfm": "1SA 15:29"
+        },
+        {
+          "start_ref": "09015035",
+          "start_ref_usfm": "1SA 15:35",
+          "end_ref": "09015035",
+          "end_ref_usfm": "1SA 15:35"
+        },
+        {
+          "start_ref": "10024016",
+          "start_ref_usfm": "2SA 24:16",
+          "end_ref": "10024016",
+          "end_ref_usfm": "2SA 24:16"
+        },
+        {
+          "start_ref": "24004028",
+          "start_ref_usfm": "JER 4:28",
+          "end_ref": "24004028",
+          "end_ref_usfm": "JER 4:28"
+        },
+        {
+          "start_ref": "26024014",
+          "start_ref_usfm": "EZK 24:14",
+          "end_ref": "26024014",
+          "end_ref_usfm": "EZK 24:14"
+        },
+        {
+          "start_ref": "29002014",
+          "start_ref_usfm": "JOL 2:14",
+          "end_ref": "29002014",
+          "end_ref_usfm": "JOL 2:14"
+        },
+        {
+          "start_ref": "10024015",
+          "start_ref_usfm": "2SA 24:15",
+          "end_ref": "10024016",
+          "end_ref_usfm": "2SA 24:16"
+        },
+        {
+          "start_ref": "01006006",
+          "start_ref_usfm": "GEN 6:6",
+          "end_ref": "01006007",
+          "end_ref_usfm": "GEN 6:7"
+        },
+        {
+          "start_ref": "24018007",
+          "start_ref_usfm": "JER 18:7",
+          "end_ref": "24018010",
+          "end_ref_usfm": "JER 18:10"
+        },
+        {
+          "start_ref": "29002013",
+          "start_ref_usfm": "JOL 2:13",
+          "end_ref": "29002014",
+          "end_ref_usfm": "JOL 2:14"
+        },
+        {
+          "start_ref": "09015010",
+          "start_ref_usfm": "1SA 15:10",
+          "end_ref": "09015011",
+          "end_ref_usfm": "1SA 15:11"
+        },
+        {
+          "start_ref": "32003009",
+          "start_ref_usfm": "JON 3:9",
+          "end_ref": "32003010",
+          "end_ref_usfm": "JON 3:10"
+        },
+        {
+          "start_ref": "02032011",
+          "start_ref_usfm": "EXO 32:11",
+          "end_ref": "02032014",
+          "end_ref_usfm": "EXO 32:14"
+        },
+        {
+          "start_ref": "30007002",
+          "start_ref_usfm": "AMO 7:2",
+          "end_ref": "30007006",
+          "end_ref_usfm": "AMO 7:6"
+        },
+        {
+          "start_ref": "24026002",
+          "start_ref_usfm": "JER 26:2",
+          "end_ref": "24026019",
+          "end_ref_usfm": "JER 26:19"
+        },
+        {
+          "start_ref": "32003009",
+          "start_ref_usfm": "JON 3:9",
+          "end_ref": "32004011",
+          "end_ref_usfm": "JON 4:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

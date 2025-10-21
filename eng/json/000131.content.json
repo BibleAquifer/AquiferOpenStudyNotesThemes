@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500340,
+    "reference_id": 203283,
+    "title": "Little Faith",
+    "media_type": "Text",
+    "index_reference": "little faith",
+    "language": "eng",
+    "content": "<p>The Greek term translated as &quot;little faith&quot; and related terms appear five times in the Gospel of Matthew (<a href=\"https://ref.ly/Matt6:30\">Matthew 6:30</a>; <a href=\"https://ref.ly/Matt8:26\">8:26</a>; <a href=\"https://ref.ly/Matt14:31\">14:31</a>; <a href=\"https://ref.ly/Matt16:8\">16:8</a>; <a href=\"https://ref.ly/Matt17:20\">17:20</a>). It also appears once in Luke (<a href=\"https://ref.ly/Luke12:28\">Luke 12:28</a>; compare <a href=\"https://ref.ly/Jas1:6-Jas1:7\">James 1:6–7</a>). This term refers to a specific event, not a permanent failure. </p><p>In Matthew, &quot;little faith&quot; occurs when Jesus&apos; disciples lack knowledge or act without faith in a certain situation (<a href=\"https://ref.ly/Matt16:8-Matt16:11\">Matthew 16:8–11</a>). If someone always lacks faith, it is called &quot;unbelief&quot; (see<a href=\"https://ref.ly/Matt13:58\"> 13:58</a>). </p><p>Some examples of &quot;little faith&quot; include: </p><ul><li><p>when the disciples do not understand their worth or God&apos;s protection (<a href=\"https://ref.ly/Matt6:30\">6:30</a>); </p></li><li><p>when the disciples do not trust God&apos;s protection during danger (<a href=\"https://ref.ly/Matt8:26\">8:26</a>; <a href=\"https://ref.ly/Matt14:31\">14:31</a>); </p></li><li><p>when the disciples misunderstand Jesus&apos; teaching about yeast (<a href=\"https://ref.ly/Matt16:8\">16:8</a>); and</p></li><li><p>when the disciples fail to cast out a demon (<a href=\"https://ref.ly/Matt17:20\">17:20</a>). </p></li></ul><p>These are failures in specific situations, not a total lack of faith.</p><p>The term <em>faith</em> includes two ideas: <em>trust</em> (personal reliance on the Lord) and <em>belief</em> (acceptance of truths). Matthew&apos;s concern with &quot;little faith&quot; is about a follower of Jesus lacking trust in a specific situation, rather than failing to believe in Jesus as Lord and Savior. Jesus wants his followers to not only believe in him but also to trust, love, and obey him (see <a href=\"https://ref.ly/Matt7:21-Matt7:29\">Matthew 7:21–29</a>; <a href=\"https://ref.ly/Matt22:34-Matt22:40\">22:34–40</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt6:30\">Matthew 6:30</a>; <a href=\"https://ref.ly/Matt7:21-Matt7:29\">7:21–29</a>; <a href=\"https://ref.ly/Matt8:26\">8:26</a>; <a href=\"https://ref.ly/Matt13:58\">13:58</a>; <a href=\"https://ref.ly/Matt14:31\">14:31</a>; <a href=\"https://ref.ly/Matt16:8\">16:8</a>; <a href=\"https://ref.ly/Matt17:20\">17:20</a>; <a href=\"https://ref.ly/Matt22:34-Matt22:40\">22:34–40</a>; <a href=\"https://ref.ly/Luke12:28\">Luke 12:28</a>; <a href=\"https://ref.ly/Jas1:6-Jas1:8\">James 1:6–8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40006030",
+          "start_ref_usfm": "MAT 6:30",
+          "end_ref": "40006030",
+          "end_ref_usfm": "MAT 6:30"
+        },
+        {
+          "start_ref": "40008026",
+          "start_ref_usfm": "MAT 8:26",
+          "end_ref": "40008026",
+          "end_ref_usfm": "MAT 8:26"
+        },
+        {
+          "start_ref": "40013058",
+          "start_ref_usfm": "MAT 13:58",
+          "end_ref": "40013058",
+          "end_ref_usfm": "MAT 13:58"
+        },
+        {
+          "start_ref": "40014031",
+          "start_ref_usfm": "MAT 14:31",
+          "end_ref": "40014031",
+          "end_ref_usfm": "MAT 14:31"
+        },
+        {
+          "start_ref": "40016008",
+          "start_ref_usfm": "MAT 16:8",
+          "end_ref": "40016008",
+          "end_ref_usfm": "MAT 16:8"
+        },
+        {
+          "start_ref": "40017020",
+          "start_ref_usfm": "MAT 17:20",
+          "end_ref": "40017020",
+          "end_ref_usfm": "MAT 17:20"
+        },
+        {
+          "start_ref": "42012028",
+          "start_ref_usfm": "LUK 12:28",
+          "end_ref": "42012028",
+          "end_ref_usfm": "LUK 12:28"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022040",
+          "end_ref_usfm": "MAT 22:40"
+        },
+        {
+          "start_ref": "59001006",
+          "start_ref_usfm": "JAS 1:6",
+          "end_ref": "59001007",
+          "end_ref_usfm": "JAS 1:7"
+        },
+        {
+          "start_ref": "40016008",
+          "start_ref_usfm": "MAT 16:8",
+          "end_ref": "40016011",
+          "end_ref_usfm": "MAT 16:11"
+        },
+        {
+          "start_ref": "40007021",
+          "start_ref_usfm": "MAT 7:21",
+          "end_ref": "40007029",
+          "end_ref_usfm": "MAT 7:29"
+        },
+        {
+          "start_ref": "59001006",
+          "start_ref_usfm": "JAS 1:6",
+          "end_ref": "59001008",
+          "end_ref_usfm": "JAS 1:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

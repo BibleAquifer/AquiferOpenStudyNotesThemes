@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 734225,
+    "reference_id": 203283,
+    "title": "Peu de foi",
+    "media_type": "Text",
+    "index_reference": "peu de foi",
+    "language": "fra",
+    "content": "<p>Le mot grec que la Louis Segond traduit par « peu de foi » et les mots grecs apparentés apparaissent cinq fois dans l&apos;Évangile selon Matthieu (<a href=\"https://ref.ly/Matt6:30\">Mt 6.30&nbsp;</a>; <a href=\"https://ref.ly/Matt8:26\">8.26&nbsp;</a>; <a href=\"https://ref.ly/Matt14:31\">14.31&nbsp;</a>; <a href=\"https://ref.ly/Matt16:8\">16.8&nbsp;</a>; <a href=\"https://ref.ly/Matt17:20\">17.20</a>) et une fois dans l&apos;Évangile selon Luc (<a href=\"https://ref.ly/Luke12:28\">Lc 12.28&nbsp;</a>; voir aussi <a href=\"https://ref.ly/Jas1:6-Jas1:7\">Jc 1.6–7</a>). Le mot est toujours utilisé pour décrire un manque de foi dans le contexte d&apos;un événement spécifique.</p><p>Dans Matthieu, les disciples sont décrits comme ayant « peu de foi » quand ils agissent ou réagissent sans foi dans une situation particulière (<a href=\"https://ref.ly/Matt16:8-Matt16:11\">Mt 16.8–11</a>). Si quelqu&apos;un refuse de croire de façon générale, cela s&apos;appelle alors de « l&apos;incrédulité » (voir<a href=\"https://ref.ly/Matt13:58\"> 13.58</a>).</p><p>Voici quelques exemples de manque de foi :</p><ul><li><p>Quand les disciples ne comprennent pas leur propre valeur aux yeux de Dieu et ne lui font pas confiance pour pourvoir à leurs besoins (<a href=\"https://ref.ly/Matt6:30\">6.30</a>).</p></li><li><p>Quand les disciples ont peur face au danger ai lieu d&apos;avoir confiance en la protection de Dieu (<a href=\"https://ref.ly/Matt8:26\">8.26</a> ; <a href=\"https://ref.ly/Matt14:31\">14.31</a>).</p></li><li><p>Quand les disciples continuent à penser qu&apos;ils peuvent être dans le besoin alors que Jésus a déjà montré qu&apos;il peut pourvoir (<a href=\"https://ref.ly/Matt16:8\">16.8</a>).</p></li><li><p>Quand les disciples ne se tournent pas vers Dieu dans la prière alors qu&apos;ils n&apos;arrivent pas à chasser un démon puissant (<a href=\"https://ref.ly/Matt17:20\">17.20</a>).</p></li></ul><p>Ce sont là des manquements de foi à propos de choses ou de situations spécifiques. La <em>foi</em> inclut le fait de croire et d&apos;accepter la vérité d&apos;une part, et le fait d&apos;avoir confiance en Dieu et de s&apos;appuyer sur lui d&apos;autre part. Quand il est question du peu de foi des disciples, cela ne veut pas dire qu&apos;ils ne croient pas ou ne suivent pas Jésus, mais qu&apos;ils doivent encore apprendre à mieux se confier en lui et en son Père. Jésus veut que ses disciples croient en lui, et aussi qu&apos;ils s&apos;appuient sur lui, l&apos;aiment et lui obéissent (voir <a href=\"https://ref.ly/Matt7:21-Matt7:29\">Mt 7.21–29</a> ; <a href=\"https://ref.ly/Matt22:34-Matt22:40\">22.34–40</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Matt6:30\">Matthieu 6.30</a> ; <a href=\"https://ref.ly/Matt7:21-Matt7:29\">7.21–29</a> ; <a href=\"https://ref.ly/Matt8:26\">8.26</a> ; <a href=\"https://ref.ly/Matt13:58\">13.58</a> ; <a href=\"https://ref.ly/Matt14:31\">14.31</a> ; <a href=\"https://ref.ly/Matt16:8\">16.8</a> ; <a href=\"https://ref.ly/Matt17:20\">17.20</a> ; <a href=\"https://ref.ly/Matt22:34-Matt22:40\">22.34–40</a> ; <a href=\"https://ref.ly/Luke12:28\">Luc 12.28</a> ; <a href=\"https://ref.ly/Jas1:6-Jas1:8\">Jacques 1.6–8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40006030",
+          "start_ref_usfm": "MAT 6:30",
+          "end_ref": "40006030",
+          "end_ref_usfm": "MAT 6:30"
+        },
+        {
+          "start_ref": "40008026",
+          "start_ref_usfm": "MAT 8:26",
+          "end_ref": "40008026",
+          "end_ref_usfm": "MAT 8:26"
+        },
+        {
+          "start_ref": "40013058",
+          "start_ref_usfm": "MAT 13:58",
+          "end_ref": "40013058",
+          "end_ref_usfm": "MAT 13:58"
+        },
+        {
+          "start_ref": "40014031",
+          "start_ref_usfm": "MAT 14:31",
+          "end_ref": "40014031",
+          "end_ref_usfm": "MAT 14:31"
+        },
+        {
+          "start_ref": "40016008",
+          "start_ref_usfm": "MAT 16:8",
+          "end_ref": "40016008",
+          "end_ref_usfm": "MAT 16:8"
+        },
+        {
+          "start_ref": "40017020",
+          "start_ref_usfm": "MAT 17:20",
+          "end_ref": "40017020",
+          "end_ref_usfm": "MAT 17:20"
+        },
+        {
+          "start_ref": "42012028",
+          "start_ref_usfm": "LUK 12:28",
+          "end_ref": "42012028",
+          "end_ref_usfm": "LUK 12:28"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022040",
+          "end_ref_usfm": "MAT 22:40"
+        },
+        {
+          "start_ref": "59001006",
+          "start_ref_usfm": "JAS 1:6",
+          "end_ref": "59001007",
+          "end_ref_usfm": "JAS 1:7"
+        },
+        {
+          "start_ref": "40016008",
+          "start_ref_usfm": "MAT 16:8",
+          "end_ref": "40016011",
+          "end_ref_usfm": "MAT 16:11"
+        },
+        {
+          "start_ref": "40007021",
+          "start_ref_usfm": "MAT 7:21",
+          "end_ref": "40007029",
+          "end_ref_usfm": "MAT 7:29"
+        },
+        {
+          "start_ref": "59001006",
+          "start_ref_usfm": "JAS 1:6",
+          "end_ref": "59001008",
+          "end_ref_usfm": "JAS 1:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

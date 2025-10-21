@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 800530,
+    "reference_id": 203361,
+    "title": "Alegria cristã",
+    "media_type": "Text",
+    "index_reference": "alegria cristã",
+    "language": "por",
+    "content": "<p>Nas horas finais de sua vida, Jesus desejava que seus discípulos estivessem cheios de sua alegria (veja <a href=\"https://ref.ly/John15:11\">João 15.11</a>; <a href=\"https://ref.ly/John16:20-John16:24\">16.20–24</a>). A alegria é um tema comum em muitas das cartas do apóstolo Paulo e é um tema central em Filipenses. Paulo frequentemente encoraja os cristãos a serem alegres, especialmente aqueles que enfrentam perseguição, como os cristãos em Filipos e Tessalônica (<a href=\"https://ref.ly/Phil3:1\">Filipenses 3.1</a>; <a href=\"https://ref.ly/Phil4:4\">4.4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 Tessalonicenses 5.16</a>).</p><p>A felicidade superficial depende do que está acontecendo ao seu redor. A alegria cristã é diferente. Ela vem do relacionamento de uma pessoa com o Senhor e permanece forte mesmo durante o sofrimento e a morte. A alegria vem de saber que, aconteça o que acontecer, Deus usará tudo para o bem último de um cristão (veja <a href=\"https://ref.ly/Rom5:3-Rom5:4\">Romanos 5.3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8.28</a>).</p><p>Os cristãos também encontram alegria na presença ativa do Espírito de Deus em seus corações (veja <a href=\"https://ref.ly/Gal5:22\">Gálatas 5.22</a>). O verdadeiro segredo para uma vida alegre é &quot;ser cheio do Espírito Santo&quot; (veja <a href=\"https://ref.ly/Eph5:18\">Efésios 5.18</a>). Um relacionamento com o Deus vivo molda as atitudes dos cristãos, não as circunstâncias externas.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/John15:11\">João 15.11</a>; <a href=\"https://ref.ly/John16:24\">16.24</a>; <a href=\"https://ref.ly/Rom5:3-Rom5:4\">Romanos 5.3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8.28</a>; <a href=\"https://ref.ly/Gal5:22\">Gálatas 5.22</a>; <a href=\"https://ref.ly/Eph5:18\">Efésios 5.18</a>; <a href=\"https://ref.ly/Phil3:1\">Filipenses 3.1</a>; <a href=\"https://ref.ly/Phil4:4\">4.4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 Tessalonicenses 5.16.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43015011",
+          "start_ref_usfm": "JHN 15:11",
+          "end_ref": "43015011",
+          "end_ref_usfm": "JHN 15:11"
+        },
+        {
+          "start_ref": "43016024",
+          "start_ref_usfm": "JHN 16:24",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "48005022",
+          "start_ref_usfm": "GAL 5:22",
+          "end_ref": "48005022",
+          "end_ref_usfm": "GAL 5:22"
+        },
+        {
+          "start_ref": "49005018",
+          "start_ref_usfm": "EPH 5:18",
+          "end_ref": "49005018",
+          "end_ref_usfm": "EPH 5:18"
+        },
+        {
+          "start_ref": "50003001",
+          "start_ref_usfm": "PHP 3:1",
+          "end_ref": "50003001",
+          "end_ref_usfm": "PHP 3:1"
+        },
+        {
+          "start_ref": "50004004",
+          "start_ref_usfm": "PHP 4:4",
+          "end_ref": "50004004",
+          "end_ref_usfm": "PHP 4:4"
+        },
+        {
+          "start_ref": "52005016",
+          "start_ref_usfm": "1TH 5:16",
+          "end_ref": "52005016",
+          "end_ref_usfm": "1TH 5:16"
+        },
+        {
+          "start_ref": "45005003",
+          "start_ref_usfm": "ROM 5:3",
+          "end_ref": "45005004",
+          "end_ref_usfm": "ROM 5:4"
+        },
+        {
+          "start_ref": "43016020",
+          "start_ref_usfm": "JHN 16:20",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

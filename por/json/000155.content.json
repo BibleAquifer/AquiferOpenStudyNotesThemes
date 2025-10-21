@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 800430,
+    "reference_id": 203261,
+    "title": "Literatura apocalíptica",
+    "media_type": "Text",
+    "index_reference": "literatura apocalíptica",
+    "language": "por",
+    "content": "<p>Várias passagens do Antigo Testamento têm temas semelhantes à literatura apocalíptica judaica posterior (<a href=\"https://ref.ly/Isa24:1-Isa27:13\">Isaías 24–27</a>; <a href=\"https://ref.ly/Ezek38:1-Ezek39:29\">Ezequiel 38.1–39.29</a>; <a href=\"https://ref.ly/Dan7:1-Dan12:13\">Daniel 7–12</a>; <a href=\"https://ref.ly/Zech9:1-Zech14:21\">Zacarias 9–14</a>). A literatura apocalíptica é um tipo de escrita que usa visões e símbolos para mostrar a vitória final de Deus sobre o mal e dar esperança ao seu povo. Todo o livro do Apocalipse no Novo Testamento também pertence a este gênero.</p><p>A literatura apocalíptica utiliza visões divinas para comunicar coisas obscuras ou ocultas. O termo <em>apocalíptico</em> vem da palavra grega <em>apokalupsis</em>, que significa &quot;revelação&quot;. Por outro lado, outra literatura profética foca nas palavras da mensagem. Em termos legais, um profeta entregando uma mensagem divina (oráculo) é como um advogado de acusação. Um escritor de literatura apocalíptica é como uma testemunha, descrevendo as realidades celestiais que presenciou.</p><p>A profecia geralmente prevê salvação ou julgamento dentro do nosso mundo atual. Em contraste, a literatura apocalíptica espera um cumprimento além do espaço e do tempo. Ela não espera que a sociedade melhore gradualmente. Em vez disso, profetiza um evento transformador que acabará com o modo como as coisas são agora e criará algo novo. A literatura apocalíptica vê o presente como um tempo de conflito entre luz e trevas. Não pode haver compromisso ou paz entre as forças sobrenaturais do bem e do mal.</p><p>A literatura apocalíptica revela os elementos ocultos dessa batalha. A presença da escuridão espiritual torna-se evidente. Isso também se aplica às forças invisíveis do bem ao nosso redor, que acabarão por vencer. Essa vitória futura é certa, independentemente de quaisquer tentativas humanas ou espirituais de impedi-la.</p><p>As visões apocalípticas têm o objetivo de encorajar e motivar os cristãos, especialmente em tempos difíceis. Há uma mensagem positiva nesses escritos. Apesar das dificuldades atuais, Deus já determinou o resultado da batalha final: as forças do bem prevalecerão. A literatura apocalíptica desafia as alegações pagãs de que as coisas permanecerão inalteradas. Deus governa e seu reino triunfará no final.</p><p>Esta mensagem oferece esperança aos crentes durante o sofrimento. Exorta-os a permanecerem fiéis, apesar dos desafios. Encoraja aqueles que lutam, afirmando que Deus está no controle e triunfará no final. Apesar do sofrimento, a obediência é o único caminho para viver. Confiamos na vitória final quando Deus trará uma nova era de salvação.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ezek38:1-Ezek39:24\">Ezequiel 38.1–39.24</a>; <a href=\"https://ref.ly/Dan7:1-Dan12:13\">Daniel 7.1–12.13</a>; <a href=\"https://ref.ly/Zech9:1-Zech14:21\">Zacarias 9.1–14.21.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27007001",
+          "start_ref_usfm": "DAN 7:1",
+          "end_ref": "27012013",
+          "end_ref_usfm": "DAN 12:13"
+        },
+        {
+          "start_ref": "26038001",
+          "start_ref_usfm": "EZK 38:1",
+          "end_ref": "26039024",
+          "end_ref_usfm": "EZK 39:24"
+        },
+        {
+          "start_ref": "26038001",
+          "start_ref_usfm": "EZK 38:1",
+          "end_ref": "26039029",
+          "end_ref_usfm": "EZK 39:29"
+        },
+        {
+          "start_ref": "38009001",
+          "start_ref_usfm": "ZEC 9:1",
+          "end_ref": "38014021",
+          "end_ref_usfm": "ZEC 14:21"
+        },
+        {
+          "start_ref": "23024001",
+          "start_ref_usfm": "ISA 24:1",
+          "end_ref": "23027013",
+          "end_ref_usfm": "ISA 27:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

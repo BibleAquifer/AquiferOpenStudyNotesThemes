@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 800288,
+    "reference_id": 203119,
+    "title": "Identidade da comunidade",
+    "media_type": "Text",
+    "index_reference": "identidade da comunidade",
+    "language": "por",
+    "content": "<p>Em muitas culturas ocidentais, as pessoas frequentemente enfatizam a identidade individual e a independência pessoal. Em contraste, muitas culturas orientais, como as da China e da Índia, priorizam as relações familiares e comunitárias em vez dos interesses individuais. Da mesma forma, no antigo Israel, a identidade e a importância de uma pessoa vinham de seu papel na comunidade. Todos os israelitas eram esperados a compartilhar a identidade da comunidade como os &quot;filhos de Israel&quot; e a demonstrar as características que definiam o grupo.</p><p>No Antigo Testamento, Deus frequentemente fala a todo o povo no singular, enfatizando sua unidade. Os Dez Mandamentos e a bênção de Arão usam linguagem no singular (<a href=\"https://ref.ly/Exod20:2-Exod20:17\">Êxodo 20.2–17</a>; <a href=\"https://ref.ly/Num6:24-Num6:26\">Números 6.24–26</a>). Uma pessoa poderia representar o grupo, e o grupo poderia ter uma pessoa como representante.</p><p>Por exemplo, Neemias pede perdão pelos pecados que levaram ao exílio babilônico, dizendo: &quot;Confesso os pecados que nós, israelitas, cometemos&quot; (<a href=\"https://ref.ly/Neh1:6-Neh1:7\">Neemias 1.6–7</a>). Neemias foi o governador da Judeia de 445 a 433 a.C., cerca de 140 anos após a destruição de Jerusalém em 586 a.C. Portanto, ele não cometeu esses pecados. No entanto, em sua oração, ele se identifica com os pecados de seu povo.</p><p>De maneira semelhante, o sumo sacerdote podia representar todo o povo no dia da expiação (<a href=\"https://ref.ly/Lev16:1-Lev16:34\">Levítico 16</a>). Como os indivíduos tinham um vínculo tão próximo com a comunidade, o pecado de uma pessoa podia se tornar o pecado da comunidade se não fosse tratado (<a href=\"https://ref.ly/Lev4:3-Lev4:21\">Levítico 4.3–21</a>; <a href=\"https://ref.ly/Lev20:1-Lev20:5\">20.1–5</a>).</p><p>De maneira semelhante, Paulo descreve a comunidade cristã como o &quot;corpo de Cristo&quot; (<a href=\"https://ref.ly/1Cor12:27\">1 Coríntios 12.27</a>; <a href=\"https://ref.ly/Eph4:12\">Efésios 4.12</a>). Os membros compartilham a identidade de Cristo através do Espírito Santo. Como o corpo de Cristo, eles manifestam a vida de Cristo em suas próprias vidas. Juntos, eles o revelam ao mundo. O apóstolo Paulo encoraja a igreja da Galácia a ajudar a &quot;carregar os fardos uns dos outros&quot; e assim seguir o exemplo de Cristo (<a href=\"https://ref.ly/Gal6:2\">Gálatas 6.2</a>; <a href=\"https://ref.ly/Matt11:28-Matt11:30\">Mateus 11.28–30</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Exod20:5-Exod20:6\">Êxodo 20.5–6</a>,<a href=\"https://ref.ly/Exod20:8-Exod20:10\">8–10</a>; <a href=\"https://ref.ly/Lev4:3-Lev4:21\">Levítico 4.3–21</a>; <a href=\"https://ref.ly/Lev20:1-Lev20:5\">20.1–5</a>; <a href=\"https://ref.ly/Josh7:1-Josh7:26\">Josué 7.1–26</a>; <a href=\"https://ref.ly/Neh1:6-Neh1:7\">Neemias 1.6–7</a>; <a href=\"https://ref.ly/1Cor12:12-1Cor12:27\">1 Coríntios 12.12–27</a>; <a href=\"https://ref.ly/Gal6:2\">Gálatas 6.2</a>; <a href=\"https://ref.ly/Eph4:11-Eph4:13\">Efésios 4.11–13.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46012027",
+          "start_ref_usfm": "1CO 12:27",
+          "end_ref": "46012027",
+          "end_ref_usfm": "1CO 12:27"
+        },
+        {
+          "start_ref": "48006002",
+          "start_ref_usfm": "GAL 6:2",
+          "end_ref": "48006002",
+          "end_ref_usfm": "GAL 6:2"
+        },
+        {
+          "start_ref": "49004012",
+          "start_ref_usfm": "EPH 4:12",
+          "end_ref": "49004012",
+          "end_ref_usfm": "EPH 4:12"
+        },
+        {
+          "start_ref": "02020005",
+          "start_ref_usfm": "EXO 20:5",
+          "end_ref": "02020006",
+          "end_ref_usfm": "EXO 20:6"
+        },
+        {
+          "start_ref": "03016001",
+          "start_ref_usfm": "LEV 16:1",
+          "end_ref": "03016034",
+          "end_ref_usfm": "LEV 16:34"
+        },
+        {
+          "start_ref": "02020002",
+          "start_ref_usfm": "EXO 20:2",
+          "end_ref": "02020017",
+          "end_ref_usfm": "EXO 20:17"
+        },
+        {
+          "start_ref": "06007001",
+          "start_ref_usfm": "JOS 7:1",
+          "end_ref": "06007026",
+          "end_ref_usfm": "JOS 7:26"
+        },
+        {
+          "start_ref": "46012012",
+          "start_ref_usfm": "1CO 12:12",
+          "end_ref": "46012027",
+          "end_ref_usfm": "1CO 12:27"
+        },
+        {
+          "start_ref": "40011028",
+          "start_ref_usfm": "MAT 11:28",
+          "end_ref": "40011030",
+          "end_ref_usfm": "MAT 11:30"
+        },
+        {
+          "start_ref": "03020001",
+          "start_ref_usfm": "LEV 20:1",
+          "end_ref": "03020005",
+          "end_ref_usfm": "LEV 20:5"
+        },
+        {
+          "start_ref": "03004003",
+          "start_ref_usfm": "LEV 4:3",
+          "end_ref": "03004021",
+          "end_ref_usfm": "LEV 4:21"
+        },
+        {
+          "start_ref": "04006024",
+          "start_ref_usfm": "NUM 6:24",
+          "end_ref": "04006026",
+          "end_ref_usfm": "NUM 6:26"
+        },
+        {
+          "start_ref": "16001006",
+          "start_ref_usfm": "NEH 1:6",
+          "end_ref": "16001007",
+          "end_ref_usfm": "NEH 1:7"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004013",
+          "end_ref_usfm": "EPH 4:13"
+        },
+        {
+          "start_ref": "02020008",
+          "start_ref_usfm": "EXO 20:8",
+          "end_ref": "02020010",
+          "end_ref_usfm": "EXO 20:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

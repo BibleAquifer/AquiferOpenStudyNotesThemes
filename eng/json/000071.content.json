@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 500218,
+    "reference_id": 203161,
+    "title": "God or Satan?",
+    "media_type": "Text",
+    "index_reference": "god or satan?",
+    "language": "eng",
+    "content": "<p>Who is responsible for trials and difficulties? It might see strange, but Scripture sometimes says God, sometimes Satan, and sometimes both. How is this possible? Understanding this requires looking at these situations from different points of view.</p><p>The Bible tells the story of King David&apos;s census in two different books, and they describe what happened in different ways. <a href=\"https://ref.ly/2Sam24:1\">Second Samuel 24:1</a> says God <span>&quot;stirred up David against them&quot;</span> by taking a census. In contrast, <a href=\"https://ref.ly/1Chr21:1\">1 Chronicles 21:1</a> says &quot;<span>Satan rose up against Israel and incited David to take a census of Israel</span>.&quot; <a href=\"https://ref.ly/2Sam24:1-2Sam24:25\">Second Samuel 24:1–25</a> tells the census story from God&apos;s perspective. God allowed Satan&apos;s actions to achieve his purpose.</p><p>This is common in Scripture. <a href=\"https://ref.ly/Matt4:1\">Matthew 4:1</a> says the Holy Spirit led Jesus into the wilderness where Satan would test him. This shows how God and Satan can both be involved in the same event but with different purposes.</p><p>A notable example is Job&apos;s suffering. God had praised Job for being a faithful person. Then he gave Satan permission to cause Job great suffering (<a href=\"https://ref.ly/Job1:6-Job2:7\">Job 1:6–2:7</a>). Despite the difficulties, Job remained righteous. He resisted Satan&apos;s attempts to make him curse God. </p><p>Similarly, <a href=\"https://ref.ly/2Cor12:7\">2 Corinthians 12:7</a> teaches that God can send an affliction through a messenger from Satan. When Paul mentioned his &quot;thorn,&quot; he used a passive verb, showing that God gave this &quot;torment.&quot; The way Paul describes this shows that God allowed this trouble to happen, even though it came through a messenger from Satan.</p><p>Satan tries many different ways to hurt and discourage people who follow God. But God is in control of everything. God does not create evil but sometimes he uses the evil actions of others to accomplish his good purposes (<a href=\"https://ref.ly/Gen50:20\">Genesis 50:20</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Sam24:1-2Sam24:25\">2 Samuel 24:1–25</a>; <a href=\"https://ref.ly/1Chr21:1-1Chr21:30\">1 Chronicles 21:1–30</a>; <a href=\"https://ref.ly/Job1:8-Job2:10\">Job 1:8–2:10</a>; <a href=\"https://ref.ly/Matt4:1-Matt4:11\">Matthew 4:1–11</a>; <a href=\"https://ref.ly/Matt12:22-Matt12:37\">12:22–37</a>; <a href=\"https://ref.ly/Mark8:31-Mark8:33\">Mark 8:31–33</a>; <a href=\"https://ref.ly/John13:21-John13:31\">John 13:21–31</a>; <a href=\"https://ref.ly/Rom8:28\">Romans 8:28</a>; <a href=\"https://ref.ly/1Cor5:1-1Cor5:5\">1 Corinthians 5:1–5</a>; <a href=\"https://ref.ly/2Cor12:6-2Cor12:10\">2 Corinthians 12:6–10</a>; <a href=\"https://ref.ly/Eph2:1-Eph2:7\">Ephesians 2:1–7</a>; <a href=\"https://ref.ly/Rev20:1-Rev20:3\">Revelation 20:1–3</a>, <a href=\"https://ref.ly/Rev20:7-Rev20:10\">7–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01050020",
+          "start_ref_usfm": "GEN 50:20",
+          "end_ref": "01050020",
+          "end_ref_usfm": "GEN 50:20"
+        },
+        {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024001",
+          "end_ref_usfm": "2SA 24:1"
+        },
+        {
+          "start_ref": "13021001",
+          "start_ref_usfm": "1CH 21:1",
+          "end_ref": "13021001",
+          "end_ref_usfm": "1CH 21:1"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004001",
+          "end_ref_usfm": "MAT 4:1"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "47012007",
+          "start_ref_usfm": "2CO 12:7",
+          "end_ref": "47012007",
+          "end_ref_usfm": "2CO 12:7"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024025",
+          "end_ref_usfm": "2SA 24:25"
+        },
+        {
+          "start_ref": "13021001",
+          "start_ref_usfm": "1CH 21:1",
+          "end_ref": "13021030",
+          "end_ref_usfm": "1CH 21:30"
+        },
+        {
+          "start_ref": "46005001",
+          "start_ref_usfm": "1CO 5:1",
+          "end_ref": "46005005",
+          "end_ref_usfm": "1CO 5:5"
+        },
+        {
+          "start_ref": "66020007",
+          "start_ref_usfm": "REV 20:7",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020003",
+          "end_ref_usfm": "REV 20:3"
+        },
+        {
+          "start_ref": "18001006",
+          "start_ref_usfm": "JOB 1:6",
+          "end_ref": "18002007",
+          "end_ref_usfm": "JOB 2:7"
+        },
+        {
+          "start_ref": "40012022",
+          "start_ref_usfm": "MAT 12:22",
+          "end_ref": "40012037",
+          "end_ref_usfm": "MAT 12:37"
+        },
+        {
+          "start_ref": "18001008",
+          "start_ref_usfm": "JOB 1:8",
+          "end_ref": "18002010",
+          "end_ref_usfm": "JOB 2:10"
+        },
+        {
+          "start_ref": "41008031",
+          "start_ref_usfm": "MRK 8:31",
+          "end_ref": "41008033",
+          "end_ref_usfm": "MRK 8:33"
+        },
+        {
+          "start_ref": "43013021",
+          "start_ref_usfm": "JHN 13:21",
+          "end_ref": "43013031",
+          "end_ref_usfm": "JHN 13:31"
+        },
+        {
+          "start_ref": "47012006",
+          "start_ref_usfm": "2CO 12:6",
+          "end_ref": "47012010",
+          "end_ref_usfm": "2CO 12:10"
+        },
+        {
+          "start_ref": "49002001",
+          "start_ref_usfm": "EPH 2:1",
+          "end_ref": "49002007",
+          "end_ref_usfm": "EPH 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

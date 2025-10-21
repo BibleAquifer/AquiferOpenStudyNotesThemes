@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 800400,
+    "reference_id": 203231,
+    "title": "Lembre-se dele",
+    "media_type": "Text",
+    "index_reference": "lembre-se dele",
+    "language": "por",
+    "content": "<p>Deus salvou os israelitas da escravidão no Egito e os fez seu povo. No entanto, Deus sabia que eles o esqueceriam (<a href=\"https://ref.ly/Deut31:16-Deut31:21\">Deuteronômio 31.16–21</a>). Moisés advertiu o povo que estava entrando na terra Prometida para sempre lembrar o que o Senhor havia feito por eles (<a href=\"https://ref.ly/Deut8:1-Deut8:20\">Deuteronômio 8.1–20</a>). Os israelitas eventualmente esqueceram o Senhor, o que levou ao seu exílio da terra que Deus lhes havia dado (veja <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2 Reis 17.5–23</a>; veja também <a href=\"https://ref.ly/Jer2:32\">Jeremias 2.32</a>).</p><p>O Sábio no livro de Eclesiastes enfatiza a importância de lembrar do Senhor. Ao longo do livro, o Sábio reflete sobre como muitos aspectos da vida são temporários e sem sentido. Ele conclui instando os leitores a se lembrarem daquele que é eterno (<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">Eclesiastes 12.1–7</a>). Ninguém permanece jovem para sempre; o envelhecimento e a morte são universais.</p><p>Portanto, o Sábio incentiva as pessoas a focarem em Deus enquanto são jovens, antes que seja tarde demais. Todas as pessoas são responsáveis perante Deus por suas ações (<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">Eclesiastes 12.13–14</a>). Nossas vidas presentes devem ser guiadas pela realidade de seu julgamento futuro.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Deut8:1-Deut8:20\">Deuteronômio 8.1–20</a>; <a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">Eclesiastes 12.1–7</a>, <a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">13–14</a>; <a href=\"https://ref.ly/1Cor3:12-1Cor3:14\">1 Coríntios 3.12–14.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "24002032",
+          "start_ref_usfm": "JER 2:32",
+          "end_ref": "24002032",
+          "end_ref_usfm": "JER 2:32"
+        },
+        {
+          "start_ref": "05008001",
+          "start_ref_usfm": "DEU 8:1",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "21012013",
+          "start_ref_usfm": "ECC 12:13",
+          "end_ref": "21012014",
+          "end_ref_usfm": "ECC 12:14"
+        },
+        {
+          "start_ref": "21012001",
+          "start_ref_usfm": "ECC 12:1",
+          "end_ref": "21012007",
+          "end_ref_usfm": "ECC 12:7"
+        },
+        {
+          "start_ref": "12017005",
+          "start_ref_usfm": "2KI 17:5",
+          "end_ref": "12017023",
+          "end_ref_usfm": "2KI 17:23"
+        },
+        {
+          "start_ref": "05031016",
+          "start_ref_usfm": "DEU 31:16",
+          "end_ref": "05031021",
+          "end_ref_usfm": "DEU 31:21"
+        },
+        {
+          "start_ref": "46003012",
+          "start_ref_usfm": "1CO 3:12",
+          "end_ref": "46003014",
+          "end_ref_usfm": "1CO 3:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

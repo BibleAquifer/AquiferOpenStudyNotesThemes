@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 800307,
+    "reference_id": 203138,
+    "title": "Maldições e bênçãos",
+    "media_type": "Text",
+    "index_reference": "maldições e bênçãos",
+    "language": "por",
+    "content": "<p>Quase todos os textos de tratados ou alianças do antigo Oriente Próximo incluíam maldições e bênçãos. As maldições eram direcionadas àqueles que violavam os termos da aliança. As bênçãos eram para aqueles que permaneciam fiéis. Isso era especialmente verdadeiro para alianças suzerano-vassalo (grande rei-rei menor ou povo) como Deuteronômio (veja <span data-bnType=\"resourceReference\" data-resourceId=\"Deut_BookIntro_Filament\" data-resourceType=\"UNKNOWN\">Introdução ao livro de Deuteronômio</span>, “Forma Literária”).</p><p>Deuteronômio explicou ao povo de Israel o que Deus esperava deles. A aliança exigia que Israel obedecesse a Deus, e os israelitas prometeram cumprir isso (<a href=\"https://ref.ly/Exod19:8\">Êxodo 19.8</a>). A seção sobre maldições e bênçãos explica como Deus recompensaria a obediência e puniria a desobediência (<a href=\"https://ref.ly/Deut27:1-Deut29:1\">Deuteronômio 27.1–29.1</a>).</p><p>O texto enfatiza mais as maldições do que as bênçãos. Isso pode ser porque as pessoas tendem a focar mais em promessas do que em avisos. As bênçãos são frequentemente mais fáceis de entender, pois prometem segurança futura. O julgamento é menos claro e precisa de descrições detalhadas.</p><p>Deus enfatiza as maldições para destacar as consequências das más ações. Os avisos que Jesus deu sobre eventos futuros estão alinhados com esses alertas (<a href=\"https://ref.ly/Matt24:1-Matt25:46\">Mateus 24–25</a>).</p><p>A história de Israel mostra como Deus cumpriu sua promessa de bênçãos e maldições. Quando Israel seguiu sua aliança com Deus, Ele os abençoou. Quando se rebelaram, Ele os julgou. A rebelião de Israel é resumida em <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 Reis 17.7–20</a>. Quando os israelitas quebraram os dois primeiros mandamentos, violaram toda a aliança (<a href=\"https://ref.ly/Deut5:7-Deut5:10\">Deuteronômio 5.7–10</a>). A rebelião deles trouxe as maldições de <a href=\"https://ref.ly/Deut28:1-Deut28:68\">Deuteronômio 28</a> sobre eles.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen9:24-Gen9:27\">Gênesis 9.24–27</a>; <a href=\"https://ref.ly/Lev26:3-Lev26:45\">Levítico 26.3–45</a>; <a href=\"https://ref.ly/Deut8:7-Deut8:20\">Deuteronômio 8.7–20</a>; <a href=\"https://ref.ly/Deut11:29\">11.29</a>; <a href=\"https://ref.ly/Deut27:1-Deut29:1\">Deuteronômio 27.1–29.1</a>; <a href=\"https://ref.ly/Josh8:33-Josh8:35\">Josué 8.33–35</a>; <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 Reis 17.7–20</a>; <a href=\"https://ref.ly/2Chr36:17-2Chr36:21\">2 Crônicas 36.17–21.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019008",
+          "start_ref_usfm": "EXO 19:8",
+          "end_ref": "02019008",
+          "end_ref_usfm": "EXO 19:8"
+        },
+        {
+          "start_ref": "05011029",
+          "start_ref_usfm": "DEU 11:29",
+          "end_ref": "05011029",
+          "end_ref_usfm": "DEU 11:29"
+        },
+        {
+          "start_ref": "05028001",
+          "start_ref_usfm": "DEU 28:1",
+          "end_ref": "05028068",
+          "end_ref_usfm": "DEU 28:68"
+        },
+        {
+          "start_ref": "40024001",
+          "start_ref_usfm": "MAT 24:1",
+          "end_ref": "40025046",
+          "end_ref_usfm": "MAT 25:46"
+        },
+        {
+          "start_ref": "06008033",
+          "start_ref_usfm": "JOS 8:33",
+          "end_ref": "06008035",
+          "end_ref_usfm": "JOS 8:35"
+        },
+        {
+          "start_ref": "05027001",
+          "start_ref_usfm": "DEU 27:1",
+          "end_ref": "05029001",
+          "end_ref_usfm": "DEU 29:1"
+        },
+        {
+          "start_ref": "12017007",
+          "start_ref_usfm": "2KI 17:7",
+          "end_ref": "12017020",
+          "end_ref_usfm": "2KI 17:20"
+        },
+        {
+          "start_ref": "05005007",
+          "start_ref_usfm": "DEU 5:7",
+          "end_ref": "05005010",
+          "end_ref_usfm": "DEU 5:10"
+        },
+        {
+          "start_ref": "01009024",
+          "start_ref_usfm": "GEN 9:24",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "03026003",
+          "start_ref_usfm": "LEV 26:3",
+          "end_ref": "03026045",
+          "end_ref_usfm": "LEV 26:45"
+        },
+        {
+          "start_ref": "05008007",
+          "start_ref_usfm": "DEU 8:7",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "14036017",
+          "start_ref_usfm": "2CH 36:17",
+          "end_ref": "14036021",
+          "end_ref_usfm": "2CH 36:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 500423,
+    "reference_id": 203366,
+    "title": "Work and Patronage",
+    "media_type": "Text",
+    "index_reference": "work and patronage",
+    "language": "eng",
+    "content": "<p>When Paul visited the city of Thessalonica for the first time, he taught the new believers to earn their own money through work instead of relying on other people to support them.</p><p>Some Thessalonians refused to work. Paul addressed these lazy Christians in his first letter, but they did not change (<a href=\"https://ref.ly/1Thess4:11-1Thess4:12\">1 Thessalonians 4:11–12</a>; <a href=\"https://ref.ly/1Thess5:14\">5:14</a>) . Why did they refuse to work? They might have expected the Lord to return soon, so they stopped working. Yet, Paul&apos;s teachings about the Lord&apos;s return never oppose his basic instruction on the importance of work (<a href=\"https://ref.ly/2Thess3:6\">2 Thessalonians 3:6</a>, <a href=\"https://ref.ly/2Thess3:10\">10</a>).</p><p>These lazy Christians might have been clients of influential patrons. Patronage was a key part of the Roman economy. Wealthy patrons often helped many clients by providing food, money, or public representation in court. Having many clients increased a patron&apos;s honor. Yet, being a client came with social duties that Paul wanted the Thessalonian Christians to avoid. This was especially important since their patrons were likely non-Christians.</p><p>Paul set an example for the Thessalonians. While he was with them, he financially supported himself (<a href=\"https://ref.ly/1Thess2:9\">1 Thessalonians 2:9</a>; <a href=\"https://ref.ly/2Thess3:7-2Thess3:9\">2 Thessalonians 3:7–9</a>). Paul followed Jesus&apos; teaching that, “<span>the worker is worthy of his provisions</span>” (see <a href=\"https://ref.ly/Matt10:10\">Matthew 10:10</a>; <a href=\"https://ref.ly/1Cor9:13-1Cor9:16\">1 Corinthians 9:13–16</a>). But he did not accept support from the Thessalonians (although he did accept offerings from the Philippians, <a href=\"https://ref.ly/Phil4:15-Phil4:16\">Philippians 4:15–16</a>). Paul wanted the Thessalonians to know he did not come to them using &quot;<span>words of flattery&quot;</span> to get money (<a href=\"https://ref.ly/1Thess2:5\">1 Thessalonians 2:5</a>, <a href=\"https://ref.ly/1Thess2:9\">9</a>). He wanted them to learn from his example how they should live.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt10:10\">Matthew 10:10</a>; <a href=\"https://ref.ly/1Cor9:13-1Cor9:16\">1 Corinthians 9:13–16</a>; <a href=\"https://ref.ly/Phil4:15-Phil4:16\">Philippians 4:15–16</a>; <a href=\"https://ref.ly/1Thess2:5\">1 Thessalonians 2:5</a>, <a href=\"https://ref.ly/1Thess2:9\">9</a>; <a href=\"https://ref.ly/1Thess4:11-1Thess4:12\">4:11–12</a>; <a href=\"https://ref.ly/1Thess5:14\">5:14</a>; <a href=\"https://ref.ly/2Thess3:6-2Thess3:10\">2 Thessalonians 3:6–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010010",
+          "start_ref_usfm": "MAT 10:10",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        },
+        {
+          "start_ref": "52002005",
+          "start_ref_usfm": "1TH 2:5",
+          "end_ref": "52002005",
+          "end_ref_usfm": "1TH 2:5"
+        },
+        {
+          "start_ref": "52002009",
+          "start_ref_usfm": "1TH 2:9",
+          "end_ref": "52002009",
+          "end_ref_usfm": "1TH 2:9"
+        },
+        {
+          "start_ref": "52005014",
+          "start_ref_usfm": "1TH 5:14",
+          "end_ref": "52005014",
+          "end_ref_usfm": "1TH 5:14"
+        },
+        {
+          "start_ref": "53003006",
+          "start_ref_usfm": "2TH 3:6",
+          "end_ref": "53003006",
+          "end_ref_usfm": "2TH 3:6"
+        },
+        {
+          "start_ref": "53003010",
+          "start_ref_usfm": "2TH 3:10",
+          "end_ref": "53003010",
+          "end_ref_usfm": "2TH 3:10"
+        },
+        {
+          "start_ref": "52004011",
+          "start_ref_usfm": "1TH 4:11",
+          "end_ref": "52004012",
+          "end_ref_usfm": "1TH 4:12"
+        },
+        {
+          "start_ref": "53003007",
+          "start_ref_usfm": "2TH 3:7",
+          "end_ref": "53003009",
+          "end_ref_usfm": "2TH 3:9"
+        },
+        {
+          "start_ref": "46009013",
+          "start_ref_usfm": "1CO 9:13",
+          "end_ref": "46009016",
+          "end_ref_usfm": "1CO 9:16"
+        },
+        {
+          "start_ref": "50004015",
+          "start_ref_usfm": "PHP 4:15",
+          "end_ref": "50004016",
+          "end_ref_usfm": "PHP 4:16"
+        },
+        {
+          "start_ref": "53003006",
+          "start_ref_usfm": "2TH 3:6",
+          "end_ref": "53003010",
+          "end_ref_usfm": "2TH 3:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

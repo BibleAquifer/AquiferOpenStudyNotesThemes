@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 800286,
+    "reference_id": 203117,
+    "title": "A Páscoa",
+    "media_type": "Text",
+    "index_reference": "a páscoa",
+    "language": "por",
+    "content": "<p>A festa da Páscoa tornou-se uma parte central da prática religiosa israelita. Este festival celebrava o resgate dos hebreus do Egito por Deus e sua proteção contra a última praga mortal. Deus queria que fosse observado todos os anos, seguindo as instruções no livro de Êxodo (<a href=\"https://ref.ly/Exod12:1-Exod12:27\">Êxodo 12.1–27</a>). A Páscoa era um lembrete para as gerações futuras das ações salvadoras de Deus. Todo o povo participava da festa. Eles comiam apenas pão sem fermento, assim como fizeram quando saíram rapidamente do Egito.</p><p>Durante a primeira Páscoa, eles sacrificaram um cordeiro para salvar o primogênito de cada família israelita (<a href=\"https://ref.ly/Exod12:12-Exod12:13\">Êxodo 12.12–13</a>,<a href=\"https://ref.ly/Exod12:23\">23</a>). A Páscoa simboliza que podemos escapar da morte apenas através de um sacrifício que nos substitui. A Páscoa foi um evento importante na história israelita. No entanto, o Êxodo do Egito não resolveu o problema universal da morte, que vem do pecado (<a href=\"https://ref.ly/1Cor15:56\">1 Coríntios 15.56</a>).</p><p>Muitos anos depois, durante a festa da Páscoa, Jesus Cristo deu sua &quot;vida para salvar muita gente&quot; (<a href=\"https://ref.ly/Matt20:28\">Mateus 20.28</a>; <a href=\"https://ref.ly/Mark10:45\">Marcos 10.45</a>). Ele se tornou &quot;o Cordeiro de Deus, que tira o pecado do mundo!&quot; (<a href=\"https://ref.ly/John1:29\">João 1.29</a>). Enquanto compartilhava uma última refeição de Páscoa com seus discípulos, Jesus explicou o significado simbólico do vinho que eles compartilhavam: &quot;isto é o meu sangue, que é derramado em favor de muitos para o perdão dos pecados&quot; (<a href=\"https://ref.ly/Matt26:28\">Mateus 26.28</a>). Ele representa e inicia uma nova Páscoa. Jesus derrotou completamente e finalmente o pecado e a morte através de seu sacrifício (veja também <a href=\"https://ref.ly/Isa25:7-Isa25:8\">Isaías 25.7–8</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Exod12:1-Exod12:51\">Êxodo 12.1–51</a>; <a href=\"https://ref.ly/Lev23:4-Lev23:8\">Levítico 23.4–8</a>; <a href=\"https://ref.ly/Num9:1-Num9:14\">Números 9.1–14</a>; <a href=\"https://ref.ly/Num28:16-Num28:25\">Números 28.16–25</a>; <a href=\"https://ref.ly/Deut16:1-Deut16:7\">Deuteronômio 16.1–7</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:30\">Mateus 26.17–30</a>; <a href=\"https://ref.ly/Luke22:15-Luke22:20\">Lucas 22.15–20</a>; <a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1 Coríntios 5.6–8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012023",
+          "start_ref_usfm": "EXO 12:23",
+          "end_ref": "02012023",
+          "end_ref_usfm": "EXO 12:23"
+        },
+        {
+          "start_ref": "40020028",
+          "start_ref_usfm": "MAT 20:28",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "40026028",
+          "start_ref_usfm": "MAT 26:28",
+          "end_ref": "40026028",
+          "end_ref_usfm": "MAT 26:28"
+        },
+        {
+          "start_ref": "41010045",
+          "start_ref_usfm": "MRK 10:45",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        },
+        {
+          "start_ref": "43001029",
+          "start_ref_usfm": "JHN 1:29",
+          "end_ref": "43001029",
+          "end_ref_usfm": "JHN 1:29"
+        },
+        {
+          "start_ref": "46015056",
+          "start_ref_usfm": "1CO 15:56",
+          "end_ref": "46015056",
+          "end_ref_usfm": "1CO 15:56"
+        },
+        {
+          "start_ref": "42022015",
+          "start_ref_usfm": "LUK 22:15",
+          "end_ref": "42022020",
+          "end_ref_usfm": "LUK 22:20"
+        },
+        {
+          "start_ref": "46005006",
+          "start_ref_usfm": "1CO 5:6",
+          "end_ref": "46005008",
+          "end_ref_usfm": "1CO 5:8"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012051",
+          "end_ref_usfm": "EXO 12:51"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026030",
+          "end_ref_usfm": "MAT 26:30"
+        },
+        {
+          "start_ref": "04028016",
+          "start_ref_usfm": "NUM 28:16",
+          "end_ref": "04028025",
+          "end_ref_usfm": "NUM 28:25"
+        },
+        {
+          "start_ref": "04009001",
+          "start_ref_usfm": "NUM 9:1",
+          "end_ref": "04009014",
+          "end_ref_usfm": "NUM 9:14"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012027",
+          "end_ref_usfm": "EXO 12:27"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012013",
+          "end_ref_usfm": "EXO 12:13"
+        },
+        {
+          "start_ref": "23025007",
+          "start_ref_usfm": "ISA 25:7",
+          "end_ref": "23025008",
+          "end_ref_usfm": "ISA 25:8"
+        },
+        {
+          "start_ref": "03023004",
+          "start_ref_usfm": "LEV 23:4",
+          "end_ref": "03023008",
+          "end_ref_usfm": "LEV 23:8"
+        },
+        {
+          "start_ref": "05016001",
+          "start_ref_usfm": "DEU 16:1",
+          "end_ref": "05016007",
+          "end_ref_usfm": "DEU 16:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

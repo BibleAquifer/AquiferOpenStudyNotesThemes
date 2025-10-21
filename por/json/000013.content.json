@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 800433,
+    "reference_id": 203264,
+    "title": "A geografia de Israel como teologia",
+    "media_type": "Text",
+    "index_reference": "a geografia de israel como teologia",
+    "language": "por",
+    "content": "<p>A divisão da terra em <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">Ezequiel 47.13–48.35</a> combina ideais espirituais com uma mensagem prática. Ela reforça temas de partes anteriores da visão (<a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">Ezequiel 40–46</a>). O profeta Ezequiel vislumbrou um futuro intimamente ligado ao passado. A terra de Israel continuou sendo a terra especial prometida aos patriarcas de Israel.</p><p>O mapa nesta visão é diferente das divisões tribais anteriores no tempo de Josué. Na visão de Ezequiel, cada tribo recebe uma porção igual de terra. Essas porções são em faixas de Leste a Oeste, alinhando toda a terra com o templo no centro. Essas faixas não correspondem à geografia real da terra, sendo simbólicas. A ideia é que antigas rivalidades e ódios tribais desaparecerão, pois cada tribo terá status igual.</p><p>A monarquia (o sistema de ser governado pelo rei escolhido por Deus) não é abolida nesta visão, mas é transformada. A cidade arruinada dos capítulos anteriores de Ezequiel torna-se uma nova cidade santa de unidade e harmonia para as tribos. Um rio que dá vida restaura, trazendo bênçãos do templo de Deus para todas as áreas da vida do povo.</p><p>A visão em <a href=\"https://ref.ly/Ezek40:1-Ezek48:35\">Ezequiel 40–48</a> encoraja as pessoas a se arrependerem dos pecados passados, a permanecerem fiéis em tempos difíceis e a terem esperança em um futuro melhor através do poder e da graça de Deus. Os capítulos finais de Apocalipse mostram essa visão cumprida em Jesus (<a href=\"https://ref.ly/Rev21:1-Rev22:21\">Apocalipse 21–22</a>). Jesus iniciou a realidade espiritual que Ezequiel descreveu. É uma cidade celestial &quot;cujo arquiteto e construtor é Deus&quot; (<a href=\"https://ref.ly/Heb11:10\">Hebreus 11.10</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">Ezequiel 40.1–46.24</a>; <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">47.13–48.35</a>; <a href=\"https://ref.ly/Rev22:1-Rev22:2\">Apocalipse 22.1–2</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "58011010",
+          "start_ref_usfm": "HEB 11:10",
+          "end_ref": "58011010",
+          "end_ref_usfm": "HEB 11:10"
+        },
+        {
+          "start_ref": "66021001",
+          "start_ref_usfm": "REV 21:1",
+          "end_ref": "66022021",
+          "end_ref_usfm": "REV 22:21"
+        },
+        {
+          "start_ref": "66022001",
+          "start_ref_usfm": "REV 22:1",
+          "end_ref": "66022002",
+          "end_ref_usfm": "REV 22:2"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26046024",
+          "end_ref_usfm": "EZK 46:24"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "26047013",
+          "start_ref_usfm": "EZK 47:13",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

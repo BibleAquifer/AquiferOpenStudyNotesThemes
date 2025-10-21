@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 500176,
+    "reference_id": 203119,
+    "title": "Community Identity",
+    "media_type": "Text",
+    "index_reference": "community identity",
+    "language": "eng",
+    "content": "<p>In many Western cultures, people often emphasize individual identity and personal independence. In contrast, many Eastern cultures, such as those in China and India, prioritize family and community relationships over individual interests. Similarly, in ancient Israel, a person&apos;s identity and importance came from their role in the community. All Israelites were expected to share the community&apos;s identity as the &quot;children of Israel&quot; and show the characteristics that defined the group.</p><p>In the Old Testament, God often speaks to the whole people in the singular. This emphasizes their unity. The Ten Commandments and Aaron&apos;s blessing use singular language (<a href=\"https://ref.ly/Exod20:2-Exod20:17\">Exodus 20:2–17</a>; <a href=\"https://ref.ly/Num6:24-Num6:26\">Numbers 6:24–26</a>). One person could represent the group, and the group could have one person as a representative. </p><p>For instance, Nehemiah asks for forgiveness of sins that led to the Babylonian exile, saying, &quot;<span>I confess the sins that we Israelites have committed</span>&quot; (<a href=\"https://ref.ly/Neh1:6-Neh1:7\">Nehemiah 1:6–7</a>). Nehemiah was the governor of Judea from 445 to 433 BC, about 140 years after Jerusalem&apos;s destruction in 586 BC. So, he did not commit those sins. Yet, in his prayer, he identifies himself with his people&apos;s sins. </p><p>In a similar way, the high priest could represent all the people on the day of atonement (<a href=\"https://ref.ly/Lev16:1-Lev16:34\">Leviticus 16</a>). Because individuals had such a close link to the community, one person&apos;s sin could become the community&apos;s sin if not addressed (<a href=\"https://ref.ly/Lev4:3-Lev4:21\">Leviticus 4:3–21</a>; <a href=\"https://ref.ly/Lev20:1-Lev20:5\">20:1–5</a>).</p><p>In a similar way, Paul describes the Christian community as the &quot;body of Christ&quot; (<a href=\"https://ref.ly/1Cor12:27\">1 Corinthians 12:27</a>; <a href=\"https://ref.ly/Eph4:12\">Ephesians 4:12</a>). Members share Christ’s identity through the Holy Spirit. As the body of Christ, they show Christ’s life in their own lives. Together, they reveal him to the world. The apostle Paul encourages the Galatian church to help &quot;Carry one another&apos;s burdens&quot; and thus follow Christ’s example (<a href=\"https://ref.ly/Gal6:2\">Galatians 6:2</a>; <a href=\"https://ref.ly/Matt11:28-Matt11:30\">Matthew 11:28–30</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod20:5-Exod20:6\">Exodus 20:5–6</a>, <a href=\"https://ref.ly/Exod20:8-Exod20:10\">8–10</a>; <a href=\"https://ref.ly/Lev4:3-Lev4:21\">Leviticus 4:3–21</a>; <a href=\"https://ref.ly/Lev20:1-Lev20:5\">20:1–5</a>; <a href=\"https://ref.ly/Josh7:1-Josh7:26\">Joshua 7:1–26</a>; <a href=\"https://ref.ly/Neh1:6-Neh1:7\">Nehemiah 1:6–7</a>; <a href=\"https://ref.ly/1Cor12:12-1Cor12:27\">1 Corinthians 12:12–27</a>; <a href=\"https://ref.ly/Gal6:2\">Galatians 6:2</a>; <a href=\"https://ref.ly/Eph4:11-Eph4:13\">Ephesians 4:11–13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46012027",
+          "start_ref_usfm": "1CO 12:27",
+          "end_ref": "46012027",
+          "end_ref_usfm": "1CO 12:27"
+        },
+        {
+          "start_ref": "48006002",
+          "start_ref_usfm": "GAL 6:2",
+          "end_ref": "48006002",
+          "end_ref_usfm": "GAL 6:2"
+        },
+        {
+          "start_ref": "49004012",
+          "start_ref_usfm": "EPH 4:12",
+          "end_ref": "49004012",
+          "end_ref_usfm": "EPH 4:12"
+        },
+        {
+          "start_ref": "02020005",
+          "start_ref_usfm": "EXO 20:5",
+          "end_ref": "02020006",
+          "end_ref_usfm": "EXO 20:6"
+        },
+        {
+          "start_ref": "03016001",
+          "start_ref_usfm": "LEV 16:1",
+          "end_ref": "03016034",
+          "end_ref_usfm": "LEV 16:34"
+        },
+        {
+          "start_ref": "02020002",
+          "start_ref_usfm": "EXO 20:2",
+          "end_ref": "02020017",
+          "end_ref_usfm": "EXO 20:17"
+        },
+        {
+          "start_ref": "06007001",
+          "start_ref_usfm": "JOS 7:1",
+          "end_ref": "06007026",
+          "end_ref_usfm": "JOS 7:26"
+        },
+        {
+          "start_ref": "46012012",
+          "start_ref_usfm": "1CO 12:12",
+          "end_ref": "46012027",
+          "end_ref_usfm": "1CO 12:27"
+        },
+        {
+          "start_ref": "40011028",
+          "start_ref_usfm": "MAT 11:28",
+          "end_ref": "40011030",
+          "end_ref_usfm": "MAT 11:30"
+        },
+        {
+          "start_ref": "03020001",
+          "start_ref_usfm": "LEV 20:1",
+          "end_ref": "03020005",
+          "end_ref_usfm": "LEV 20:5"
+        },
+        {
+          "start_ref": "03004003",
+          "start_ref_usfm": "LEV 4:3",
+          "end_ref": "03004021",
+          "end_ref_usfm": "LEV 4:21"
+        },
+        {
+          "start_ref": "04006024",
+          "start_ref_usfm": "NUM 6:24",
+          "end_ref": "04006026",
+          "end_ref_usfm": "NUM 6:26"
+        },
+        {
+          "start_ref": "16001006",
+          "start_ref_usfm": "NEH 1:6",
+          "end_ref": "16001007",
+          "end_ref_usfm": "NEH 1:7"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004013",
+          "end_ref_usfm": "EPH 4:13"
+        },
+        {
+          "start_ref": "02020008",
+          "start_ref_usfm": "EXO 20:8",
+          "end_ref": "02020010",
+          "end_ref_usfm": "EXO 20:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

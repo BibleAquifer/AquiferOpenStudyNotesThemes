@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 500318,
+    "reference_id": 203261,
+    "title": "Apocalyptic Literature",
+    "media_type": "Text",
+    "index_reference": "apocalyptic literature",
+    "language": "eng",
+    "content": "<p>Several Old Testament passages have themes similar to later Jewish apocalyptic literature (<a href=\"https://ref.ly/Isa24:1-Isa27:13\">Isaiah 24–27</a>; <a href=\"https://ref.ly/Ezek38:1-Ezek39:29\">Ezekiel 38:1–39:29</a>; <a href=\"https://ref.ly/Dan7:1-Dan12:13\">Daniel 7–12</a>; <a href=\"https://ref.ly/Zech9:1-Zech14:21\">Zechariah 9–14</a>). Apocalyptic literature is a kind of writing that uses visions and symbols to show God’s final victory over evil and to give hope to his people. The entire book of Revelation in the New Testament also belongs to this genre. </p><p>Apocalyptic literature uses divine visions to communicate unclear or hidden things. The term <em>apocalyptic</em> comes from the Greek word <em>apokalupsis</em>, meaning “revelation.” But, other prophetic literature focuses on the words of the message. In legal terms, a prophet delivering a divine message (oracle) is like a prosecuting lawyer. A writer of apocalyptic literature is like a witness, describing the heavenly realities he has seen.</p><p>Prophecy usually predicts salvation or judgment within our current world. In contrast, apocalyptic literature expects a fulfillment beyond space and time. It does not hope for society to gradually improve. Instead, it prophesies a world-changing event that will end the way things are now and create something new. Apocalyptic literature views the present as a time of conflict between light and darkness. There can be no compromise or peace between the supernatural forces of good and evil. </p><p>Apocalyptic literature reveals the hidden elements of this battle. The presence of spiritual darkness becomes clear. This is also true of the unseen forces of good around us, which will ultimately win. This future victory is certain, regardless of any human or spiritual attempts to stop it.</p><p>Apocalyptic visions intend to encourage and motivate Christians, especially during difficult times. There isgood news in these writings. Despite current hardships, God has already decided the final battle&apos;s outcome. The forces of good will win. Apocalyptic literature opposes pagan claims that things will stay the same. God rules and his kingdom will win in the end. </p><p>This message gives hope to believers during suffering. It urges them to stay faithful, despite challenges. It encourages those who struggle, affirming that God is in control and will ultimately win. Despite suffering, obedience is the only way to live. We trust in the final victory when God will bring a new era of salvation.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezek38:1-Ezek39:24\">Ezekiel 38:1–39:24</a>; <a href=\"https://ref.ly/Dan7:1-Dan12:13\">Daniel 7:1–12:13</a>; <a href=\"https://ref.ly/Zech9:1-Zech14:21\">Zechariah 9:1–14:21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27007001",
+          "start_ref_usfm": "DAN 7:1",
+          "end_ref": "27012013",
+          "end_ref_usfm": "DAN 12:13"
+        },
+        {
+          "start_ref": "26038001",
+          "start_ref_usfm": "EZK 38:1",
+          "end_ref": "26039024",
+          "end_ref_usfm": "EZK 39:24"
+        },
+        {
+          "start_ref": "26038001",
+          "start_ref_usfm": "EZK 38:1",
+          "end_ref": "26039029",
+          "end_ref_usfm": "EZK 39:29"
+        },
+        {
+          "start_ref": "38009001",
+          "start_ref_usfm": "ZEC 9:1",
+          "end_ref": "38014021",
+          "end_ref_usfm": "ZEC 14:21"
+        },
+        {
+          "start_ref": "23024001",
+          "start_ref_usfm": "ISA 24:1",
+          "end_ref": "23027013",
+          "end_ref_usfm": "ISA 27:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

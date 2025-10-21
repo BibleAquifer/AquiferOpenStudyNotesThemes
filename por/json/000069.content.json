@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 800450,
+    "reference_id": 203281,
+    "title": "Antepassados de Jesus",
+    "media_type": "Text",
+    "index_reference": "antepassados de jesus",
+    "language": "por",
+    "content": "<p>Tanto o Evangelho de Mateus quanto o Evangelho de Lucas incluem uma lista dos ancestrais de Jesus (<a href=\"https://ref.ly/Matt1:1-Matt1:17\">Mateus 1.1–17</a>; <a href=\"https://ref.ly/Luke3:23-Luke3:38\">Lucas 3.23–38</a>). Essas listas são chamadas de &quot;genealogias&quot;. As duas genealogias são diferentes após mencionarem o rei Davi. A lista de Mateus mostra a história da família de Jesus através do filho de Davi, o rei Salomão, enquanto a lista de Lucas mostra a história da família de Jesus através do filho de Davi, Natã. Por que existem duas listas diferentes? Uma possível explicação é que Mateus registra a história da família de José, enquanto Lucas registra a de Maria. Nesse caso, José seria genro de Eli.</p><p>Na antiga cultura judaica, as pessoas mantinham registros muito cuidadosos de suas histórias familiares. Josefo, um historiador judeu que viveu no primeiro século d.C., confirma isso em seus escritos. As genealogias eram importantes no Antigo Testamento e no Judaísmo porque os direitos sobre a terra eram destinados às famílias em Israel. Certos papéis, como sacerdote e rei, eram passados de pai para filho.</p><p>As genealogias frequentemente mostravam conexões do passado para o presente. Elas enfatizavam temas religiosos, descendência familiar, laços políticos e cronogramas simples (<a href=\"https://ref.ly/1Chr1:1-1Chr9:44\">1 Crônicas 1–9</a>). A maioria das genealogias listava pessoas importantes na história de Israel. Elas não eram um registro completo de todos os membros da família.</p><p>Mateus e Lucas tinham razões diferentes para listar os ancestrais de Jesus. Mateus queria mostrar que Jesus descendia de Abraão por meio de Davi. A genealogia de Mateus confirma Jesus como um herdeiro legítimo do trono de Davi. Portanto, Mateus mostra os ancestrais de Jesus até Abraão, o pai do povo judeu. Em contraste, a genealogia de Lucas lista os ancestrais de Jesus até o primeiro humano, Adão. Isso se alinha com o foco de Lucas em Jesus como o Salvador para todas as pessoas em todos os lugares.</p><p>Na genealogia de Mateus, é notável que ele menciona mulheres. Essas mulheres incluem Tamar, Raabe, Rute e Bate-Seba. Algumas tinham má reputação e outras eram gentias. Isso enfatiza a graça de Deus em redimir aqueles que outros consideram indignos.</p><p>As genealogias de Jesus não provam que ele é o Messias (o escolhido de Deus), mas o tornam um possível candidato. Sua identidade como o Messias torna-se clara de outras maneiras (<a href=\"https://ref.ly/Matt11:2-Matt11:6\">Mateus 11.2–6</a>). Deus guiou a história até seu clímax. Jesus é o Messias esperado do Antigo Testamento. Ele é o salvador de seu povo e o rei descendente de Davi que assume seu trono (veja <a href=\"https://ref.ly/2Sam7:16\">2 Samuel 7.16</a>). Jesus é o herdeiro de Abraão e, em última análise, cumpre as promessas de Deus a Abraão (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Gênesis 12.1–3</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen12:1-Gen12:3\">Gênesis 12.1–3</a>; <a href=\"https://ref.ly/2Sam7:16\">2 Samuel 7.16</a>; <a href=\"https://ref.ly/Matt1:1-Matt1:17\">Mateus 1.1–17</a>; <a href=\"https://ref.ly/Luke3:23-Luke3:38\">Lucas 3.23–38</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10007016",
+          "start_ref_usfm": "2SA 7:16",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "42003023",
+          "start_ref_usfm": "LUK 3:23",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13009044",
+          "end_ref_usfm": "1CH 9:44"
+        },
+        {
+          "start_ref": "40011002",
+          "start_ref_usfm": "MAT 11:2",
+          "end_ref": "40011006",
+          "end_ref_usfm": "MAT 11:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

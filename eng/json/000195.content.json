@@ -1,0 +1,78 @@
+[
+  {
+    "content_id": 500447,
+    "reference_id": 203390,
+    "title": "The Antichrist",
+    "media_type": "Text",
+    "index_reference": "the antichrist",
+    "language": "eng",
+    "content": "<p>The term <em>antichrist</em> appears only in the apostle John&apos;s letters (<a href=\"https://ref.ly/1John2:18\">1 John 2:18</a>, <a href=\"https://ref.ly/1John2:22\">22</a>; <a href=\"https://ref.ly/1John4:3\">4:3</a>; <a href=\"https://ref.ly/2John1:7\">2 John 1:7</a>). John believed many antichrists would appear throughout history (<a href=\"https://ref.ly/1John2:18\">1 John 2:18</a>). These antichrists would deny that Jesus is both divine and human (<a href=\"https://ref.ly/1John2:22\">1 John 2:22</a>; <a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>; <a href=\"https://ref.ly/2John1:7\">2 John 1:7</a>).</p><p>The apostle Paul mentions &quot;the man of lawlessness&quot; who will appear in the last times to start a rebellion against God (<a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Thessalonians 2:1–12</a>). This person will &quot;<span>will be accompanied by the working of Satan.</span>&quot; This is mainly through deception. Revelation does not specifically called him &quot;antichrist.&quot; But this &quot;man of lawlessness,&quot; like the &quot;antichrists&quot; in John&apos;s letters, will oppose the truth.</p><p>In <a href=\"https://ref.ly/Rev13:1-Rev13:18\">Revelation 13</a>, a spirit opposing Jesus Christ is &quot;another beast&quot; serving the dragon (Satan) and the first beast. The number of this antichrist, 666, probably represented Emperor Nero and possibly Emperor Domitian (see <span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">study note on 17:8</span>). Emperor worship, which declared &quot;Caesar is Lord!&quot; was a false religion opposing the proclamation of Jesus Christ as Lord.</p><p>It is uncertain if John expected a final antichrist even greater than leaders like Nero or Domitian. Nevertheless, Christians must recognize the presence of evil. They must also recognize its opposition to Christ in people and power structures worldwide. Resisting these enemies may lead to persecution and even death. But our hope is in ultimate victory through Christ.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Thess2:3-2Thess2:10\">2 Thessalonians 2:3–10</a>; <a href=\"https://ref.ly/1John2:18\">1 John 2:18</a>, <a href=\"https://ref.ly/1John2:22\">22</a>; <a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>; <a href=\"https://ref.ly/2John1:7\">2 John 1:7</a>; <a href=\"https://ref.ly/Rev13:11\">Revelation 13:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62002018",
+          "start_ref_usfm": "1JN 2:18",
+          "end_ref": "62002018",
+          "end_ref_usfm": "1JN 2:18"
+        },
+        {
+          "start_ref": "62002022",
+          "start_ref_usfm": "1JN 2:22",
+          "end_ref": "62002022",
+          "end_ref_usfm": "1JN 2:22"
+        },
+        {
+          "start_ref": "62004003",
+          "start_ref_usfm": "1JN 4:3",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001007",
+          "end_ref_usfm": "2JN 1:7"
+        },
+        {
+          "start_ref": "66013011",
+          "start_ref_usfm": "REV 13:11",
+          "end_ref": "66013011",
+          "end_ref_usfm": "REV 13:11"
+        },
+        {
+          "start_ref": "62004002",
+          "start_ref_usfm": "1JN 4:2",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "66013001",
+          "start_ref_usfm": "REV 13:1",
+          "end_ref": "66013018",
+          "end_ref_usfm": "REV 13:18"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "53002003",
+          "start_ref_usfm": "2TH 2:3",
+          "end_ref": "53002010",
+          "end_ref_usfm": "2TH 2:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 24473,
+          "content_id": 25305,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Revelation 17:8",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 500322,
+    "reference_id": 203265,
+    "title": "Four World Empires",
+    "media_type": "Text",
+    "index_reference": "four world empires",
+    "language": "eng",
+    "content": "<p>The book of Daniel describes two important visions that show how God rules over all of history. King Nebuchadnezzar of Babylon had the first vision (chapter <a href=\"https://ref.ly/Dan2:1-Dan2:49\">2</a>), and the prophet Daniel had a similar one (chapter <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7</a>). Each vision shows four world kingdoms.</p><p>People have sometimes disagreed about which kingdoms these visions described, but many important teachers throughout history have shared the same understanding. Hippolytus, an early Christian teacher (or &quot;church father&quot;) who lived from AD 170 to 236, identified the four kingdoms as:</p><ul><li><p>Babylonia,</p></li><li><p>Media-Persia,</p></li><li><p>Greece, and </p></li><li><p>Rome. </p></li></ul><p>Eusebius of Caesarea, another church father and historian who lived from AD 260 to 340, thought the first kingdom was Assyria (which had ruled over Babylon). However, he later agreed with Hippolytus&apos;s view. Most other early Christian teachers also accepted this understanding. Later, two other church fathers, Jerome and Augustine, agreed with this same explanation. Many Bible teachers today still accept this view of the four kingdoms.</p><p>In ancient times and today, some people have argued that Greece is the fourth empire. They consider Media and Persia as separate kingdoms. These teachers often believe this because they think the book of Daniel was written before the Roman Empire existed and could not have predicted future events. However, people usually consider Media and Persia to be one empire. By the time King Cyrus II conquered Babylon in 539 BC, the Persians had mostly combined the Median kingdom.</p><p>People generally consider Rome to be the fourth kingdom. But the evil and inhuman qualities described in the vision go beyond just the historical Roman Empire. The visions show a view of the world and its governments. The kingdom of God will destroy and replace all. It is &quot;a stone … cut out” (<a href=\"https://ref.ly/Dan2:34\">Daniel 2:34</a>). In chapter <a href=\"https://ref.ly/Dan2:1-Dan2:49\">2</a>, the statue&apos;s metals become less valuable. While in chapter <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7</a>, the animal imagery becomes more fierce and violent. These features show a decline in human civilization over time, even as the kingdom of God increases in power and size (<a href=\"https://ref.ly/Dan2:35\">2:35</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Dan2:1-Dan2:49\">Daniel 2:1–49</a>; <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7:1–28</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27002034",
+          "start_ref_usfm": "DAN 2:34",
+          "end_ref": "27002034",
+          "end_ref_usfm": "DAN 2:34"
+        },
+        {
+          "start_ref": "27002035",
+          "start_ref_usfm": "DAN 2:35",
+          "end_ref": "27002035",
+          "end_ref_usfm": "DAN 2:35"
+        },
+        {
+          "start_ref": "27007001",
+          "start_ref_usfm": "DAN 7:1",
+          "end_ref": "27007028",
+          "end_ref_usfm": "DAN 7:28"
+        },
+        {
+          "start_ref": "27002001",
+          "start_ref_usfm": "DAN 2:1",
+          "end_ref": "27002049",
+          "end_ref_usfm": "DAN 2:49"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

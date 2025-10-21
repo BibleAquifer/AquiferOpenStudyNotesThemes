@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 500321,
+    "reference_id": 203264,
+    "title": "Israel’s Geography as Theology",
+    "media_type": "Text",
+    "index_reference": "israel’s geography as theology",
+    "language": "eng",
+    "content": "<p>The division of the land in <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">Ezekiel 47:13–48:35</a> combines spiritual ideals with a practical message. It reinforces themes from earlier parts of the vision (<a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">Ezekiel 40–46</a>). The prophet Ezekiel envisioned a future closely linked to the past. The land of Israel remained the special land promised to Israel&apos;s patriarchs.</p><p>The map in this vision is different from the earlier tribal divisions in Joshua’s time. In Ezekiel’s vision, each tribe receives an equal portion of land. These portions are in east-to-west strips. They align the entire land with the temple at its center. These strips do not match the actual geography of the land. They are symbolic. The idea is that old tribal rivalries and hatreds will disappear, as each tribe will have equal status.</p><p>The monarchy (the system of being ruled by God&apos;s chosen king) is not abolished in this vision, but it is transformed. The ruined city from earlier chapters of Ezekiel becomes a new holy city of unity and harmony for the tribes. A life-giving river restores, bringing blessings from God&apos;s temple to every part of the people&apos;s lives.</p><p>The vision in <a href=\"https://ref.ly/Ezek40:1-Ezek48:35\">Ezekiel 40–48</a> encourages people to repent for past sins, stay faithful in difficult times, and hope for a better future through God&apos;s power and grace. The final chapters of Revelation show this vision fulfilled in Jesus (<a href=\"https://ref.ly/Rev21:1-Rev22:21\">Revelation 21–22</a>). Jesus began the spiritual reality Ezekiel described. It is a heavenly city &quot;<span>whose architect and builder is God</span>&quot; (<a href=\"https://ref.ly/Heb11:10\">Hebrews 11:10</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">Ezekiel 40:1–46:24</a>; <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">47:13–48:35</a>; <a href=\"https://ref.ly/Rev22:1-Rev22:2\">Revelation 22:1–2</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "58011010",
+          "start_ref_usfm": "HEB 11:10",
+          "end_ref": "58011010",
+          "end_ref_usfm": "HEB 11:10"
+        },
+        {
+          "start_ref": "66021001",
+          "start_ref_usfm": "REV 21:1",
+          "end_ref": "66022021",
+          "end_ref_usfm": "REV 22:21"
+        },
+        {
+          "start_ref": "66022001",
+          "start_ref_usfm": "REV 22:1",
+          "end_ref": "66022002",
+          "end_ref_usfm": "REV 22:2"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26046024",
+          "end_ref_usfm": "EZK 46:24"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "26047013",
+          "start_ref_usfm": "EZK 47:13",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

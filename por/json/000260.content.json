@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 800437,
+    "reference_id": 203268,
+    "title": "Ressurreição no Antigo Testamento",
+    "media_type": "Text",
+    "index_reference": "ressurreição no antigo testamento",
+    "language": "por",
+    "content": "<p>Muitas passagens do Antigo Testamento sugerem que o lugar onde as pessoas mortas estão é um local do qual elas não retornam (veja, por exemplo, <a href=\"https://ref.ly/Job7:6-Job7:21\">Jó 7.6–21</a>; <a href=\"https://ref.ly/Ps6:5\">Salmo 6.5</a>; <a href=\"https://ref.ly/Isa38:18-Isa38:19\">Isaías 38.18–19</a>). No entanto, algumas passagens sugerem a ideia de que as pessoas podem viver novamente após a morte (veja, por exemplo, <a href=\"https://ref.ly/Job19:25-Job19:27\">Jó 19.25–27</a>; <a href=\"https://ref.ly/Ps12:1-Ps12:3\">Salmo 16.10–11</a>; <a href=\"https://ref.ly/Isa26:19\">Isaías 26.19</a>). <a href=\"https://ref.ly/Dan12:1-Dan12:3\">Daniel 12.1–3</a> ensina que Deus trará os mortos de volta à vida. Deus disse ao profeta Daniel que ele faria parte dessa ressurreição (<a href=\"https://ref.ly/Dan12:13\">12.13</a>). A crença na ressurreição dos mortos tornou-se mais comum durante o período entre os escritos do Antigo e do Novo Testamento. Isso foi demonstrado pela popularidade da ideia durante o tempo de Jesus.</p><p>De acordo com esta passagem de Daniel, a ressurreição será diferente para cada pessoa.</p><p>Dois grupos irão ressuscitar:</p><ol><li><p>Aqueles que vivenciarão uma nova vida.</p></li><li><p>Aqueles que sentirão vergonha.</p></li></ol><p>Esses grupos têm crenças diferentes sobre o certo e o errado, padrões distintos de comportamento e maneiras variadas de seguir Deus. A ressurreição revelará a verdadeira natureza de cada pessoa. Todos serão responsáveis perante Deus Altíssimo de uma forma moral e espiritual.</p><p>O primeiro grupo terá uma nova vida chamada &quot;vida eterna&quot;. No Antigo Testamento, essa frase aparece apenas em <a href=\"https://ref.ly/Dan12:2\">Daniel 12.2</a>. Aqui, parece referir-se mais à qualidade de vida do que à sua duração. Deus limpará e purificará aqueles que experimentarem essa vida. As comparações &quot;brilhar como o esplendor dos céus&quot; e &quot;brilhar como as estrelas para todo o sempre&quot; descrevem sua glória moral.</p><p>O segundo grupo enfrentará vergonha e desgraça na eternidade porque não está moral ou espiritualmente renovado. O livro do Apocalipse no Novo Testamento expande sobre esses dois grupos da visão de Daniel (veja <a href=\"https://ref.ly/Rev20:4-Rev20:6\">Apocalipse 20.4–6</a>,<a href=\"https://ref.ly/Rev20:11-Rev20:15\">11–15</a>).</p><p>O povo de Deus finalmente escapará da morte. Aqueles ressuscitados para a vida têm seus nomes escritos no Livro da Vida (veja <a href=\"https://ref.ly/Dan7:9-Dan7:10\">Daniel 7.9–10</a>; <a href=\"https://ref.ly/Dan10:21\">10.21</a>; <a href=\"https://ref.ly/Rev20:12\">Apocalipse 20.12</a>). O Juiz, conhecido como o Ancião, os declara justos.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Job19:25-Job19:27\">Jó 19.25–27</a>; <a href=\"https://ref.ly/Dan12:1-Dan12:3\">Daniel 12.1–3</a>, <a href=\"https://ref.ly/Dan12:13\">13</a>; <a href=\"https://ref.ly/Matt27:50-Matt27:53\">Mateus 27.50–53</a>; <a href=\"https://ref.ly/Matt28:1-Matt28:20\">28.1–20</a>; <a href=\"https://ref.ly/1Cor15:1-1Cor15:58\">1 Coríntios 15.1–58</a>; <a href=\"https://ref.ly/Rev20:1-Rev20:15\">Apocalipse 20.1–15.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19006005",
+          "start_ref_usfm": "PSA 6:5",
+          "end_ref": "19006005",
+          "end_ref_usfm": "PSA 6:5"
+        },
+        {
+          "start_ref": "23026019",
+          "start_ref_usfm": "ISA 26:19",
+          "end_ref": "23026019",
+          "end_ref_usfm": "ISA 26:19"
+        },
+        {
+          "start_ref": "27010021",
+          "start_ref_usfm": "DAN 10:21",
+          "end_ref": "27010021",
+          "end_ref_usfm": "DAN 10:21"
+        },
+        {
+          "start_ref": "27012013",
+          "start_ref_usfm": "DAN 12:13",
+          "end_ref": "27012013",
+          "end_ref_usfm": "DAN 12:13"
+        },
+        {
+          "start_ref": "66020012",
+          "start_ref_usfm": "REV 20:12",
+          "end_ref": "66020012",
+          "end_ref_usfm": "REV 20:12"
+        },
+        {
+          "start_ref": "40028001",
+          "start_ref_usfm": "MAT 28:1",
+          "end_ref": "40028020",
+          "end_ref_usfm": "MAT 28:20"
+        },
+        {
+          "start_ref": "46015001",
+          "start_ref_usfm": "1CO 15:1",
+          "end_ref": "46015058",
+          "end_ref_usfm": "1CO 15:58"
+        },
+        {
+          "start_ref": "18019025",
+          "start_ref_usfm": "JOB 19:25",
+          "end_ref": "18019027",
+          "end_ref_usfm": "JOB 19:27"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020015",
+          "end_ref_usfm": "REV 20:15"
+        },
+        {
+          "start_ref": "66020011",
+          "start_ref_usfm": "REV 20:11",
+          "end_ref": "66020015",
+          "end_ref_usfm": "REV 20:15"
+        },
+        {
+          "start_ref": "66020004",
+          "start_ref_usfm": "REV 20:4",
+          "end_ref": "66020006",
+          "end_ref_usfm": "REV 20:6"
+        },
+        {
+          "start_ref": "27007009",
+          "start_ref_usfm": "DAN 7:9",
+          "end_ref": "27007010",
+          "end_ref_usfm": "DAN 7:10"
+        },
+        {
+          "start_ref": "18007006",
+          "start_ref_usfm": "JOB 7:6",
+          "end_ref": "18007021",
+          "end_ref_usfm": "JOB 7:21"
+        },
+        {
+          "start_ref": "23038018",
+          "start_ref_usfm": "ISA 38:18",
+          "end_ref": "23038019",
+          "end_ref_usfm": "ISA 38:19"
+        },
+        {
+          "start_ref": "19012001",
+          "start_ref_usfm": "PSA 12:1",
+          "end_ref": "19012003",
+          "end_ref_usfm": "PSA 12:3"
+        },
+        {
+          "start_ref": "27012001",
+          "start_ref_usfm": "DAN 12:1",
+          "end_ref": "27012003",
+          "end_ref_usfm": "DAN 12:3"
+        },
+        {
+          "start_ref": "40027050",
+          "start_ref_usfm": "MAT 27:50",
+          "end_ref": "40027053",
+          "end_ref_usfm": "MAT 27:53"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

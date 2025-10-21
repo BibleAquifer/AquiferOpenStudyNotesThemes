@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 800526,
+    "reference_id": 203357,
+    "title": "A vida antiga e a vida nova",
+    "media_type": "Text",
+    "index_reference": "a vida antiga e a vida nova",
+    "language": "por",
+    "content": "<p>Quando as pessoas se tornam cristãs, elas se unem a Jesus e compartilham de sua morte e ressurreição. A vida antiga delas, marcada pelo pecado, termina com Jesus. Elas começam uma nova vida através do poder dele dentro delas (veja <a href=\"https://ref.ly/Rom6:3-Rom6:14\">Romanos 6.3–14</a>).</p><p>Deus os transforma pelo seu Espírito. Suas mentes são renovadas (veja <a href=\"https://ref.ly/Rom12:2\">Romanos 12.2</a>). Seus desejos e ações mudam, e suas vidas começam a mostrar o seu Espírito (<a href=\"https://ref.ly/Gal5:22-Gal5:23\">Gálatas 5.22–23</a>). Eles começam a crescer espiritualmente e a se tornar mais semelhantes a Jesus.</p><p>Os cristãos têm o dever de serem &quot;conformados&quot; à morte e ressurreição de Jesus (veja <a href=\"https://ref.ly/Phil3:10-Phil3:11\">Filipenses 3.10–14</a>). Eles devem se afastar das trevas e se comprometer com uma vida cheia de luz (<a href=\"https://ref.ly/Eph4:17-Eph5:20\">Efésios 4.17–5.20</a>). Isso significa que devem parar de viver de maneiras más e começar a viver nos bons caminhos de Deus. O apóstolo Paulo descreve essa mudança usando a imagem de vestimentas. Deus chama os cristãos a removerem a vida antiga e pecaminosa influenciada pelo diabo e a vestirem uma nova vida pura guiada pelo Espírito Santo (<a href=\"https://ref.ly/Eph4:21-Eph4:24\">Efésios 4.21–24</a>; <a href=\"https://ref.ly/Col3:1-Col3:15\">Colossenses 3.1–15</a>; veja também <a href=\"https://ref.ly/Gal3:27\">Gálatas 3.27</a>). Ao fazer isso, eles reconhecem sua dependência da graça e do poder de Deus.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Rom6:3-Rom6:14\">Romanos 6.3–14</a>; <a href=\"https://ref.ly/Rom12:1-Rom12:2\">12.1–2</a>; <a href=\"https://ref.ly/Gal5:19-Gal5:23\">Gálatas 5.19–23</a>; <a href=\"https://ref.ly/Eph4:17-Eph5:20\">Efésios 4.17–5.20</a>; <a href=\"https://ref.ly/Phil3:12-Phil3:13\">Filipenses 3.12–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45012002",
+          "start_ref_usfm": "ROM 12:2",
+          "end_ref": "45012002",
+          "end_ref_usfm": "ROM 12:2"
+        },
+        {
+          "start_ref": "48003027",
+          "start_ref_usfm": "GAL 3:27",
+          "end_ref": "48003027",
+          "end_ref_usfm": "GAL 3:27"
+        },
+        {
+          "start_ref": "50003010",
+          "start_ref_usfm": "PHP 3:10",
+          "end_ref": "50003011",
+          "end_ref_usfm": "PHP 3:11"
+        },
+        {
+          "start_ref": "45012001",
+          "start_ref_usfm": "ROM 12:1",
+          "end_ref": "45012002",
+          "end_ref_usfm": "ROM 12:2"
+        },
+        {
+          "start_ref": "48005022",
+          "start_ref_usfm": "GAL 5:22",
+          "end_ref": "48005023",
+          "end_ref_usfm": "GAL 5:23"
+        },
+        {
+          "start_ref": "48005019",
+          "start_ref_usfm": "GAL 5:19",
+          "end_ref": "48005023",
+          "end_ref_usfm": "GAL 5:23"
+        },
+        {
+          "start_ref": "49004017",
+          "start_ref_usfm": "EPH 4:17",
+          "end_ref": "49005020",
+          "end_ref_usfm": "EPH 5:20"
+        },
+        {
+          "start_ref": "45006003",
+          "start_ref_usfm": "ROM 6:3",
+          "end_ref": "45006014",
+          "end_ref_usfm": "ROM 6:14"
+        },
+        {
+          "start_ref": "49004021",
+          "start_ref_usfm": "EPH 4:21",
+          "end_ref": "49004024",
+          "end_ref_usfm": "EPH 4:24"
+        },
+        {
+          "start_ref": "51003001",
+          "start_ref_usfm": "COL 3:1",
+          "end_ref": "51003015",
+          "end_ref_usfm": "COL 3:15"
+        },
+        {
+          "start_ref": "50003012",
+          "start_ref_usfm": "PHP 3:12",
+          "end_ref": "50003013",
+          "end_ref_usfm": "PHP 3:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

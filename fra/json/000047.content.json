@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 734217,
+    "reference_id": 203264,
+    "title": "La géographie symbolique d'Israël dans la vision d'Ézéchiel",
+    "media_type": "Text",
+    "index_reference": "la géographie symbolique d'israël dans la vision d'ézéchiel",
+    "language": "fra",
+    "content": "<p>La façon dont le pays d&apos;Israël est divisé dans <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">Ézéchiel 47.13–48.35</a> représente des idéaux spirituels et enseigne un message pratique. Elle renforce l&apos;enseignement sur les sujets qui ont déjà été abordés dans les parties précédentes de la vision d&apos;Ézéchiel (<a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">Ézéchiel 40–46</a>). Le prophète a présenté un avenir étroitement lié au passé. Le pays d&apos;Israël reste à l&apos;avenir la Terre promise, celle que Dieu avait promise aux patriarches d&apos;Israël et à leurs descendants.</p><p>Cependant, la façon dont le pays est divisé entre les tribus dans cette vision est très différente de la façon dont il avait été divisé à l&apos;époque de Josué. Dans la vision d&apos;Ézéchiel, chaque tribu reçoit un territoire de taille égale. Ces territoires ont la forme de bandes de terres qui s&apos;étendent d&apos;est en ouest. Le pays est donc entièrement aligné et le Temple est situé en son centre. Cette description ne correspond pas à la géographie réelle du pays : elle est symbolique. Elle représente le fait que quand les anciennes rivalités tribales disparaîtront, toutes les tribus seront d&apos;importance égale.</p><p>La monarchie, menée par un roi choisi par Dieu, n&apos;est pas abolie dans la vision, mais elle est transformée. La ville en ruine des chapitres précédents d&apos;Ézéchiel devient une nouvelle ville sainte qui amène unité et harmonie entre tribus. Un torrent dont les eaux sont fertiles apporte les bénédictions du Temple de Dieu au peuple.</p><p>La vision dans <a href=\"https://ref.ly/Ezek40:1-Ezek48:35\">Ézéchiel 40–48</a> encourage le peuple à se repentir de ses péchés passés, à rester fidèle dans les temps difficiles et à garder espoir dans l&apos;avenir meilleur que la puissance et la grâce de Dieu rendront possible. Les derniers chapitres de l&apos;Apocalypse montrent comment cette vision s&apos;accomplit en Jésus (<a href=\"https://ref.ly/Rev21:1-Rev22:21\">Apocalypse 21–22</a>). C&apos;est lui qui a inauguré ce qui va mener à la réalité spirituelle décrite par Ézéchiel. La nouvelle Jérusalem est la ville céleste « dont l&apos;architecte et le constructeur est Dieu » (<a href=\"https://ref.ly/Heb11:10\">Hé 11.10</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">Ézéchiel 40.1–46.24</a> ; <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">47.13–48.35</a> ; <a href=\"https://ref.ly/Rev22:1-Rev22:2\">Apocalypse 22.1–2</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "58011010",
+          "start_ref_usfm": "HEB 11:10",
+          "end_ref": "58011010",
+          "end_ref_usfm": "HEB 11:10"
+        },
+        {
+          "start_ref": "66021001",
+          "start_ref_usfm": "REV 21:1",
+          "end_ref": "66022021",
+          "end_ref_usfm": "REV 22:21"
+        },
+        {
+          "start_ref": "66022001",
+          "start_ref_usfm": "REV 22:1",
+          "end_ref": "66022002",
+          "end_ref_usfm": "REV 22:2"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26046024",
+          "end_ref_usfm": "EZK 46:24"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "26047013",
+          "start_ref_usfm": "EZK 47:13",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500411,
+    "reference_id": 203354,
+    "title": "Righteousness by Faith",
+    "media_type": "Text",
+    "index_reference": "righteousness by faith",
+    "language": "eng",
+    "content": "<p>A key question in the early church was whether gentiles (non-Jewish people) who accepted the good news about Jesus needed to follow Jewish rules (including circumcision) to become part of God&apos;s family.</p><p>For the apostle Paul, the answer was simple. People cannot make themselves right with God by their own efforts. Only Jesus could accomplish (and has accomplished) what was necessary for reconciliation with God. Salvation is a gift of God&apos;s grace received through faith. Our response is to trust in Christ, give thanks for what he has done, and live in a way that reflects his love and truth.</p><p>For Jewish Christians in the first century, it was hard to accept this answer. From the time of Abraham, right relationship with God had been marked by circumcision, the ceremony of cutting off the male foreskin (<a href=\"https://ref.ly/Gen17:9-Gen17:14\">Genesis 17:9–14</a>). Every male who was part of God&apos;s family had to be circumcised, and those who neglected to do so were cut off from God&apos;s people. Those who had received circumcision were also expected to keep the rest of the law, including the Sabbath and dietary rules about food.</p><p>When Christianity spread from Jews to non-Jews, it was natural for questions to arise. Do Christians need to be circumcised (and keep God&apos;s law in general) to be accepted as part of God&apos;s family? Or does God accept people because of their faith in Christ&apos;s work on the cross? As Paul&apos;s mission to gentiles advanced, these questions became urgent.</p><p>The apostle Peter understood from his vision in Joppa and his experience in Caesarea that God has accepted gentiles <em>as gentiles,</em> because of their faith in Christ&apos;s finished work (<a href=\"https://ref.ly/Acts10:9-Acts11:18\">Acts 10:9–11:18</a>). They did not have to become Jewish by practicing circumcision or the ceremonial laws. Christ provided them open access to God by faith. Peter and the Jerusalem church therefore welcomed gentile believers into fellowship. But later, Peter temporarily stopped eating with gentiles when some Jewish Christians criticized him (<a href=\"https://ref.ly/Gal2:11-Gal2:13\">Galatians 2:11–13</a>). In response, Paul rebuked Peter for suggesting that gentiles must become Jews in order to be accepted by God (<a href=\"https://ref.ly/Gal2:14-Gal2:21\">2:14–21</a>).</p><p>No one is made right with God by keeping the law (<a href=\"https://ref.ly/Gal2:16\">Galatians 2:16</a>). Even Abraham was counted as righteous because of his faith (<a href=\"https://ref.ly/Gen15:6\">Genesis 15:6</a>; <a href=\"https://ref.ly/Gal3:6\">Galatians 3:6</a>; <a href=\"https://ref.ly/Jas2:21-Jas2:24\">James 2:21–24</a>). It was not because of circumcision, which came later (<a href=\"https://ref.ly/Gen17:9-Gen17:14\">Genesis 17:9–14</a>). Both Jews and gentiles are brought into right relationship with God through faith, which is a response to his grace.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen15:6\">Genesis 15:6</a>; <a href=\"https://ref.ly/Hab2:4\">Habakkuk 2:4</a>; <a href=\"https://ref.ly/Acts10:1-Acts11:18\">Acts 10:1–11:18</a>; <a href=\"https://ref.ly/Rom1:17\">Romans 1:17</a>; <a href=\"https://ref.ly/Gal2:14-Gal2:21\">Galatians 2:14–21</a>; <a href=\"https://ref.ly/Gal3:11\">Galatians 3:11</a>; <a href=\"https://ref.ly/Heb10:38\">Hebrews 10:38</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015006",
+          "end_ref_usfm": "GEN 15:6"
+        },
+        {
+          "start_ref": "35002004",
+          "start_ref_usfm": "HAB 2:4",
+          "end_ref": "35002004",
+          "end_ref_usfm": "HAB 2:4"
+        },
+        {
+          "start_ref": "45001017",
+          "start_ref_usfm": "ROM 1:17",
+          "end_ref": "45001017",
+          "end_ref_usfm": "ROM 1:17"
+        },
+        {
+          "start_ref": "48002016",
+          "start_ref_usfm": "GAL 2:16",
+          "end_ref": "48002016",
+          "end_ref_usfm": "GAL 2:16"
+        },
+        {
+          "start_ref": "48003006",
+          "start_ref_usfm": "GAL 3:6",
+          "end_ref": "48003006",
+          "end_ref_usfm": "GAL 3:6"
+        },
+        {
+          "start_ref": "48003011",
+          "start_ref_usfm": "GAL 3:11",
+          "end_ref": "48003011",
+          "end_ref_usfm": "GAL 3:11"
+        },
+        {
+          "start_ref": "58010038",
+          "start_ref_usfm": "HEB 10:38",
+          "end_ref": "58010038",
+          "end_ref_usfm": "HEB 10:38"
+        },
+        {
+          "start_ref": "01017009",
+          "start_ref_usfm": "GEN 17:9",
+          "end_ref": "01017014",
+          "end_ref_usfm": "GEN 17:14"
+        },
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        },
+        {
+          "start_ref": "48002014",
+          "start_ref_usfm": "GAL 2:14",
+          "end_ref": "48002021",
+          "end_ref_usfm": "GAL 2:21"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002013",
+          "end_ref_usfm": "GAL 2:13"
+        },
+        {
+          "start_ref": "44010009",
+          "start_ref_usfm": "ACT 10:9",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

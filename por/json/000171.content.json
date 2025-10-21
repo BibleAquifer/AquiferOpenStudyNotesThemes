@@ -1,0 +1,78 @@
+[
+  {
+    "content_id": 800559,
+    "reference_id": 203390,
+    "title": "O anticristo",
+    "media_type": "Text",
+    "index_reference": "o anticristo",
+    "language": "por",
+    "content": "<p>O termo <em>anticristo</em> aparece apenas nas cartas do apóstolo João (<a href=\"https://ref.ly/1John2:18\">1 João 2.18</a>,<a href=\"https://ref.ly/1John2:22\">22</a>; <a href=\"https://ref.ly/1John4:3\">4.3</a>; <a href=\"https://ref.ly/2John1:7\">2 João 1.7</a>). João acreditava que muitos anticristos apareceriam ao longo da história (<a href=\"https://ref.ly/1John2:18\">1 João 2.18</a>). Esses anticristos negariam que Jesus é tanto divino quanto humano (<a href=\"https://ref.ly/1John2:22\">1 João 2.22</a>; <a href=\"https://ref.ly/1John4:2-1John4:3\">4.2–3</a>; <a href=\"https://ref.ly/2John1:7\">2 João 1.7</a>).</p><p>O apóstolo Paulo menciona &quot;o Perverso&quot; que aparecerá nos últimos tempos para iniciar uma rebelião contra Deus (<a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Tessalonicenses 2.1–12</a>). Esta pessoa &quot;chegará com o poder de Satanás&quot;. Isso ocorre principalmente por meio do engano. Apocalipse não o chama especificamente de &quot;anticristo&quot;. Mas este &quot;Perverso&quot;, assim como os &quot;anticristos&quot; nas cartas de João, se oporá à verdade.</p><p>Em <a href=\"https://ref.ly/Rev13:1-Rev13:18\">Apocalipse 13</a>, um espírito que se opõe a Jesus Cristo é &quot;outra besta&quot; servindo o dragão (Satanás) e a primeira besta. O número deste Anticristo, 666, provavelmente representava o Imperador Nero e possivelmente o Imperador Domiciano (veja <span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">nota de estudo em 17.8</span>). A adoração ao Imperador, que declarava &quot;César é Senhor!&quot;, era uma religião falsa que se opunha à proclamação de Jesus Cristo como Senhor.</p><p>Não se sabe ao certo se João esperava um Anticristo final ainda maior do que líderes como Nero ou Domiciano. No entanto, os cristãos devem reconhecer a presença do mal. Eles também devem reconhecer sua oposição a Cristo em pessoas e estruturas de poder em todo o mundo. Resistir a esses inimigos pode levar à perseguição e até à morte. Mas nossa esperança está na vitória final através de Cristo.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/2Thess2:3-2Thess2:10\">2 Tessalonicenses 2.3–10</a>; <a href=\"https://ref.ly/1John2:18\">1 João 2.18</a>,<a href=\"https://ref.ly/1John2:22\">22</a>; <a href=\"https://ref.ly/1John4:2-1John4:3\">4.2–3</a>; <a href=\"https://ref.ly/2John1:7\">2 João 1.7</a>; <a href=\"https://ref.ly/Rev13:11\">Apocalipse 13.11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62002018",
+          "start_ref_usfm": "1JN 2:18",
+          "end_ref": "62002018",
+          "end_ref_usfm": "1JN 2:18"
+        },
+        {
+          "start_ref": "62002022",
+          "start_ref_usfm": "1JN 2:22",
+          "end_ref": "62002022",
+          "end_ref_usfm": "1JN 2:22"
+        },
+        {
+          "start_ref": "62004003",
+          "start_ref_usfm": "1JN 4:3",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001007",
+          "end_ref_usfm": "2JN 1:7"
+        },
+        {
+          "start_ref": "66013011",
+          "start_ref_usfm": "REV 13:11",
+          "end_ref": "66013011",
+          "end_ref_usfm": "REV 13:11"
+        },
+        {
+          "start_ref": "62004002",
+          "start_ref_usfm": "1JN 4:2",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "66013001",
+          "start_ref_usfm": "REV 13:1",
+          "end_ref": "66013018",
+          "end_ref_usfm": "REV 13:18"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "53002003",
+          "start_ref_usfm": "2TH 2:3",
+          "end_ref": "53002010",
+          "end_ref_usfm": "2TH 2:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 24473,
+          "content_id": 723069,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalipse 17.8",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]
