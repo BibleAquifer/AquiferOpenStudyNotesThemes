@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 700219,
+    "reference_id": 203156,
+    "title": "招喚死人",
+    "media_type": "Text",
+    "index_reference": "招喚死人",
+    "language": "zht",
+    "content": "<p>舊約聖經明確禁止各種巫術行為，包括招魂術（spiritism）、占卜（divination）與通靈（necromancy）。通靈是指與死者的靈魂接觸，通常是為了尋求未來的指引（見<a href=\"https://ref.ly/Deut18:9-Deut18:12\">申18:9–12</a>）。行通靈和求問通靈者都是重罪，依法當處以死刑（<a href=\"https://ref.ly/Lev20:6\">利20:6</a>、<a href=\"https://ref.ly/Lev20:27\">27</a>；參<a href=\"https://ref.ly/1Sam28:9\">撒上28:9</a>）。相反的，神的子民應當單單倚靠神來尋求引導。</p><p>神將摩西安葬在一處無人知曉的墳地（<a href=\"https://ref.ly/Deut34:6\">申34:6</a>），很可能是為了防止以色列人將那地方變成偶像崇拜的場所。神不願祂的子民向摩西的靈魂獻祭、敬拜他，或試圖與他的靈溝通。以色列人可能會受到這類試探，因為他們曾在埃及見過這類行為。此外，摩西作為以色列與神立約的中保，他的重要地位也可能引誘百姓以不當的方式紀念他。</p><p>舊約明確指出，人無法與死者接觸或交談（見<a href=\"https://ref.ly/2Sam12:23\">撒下12:23</a>；<a href=\"https://ref.ly/Job14:10-Job14:12\">伯14:10–12</a>；<a href=\"https://ref.ly/Ps88:10\">詩88:10，</a><a href=\"https://ref.ly/Ps115:17\">115:17</a>）。其中唯一的例外是先知撒母耳。他似乎是奉神的命令回來發出審判（見<a href=\"https://ref.ly/1Sam28:12-1Sam28:19\">撒上28:12–19</a>）。掃羅透過一位自稱能與死者交談的人（靈媒）來招喚撒母耳，這是一項極為嚴重的罪。歷代志的作者特別指出這件事，並視之為掃羅失去王位的重要原因之一（見<a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">代上10:13–14</a>）。我們沒有任何理由去通靈（向死者尋求建議），因為我們已有神活潑的道作為引導（<a href=\"https://ref.ly/2Tim3:15-2Tim3:17\">提後3:15–17</a>；<a href=\"https://ref.ly/Heb4:12-Heb4:13\">來4:12–13</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Lev19:31\">利19:31，</a><a href=\"https://ref.ly/Lev20:6-Lev20:8\">20:6–8</a>、<a href=\"https://ref.ly/Lev20:27\">27</a>；<a href=\"https://ref.ly/Deut18:9-Deut18:12\">申18:9–12</a>；<a href=\"https://ref.ly/1Sam28:1-1Sam28:25\">撒上28:1–25</a>；<a href=\"https://ref.ly/2Kgs21:6\">王下21:6，</a><a href=\"https://ref.ly/2Kgs23:24\">23:24</a>；<a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">代上10:13–14</a>；<a href=\"https://ref.ly/Job14:10-Job14:12\">伯14:10–12</a>；<a href=\"https://ref.ly/Isa3:1-Isa3:3\">賽3:1–3，</a><a href=\"https://ref.ly/Isa8:19-Isa8:22\">8:19–22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03019031",
+          "start_ref_usfm": "LEV 19:31",
+          "end_ref": "03019031",
+          "end_ref_usfm": "LEV 19:31"
+        },
+        {
+          "start_ref": "03020006",
+          "start_ref_usfm": "LEV 20:6",
+          "end_ref": "03020006",
+          "end_ref_usfm": "LEV 20:6"
+        },
+        {
+          "start_ref": "03020027",
+          "start_ref_usfm": "LEV 20:27",
+          "end_ref": "03020027",
+          "end_ref_usfm": "LEV 20:27"
+        },
+        {
+          "start_ref": "05034006",
+          "start_ref_usfm": "DEU 34:6",
+          "end_ref": "05034006",
+          "end_ref_usfm": "DEU 34:6"
+        },
+        {
+          "start_ref": "09028009",
+          "start_ref_usfm": "1SA 28:9",
+          "end_ref": "09028009",
+          "end_ref_usfm": "1SA 28:9"
+        },
+        {
+          "start_ref": "10012023",
+          "start_ref_usfm": "2SA 12:23",
+          "end_ref": "10012023",
+          "end_ref_usfm": "2SA 12:23"
+        },
+        {
+          "start_ref": "12021006",
+          "start_ref_usfm": "2KI 21:6",
+          "end_ref": "12021006",
+          "end_ref_usfm": "2KI 21:6"
+        },
+        {
+          "start_ref": "12023024",
+          "start_ref_usfm": "2KI 23:24",
+          "end_ref": "12023024",
+          "end_ref_usfm": "2KI 23:24"
+        },
+        {
+          "start_ref": "19088010",
+          "start_ref_usfm": "PSA 88:10",
+          "end_ref": "19088010",
+          "end_ref_usfm": "PSA 88:10"
+        },
+        {
+          "start_ref": "19115017",
+          "start_ref_usfm": "PSA 115:17",
+          "end_ref": "19115017",
+          "end_ref_usfm": "PSA 115:17"
+        },
+        {
+          "start_ref": "13010013",
+          "start_ref_usfm": "1CH 10:13",
+          "end_ref": "13010014",
+          "end_ref_usfm": "1CH 10:14"
+        },
+        {
+          "start_ref": "09028001",
+          "start_ref_usfm": "1SA 28:1",
+          "end_ref": "09028025",
+          "end_ref_usfm": "1SA 28:25"
+        },
+        {
+          "start_ref": "58004012",
+          "start_ref_usfm": "HEB 4:12",
+          "end_ref": "58004013",
+          "end_ref_usfm": "HEB 4:13"
+        },
+        {
+          "start_ref": "23008019",
+          "start_ref_usfm": "ISA 8:19",
+          "end_ref": "23008022",
+          "end_ref_usfm": "ISA 8:22"
+        },
+        {
+          "start_ref": "05018009",
+          "start_ref_usfm": "DEU 18:9",
+          "end_ref": "05018012",
+          "end_ref_usfm": "DEU 18:12"
+        },
+        {
+          "start_ref": "18014010",
+          "start_ref_usfm": "JOB 14:10",
+          "end_ref": "18014012",
+          "end_ref_usfm": "JOB 14:12"
+        },
+        {
+          "start_ref": "09028012",
+          "start_ref_usfm": "1SA 28:12",
+          "end_ref": "09028019",
+          "end_ref_usfm": "1SA 28:19"
+        },
+        {
+          "start_ref": "55003015",
+          "start_ref_usfm": "2TI 3:15",
+          "end_ref": "55003017",
+          "end_ref_usfm": "2TI 3:17"
+        },
+        {
+          "start_ref": "03020006",
+          "start_ref_usfm": "LEV 20:6",
+          "end_ref": "03020008",
+          "end_ref_usfm": "LEV 20:8"
+        },
+        {
+          "start_ref": "23003001",
+          "start_ref_usfm": "ISA 3:1",
+          "end_ref": "23003003",
+          "end_ref_usfm": "ISA 3:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

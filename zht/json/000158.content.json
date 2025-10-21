@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 700184,
+    "reference_id": 203121,
+    "title": "神絕對的聖潔",
+    "media_type": "Text",
+    "index_reference": "神絕對的聖潔",
+    "language": "zht",
+    "content": "<p>聖潔是描述神的一個主要方式。這不只是祂眾多屬性中的一個，而是祂身分的核心；稱呼神為「聖者」，是強調祂與一切人或事物完全不同。萬有都存在於時間的限制之中，唯有神不受任何限制。</p><p>神自稱：「我是自有永有的」（<a href=\"https://ref.ly/Exod3:14\">出3:14</a>），表示祂以自己來定義自己。神完全有別於祂的一切受造，祂全然自足，與祂所創造的一切分別開來。</p><p>神的聖潔也指祂的品格。人們常常描述神的聖潔為祂遠離罪惡，並對罪的忿怒。然而，聖潔也包括祂性情的一切層面，例如祂的憐憫。神向摩西啟示祂自己是「有憐憫有恩典的神」。他是「不輕易發怒，並有豐盛的慈愛和誠實，為千萬人存留慈愛，赦免罪孽、過犯，和罪惡，萬不以有罪的為無罪」（<a href=\"https://ref.ly/Exod34:6-Exod34:7\">出34:6–7</a>）。</p><p>神的聖潔對那些不敬虔、不按神規定接近祂的人而言，是極其危險的（<a href=\"https://ref.ly/Isa6:3\">賽6:3</a>、<a href=\"https://ref.ly/Isa6:5\">5</a>；見<a href=\"https://ref.ly/Exod28:35\">出28:35</a>）。祂無窮的聖潔對不完全的人類來說是極其震懾的，若沒有祂的憐憫，人將無法在祂面前存活。</p><p>當我們明白神的聖潔時，應當充滿敬畏與驚嘆。我們絕不可輕率對待祂的聖潔，也不可缺乏對祂應有的尊崇。這可能正是拿答與亞比戶被擊殺的原因（<a href=\"https://ref.ly/Lev10:1-Lev10:3\">利10:1–3</a>）。唯有認識神可畏的聖潔，我們才能真正明白祂對我們的愛，也才能以正確與真誠的心來敬拜祂。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Exod3:14\">出3:14，</a><a href=\"https://ref.ly/Exod34:6-Exod34:7\">34:6–7</a>；<a href=\"https://ref.ly/Lev10:3\">利10:3</a>；<a href=\"https://ref.ly/Lev11:44-Lev11:45\">利11:44–45</a>；<a href=\"https://ref.ly/1Sam2:1-1Sam2:2\">撒上2:1–2</a>；<a href=\"https://ref.ly/Isa6:3-Isa6:5\">賽6:3–5，</a><a href=\"https://ref.ly/Isa52:10\">52:10</a>；<a href=\"https://ref.ly/Hos11:9\">何11:9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02003014",
+          "start_ref_usfm": "EXO 3:14",
+          "end_ref": "02003014",
+          "end_ref_usfm": "EXO 3:14"
+        },
+        {
+          "start_ref": "02028035",
+          "start_ref_usfm": "EXO 28:35",
+          "end_ref": "02028035",
+          "end_ref_usfm": "EXO 28:35"
+        },
+        {
+          "start_ref": "03010003",
+          "start_ref_usfm": "LEV 10:3",
+          "end_ref": "03010003",
+          "end_ref_usfm": "LEV 10:3"
+        },
+        {
+          "start_ref": "23006003",
+          "start_ref_usfm": "ISA 6:3",
+          "end_ref": "23006003",
+          "end_ref_usfm": "ISA 6:3"
+        },
+        {
+          "start_ref": "23006005",
+          "start_ref_usfm": "ISA 6:5",
+          "end_ref": "23006005",
+          "end_ref_usfm": "ISA 6:5"
+        },
+        {
+          "start_ref": "23052010",
+          "start_ref_usfm": "ISA 52:10",
+          "end_ref": "23052010",
+          "end_ref_usfm": "ISA 52:10"
+        },
+        {
+          "start_ref": "28011009",
+          "start_ref_usfm": "HOS 11:9",
+          "end_ref": "28011009",
+          "end_ref_usfm": "HOS 11:9"
+        },
+        {
+          "start_ref": "02034006",
+          "start_ref_usfm": "EXO 34:6",
+          "end_ref": "02034007",
+          "end_ref_usfm": "EXO 34:7"
+        },
+        {
+          "start_ref": "03011044",
+          "start_ref_usfm": "LEV 11:44",
+          "end_ref": "03011045",
+          "end_ref_usfm": "LEV 11:45"
+        },
+        {
+          "start_ref": "03010001",
+          "start_ref_usfm": "LEV 10:1",
+          "end_ref": "03010003",
+          "end_ref_usfm": "LEV 10:3"
+        },
+        {
+          "start_ref": "23006003",
+          "start_ref_usfm": "ISA 6:3",
+          "end_ref": "23006005",
+          "end_ref_usfm": "ISA 6:5"
+        },
+        {
+          "start_ref": "09002001",
+          "start_ref_usfm": "1SA 2:1",
+          "end_ref": "09002002",
+          "end_ref_usfm": "1SA 2:2"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

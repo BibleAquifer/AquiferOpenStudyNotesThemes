@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 700346,
+    "reference_id": 203283,
+    "title": "小信",
+    "media_type": "Text",
+    "index_reference": "小信",
+    "language": "zht",
+    "content": "<p>翻譯為「小信」的希臘文詞語及相關表達，在馬太福音中出現了五次（<a href=\"https://ref.ly/Matt6:30\">太6:30，</a><a href=\"https://ref.ly/Matt8:26\">8:26，</a><a href=\"https://ref.ly/Matt14:31\">14:31，</a><a href=\"https://ref.ly/Matt16:8\">16:8，</a><a href=\"https://ref.ly/Matt17:20\">17:20</a>），在路加福音出現一次（<a href=\"https://ref.ly/Luke12:28\">路12:28</a>；參<a href=\"https://ref.ly/Jas1:6-Jas1:7\">雅1:6–7</a>）。這個詞語指的是一個特定事件，而不是持續失敗。</p><p>在馬太福音中，「小信」通常指門徒在某些情況下缺乏認識或信靠（<a href=\"https://ref.ly/Matt16:8-Matt16:11\">太16:8–11</a>）。若是長期缺乏信心，就被稱為「不信」（見<a href=\"https://ref.ly/Matt13:58\">太13:58</a>）。</p><p>一些「小信」的例子包括：</p><ul><li><p>當門徒不了解自己的價值，或懷疑神的保護時（<a href=\"https://ref.ly/Matt6:30\">6:30</a>）；</p></li><li><p>當門徒在危險中不信靠神的保護時（<a href=\"https://ref.ly/Matt8:26\">8:26</a>，<a href=\"https://ref.ly/Matt14:31\">14:31</a>）；</p></li><li><p>當門徒誤解耶穌關於酵的教導時（<a href=\"https://ref.ly/Matt16:8\">16:8</a>）；以及</p></li><li><p>當門徒無法趕鬼時（<a href=\"https://ref.ly/Matt17:20\">17:20</a>）。</p></li></ul><p>這些都是特定情況下的失敗，而非徹底失去信心。</p><p><strong>信心</strong>這個詞本身涵蓋兩個層面：<strong>信靠</strong>（對主的個人依賴）和<strong>相信</strong>（接受真理）。馬太對「小信」的關注，主要關於門徒在某些時刻缺乏信靠，而非指他們不信耶穌是主和救主。耶穌希望祂的跟隨者不僅相信他，還要信靠祂、愛祂和順服祂（見<a href=\"https://ref.ly/Matt7:21-Matt7:29\">太7:21–29，</a><a href=\"https://ref.ly/Matt22:34-Matt22:40\">22:34–40</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Matt6:30\">太6:30，</a><a href=\"https://ref.ly/Matt7:21-Matt7:29\">7:21–29，</a><a href=\"https://ref.ly/Matt8:26\">8:26，</a><a href=\"https://ref.ly/Matt13:58\">13:58，</a><a href=\"https://ref.ly/Matt14:31\">14:31，</a><a href=\"https://ref.ly/Matt16:8\">16:8，</a><a href=\"https://ref.ly/Matt17:20\">17:20，</a><a href=\"https://ref.ly/Matt22:34-Matt22:40\">22:34–40</a>；<a href=\"https://ref.ly/Luke12:28\">路12:28</a>；<a href=\"https://ref.ly/Jas1:6-Jas1:8\">雅1:6–8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40006030",
+          "start_ref_usfm": "MAT 6:30",
+          "end_ref": "40006030",
+          "end_ref_usfm": "MAT 6:30"
+        },
+        {
+          "start_ref": "40008026",
+          "start_ref_usfm": "MAT 8:26",
+          "end_ref": "40008026",
+          "end_ref_usfm": "MAT 8:26"
+        },
+        {
+          "start_ref": "40013058",
+          "start_ref_usfm": "MAT 13:58",
+          "end_ref": "40013058",
+          "end_ref_usfm": "MAT 13:58"
+        },
+        {
+          "start_ref": "40014031",
+          "start_ref_usfm": "MAT 14:31",
+          "end_ref": "40014031",
+          "end_ref_usfm": "MAT 14:31"
+        },
+        {
+          "start_ref": "40016008",
+          "start_ref_usfm": "MAT 16:8",
+          "end_ref": "40016008",
+          "end_ref_usfm": "MAT 16:8"
+        },
+        {
+          "start_ref": "40017020",
+          "start_ref_usfm": "MAT 17:20",
+          "end_ref": "40017020",
+          "end_ref_usfm": "MAT 17:20"
+        },
+        {
+          "start_ref": "42012028",
+          "start_ref_usfm": "LUK 12:28",
+          "end_ref": "42012028",
+          "end_ref_usfm": "LUK 12:28"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022040",
+          "end_ref_usfm": "MAT 22:40"
+        },
+        {
+          "start_ref": "59001006",
+          "start_ref_usfm": "JAS 1:6",
+          "end_ref": "59001007",
+          "end_ref_usfm": "JAS 1:7"
+        },
+        {
+          "start_ref": "40016008",
+          "start_ref_usfm": "MAT 16:8",
+          "end_ref": "40016011",
+          "end_ref_usfm": "MAT 16:11"
+        },
+        {
+          "start_ref": "40007021",
+          "start_ref_usfm": "MAT 7:21",
+          "end_ref": "40007029",
+          "end_ref_usfm": "MAT 7:29"
+        },
+        {
+          "start_ref": "59001006",
+          "start_ref_usfm": "JAS 1:6",
+          "end_ref": "59001008",
+          "end_ref_usfm": "JAS 1:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

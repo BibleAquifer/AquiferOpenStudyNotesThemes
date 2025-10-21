@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 700295,
+    "reference_id": 203232,
+    "title": "大自然之美",
+    "media_type": "Text",
+    "index_reference": "大自然之美",
+    "language": "zht",
+    "content": "<p>在神完成創造的工作後，神說祂所造的一切都「甚好」（<a href=\"https://ref.ly/Gen1:31\">創1:31</a>）。聖經中經常提及神所創造之物的美麗與奇妙，特別是在詩篇中（例如，<a href=\"https://ref.ly/Ps8:3-Ps8:4\">詩8:3–4</a>，<a href=\"https://ref.ly/Ps104:1-Ps104:35\">詩104:1–35</a>）。</p><p>在雅歌中，大自然與來自大自然的意象佔有重要地位。書中男女常在鄉間表達彼此的愛意（<a href=\"https://ref.ly/Song2:8-Song2:17\">歌2:8–17，</a><a href=\"https://ref.ly/Song4:12-Song5:1\">4:12–5:1，</a><a href=\"https://ref.ly/Song6:2-Song6:3\">6:2–3、</a><a href=\"https://ref.ly/Song6:11-Song6:12\">11–12</a>）。這些場景充滿芳香與私密空間，園子、葡萄園和果園營造出親密又浪漫的氛圍。大自然的奧祕，為他們的愛情提供一個單純卻又新鮮且令人興奮的場景。</p><p>這對情侶用許多大自然的比喻，描繪彼此的容貌及其激發的情感。他們對彼此的形容，往往借用神的創造作為比喻。</p><p>大自然引人歸向造物主，見證祂的大能、良善、公義與慈愛（見<a href=\"https://ref.ly/Ps19:1-Ps19:4\">詩19:1–4</a>；<a href=\"https://ref.ly/Rom1:18-Rom1:20\">羅1:18–20</a>）。自然之美也彰顯神對救贖、更新與新創造的渴望，例如季節的更替、植物的生長與新生命的誕生。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Gen2:1-Gen2:9\">創2:1–9</a>；<a href=\"https://ref.ly/Ps8:3-Ps8:8\">詩8:3–8</a>，<a href=\"https://ref.ly/Ps19:1-Ps19:6\">19:1–6</a>，<a href=\"https://ref.ly/Ps96:5-Ps96:6\">96:5–6</a>；<a href=\"https://ref.ly/Song2:8-Song2:17\">歌2:8–17</a>，<a href=\"https://ref.ly/Song4:12-Song5:1\">4:12–5:1</a>，<a href=\"https://ref.ly/Song6:2-Song6:3\">6:2–3</a>、<a href=\"https://ref.ly/Song6:11-Song6:12\">11–12</a>，<a href=\"https://ref.ly/Song7:10-Song7:13\">7:10–13</a>；<a href=\"https://ref.ly/Matt6:26-Matt6:30\">太6:26–30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001031",
+          "start_ref_usfm": "GEN 1:31",
+          "end_ref": "01001031",
+          "end_ref_usfm": "GEN 1:31"
+        },
+        {
+          "start_ref": "19019001",
+          "start_ref_usfm": "PSA 19:1",
+          "end_ref": "19019006",
+          "end_ref_usfm": "PSA 19:6"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001020",
+          "end_ref_usfm": "ROM 1:20"
+        },
+        {
+          "start_ref": "19019001",
+          "start_ref_usfm": "PSA 19:1",
+          "end_ref": "19019004",
+          "end_ref_usfm": "PSA 19:4"
+        },
+        {
+          "start_ref": "19104001",
+          "start_ref_usfm": "PSA 104:1",
+          "end_ref": "19104035",
+          "end_ref_usfm": "PSA 104:35"
+        },
+        {
+          "start_ref": "19008003",
+          "start_ref_usfm": "PSA 8:3",
+          "end_ref": "19008004",
+          "end_ref_usfm": "PSA 8:4"
+        },
+        {
+          "start_ref": "22002008",
+          "start_ref_usfm": "SNG 2:8",
+          "end_ref": "22002017",
+          "end_ref_usfm": "SNG 2:17"
+        },
+        {
+          "start_ref": "22004012",
+          "start_ref_usfm": "SNG 4:12",
+          "end_ref": "22005001",
+          "end_ref_usfm": "SNG 5:1"
+        },
+        {
+          "start_ref": "22006002",
+          "start_ref_usfm": "SNG 6:2",
+          "end_ref": "22006003",
+          "end_ref_usfm": "SNG 6:3"
+        },
+        {
+          "start_ref": "22006011",
+          "start_ref_usfm": "SNG 6:11",
+          "end_ref": "22006012",
+          "end_ref_usfm": "SNG 6:12"
+        },
+        {
+          "start_ref": "01002001",
+          "start_ref_usfm": "GEN 2:1",
+          "end_ref": "01002009",
+          "end_ref_usfm": "GEN 2:9"
+        },
+        {
+          "start_ref": "19008003",
+          "start_ref_usfm": "PSA 8:3",
+          "end_ref": "19008008",
+          "end_ref_usfm": "PSA 8:8"
+        },
+        {
+          "start_ref": "19096005",
+          "start_ref_usfm": "PSA 96:5",
+          "end_ref": "19096006",
+          "end_ref_usfm": "PSA 96:6"
+        },
+        {
+          "start_ref": "22007010",
+          "start_ref_usfm": "SNG 7:10",
+          "end_ref": "22007013",
+          "end_ref_usfm": "SNG 7:13"
+        },
+        {
+          "start_ref": "40006026",
+          "start_ref_usfm": "MAT 6:26",
+          "end_ref": "40006030",
+          "end_ref_usfm": "MAT 6:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

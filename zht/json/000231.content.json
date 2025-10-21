@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 700326,
+    "reference_id": 203263,
+    "title": "聖殿規條的神學信息",
+    "media_type": "Text",
+    "index_reference": "聖殿規條的神學信息",
+    "language": "zht",
+    "content": "<p>猶太教的宗教教師（稱為「拉比」）曾經努力嘗試，想讓<a href=\"https://ref.ly/Ezek44:1-Ezek48:35\">以西結書四十四至四十八章</a>中的律例與妥拉（Torah，神藉摩西所頒布的律法）一致<span>。</span>但這些努力最終未能成功，<span>因為這幾章的目的，並不是為了與摩西律法吻合。正如聖殿異象的設計跟會幕或所羅門聖殿不同</span>（<a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">結40–43章</a>），<span>這些聖殿</span>規條旨在<span>傳遞一個關於改變的神學信息，與先前聖殿建築設計的象徵意義一脈相承</span>。</p><p><span>這些</span>規條<span>特別強調，聖殿與王宮必須是分開的。</span>獻祭的次數將有所增加，並更加強調潔淨的功能。聖潔的子民將再次向聖潔的神獻上祭物，透過這些儀式來把聖潔的分別出來，使神的子民得以潔淨。因著過去聖殿遭到玷污與偶像崇拜，耶和華的榮耀曾離開祂的殿（<a href=\"https://ref.ly/Ezek8:1-Ezek11:25\">結8–11章</a>）。</p><p>因此，若要神再次住在祂子民中間，他們就必須建立一個新的秩序。這些律例旨在讓聽見這異象的百姓明白，他們過去混淆聖潔與不聖潔的錯誤，也讓他們看見神將親自恢復祂子民正確的敬拜。</p><p>這些規條同時也表明，那位出自大衛家的王（王子）必須完全順服於耶和華之下。這一點最終在耶穌基督身上得以成全。祂來到世上，甘願作僕人君王，樂意遵行父的旨意（<a href=\"https://ref.ly/Matt4:1-Matt4:11\">太4:1–11</a>，<a href=\"https://ref.ly/Matt20:25-Matt20:28\">20:25–28</a>）。祂獻上完全的祭，為罪人除罪，並一次永遠潔淨了天上的聖所，使神可以永遠與祂的子民同住（<a href=\"https://ref.ly/Heb9:11-Heb9:12\">來9:11–12</a>、<a href=\"https://ref.ly/Heb9:23\">23</a>）。祂的寶血潔淨我們一切的罪，使我們可以坦然無懼進入天上最聖潔的地方，不再懼怕被棄絕或審判。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Isa56:7\">賽56:7</a>；<a href=\"https://ref.ly/Ezek8:1-Ezek11:25\">結8:1–11:25</a>，<a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">40:1–43:27</a>，<a href=\"https://ref.ly/Ezek44:1-Ezek46:18\">44:1–46:18</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23056007",
+          "start_ref_usfm": "ISA 56:7",
+          "end_ref": "23056007",
+          "end_ref_usfm": "ISA 56:7"
+        },
+        {
+          "start_ref": "58009023",
+          "start_ref_usfm": "HEB 9:23",
+          "end_ref": "58009023",
+          "end_ref_usfm": "HEB 9:23"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "26008001",
+          "start_ref_usfm": "EZK 8:1",
+          "end_ref": "26011025",
+          "end_ref_usfm": "EZK 11:25"
+        },
+        {
+          "start_ref": "40020025",
+          "start_ref_usfm": "MAT 20:25",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26043027",
+          "end_ref_usfm": "EZK 43:27"
+        },
+        {
+          "start_ref": "26044001",
+          "start_ref_usfm": "EZK 44:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "58009011",
+          "start_ref_usfm": "HEB 9:11",
+          "end_ref": "58009012",
+          "end_ref_usfm": "HEB 9:12"
+        },
+        {
+          "start_ref": "26044001",
+          "start_ref_usfm": "EZK 44:1",
+          "end_ref": "26046018",
+          "end_ref_usfm": "EZK 46:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

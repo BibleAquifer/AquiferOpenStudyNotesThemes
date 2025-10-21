@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 700409,
+    "reference_id": 203346,
+    "title": "教會是活潑的身體",
+    "media_type": "Text",
+    "index_reference": "教會是活潑的身體",
+    "language": "zht",
+    "content": "<p>使徒保羅視教會為由信徒組成，耶穌基督的活潑身體。保羅沒有正式指出專職教會領袖與一般信徒之間的區分，他認為並非只有領袖才可負責聖工。雖然教會有領袖（例如，<a href=\"https://ref.ly/1Tim3:1-1Tim3:13\">提前3:1–13</a>），但每位信徒都能參與建造基督的身體（<a href=\"https://ref.ly/1Cor12:12-1Cor12:31\">林前12:12–31</a>）。早期的信徒多在私人住宅聚會，每個人都可以與他人分享從神而來的恩賜（<a href=\"https://ref.ly/1Cor14:26-1Cor14:33\">14:26–33</a>）。</p><p>保羅明白，神的靈會按照各人不同的服事需要，賜下特別的恩賜（<a href=\"https://ref.ly/1Cor12:7-1Cor12:11\">林前2:7–11、</a><a href=\"https://ref.ly/1Cor12:28\">28</a>；<a href=\"https://ref.ly/Rom12:6-Rom12:8\">羅12:6–8</a>；<a href=\"https://ref.ly/Eph4:11\">弗4:11</a>）。<span>當信徒聚集敬拜時，聖靈就引領他們</span>。在聖靈的帶領下，每位信徒都應使用屬靈的恩賜來造就教會。保羅希望信徒在一切事上，都敏銳於聖靈的能力（<a href=\"https://ref.ly/1Cor14:26-1Cor14:33\">林前14:26–33</a>）。</p><p>當信徒聚集時，所有人都同樣重要，並各有積極的職責要履行。信徒必須留心聆聽神的話語，並預備在各樣關係中傳講祂的真理。保羅也提醒其他人要對所聽到的信息「<span>慎思明辨</span>」（或評估）（<a href=\"https://ref.ly/1Cor14:26\">林前14:26</a>、<a href=\"https://ref.ly/1Cor14:29\">29</a>）。所有信徒都是教會不可或缺的一部分，每個人都蒙召要積極參與，使教會成長。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Rom12:4-Rom12:8\">羅12:4–8</a>；<a href=\"https://ref.ly/1Cor12:7-1Cor12:31\">林前12:7–31</a>，<a href=\"https://ref.ly/1Cor14:26-1Cor14:33\">14:26–33</a>；<a href=\"https://ref.ly/Eph1:23\">弗1:23</a>，<a href=\"https://ref.ly/Eph4:11-Eph4:13\">4:11–13</a>；<a href=\"https://ref.ly/Col1:24\">西1:24</a>，<a href=\"https://ref.ly/Col2:18-Col2:19\">2:18–19</a>；<a href=\"https://ref.ly/1Tim3:1-1Tim3:16\">提前3:1–16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46012028",
+          "start_ref_usfm": "1CO 12:28",
+          "end_ref": "46012028",
+          "end_ref_usfm": "1CO 12:28"
+        },
+        {
+          "start_ref": "46014026",
+          "start_ref_usfm": "1CO 14:26",
+          "end_ref": "46014026",
+          "end_ref_usfm": "1CO 14:26"
+        },
+        {
+          "start_ref": "46014029",
+          "start_ref_usfm": "1CO 14:29",
+          "end_ref": "46014029",
+          "end_ref_usfm": "1CO 14:29"
+        },
+        {
+          "start_ref": "49001023",
+          "start_ref_usfm": "EPH 1:23",
+          "end_ref": "49001023",
+          "end_ref_usfm": "EPH 1:23"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004011",
+          "end_ref_usfm": "EPH 4:11"
+        },
+        {
+          "start_ref": "51001024",
+          "start_ref_usfm": "COL 1:24",
+          "end_ref": "51001024",
+          "end_ref_usfm": "COL 1:24"
+        },
+        {
+          "start_ref": "45012004",
+          "start_ref_usfm": "ROM 12:4",
+          "end_ref": "45012008",
+          "end_ref_usfm": "ROM 12:8"
+        },
+        {
+          "start_ref": "51002018",
+          "start_ref_usfm": "COL 2:18",
+          "end_ref": "51002019",
+          "end_ref_usfm": "COL 2:19"
+        },
+        {
+          "start_ref": "45012006",
+          "start_ref_usfm": "ROM 12:6",
+          "end_ref": "45012008",
+          "end_ref_usfm": "ROM 12:8"
+        },
+        {
+          "start_ref": "54003001",
+          "start_ref_usfm": "1TI 3:1",
+          "end_ref": "54003013",
+          "end_ref_usfm": "1TI 3:13"
+        },
+        {
+          "start_ref": "46012012",
+          "start_ref_usfm": "1CO 12:12",
+          "end_ref": "46012031",
+          "end_ref_usfm": "1CO 12:31"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004013",
+          "end_ref_usfm": "EPH 4:13"
+        },
+        {
+          "start_ref": "54003001",
+          "start_ref_usfm": "1TI 3:1",
+          "end_ref": "54003016",
+          "end_ref_usfm": "1TI 3:16"
+        },
+        {
+          "start_ref": "46014026",
+          "start_ref_usfm": "1CO 14:26",
+          "end_ref": "46014033",
+          "end_ref_usfm": "1CO 14:33"
+        },
+        {
+          "start_ref": "46012007",
+          "start_ref_usfm": "1CO 12:7",
+          "end_ref": "46012011",
+          "end_ref_usfm": "1CO 12:11"
+        },
+        {
+          "start_ref": "46012007",
+          "start_ref_usfm": "1CO 12:7",
+          "end_ref": "46012031",
+          "end_ref_usfm": "1CO 12:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "content_id": 700296,
+    "reference_id": 203233,
+    "title": "宗教虛偽",
+    "media_type": "Text",
+    "index_reference": "宗教虛偽",
+    "language": "zht",
+    "content": "<p>宗教虛偽是指人選擇性遵守規條，表面看似敬虔，但內心和生活沒有真正的改變。他們自誇敬虔，卻缺乏真實順服神的渴望。</p><p>先知以賽亞面對的，就是這樣看似虔誠的百姓。他們禁食、禱告、守節日，在耶路撒冷獻祭。然而，神卻拒絕這一切。</p><p>為什麼？這些宗教行動原是神所設立的，本身也有其價值；祂之所以拒絕，是因為他們的敬拜缺乏真誠，也缺乏神所要求的個人聖潔與社會公義（例如，見<a href=\"https://ref.ly/Lev19:13-Lev19:17\">利19:13–17</a>）。因此，猶大百姓成了宗教上的偽善者。</p><p>多年以後，耶穌也公開指出法利賽人的虛偽。衪勸誡他們要全然遵行神的話語，而不是只做那些能贏得他人稱讚的部分（<a href=\"https://ref.ly/Matt23:1-Matt23:36\">太23:1–36</a>、尤其是<a href=\"https://ref.ly/Matt23:23\">23:23</a>）。使徒保羅和雅各也指出，宗教儀式本身不能代表真正的屬靈生命（<a href=\"https://ref.ly/1Cor3:1-1Cor3:23\">林前3:1–23</a>；<a href=\"https://ref.ly/Jas1:21-Jas2:13\">雅1:21–2:13</a>）。</p><p>耶穌對法利賽人的批評，同時也是對我們的提醒；我們不應效法他們（見<a href=\"https://ref.ly/Matt6:1-Matt6:18\">太6:1–18</a>；<a href=\"https://ref.ly/1Pet2:1\">彼前2:1</a>）。耶穌教導我們，在神面前與人面前都要真誠，並要遵行神一切的命令。我們對神的敬拜，不應停留在宗教形式與外在行為上。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Ps50:16-Ps50:23\">詩50:16–23</a>；<a href=\"https://ref.ly/Prov15:8\">箴15:8</a>，<a href=\"https://ref.ly/Prov26:23\">26:23</a>；<a href=\"https://ref.ly/Isa1:11-Isa1:15\">賽1:11–15</a>，<a href=\"https://ref.ly/Isa29:13-Isa29:15\">29:13–15</a>，<a href=\"https://ref.ly/Isa58:2-Isa58:7\">58:2–7</a>；<a href=\"https://ref.ly/Jer7:4-Jer7:10\">耶7:4–10</a>，<a href=\"https://ref.ly/Jer12:2\">12:2</a>；<a href=\"https://ref.ly/Ezek33:30-Ezek33:31\">結33:30–31</a>；<a href=\"https://ref.ly/Hos8:13\">何8:13</a>；<a href=\"https://ref.ly/Amos5:21-Amos5:24\">摩5:21–24</a>；<a href=\"https://ref.ly/Mic3:11\">彌3:11</a>；<a href=\"https://ref.ly/Zech7:5-Zech7:6\">亞7:5–6</a>；<a href=\"https://ref.ly/Mal2:13-Mal2:14\">瑪2:13–14</a>；<a href=\"https://ref.ly/Matt6:1-Matt6:18\">太6:1–18</a>，<a href=\"https://ref.ly/Matt23:1-Matt23:36\">23:1–36</a>；<a href=\"https://ref.ly/Titus1:15-Titus1:16\">多1:15–16</a>；<a href=\"https://ref.ly/Jas1:21-Jas1:27\">雅1:21–27</a>；<a href=\"https://ref.ly/1Pet2:1\">彼前2:1</a>；<a href=\"https://ref.ly/1John2:4\">約一2:4</a>、<a href=\"https://ref.ly/1John2:9\">9</a>，<a href=\"https://ref.ly/1John4:20\">4:20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20015008",
+          "start_ref_usfm": "PRO 15:8",
+          "end_ref": "20015008",
+          "end_ref_usfm": "PRO 15:8"
+        },
+        {
+          "start_ref": "20026023",
+          "start_ref_usfm": "PRO 26:23",
+          "end_ref": "20026023",
+          "end_ref_usfm": "PRO 26:23"
+        },
+        {
+          "start_ref": "24012002",
+          "start_ref_usfm": "JER 12:2",
+          "end_ref": "24012002",
+          "end_ref_usfm": "JER 12:2"
+        },
+        {
+          "start_ref": "28008013",
+          "start_ref_usfm": "HOS 8:13",
+          "end_ref": "28008013",
+          "end_ref_usfm": "HOS 8:13"
+        },
+        {
+          "start_ref": "33003011",
+          "start_ref_usfm": "MIC 3:11",
+          "end_ref": "33003011",
+          "end_ref_usfm": "MIC 3:11"
+        },
+        {
+          "start_ref": "40023023",
+          "start_ref_usfm": "MAT 23:23",
+          "end_ref": "40023023",
+          "end_ref_usfm": "MAT 23:23"
+        },
+        {
+          "start_ref": "60002001",
+          "start_ref_usfm": "1PE 2:1",
+          "end_ref": "60002001",
+          "end_ref_usfm": "1PE 2:1"
+        },
+        {
+          "start_ref": "62002004",
+          "start_ref_usfm": "1JN 2:4",
+          "end_ref": "62002004",
+          "end_ref_usfm": "1JN 2:4"
+        },
+        {
+          "start_ref": "62002009",
+          "start_ref_usfm": "1JN 2:9",
+          "end_ref": "62002009",
+          "end_ref_usfm": "1JN 2:9"
+        },
+        {
+          "start_ref": "62004020",
+          "start_ref_usfm": "1JN 4:20",
+          "end_ref": "62004020",
+          "end_ref_usfm": "1JN 4:20"
+        },
+        {
+          "start_ref": "23001011",
+          "start_ref_usfm": "ISA 1:11",
+          "end_ref": "23001015",
+          "end_ref_usfm": "ISA 1:15"
+        },
+        {
+          "start_ref": "40006001",
+          "start_ref_usfm": "MAT 6:1",
+          "end_ref": "40006018",
+          "end_ref_usfm": "MAT 6:18"
+        },
+        {
+          "start_ref": "56001015",
+          "start_ref_usfm": "TIT 1:15",
+          "end_ref": "56001016",
+          "end_ref_usfm": "TIT 1:16"
+        },
+        {
+          "start_ref": "26033030",
+          "start_ref_usfm": "EZK 33:30",
+          "end_ref": "26033031",
+          "end_ref_usfm": "EZK 33:31"
+        },
+        {
+          "start_ref": "38007005",
+          "start_ref_usfm": "ZEC 7:5",
+          "end_ref": "38007006",
+          "end_ref_usfm": "ZEC 7:6"
+        },
+        {
+          "start_ref": "03019013",
+          "start_ref_usfm": "LEV 19:13",
+          "end_ref": "03019017",
+          "end_ref_usfm": "LEV 19:17"
+        },
+        {
+          "start_ref": "40023001",
+          "start_ref_usfm": "MAT 23:1",
+          "end_ref": "40023036",
+          "end_ref_usfm": "MAT 23:36"
+        },
+        {
+          "start_ref": "46003001",
+          "start_ref_usfm": "1CO 3:1",
+          "end_ref": "46003023",
+          "end_ref_usfm": "1CO 3:23"
+        },
+        {
+          "start_ref": "59001021",
+          "start_ref_usfm": "JAS 1:21",
+          "end_ref": "59002013",
+          "end_ref_usfm": "JAS 2:13"
+        },
+        {
+          "start_ref": "19050016",
+          "start_ref_usfm": "PSA 50:16",
+          "end_ref": "19050023",
+          "end_ref_usfm": "PSA 50:23"
+        },
+        {
+          "start_ref": "23029013",
+          "start_ref_usfm": "ISA 29:13",
+          "end_ref": "23029015",
+          "end_ref_usfm": "ISA 29:15"
+        },
+        {
+          "start_ref": "23058002",
+          "start_ref_usfm": "ISA 58:2",
+          "end_ref": "23058007",
+          "end_ref_usfm": "ISA 58:7"
+        },
+        {
+          "start_ref": "24007004",
+          "start_ref_usfm": "JER 7:4",
+          "end_ref": "24007010",
+          "end_ref_usfm": "JER 7:10"
+        },
+        {
+          "start_ref": "30005021",
+          "start_ref_usfm": "AMO 5:21",
+          "end_ref": "30005024",
+          "end_ref_usfm": "AMO 5:24"
+        },
+        {
+          "start_ref": "39002013",
+          "start_ref_usfm": "MAL 2:13",
+          "end_ref": "39002014",
+          "end_ref_usfm": "MAL 2:14"
+        },
+        {
+          "start_ref": "59001021",
+          "start_ref_usfm": "JAS 1:21",
+          "end_ref": "59001027",
+          "end_ref_usfm": "JAS 1:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

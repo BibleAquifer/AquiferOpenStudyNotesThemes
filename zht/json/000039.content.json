@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 700274,
+    "reference_id": 203211,
+    "title": "古代以色列的音樂",
+    "media_type": "Text",
+    "index_reference": "古代以色列的音樂",
+    "language": "zht",
+    "content": "<p>最早期的時候，從一個地方遷移到另一個地方居住的人（稱為遊牧民族）就已經開始創作音樂了。聖經中提到第一位音樂家是「猶八」，他彈琴吹簫（<a href=\"https://ref.ly/Gen4:21\">創4:21</a>）。</p><p>從以色列人開始在會幕敬拜神之時，音樂就佔有重要地位。在<a href=\"https://ref.ly/Exod28:34-Exod28:35\">出埃及記二十八章34至35節</a>中，亞倫的聖袍周圍底邊上縫有鈴鐺，他進入聖所時鈴聲作響。聖經記錄了多首神的百姓所作的詩歌（例如，<a href=\"https://ref.ly/Exod15:1-Exod15:21\">出15:1–21</a>；<a href=\"https://ref.ly/Deut31:30-Deut32:44\">申31:30–32:44</a>；<a href=\"https://ref.ly/Judg5:1-Judg5:31\">士5:1–31</a>）。</p><p>舊約中第一首正式的禮儀音樂，出現在搬運約櫃的時候。大衛王和以色列人一同歌唱、奏樂、跳舞，來尊崇耶和華（<a href=\"https://ref.ly/2Sam6:5\">撒下6:5</a>）。大衛也因為製作聖殿用的樂器而聞名（<a href=\"https://ref.ly/2Chr7:6\">代下7:6</a>）。被擄歸回後（即以色列人從巴比倫被擄歸回的時期），在聖殿中服事的利未人歌唱者，是亞薩的後裔。亞薩是大衛所任命的歌唱領袖（<a href=\"https://ref.ly/Ezra2:41\">拉2:41</a>；<a href=\"https://ref.ly/Neh7:44\">尼7:44，</a><a href=\"https://ref.ly/Neh11:22-Neh11:23\">11:22–23</a>）。簡單來說，以色列的敬拜音樂以及其組織方式，是從大衛時代開始的。</p><p>所羅門聖殿中的正式儀式，與大衛時代那種激昂及即興的敬拜不同（<a href=\"https://ref.ly/2Chr7:1-2Chr7:6\">代下7:1–6</a>）。聖殿中負責敬拜的歌手和樂師，都是從利未支派中選出來的（<a href=\"https://ref.ly/1Chr25:1\">代上25:1、</a><a href=\"https://ref.ly/1Chr25:7\">7</a>）。這些樂師按班輪值，在平日、安息日與各種聖日參與聖殿中的服事。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen4:21\">創4:21</a>；<a href=\"https://ref.ly/Exod28:34-Exod28:35\">出28:34–35</a>；<a href=\"https://ref.ly/2Sam6:5\">撒下6:5</a>；<a href=\"https://ref.ly/2Chr7:6\">代下7:6</a>；<a href=\"https://ref.ly/Ps71:22-Ps71:23\">詩71:22–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004021",
+          "start_ref_usfm": "GEN 4:21",
+          "end_ref": "01004021",
+          "end_ref_usfm": "GEN 4:21"
+        },
+        {
+          "start_ref": "10006005",
+          "start_ref_usfm": "2SA 6:5",
+          "end_ref": "10006005",
+          "end_ref_usfm": "2SA 6:5"
+        },
+        {
+          "start_ref": "13025001",
+          "start_ref_usfm": "1CH 25:1",
+          "end_ref": "13025001",
+          "end_ref_usfm": "1CH 25:1"
+        },
+        {
+          "start_ref": "13025007",
+          "start_ref_usfm": "1CH 25:7",
+          "end_ref": "13025007",
+          "end_ref_usfm": "1CH 25:7"
+        },
+        {
+          "start_ref": "14007006",
+          "start_ref_usfm": "2CH 7:6",
+          "end_ref": "14007006",
+          "end_ref_usfm": "2CH 7:6"
+        },
+        {
+          "start_ref": "15002041",
+          "start_ref_usfm": "EZR 2:41",
+          "end_ref": "15002041",
+          "end_ref_usfm": "EZR 2:41"
+        },
+        {
+          "start_ref": "16007044",
+          "start_ref_usfm": "NEH 7:44",
+          "end_ref": "16007044",
+          "end_ref_usfm": "NEH 7:44"
+        },
+        {
+          "start_ref": "07005001",
+          "start_ref_usfm": "JDG 5:1",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        },
+        {
+          "start_ref": "02015001",
+          "start_ref_usfm": "EXO 15:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        },
+        {
+          "start_ref": "02028034",
+          "start_ref_usfm": "EXO 28:34",
+          "end_ref": "02028035",
+          "end_ref_usfm": "EXO 28:35"
+        },
+        {
+          "start_ref": "16011022",
+          "start_ref_usfm": "NEH 11:22",
+          "end_ref": "16011023",
+          "end_ref_usfm": "NEH 11:23"
+        },
+        {
+          "start_ref": "05031030",
+          "start_ref_usfm": "DEU 31:30",
+          "end_ref": "05032044",
+          "end_ref_usfm": "DEU 32:44"
+        },
+        {
+          "start_ref": "14007001",
+          "start_ref_usfm": "2CH 7:1",
+          "end_ref": "14007006",
+          "end_ref_usfm": "2CH 7:6"
+        },
+        {
+          "start_ref": "19071022",
+          "start_ref_usfm": "PSA 71:22",
+          "end_ref": "19071023",
+          "end_ref_usfm": "PSA 71:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

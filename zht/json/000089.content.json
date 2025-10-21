@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 700426,
+    "reference_id": 203363,
+    "title": "律法主義",
+    "media_type": "Text",
+    "index_reference": "律法主義",
+    "language": "zht",
+    "content": "<p>對猶太人來說，律法非常重要。他們對宗教的理解往往集中在遵守規條與儀式。這種情況很自然，因為神親自將律法賜給猶太人，藉此表明祂揀選他們作為祂的子民。神也將律法賜給他們，讓他們透過遵行律法來確認並維持與神所立的約。</p><p>然而，許多猶太人在神所賜的律法之外，又加上許多人所定立的規條，為幾乎每一種情況制定細節規定。他們這樣做，往往是為了避免違反神的律法。但正如耶穌多次指出，這些額外添加的人為規條，有時卻使人無法真正遵行神的旨意 （<a href=\"https://ref.ly/Mark7:1-Mark7:15\">可7:1–15</a>）。此外，許多猶太人相信，只要單單遵守律法，便能得神的喜悅。</p><p>使徒保羅在早期教會中，經常面對律法主義的問題。例如在歌羅西，受猶太教影響的假教師主張，基督徒必須遵守某些規條來表達他們的信仰（<a href=\"https://ref.ly/Col2:16-Col2:23\">西2:16–23</a>）。保羅批評這種做法，強調信靠基督才是關鍵。基督成全神一切計劃與旨意，也是真正敬虔生活的中心。</p><p>這並不是說行為規範本身有錯。有些規則（如不可說謊）清楚展現了基督的品格（<a href=\"https://ref.ly/Col3:9\">西3:9</a>）。保羅也不反對個別基督徒為了更順服基督，而為自己制定一些規則（參<a href=\"https://ref.ly/Rom14:5\">羅14:5</a>；<a href=\"https://ref.ly/1Cor8:1-1Cor8:13\">林前8章</a>）。然而，這些行定下的規則，不可強加在他人身上。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Matt23:13-Matt23:33\">太23:13–33</a>；<a href=\"https://ref.ly/Mark7:1-Mark7:15\">可7:1–15</a>；<a href=\"https://ref.ly/Gal2:14-Gal2:21\">加2:14–21</a>；<a href=\"https://ref.ly/Col2:16-Col2:23\">西2:16–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45014005",
+          "start_ref_usfm": "ROM 14:5",
+          "end_ref": "45014005",
+          "end_ref_usfm": "ROM 14:5"
+        },
+        {
+          "start_ref": "51003009",
+          "start_ref_usfm": "COL 3:9",
+          "end_ref": "51003009",
+          "end_ref_usfm": "COL 3:9"
+        },
+        {
+          "start_ref": "51002016",
+          "start_ref_usfm": "COL 2:16",
+          "end_ref": "51002023",
+          "end_ref_usfm": "COL 2:23"
+        },
+        {
+          "start_ref": "46008001",
+          "start_ref_usfm": "1CO 8:1",
+          "end_ref": "46008013",
+          "end_ref_usfm": "1CO 8:13"
+        },
+        {
+          "start_ref": "40023013",
+          "start_ref_usfm": "MAT 23:13",
+          "end_ref": "40023033",
+          "end_ref_usfm": "MAT 23:33"
+        },
+        {
+          "start_ref": "48002014",
+          "start_ref_usfm": "GAL 2:14",
+          "end_ref": "48002021",
+          "end_ref_usfm": "GAL 2:21"
+        },
+        {
+          "start_ref": "41007001",
+          "start_ref_usfm": "MRK 7:1",
+          "end_ref": "41007015",
+          "end_ref_usfm": "MRK 7:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

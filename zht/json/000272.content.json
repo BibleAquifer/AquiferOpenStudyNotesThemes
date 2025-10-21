@@ -1,0 +1,78 @@
+[
+  {
+    "content_id": 700453,
+    "reference_id": 203390,
+    "title": "敵基督",
+    "media_type": "Text",
+    "index_reference": "敵基督",
+    "language": "zht",
+    "content": "<p><strong>敵基督</strong>這個詞只出現在使徒約翰的書信中（<a href=\"https://ref.ly/1John2:18\">約一2:18</a>、<a href=\"https://ref.ly/1John2:22\">22</a>，<a href=\"https://ref.ly/1John4:3\">4:3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>）。約翰認為歷史上會出現許多敵基督（<a href=\"https://ref.ly/1John2:18\">約一2:18</a>）。這些敵基督會否認耶穌的神人二性（<a href=\"https://ref.ly/1John2:22\">約一2:22</a>，<a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>）。</p><p>使徒保羅則提到「<span>大罪人</span>」將在末世出現，煽動人起來悖逆神（<a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">帖後2:1–12</a>）。這人會「<span>照撒但的運動</span>」出現，主要透過欺騙來行事。啟示錄雖未明確稱這人為「敵基督」，但這位「大罪人」如同約翰書信中的「敵基督」一樣，都是抵擋真理的。</p><p>在<a href=\"https://ref.ly/Rev13:1-Rev13:18\">啟示錄十三章</a>中，那抵擋基督的靈被描繪為另一<span>個</span>「獸」，牠服事那條龍（撒但）與第一<span>個</span>獸。這個敵基督的數字666很可能代表尼祿皇帝（Emperor Nero），也可能影射多米田皇帝（Emperor Domitian，見<span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">研讀註釋17:8</span>）。當時的皇帝崇拜宣稱「凱撒是主！」，這是虛假的宗教，與耶穌基督是主的宣告彼此對立。</p><p>約翰是否預期有一位最終的敵基督出現，甚至超越尼祿與多米田，這點尚不確定。然而，基督徒必須認清邪惡是存在的，也要辨識出那些在人與各種權力體系中，抵擋基督的勢力。抵抗這些仇敵可能使我們面對逼迫，甚至因此喪命，但我們的盼望是在基督裡得著最終的勝利。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/2Thess2:3-2Thess2:10\">帖後2:3–10</a>；<a href=\"https://ref.ly/1John2:18\">約一2:18</a>、<a href=\"https://ref.ly/1John2:22\">22</a>，<a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>；<a href=\"https://ref.ly/Rev13:11\">啟13:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62002018",
+          "start_ref_usfm": "1JN 2:18",
+          "end_ref": "62002018",
+          "end_ref_usfm": "1JN 2:18"
+        },
+        {
+          "start_ref": "62002022",
+          "start_ref_usfm": "1JN 2:22",
+          "end_ref": "62002022",
+          "end_ref_usfm": "1JN 2:22"
+        },
+        {
+          "start_ref": "62004003",
+          "start_ref_usfm": "1JN 4:3",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001007",
+          "end_ref_usfm": "2JN 1:7"
+        },
+        {
+          "start_ref": "66013011",
+          "start_ref_usfm": "REV 13:11",
+          "end_ref": "66013011",
+          "end_ref_usfm": "REV 13:11"
+        },
+        {
+          "start_ref": "62004002",
+          "start_ref_usfm": "1JN 4:2",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "66013001",
+          "start_ref_usfm": "REV 13:1",
+          "end_ref": "66013018",
+          "end_ref_usfm": "REV 13:18"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "53002003",
+          "start_ref_usfm": "2TH 2:3",
+          "end_ref": "53002010",
+          "end_ref_usfm": "2TH 2:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 24473,
+          "content_id": 647965,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "啟示錄 17:8",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

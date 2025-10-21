@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 700398,
+    "reference_id": 203335,
+    "title": "自然啟示",
+    "media_type": "Text",
+    "index_reference": "自然啟示",
+    "language": "zht",
+    "content": "<p>神直接對人說話，稱之為<strong>特殊啟示</strong>（special revelation）。但神也透過<strong>自然啟示</strong>（natural revelation，又稱普遍啟示<span>〔</span>general revelation<span>〕</span>，因為是神向所有人顯明的）間接向人說話。這種啟示透過神所創造的大自然展現出來。例如，<a href=\"https://ref.ly/Ps19:1-Ps19:14\">詩篇十九篇</a>指出，神藉著祂的創造，使世上所有人都能認識祂（見<a href=\"https://ref.ly/Ps19:1-Ps19:4\">詩19:1–4</a>）。</p><p>然而，不是所有人都會積極回應神的啟示。保羅在<a href=\"https://ref.ly/Rom1:1-Rom3:31\">羅馬書一章3節</a>解釋，因著亞當的罪，所有人都拒絕了原本可以透過受<span>造之物</span>認識的神。若沒有神的恩典，自然啟示只會定人的罪。正如保羅在<a href=\"https://ref.ly/Rom1:20\">一章20節</a>中所說，這些「叫人無可推諉」。</p><p>神仍然能使用衪的創造，引導人認識祂是唯一的真神。當神的恩典臨到，並透過自然啟示動工時，這世界的美麗與精妙就能激發人尋求造物主。保羅在雅典講道時，正是從自然啟示出發，引介耶穌的福音（<a href=\"https://ref.ly/Acts17:16-Acts17:31\">徒17:16–31</a>）。神在大自然和人性中的啟示，鼓勵人尋求衪；而人唯有藉著神在祂兒子耶穌基督裡所賜的特殊啟示，才能真正認識祂，並得著救恩。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Ps19:1-Ps19:4\">詩19:1–4</a>；<a href=\"https://ref.ly/Acts14:15-Acts14:17\">徒14:15–17</a>；<a href=\"https://ref.ly/Acts17:24-Acts17:29\">徒17:24–29</a>；<a href=\"https://ref.ly/Rom1:19-Rom1:21\">羅1:19–21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45001020",
+          "start_ref_usfm": "ROM 1:20",
+          "end_ref": "45001020",
+          "end_ref_usfm": "ROM 1:20"
+        },
+        {
+          "start_ref": "19019001",
+          "start_ref_usfm": "PSA 19:1",
+          "end_ref": "19019014",
+          "end_ref_usfm": "PSA 19:14"
+        },
+        {
+          "start_ref": "19019001",
+          "start_ref_usfm": "PSA 19:1",
+          "end_ref": "19019004",
+          "end_ref_usfm": "PSA 19:4"
+        },
+        {
+          "start_ref": "45001019",
+          "start_ref_usfm": "ROM 1:19",
+          "end_ref": "45001021",
+          "end_ref_usfm": "ROM 1:21"
+        },
+        {
+          "start_ref": "45001001",
+          "start_ref_usfm": "ROM 1:1",
+          "end_ref": "45003031",
+          "end_ref_usfm": "ROM 3:31"
+        },
+        {
+          "start_ref": "44017016",
+          "start_ref_usfm": "ACT 17:16",
+          "end_ref": "44017031",
+          "end_ref_usfm": "ACT 17:31"
+        },
+        {
+          "start_ref": "44014015",
+          "start_ref_usfm": "ACT 14:15",
+          "end_ref": "44014017",
+          "end_ref_usfm": "ACT 14:17"
+        },
+        {
+          "start_ref": "44017024",
+          "start_ref_usfm": "ACT 17:24",
+          "end_ref": "44017029",
+          "end_ref_usfm": "ACT 17:29"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

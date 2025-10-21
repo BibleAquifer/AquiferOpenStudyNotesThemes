@@ -1,0 +1,178 @@
+[
+  {
+    "content_id": 700257,
+    "reference_id": 203194,
+    "title": "發怨言",
+    "media_type": "Text",
+    "index_reference": "發怨言",
+    "language": "zht",
+    "content": "<p>聖經教導我們，發怨言往往是錯誤的行為。例如，以色列人在曠野中因困難而發怨言，神因此施行審判（<a href=\"https://ref.ly/Num14:27-Num14:37\">民14:27–37</a>）。雖然約伯常常發怨言，也受到神的責備，但神仍肯定他為義人，並且責備那些企圖使他閉口的朋友（<a href=\"https://ref.ly/Job42:7-Job42:8\">約42:7–8</a>）。</p><p>約伯發怨言，主要是指神沒有給他公平的機會來證明自己的清白。約伯的朋友批評他為自己辯護，但神卻支持約伯的無辜。神以慈愛卻堅定的方式向他顯現，糾正他那過度自我辯解，幾乎指責神不公的態度，並引導約伯將注意力從自身的苦難轉回到神的身上 （<a href=\"https://ref.ly/Job38:1-Job41:34\">伯38–41章</a>）。</p><p>聖經吩咐我們在一切事上要喜樂、凡事感恩（<a href=\"https://ref.ly/Eph5:20\">弗5:20</a>；<a href=\"https://ref.ly/Phil4:4\">腓4:4</a>；<a href=\"https://ref.ly/1Thess5:16-1Thess5:18\">帖前5:16–18</a>），也勉勵我們在苦難中忍耐，恆切禱告（<a href=\"https://ref.ly/Jas5:10-Jas5:18\">雅5:10–18</a>）。若我們在禱告中感到有抱怨的需要，應效法詩篇的範例，它引導我們重新轉向神（例如，見<a href=\"https://ref.ly/Ps13:1-Ps13:6\">詩13篇</a>）。約伯的正面榜樣，不在於他如何回應苦難或朋友，而是在於他如何回應神（<a href=\"https://ref.ly/Jas5:11\">雅5:11</a>；<a href=\"https://ref.ly/Job40:3-Job40:5\">伯40:3–5，</a><a href=\"https://ref.ly/Job42:1-Job42:6\">42:1–6</a>）。即使身處困苦與迷惘之中，我們仍能承認神的主權與良善。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen4:13-Gen4:14\">創4:13–14；</a><a href=\"https://ref.ly/Exod16:2-Exod16:18\">出16:2–18；</a><a href=\"https://ref.ly/Num14:27-Num14:37\">民14:27–37；</a><a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">王上19:3–18；</a><a href=\"https://ref.ly/Job3:1-Job3:26\">伯3:1–26</a>，<a href=\"https://ref.ly/Job6:1-Job7:21\">伯6:1–7:21；</a><a href=\"https://ref.ly/Ps38:1-Ps38:22\">詩38篇</a>，<a href=\"https://ref.ly/Ps39:1-Ps39:13\">詩39篇</a>，<a href=\"https://ref.ly/Ps44:1-Ps44:26\">詩44篇</a>，<a href=\"https://ref.ly/Ps73:1-Ps73:28\">詩73篇；</a><a href=\"https://ref.ly/Jer20:14-Jer20:18\">耶20:14–18；</a><a href=\"https://ref.ly/Jonah4:1-Jonah4:11\">拿4:1–11；</a><a href=\"https://ref.ly/Matt27:46\">太27:46；</a><a href=\"https://ref.ly/John6:41-John6:59\">約6:41–59；</a><a href=\"https://ref.ly/1Cor10:1-1Cor10:10\">林前10:1–10；</a><a href=\"https://ref.ly/Eph5:20\">弗5:20；</a><a href=\"https://ref.ly/Phil2:14-Phil2:15\">腓2:14–15；</a><a href=\"https://ref.ly/Jas5:9-Jas5:11\">雅5:9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027046",
+          "start_ref_usfm": "MAT 27:46",
+          "end_ref": "40027046",
+          "end_ref_usfm": "MAT 27:46"
+        },
+        {
+          "start_ref": "49005020",
+          "start_ref_usfm": "EPH 5:20",
+          "end_ref": "49005020",
+          "end_ref_usfm": "EPH 5:20"
+        },
+        {
+          "start_ref": "50004004",
+          "start_ref_usfm": "PHP 4:4",
+          "end_ref": "50004004",
+          "end_ref_usfm": "PHP 4:4"
+        },
+        {
+          "start_ref": "59005011",
+          "start_ref_usfm": "JAS 5:11",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "18042001",
+          "start_ref_usfm": "JOB 42:1",
+          "end_ref": "18042006",
+          "end_ref_usfm": "JOB 42:6"
+        },
+        {
+          "start_ref": "19039001",
+          "start_ref_usfm": "PSA 39:1",
+          "end_ref": "19039013",
+          "end_ref_usfm": "PSA 39:13"
+        },
+        {
+          "start_ref": "01004013",
+          "start_ref_usfm": "GEN 4:13",
+          "end_ref": "01004014",
+          "end_ref_usfm": "GEN 4:14"
+        },
+        {
+          "start_ref": "18038001",
+          "start_ref_usfm": "JOB 38:1",
+          "end_ref": "18041034",
+          "end_ref_usfm": "JOB 41:34"
+        },
+        {
+          "start_ref": "18003001",
+          "start_ref_usfm": "JOB 3:1",
+          "end_ref": "18003026",
+          "end_ref_usfm": "JOB 3:26"
+        },
+        {
+          "start_ref": "19038001",
+          "start_ref_usfm": "PSA 38:1",
+          "end_ref": "19038022",
+          "end_ref_usfm": "PSA 38:22"
+        },
+        {
+          "start_ref": "19073001",
+          "start_ref_usfm": "PSA 73:1",
+          "end_ref": "19073028",
+          "end_ref_usfm": "PSA 73:28"
+        },
+        {
+          "start_ref": "19044001",
+          "start_ref_usfm": "PSA 44:1",
+          "end_ref": "19044026",
+          "end_ref_usfm": "PSA 44:26"
+        },
+        {
+          "start_ref": "24020014",
+          "start_ref_usfm": "JER 20:14",
+          "end_ref": "24020018",
+          "end_ref_usfm": "JER 20:18"
+        },
+        {
+          "start_ref": "18040003",
+          "start_ref_usfm": "JOB 40:3",
+          "end_ref": "18040005",
+          "end_ref_usfm": "JOB 40:5"
+        },
+        {
+          "start_ref": "18006001",
+          "start_ref_usfm": "JOB 6:1",
+          "end_ref": "18007021",
+          "end_ref_usfm": "JOB 7:21"
+        },
+        {
+          "start_ref": "19013001",
+          "start_ref_usfm": "PSA 13:1",
+          "end_ref": "19013006",
+          "end_ref_usfm": "PSA 13:6"
+        },
+        {
+          "start_ref": "59005009",
+          "start_ref_usfm": "JAS 5:9",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "32004001",
+          "start_ref_usfm": "JON 4:1",
+          "end_ref": "32004011",
+          "end_ref_usfm": "JON 4:11"
+        },
+        {
+          "start_ref": "04014027",
+          "start_ref_usfm": "NUM 14:27",
+          "end_ref": "04014037",
+          "end_ref_usfm": "NUM 14:37"
+        },
+        {
+          "start_ref": "18042007",
+          "start_ref_usfm": "JOB 42:7",
+          "end_ref": "18042008",
+          "end_ref_usfm": "JOB 42:8"
+        },
+        {
+          "start_ref": "52005016",
+          "start_ref_usfm": "1TH 5:16",
+          "end_ref": "52005018",
+          "end_ref_usfm": "1TH 5:18"
+        },
+        {
+          "start_ref": "59005010",
+          "start_ref_usfm": "JAS 5:10",
+          "end_ref": "59005018",
+          "end_ref_usfm": "JAS 5:18"
+        },
+        {
+          "start_ref": "02016002",
+          "start_ref_usfm": "EXO 16:2",
+          "end_ref": "02016018",
+          "end_ref_usfm": "EXO 16:18"
+        },
+        {
+          "start_ref": "11019003",
+          "start_ref_usfm": "1KI 19:3",
+          "end_ref": "11019018",
+          "end_ref_usfm": "1KI 19:18"
+        },
+        {
+          "start_ref": "43006041",
+          "start_ref_usfm": "JHN 6:41",
+          "end_ref": "43006059",
+          "end_ref_usfm": "JHN 6:59"
+        },
+        {
+          "start_ref": "46010001",
+          "start_ref_usfm": "1CO 10:1",
+          "end_ref": "46010010",
+          "end_ref_usfm": "1CO 10:10"
+        },
+        {
+          "start_ref": "50002014",
+          "start_ref_usfm": "PHP 2:14",
+          "end_ref": "50002015",
+          "end_ref_usfm": "PHP 2:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 700163,
+    "reference_id": 203100,
+    "title": "巴別：萬國的分散",
+    "media_type": "Text",
+    "index_reference": "巴別：萬國的分散",
+    "language": "zht",
+    "content": "<p>巴別塔的故事說明了語言的障礙如何使列國與族群彼此分隔，並被分散到不同的地理位置。大洪水之後，神審判了極其邪惡的人類，但人類很快又再次悖逆，建造一座「塔頂通天」的塔（<a href=\"https://ref.ly/Gen11:4\">創11:4</a>）。他們不再敬拜神，反而企圖榮耀自己，想要在沒有神的情況下團結一致。神看見他們這種危險的獨立心態與驕傲，知道這會使他們再次走向罪惡與滅亡。因此，神「變亂他們的口音」，並「使眾人分散在全地上」（<a href=\"https://ref.ly/Gen11:7\">11:7、</a><a href=\"https://ref.ly/Gen11:9\">9</a>）。</p><p>巴別事件標誌著萬民之間開始產生語言與文化上的差異與誤解。這種分裂直到聖靈降臨時才開始逆轉（見<a href=\"https://ref.ly/Acts2:1-Acts2:47\">徒2章</a>）。</p><p>人在巴別塔事件中被分散之後，神透過亞伯拉罕與他後裔，重新與人建立關係（<a href=\"https://ref.ly/Gen12:1-Gen12:9\">創12:1–9</a>）。與巴別的人不同，亞伯拉罕因「信耶和華」而被神看為義。他不是倚靠自己的成就驕傲自大，而是憑信心倚靠神而活（<a href=\"https://ref.ly/Gen15:6\">15:6，</a><a href=\"https://ref.ly/Gen17:1\">17:1，</a><a href=\"https://ref.ly/Gen18:19\">18:19，</a><a href=\"https://ref.ly/Gen26:5\">26:5</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen11:1-Gen11:9\">創11:1–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011004",
+          "start_ref_usfm": "GEN 11:4",
+          "end_ref": "01011004",
+          "end_ref_usfm": "GEN 11:4"
+        },
+        {
+          "start_ref": "01011007",
+          "start_ref_usfm": "GEN 11:7",
+          "end_ref": "01011007",
+          "end_ref_usfm": "GEN 11:7"
+        },
+        {
+          "start_ref": "01011009",
+          "start_ref_usfm": "GEN 11:9",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015006",
+          "end_ref_usfm": "GEN 15:6"
+        },
+        {
+          "start_ref": "01017001",
+          "start_ref_usfm": "GEN 17:1",
+          "end_ref": "01017001",
+          "end_ref_usfm": "GEN 17:1"
+        },
+        {
+          "start_ref": "01018019",
+          "start_ref_usfm": "GEN 18:19",
+          "end_ref": "01018019",
+          "end_ref_usfm": "GEN 18:19"
+        },
+        {
+          "start_ref": "01026005",
+          "start_ref_usfm": "GEN 26:5",
+          "end_ref": "01026005",
+          "end_ref_usfm": "GEN 26:5"
+        },
+        {
+          "start_ref": "01011001",
+          "start_ref_usfm": "GEN 11:1",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "44002001",
+          "start_ref_usfm": "ACT 2:1",
+          "end_ref": "44002047",
+          "end_ref_usfm": "ACT 2:47"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
