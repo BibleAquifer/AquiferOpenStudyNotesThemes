@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 700204,
+    "reference_id": 203141,
+    "title": "逃城",
+    "media_type": "Text",
+    "index_reference": "逃城",
+    "language": "zht",
+    "content": "<p>以色列人設立逃城，是為了保護無辜的人，使他們免受血仇的報復。按照律法，復仇者有權殺死<span>殺人兇手</span>（<a href=\"https://ref.ly/Num35:19\">民35:19</a>；見<a href=\"https://ref.ly/Gen9:6\">創9:6</a>）。若有人誤殺他人，就可以逃往逃城，在等待審判期間暫時獲得庇護（<a href=\"https://ref.ly/Num35:22-Num35:28\">民35:22–28</a>）。這六座逃城分布在希伯來各地，使<span>所有</span>以色列人都能就近尋求庇護。</p><p>審判後，若城中的長老判定此人犯了謀殺罪（而非誤殺），就會將他交給報仇者執行刑罰（<a href=\"https://ref.ly/Deut19:12\">申19:12</a>）。若判定為無罪，那人則可繼續留在逃城中以保安全。<span>等到</span>大祭司死後，他便可以無懼地返回家園，不用再擔心血仇之事。這條憐憫的律法，是為了避免無辜之人的血玷污那地（見<a href=\"https://ref.ly/Num35:33\">民35:33</a>）。</p><p><span>律法嚴禁以金錢來賠償人命，即便是</span>誤殺<span>也不例外</span>（<a href=\"https://ref.ly/Num35:31-Num35:33\">民35:31–33</a>），因為人的生命寶貴，無法用金錢衡量。<span>無論是故意殺人還是</span>誤殺<span>，都將導致行兇者被社會隔離或流放</span>。</p><p>贖罪從來都不是容易的事<span>，不論在古代以色列還是今日都一樣。人人都需要透過贖罪來恢復與神的關係</span>（見<a href=\"https://ref.ly/Rom3:23-Rom3:26\">羅3:23–26</a>）。神的兒子耶穌提供了這和好<span>的途徑。祂是至高的大祭司，並且</span>獻上自己成為<span>最終的獻祭</span>（見<a href=\"https://ref.ly/Heb4:14-Heb10:18\">來4:14–10:18</a>）。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Num35:6-Num35:34\">民35:6–34</a>；<a href=\"https://ref.ly/Deut19:1-Deut19:13\">申19:1–13</a>；<a href=\"https://ref.ly/Josh20:1-Josh20:9\">書20:1–9</a>，<a href=\"https://ref.ly/Josh21:13\">21:13、</a><a href=\"https://ref.ly/Josh21:21\">21、</a><a href=\"https://ref.ly/Josh21:27\">27、</a><a href=\"https://ref.ly/Josh21:32\">32、</a><a href=\"https://ref.ly/Josh21:38\">38</a>；<a href=\"https://ref.ly/1Kgs1:50-1Kgs1:53\">王上1:50–53</a>，<a href=\"https://ref.ly/1Kgs2:28-1Kgs2:34\">2:28–34</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009006",
+          "start_ref_usfm": "GEN 9:6",
+          "end_ref": "01009006",
+          "end_ref_usfm": "GEN 9:6"
+        },
+        {
+          "start_ref": "04035019",
+          "start_ref_usfm": "NUM 35:19",
+          "end_ref": "04035019",
+          "end_ref_usfm": "NUM 35:19"
+        },
+        {
+          "start_ref": "04035033",
+          "start_ref_usfm": "NUM 35:33",
+          "end_ref": "04035033",
+          "end_ref_usfm": "NUM 35:33"
+        },
+        {
+          "start_ref": "05019012",
+          "start_ref_usfm": "DEU 19:12",
+          "end_ref": "05019012",
+          "end_ref_usfm": "DEU 19:12"
+        },
+        {
+          "start_ref": "06021013",
+          "start_ref_usfm": "JOS 21:13",
+          "end_ref": "06021013",
+          "end_ref_usfm": "JOS 21:13"
+        },
+        {
+          "start_ref": "06021021",
+          "start_ref_usfm": "JOS 21:21",
+          "end_ref": "06021021",
+          "end_ref_usfm": "JOS 21:21"
+        },
+        {
+          "start_ref": "06021027",
+          "start_ref_usfm": "JOS 21:27",
+          "end_ref": "06021027",
+          "end_ref_usfm": "JOS 21:27"
+        },
+        {
+          "start_ref": "06021032",
+          "start_ref_usfm": "JOS 21:32",
+          "end_ref": "06021032",
+          "end_ref_usfm": "JOS 21:32"
+        },
+        {
+          "start_ref": "06021038",
+          "start_ref_usfm": "JOS 21:38",
+          "end_ref": "06021038",
+          "end_ref_usfm": "JOS 21:38"
+        },
+        {
+          "start_ref": "11002028",
+          "start_ref_usfm": "1KI 2:28",
+          "end_ref": "11002034",
+          "end_ref_usfm": "1KI 2:34"
+        },
+        {
+          "start_ref": "11001050",
+          "start_ref_usfm": "1KI 1:50",
+          "end_ref": "11001053",
+          "end_ref_usfm": "1KI 1:53"
+        },
+        {
+          "start_ref": "04035022",
+          "start_ref_usfm": "NUM 35:22",
+          "end_ref": "04035028",
+          "end_ref_usfm": "NUM 35:28"
+        },
+        {
+          "start_ref": "05019001",
+          "start_ref_usfm": "DEU 19:1",
+          "end_ref": "05019013",
+          "end_ref_usfm": "DEU 19:13"
+        },
+        {
+          "start_ref": "06020001",
+          "start_ref_usfm": "JOS 20:1",
+          "end_ref": "06020009",
+          "end_ref_usfm": "JOS 20:9"
+        },
+        {
+          "start_ref": "04035006",
+          "start_ref_usfm": "NUM 35:6",
+          "end_ref": "04035034",
+          "end_ref_usfm": "NUM 35:34"
+        },
+        {
+          "start_ref": "04035031",
+          "start_ref_usfm": "NUM 35:31",
+          "end_ref": "04035033",
+          "end_ref_usfm": "NUM 35:33"
+        },
+        {
+          "start_ref": "45003023",
+          "start_ref_usfm": "ROM 3:23",
+          "end_ref": "45003026",
+          "end_ref_usfm": "ROM 3:26"
+        },
+        {
+          "start_ref": "58004014",
+          "start_ref_usfm": "HEB 4:14",
+          "end_ref": "58010018",
+          "end_ref_usfm": "HEB 10:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

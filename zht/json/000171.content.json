@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 700294,
+    "reference_id": 203231,
+    "title": "記念神",
+    "media_type": "Text",
+    "index_reference": "記念神",
+    "language": "zht",
+    "content": "<p>神拯救以色列人脫離埃及的奴役，並使他們成為衪的子民。然而，神也知道他們將來會忘記祂（<a href=\"https://ref.ly/Deut31:16-Deut31:21\">申31:16–21</a>）。摩西曾警告那些即將進入應許之地的百姓，要常常記得耶和華為他們所行的一切事（<a href=\"https://ref.ly/Deut8:1-Deut8:20\">申8:1–20</a>）。但以色列人最終仍忘記了神，結果被擄到外邦，失去了神所賜給他們的土地（見<a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">王下17:5–23</a>；另見<a href=\"https://ref.ly/Jer2:32\">耶2:32</a>）。</p><p>傳道書中的傳道者，強調記念主的重要性。傳道者在書中不斷反思，人生中許多事物都是短暫、虛空的。他最後呼籲讀者要記念那位永恆的神（<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">傳12:1–7</a>）。青春不會長存，衰老與死亡是所有人都必經的過程。</p><p>因此，傳道者勸勉人要在年少之時，就專心歸向神，免得為時已晚。因為世人所行的每一件事，都必須向神交帳（<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">傳12:13–14</a>）。我們今生的生活，應當以神未來的審判為指引。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Deut8:1-Deut8:20\">申8:1–20</a>；<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">傳12:1–7</a>、<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">13–14</a>；<a href=\"https://ref.ly/1Cor3:12-1Cor3:14\">林前3:12–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "24002032",
+          "start_ref_usfm": "JER 2:32",
+          "end_ref": "24002032",
+          "end_ref_usfm": "JER 2:32"
+        },
+        {
+          "start_ref": "05008001",
+          "start_ref_usfm": "DEU 8:1",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "21012013",
+          "start_ref_usfm": "ECC 12:13",
+          "end_ref": "21012014",
+          "end_ref_usfm": "ECC 12:14"
+        },
+        {
+          "start_ref": "21012001",
+          "start_ref_usfm": "ECC 12:1",
+          "end_ref": "21012007",
+          "end_ref_usfm": "ECC 12:7"
+        },
+        {
+          "start_ref": "12017005",
+          "start_ref_usfm": "2KI 17:5",
+          "end_ref": "12017023",
+          "end_ref_usfm": "2KI 17:23"
+        },
+        {
+          "start_ref": "05031016",
+          "start_ref_usfm": "DEU 31:16",
+          "end_ref": "05031021",
+          "end_ref_usfm": "DEU 31:21"
+        },
+        {
+          "start_ref": "46003012",
+          "start_ref_usfm": "1CO 3:12",
+          "end_ref": "46003014",
+          "end_ref_usfm": "1CO 3:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

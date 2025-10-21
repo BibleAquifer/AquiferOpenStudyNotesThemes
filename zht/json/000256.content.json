@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 700372,
+    "reference_id": 203309,
+    "title": "道",
+    "media_type": "Text",
+    "index_reference": "道",
+    "language": "zht",
+    "content": "<p>使徒約翰在其福音書中以一個非凡的描述開始，稱耶穌基督為「道」（the Word）（希臘文<em>logos，</em><a href=\"https://ref.ly/John1:1\">約1:1</a>）。在第一世紀，希臘和猶太聽眾都能理解這個稱號的深層含義。</p><p>希臘人會想到這是維持宇宙的基本力量。猶太人會記得這指的是神透過說話創造世界（<a href=\"https://ref.ly/Gen1:3-Gen1:28\">創1:3–28</a>；<a href=\"https://ref.ly/Ps33:6\">詩33:6</a>、<a href=\"https://ref.ly/Ps33:9\">9</a>）。在耶穌的時代，神的「道」已具有創造性的位格特質。猶太人將神的「道」視為談論神「智慧」的另一種方式。透過「智慧」，神進入宇宙，創造世界（<a href=\"https://ref.ly/Prov8:22-Prov8:31\">箴8:22–31</a>）。</p><p>約翰解釋說，耶穌與神具有相同的本質或屬性。這位聖子在時間開始之前就已存在，並創造了一切。約翰將耶穌是神的真理與古代猶太人的智慧觀念聯繫起來。這種神聖的智慧，在時間之前與神同在，如今在耶穌基督裡彰顯出來。約翰在一節強而有力的經文中寫出（<a href=\"https://ref.ly/John1:14\">約1:14</a>），這「道」（Logos），或「智慧」，成了肉身，住在我們中間。神是什麼，「道」就是什麼，而「道」就是耶穌基督。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Gen1:3-Gen1:28\">創1:3–28</a>；<a href=\"https://ref.ly/Ps33:6\">詩33:6</a>、<a href=\"https://ref.ly/Ps33:9\">9</a>；<a href=\"https://ref.ly/Prov8:22-Prov8:31\">箴8:22–31</a>；<a href=\"https://ref.ly/Isa40:8\">賽40:8</a>；<a href=\"https://ref.ly/John1:1-John1:18\">約1:1–18</a>；<a href=\"https://ref.ly/1John1:1\">約壹1:1</a>；<a href=\"https://ref.ly/Rev19:13\">啟19:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19033006",
+          "start_ref_usfm": "PSA 33:6",
+          "end_ref": "19033006",
+          "end_ref_usfm": "PSA 33:6"
+        },
+        {
+          "start_ref": "19033009",
+          "start_ref_usfm": "PSA 33:9",
+          "end_ref": "19033009",
+          "end_ref_usfm": "PSA 33:9"
+        },
+        {
+          "start_ref": "23040008",
+          "start_ref_usfm": "ISA 40:8",
+          "end_ref": "23040008",
+          "end_ref_usfm": "ISA 40:8"
+        },
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001001",
+          "end_ref_usfm": "JHN 1:1"
+        },
+        {
+          "start_ref": "43001014",
+          "start_ref_usfm": "JHN 1:14",
+          "end_ref": "43001014",
+          "end_ref_usfm": "JHN 1:14"
+        },
+        {
+          "start_ref": "62001001",
+          "start_ref_usfm": "1JN 1:1",
+          "end_ref": "62001001",
+          "end_ref_usfm": "1JN 1:1"
+        },
+        {
+          "start_ref": "66019013",
+          "start_ref_usfm": "REV 19:13",
+          "end_ref": "66019013",
+          "end_ref_usfm": "REV 19:13"
+        },
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001018",
+          "end_ref_usfm": "JHN 1:18"
+        },
+        {
+          "start_ref": "20008022",
+          "start_ref_usfm": "PRO 8:22",
+          "end_ref": "20008031",
+          "end_ref_usfm": "PRO 8:31"
+        },
+        {
+          "start_ref": "01001003",
+          "start_ref_usfm": "GEN 1:3",
+          "end_ref": "01001028",
+          "end_ref_usfm": "GEN 1:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

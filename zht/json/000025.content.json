@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 700454,
+    "reference_id": 203391,
+    "title": "天使的敬拜",
+    "media_type": "Text",
+    "index_reference": "天使的敬拜",
+    "language": "zht",
+    "content": "<p>聖經經常將天使描述為能引人敬畏或恐懼的存在（例如，<a href=\"https://ref.ly/Josh5:13-Josh5:15\">書5:13–15</a>；<a href=\"https://ref.ly/Luke2:8-Luke2:10\">路2:8–10</a>）。然而，天使服事神，且神不允許人們敬拜他們（<a href=\"https://ref.ly/Heb1:5-Heb1:14\">來1:5–14</a>；<a href=\"https://ref.ly/Rev19:10\">啟19:10</a>）。猶太傳統發展出以天使作為中保的概念（中保：那些能將人連結於神的人）。在基督教前的猶太教中，人們多次強調神的<em>超越性</em>或「他者性（otherness）」，以至於他們認為需要有中保來與神溝通。在這個景況下，天使變得更加重要。</p><p>對基督徒來說，耶穌具有作為神與人之間中保的獨特角色。若將注意力集中在天使，或已故聖徒作為與神溝通的途徑，會分散對耶穌作為唯一必要中保的尊崇（<a href=\"https://ref.ly/1Tim2:5-1Tim2:6\">提前2:5–6</a>；另見<a href=\"https://ref.ly/2Cor5:19-2Cor5:21\">林後5:19–21</a>；<a href=\"https://ref.ly/Heb7:24-Heb7:25\">來7:24–25</a>）。神仍然使用天使作為使者，但他們是服事衪的受造物，而不是值得敬拜的神聖存在物。只有神配得我們的禱告和敬拜。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Acts27:23-Acts27:24\">徒27:23–24</a>；<a href=\"https://ref.ly/2Cor5:19-2Cor5:21\">林後5:19–21</a>；<a href=\"https://ref.ly/1Tim2:5-1Tim2:6\">提前2:5–6</a>；<a href=\"https://ref.ly/Heb1:5-Heb1:14\">來1:5–14</a>，<a href=\"https://ref.ly/Heb7:24-Heb7:25\">7:24–25</a>；<a href=\"https://ref.ly/Rev19:10\">啟19:10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "66019010",
+          "start_ref_usfm": "REV 19:10",
+          "end_ref": "66019010",
+          "end_ref_usfm": "REV 19:10"
+        },
+        {
+          "start_ref": "58007024",
+          "start_ref_usfm": "HEB 7:24",
+          "end_ref": "58007025",
+          "end_ref_usfm": "HEB 7:25"
+        },
+        {
+          "start_ref": "06005013",
+          "start_ref_usfm": "JOS 5:13",
+          "end_ref": "06005015",
+          "end_ref_usfm": "JOS 5:15"
+        },
+        {
+          "start_ref": "54002005",
+          "start_ref_usfm": "1TI 2:5",
+          "end_ref": "54002006",
+          "end_ref_usfm": "1TI 2:6"
+        },
+        {
+          "start_ref": "58001005",
+          "start_ref_usfm": "HEB 1:5",
+          "end_ref": "58001014",
+          "end_ref_usfm": "HEB 1:14"
+        },
+        {
+          "start_ref": "44027023",
+          "start_ref_usfm": "ACT 27:23",
+          "end_ref": "44027024",
+          "end_ref_usfm": "ACT 27:24"
+        },
+        {
+          "start_ref": "47005019",
+          "start_ref_usfm": "2CO 5:19",
+          "end_ref": "47005021",
+          "end_ref_usfm": "2CO 5:21"
+        },
+        {
+          "start_ref": "42002008",
+          "start_ref_usfm": "LUK 2:8",
+          "end_ref": "42002010",
+          "end_ref_usfm": "LUK 2:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

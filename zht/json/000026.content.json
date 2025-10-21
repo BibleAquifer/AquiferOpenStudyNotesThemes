@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 700324,
+    "reference_id": 203261,
+    "title": "天啟文學",
+    "media_type": "Text",
+    "index_reference": "天啟文學",
+    "language": "zht",
+    "content": "<p>舊約中有些經文展現出與後期猶太天啟文學相似的主題（<a href=\"https://ref.ly/Isa24:1-Isa27:13\">賽24–27章</a>；<a href=\"https://ref.ly/Ezek38:1-Ezek39:29\">結38:1–39:29</a>；<a href=\"https://ref.ly/Dan7:1-Dan12:13\">但7–12章</a>；<a href=\"https://ref.ly/Zech9:1-Zech14:21\">亞9–14章</a>）。天啟文學是一種以異象和象徵手法揭示神最終戰勝邪惡的文學體裁，並藉此向祂的子民傳遞盼望。新約的啟示錄整卷書也屬於這類文學。</p><p>天啟文學藉著神所啟示的異象來傳達隱密或難以理解的事。<em>天啟（apocalyptic）</em>一詞來自希臘文<em>apokalupsis</em>，意思是「揭示」。然而，其它類型的先知文學則更著重於信息本身的言語表達。若用法律術語來比喻，先知就像一位負責控訴的檢察官，傳達神的話語（神諭），而天啟文學的作者則如見證人，描述他所看見的屬天景象。</p><p>一般的預言多半聚焦於今生對拯救或審判的預告；而天啟文學則預期一種超越空間與時間的實現。它不期待社會漸進式的改善，而是預言一場翻轉世界的劇變，終結現況，開啟全新的局面。天啟文學將現今看作是光明與黑暗爭戰的時刻，而善與惡的超自然勢力之間，沒有妥協或和平的可能。</p><p>天啟文學揭露這場爭戰背後隱藏的真相。它顯明了黑暗勢力的存在，同時也顯明那環繞我們、終將得勝的善的力量。這場未來的勝利已經注定，無論是人或屬靈的勢力如何抵擋，都無法改變結局。</p><p>天啟異象的目的，是在困難時期鼓勵與激勵信徒。這些著作帶來正面的信息：儘管目前艱難，神早已決定最終爭戰的結果，善的勢力必定得勝。天啟文學反對異教所宣稱世界恆常不變的觀點，強調神掌權，祂的國度終將得勝。</p><p>這信息為受苦中的信徒帶來盼望，勸勉他們在困境中仍要持守忠心。它安慰掙扎中的人，宣告神仍掌權，必然得勝。即使在苦難中，順服神依然是唯一正確的生活之道。我們仰望那最終的得勝，就是神將帶來一個全新的救恩時代。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Ezek38:1-Ezek39:24\">結38:1</a><a href=\"https://ref.ly/Ezek38:1-Ezek39:29\">–</a><a href=\"https://ref.ly/Ezek38:1-Ezek39:24\">39:24</a>；<a href=\"https://ref.ly/Dan7:1-Dan12:13\">但7:1</a><a href=\"https://ref.ly/Ezek38:1-Ezek39:29\">–</a><a href=\"https://ref.ly/Dan7:1-Dan12:13\">12:13</a>；<a href=\"https://ref.ly/Zech9:1-Zech14:21\">亞9:1</a><a href=\"https://ref.ly/Ezek38:1-Ezek39:29\">–</a><a href=\"https://ref.ly/Zech9:1-Zech14:21\">14:21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27007001",
+          "start_ref_usfm": "DAN 7:1",
+          "end_ref": "27012013",
+          "end_ref_usfm": "DAN 12:13"
+        },
+        {
+          "start_ref": "26038001",
+          "start_ref_usfm": "EZK 38:1",
+          "end_ref": "26039024",
+          "end_ref_usfm": "EZK 39:24"
+        },
+        {
+          "start_ref": "26038001",
+          "start_ref_usfm": "EZK 38:1",
+          "end_ref": "26039029",
+          "end_ref_usfm": "EZK 39:29"
+        },
+        {
+          "start_ref": "38009001",
+          "start_ref_usfm": "ZEC 9:1",
+          "end_ref": "38014021",
+          "end_ref_usfm": "ZEC 14:21"
+        },
+        {
+          "start_ref": "23024001",
+          "start_ref_usfm": "ISA 24:1",
+          "end_ref": "23027013",
+          "end_ref_usfm": "ISA 27:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

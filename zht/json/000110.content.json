@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 700345,
+    "reference_id": 203282,
+    "title": "耶穌的祝福",
+    "media_type": "Text",
+    "index_reference": "耶穌的祝福",
+    "language": "zht",
+    "content": "<p>八福（Beatitudes）是耶穌給追隨衪的人的祝福，它的名稱<span>源自</span>拉丁文聖經譯本（武加大譯本）中的詞<em>beati</em>（意思是「有福的」）。在我們的語言中，沒有一個詞能完全表達耶穌在這裡的意思。祂描述的是神在屬靈與生活層面上，對祂子民特別的恩待，以及活在這種恩典中的結果。</p><p>八福描述跟隨耶穌的人應有的生活方式與態度。耶穌在向以色列宣講天國的信息時，呼召人們來跟隨祂（另見<a href=\"https://ref.ly/Matt11:6\">太11:6</a>，<a href=\"https://ref.ly/Matt13:16\">13:16</a>，<a href=\"https://ref.ly/Matt16:17\">16:17</a>，<a href=\"https://ref.ly/Matt24:46\">24:46</a>）。那些蒙耶穌祝福的人，正是聽了天國的信息而認罪悔改的人（<a href=\"https://ref.ly/Matt4:17-Matt4:22\">太4:17–22</a>）。八福與<a href=\"https://ref.ly/Isa61:1-Isa61:3\">以賽亞書六十一章1至3節</a>相關。聖靈賜下能力，引導人傳揚有關耶穌的福音，並祝福那些貧窮的、謙卑的和在神眼中為義的人。</p><p>在聖經中，「有福的」這個詞表達以下意思：</p><ul><li><p>這福來自神，表明祂的認可（見<a href=\"https://ref.ly/Matt25:34\">太25:34</a>）。</p></li><li><p>這福顯示神應許的實現（見<a href=\"https://ref.ly/Matt11:6\">太11:6</a>，<a href=\"https://ref.ly/Matt13:16\">13:16</a>，<a href=\"https://ref.ly/Matt16:17\">16:17</a>）。</p></li><li><p>這福以出人意料的方式改變現實，使信靠神的人生命得以改善（見<a href=\"https://ref.ly/Luke1:1-Luke2:52\">路1:1–2:52</a>，<a href=\"https://ref.ly/Luke6:20-Luke6:26\">6:20–26</a>）。</p></li><li><p>人若要領受這福，就必須遵行神的旨意（見<a href=\"https://ref.ly/Ps1:1\">詩1:1</a>、<a href=\"https://ref.ly/Ps1:3-Ps1:6\">3–6</a>，<a href=\"https://ref.ly/Ps106:3\">106:3</a>，<a href=\"https://ref.ly/Ps112:1-Ps112:2\">112:1–2</a>，<a href=\"https://ref.ly/Ps119:1-Ps119:2\">119:1–2</a>；<a href=\"https://ref.ly/Prov8:32\">箴8:32</a>；<a href=\"https://ref.ly/Isa56:2\">賽56:2</a>）。</p></li></ul><p>這些祝福從彌賽亞耶穌降世就開始了。信徒可以確信，他們將永遠得享這些祝福。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Ps1:1-Ps1:3\">詩1:1–3</a>，<a href=\"https://ref.ly/Ps106:3\">106:3</a>，<a href=\"https://ref.ly/Ps112:1-Ps112:2\">112:1–2</a>，<a href=\"https://ref.ly/Ps119:1-Ps119:2\">119:1–2</a>；<a href=\"https://ref.ly/Isa56:1-Isa56:2\">賽56:1–2</a>；<a href=\"https://ref.ly/Matt5:3-Matt5:12\">太5:3–12</a>，<a href=\"https://ref.ly/Matt11:6\">11:6</a>，<a href=\"https://ref.ly/Matt13:16\">13:16</a>，<a href=\"https://ref.ly/Matt16:17\">16:17</a>，<a href=\"https://ref.ly/Matt24:46\">24:46</a>，<a href=\"https://ref.ly/Matt25:34\">25:34</a>；<a href=\"https://ref.ly/Luke6:20-Luke6:26\">路6:20–26</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001001",
+          "end_ref_usfm": "PSA 1:1"
+        },
+        {
+          "start_ref": "19106003",
+          "start_ref_usfm": "PSA 106:3",
+          "end_ref": "19106003",
+          "end_ref_usfm": "PSA 106:3"
+        },
+        {
+          "start_ref": "20008032",
+          "start_ref_usfm": "PRO 8:32",
+          "end_ref": "20008032",
+          "end_ref_usfm": "PRO 8:32"
+        },
+        {
+          "start_ref": "23056002",
+          "start_ref_usfm": "ISA 56:2",
+          "end_ref": "23056002",
+          "end_ref_usfm": "ISA 56:2"
+        },
+        {
+          "start_ref": "40011006",
+          "start_ref_usfm": "MAT 11:6",
+          "end_ref": "40011006",
+          "end_ref_usfm": "MAT 11:6"
+        },
+        {
+          "start_ref": "40013016",
+          "start_ref_usfm": "MAT 13:16",
+          "end_ref": "40013016",
+          "end_ref_usfm": "MAT 13:16"
+        },
+        {
+          "start_ref": "40016017",
+          "start_ref_usfm": "MAT 16:17",
+          "end_ref": "40016017",
+          "end_ref_usfm": "MAT 16:17"
+        },
+        {
+          "start_ref": "40024046",
+          "start_ref_usfm": "MAT 24:46",
+          "end_ref": "40024046",
+          "end_ref_usfm": "MAT 24:46"
+        },
+        {
+          "start_ref": "40025034",
+          "start_ref_usfm": "MAT 25:34",
+          "end_ref": "40025034",
+          "end_ref_usfm": "MAT 25:34"
+        },
+        {
+          "start_ref": "42006020",
+          "start_ref_usfm": "LUK 6:20",
+          "end_ref": "42006026",
+          "end_ref_usfm": "LUK 6:26"
+        },
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42002052",
+          "end_ref_usfm": "LUK 2:52"
+        },
+        {
+          "start_ref": "40005003",
+          "start_ref_usfm": "MAT 5:3",
+          "end_ref": "40005012",
+          "end_ref_usfm": "MAT 5:12"
+        },
+        {
+          "start_ref": "23061001",
+          "start_ref_usfm": "ISA 61:1",
+          "end_ref": "23061003",
+          "end_ref_usfm": "ISA 61:3"
+        },
+        {
+          "start_ref": "23056001",
+          "start_ref_usfm": "ISA 56:1",
+          "end_ref": "23056002",
+          "end_ref_usfm": "ISA 56:2"
+        },
+        {
+          "start_ref": "19119001",
+          "start_ref_usfm": "PSA 119:1",
+          "end_ref": "19119002",
+          "end_ref_usfm": "PSA 119:2"
+        },
+        {
+          "start_ref": "40004017",
+          "start_ref_usfm": "MAT 4:17",
+          "end_ref": "40004022",
+          "end_ref_usfm": "MAT 4:22"
+        },
+        {
+          "start_ref": "19001003",
+          "start_ref_usfm": "PSA 1:3",
+          "end_ref": "19001006",
+          "end_ref_usfm": "PSA 1:6"
+        },
+        {
+          "start_ref": "19112001",
+          "start_ref_usfm": "PSA 112:1",
+          "end_ref": "19112002",
+          "end_ref_usfm": "PSA 112:2"
+        },
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001003",
+          "end_ref_usfm": "PSA 1:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

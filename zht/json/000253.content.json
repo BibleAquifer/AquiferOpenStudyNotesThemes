@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 700369,
+    "reference_id": 203306,
+    "title": "路加福音中的貧與富",
+    "media_type": "Text",
+    "index_reference": "路加福音中的貧與富",
+    "language": "zht",
+    "content": "<p>在路加福音中，人能否進入神的國，與世上的財富標準，形成根本的對立。耶穌的母親馬利亞宣告，神使卑<span>賤</span>的人升高，卻使富足和有權<span>柄</span>的人降卑（<a href=\"https://ref.ly/Luke1:52-Luke1:53\">路1:52–53</a>）。耶穌在拿撒勒宣告，福音是「<span>給貧窮的人」</span>的好消息（<a href=\"https://ref.ly/Luke4:18\">4:18</a>）。祂稱貧窮和飢餓的人有福，並警告那些富足和<span>飽足</span>的人（<a href=\"https://ref.ly/Luke6:20-Luke6:26\">6:20–26</a>）。這番教導挑戰了當時普遍的觀念——人們認為富人是蒙神賜福的，而窮人則是遭神咒詛的。</p><p>耶穌的幾個比喻，嚴正警告人們留意財富所帶來的危險。無知財主的比喻揭示，人若專注積蓄地上的財寶，不致力於與神建立穩固的關係，最終會面對什麼樣的結局（<a href=\"https://ref.ly/Luke12:13-Luke12:21\">路12:13–21</a>）。財主與拉撒路的比喻則說明：人若在今生享受舒適安逸，卻忽略身邊貧窮無助之人，他們將在永恆中承擔可怕的後果（<a href=\"https://ref.ly/Luke16:19-Luke16:31\">16:19–31</a>）。曾有財主問耶穌如何承受永生，聽見耶穌要他變賣所有，分給窮人時，他就極其憂愁（<a href=\"https://ref.ly/Luke18:18-Luke18:23\">18:18–23</a>）。</p><p>在路加福音中，誰是貧窮的人？究竟是指物質上貧窮的人，還是心靈貧乏的人呢（參<a href=\"https://ref.ly/Matt5:3\">太5:3</a>）？很可能兩者皆是。那些物質上貧窮、擁有極少的人，更容易倚靠神來供應他們的所需；而富有和有權勢的人，則常常依賴自己，容易忘記自己需要神。人若倚靠財富想要進入神的國，就必無法進入（<a href=\"https://ref.ly/Luke16:25-Luke16:26\">16:25–26</a>）。神只接納那些全心信靠祂的人。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Matt5:3\">太5:3</a>；<a href=\"https://ref.ly/Luke1:52-Luke1:53\">路1:52–53</a>，<a href=\"https://ref.ly/Luke4:18\">4:18</a>，<a href=\"https://ref.ly/Luke6:20-Luke6:25\">6:20–25</a>，<a href=\"https://ref.ly/Luke12:13-Luke12:34\">12:13–34</a>，<a href=\"https://ref.ly/Luke14:12-Luke14:23\">14:12–23</a>，<a href=\"https://ref.ly/Luke16:19-Luke16:31\">16:19–31</a>，<a href=\"https://ref.ly/Luke18:18-Luke18:30\">18:18–30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40005003",
+          "start_ref_usfm": "MAT 5:3",
+          "end_ref": "40005003",
+          "end_ref_usfm": "MAT 5:3"
+        },
+        {
+          "start_ref": "42004018",
+          "start_ref_usfm": "LUK 4:18",
+          "end_ref": "42004018",
+          "end_ref_usfm": "LUK 4:18"
+        },
+        {
+          "start_ref": "42006020",
+          "start_ref_usfm": "LUK 6:20",
+          "end_ref": "42006026",
+          "end_ref_usfm": "LUK 6:26"
+        },
+        {
+          "start_ref": "42016019",
+          "start_ref_usfm": "LUK 16:19",
+          "end_ref": "42016031",
+          "end_ref_usfm": "LUK 16:31"
+        },
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018030",
+          "end_ref_usfm": "LUK 18:30"
+        },
+        {
+          "start_ref": "42012013",
+          "start_ref_usfm": "LUK 12:13",
+          "end_ref": "42012034",
+          "end_ref_usfm": "LUK 12:34"
+        },
+        {
+          "start_ref": "42012013",
+          "start_ref_usfm": "LUK 12:13",
+          "end_ref": "42012021",
+          "end_ref_usfm": "LUK 12:21"
+        },
+        {
+          "start_ref": "42001052",
+          "start_ref_usfm": "LUK 1:52",
+          "end_ref": "42001053",
+          "end_ref_usfm": "LUK 1:53"
+        },
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018023",
+          "end_ref_usfm": "LUK 18:23"
+        },
+        {
+          "start_ref": "42016025",
+          "start_ref_usfm": "LUK 16:25",
+          "end_ref": "42016026",
+          "end_ref_usfm": "LUK 16:26"
+        },
+        {
+          "start_ref": "42006020",
+          "start_ref_usfm": "LUK 6:20",
+          "end_ref": "42006025",
+          "end_ref_usfm": "LUK 6:25"
+        },
+        {
+          "start_ref": "42014012",
+          "start_ref_usfm": "LUK 14:12",
+          "end_ref": "42014023",
+          "end_ref_usfm": "LUK 14:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
