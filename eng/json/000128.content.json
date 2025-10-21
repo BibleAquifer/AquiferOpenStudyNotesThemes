@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 500420,
+    "reference_id": 203363,
+    "title": "Legalism",
+    "media_type": "Text",
+    "index_reference": "legalism",
+    "language": "eng",
+    "content": "<p>The law was very important to the Jewish people. Their understanding of religion often focused on following rules and ceremonies. This was natural to them because God had given his law to the Jewish people. He did this to show he had chosen them as his people. God also gave them the law as a way for them to confirm and keep the covenant agreement he had made with them.</p><p>Yet, many Jews added to God&apos;s laws, creating rules for almost every situation. They often did this to avoid breaking any of God&apos;s laws. As Jesus often pointed out, these extra rules sometimes made it hard to follow God&apos;s instructions (<a href=\"https://ref.ly/Mark7:1-Mark7:15\">Mark 7:1–15</a>). In addition, many Jews believed that simply following the law would make them favored by God.</p><p>The apostle Paul often encountered issues with strict legalism in the early churches. For example, in Colossae, false teachers influenced by Jewish beliefs insisted that Christians follow certain rules to express their faith (<a href=\"https://ref.ly/Col2:16-Col2:23\">Colossians 2:16–23</a>). Paul criticized this, emphasizing faith in Christ. Christ is the fulfillment of all God&apos;s plans and purposes and is the center of true devotion.</p><p>This does not mean that rules for behavior are bad in themselves. Some rules, like the prohibition on lying, plainly show an aspect of Christ’s character (<a href=\"https://ref.ly/Col3:9\">Colossians 3:9</a>). Paul also did not mind if individual Christians set rules for themselves that they believe will help them better obey Christ (compare <a href=\"https://ref.ly/Rom14:5\">Romans 14:5</a>; <a href=\"https://ref.ly/1Cor8:1-1Cor8:13\">1 Corinthians 8</a>). Yet, they must not force others to follow these self-imposed rules.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt23:13-Matt23:33\">Matthew 23:13–33</a>; <a href=\"https://ref.ly/Mark7:1-Mark7:15\">Mark 7:1–15</a>; <a href=\"https://ref.ly/Gal2:14-Gal2:21\">Galatians 2:14–21</a>; <a href=\"https://ref.ly/Col2:16-Col2:23\">Colossians 2:16–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45014005",
+          "start_ref_usfm": "ROM 14:5",
+          "end_ref": "45014005",
+          "end_ref_usfm": "ROM 14:5"
+        },
+        {
+          "start_ref": "51003009",
+          "start_ref_usfm": "COL 3:9",
+          "end_ref": "51003009",
+          "end_ref_usfm": "COL 3:9"
+        },
+        {
+          "start_ref": "51002016",
+          "start_ref_usfm": "COL 2:16",
+          "end_ref": "51002023",
+          "end_ref_usfm": "COL 2:23"
+        },
+        {
+          "start_ref": "46008001",
+          "start_ref_usfm": "1CO 8:1",
+          "end_ref": "46008013",
+          "end_ref_usfm": "1CO 8:13"
+        },
+        {
+          "start_ref": "40023013",
+          "start_ref_usfm": "MAT 23:13",
+          "end_ref": "40023033",
+          "end_ref_usfm": "MAT 23:33"
+        },
+        {
+          "start_ref": "48002014",
+          "start_ref_usfm": "GAL 2:14",
+          "end_ref": "48002021",
+          "end_ref_usfm": "GAL 2:21"
+        },
+        {
+          "start_ref": "41007001",
+          "start_ref_usfm": "MRK 7:1",
+          "end_ref": "41007015",
+          "end_ref_usfm": "MRK 7:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

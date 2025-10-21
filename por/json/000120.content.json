@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 800540,
+    "reference_id": 203371,
+    "title": "Escravidão",
+    "media_type": "Text",
+    "index_reference": "escravidão",
+    "language": "por",
+    "content": "<p>A escravidão era comum no mundo romano. Prisioneiros de guerra frequentemente se tornavam escravos, muitos nasciam na escravidão e alguns escolhiam a escravidão temporariamente para pagar dívidas. Uma grande parte da população, incluindo muitos cristãos, era composta por escravos ou ex-escravos (veja <a href=\"https://ref.ly/Acts6:9\">Atos 6.9</a>). Então, por que o apóstolo Paulo não falou contra a escravidão?</p><p>Existem duas razões. Primeiro, a escravidão no mundo romano era diferente da escravidão conhecida pelo mundo ocidental moderno. Não era baseada em raça e raramente era vitalícia. A maioria dos escravos esperava obter liberdade aos trinta anos. Algumas pessoas até se vendiam como escravos para aumentar seu status social. Alguns escravos eram bem-educados e ocupavam papéis importantes em suas casas e na sociedade. Muitos tinham relações amigáveis com seus mestres. No mundo romano, cristãos como Filemom não se sentiam culpados por possuir escravos.</p><p>Em segundo lugar, Paulo não se opôs à escravidão porque sua missão não era mudar as estruturas da sociedade, mas sim construir a igreja. Ele desejava que as pessoas se convertessem e se transformassem espiritualmente. Para Paulo, ser ou não ser escravo não era muito importante para um cristão, assim como outras circunstâncias externas. O essencial é servir a Jesus Cristo, independentemente da situação de vida de cada um. Em outras palavras, Paulo focava mais na vida cristã e no testemunho do que na liberdade física.</p><p>Até os escravos podem realizar seu trabalho como um ato de adoração (<a href=\"https://ref.ly/Eph6:5-Eph6:8\">Efésios 6.5–8</a>; <a href=\"https://ref.ly/Col3:22-Col3:24\">Colossenses 3.22–24</a>; compare <a href=\"https://ref.ly/1Tim6:1-1Tim6:2\">1 Timóteo 6.1–2</a>). Quando Paulo fala aos escravos cristãos, ele os encoraja a ver sua situação como um chamado onde podem servir a Cristo. Cristo é seu verdadeiro mestre, e nele, eles são verdadeiramente livres (<a href=\"https://ref.ly/1Cor7:20-1Cor7:24\">1 Coríntios 7.20–24</a>).</p><p>Cada cristão, seja escravo ou livre, foi libertado do pior tipo de escravidão, a escravidão ao pecado. Agora eles podem experimentar a verdadeira liberdade vivendo como servos de Deus e da justiça (<a href=\"https://ref.ly/Rom6:6-Rom6:22\">Romanos 6.6–22</a>). Para Paulo, este é o único tipo de escravidão e liberdade que realmente importa.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Rom6:6-Rom6:22\">Romanos 6.6–22</a>; <a href=\"https://ref.ly/1Cor7:20-1Cor7:24\">1 Coríntios 7.20–24</a>; <a href=\"https://ref.ly/1Cor9:19\">9.19</a>; <a href=\"https://ref.ly/Eph6:5-Eph6:8\">Efésios 6.5–8</a>; <a href=\"https://ref.ly/Col3:22-Col3:24\">Colossenses 3.22–24</a>; <a href=\"https://ref.ly/1Tim6:1-1Tim6:2\">1 Timóteo 6.1–2</a>; <a href=\"https://ref.ly/Phlm1:8-Phlm1:21\">Filemom 1.8–21.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "46009019",
+          "start_ref_usfm": "1CO 9:19",
+          "end_ref": "46009019",
+          "end_ref_usfm": "1CO 9:19"
+        },
+        {
+          "start_ref": "51003022",
+          "start_ref_usfm": "COL 3:22",
+          "end_ref": "51003024",
+          "end_ref_usfm": "COL 3:24"
+        },
+        {
+          "start_ref": "46007020",
+          "start_ref_usfm": "1CO 7:20",
+          "end_ref": "46007024",
+          "end_ref_usfm": "1CO 7:24"
+        },
+        {
+          "start_ref": "54006001",
+          "start_ref_usfm": "1TI 6:1",
+          "end_ref": "54006002",
+          "end_ref_usfm": "1TI 6:2"
+        },
+        {
+          "start_ref": "49006005",
+          "start_ref_usfm": "EPH 6:5",
+          "end_ref": "49006008",
+          "end_ref_usfm": "EPH 6:8"
+        },
+        {
+          "start_ref": "45006006",
+          "start_ref_usfm": "ROM 6:6",
+          "end_ref": "45006022",
+          "end_ref_usfm": "ROM 6:22"
+        },
+        {
+          "start_ref": "57001008",
+          "start_ref_usfm": "PHM 1:8",
+          "end_ref": "57001021",
+          "end_ref_usfm": "PHM 1:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

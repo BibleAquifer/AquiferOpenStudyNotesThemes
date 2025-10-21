@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 702216,
+    "reference_id": 203152,
+    "title": "المَلَكية",
+    "media_type": "Text",
+    "index_reference": "المَلَكية",
+    "language": "arb",
+    "content": "<p>طلب بنو إسرائيل ملكًا ليكونوا &quot;مثل سائر الأمم&quot;. وبحلول زمن شاول وداود، كانت فكرة المَلَكية قائمة في الشرق الأدنى القديم منذ نحو ألفي عام، خاصتًا في إمبراطوريتي مصر وبابل. حتى الأمم الأصغر حجمًا، كالفلسطينيين، والموآبيين، والأدوميين، كان لهم ملوك يمتلكون حكومات دائمة وجيوشًا منظمة. وكان الناس يعتقدون أن الآلهة تختار الملوك لقيادة شؤون البشر، فيحكمون إما نيابة عن الآلهة أو بوصفهم آلهة.</p><p>ورغم تحذيرات صموئيل النبي، أراد الإسرائيليون أن يكونوا كغيرهم من الأمم وتجاهلوا العواقب طويلة المدى لوجود ملك،  (<a href=\"https://ref.ly/1Sam8:10-1Sam8:18\">1 صموئيل 8:10–18</a>). ومع مرور الزمن، أثبت التاريخ أن صموئيل كان على حق، حيث قاد الملوك السيئون شعب الله المختار إلى الوقوع تحت سيطرة الأمم الأجنبية والسبي. ومع ذلك، استخدم الله الملكية لتحقيق مقاصده، حيث أتى بالمسيا (المختار من الله) من نسل داود، مؤسسًا ملكوتًا أبديًا (انظر <a href=\"https://ref.ly/2Sam7:8-2Sam7:16\">2 صموئيل 7:8–16</a>; <a href=\"https://ref.ly/Matt21:1-Matt21:11\">متى 21:1–11</a>; <a href=\"https://ref.ly/Rev5:5\">رؤيا 5:5</a>; <a href=\"https://ref.ly/Rev11:15\">11:15</a>).</p><p><u>نصوص إضافية للدراسة</u></p><p><a href=\"https://ref.ly/Deut17:14-Deut17:20\">تثنية 17:14–20</a>; <a href=\"https://ref.ly/Deut33:5\">33:5</a>; <a href=\"https://ref.ly/Judg17:6\">قضاة 17:6</a>; <a href=\"https://ref.ly/Judg21:25\">21:25</a>; <a href=\"https://ref.ly/1Sam8:5-1Sam8:22\">1 صموئيل 8:5–22</a>; <a href=\"https://ref.ly/1Sam10:1\">10:1</a>, <a href=\"https://ref.ly/1Sam10:24-1Sam10:25\">24–25</a>; <a href=\"https://ref.ly/2Sam7:8-2Sam7:16\">2 صموئيل 7:8–16</a>; <a href=\"https://ref.ly/Ps89:35-Ps89:37\">مزمور 89:35–37</a>; <a href=\"https://ref.ly/Eccl8:2-Eccl8:5\">جامعة 8:2–5</a>; <a href=\"https://ref.ly/Isa33:22\">إشعياء 33:22</a>; <a href=\"https://ref.ly/Matt21:1-Matt21:11\">متى 21:1–11</a>; <a href=\"https://ref.ly/Matt22:42-Matt22:46\">22:42–46</a>; <a href=\"https://ref.ly/Matt27:11\">27:11</a>; <a href=\"https://ref.ly/1Tim1:17\">1 تيموثاوس 1:17</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:14\">1 بطرس 2:13–14</a>; <a href=\"https://ref.ly/Rev5:5\">رؤيا 5:5</a>; <a href=\"https://ref.ly/Rev11:15\">11:15</a>; <a href=\"https://ref.ly/Rev15:3\">15:3</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05033005",
+          "start_ref_usfm": "DEU 33:5",
+          "end_ref": "05033005",
+          "end_ref_usfm": "DEU 33:5"
+        },
+        {
+          "start_ref": "07017006",
+          "start_ref_usfm": "JDG 17:6",
+          "end_ref": "07017006",
+          "end_ref_usfm": "JDG 17:6"
+        },
+        {
+          "start_ref": "07021025",
+          "start_ref_usfm": "JDG 21:25",
+          "end_ref": "07021025",
+          "end_ref_usfm": "JDG 21:25"
+        },
+        {
+          "start_ref": "09010001",
+          "start_ref_usfm": "1SA 10:1",
+          "end_ref": "09010001",
+          "end_ref_usfm": "1SA 10:1"
+        },
+        {
+          "start_ref": "23033022",
+          "start_ref_usfm": "ISA 33:22",
+          "end_ref": "23033022",
+          "end_ref_usfm": "ISA 33:22"
+        },
+        {
+          "start_ref": "40027011",
+          "start_ref_usfm": "MAT 27:11",
+          "end_ref": "40027011",
+          "end_ref_usfm": "MAT 27:11"
+        },
+        {
+          "start_ref": "54001017",
+          "start_ref_usfm": "1TI 1:17",
+          "end_ref": "54001017",
+          "end_ref_usfm": "1TI 1:17"
+        },
+        {
+          "start_ref": "66005005",
+          "start_ref_usfm": "REV 5:5",
+          "end_ref": "66005005",
+          "end_ref_usfm": "REV 5:5"
+        },
+        {
+          "start_ref": "66011015",
+          "start_ref_usfm": "REV 11:15",
+          "end_ref": "66011015",
+          "end_ref_usfm": "REV 11:15"
+        },
+        {
+          "start_ref": "66015003",
+          "start_ref_usfm": "REV 15:3",
+          "end_ref": "66015003",
+          "end_ref_usfm": "REV 15:3"
+        },
+        {
+          "start_ref": "10007008",
+          "start_ref_usfm": "2SA 7:8",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "60002013",
+          "start_ref_usfm": "1PE 2:13",
+          "end_ref": "60002014",
+          "end_ref_usfm": "1PE 2:14"
+        },
+        {
+          "start_ref": "09008010",
+          "start_ref_usfm": "1SA 8:10",
+          "end_ref": "09008018",
+          "end_ref_usfm": "1SA 8:18"
+        },
+        {
+          "start_ref": "09008005",
+          "start_ref_usfm": "1SA 8:5",
+          "end_ref": "09008022",
+          "end_ref_usfm": "1SA 8:22"
+        },
+        {
+          "start_ref": "09010024",
+          "start_ref_usfm": "1SA 10:24",
+          "end_ref": "09010025",
+          "end_ref_usfm": "1SA 10:25"
+        },
+        {
+          "start_ref": "19089035",
+          "start_ref_usfm": "PSA 89:35",
+          "end_ref": "19089037",
+          "end_ref_usfm": "PSA 89:37"
+        },
+        {
+          "start_ref": "21008002",
+          "start_ref_usfm": "ECC 8:2",
+          "end_ref": "21008005",
+          "end_ref_usfm": "ECC 8:5"
+        },
+        {
+          "start_ref": "40022042",
+          "start_ref_usfm": "MAT 22:42",
+          "end_ref": "40022046",
+          "end_ref_usfm": "MAT 22:46"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

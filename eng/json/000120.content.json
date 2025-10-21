@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 500356,
+    "reference_id": 203299,
+    "title": "Jesus’ Final Night",
+    "media_type": "Text",
+    "index_reference": "jesus’ final night",
+    "language": "eng",
+    "content": "<p>When Jesus went to Jerusalem to celebrate the feast of Passover, he knew it was his last night before death. He came to Jerusalem to &quot;suffer many things and … be killed&quot; (<a href=\"https://ref.ly/Mark8:31\">Mark 8:31</a>). His disciples prepared the meal, but he needed to prepare them for what was coming.</p><p>Jesus celebrated the Passover with his disciples. During this meal, he showed them what a true servant is by washing their feet (<a href=\"https://ref.ly/John13:1-John13:20\">John 13:1–20</a>). He gave them his final teachings, told them about the coming of the Holy Spirit, and prayed for his followers (<a href=\"https://ref.ly/John14:1-John17:26\">John 14:1–17:26</a>). Jesus also established the new covenant (<a href=\"https://ref.ly/Mark14:22-Mark14:24\">Mark 14:22–24</a>). Jesus replaced the Passover lamb. His body and blood became the sacrifice that saves God&apos;s people from judgment, just like the lamb at the first Passover.</p><p>During Passover, God killed all the firstborn males of the Egyptians but spared those of Israel. Now, Jesus would become the sacrifice to save his people. The prophets predicted this would happen (for example, <a href=\"https://ref.ly/Zech12:10\">Zechariah 12:10</a>; <a href=\"https://ref.ly/Zech13:7\">13:7</a>). Jesus warned his disciples that this would soon happen and that they would abandon him (<a href=\"https://ref.ly/Mark14:27\">Mark 14:27</a>). He also warned them that one of them would betray him (<a href=\"https://ref.ly/Mark14:18\">Mark 14:18</a>).</p><p>After the meal, Jesus and his disciples walked to the garden of Gethsemane on the Mount of Olives. There, Jesus was deeply troubled as he prayed, accepting God&apos;s will (<a href=\"https://ref.ly/Mark14:26-Mark14:42\">Mark 14:26–42</a>). </p><p>Judas was the disciple who betrayed Jesus. He arrived with soldiers who arrested Jesus (<a href=\"https://ref.ly/Mark14:43-Mark14:49\">Mark 14:43–49</a>). Jesus&apos; disciples ran away (<a href=\"https://ref.ly/Mark14:50-Mark14:52\">Mark 14:50–52</a>). Then they took Jesus to the high priest&apos;s house for a trial at night. During this time, Peter denied knowing Jesus three times (<a href=\"https://ref.ly/Mark14:53-Mark14:72\">Mark 14:53–72</a>).</p><p>Jesus already knew what would happen on his last night, the good and bad. It all happened according to God&apos;s plan. These events were necessary to fulfill what Scripture prophesied and for what followed. This included his death and resurrection.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt26:17-Matt26:56\">Matthew 26:17–56</a>; <a href=\"https://ref.ly/Mark14:12-Mark14:52\">Mark 14:12–52</a>; <a href=\"https://ref.ly/Luke22:7-Luke22:46\">Luke 22:7–46</a>; <a href=\"https://ref.ly/John13:1-John18:11\">John 13:1–18:11</a>; <a href=\"https://ref.ly/1Cor11:23-1Cor11:34\">1 Corinthians 11:23–34</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "38012010",
+          "start_ref_usfm": "ZEC 12:10",
+          "end_ref": "38012010",
+          "end_ref_usfm": "ZEC 12:10"
+        },
+        {
+          "start_ref": "38013007",
+          "start_ref_usfm": "ZEC 13:7",
+          "end_ref": "38013007",
+          "end_ref_usfm": "ZEC 13:7"
+        },
+        {
+          "start_ref": "41008031",
+          "start_ref_usfm": "MRK 8:31",
+          "end_ref": "41008031",
+          "end_ref_usfm": "MRK 8:31"
+        },
+        {
+          "start_ref": "41014018",
+          "start_ref_usfm": "MRK 14:18",
+          "end_ref": "41014018",
+          "end_ref_usfm": "MRK 14:18"
+        },
+        {
+          "start_ref": "41014027",
+          "start_ref_usfm": "MRK 14:27",
+          "end_ref": "41014027",
+          "end_ref_usfm": "MRK 14:27"
+        },
+        {
+          "start_ref": "41014022",
+          "start_ref_usfm": "MRK 14:22",
+          "end_ref": "41014024",
+          "end_ref_usfm": "MRK 14:24"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43013020",
+          "end_ref_usfm": "JHN 13:20"
+        },
+        {
+          "start_ref": "42022007",
+          "start_ref_usfm": "LUK 22:7",
+          "end_ref": "42022046",
+          "end_ref_usfm": "LUK 22:46"
+        },
+        {
+          "start_ref": "43014001",
+          "start_ref_usfm": "JHN 14:1",
+          "end_ref": "43017026",
+          "end_ref_usfm": "JHN 17:26"
+        },
+        {
+          "start_ref": "41014026",
+          "start_ref_usfm": "MRK 14:26",
+          "end_ref": "41014042",
+          "end_ref_usfm": "MRK 14:42"
+        },
+        {
+          "start_ref": "41014043",
+          "start_ref_usfm": "MRK 14:43",
+          "end_ref": "41014049",
+          "end_ref_usfm": "MRK 14:49"
+        },
+        {
+          "start_ref": "41014050",
+          "start_ref_usfm": "MRK 14:50",
+          "end_ref": "41014052",
+          "end_ref_usfm": "MRK 14:52"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014072",
+          "end_ref_usfm": "MRK 14:72"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026056",
+          "end_ref_usfm": "MAT 26:56"
+        },
+        {
+          "start_ref": "41014012",
+          "start_ref_usfm": "MRK 14:12",
+          "end_ref": "41014052",
+          "end_ref_usfm": "MRK 14:52"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43018011",
+          "end_ref_usfm": "JHN 18:11"
+        },
+        {
+          "start_ref": "46011023",
+          "start_ref_usfm": "1CO 11:23",
+          "end_ref": "46011034",
+          "end_ref_usfm": "1CO 11:34"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 734211,
+    "reference_id": 203246,
+    "title": "Les invasions",
+    "media_type": "Text",
+    "index_reference": "les invasions",
+    "language": "fra",
+    "content": "<p>Dans le monde antique, il n&apos;était pas rare que les pays se fassent envahir par des armées étrangères. Si les envahisseurs réussissaient à conquérir, ils causaient beaucoup de destruction et de souffrance. Souvent, les envahisseurs victorieux tuaient les hommes adultes, violaient les femmes, réduisaient les enfants en esclavage, volaient les objets de valeur et détruisaient tout le reste. Les peuples étaient très effrayés quand ils se savaient menacés d&apos;invasion.</p><p>Pendant les dernières décennies du royaume de Juda, le peuple a vécu sous la menace de la conquête babylonienne. Plus d&apos;un siècle auparavant, les Assyriens avaient détruit le royaume du Nord (Israël) et envahi le royaume du Sud (Juda), en attaquant Jérusalem. Avant la conquête babylonienne, le prophète Jérémie a averti de cette invasion, et de la destruction immense qu&apos;elle causerait.</p><p>Quand ils étaient menacés d&apos;invasion, les gens voulaient à tout prix éviter de telles souffrances. Des prophètes comme Jérémie exhortaient le peuple de Dieu à abandonner leurs faux dieux et à obéir à l&apos;Éternel. Ils leur disaient qu&apos;il ne fallait pas s&apos;appuyer sur des alliances militaires pour espérer le salut. Ils devaient chercher l&apos;Éternel. Les prophètes décrivaient parfois en détail ce qui se produirait lors d&apos;une invasion. Leur objectif n&apos;était pas de décourager le peuple de Dieu. L&apos;Éternel envoyait ces prophètes pour exhorter le peuple à retourner à lui et à lui obéir. Ils disaient au peuple de s&apos;appuyer sur Dieu dans la foi et la repentance, pour qu&apos;il les sauve et les délivre. C&apos;est ainsi que le roi Ézéchias avait réagi à l&apos;invasion assyrienne un siècle plus tôt. Il s&apos;était appuyé sur l&apos;Éternel, et le Seigneur l&apos;avait sauvé, lui et son peuple.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen14:1-Gen14:16\">Genèse 14.1–16&nbsp;</a>; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2&nbsp;Rois 17.5–23&nbsp;</a>; <a href=\"https://ref.ly/2Kgs18:13-2Kgs19:37\">18.13–19.37&nbsp;</a>; <a href=\"https://ref.ly/Isa6:8-Isa6:13\">Ésaïe 6.8–13&nbsp;</a>; <a href=\"https://ref.ly/Isa36:1-Isa37:38\">36.1–37.38&nbsp;</a>; <a href=\"https://ref.ly/Isa65:21-Isa65:23\">65.21–23&nbsp;</a>; <a href=\"https://ref.ly/Jer6:22-Jer6:26\">Jérémie 6.22–26&nbsp;</a>; <a href=\"https://ref.ly/Jer19:7-Jer19:15\">19.7–15</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "12018013",
+          "start_ref_usfm": "2KI 18:13",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23037038",
+          "end_ref_usfm": "ISA 37:38"
+        },
+        {
+          "start_ref": "12017005",
+          "start_ref_usfm": "2KI 17:5",
+          "end_ref": "12017023",
+          "end_ref_usfm": "2KI 17:23"
+        },
+        {
+          "start_ref": "23006008",
+          "start_ref_usfm": "ISA 6:8",
+          "end_ref": "23006013",
+          "end_ref_usfm": "ISA 6:13"
+        },
+        {
+          "start_ref": "23065021",
+          "start_ref_usfm": "ISA 65:21",
+          "end_ref": "23065023",
+          "end_ref_usfm": "ISA 65:23"
+        },
+        {
+          "start_ref": "24006022",
+          "start_ref_usfm": "JER 6:22",
+          "end_ref": "24006026",
+          "end_ref_usfm": "JER 6:26"
+        },
+        {
+          "start_ref": "24019007",
+          "start_ref_usfm": "JER 19:7",
+          "end_ref": "24019015",
+          "end_ref_usfm": "JER 19:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

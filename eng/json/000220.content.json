@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 500169,
+    "reference_id": 203112,
+    "title": "The Exodus as History",
+    "media_type": "Text",
+    "index_reference": "the exodus as history",
+    "language": "eng",
+    "content": "<p>Israel&apos;s view of reality was very different from other ancient cultures. Other major cultures around Israel, from Sumer in southern Mesopotamia in 2000 BC to Rome in AD 200, developed their perspectives by observing creation. They believed in many gods and thought events happened in endless cycles. In contrast, ancient Israel believed in one God, separate from the world. He created the world with a purpose and guides events to fulfill that purpose. </p><p>How did the Israelites develop this unique view? Was it through encounters with the true God in historical events? The most reasonable explanation for Israel&apos;s distinct understanding is that, as the Bible describes, God revealed himself to them through events recorded as history.</p><p>Egyptian texts do not mention the events described in the Bible, which makes some people doubt. Yet, it was uncommon for a powerful nation to record their defeat by slaves. The Bible&apos;s historical accounts, including stories of Israel&apos;s own failures, are unique in the ancient Near East.</p><p>Archaeology cannot prove specific events happened. But it can show that conditions allowed them to occur. This is true for the book of Exodus and the Bible in general. Egyptian records and archaeology do not confirm or contradict the Bible&apos;s account. Yet, the text of Exodus shows a deep understanding of Egyptian thought and culture, similar to a historical record.</p><p>The Bible&apos;s writers believed they were describing real events. They expected readers to regard them that way. <a href=\"https://ref.ly/Exod18:8-Exod18:12\">Exodus 18:8–12</a> shows the first example of someone who trusted God because of a true story. </p><p>Faith in God and in the Bible has a strong historical foundation. God has acted in history to save humanity. His actions include Israel&apos;s escape from Egypt. These actions achieve their goal in the life, death, and resurrection of Jesus Christ.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod14:15-Exod15:21\">Exodus 14:15–15:21</a>; <a href=\"https://ref.ly/Exod18:8-Exod18:12\">18:8–12</a>; <a href=\"https://ref.ly/Judg11:12-Judg11:27\">Judges 11:12–27</a>; <a href=\"https://ref.ly/Acts7:1-Acts7:56\">Acts 7:1–56</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07011012",
+          "start_ref_usfm": "JDG 11:12",
+          "end_ref": "07011027",
+          "end_ref_usfm": "JDG 11:27"
+        },
+        {
+          "start_ref": "02018008",
+          "start_ref_usfm": "EXO 18:8",
+          "end_ref": "02018012",
+          "end_ref_usfm": "EXO 18:12"
+        },
+        {
+          "start_ref": "02014015",
+          "start_ref_usfm": "EXO 14:15",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007056",
+          "end_ref_usfm": "ACT 7:56"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

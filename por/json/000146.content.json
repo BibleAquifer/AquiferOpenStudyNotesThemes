@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 800432,
+    "reference_id": 203263,
+    "title": "Legislação do templo como Teologia",
+    "media_type": "Text",
+    "index_reference": "legislação do templo como teologia",
+    "language": "por",
+    "content": "<p>Os professores religiosos do judaísmo (chamados de &quot;rabis&quot;) passaram muito tempo tentando fazer com que as leis de <a href=\"https://ref.ly/Ezek44:1-Ezek48:35\">Ezequiel 44–48</a> concordassem com aquelas da Torá (a lei dada a Moisés). Eles falharam porque esses capítulos não têm a intenção de corresponder à lei de Moisés. Isso é semelhante à forma como a visão do edifício do templo não foi projetada para se parecer com o tabernáculo ou o Templo de Salomão (<a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">Ezequiel 40–43</a>). As regras do templo descrevem uma mensagem teológica de mudança, semelhante à descrição anterior da arquitetura do templo.</p><p>Essas regras enfatizavam a necessidade de separar o templo do palácio. As cerimônias sacrificiais aumentariam e se concentrariam mais na purificação. Pessoas santas fariam novamente ofertas ao Deus santo. Essas práticas tinham a intenção de separar o sagrado do profano e purificar o povo de Deus. A poluição do templo e a adoração de ídolos haviam feito o Senhor se afastar (<a href=\"https://ref.ly/Ezek8:1-Ezek11:25\">Ezequiel 8–11</a>).</p><p>Então, eles precisavam de uma nova situação para que Deus pudesse viver entre seu povo novamente. Essas regras tinham a intenção de conscientizar os ouvintes do profeta sobre seus erros passados que confundiam o que era sagrado e o que era profano. Também os encorajava a acreditar que Deus restauraria sua adoração à condição adequada.</p><p>Essas regras também colocam o príncipe, o rei descendente do rei Davi, em uma posição de submissão ao Senhor. A chegada de Jesus cumpre este elemento. Jesus veio como um rei servo que estava feliz em fazer a vontade do Pai (<a href=\"https://ref.ly/Matt4:1-Matt4:11\">Mateus 4.1–11</a>; <a href=\"https://ref.ly/Matt20:25-Matt20:28\">20.25–28</a>). Ele ofereceu o sacrifício perfeito que purifica o pecado, purificou o santuário celestial de uma vez por todas e garantiu que Deus pudesse viver entre seu povo para sempre (<a href=\"https://ref.ly/Heb9:11-Heb9:12\">Hebreus 9.11–12</a>,<a href=\"https://ref.ly/Heb9:23\">23</a>). Seu sangue nos limpa de todo pecado e permite que os pecadores entrem com confiança no Lugar Santíssimo do céu sem medo de rejeição ou punição.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Isa56:7\">Isaías 56.7</a>; <a href=\"https://ref.ly/Ezek8:1-Ezek11:25\">Ezequiel 8.1–11.25</a>; <a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">40.1–43.27</a>; <a href=\"https://ref.ly/Ezek44:1-Ezek46:18\">44.1–46.18.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23056007",
+          "start_ref_usfm": "ISA 56:7",
+          "end_ref": "23056007",
+          "end_ref_usfm": "ISA 56:7"
+        },
+        {
+          "start_ref": "58009023",
+          "start_ref_usfm": "HEB 9:23",
+          "end_ref": "58009023",
+          "end_ref_usfm": "HEB 9:23"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "26008001",
+          "start_ref_usfm": "EZK 8:1",
+          "end_ref": "26011025",
+          "end_ref_usfm": "EZK 11:25"
+        },
+        {
+          "start_ref": "40020025",
+          "start_ref_usfm": "MAT 20:25",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26043027",
+          "end_ref_usfm": "EZK 43:27"
+        },
+        {
+          "start_ref": "26044001",
+          "start_ref_usfm": "EZK 44:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "58009011",
+          "start_ref_usfm": "HEB 9:11",
+          "end_ref": "58009012",
+          "end_ref_usfm": "HEB 9:12"
+        },
+        {
+          "start_ref": "26044001",
+          "start_ref_usfm": "EZK 44:1",
+          "end_ref": "26046018",
+          "end_ref_usfm": "EZK 46:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

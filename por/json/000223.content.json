@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 800347,
+    "reference_id": 203178,
+    "title": "Os propósitos inescrutáveis de Deus na história",
+    "media_type": "Text",
+    "index_reference": "os propósitos inescrutáveis de deus na história",
+    "language": "por",
+    "content": "<p>Deus dirige pessoas e eventos para alcançar seus propósitos na história. Ele não precisa se explicar, mas sempre tem um propósito. Ele guia indivíduos, nações e eventos para realizar sua vontade. Essa perspectiva da história permanece consistente ao longo da narrativa bíblica. Deus utiliza ações humanas para alcançar resultados que apenas seu planejamento pode explicar.</p><p>O escritor do livro de Crônicas explica a divisão do reino de Israel de maneira simples. Roboão e seus seguidores &quot;obedeceram à ordem do Senhor e não foram lutar contra Jeroboão” (<a href=\"https://ref.ly/2Chr11:4\">2 Crônicas 11.4</a>). A razão para a divisão foi a resposta irracional de Roboão ao pedido do povo. Isso já havia sido explicado anteriormente: “O Senhor Deus fez isso acontecer para confirmar aquilo que ele, por meio do profeta Aías, de Siló, tinha dito a Jeroboão, filho de Nebate” (<a href=\"https://ref.ly/2Chr10:15\">10.15</a>). Roboão poderia facilmente ter derrotado os rebeldes, mas a vontade do Senhor o impediu.</p><p>Obedecer à vontade de Deus trouxe resultados positivos para Roboão. Ele fortaleceu cidades, nomeou líderes militares e estocou equipamentos e suprimentos alimentares. Cidadãos leais mudaram-se para seu território, e ele tinha uma grande família. A vontade de Deus era clara, e Roboão se beneficiou enormemente. No entanto, o escritor de Crônicas não conseguiu explicar os propósitos de Deus. Os leitores de hoje ainda se perguntam por que Deus permitiu que o reino continuasse dividido.</p><p>O profeta Isaías revela o mistério dos caminhos de Deus: “Os meus pensamentos não são como os seus pensamentos, e eu não ajo como vocês. Assim como o céu está muito acima da terra, assim os meus pensamentos e as minhas ações estão muito acima dos seus” (<a href=\"https://ref.ly/Isa55:8-Isa55:9\">Isaías 55.8–9</a>). Aqueles que reverenciam a Deus aprendem a não confiar no entendimento humano. Em vez disso, obedecem à palavra de Deus, mesmo quando ela se opõe aos valores terrenos.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Kgs8:56-1Kgs8:61\">1 Reis 8.56–61</a>; <a href=\"https://ref.ly/2Chr10:1-2Chr11:4\">2 Crônicas 10.1–11.4</a>; <a href=\"https://ref.ly/Job42:1-Job42:6\">Jó 42.1–6</a>; <a href=\"https://ref.ly/Ps115:1-Ps115:3\">Salmo 115.1–3</a>; <a href=\"https://ref.ly/Isa40:9-Isa40:31\">Isaías 40.9–31</a>; <a href=\"https://ref.ly/Isa42:1-Isa42:17\">42.1–17</a>; <a href=\"https://ref.ly/Isa55:8-Isa55:13\">55.8–13</a>; <a href=\"https://ref.ly/Rom8:26-Rom8:30\">Romanos 8.26–30</a>; <a href=\"https://ref.ly/Eph1:9-Eph1:14\">Efésios 1.9–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14010015",
+          "start_ref_usfm": "2CH 10:15",
+          "end_ref": "14010015",
+          "end_ref_usfm": "2CH 10:15"
+        },
+        {
+          "start_ref": "14011004",
+          "start_ref_usfm": "2CH 11:4",
+          "end_ref": "14011004",
+          "end_ref_usfm": "2CH 11:4"
+        },
+        {
+          "start_ref": "18042001",
+          "start_ref_usfm": "JOB 42:1",
+          "end_ref": "18042006",
+          "end_ref_usfm": "JOB 42:6"
+        },
+        {
+          "start_ref": "23055008",
+          "start_ref_usfm": "ISA 55:8",
+          "end_ref": "23055009",
+          "end_ref_usfm": "ISA 55:9"
+        },
+        {
+          "start_ref": "19115001",
+          "start_ref_usfm": "PSA 115:1",
+          "end_ref": "19115003",
+          "end_ref_usfm": "PSA 115:3"
+        },
+        {
+          "start_ref": "11008056",
+          "start_ref_usfm": "1KI 8:56",
+          "end_ref": "11008061",
+          "end_ref_usfm": "1KI 8:61"
+        },
+        {
+          "start_ref": "14010001",
+          "start_ref_usfm": "2CH 10:1",
+          "end_ref": "14011004",
+          "end_ref_usfm": "2CH 11:4"
+        },
+        {
+          "start_ref": "23040009",
+          "start_ref_usfm": "ISA 40:9",
+          "end_ref": "23040031",
+          "end_ref_usfm": "ISA 40:31"
+        },
+        {
+          "start_ref": "23042001",
+          "start_ref_usfm": "ISA 42:1",
+          "end_ref": "23042017",
+          "end_ref_usfm": "ISA 42:17"
+        },
+        {
+          "start_ref": "23055008",
+          "start_ref_usfm": "ISA 55:8",
+          "end_ref": "23055013",
+          "end_ref_usfm": "ISA 55:13"
+        },
+        {
+          "start_ref": "45008026",
+          "start_ref_usfm": "ROM 8:26",
+          "end_ref": "45008030",
+          "end_ref_usfm": "ROM 8:30"
+        },
+        {
+          "start_ref": "49001009",
+          "start_ref_usfm": "EPH 1:9",
+          "end_ref": "49001014",
+          "end_ref_usfm": "EPH 1:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

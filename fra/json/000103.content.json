@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 708420,
+    "reference_id": 203138,
+    "title": "Les malédictions et bénédictions de la loi",
+    "media_type": "Text",
+    "index_reference": "les malédictions et bénédictions de la loi",
+    "language": "fra",
+    "content": "<p>Presque tous les textes de traités ou d&apos;alliances du Proche-Orient ancien incluaient des malédictions et des bénédictions. Les malédictions devaient tomber sur ceux qui violeraient les termes de l&apos;alliance. Les bénédictions étaient pour ceux qui y restaient fidèles. Ce type d&apos;accord était particulièrement commun dans les alliances entre les rois et ceux qui leur devaient obéissance. Le livre du Deutéronome suit cette convention (voir <span data-bnType=\"resourceReference\" data-resourceId=\"Deut_BookIntro_Filament\" data-resourceType=\"UNKNOWN\">Introduction au livre du Deutéronome</span>, « Forme littéraire »).</p><p>Le Deutéronome explique au peuple d&apos;Israël ce que Dieu attend d&apos;eux. L&apos;alliance exigeait qu&apos;Israël obéisse à Dieu. Les Israélites avaient promis de le faire (<a href=\"https://ref.ly/Exod19:8\">Ex 19.8</a>). La section qui détaille les malédictions et les bénédictions explique comment Dieu récompenserait l&apos;obéissance et punirait la désobéissance (<a href=\"https://ref.ly/Deut27:1-Deut29:1\">Dt 27.1–29.1</a>).</p><p>Il y a plus de place donnée aux malédictions qu&apos;aux bénédictions. Peut-être était-ce pour combattre le fait que la plupart des gens ne veulent écouter que les promesses et ne font pas suffisamment attention aux avertissements.</p><p>Dieu souligne les malédictions pour mettre l&apos;accent sur les conséquences des méfaits. Il ne veut pas que son peuple soit détruit et préfère les avertir fermement et clairement pour qu&apos;ils prennent ses commandements à cœur et vivent. Les avertissements de Jésus concernant le jugement à venir sont tout aussi sévères et à prendre au sérieux (<a href=\"https://ref.ly/Matt24:1-Matt25:46\">Mt 24–25</a>). Ces avertissements sont pour notre bien.</p><p>L&apos;histoire d&apos;Israël montre comment Dieu a tenu promesse concernant les bénédictions et les malédictions annoncées par la loi. Quand Israël était fidèle à l&apos;alliance avec Dieu, la nation était bénie. Quand la nation se détournait de lui, elle subissait ses jugements. <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 Rois 17.7–20 </a>donne un résumé de comment Israël s&apos;est détourné de Dieu au point où il les a envoyés en exil. En désobéissant aux deux premiers des dix commandements, les Israélites avaient gravement transgressé l&apos;alliance avec Dieu (voir <a href=\"https://ref.ly/Deut5:7-Deut5:10\">Dt 5.7–10</a>). Leur désobéissance a amené sur eux les malédictions de <a href=\"https://ref.ly/Deut28:1-Deut28:68\">Deutéronome 28</a>.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen9:24-Gen9:27\">Genèse 9.24–27</a> ; <a href=\"https://ref.ly/Lev26:3-Lev26:45\">Lévitique 26.3–45</a> ; <a href=\"https://ref.ly/Deut8:7-Deut8:20\">Deutéronome 8.7–20</a> ; <a href=\"https://ref.ly/Deut11:29\">11.29</a> ;<a href=\"https://ref.ly/Deut27:1-Deut29:1\"> 27.1–29.1</a> ; <a href=\"https://ref.ly/Josh8:33-Josh8:35\">Josué 8.33–35</a> ; <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 Rois 17.7–20</a> ; <a href=\"https://ref.ly/2Chr36:17-2Chr36:21\">2 Chroniques 36.17–21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019008",
+          "start_ref_usfm": "EXO 19:8",
+          "end_ref": "02019008",
+          "end_ref_usfm": "EXO 19:8"
+        },
+        {
+          "start_ref": "05011029",
+          "start_ref_usfm": "DEU 11:29",
+          "end_ref": "05011029",
+          "end_ref_usfm": "DEU 11:29"
+        },
+        {
+          "start_ref": "05028001",
+          "start_ref_usfm": "DEU 28:1",
+          "end_ref": "05028068",
+          "end_ref_usfm": "DEU 28:68"
+        },
+        {
+          "start_ref": "40024001",
+          "start_ref_usfm": "MAT 24:1",
+          "end_ref": "40025046",
+          "end_ref_usfm": "MAT 25:46"
+        },
+        {
+          "start_ref": "06008033",
+          "start_ref_usfm": "JOS 8:33",
+          "end_ref": "06008035",
+          "end_ref_usfm": "JOS 8:35"
+        },
+        {
+          "start_ref": "05027001",
+          "start_ref_usfm": "DEU 27:1",
+          "end_ref": "05029001",
+          "end_ref_usfm": "DEU 29:1"
+        },
+        {
+          "start_ref": "12017007",
+          "start_ref_usfm": "2KI 17:7",
+          "end_ref": "12017020",
+          "end_ref_usfm": "2KI 17:20"
+        },
+        {
+          "start_ref": "05005007",
+          "start_ref_usfm": "DEU 5:7",
+          "end_ref": "05005010",
+          "end_ref_usfm": "DEU 5:10"
+        },
+        {
+          "start_ref": "01009024",
+          "start_ref_usfm": "GEN 9:24",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "03026003",
+          "start_ref_usfm": "LEV 26:3",
+          "end_ref": "03026045",
+          "end_ref_usfm": "LEV 26:45"
+        },
+        {
+          "start_ref": "05008007",
+          "start_ref_usfm": "DEU 8:7",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "14036017",
+          "start_ref_usfm": "2CH 36:17",
+          "end_ref": "14036021",
+          "end_ref_usfm": "2CH 36:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

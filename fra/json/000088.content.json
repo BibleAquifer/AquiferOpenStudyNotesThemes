@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 734231,
+    "reference_id": 203312,
+    "title": "L'eau vive",
+    "media_type": "Text",
+    "index_reference": "l'eau vive",
+    "language": "fra",
+    "content": "<p>Israël était une terre souvent sujette à la sécheresse. Les habitants connaissaient bien les sources d&apos;eau et leur qualité. Il y avait peu de sources et de rivières qui coulaient toute l&apos;année. Ainsi, les gens creusaient des trous profonds (ou citernes) pour recueillir l&apos;eau de pluie et en conserver pour la saison sèche. Les gens utilisaient aussi des puits pour accéder à l&apos;eau souterraine.</p><p>Dans la culture juive, l&apos;«&nbsp;eau vive » désignait de l&apos;eau en mouvement, comme les rivières, les sources et la pluie, à l&apos;opposé de l&apos;eau stagnante des bassins ou des citernes. L&apos;eau vive était précieuse, car elle était fraîche. C&apos;était cette meilleure eau qui était souvent utilisée dans les cérémonies de la loi (<a href=\"https://ref.ly/Lev14:5-Lev14:6\">Lv 14.5–6</a>, <a href=\"https://ref.ly/Lev14:50-Lev14:51\">50–51&nbsp;</a>; <a href=\"https://ref.ly/Lev15:13\">15.13&nbsp;</a>; <a href=\"https://ref.ly/Num19:17-Num19:19\">Nb 19.17–19</a>).</p><p>La femme samaritaine n&apos;a pas compris comment Jésus pouvait lui offrir de l&apos;eau «&nbsp;vive&nbsp;» (<a href=\"https://ref.ly/John4:12\">Jn 4.12</a>). La Samarie n&apos;avait pas de rivière permanente. Et si même le patriarche Jacob avait eu besoin d&apos;y creuser un puits, qui était donc cet homme qui proposait de l&apos;eau vive&nbsp;? D&apos;où l&apos;obtiendrait-il ?</p><p>Jésus parle à nouveau d&apos;eau vive à Jérusalem pendant la fête des Tabernacles (<a href=\"https://ref.ly/John7:37-John7:39\">Jn 7.37–39</a>). Pendant cette fête, qui se tenait en automne (c&apos;est-à-dire pendant la saison sèche), il était coutume de répandre de l&apos;eau. C&apos;est dans ce contexte que Jésus s&apos;avance et fait la déclaration, sans aucune hésitation, que quiconque cherche de l&apos;eau vive doit venir à lui et boire. Jean explique que Jésus parle du Saint-Esprit. Jésus est la source de cette eau vive. Il est venu directement de Dieu et a apporté le renouveau divin par le Saint-Esprit.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Lev14:5-Lev14:6\">Lévitique 14.5–6</a>, <a href=\"https://ref.ly/Lev14:50-Lev14:51\">14.50–51&nbsp;</a>; <a href=\"https://ref.ly/Lev15:13\">15.13&nbsp;</a>; <a href=\"https://ref.ly/Num19:17-Num19:19\">Nombres 19.17–19&nbsp;</a>; <a href=\"https://ref.ly/Song4:15\">Cantique des Cantiques 4.15&nbsp;</a>; <a href=\"https://ref.ly/Jer2:13\">Jérémie 2.13&nbsp;</a>; <a href=\"https://ref.ly/Jer17:13\">17.13&nbsp;</a>; <a href=\"https://ref.ly/John4:10-John4:14\">Jean 4.10–14&nbsp;</a>; <a href=\"https://ref.ly/John7:38-John7:39\">7.38–39&nbsp;</a>; <a href=\"https://ref.ly/Jas3:11-Jas3:12\">Jacques 3.11–12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03015013",
+          "start_ref_usfm": "LEV 15:13",
+          "end_ref": "03015013",
+          "end_ref_usfm": "LEV 15:13"
+        },
+        {
+          "start_ref": "22004015",
+          "start_ref_usfm": "SNG 4:15",
+          "end_ref": "22004015",
+          "end_ref_usfm": "SNG 4:15"
+        },
+        {
+          "start_ref": "24002013",
+          "start_ref_usfm": "JER 2:13",
+          "end_ref": "24002013",
+          "end_ref_usfm": "JER 2:13"
+        },
+        {
+          "start_ref": "24017013",
+          "start_ref_usfm": "JER 17:13",
+          "end_ref": "24017013",
+          "end_ref_usfm": "JER 17:13"
+        },
+        {
+          "start_ref": "43004012",
+          "start_ref_usfm": "JHN 4:12",
+          "end_ref": "43004012",
+          "end_ref_usfm": "JHN 4:12"
+        },
+        {
+          "start_ref": "43004010",
+          "start_ref_usfm": "JHN 4:10",
+          "end_ref": "43004014",
+          "end_ref_usfm": "JHN 4:14"
+        },
+        {
+          "start_ref": "43007037",
+          "start_ref_usfm": "JHN 7:37",
+          "end_ref": "43007039",
+          "end_ref_usfm": "JHN 7:39"
+        },
+        {
+          "start_ref": "43007038",
+          "start_ref_usfm": "JHN 7:38",
+          "end_ref": "43007039",
+          "end_ref_usfm": "JHN 7:39"
+        },
+        {
+          "start_ref": "03014005",
+          "start_ref_usfm": "LEV 14:5",
+          "end_ref": "03014006",
+          "end_ref_usfm": "LEV 14:6"
+        },
+        {
+          "start_ref": "03014050",
+          "start_ref_usfm": "LEV 14:50",
+          "end_ref": "03014051",
+          "end_ref_usfm": "LEV 14:51"
+        },
+        {
+          "start_ref": "04019017",
+          "start_ref_usfm": "NUM 19:17",
+          "end_ref": "04019019",
+          "end_ref_usfm": "NUM 19:19"
+        },
+        {
+          "start_ref": "59003011",
+          "start_ref_usfm": "JAS 3:11",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

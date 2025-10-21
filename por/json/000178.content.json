@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 800500,
+    "reference_id": 203331,
+    "title": "O Deus desconhecido",
+    "media_type": "Text",
+    "index_reference": "o deus desconhecido",
+    "language": "por",
+    "content": "<p>O apóstolo Paulo falou ao Areópago, o alto conselho da cidade de Atenas (<a href=\"https://ref.ly/Acts17:19\">At 17.19</a>). Ele falou a pessoas que não compartilhavam sua crença no Deus de Abraão e Moisés. Este Deus havia se revelado, &quot;antigamente, por meio dos profetas... falou muitas vezes e de muitas maneiras diferentes&quot; (<a href=\"https://ref.ly/Heb1:1\">Hebreus 1.1</a>).</p><p>A audiência de Paulo tinha uma visão diferente sobre religião em comparação a ele. Eles possuíam muitos deuses em sua cultura, e as pessoas comuns ainda acreditavam nos deuses antigos. No entanto, muitas das pessoas que influenciavam a cultura de Atenas já não acreditavam na existência dos deuses. Em vez disso, seguiam ou o <em>materialismo</em> (a crença de que apenas coisas físicas existem) ou o <em>panteísmo</em> (a crença de que o divino está em tudo).</p><p>Todos eles careciam da crença em um único Deus verdadeiro que é Senhor de tudo. Seus mitos descreviam as ações de vários deuses, mas eles não acreditavam que a realidade última, o próprio Deus, pudesse ser conhecida. Em vez disso, raciocinavam e discutiam as ideias mais recentes, na esperança de entender melhor a natureza das coisas.</p><p>Quando Paulo visitou Atenas, muitas ideias filosóficas eram populares. No entanto, o Estoicismo e o Epicurismo eram as duas principais escolas de pensamento (<a href=\"https://ref.ly/Acts17:18\">At 17.18</a>).</p><p>O Estoicismo foi fundado por Zenão de Cítio, que viveu por volta de 334 a 262 a.C. Aqueles que seguiam os ensinamentos do Estoicismo eram chamados de estóicos. Os estóicos estudavam as leis da natureza e acreditavam no <em>Logos</em>, uma força que organiza e sustenta tudo. Essa força dá vida e razão aos humanos. Uma vida boa é aquela onde a razão lidera, e a paz de espírito e a harmonia com a natureza existem. Muitos líderes antigos importantes eram estóicos ou foram influenciados pelo Estoicismo. Isso incluía Cícero, Sêneca e Marco Aurélio. Alguns cristãos acharam as ideias estoicas atraentes por causa das semelhanças entre o <em>Logos</em> estoico e o <em>Logos</em> divino e entre a lei natural e a lei de Deus (<a href=\"https://ref.ly/John1:1-John1:18\">João 1.1–18</a>).</p><p>Os epicuristas eram pessoas que seguiam os ensinamentos de Epicuro, que viveu de 341 a 270 a.C. Eles eram empiristas, o que significa que acreditavam que o conhecimento vem do que podemos experimentar com nossos sentidos (como ver, ouvir ou tocar) em vez de raciocínio abstrato. Os epicuristas focavam em evidências naturais e mostravam pouco interesse pela matemática. Seu principal interesse era a ética, o estudo do comportamento correto (moralidade). Eles julgavam ações ou coisas pelo prazer ou dor que causavam. Epicuro via a crença em deuses como uma ameaça à paz de espírito. Ele e seus seguidores acreditavam que ninguém deveria temer nem os deuses nem a morte.</p><p>Quando Paulo falou, ele usou os poetas deles para explicar ideias complexas. Ele disse que o Deus que criou tudo é pessoal e pode ser conhecido. Deus se revelou claramente na história real e de forma completa em Jesus Cristo. Após a morte, não há um fim ou uma jornada da alma, mas apenas o julgamento vindouro. A ressurreição de Jesus dentre os mortos prova todas essas coisas.</p><p>A maioria dos gregos em Atenas achava que era tolice, mas é a verdade suprema: Deus pode ser conhecido através de Jesus Cristo.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ps50:7-Ps50:15\">Salmo 50.7–15</a>; <a href=\"https://ref.ly/Isa42:5-Isa42:7\">Isaías 42.5–7</a>; <a href=\"https://ref.ly/Acts17:16-Acts17:32\">Atos 17.16–32</a>; <a href=\"https://ref.ly/Rom1:18-Rom1:32\">Romanos 1.18–32</a>; <a href=\"https://ref.ly/Col1:15-Col1:23\">Colossenses 1.15–23</a>; <a href=\"https://ref.ly/Col2:6-Col2:12\">2.6–12</a>; <a href=\"https://ref.ly/1Thess1:9-1Thess1:10\">1 Tessalonicenses 1.9–10</a>; <a href=\"https://ref.ly/Heb1:1-Heb1:4\">Hebreus 1.1–4</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017018",
+          "start_ref_usfm": "ACT 17:18",
+          "end_ref": "44017018",
+          "end_ref_usfm": "ACT 17:18"
+        },
+        {
+          "start_ref": "44017019",
+          "start_ref_usfm": "ACT 17:19",
+          "end_ref": "44017019",
+          "end_ref_usfm": "ACT 17:19"
+        },
+        {
+          "start_ref": "58001001",
+          "start_ref_usfm": "HEB 1:1",
+          "end_ref": "58001001",
+          "end_ref_usfm": "HEB 1:1"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001032",
+          "end_ref_usfm": "ROM 1:32"
+        },
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001018",
+          "end_ref_usfm": "JHN 1:18"
+        },
+        {
+          "start_ref": "19050007",
+          "start_ref_usfm": "PSA 50:7",
+          "end_ref": "19050015",
+          "end_ref_usfm": "PSA 50:15"
+        },
+        {
+          "start_ref": "52001009",
+          "start_ref_usfm": "1TH 1:9",
+          "end_ref": "52001010",
+          "end_ref_usfm": "1TH 1:10"
+        },
+        {
+          "start_ref": "51001015",
+          "start_ref_usfm": "COL 1:15",
+          "end_ref": "51001023",
+          "end_ref_usfm": "COL 1:23"
+        },
+        {
+          "start_ref": "58001001",
+          "start_ref_usfm": "HEB 1:1",
+          "end_ref": "58001004",
+          "end_ref_usfm": "HEB 1:4"
+        },
+        {
+          "start_ref": "23042005",
+          "start_ref_usfm": "ISA 42:5",
+          "end_ref": "23042007",
+          "end_ref_usfm": "ISA 42:7"
+        },
+        {
+          "start_ref": "44017016",
+          "start_ref_usfm": "ACT 17:16",
+          "end_ref": "44017032",
+          "end_ref_usfm": "ACT 17:32"
+        },
+        {
+          "start_ref": "51002006",
+          "start_ref_usfm": "COL 2:6",
+          "end_ref": "51002012",
+          "end_ref_usfm": "COL 2:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

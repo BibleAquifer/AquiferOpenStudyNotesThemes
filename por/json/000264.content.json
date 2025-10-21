@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 800475,
+    "reference_id": 203306,
+    "title": "Ricos e pobres no evangelho de Lucas",
+    "media_type": "Text",
+    "index_reference": "ricos e pobres no evangelho de lucas",
+    "language": "por",
+    "content": "<p>No Evangelho de Lucas, entrar ou ser excluído do reino de Deus envolve uma inversão da riqueza mundana. Maria, a mãe de Jesus, proclamou que Deus elevaria os pobres e humildes enquanto humilharia os ricos e poderosos (<a href=\"https://ref.ly/Luke1:52-Luke1:53\">Lucas 1.52–53</a>). Jesus declarou em Nazaré que o evangelho é &quot;boas-novas para os pobres&quot; (<a href=\"https://ref.ly/Luke4:18\">4.18</a>). Ele abençoou os pobres e famintos e advertiu os ricos e satisfeitos (<a href=\"https://ref.ly/Luke6:20-Luke6:26\">6.20–26</a>). Isso desafiou a crença comum de que Deus abençoava as pessoas ricas e amaldiçoava as pessoas pobres.</p><p>Várias das parábolas de Jesus alertam fortemente sobre o perigo da riqueza. A parábola do rico tolo mostra o que acontece quando alguém acumula tesouros na terra em vez de construir um relacionamento forte com Deus (<a href=\"https://ref.ly/Luke12:13-Luke12:21\">Lucas 12.13–21</a>). A parábola do homem rico e Lázaro ilustra as consequências eternas de ignorar os pobres e desamparados enquanto desfruta dos confortos da vida (<a href=\"https://ref.ly/Luke16:19-Luke16:31\">16.19–31</a>). O homem rico que perguntou a Jesus como ganhar a vida eterna ficou devastado quando Jesus lhe disse para vender tudo o que tinha e dar aos pobres (<a href=\"https://ref.ly/Luke18:18-Luke18:23\">18.18–23</a>).</p><p>Quem são os pobres no evangelho de Lucas? São pessoas fisicamente pobres ou aqueles pobres de espírito (compare <a href=\"https://ref.ly/Matt5:3\">Mateus 5.3</a>)? Provavelmente, são ambos. Os fisicamente pobres, que têm muito pouco, naturalmente dependem de Deus para suas necessidades. Pessoas ricas e poderosas frequentemente confiam em si mesmas, esquecendo sua necessidade de Deus. Pessoas ricas não podem entrar no reino de Deus se confiarem em sua riqueza para chegar lá (<a href=\"https://ref.ly/Luke16:25-Luke16:26\">16.25–26</a>). Deus aceita aqueles que confiam somente nele.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt5:3\">Mateus 5.3</a>; <a href=\"https://ref.ly/Luke1:52-Luke1:53\">Lucas 1.52–53</a>; <a href=\"https://ref.ly/Luke4:18\">4.18</a>; <a href=\"https://ref.ly/Luke6:20-Luke6:25\">6.20–25</a>; <a href=\"https://ref.ly/Luke12:13-Luke12:34\">12.13–34</a>; <a href=\"https://ref.ly/Luke14:12-Luke14:23\">14.12–23</a>; <a href=\"https://ref.ly/Luke16:19-Luke16:31\">16.19–31</a>; <a href=\"https://ref.ly/Luke18:18-Luke18:30\">18.18–30.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40005003",
+          "start_ref_usfm": "MAT 5:3",
+          "end_ref": "40005003",
+          "end_ref_usfm": "MAT 5:3"
+        },
+        {
+          "start_ref": "42004018",
+          "start_ref_usfm": "LUK 4:18",
+          "end_ref": "42004018",
+          "end_ref_usfm": "LUK 4:18"
+        },
+        {
+          "start_ref": "42006020",
+          "start_ref_usfm": "LUK 6:20",
+          "end_ref": "42006026",
+          "end_ref_usfm": "LUK 6:26"
+        },
+        {
+          "start_ref": "42016019",
+          "start_ref_usfm": "LUK 16:19",
+          "end_ref": "42016031",
+          "end_ref_usfm": "LUK 16:31"
+        },
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018030",
+          "end_ref_usfm": "LUK 18:30"
+        },
+        {
+          "start_ref": "42012013",
+          "start_ref_usfm": "LUK 12:13",
+          "end_ref": "42012034",
+          "end_ref_usfm": "LUK 12:34"
+        },
+        {
+          "start_ref": "42012013",
+          "start_ref_usfm": "LUK 12:13",
+          "end_ref": "42012021",
+          "end_ref_usfm": "LUK 12:21"
+        },
+        {
+          "start_ref": "42001052",
+          "start_ref_usfm": "LUK 1:52",
+          "end_ref": "42001053",
+          "end_ref_usfm": "LUK 1:53"
+        },
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018023",
+          "end_ref_usfm": "LUK 18:23"
+        },
+        {
+          "start_ref": "42016025",
+          "start_ref_usfm": "LUK 16:25",
+          "end_ref": "42016026",
+          "end_ref_usfm": "LUK 16:26"
+        },
+        {
+          "start_ref": "42006020",
+          "start_ref_usfm": "LUK 6:20",
+          "end_ref": "42006025",
+          "end_ref_usfm": "LUK 6:25"
+        },
+        {
+          "start_ref": "42014012",
+          "start_ref_usfm": "LUK 14:12",
+          "end_ref": "42014023",
+          "end_ref_usfm": "LUK 14:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

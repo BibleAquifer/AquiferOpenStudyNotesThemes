@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 500240,
+    "reference_id": 203183,
+    "title": "The Spirit of the Law",
+    "media_type": "Text",
+    "index_reference": "the spirit of the law",
+    "language": "eng",
+    "content": "<p>When King Hezekiah wanted to celebrate Passover, he had a problem. Passover is a feast marking Israel&apos;s freedom from slavery in Egypt and is the first feast of Israel&apos;s religious year (<a href=\"https://ref.ly/Exod12:1-Exod12:2\">Exodus 12:1–2</a>). Hezekiah intended to restore Israel&apos;s worship of the Lord. Yet, the time between starting his renewal efforts and the first month of the year was too short. The priests did not have enough time to prepare and gather the people (<a href=\"https://ref.ly/2Chr30:2-2Chr30:3\">2 Chronicles 30:2–3</a>). As a result, he could not celebrate Passover at the usual time.</p><p>Hezekiah held the Passover a month late (<a href=\"https://ref.ly/2Chr30:15\">2 Chronicles 30:15</a>). He believed celebrating was more important than the timing. By delaying, he gave people time to gather at the temple in Jerusalem. This brought harmony between Judah and the northern kingdom and unified the celebration.</p><p>Following precise regulations was less important than guaranteeing everyone could celebrate Passover. When the feast began, many people had not properly purified themselves. So they could not slaughter their own sacrifices as the law required. </p><p>Hezekiah decided participation in Passover was more important than strict obedience to regulations. He prayed for the pilgrims who could not prepare properly. Although they could not make sacrifices without being pure, they could still participate in Passover. Having the right attitude and seeking the Lord in prayer led to God&apos;s gracious acceptance (<a href=\"https://ref.ly/2Chr30:18-2Chr30:20\">2 Chronicles 30:18–20</a>; see also <a href=\"https://ref.ly/1Cor11:27-1Cor11:34\">1 Corinthians 11:27–34</a>).</p><p>Religious leaders often criticized Jesus for not following all aspects of the law. They  especially were concerned about the Sabbath and purity. Jesus taught that showing love to others was more important than following every detail of the law. He also criticized religious leaders for focusing too much on the details of the law instead of the principles behind them. While strict obedience to the law was key to Jewish identity, the spirit of the law allowed some flexibility in certain situations.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod12:1-Exod12:30\">Exodus 12:1–30</a>; <a href=\"https://ref.ly/2Kgs5:17-2Kgs5:19\">2 Kings 5:17–19</a>; <a href=\"https://ref.ly/2Chr30:1-2Chr30:27\">2 Chronicles 30:1–27</a>; <a href=\"https://ref.ly/Matt15:21-Matt15:28\">Matthew 15:21–28</a>; <a href=\"https://ref.ly/John8:1-John8:11\">John 8:1–11</a>; <a href=\"https://ref.ly/Rom3:23-Rom3:28\">Romans 3:23–28</a>; <a href=\"https://ref.ly/1Cor11:27-1Cor11:34\">1 Corinthians 11:27–34</a>; <a href=\"https://ref.ly/Heb9:13-Heb9:15\">Hebrews 9:13–15</a>; <a href=\"https://ref.ly/Jas5:16\">James 5:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14030015",
+          "start_ref_usfm": "2CH 30:15",
+          "end_ref": "14030015",
+          "end_ref_usfm": "2CH 30:15"
+        },
+        {
+          "start_ref": "59005016",
+          "start_ref_usfm": "JAS 5:16",
+          "end_ref": "59005016",
+          "end_ref_usfm": "JAS 5:16"
+        },
+        {
+          "start_ref": "40015021",
+          "start_ref_usfm": "MAT 15:21",
+          "end_ref": "40015028",
+          "end_ref_usfm": "MAT 15:28"
+        },
+        {
+          "start_ref": "14030001",
+          "start_ref_usfm": "2CH 30:1",
+          "end_ref": "14030027",
+          "end_ref_usfm": "2CH 30:27"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012030",
+          "end_ref_usfm": "EXO 12:30"
+        },
+        {
+          "start_ref": "14030002",
+          "start_ref_usfm": "2CH 30:2",
+          "end_ref": "14030003",
+          "end_ref_usfm": "2CH 30:3"
+        },
+        {
+          "start_ref": "12005017",
+          "start_ref_usfm": "2KI 5:17",
+          "end_ref": "12005019",
+          "end_ref_usfm": "2KI 5:19"
+        },
+        {
+          "start_ref": "58009013",
+          "start_ref_usfm": "HEB 9:13",
+          "end_ref": "58009015",
+          "end_ref_usfm": "HEB 9:15"
+        },
+        {
+          "start_ref": "43008001",
+          "start_ref_usfm": "JHN 8:1",
+          "end_ref": "43008011",
+          "end_ref_usfm": "JHN 8:11"
+        },
+        {
+          "start_ref": "14030018",
+          "start_ref_usfm": "2CH 30:18",
+          "end_ref": "14030020",
+          "end_ref_usfm": "2CH 30:20"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012002",
+          "end_ref_usfm": "EXO 12:2"
+        },
+        {
+          "start_ref": "46011027",
+          "start_ref_usfm": "1CO 11:27",
+          "end_ref": "46011034",
+          "end_ref_usfm": "1CO 11:34"
+        },
+        {
+          "start_ref": "45003023",
+          "start_ref_usfm": "ROM 3:23",
+          "end_ref": "45003028",
+          "end_ref_usfm": "ROM 3:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

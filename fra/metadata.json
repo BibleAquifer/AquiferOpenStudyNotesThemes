@@ -1,0 +1,6374 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "StudyNotes",
+    "resource_type": "Study Notes",
+    "title": "Aquifer Open Study Notes (Themes)",
+    "aquifer_name": "Study Notes - Themes (Tyndale)",
+    "collection_title": "Study Notes - Themes (Tyndale)",
+    "short_name": "TSNT",
+    "license_info": {
+      "title": "Tyndale Open Study Notes",
+      "copyright": {
+        "dates": "2019",
+        "holder": {
+          "name": "Tyndale House Publishers",
+          "url": "https://tyndaleopenresources.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by BiblioNexus and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
+    "resource_code": "TyndaleStudyNotesThemes",
+    "date_created": "2025-10-20",
+    "language": "fra",
+    "localizations": [
+      "eng",
+      "arb",
+      "hin",
+      "por",
+      "swh",
+      "zht",
+      "ind",
+      "rus"
+    ],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-20T14:45:03.708694"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "TyndaleStudyNotesThemes": {
+            "timestamp": "2025-10-20T14:45:03.708694"
+          }
+        }
+      },
+      "name": {
+        "fr": "Tyndale Open Study Notes"
+      },
+      "abbreviation": {
+        "fr": "TSNT"
+      }
+    },
+    "languages": [
+      {
+        "tag": "fr",
+        "name": {
+          "fr": "French"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 8665
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 8544
+      },
+      "json/000003.content.json": {
+        "mimeType": "text/json",
+        "size": 7341
+      },
+      "json/000004.content.json": {
+        "mimeType": "text/json",
+        "size": 25438
+      },
+      "json/000005.content.json": {
+        "mimeType": "text/json",
+        "size": 9870
+      },
+      "json/000006.content.json": {
+        "mimeType": "text/json",
+        "size": 9695
+      },
+      "json/000007.content.json": {
+        "mimeType": "text/json",
+        "size": 7069
+      },
+      "json/000008.content.json": {
+        "mimeType": "text/json",
+        "size": 7018
+      },
+      "json/000009.content.json": {
+        "mimeType": "text/json",
+        "size": 9459
+      },
+      "json/000010.content.json": {
+        "mimeType": "text/json",
+        "size": 3918
+      },
+      "json/000011.content.json": {
+        "mimeType": "text/json",
+        "size": 19000
+      },
+      "json/000012.content.json": {
+        "mimeType": "text/json",
+        "size": 15778
+      },
+      "json/000013.content.json": {
+        "mimeType": "text/json",
+        "size": 13107
+      },
+      "json/000014.content.json": {
+        "mimeType": "text/json",
+        "size": 12195
+      },
+      "json/000015.content.json": {
+        "mimeType": "text/json",
+        "size": 8516
+      },
+      "json/000016.content.json": {
+        "mimeType": "text/json",
+        "size": 11278
+      },
+      "json/000017.content.json": {
+        "mimeType": "text/json",
+        "size": 10682
+      },
+      "json/000018.content.json": {
+        "mimeType": "text/json",
+        "size": 7807
+      },
+      "json/000019.content.json": {
+        "mimeType": "text/json",
+        "size": 7822
+      },
+      "json/000020.content.json": {
+        "mimeType": "text/json",
+        "size": 4528
+      },
+      "json/000021.content.json": {
+        "mimeType": "text/json",
+        "size": 12003
+      },
+      "json/000022.content.json": {
+        "mimeType": "text/json",
+        "size": 7768
+      },
+      "json/000023.content.json": {
+        "mimeType": "text/json",
+        "size": 13811
+      },
+      "json/000024.content.json": {
+        "mimeType": "text/json",
+        "size": 7221
+      },
+      "json/000025.content.json": {
+        "mimeType": "text/json",
+        "size": 12159
+      },
+      "json/000026.content.json": {
+        "mimeType": "text/json",
+        "size": 7556
+      },
+      "json/000027.content.json": {
+        "mimeType": "text/json",
+        "size": 12657
+      },
+      "json/000028.content.json": {
+        "mimeType": "text/json",
+        "size": 12393
+      },
+      "json/000029.content.json": {
+        "mimeType": "text/json",
+        "size": 6024
+      },
+      "json/000030.content.json": {
+        "mimeType": "text/json",
+        "size": 9407
+      },
+      "json/000031.content.json": {
+        "mimeType": "text/json",
+        "size": 8743
+      },
+      "json/000032.content.json": {
+        "mimeType": "text/json",
+        "size": 15856
+      },
+      "json/000033.content.json": {
+        "mimeType": "text/json",
+        "size": 17465
+      },
+      "json/000034.content.json": {
+        "mimeType": "text/json",
+        "size": 16237
+      },
+      "json/000035.content.json": {
+        "mimeType": "text/json",
+        "size": 10325
+      },
+      "json/000036.content.json": {
+        "mimeType": "text/json",
+        "size": 5516
+      },
+      "json/000037.content.json": {
+        "mimeType": "text/json",
+        "size": 6699
+      },
+      "json/000038.content.json": {
+        "mimeType": "text/json",
+        "size": 16404
+      },
+      "json/000039.content.json": {
+        "mimeType": "text/json",
+        "size": 10373
+      },
+      "json/000040.content.json": {
+        "mimeType": "text/json",
+        "size": 5471
+      },
+      "json/000041.content.json": {
+        "mimeType": "text/json",
+        "size": 15071
+      },
+      "json/000042.content.json": {
+        "mimeType": "text/json",
+        "size": 14392
+      },
+      "json/000043.content.json": {
+        "mimeType": "text/json",
+        "size": 11931
+      },
+      "json/000044.content.json": {
+        "mimeType": "text/json",
+        "size": 6595
+      },
+      "json/000045.content.json": {
+        "mimeType": "text/json",
+        "size": 12668
+      },
+      "json/000046.content.json": {
+        "mimeType": "text/json",
+        "size": 14951
+      },
+      "json/000047.content.json": {
+        "mimeType": "text/json",
+        "size": 4086
+      },
+      "json/000048.content.json": {
+        "mimeType": "text/json",
+        "size": 10642
+      },
+      "json/000049.content.json": {
+        "mimeType": "text/json",
+        "size": 12330
+      },
+      "json/000050.content.json": {
+        "mimeType": "text/json",
+        "size": 4240
+      },
+      "json/000051.content.json": {
+        "mimeType": "text/json",
+        "size": 22116
+      },
+      "json/000052.content.json": {
+        "mimeType": "text/json",
+        "size": 10301
+      },
+      "json/000053.content.json": {
+        "mimeType": "text/json",
+        "size": 10411
+      },
+      "json/000054.content.json": {
+        "mimeType": "text/json",
+        "size": 11534
+      },
+      "json/000055.content.json": {
+        "mimeType": "text/json",
+        "size": 9139
+      },
+      "json/000056.content.json": {
+        "mimeType": "text/json",
+        "size": 7402
+      },
+      "json/000057.content.json": {
+        "mimeType": "text/json",
+        "size": 9318
+      },
+      "json/000058.content.json": {
+        "mimeType": "text/json",
+        "size": 11949
+      },
+      "json/000059.content.json": {
+        "mimeType": "text/json",
+        "size": 10469
+      },
+      "json/000060.content.json": {
+        "mimeType": "text/json",
+        "size": 7226
+      },
+      "json/000061.content.json": {
+        "mimeType": "text/json",
+        "size": 11334
+      },
+      "json/000062.content.json": {
+        "mimeType": "text/json",
+        "size": 5386
+      },
+      "json/000063.content.json": {
+        "mimeType": "text/json",
+        "size": 9985
+      },
+      "json/000064.content.json": {
+        "mimeType": "text/json",
+        "size": 11421
+      },
+      "json/000065.content.json": {
+        "mimeType": "text/json",
+        "size": 12023
+      },
+      "json/000066.content.json": {
+        "mimeType": "text/json",
+        "size": 5405
+      },
+      "json/000067.content.json": {
+        "mimeType": "text/json",
+        "size": 12258
+      },
+      "json/000068.content.json": {
+        "mimeType": "text/json",
+        "size": 16183
+      },
+      "json/000069.content.json": {
+        "mimeType": "text/json",
+        "size": 11392
+      },
+      "json/000070.content.json": {
+        "mimeType": "text/json",
+        "size": 6989
+      },
+      "json/000071.content.json": {
+        "mimeType": "text/json",
+        "size": 8111
+      },
+      "json/000072.content.json": {
+        "mimeType": "text/json",
+        "size": 7913
+      },
+      "json/000073.content.json": {
+        "mimeType": "text/json",
+        "size": 9733
+      },
+      "json/000074.content.json": {
+        "mimeType": "text/json",
+        "size": 7688
+      },
+      "json/000075.content.json": {
+        "mimeType": "text/json",
+        "size": 5783
+      },
+      "json/000076.content.json": {
+        "mimeType": "text/json",
+        "size": 6173
+      },
+      "json/000077.content.json": {
+        "mimeType": "text/json",
+        "size": 16469
+      },
+      "json/000078.content.json": {
+        "mimeType": "text/json",
+        "size": 4743
+      },
+      "json/000079.content.json": {
+        "mimeType": "text/json",
+        "size": 7300
+      },
+      "json/000080.content.json": {
+        "mimeType": "text/json",
+        "size": 3962
+      },
+      "json/000081.content.json": {
+        "mimeType": "text/json",
+        "size": 7651
+      },
+      "json/000082.content.json": {
+        "mimeType": "text/json",
+        "size": 7949
+      },
+      "json/000083.content.json": {
+        "mimeType": "text/json",
+        "size": 8846
+      },
+      "json/000084.content.json": {
+        "mimeType": "text/json",
+        "size": 10403
+      },
+      "json/000085.content.json": {
+        "mimeType": "text/json",
+        "size": 7056
+      },
+      "json/000086.content.json": {
+        "mimeType": "text/json",
+        "size": 10841
+      },
+      "json/000087.content.json": {
+        "mimeType": "text/json",
+        "size": 11278
+      },
+      "json/000088.content.json": {
+        "mimeType": "text/json",
+        "size": 5161
+      },
+      "json/000089.content.json": {
+        "mimeType": "text/json",
+        "size": 13087
+      },
+      "json/000090.content.json": {
+        "mimeType": "text/json",
+        "size": 6506
+      },
+      "json/000091.content.json": {
+        "mimeType": "text/json",
+        "size": 16231
+      },
+      "json/000092.content.json": {
+        "mimeType": "text/json",
+        "size": 5659
+      },
+      "json/000093.content.json": {
+        "mimeType": "text/json",
+        "size": 10099
+      },
+      "json/000094.content.json": {
+        "mimeType": "text/json",
+        "size": 5631
+      },
+      "json/000095.content.json": {
+        "mimeType": "text/json",
+        "size": 8262
+      },
+      "json/000096.content.json": {
+        "mimeType": "text/json",
+        "size": 6205
+      },
+      "json/000097.content.json": {
+        "mimeType": "text/json",
+        "size": 8098
+      },
+      "json/000098.content.json": {
+        "mimeType": "text/json",
+        "size": 7298
+      },
+      "json/000099.content.json": {
+        "mimeType": "text/json",
+        "size": 8230
+      },
+      "json/000100.content.json": {
+        "mimeType": "text/json",
+        "size": 4191
+      },
+      "json/000101.content.json": {
+        "mimeType": "text/json",
+        "size": 13065
+      },
+      "json/000102.content.json": {
+        "mimeType": "text/json",
+        "size": 2481
+      },
+      "json/000103.content.json": {
+        "mimeType": "text/json",
+        "size": 5679
+      },
+      "json/000104.content.json": {
+        "mimeType": "text/json",
+        "size": 8623
+      },
+      "json/000105.content.json": {
+        "mimeType": "text/json",
+        "size": 6700
+      },
+      "json/000106.content.json": {
+        "mimeType": "text/json",
+        "size": 6796
+      },
+      "json/000107.content.json": {
+        "mimeType": "text/json",
+        "size": 7827
+      },
+      "json/000108.content.json": {
+        "mimeType": "text/json",
+        "size": 12157
+      },
+      "json/000109.content.json": {
+        "mimeType": "text/json",
+        "size": 7917
+      },
+      "json/000110.content.json": {
+        "mimeType": "text/json",
+        "size": 7674
+      },
+      "json/000111.content.json": {
+        "mimeType": "text/json",
+        "size": 13074
+      },
+      "json/000112.content.json": {
+        "mimeType": "text/json",
+        "size": 8526
+      },
+      "json/000113.content.json": {
+        "mimeType": "text/json",
+        "size": 7775
+      },
+      "json/000114.content.json": {
+        "mimeType": "text/json",
+        "size": 15507
+      },
+      "json/000115.content.json": {
+        "mimeType": "text/json",
+        "size": 14136
+      },
+      "json/000116.content.json": {
+        "mimeType": "text/json",
+        "size": 8668
+      },
+      "json/000117.content.json": {
+        "mimeType": "text/json",
+        "size": 10872
+      },
+      "json/000118.content.json": {
+        "mimeType": "text/json",
+        "size": 7863
+      },
+      "json/000119.content.json": {
+        "mimeType": "text/json",
+        "size": 5693
+      },
+      "json/000120.content.json": {
+        "mimeType": "text/json",
+        "size": 8998
+      },
+      "json/000121.content.json": {
+        "mimeType": "text/json",
+        "size": 9560
+      },
+      "json/000122.content.json": {
+        "mimeType": "text/json",
+        "size": 8207
+      },
+      "json/000123.content.json": {
+        "mimeType": "text/json",
+        "size": 8698
+      },
+      "json/000124.content.json": {
+        "mimeType": "text/json",
+        "size": 6909
+      },
+      "json/000125.content.json": {
+        "mimeType": "text/json",
+        "size": 4333
+      },
+      "json/000126.content.json": {
+        "mimeType": "text/json",
+        "size": 11205
+      },
+      "json/000127.content.json": {
+        "mimeType": "text/json",
+        "size": 6331
+      },
+      "json/000128.content.json": {
+        "mimeType": "text/json",
+        "size": 18048
+      },
+      "json/000129.content.json": {
+        "mimeType": "text/json",
+        "size": 7614
+      },
+      "json/000130.content.json": {
+        "mimeType": "text/json",
+        "size": 11970
+      },
+      "json/000131.content.json": {
+        "mimeType": "text/json",
+        "size": 8121
+      },
+      "json/000132.content.json": {
+        "mimeType": "text/json",
+        "size": 15590
+      },
+      "json/000133.content.json": {
+        "mimeType": "text/json",
+        "size": 8475
+      },
+      "json/000134.content.json": {
+        "mimeType": "text/json",
+        "size": 10855
+      },
+      "json/000135.content.json": {
+        "mimeType": "text/json",
+        "size": 19392
+      },
+      "json/000136.content.json": {
+        "mimeType": "text/json",
+        "size": 31104
+      },
+      "json/000137.content.json": {
+        "mimeType": "text/json",
+        "size": 8318
+      },
+      "json/000138.content.json": {
+        "mimeType": "text/json",
+        "size": 5340
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3670
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3945
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4627
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9142
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5716
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5732
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3784
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3909
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4465
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2555
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7768
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7559
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5556
+      },
+      "md/000014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5695
+      },
+      "md/000015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5915
+      },
+      "md/000016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4699
+      },
+      "md/000017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4967
+      },
+      "md/000018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3688
+      },
+      "md/000019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4037
+      },
+      "md/000020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1266
+      },
+      "md/000021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6452
+      },
+      "md/000022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4262
+      },
+      "md/000023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6440
+      },
+      "md/000024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4331
+      },
+      "md/000025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6341
+      },
+      "md/000026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4100
+      },
+      "md/000027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8190
+      },
+      "md/000028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5796
+      },
+      "md/000029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3862
+      },
+      "md/000030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5205
+      },
+      "md/000031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5809
+      },
+      "md/000032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7239
+      },
+      "md/000033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7865
+      },
+      "md/000034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7851
+      },
+      "md/000035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7168
+      },
+      "md/000036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3835
+      },
+      "md/000037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4441
+      },
+      "md/000038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7342
+      },
+      "md/000039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4455
+      },
+      "md/000040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3323
+      },
+      "md/000041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7274
+      },
+      "md/000042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6220
+      },
+      "md/000043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5124
+      },
+      "md/000044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4082
+      },
+      "md/000045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5881
+      },
+      "md/000046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6127
+      },
+      "md/000047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3351
+      },
+      "md/000048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5659
+      },
+      "md/000049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6933
+      },
+      "md/000050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2769
+      },
+      "md/000051.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8870
+      },
+      "md/000052.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5587
+      },
+      "md/000053.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5015
+      },
+      "md/000054.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4806
+      },
+      "md/000055.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3907
+      },
+      "md/000056.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3955
+      },
+      "md/000057.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4686
+      },
+      "md/000058.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5143
+      },
+      "md/000059.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5683
+      },
+      "md/000060.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4553
+      },
+      "md/000061.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6273
+      },
+      "md/000062.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3580
+      },
+      "md/000063.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5474
+      },
+      "md/000064.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6325
+      },
+      "md/000065.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5690
+      },
+      "md/000066.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3560
+      },
+      "md/000067.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5434
+      },
+      "md/000068.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7110
+      },
+      "md/000069.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5075
+      },
+      "md/000070.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3856
+      },
+      "md/000071.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4488
+      },
+      "md/000072.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3980
+      },
+      "md/000073.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4371
+      },
+      "md/000074.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4866
+      },
+      "md/000075.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3335
+      },
+      "md/000076.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3631
+      },
+      "md/000077.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6542
+      },
+      "md/000078.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3860
+      },
+      "md/000079.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4377
+      },
+      "md/000080.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2925
+      },
+      "md/000081.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4514
+      },
+      "md/000082.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4362
+      },
+      "md/000083.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4245
+      },
+      "md/000084.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4618
+      },
+      "md/000085.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4669
+      },
+      "md/000086.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5810
+      },
+      "md/000087.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4876
+      },
+      "md/000088.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3337
+      },
+      "md/000089.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5929
+      },
+      "md/000090.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3679
+      },
+      "md/000091.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8002
+      },
+      "md/000092.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4864
+      },
+      "md/000093.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5389
+      },
+      "md/000094.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3900
+      },
+      "md/000095.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4255
+      },
+      "md/000096.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5622
+      },
+      "md/000097.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4111
+      },
+      "md/000098.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3820
+      },
+      "md/000099.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4453
+      },
+      "md/000100.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3181
+      },
+      "md/000101.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6198
+      },
+      "md/000102.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2461
+      },
+      "md/000103.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3849
+      },
+      "md/000104.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5734
+      },
+      "md/000105.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3690
+      },
+      "md/000106.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3716
+      },
+      "md/000107.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4549
+      },
+      "md/000108.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6685
+      },
+      "md/000109.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4324
+      },
+      "md/000110.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4160
+      },
+      "md/000111.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5840
+      },
+      "md/000112.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4360
+      },
+      "md/000113.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4572
+      },
+      "md/000114.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6625
+      },
+      "md/000115.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6655
+      },
+      "md/000116.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4186
+      },
+      "md/000117.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4605
+      },
+      "md/000118.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5545
+      },
+      "md/000119.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3678
+      },
+      "md/000120.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4837
+      },
+      "md/000121.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3865
+      },
+      "md/000122.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4283
+      },
+      "md/000123.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4471
+      },
+      "md/000124.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4145
+      },
+      "md/000125.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3814
+      },
+      "md/000126.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6057
+      },
+      "md/000127.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5577
+      },
+      "md/000128.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13251
+      },
+      "md/000129.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3921
+      },
+      "md/000130.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5468
+      },
+      "md/000131.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4771
+      },
+      "md/000132.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7865
+      },
+      "md/000133.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4370
+      },
+      "md/000134.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5841
+      },
+      "md/000135.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7488
+      },
+      "md/000136.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11312
+      },
+      "md/000137.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5765
+      },
+      "md/000138.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3114
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Tyndale Open Study Notes © 2019 Tyndale House Publishers.</p>",
+          "mimetype": "text/html",
+          "lang": "fr"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "708449": {
+      "content_id": 708449,
+      "reference_id": 203311,
+      "index_reference": "« croire » dans l'évangile de jean",
+      "localizations": {
+        "eng": {
+          "content_id": 500368,
+          "language": "eng",
+          "title": "“Belief” in the Gospel of John"
+        },
+        "arb": {
+          "content_id": 702375,
+          "language": "arb",
+          "title": "\"الإيمان\" في إنجيل يوحنا"
+        },
+        "hin": {
+          "content_id": 709540,
+          "language": "hin",
+          "title": "यूहन्ना के सुसमाचार में “विश्वास”"
+        },
+        "por": {
+          "content_id": 800480,
+          "language": "por",
+          "title": "“Crença” no evangelho de João"
+        },
+        "swh": {
+          "content_id": 765168,
+          "language": "swh",
+          "title": "\"Imani\" Katika Injili ya Yohana"
+        },
+        "zht": {
+          "content_id": 700374,
+          "language": "zht",
+          "title": "約翰福音中的「信」"
+        }
+      }
+    },
+    "734240": {
+      "content_id": 734240,
+      "reference_id": 203347,
+      "index_reference": "aimer son prochain",
+      "localizations": {
+        "eng": {
+          "content_id": 500404,
+          "language": "eng",
+          "title": "Loving Others"
+        },
+        "arb": {
+          "content_id": 702411,
+          "language": "arb",
+          "title": "محبة الآخرين"
+        },
+        "hin": {
+          "content_id": 709576,
+          "language": "hin",
+          "title": "दूसरों से प्रेम करना"
+        },
+        "por": {
+          "content_id": 800516,
+          "language": "por",
+          "title": "Amando os outros"
+        },
+        "swh": {
+          "content_id": 765204,
+          "language": "swh",
+          "title": "Kuwapenda Wengine"
+        },
+        "zht": {
+          "content_id": 700410,
+          "language": "zht",
+          "title": "愛人"
+        }
+      }
+    },
+    "734171": {
+      "content_id": 734171,
+      "reference_id": 203099,
+      "index_reference": "alliance de dieu avec noé",
+      "localizations": {
+        "eng": {
+          "content_id": 500156,
+          "language": "eng",
+          "title": "God’s Covenant with Noah"
+        },
+        "arb": {
+          "content_id": 702163,
+          "language": "arb",
+          "title": "عهد ٱلله مع نوح"
+        },
+        "hin": {
+          "content_id": 709328,
+          "language": "hin",
+          "title": "नूह के साथ परमेश्वर की वाचा"
+        },
+        "por": {
+          "content_id": 800268,
+          "language": "por",
+          "title": "Aliança de Deus com Noé"
+        },
+        "swh": {
+          "content_id": 764956,
+          "language": "swh",
+          "title": "Agano la Mungu na Noa"
+        },
+        "zht": {
+          "content_id": 700162,
+          "language": "zht",
+          "title": "神與挪亞所立的約"
+        }
+      }
+    },
+    "708454": {
+      "content_id": 708454,
+      "reference_id": 203334,
+      "index_reference": "anges",
+      "localizations": {
+        "eng": {
+          "content_id": 500391,
+          "language": "eng",
+          "title": "Angels"
+        },
+        "arb": {
+          "content_id": 702398,
+          "language": "arb",
+          "title": "الملائكة"
+        },
+        "hin": {
+          "content_id": 709563,
+          "language": "hin",
+          "title": "स्वर्गदूत  "
+        },
+        "por": {
+          "content_id": 800503,
+          "language": "por",
+          "title": "Anjos"
+        },
+        "swh": {
+          "content_id": 765191,
+          "language": "swh",
+          "title": "Malaika"
+        },
+        "zht": {
+          "content_id": 700397,
+          "language": "zht",
+          "title": "天使"
+        }
+      }
+    },
+    "708460": {
+      "content_id": 708460,
+      "reference_id": 203373,
+      "index_reference": "apostasie",
+      "localizations": {
+        "eng": {
+          "content_id": 500430,
+          "language": "eng",
+          "title": "Apostasy"
+        },
+        "arb": {
+          "content_id": 702437,
+          "language": "arb",
+          "title": "الارتداد"
+        },
+        "hin": {
+          "content_id": 709602,
+          "language": "hin",
+          "title": "धर्मत्याग"
+        },
+        "por": {
+          "content_id": 800542,
+          "language": "por",
+          "title": "Apostasia"
+        },
+        "swh": {
+          "content_id": 765230,
+          "language": "swh",
+          "title": "Uasi wa imani"
+        },
+        "zht": {
+          "content_id": 700436,
+          "language": "zht",
+          "title": "背道"
+        }
+      }
+    },
+    "708427": {
+      "content_id": 708427,
+      "reference_id": 203182,
+      "index_reference": "apostasie et restauration",
+      "localizations": {
+        "eng": {
+          "content_id": 500239,
+          "language": "eng",
+          "title": "Apostasy and Renewal"
+        },
+        "arb": {
+          "content_id": 702246,
+          "language": "arb",
+          "title": "الارتداد والتجديد"
+        },
+        "hin": {
+          "content_id": 709411,
+          "language": "hin",
+          "title": "धर्मत्याग और नवीनीकरण"
+        },
+        "por": {
+          "content_id": 800351,
+          "language": "por",
+          "title": "Apostasia e renovação"
+        },
+        "swh": {
+          "content_id": 765039,
+          "language": "swh",
+          "title": "Uasi na Upya"
+        },
+        "zht": {
+          "content_id": 700245,
+          "language": "zht",
+          "title": "背道和復興"
+        }
+      }
+    },
+    "708455": {
+      "content_id": 708455,
+      "reference_id": 203343,
+      "index_reference": "appartenir à christ",
+      "localizations": {
+        "eng": {
+          "content_id": 500400,
+          "language": "eng",
+          "title": "Belonging to Christ"
+        },
+        "arb": {
+          "content_id": 702407,
+          "language": "arb",
+          "title": "الانتماء إلى المسيح (تبعية المسيح)"
+        },
+        "hin": {
+          "content_id": 709572,
+          "language": "hin",
+          "title": "मसीह से संबंधित"
+        },
+        "por": {
+          "content_id": 800512,
+          "language": "por",
+          "title": "Pertencer a Cristo"
+        },
+        "swh": {
+          "content_id": 765200,
+          "language": "swh",
+          "title": "Kumilikiwa na Kristo"
+        },
+        "zht": {
+          "content_id": 700406,
+          "language": "zht",
+          "title": "屬乎基督"
+        }
+      }
+    },
+    "708424": {
+      "content_id": 708424,
+      "reference_id": 203156,
+      "index_reference": "appeler les morts",
+      "localizations": {
+        "eng": {
+          "content_id": 500213,
+          "language": "eng",
+          "title": "Calling up the Dead"
+        },
+        "arb": {
+          "content_id": 702220,
+          "language": "arb",
+          "title": "استدعاء أرواح الموتى"
+        },
+        "hin": {
+          "content_id": 709385,
+          "language": "hin",
+          "title": "भूत-सिद्धि"
+        },
+        "por": {
+          "content_id": 800325,
+          "language": "por",
+          "title": "Chamando os mortos"
+        },
+        "swh": {
+          "content_id": 765013,
+          "language": "swh",
+          "title": "Kuasiliana na Wafu"
+        },
+        "zht": {
+          "content_id": 700219,
+          "language": "zht",
+          "title": "招喚死人"
+        }
+      }
+    },
+    "708408": {
+      "content_id": 708408,
+      "reference_id": 203104,
+      "index_reference": "autels",
+      "localizations": {
+        "eng": {
+          "content_id": 500161,
+          "language": "eng",
+          "title": "Altars"
+        },
+        "arb": {
+          "content_id": 702168,
+          "language": "arb",
+          "title": "المذابح"
+        },
+        "hin": {
+          "content_id": 709333,
+          "language": "hin",
+          "title": "वेदी"
+        },
+        "por": {
+          "content_id": 800273,
+          "language": "por",
+          "title": "Altares"
+        },
+        "swh": {
+          "content_id": 764961,
+          "language": "swh",
+          "title": "Madhabahu"
+        },
+        "zht": {
+          "content_id": 700167,
+          "language": "zht",
+          "title": "祭壇"
+        }
+      }
+    },
+    "708406": {
+      "content_id": 708406,
+      "reference_id": 203100,
+      "index_reference": "babel : la dispersion des nations",
+      "localizations": {
+        "eng": {
+          "content_id": 500157,
+          "language": "eng",
+          "title": "Babel: The Dispersion of Nations"
+        },
+        "arb": {
+          "content_id": 702164,
+          "language": "arb",
+          "title": "بابل: شتات الأمم"
+        },
+        "hin": {
+          "content_id": 709329,
+          "language": "hin",
+          "title": "बाबेल: राष्ट्रों का बिखराव"
+        },
+        "por": {
+          "content_id": 800269,
+          "language": "por",
+          "title": "Babel: A dispersão das nações"
+        },
+        "swh": {
+          "content_id": 764957,
+          "language": "swh",
+          "title": "Babeli: Mgawanyiko wa Mataifa"
+        },
+        "zht": {
+          "content_id": 700163,
+          "language": "zht",
+          "title": "巴別：萬國的分散"
+        }
+      }
+    },
+    "708451": {
+      "content_id": 708451,
+      "reference_id": 203323,
+      "index_reference": "baptême",
+      "localizations": {
+        "eng": {
+          "content_id": 500380,
+          "language": "eng",
+          "title": "Baptism"
+        },
+        "arb": {
+          "content_id": 702387,
+          "language": "arb",
+          "title": "المعمودية"
+        },
+        "hin": {
+          "content_id": 709552,
+          "language": "hin",
+          "title": "बपतिस्मा"
+        },
+        "por": {
+          "content_id": 800492,
+          "language": "por",
+          "title": "Batismo"
+        },
+        "swh": {
+          "content_id": 765180,
+          "language": "swh",
+          "title": "Ubatizo"
+        },
+        "zht": {
+          "content_id": 700386,
+          "language": "zht",
+          "title": "洗禮"
+        }
+      }
+    },
+    "708409": {
+      "content_id": 708409,
+      "reference_id": 203106,
+      "index_reference": "bénédiction",
+      "localizations": {
+        "eng": {
+          "content_id": 500163,
+          "language": "eng",
+          "title": "Blessing"
+        },
+        "arb": {
+          "content_id": 702170,
+          "language": "arb",
+          "title": "البركة"
+        },
+        "hin": {
+          "content_id": 709335,
+          "language": "hin",
+          "title": "आशीष "
+        },
+        "por": {
+          "content_id": 800275,
+          "language": "por",
+          "title": "Bênção"
+        },
+        "swh": {
+          "content_id": 764963,
+          "language": "swh",
+          "title": "Baraka"
+        },
+        "zht": {
+          "content_id": 700169,
+          "language": "zht",
+          "title": "祝福"
+        }
+      }
+    },
+    "708426": {
+      "content_id": 708426,
+      "reference_id": 203159,
+      "index_reference": "célébration",
+      "localizations": {
+        "eng": {
+          "content_id": 500216,
+          "language": "eng",
+          "title": "Celebration"
+        },
+        "arb": {
+          "content_id": 702223,
+          "language": "arb",
+          "title": "احتفال"
+        },
+        "hin": {
+          "content_id": 709388,
+          "language": "hin",
+          "title": "उत्सव"
+        },
+        "por": {
+          "content_id": 800328,
+          "language": "por",
+          "title": "Celebração"
+        },
+        "swh": {
+          "content_id": 765016,
+          "language": "swh",
+          "title": "Sherehe"
+        },
+        "zht": {
+          "content_id": 700222,
+          "language": "zht",
+          "title": "慶賀"
+        }
+      }
+    },
+    "708453": {
+      "content_id": 708453,
+      "reference_id": 203330,
+      "index_reference": "circoncision dans le nouveau testament",
+      "localizations": {
+        "eng": {
+          "content_id": 500387,
+          "language": "eng",
+          "title": "Circumcision in the New Testament"
+        },
+        "arb": {
+          "content_id": 702394,
+          "language": "arb",
+          "title": "الختان في العهد الجديد"
+        },
+        "hin": {
+          "content_id": 709559,
+          "language": "hin",
+          "title": "नए नियम में खतना"
+        },
+        "por": {
+          "content_id": 800499,
+          "language": "por",
+          "title": "Circuncisão no Novo Testamento"
+        },
+        "swh": {
+          "content_id": 765187,
+          "language": "swh",
+          "title": "Tohara katika Agano Jipya"
+        },
+        "zht": {
+          "content_id": 700393,
+          "language": "zht",
+          "title": "新約聖經中的割禮"
+        }
+      }
+    },
+    "708411": {
+      "content_id": 708411,
+      "reference_id": 203114,
+      "index_reference": "codes de lois anciens",
+      "localizations": {
+        "eng": {
+          "content_id": 500171,
+          "language": "eng",
+          "title": "Ancient Law Codes"
+        },
+        "arb": {
+          "content_id": 702178,
+          "language": "arb",
+          "title": "قوانين العصور القديمة"
+        },
+        "hin": {
+          "content_id": 709343,
+          "language": "hin",
+          "title": "प्राचीन व्यवस्था संहिताएँ"
+        },
+        "ind": {
+          "content_id": 769381,
+          "language": "ind",
+          "title": "Aturan Hukum Kuno"
+        },
+        "por": {
+          "content_id": 800283,
+          "language": "por",
+          "title": "Códigos de lei antigos"
+        },
+        "swh": {
+          "content_id": 764971,
+          "language": "swh",
+          "title": "Kanuni za Sheria za Kale"
+        },
+        "zht": {
+          "content_id": 700177,
+          "language": "zht",
+          "title": "古代法典"
+        }
+      }
+    },
+    "708434": {
+      "content_id": 708434,
+      "reference_id": 203223,
+      "index_reference": "colère",
+      "localizations": {
+        "eng": {
+          "content_id": 500280,
+          "language": "eng",
+          "title": "Anger"
+        },
+        "arb": {
+          "content_id": 702287,
+          "language": "arb",
+          "title": "الغضب"
+        },
+        "hin": {
+          "content_id": 709452,
+          "language": "hin",
+          "title": "क्रोध "
+        },
+        "por": {
+          "content_id": 800392,
+          "language": "por",
+          "title": "Raiva"
+        },
+        "swh": {
+          "content_id": 765080,
+          "language": "swh",
+          "title": "Hasira"
+        },
+        "zht": {
+          "content_id": 700286,
+          "language": "zht",
+          "title": "忿怒"
+        }
+      }
+    },
+    "734204": {
+      "content_id": 734204,
+      "reference_id": 203213,
+      "index_reference": "comprendre l'exil",
+      "localizations": {
+        "eng": {
+          "content_id": 500270,
+          "language": "eng",
+          "title": "Making Sense of the Exile"
+        },
+        "arb": {
+          "content_id": 702277,
+          "language": "arb",
+          "title": "فهم السبي"
+        },
+        "hin": {
+          "content_id": 709442,
+          "language": "hin",
+          "title": "बँधुआई का अर्थ समझना"
+        },
+        "por": {
+          "content_id": 800382,
+          "language": "por",
+          "title": "A razão do exílio"
+        },
+        "swh": {
+          "content_id": 765070,
+          "language": "swh",
+          "title": "Kuelewa Maana ya Uhamisho"
+        },
+        "zht": {
+          "content_id": 700276,
+          "language": "zht",
+          "title": "理解被擄"
+        }
+      }
+    },
+    "734219": {
+      "content_id": 734219,
+      "reference_id": 203269,
+      "index_reference": "connaître dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500326,
+          "language": "eng",
+          "title": "Knowing God"
+        },
+        "arb": {
+          "content_id": 702333,
+          "language": "arb",
+          "title": "معرفة ٱلله"
+        },
+        "hin": {
+          "content_id": 709498,
+          "language": "hin",
+          "title": "परमेश्वर को जानना"
+        },
+        "por": {
+          "content_id": 800438,
+          "language": "por",
+          "title": "Conhecendo Deus"
+        },
+        "swh": {
+          "content_id": 765126,
+          "language": "swh",
+          "title": "Kumjua Mungu"
+        },
+        "zht": {
+          "content_id": 700332,
+          "language": "zht",
+          "title": "認識神"
+        }
+      }
+    },
+    "734205": {
+      "content_id": 734205,
+      "reference_id": 203219,
+      "index_reference": "crainte du seigneur",
+      "localizations": {
+        "eng": {
+          "content_id": 500276,
+          "language": "eng",
+          "title": "Fear of the Lord"
+        },
+        "arb": {
+          "content_id": 702283,
+          "language": "arb",
+          "title": "مخافة الرب"
+        },
+        "hin": {
+          "content_id": 709448,
+          "language": "hin",
+          "title": "यहोवा का भय"
+        },
+        "por": {
+          "content_id": 800388,
+          "language": "por",
+          "title": "Temor do Senhor"
+        },
+        "swh": {
+          "content_id": 765076,
+          "language": "swh",
+          "title": "Hofu ya Bwana"
+        },
+        "zht": {
+          "content_id": 700282,
+          "language": "zht",
+          "title": "敬畏耶和華"
+        }
+      }
+    },
+    "708423": {
+      "content_id": 708423,
+      "reference_id": 203153,
+      "index_reference": "destruction complète",
+      "localizations": {
+        "eng": {
+          "content_id": 500210,
+          "language": "eng",
+          "title": "Complete Destruction"
+        },
+        "arb": {
+          "content_id": 702217,
+          "language": "arb",
+          "title": "التحريم الكامل"
+        },
+        "hin": {
+          "content_id": 709382,
+          "language": "hin",
+          "title": "सम्पूर्ण विनाश "
+        },
+        "ind": {
+          "content_id": 769420,
+          "language": "ind",
+          "title": "Pengrusakan Total"
+        },
+        "por": {
+          "content_id": 800322,
+          "language": "por",
+          "title": "Destruição completa"
+        },
+        "swh": {
+          "content_id": 765010,
+          "language": "swh",
+          "title": "Uharibifu Kamili"
+        },
+        "zht": {
+          "content_id": 700216,
+          "language": "zht",
+          "title": "毀滅淨盡"
+        }
+      }
+    },
+    "708417": {
+      "content_id": 708417,
+      "reference_id": 203127,
+      "index_reference": "dévouer par interdit",
+      "localizations": {
+        "eng": {
+          "content_id": 500184,
+          "language": "eng",
+          "title": "Complete Dedication"
+        },
+        "arb": {
+          "content_id": 702191,
+          "language": "arb",
+          "title": "التكريس الكامل"
+        },
+        "hin": {
+          "content_id": 709356,
+          "language": "hin",
+          "title": "सम्पूर्ण समर्पण "
+        },
+        "ind": {
+          "content_id": 769394,
+          "language": "ind",
+          "title": "Pengkhususan Total"
+        },
+        "por": {
+          "content_id": 800296,
+          "language": "por",
+          "title": "Dedicação completa"
+        },
+        "swh": {
+          "content_id": 764984,
+          "language": "swh",
+          "title": "Kujitolea Kikamilifu"
+        },
+        "zht": {
+          "content_id": 700190,
+          "language": "zht",
+          "title": "完全的獻上"
+        }
+      }
+    },
+    "734197": {
+      "content_id": 734197,
+      "reference_id": 203180,
+      "index_reference": "dieu en tant que guerrier saint",
+      "localizations": {
+        "eng": {
+          "content_id": 500237,
+          "language": "eng",
+          "title": "God as Holy Warrior"
+        },
+        "arb": {
+          "content_id": 702244,
+          "language": "arb",
+          "title": "ٱلله بصفته المحارب القدوس"
+        },
+        "hin": {
+          "content_id": 709409,
+          "language": "hin",
+          "title": "पवित्र योद्धा के रूप में परमेश्वर"
+        },
+        "por": {
+          "content_id": 800349,
+          "language": "por",
+          "title": "Deus, o guerreiro santo"
+        },
+        "swh": {
+          "content_id": 765037,
+          "language": "swh",
+          "title": "Mungu kama Shujaa Mtakatifu"
+        },
+        "zht": {
+          "content_id": 700243,
+          "language": "zht",
+          "title": "神是聖潔的勇士"
+        }
+      }
+    },
+    "734199": {
+      "content_id": 734199,
+      "reference_id": 203187,
+      "index_reference": "dieu et la prière",
+      "localizations": {
+        "eng": {
+          "content_id": 500244,
+          "language": "eng",
+          "title": "God Works through Prayer"
+        },
+        "arb": {
+          "content_id": 702251,
+          "language": "arb",
+          "title": "الله يعمل من خلال الصلاة"
+        },
+        "hin": {
+          "content_id": 709416,
+          "language": "hin",
+          "title": "परमेश्वर प्रार्थना के माध्यम से कार्य करते हैं"
+        },
+        "por": {
+          "content_id": 800356,
+          "language": "por",
+          "title": "Deus age através da oração"
+        },
+        "swh": {
+          "content_id": 765044,
+          "language": "swh",
+          "title": "Mungu Hufanya Kazi Kupitia Sala"
+        },
+        "zht": {
+          "content_id": 700250,
+          "language": "zht",
+          "title": "神通過禱告工作"
+        }
+      }
+    },
+    "734188": {
+      "content_id": 734188,
+      "reference_id": 203161,
+      "index_reference": "dieu ou satan ?",
+      "localizations": {
+        "eng": {
+          "content_id": 500218,
+          "language": "eng",
+          "title": "God or Satan?"
+        },
+        "arb": {
+          "content_id": 702225,
+          "language": "arb",
+          "title": "الله أم الشيطان؟"
+        },
+        "hin": {
+          "content_id": 709390,
+          "language": "hin",
+          "title": "परमेश्वर या शैतान?"
+        },
+        "por": {
+          "content_id": 800330,
+          "language": "por",
+          "title": "Deus ou Satanás?"
+        },
+        "swh": {
+          "content_id": 765018,
+          "language": "swh",
+          "title": "Mungu au Shetani?"
+        },
+        "zht": {
+          "content_id": 700224,
+          "language": "zht",
+          "title": "是神還是撒但？"
+        }
+      }
+    },
+    "734213": {
+      "content_id": 734213,
+      "reference_id": 203248,
+      "index_reference": "dieu protège son serviteur",
+      "localizations": {
+        "eng": {
+          "content_id": 500305,
+          "language": "eng",
+          "title": "God Protects His Servant"
+        },
+        "arb": {
+          "content_id": 702312,
+          "language": "arb",
+          "title": "الله يحمي خادمه"
+        },
+        "hin": {
+          "content_id": 709477,
+          "language": "hin",
+          "title": "परमेश्वर अपने सेवक की रक्षा करते हैं"
+        },
+        "por": {
+          "content_id": 800417,
+          "language": "por",
+          "title": "Deus protege o seu servo"
+        },
+        "swh": {
+          "content_id": 765105,
+          "language": "swh",
+          "title": "Mungu Analinda Mtumishi Wake"
+        },
+        "zht": {
+          "content_id": 700311,
+          "language": "zht",
+          "title": "神保護祂的僕人"
+        }
+      }
+    },
+    "734185": {
+      "content_id": 734185,
+      "reference_id": 203154,
+      "index_reference": "dieu se repent-il ?",
+      "localizations": {
+        "eng": {
+          "content_id": 500211,
+          "language": "eng",
+          "title": "God’s Change of Mind"
+        },
+        "arb": {
+          "content_id": 702218,
+          "language": "arb",
+          "title": "تغيير رأي ٱلله"
+        },
+        "hin": {
+          "content_id": 709383,
+          "language": "hin",
+          "title": "परमेश्वर के मन का बदलाव "
+        },
+        "por": {
+          "content_id": 800323,
+          "language": "por",
+          "title": "Mudança de ideia de Deus"
+        },
+        "swh": {
+          "content_id": 765011,
+          "language": "swh",
+          "title": "Mabadiliko ya Mawazo ya Mungu"
+        },
+        "zht": {
+          "content_id": 700217,
+          "language": "zht",
+          "title": "神改變心意"
+        }
+      }
+    },
+    "708459": {
+      "content_id": 708459,
+      "reference_id": 203370,
+      "index_reference": "dirigeants de l'église",
+      "localizations": {
+        "eng": {
+          "content_id": 500427,
+          "language": "eng",
+          "title": "Church Leaders"
+        },
+        "arb": {
+          "content_id": 702434,
+          "language": "arb",
+          "title": "قادة الكنيسة"
+        },
+        "hin": {
+          "content_id": 709599,
+          "language": "hin",
+          "title": "कलीसिया के अगुवें "
+        },
+        "por": {
+          "content_id": 800539,
+          "language": "por",
+          "title": "Líderes da Igreja"
+        },
+        "swh": {
+          "content_id": 765227,
+          "language": "swh",
+          "title": "Viongozi wa kanisa"
+        },
+        "zht": {
+          "content_id": 700433,
+          "language": "zht",
+          "title": "教會領袖"
+        }
+      }
+    },
+    "708432": {
+      "content_id": 708432,
+      "reference_id": 203197,
+      "index_reference": "donner et recevoir des conseils",
+      "localizations": {
+        "eng": {
+          "content_id": 500254,
+          "language": "eng",
+          "title": "Counsel from Others"
+        },
+        "arb": {
+          "content_id": 702261,
+          "language": "arb",
+          "title": "مشورة الآخرين"
+        },
+        "hin": {
+          "content_id": 709426,
+          "language": "hin",
+          "title": "दूसरों से सम्मति"
+        },
+        "por": {
+          "content_id": 800366,
+          "language": "por",
+          "title": "Conselho de outros"
+        },
+        "swh": {
+          "content_id": 765054,
+          "language": "swh",
+          "title": "Ushauri kutoka kwa Wengine"
+        },
+        "zht": {
+          "content_id": 700260,
+          "language": "zht",
+          "title": "來自他人的勸告"
+        }
+      }
+    },
+    "708444": {
+      "content_id": 708444,
+      "reference_id": 203284,
+      "index_reference": "être citoyen du royaume de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500341,
+          "language": "eng",
+          "title": "Citizenship in the Kingdom"
+        },
+        "arb": {
+          "content_id": 702348,
+          "language": "arb",
+          "title": "المواطنة في الملكوت"
+        },
+        "hin": {
+          "content_id": 709513,
+          "language": "hin",
+          "title": "राज्य में नागरिकता"
+        },
+        "por": {
+          "content_id": 800453,
+          "language": "por",
+          "title": "Cidadania no Reino"
+        },
+        "swh": {
+          "content_id": 765141,
+          "language": "swh",
+          "title": "Uraia katika Ufalme"
+        },
+        "zht": {
+          "content_id": 700347,
+          "language": "zht",
+          "title": "天國的國民身份"
+        }
+      }
+    },
+    "708414": {
+      "content_id": 708414,
+      "reference_id": 203124,
+      "index_reference": "expiation",
+      "localizations": {
+        "eng": {
+          "content_id": 500181,
+          "language": "eng",
+          "title": "Atonement"
+        },
+        "arb": {
+          "content_id": 702188,
+          "language": "arb",
+          "title": "الكفارة"
+        },
+        "hin": {
+          "content_id": 709353,
+          "language": "hin",
+          "title": "प्रायश्चित"
+        },
+        "por": {
+          "content_id": 800293,
+          "language": "por",
+          "title": "Expiação"
+        },
+        "swh": {
+          "content_id": 764981,
+          "language": "swh",
+          "title": "Upatanisho"
+        },
+        "zht": {
+          "content_id": 700187,
+          "language": "zht",
+          "title": "贖罪"
+        }
+      }
+    },
+    "708415": {
+      "content_id": 708415,
+      "reference_id": 203125,
+      "index_reference": "famille, communauté et péchés sexuels",
+      "localizations": {
+        "eng": {
+          "content_id": 500182,
+          "language": "eng",
+          "title": "Family, Community, and Sexual Sin"
+        },
+        "arb": {
+          "content_id": 702189,
+          "language": "arb",
+          "title": "العائلة والمجتمع والخطية الجنسية"
+        },
+        "hin": {
+          "content_id": 709354,
+          "language": "hin",
+          "title": "परिवार, समाज, और यौन पाप"
+        },
+        "por": {
+          "content_id": 800294,
+          "language": "por",
+          "title": "Família, comunidade e pecado sexual"
+        },
+        "swh": {
+          "content_id": 764982,
+          "language": "swh",
+          "title": "Familia, Jamii, na Dhambi ya Ngono"
+        },
+        "zht": {
+          "content_id": 700188,
+          "language": "zht",
+          "title": "家庭、群體與性方面的罪"
+        }
+      }
+    },
+    "734175": {
+      "content_id": 734175,
+      "reference_id": 203109,
+      "index_reference": "famine",
+      "localizations": {
+        "eng": {
+          "content_id": 500166,
+          "language": "eng",
+          "title": "Famine"
+        },
+        "arb": {
+          "content_id": 702173,
+          "language": "arb",
+          "title": "المجاعة"
+        },
+        "hin": {
+          "content_id": 709338,
+          "language": "hin",
+          "title": "अकाल"
+        },
+        "por": {
+          "content_id": 800278,
+          "language": "por",
+          "title": "Fome"
+        },
+        "swh": {
+          "content_id": 764966,
+          "language": "swh",
+          "title": "Njaa"
+        },
+        "zht": {
+          "content_id": 700172,
+          "language": "zht",
+          "title": "饑荒"
+        }
+      }
+    },
+    "708447": {
+      "content_id": 708447,
+      "reference_id": 203291,
+      "index_reference": "foi et bonnes œuvres",
+      "localizations": {
+        "eng": {
+          "content_id": 500348,
+          "language": "eng",
+          "title": "Faith and Good Deeds"
+        },
+        "arb": {
+          "content_id": 702355,
+          "language": "arb",
+          "title": "الإيمان والأعمال الصالحة"
+        },
+        "hin": {
+          "content_id": 709520,
+          "language": "hin",
+          "title": "विश्वास और अच्छे कर्म"
+        },
+        "ind": {
+          "content_id": 769558,
+          "language": "ind",
+          "title": "Iman dan Perbuatan Baik"
+        },
+        "por": {
+          "content_id": 800460,
+          "language": "por",
+          "title": "Fé e boas obras"
+        },
+        "swh": {
+          "content_id": 765148,
+          "language": "swh",
+          "title": "Imani na Matendo Mema"
+        },
+        "zht": {
+          "content_id": 700354,
+          "language": "zht",
+          "title": "信心與善行"
+        }
+      }
+    },
+    "708429": {
+      "content_id": 708429,
+      "reference_id": 203189,
+      "index_reference": "gérer les conflits",
+      "localizations": {
+        "eng": {
+          "content_id": 500246,
+          "language": "eng",
+          "title": "Dealing with Conflict"
+        },
+        "arb": {
+          "content_id": 702253,
+          "language": "arb",
+          "title": "التعامل مع النزاعات"
+        },
+        "hin": {
+          "content_id": 709418,
+          "language": "hin",
+          "title": "संघर्ष से निपटना"
+        },
+        "por": {
+          "content_id": 800358,
+          "language": "por",
+          "title": "Lidando com conflito"
+        },
+        "swh": {
+          "content_id": 765046,
+          "language": "swh",
+          "title": "Kushughulikia Migogoro"
+        },
+        "zht": {
+          "content_id": 700252,
+          "language": "zht",
+          "title": "處理衝突"
+        }
+      }
+    },
+    "708464": {
+      "content_id": 708464,
+      "reference_id": 203384,
+      "index_reference": "hérésies à l'époque de l'église primitive",
+      "localizations": {
+        "eng": {
+          "content_id": 500441,
+          "language": "eng",
+          "title": "Early Christian Heresies"
+        },
+        "arb": {
+          "content_id": 702448,
+          "language": "arb",
+          "title": "الهرطقات المسيحية المبكرة"
+        },
+        "hin": {
+          "content_id": 709613,
+          "language": "hin",
+          "title": "प्रारम्भिक मसीही विधर्म"
+        },
+        "por": {
+          "content_id": 800553,
+          "language": "por",
+          "title": "Heresias cristãs primitivas"
+        },
+        "swh": {
+          "content_id": 765241,
+          "language": "swh",
+          "title": "Uzushi wa Wakristo wa Mapema"
+        },
+        "zht": {
+          "content_id": 700447,
+          "language": "zht",
+          "title": "初期基督教的異端"
+        }
+      }
+    },
+    "734183": {
+      "content_id": 734183,
+      "reference_id": 203144,
+      "index_reference": "hériter le pays",
+      "localizations": {
+        "eng": {
+          "content_id": 500201,
+          "language": "eng",
+          "title": "Inheriting the Land"
+        },
+        "arb": {
+          "content_id": 702208,
+          "language": "arb",
+          "title": "ميراث الأرض"
+        },
+        "hin": {
+          "content_id": 709373,
+          "language": "hin",
+          "title": "भूमि पर उत्तराधिकार प्राप्त करना"
+        },
+        "por": {
+          "content_id": 800313,
+          "language": "por",
+          "title": "Herdando a terra"
+        },
+        "swh": {
+          "content_id": 765001,
+          "language": "swh",
+          "title": "Kurithi Ardhi"
+        },
+        "zht": {
+          "content_id": 700207,
+          "language": "zht",
+          "title": "承受地土"
+        }
+      }
+    },
+    "708412": {
+      "content_id": 708412,
+      "reference_id": 203119,
+      "index_reference": "identité communautaire",
+      "localizations": {
+        "eng": {
+          "content_id": 500176,
+          "language": "eng",
+          "title": "Community Identity"
+        },
+        "arb": {
+          "content_id": 702183,
+          "language": "arb",
+          "title": "الهوية المجتمعية"
+        },
+        "hin": {
+          "content_id": 709348,
+          "language": "hin",
+          "title": "समुदाय की पहचान"
+        },
+        "por": {
+          "content_id": 800288,
+          "language": "por",
+          "title": "Identidade da comunidade"
+        },
+        "swh": {
+          "content_id": 764976,
+          "language": "swh",
+          "title": "Utambulisho wa Jamii"
+        },
+        "zht": {
+          "content_id": 700182,
+          "language": "zht",
+          "title": "群體身分"
+        }
+      }
+    },
+    "734189": {
+      "content_id": 734189,
+      "reference_id": 203162,
+      "index_reference": "jérusalem",
+      "localizations": {
+        "eng": {
+          "content_id": 500219,
+          "language": "eng",
+          "title": "Jerusalem"
+        },
+        "arb": {
+          "content_id": 702226,
+          "language": "arb",
+          "title": "أورشليم"
+        },
+        "hin": {
+          "content_id": 709391,
+          "language": "hin",
+          "title": "यरूशलेम"
+        },
+        "por": {
+          "content_id": 800331,
+          "language": "por",
+          "title": "Jerusalém"
+        },
+        "swh": {
+          "content_id": 765019,
+          "language": "swh",
+          "title": "Yerusalemu"
+        },
+        "zht": {
+          "content_id": 700225,
+          "language": "zht",
+          "title": "耶路撒冷"
+        }
+      }
+    },
+    "734226": {
+      "content_id": 734226,
+      "reference_id": 203288,
+      "index_reference": "jésus et satan",
+      "localizations": {
+        "eng": {
+          "content_id": 500345,
+          "language": "eng",
+          "title": "Jesus and Satan"
+        },
+        "arb": {
+          "content_id": 702352,
+          "language": "arb",
+          "title": "يسوع والشيطان"
+        },
+        "hin": {
+          "content_id": 709517,
+          "language": "hin",
+          "title": "यीशु और शैतान"
+        },
+        "por": {
+          "content_id": 800457,
+          "language": "por",
+          "title": "Jesus e Satanás"
+        },
+        "swh": {
+          "content_id": 765145,
+          "language": "swh",
+          "title": "Yesu na Shetani"
+        },
+        "zht": {
+          "content_id": 700351,
+          "language": "zht",
+          "title": "耶穌與撒但"
+        }
+      }
+    },
+    "708439": {
+      "content_id": 708439,
+      "reference_id": 203232,
+      "index_reference": "la beauté de la nature",
+      "localizations": {
+        "eng": {
+          "content_id": 500289,
+          "language": "eng",
+          "title": "Beauty in Nature"
+        },
+        "arb": {
+          "content_id": 702296,
+          "language": "arb",
+          "title": "جمال الطبيعة"
+        },
+        "hin": {
+          "content_id": 709461,
+          "language": "hin",
+          "title": "प्रकृति में सुंदरता"
+        },
+        "por": {
+          "content_id": 800401,
+          "language": "por",
+          "title": "Beleza na natureza"
+        },
+        "swh": {
+          "content_id": 765089,
+          "language": "swh",
+          "title": "Uzuri katika Asili"
+        },
+        "zht": {
+          "content_id": 700295,
+          "language": "zht",
+          "title": "大自然之美"
+        }
+      }
+    },
+    "708407": {
+      "content_id": 708407,
+      "reference_id": 203103,
+      "index_reference": "la circoncision",
+      "localizations": {
+        "eng": {
+          "content_id": 500160,
+          "language": "eng",
+          "title": "Circumcision"
+        },
+        "arb": {
+          "content_id": 702167,
+          "language": "arb",
+          "title": "الختان"
+        },
+        "hin": {
+          "content_id": 709332,
+          "language": "hin",
+          "title": "खतना "
+        },
+        "por": {
+          "content_id": 800272,
+          "language": "por",
+          "title": "Circuncisão"
+        },
+        "swh": {
+          "content_id": 764960,
+          "language": "swh",
+          "title": "Tohara"
+        },
+        "zht": {
+          "content_id": 700166,
+          "language": "zht",
+          "title": "割禮"
+        }
+      }
+    },
+    "734203": {
+      "content_id": 734203,
+      "reference_id": 203212,
+      "index_reference": "la colère de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500269,
+          "language": "eng",
+          "title": "God’s Anger"
+        },
+        "arb": {
+          "content_id": 702276,
+          "language": "arb",
+          "title": "غضب الله"
+        },
+        "hin": {
+          "content_id": 709441,
+          "language": "hin",
+          "title": "परमेश्वर का क्रोध"
+        },
+        "por": {
+          "content_id": 800381,
+          "language": "por",
+          "title": "A ira de Deus"
+        },
+        "swh": {
+          "content_id": 765069,
+          "language": "swh",
+          "title": "Hasira ya Mungu"
+        },
+        "zht": {
+          "content_id": 700275,
+          "language": "zht",
+          "title": "神的忿怒"
+        }
+      }
+    },
+    "708446": {
+      "content_id": 708446,
+      "reference_id": 203287,
+      "index_reference": "la compassion de jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500344,
+          "language": "eng",
+          "title": "Compassionate Healer"
+        },
+        "arb": {
+          "content_id": 702351,
+          "language": "arb",
+          "title": "الشافي المتحنن"
+        },
+        "hin": {
+          "content_id": 709516,
+          "language": "hin",
+          "title": "करुणामय चंगा करनेवाला"
+        },
+        "ind": {
+          "content_id": 769554,
+          "language": "ind",
+          "title": "Penyembuh yang Penuh Belas Kasihan"
+        },
+        "por": {
+          "content_id": 800456,
+          "language": "por",
+          "title": "O compassivo curador"
+        },
+        "swh": {
+          "content_id": 765144,
+          "language": "swh",
+          "title": "Mponyaji Mwenye Huruma"
+        },
+        "zht": {
+          "content_id": 700350,
+          "language": "zht",
+          "title": "憐憫的醫治者"
+        }
+      }
+    },
+    "734228": {
+      "content_id": 734228,
+      "reference_id": 203299,
+      "index_reference": "la dernière nuit de jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500356,
+          "language": "eng",
+          "title": "Jesus’ Final Night"
+        },
+        "arb": {
+          "content_id": 702363,
+          "language": "arb",
+          "title": "الليلة الأخيرة ليسوع"
+        },
+        "hin": {
+          "content_id": 709528,
+          "language": "hin",
+          "title": "यीशु की अंतिम रात"
+        },
+        "por": {
+          "content_id": 800468,
+          "language": "por",
+          "title": "A noite final de Jesus"
+        },
+        "swh": {
+          "content_id": 765156,
+          "language": "swh",
+          "title": "Usiku wa Mwisho wa Yesu"
+        },
+        "zht": {
+          "content_id": 700362,
+          "language": "zht",
+          "title": "耶穌的最後一夜"
+        }
+      }
+    },
+    "708456": {
+      "content_id": 708456,
+      "reference_id": 203352,
+      "index_reference": "la dîme et les offrandes du chrétien",
+      "localizations": {
+        "eng": {
+          "content_id": 500409,
+          "language": "eng",
+          "title": "Christian Giving"
+        },
+        "arb": {
+          "content_id": 702416,
+          "language": "arb",
+          "title": "العطاء المسيحي"
+        },
+        "hin": {
+          "content_id": 709581,
+          "language": "hin",
+          "title": "मसीही दान"
+        },
+        "por": {
+          "content_id": 800521,
+          "language": "por",
+          "title": "Doação cristã"
+        },
+        "swh": {
+          "content_id": 765209,
+          "language": "swh",
+          "title": "Kutoa Kikristo"
+        },
+        "zht": {
+          "content_id": 700415,
+          "language": "zht",
+          "title": "基督徒的奉獻"
+        }
+      }
+    },
+    "734191": {
+      "content_id": 734191,
+      "reference_id": 203167,
+      "index_reference": "la fidélité de dieu envers son peuple",
+      "localizations": {
+        "eng": {
+          "content_id": 500224,
+          "language": "eng",
+          "title": "God’s Faithfulness to His People"
+        },
+        "arb": {
+          "content_id": 702231,
+          "language": "arb",
+          "title": "أمانة ٱلله تجاه شعبه"
+        },
+        "hin": {
+          "content_id": 709396,
+          "language": "hin",
+          "title": "अपने लोगों के प्रति परमेश्वर की विश्वासयोग्यता"
+        },
+        "por": {
+          "content_id": 800336,
+          "language": "por",
+          "title": "A fidelidade de Deus para com o seu povo"
+        },
+        "swh": {
+          "content_id": 765024,
+          "language": "swh",
+          "title": "Uaminifu wa Mungu kwa Watu Wake"
+        },
+        "zht": {
+          "content_id": 700230,
+          "language": "zht",
+          "title": "神對祂子民的信實"
+        }
+      }
+    },
+    "734217": {
+      "content_id": 734217,
+      "reference_id": 203264,
+      "index_reference": "la géographie symbolique d'israël dans la vision d'ézéchiel",
+      "localizations": {
+        "eng": {
+          "content_id": 500321,
+          "language": "eng",
+          "title": "Israel’s Geography as Theology"
+        },
+        "arb": {
+          "content_id": 702328,
+          "language": "arb",
+          "title": "لاهوت جغرافية إسرائيل"
+        },
+        "hin": {
+          "content_id": 709493,
+          "language": "hin",
+          "title": "धर्मशास्त्र के रूप में इस्राएल का भूगोल "
+        },
+        "por": {
+          "content_id": 800433,
+          "language": "por",
+          "title": "A geografia de Israel como teologia"
+        },
+        "swh": {
+          "content_id": 765121,
+          "language": "swh",
+          "title": "Jiografia ya Israeli kama Theolojia"
+        },
+        "zht": {
+          "content_id": 700327,
+          "language": "zht",
+          "title": "以色列地理中的神學意義"
+        }
+      }
+    },
+    "734215": {
+      "content_id": 734215,
+      "reference_id": 203255,
+      "index_reference": "la gloire de dieu parmi son peuple",
+      "localizations": {
+        "eng": {
+          "content_id": 500312,
+          "language": "eng",
+          "title": "God’s Glory with His People"
+        },
+        "arb": {
+          "content_id": 702319,
+          "language": "arb",
+          "title": "مجد الرب في وسط شعبه"
+        },
+        "hin": {
+          "content_id": 709484,
+          "language": "hin",
+          "title": "अपने लोगों के साथ परमेश्वर की महिमा"
+        },
+        "por": {
+          "content_id": 800424,
+          "language": "por",
+          "title": "A glória de Deus junto ao seu povo"
+        },
+        "swh": {
+          "content_id": 765112,
+          "language": "swh",
+          "title": "Utukufu wa Mungu na Watu Wake"
+        },
+        "zht": {
+          "content_id": 700318,
+          "language": "zht",
+          "title": "神的榮耀與祂的子民同在"
+        }
+      }
+    },
+    "734182": {
+      "content_id": 734182,
+      "reference_id": 203140,
+      "index_reference": "la guerre sainte",
+      "localizations": {
+        "eng": {
+          "content_id": 500197,
+          "language": "eng",
+          "title": "Holy War"
+        },
+        "arb": {
+          "content_id": 702204,
+          "language": "arb",
+          "title": "حرب مُقدَّسة"
+        },
+        "hin": {
+          "content_id": 709369,
+          "language": "hin",
+          "title": "पवित्र युद्ध"
+        },
+        "por": {
+          "content_id": 800309,
+          "language": "por",
+          "title": "Guerra santa"
+        },
+        "swh": {
+          "content_id": 764997,
+          "language": "swh",
+          "title": "Vita Takatifu"
+        },
+        "zht": {
+          "content_id": 700203,
+          "language": "zht",
+          "title": "聖戰"
+        }
+      }
+    },
+    "708457": {
+      "content_id": 708457,
+      "reference_id": 203361,
+      "index_reference": "la joie du chrétien",
+      "localizations": {
+        "eng": {
+          "content_id": 500418,
+          "language": "eng",
+          "title": "Christian Joy"
+        },
+        "arb": {
+          "content_id": 702425,
+          "language": "arb",
+          "title": "الفرح المسيحي"
+        },
+        "hin": {
+          "content_id": 709590,
+          "language": "hin",
+          "title": "मसीही आनन्द "
+        },
+        "por": {
+          "content_id": 800530,
+          "language": "por",
+          "title": "Alegria cristã"
+        },
+        "swh": {
+          "content_id": 765218,
+          "language": "swh",
+          "title": "Furaha ya Kikristo"
+        },
+        "zht": {
+          "content_id": 700424,
+          "language": "zht",
+          "title": "基督徒的喜樂"
+        }
+      }
+    },
+    "734209": {
+      "content_id": 734209,
+      "reference_id": 203239,
+      "index_reference": "la justice de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500296,
+          "language": "eng",
+          "title": "God’s Justice"
+        },
+        "arb": {
+          "content_id": 702303,
+          "language": "arb",
+          "title": "عدل الله"
+        },
+        "hin": {
+          "content_id": 709468,
+          "language": "hin",
+          "title": "परमेश्वर का न्याय"
+        },
+        "por": {
+          "content_id": 800408,
+          "language": "por",
+          "title": "Justiça de Deus"
+        },
+        "swh": {
+          "content_id": 765096,
+          "language": "swh",
+          "title": "Haki ya Mungu"
+        },
+        "zht": {
+          "content_id": 700302,
+          "language": "zht",
+          "title": "神的公義"
+        }
+      }
+    },
+    "708419": {
+      "content_id": 708419,
+      "reference_id": 203134,
+      "index_reference": "la loi biblique",
+      "localizations": {
+        "eng": {
+          "content_id": 500191,
+          "language": "eng",
+          "title": "Biblical Law"
+        },
+        "arb": {
+          "content_id": 702198,
+          "language": "arb",
+          "title": "الشريعة الكتابية"
+        },
+        "hin": {
+          "content_id": 709363,
+          "language": "hin",
+          "title": "बाइबल की व्यवस्था "
+        },
+        "por": {
+          "content_id": 800303,
+          "language": "por",
+          "title": "Lei bíblica"
+        },
+        "swh": {
+          "content_id": 764991,
+          "language": "swh",
+          "title": "Sheria ya Kibiblia"
+        },
+        "zht": {
+          "content_id": 700197,
+          "language": "zht",
+          "title": "聖經律法"
+        }
+      }
+    },
+    "734241": {
+      "content_id": 734241,
+      "reference_id": 203349,
+      "index_reference": "la nouvelle alliance",
+      "localizations": {
+        "eng": {
+          "content_id": 500406,
+          "language": "eng",
+          "title": "God’s New Covenant"
+        },
+        "arb": {
+          "content_id": 702413,
+          "language": "arb",
+          "title": "عهد الله الجديد"
+        },
+        "hin": {
+          "content_id": 709578,
+          "language": "hin",
+          "title": "परमेश्वर की नई वाचा"
+        },
+        "por": {
+          "content_id": 800518,
+          "language": "por",
+          "title": "Nova aliança de Deus"
+        },
+        "swh": {
+          "content_id": 765206,
+          "language": "swh",
+          "title": "Agano Jipya la Mungu"
+        },
+        "zht": {
+          "content_id": 700412,
+          "language": "zht",
+          "title": "神的新約"
+        }
+      }
+    },
+    "734207": {
+      "content_id": 734207,
+      "reference_id": 203227,
+      "index_reference": "la paresse et le bon travail",
+      "localizations": {
+        "eng": {
+          "content_id": 500284,
+          "language": "eng",
+          "title": "Laziness and Hard Work"
+        },
+        "arb": {
+          "content_id": 702291,
+          "language": "arb",
+          "title": "الكسل والعمل الجاد"
+        },
+        "hin": {
+          "content_id": 709456,
+          "language": "hin",
+          "title": "आलस्य और परिश्रम"
+        },
+        "por": {
+          "content_id": 800396,
+          "language": "por",
+          "title": "Preguiça e trabalho duro"
+        },
+        "swh": {
+          "content_id": 765084,
+          "language": "swh",
+          "title": "Uvivu na Kazi Ngumu"
+        },
+        "zht": {
+          "content_id": 700290,
+          "language": "zht",
+          "title": "懶惰與勤勞工作"
+        }
+      }
+    },
+    "734245": {
+      "content_id": 734245,
+      "reference_id": 203375,
+      "index_reference": "la parole de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500432,
+          "language": "eng",
+          "title": "God’s Word"
+        },
+        "arb": {
+          "content_id": 702439,
+          "language": "arb",
+          "title": "كلمة الله"
+        },
+        "hin": {
+          "content_id": 709604,
+          "language": "hin",
+          "title": "परमेश्वर का वचन"
+        },
+        "por": {
+          "content_id": 800544,
+          "language": "por",
+          "title": "Palavra de Deus"
+        },
+        "swh": {
+          "content_id": 765232,
+          "language": "swh",
+          "title": "Neno la Mungu"
+        },
+        "zht": {
+          "content_id": 700438,
+          "language": "zht",
+          "title": "神的話語"
+        }
+      }
+    },
+    "708461": {
+      "content_id": 708461,
+      "reference_id": 203377,
+      "index_reference": "la persévérance",
+      "localizations": {
+        "eng": {
+          "content_id": 500434,
+          "language": "eng",
+          "title": "Endurance"
+        },
+        "arb": {
+          "content_id": 702441,
+          "language": "arb",
+          "title": "الثبات"
+        },
+        "hin": {
+          "content_id": 709606,
+          "language": "hin",
+          "title": "धीरज"
+        },
+        "por": {
+          "content_id": 800546,
+          "language": "por",
+          "title": "Resistência"
+        },
+        "swh": {
+          "content_id": 765234,
+          "language": "swh",
+          "title": "Uvumulivu"
+        },
+        "zht": {
+          "content_id": 700440,
+          "language": "zht",
+          "title": "忍耐"
+        }
+      }
+    },
+    "734208": {
+      "content_id": 734208,
+      "reference_id": 203234,
+      "index_reference": "la peur des hommes",
+      "localizations": {
+        "eng": {
+          "content_id": 500291,
+          "language": "eng",
+          "title": "Fearing People"
+        },
+        "arb": {
+          "content_id": 702298,
+          "language": "arb",
+          "title": "الخوف من الناس"
+        },
+        "hin": {
+          "content_id": 709463,
+          "language": "hin",
+          "title": "मनुष्य का डर"
+        },
+        "por": {
+          "content_id": 800403,
+          "language": "por",
+          "title": "Temendo pessoas"
+        },
+        "swh": {
+          "content_id": 765091,
+          "language": "swh",
+          "title": "Kuogopa Watu"
+        },
+        "zht": {
+          "content_id": 700297,
+          "language": "zht",
+          "title": "懼怕人"
+        }
+      }
+    },
+    "734202": {
+      "content_id": 734202,
+      "reference_id": 203206,
+      "index_reference": "la présence de dieu dans les psaumes",
+      "localizations": {
+        "eng": {
+          "content_id": 500263,
+          "language": "eng",
+          "title": "God’s Presence in the Psalms"
+        },
+        "arb": {
+          "content_id": 702270,
+          "language": "arb",
+          "title": "حضور ٱلله في المزامير"
+        },
+        "hin": {
+          "content_id": 709435,
+          "language": "hin",
+          "title": "भजन संहिता में परमेश्वर की उपस्थिति"
+        },
+        "por": {
+          "content_id": 800375,
+          "language": "por",
+          "title": "A presença de Deus nos Salmos"
+        },
+        "swh": {
+          "content_id": 765063,
+          "language": "swh",
+          "title": "Uwepo wa Mungu katika Zaburi"
+        },
+        "zht": {
+          "content_id": 700269,
+          "language": "zht",
+          "title": "詩篇中的神同在"
+        }
+      }
+    },
+    "734200": {
+      "content_id": 734200,
+      "reference_id": 203195,
+      "index_reference": "la prospérité comme récompense",
+      "localizations": {
+        "eng": {
+          "content_id": 500252,
+          "language": "eng",
+          "title": "Material Reward"
+        },
+        "arb": {
+          "content_id": 702259,
+          "language": "arb",
+          "title": "المجازاة المادية"
+        },
+        "hin": {
+          "content_id": 709424,
+          "language": "hin",
+          "title": "भौतिक पुरस्कार"
+        },
+        "por": {
+          "content_id": 800364,
+          "language": "por",
+          "title": "Recompensa material"
+        },
+        "swh": {
+          "content_id": 765052,
+          "language": "swh",
+          "title": "Zawadi ya Vifaa"
+        },
+        "zht": {
+          "content_id": 700258,
+          "language": "zht",
+          "title": "物質上的賞賜"
+        }
+      }
+    },
+    "708421": {
+      "content_id": 708421,
+      "reference_id": 203142,
+      "index_reference": "la responsabilité collective : le péché d'acan",
+      "localizations": {
+        "eng": {
+          "content_id": 500199,
+          "language": "eng",
+          "title": "Community Responsibility: Achan’s Sin"
+        },
+        "arb": {
+          "content_id": 702206,
+          "language": "arb",
+          "title": "المسؤولية الجماعية: خطية عخان"
+        },
+        "hin": {
+          "content_id": 709371,
+          "language": "hin",
+          "title": "सामुदायिक ज़िम्मेदारी: आकान का पाप"
+        },
+        "por": {
+          "content_id": 800311,
+          "language": "por",
+          "title": "Responsabilidade da comunidade: O pecado de Acã"
+        },
+        "swh": {
+          "content_id": 764999,
+          "language": "swh",
+          "title": "Wajibu wa Jamii: Dhambi ya Akani"
+        },
+        "zht": {
+          "content_id": 700205,
+          "language": "zht",
+          "title": "群體責任：亞干的罪"
+        }
+      }
+    },
+    "734238": {
+      "content_id": 734238,
+      "reference_id": 203342,
+      "index_reference": "la sainteté et la pureté sexuelle",
+      "localizations": {
+        "eng": {
+          "content_id": 500399,
+          "language": "eng",
+          "title": "Holiness and Sexual Purity"
+        },
+        "arb": {
+          "content_id": 702406,
+          "language": "arb",
+          "title": "القداسة والنقاوة الجنسية"
+        },
+        "hin": {
+          "content_id": 709571,
+          "language": "hin",
+          "title": "पवित्रता और लैंगिक शुद्धता"
+        },
+        "por": {
+          "content_id": 800511,
+          "language": "por",
+          "title": "Santidade e pureza sexual"
+        },
+        "swh": {
+          "content_id": 765199,
+          "language": "swh",
+          "title": "Utakatifu na Usafi wa Kijinsia"
+        },
+        "zht": {
+          "content_id": 700405,
+          "language": "zht",
+          "title": "聖潔與性純潔"
+        }
+      }
+    },
+    "734179": {
+      "content_id": 734179,
+      "reference_id": 203121,
+      "index_reference": "la sainteté infinie de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500178,
+          "language": "eng",
+          "title": "God’s Absolute Holiness"
+        },
+        "arb": {
+          "content_id": 702185,
+          "language": "arb",
+          "title": "قداسة ٱلله المطلقة"
+        },
+        "hin": {
+          "content_id": 709350,
+          "language": "hin",
+          "title": "परमेश्वर की पूर्ण पवित्रता"
+        },
+        "por": {
+          "content_id": 800290,
+          "language": "por",
+          "title": "Santidade absoluta de Deus"
+        },
+        "swh": {
+          "content_id": 764978,
+          "language": "swh",
+          "title": "Utakatifu Kamili wa Mungu"
+        },
+        "zht": {
+          "content_id": 700184,
+          "language": "zht",
+          "title": "神絕對的聖潔"
+        }
+      }
+    },
+    "734180": {
+      "content_id": 734180,
+      "reference_id": 203123,
+      "index_reference": "la sainteté vient de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500180,
+          "language": "eng",
+          "title": "Holiness by Relationship"
+        },
+        "arb": {
+          "content_id": 702187,
+          "language": "arb",
+          "title": "القداسة بالعلاقة"
+        },
+        "hin": {
+          "content_id": 709352,
+          "language": "hin",
+          "title": "संबंध द्वारा पवित्रता"
+        },
+        "por": {
+          "content_id": 800292,
+          "language": "por",
+          "title": "Santidade por relacionamento"
+        },
+        "swh": {
+          "content_id": 764980,
+          "language": "swh",
+          "title": "Utakatifu kwa Uhusiano"
+        },
+        "zht": {
+          "content_id": 700186,
+          "language": "zht",
+          "title": "與神關係而來的聖潔"
+        }
+      }
+    },
+    "734170": {
+      "content_id": 734170,
+      "reference_id": 203095,
+      "index_reference": "la sexualité humaine",
+      "localizations": {
+        "eng": {
+          "content_id": 500152,
+          "language": "eng",
+          "title": "Human Sexuality"
+        },
+        "arb": {
+          "content_id": 702159,
+          "language": "arb",
+          "title": "الغَرِيزَة الجِنْسِيَّة للإنسان"
+        },
+        "hin": {
+          "content_id": 709324,
+          "language": "hin",
+          "title": "मानव लैंगिकता"
+        },
+        "por": {
+          "content_id": 800264,
+          "language": "por",
+          "title": "Sexualidade humana"
+        },
+        "swh": {
+          "content_id": 764952,
+          "language": "swh",
+          "title": "Ujinsia wa Binadamu"
+        },
+        "zht": {
+          "content_id": 700158,
+          "language": "zht",
+          "title": "人的性愛"
+        }
+      }
+    },
+    "734174": {
+      "content_id": 734174,
+      "reference_id": 203105,
+      "index_reference": "la stérilité (incapacité d'avoir des enfants)",
+      "localizations": {
+        "eng": {
+          "content_id": 500162,
+          "language": "eng",
+          "title": "Infertility"
+        },
+        "arb": {
+          "content_id": 702169,
+          "language": "arb",
+          "title": "العقم"
+        },
+        "hin": {
+          "content_id": 709334,
+          "language": "hin",
+          "title": "बाँझपन"
+        },
+        "por": {
+          "content_id": 800274,
+          "language": "por",
+          "title": "Infertilidade"
+        },
+        "swh": {
+          "content_id": 764962,
+          "language": "swh",
+          "title": "Ugumba"
+        },
+        "zht": {
+          "content_id": 700168,
+          "language": "zht",
+          "title": "不能生育"
+        }
+      }
+    },
+    "708428": {
+      "content_id": 708428,
+      "reference_id": 203185,
+      "index_reference": "l'achèvement du second temple",
+      "localizations": {
+        "eng": {
+          "content_id": 500242,
+          "language": "eng",
+          "title": "Completion of the Second Temple"
+        },
+        "arb": {
+          "content_id": 702249,
+          "language": "arb",
+          "title": "اكتمال الهيكل الثاني"
+        },
+        "hin": {
+          "content_id": 709414,
+          "language": "hin",
+          "title": "दूसरे मन्दिर का निर्माण पूर्ण होना"
+        },
+        "por": {
+          "content_id": 800354,
+          "language": "por",
+          "title": "Conclusão do Segundo Templo"
+        },
+        "swh": {
+          "content_id": 765042,
+          "language": "swh",
+          "title": "Kukamilika kwa Hekalu la Pili "
+        },
+        "zht": {
+          "content_id": 700248,
+          "language": "zht",
+          "title": "第二聖殿重建完成"
+        }
+      }
+    },
+    "734173": {
+      "content_id": 734173,
+      "reference_id": 203102,
+      "index_reference": "l'alliance de dieu avec abraham",
+      "localizations": {
+        "eng": {
+          "content_id": 500159,
+          "language": "eng",
+          "title": "God’s Covenant with Abraham"
+        },
+        "arb": {
+          "content_id": 702166,
+          "language": "arb",
+          "title": "عهد ٱلله مع إبراهيم"
+        },
+        "hin": {
+          "content_id": 709331,
+          "language": "hin",
+          "title": "अब्राहम के साथ परमेश्वर की वाचा"
+        },
+        "por": {
+          "content_id": 800271,
+          "language": "por",
+          "title": "A aliança de Deus com Abraão"
+        },
+        "swh": {
+          "content_id": 764959,
+          "language": "swh",
+          "title": "Agano la Mungu na Abrahamu"
+        },
+        "zht": {
+          "content_id": 700165,
+          "language": "zht",
+          "title": "神與亞伯拉罕所立的約"
+        }
+      }
+    },
+    "734187": {
+      "content_id": 734187,
+      "reference_id": 203160,
+      "index_reference": "l'alliance de dieu avec david",
+      "localizations": {
+        "eng": {
+          "content_id": 500217,
+          "language": "eng",
+          "title": "God’s Covenant with David"
+        },
+        "arb": {
+          "content_id": 702224,
+          "language": "arb",
+          "title": "عهد ٱلله مع داود"
+        },
+        "hin": {
+          "content_id": 709389,
+          "language": "hin",
+          "title": "दाऊद के साथ परमेश्वर की वाचा"
+        },
+        "por": {
+          "content_id": 800329,
+          "language": "por",
+          "title": "Aliança de Deus com Davi"
+        },
+        "swh": {
+          "content_id": 765017,
+          "language": "swh",
+          "title": "Agano la Mungu na Daudi"
+        },
+        "zht": {
+          "content_id": 700223,
+          "language": "zht",
+          "title": "神與大衛所立的約"
+        }
+      }
+    },
+    "734190": {
+      "content_id": 734190,
+      "reference_id": 203163,
+      "index_reference": "l'alliance de dieu avec les rois d'israël",
+      "localizations": {
+        "eng": {
+          "content_id": 500220,
+          "language": "eng",
+          "title": "God’s Covenant with Israel’s Kings"
+        },
+        "arb": {
+          "content_id": 702227,
+          "language": "arb",
+          "title": "عهد ٱلله مع ملوك إسرائيل"
+        },
+        "hin": {
+          "content_id": 709392,
+          "language": "hin",
+          "title": "इस्राएल के राजाओं के साथ परमेश्वर की वाचा"
+        },
+        "por": {
+          "content_id": 800332,
+          "language": "por",
+          "title": "A aliança de Deus com os reis de Israel"
+        },
+        "swh": {
+          "content_id": 765020,
+          "language": "swh",
+          "title": "Agano la Mungu na Wafalme wa Israeli"
+        },
+        "zht": {
+          "content_id": 700226,
+          "language": "zht",
+          "title": "神與以色列諸王所立的約"
+        }
+      }
+    },
+    "734181": {
+      "content_id": 734181,
+      "reference_id": 203139,
+      "index_reference": "l'amour de dieu dans le contexte de l'alliance",
+      "localizations": {
+        "eng": {
+          "content_id": 500196,
+          "language": "eng",
+          "title": "God’s Covenant Love"
+        },
+        "arb": {
+          "content_id": 702203,
+          "language": "arb",
+          "title": "محبة الله العهدية"
+        },
+        "hin": {
+          "content_id": 709368,
+          "language": "hin",
+          "title": "परमेश्वर का वाचा-प्रेम"
+        },
+        "por": {
+          "content_id": 800308,
+          "language": "por",
+          "title": "O amor pactual de Deus"
+        },
+        "swh": {
+          "content_id": 764996,
+          "language": "swh",
+          "title": "Upendo wa Agano la Mungu"
+        },
+        "zht": {
+          "content_id": 700202,
+          "language": "zht",
+          "title": "神立約的愛"
+        }
+      }
+    },
+    "734223": {
+      "content_id": 734223,
+      "reference_id": 203279,
+      "index_reference": "l'amour de dieu pour israël",
+      "localizations": {
+        "eng": {
+          "content_id": 500336,
+          "language": "eng",
+          "title": "God’s Love for Israel"
+        },
+        "arb": {
+          "content_id": 702343,
+          "language": "arb",
+          "title": "محبة ٱلله لإسرائيل"
+        },
+        "hin": {
+          "content_id": 709508,
+          "language": "hin",
+          "title": "इस्राएल के लिए परमेश्वर का प्रेम"
+        },
+        "por": {
+          "content_id": 800448,
+          "language": "por",
+          "title": "O amor de Deus por Israel"
+        },
+        "swh": {
+          "content_id": 765136,
+          "language": "swh",
+          "title": "Upendo wa Mungu kwa Israeli"
+        },
+        "zht": {
+          "content_id": 700342,
+          "language": "zht",
+          "title": "神對以色列的愛"
+        }
+      }
+    },
+    "734246": {
+      "content_id": 734246,
+      "reference_id": 203379,
+      "index_reference": "l'amour entre chrétiens",
+      "localizations": {
+        "eng": {
+          "content_id": 500436,
+          "language": "eng",
+          "title": "Love in the Community of Christ"
+        },
+        "arb": {
+          "content_id": 702443,
+          "language": "arb",
+          "title": "المحبة في مجتمع ٱلمسيح"
+        },
+        "hin": {
+          "content_id": 709608,
+          "language": "hin",
+          "title": "मसीह के समुदाय में प्रेम"
+        },
+        "por": {
+          "content_id": 800548,
+          "language": "por",
+          "title": "Amor na comunidade de Cristo"
+        },
+        "swh": {
+          "content_id": 765236,
+          "language": "swh",
+          "title": "Upendo katika Jamii ya Kristo"
+        },
+        "zht": {
+          "content_id": 700442,
+          "language": "zht",
+          "title": "在基督裡的群體中彼此相愛"
+        }
+      }
+    },
+    "734234": {
+      "content_id": 734234,
+      "reference_id": 203321,
+      "index_reference": "l'ascension de jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500378,
+          "language": "eng",
+          "title": "Jesus’ Ascension"
+        },
+        "arb": {
+          "content_id": 702385,
+          "language": "arb",
+          "title": "صعود الرب يسوع"
+        },
+        "hin": {
+          "content_id": 709550,
+          "language": "hin",
+          "title": "यीशु का स्वर्गारोहण"
+        },
+        "por": {
+          "content_id": 800490,
+          "language": "por",
+          "title": "Ascensão de Jesus"
+        },
+        "swh": {
+          "content_id": 765178,
+          "language": "swh",
+          "title": "Kupaa kwa Yesu"
+        },
+        "zht": {
+          "content_id": 700384,
+          "language": "zht",
+          "title": "耶穌的升天"
+        }
+      }
+    },
+    "734229": {
+      "content_id": 734229,
+      "reference_id": 203302,
+      "index_reference": "l'attente du messie",
+      "localizations": {
+        "eng": {
+          "content_id": 500359,
+          "language": "eng",
+          "title": "Hope for the Messiah"
+        },
+        "arb": {
+          "content_id": 702366,
+          "language": "arb",
+          "title": "الرجاء في المسيا"
+        },
+        "hin": {
+          "content_id": 709531,
+          "language": "hin",
+          "title": "मसीहा की आशा"
+        },
+        "por": {
+          "content_id": 800471,
+          "language": "por",
+          "title": "Esperança pelo Messias"
+        },
+        "swh": {
+          "content_id": 765159,
+          "language": "swh",
+          "title": "Tumaini kwa Masihi"
+        },
+        "zht": {
+          "content_id": 700365,
+          "language": "zht",
+          "title": "對彌賽亞的盼望"
+        }
+      }
+    },
+    "734184": {
+      "content_id": 734184,
+      "reference_id": 203147,
+      "index_reference": "le chagrin de dieu face à l'apostasie",
+      "localizations": {
+        "eng": {
+          "content_id": 500204,
+          "language": "eng",
+          "title": "God’s Grief over Apostasy"
+        },
+        "arb": {
+          "content_id": 702211,
+          "language": "arb",
+          "title": "حزن ٱلله على الردة"
+        },
+        "hin": {
+          "content_id": 709376,
+          "language": "hin",
+          "title": "धर्मत्याग पर परमेश्वर का शोक"
+        },
+        "por": {
+          "content_id": 800316,
+          "language": "por",
+          "title": "A tristeza de Deus sobre a apostasia"
+        },
+        "swh": {
+          "content_id": 765004,
+          "language": "swh",
+          "title": "Huzuni ya Mungu juu ya Uasi wa Imani"
+        },
+        "zht": {
+          "content_id": 700210,
+          "language": "zht",
+          "title": "神因人背道而憂傷"
+        }
+      }
+    },
+    "734212": {
+      "content_id": 734212,
+      "reference_id": 203247,
+      "index_reference": "le dieu qui est unique",
+      "localizations": {
+        "eng": {
+          "content_id": 500304,
+          "language": "eng",
+          "title": "God’s Uniqueness"
+        },
+        "arb": {
+          "content_id": 702311,
+          "language": "arb",
+          "title": "تفرّد ٱلله"
+        },
+        "hin": {
+          "content_id": 709476,
+          "language": "hin",
+          "title": "परमेश्वर की अद्वितीयता"
+        },
+        "por": {
+          "content_id": 800416,
+          "language": "por",
+          "title": "A singularidade de Deus"
+        },
+        "swh": {
+          "content_id": 765104,
+          "language": "swh",
+          "title": "Upekee wa Mungu"
+        },
+        "zht": {
+          "content_id": 700310,
+          "language": "zht",
+          "title": "神的獨一性"
+        }
+      }
+    },
+    "734192": {
+      "content_id": 734192,
+      "reference_id": 203171,
+      "index_reference": "le jugement de dieu sur son peuple",
+      "localizations": {
+        "eng": {
+          "content_id": 500228,
+          "language": "eng",
+          "title": "God’s Judgment of His People"
+        },
+        "arb": {
+          "content_id": 702235,
+          "language": "arb",
+          "title": "دينونة الله لشعبه"
+        },
+        "hin": {
+          "content_id": 709400,
+          "language": "hin",
+          "title": "परमेश्वर का अपने लोगों के प्रति न्याय"
+        },
+        "por": {
+          "content_id": 800340,
+          "language": "por",
+          "title": "Julgamento de Deus sobre seu povo"
+        },
+        "swh": {
+          "content_id": 765028,
+          "language": "swh",
+          "title": "Hukumu ya Mungu kwa Watu Wake"
+        },
+        "zht": {
+          "content_id": 700234,
+          "language": "zht",
+          "title": "神對祂百姓的審判"
+        }
+      }
+    },
+    "734243": {
+      "content_id": 734243,
+      "reference_id": 203363,
+      "index_reference": "le légalisme",
+      "localizations": {
+        "eng": {
+          "content_id": 500420,
+          "language": "eng",
+          "title": "Legalism"
+        },
+        "arb": {
+          "content_id": 702427,
+          "language": "arb",
+          "title": "الناموسية"
+        },
+        "hin": {
+          "content_id": 709592,
+          "language": "hin",
+          "title": "कानूनीवाद"
+        },
+        "por": {
+          "content_id": 800532,
+          "language": "por",
+          "title": "Legalismo"
+        },
+        "swh": {
+          "content_id": 765220,
+          "language": "swh",
+          "title": "Sheria Kali"
+        },
+        "zht": {
+          "content_id": 700426,
+          "language": "zht",
+          "title": "律法主義"
+        }
+      }
+    },
+    "734206": {
+      "content_id": 734206,
+      "reference_id": 203221,
+      "index_reference": "le mariage et la sexualité",
+      "localizations": {
+        "eng": {
+          "content_id": 500278,
+          "language": "eng",
+          "title": "Marriage and Sexuality"
+        },
+        "arb": {
+          "content_id": 702285,
+          "language": "arb",
+          "title": "الزواج والجنس"
+        },
+        "hin": {
+          "content_id": 709450,
+          "language": "hin",
+          "title": "विवाह और यौनसम्बन्ध "
+        },
+        "por": {
+          "content_id": 800390,
+          "language": "por",
+          "title": "Casamento e sexualidade"
+        },
+        "swh": {
+          "content_id": 765078,
+          "language": "swh",
+          "title": "Ndoa na Ngono"
+        },
+        "zht": {
+          "content_id": 700284,
+          "language": "zht",
+          "title": "婚姻和性"
+        }
+      }
+    },
+    "734194": {
+      "content_id": 734194,
+      "reference_id": 203176,
+      "index_reference": "le nom de dieu et son temple",
+      "localizations": {
+        "eng": {
+          "content_id": 500233,
+          "language": "eng",
+          "title": "God’s Name on His Temple"
+        },
+        "arb": {
+          "content_id": 702240,
+          "language": "arb",
+          "title": "اسم الله على هيكله"
+        },
+        "hin": {
+          "content_id": 709405,
+          "language": "hin",
+          "title": "परमेश्वर का नाम उनके मन्दिर पर"
+        },
+        "por": {
+          "content_id": 800345,
+          "language": "por",
+          "title": "Nome de Deus em seu templo"
+        },
+        "swh": {
+          "content_id": 765033,
+          "language": "swh",
+          "title": "Jina la Mungu kwenye Hekalu Lake"
+        },
+        "zht": {
+          "content_id": 700239,
+          "language": "zht",
+          "title": "神的名立於聖殿上"
+        }
+      }
+    },
+    "708418": {
+      "content_id": 708418,
+      "reference_id": 203129,
+      "index_reference": "le pain du ciel",
+      "localizations": {
+        "eng": {
+          "content_id": 500186,
+          "language": "eng",
+          "title": "Bread from Heaven"
+        },
+        "arb": {
+          "content_id": 702193,
+          "language": "arb",
+          "title": "خبز من السماء"
+        },
+        "hin": {
+          "content_id": 709358,
+          "language": "hin",
+          "title": "स्वर्ग से रोटी"
+        },
+        "por": {
+          "content_id": 800298,
+          "language": "por",
+          "title": "Pão do céu"
+        },
+        "swh": {
+          "content_id": 764986,
+          "language": "swh",
+          "title": "Mkate kutoka Mbinguni"
+        },
+        "zht": {
+          "content_id": 700192,
+          "language": "zht",
+          "title": "天上的糧食"
+        }
+      }
+    },
+    "734195": {
+      "content_id": 734195,
+      "reference_id": 203177,
+      "index_reference": "le plan de dieu pour rétablir son peuple",
+      "localizations": {
+        "eng": {
+          "content_id": 500234,
+          "language": "eng",
+          "title": "God’s Plan to Restore"
+        },
+        "arb": {
+          "content_id": 702241,
+          "language": "arb",
+          "title": "خطة ٱلله للاسترداد"
+        },
+        "hin": {
+          "content_id": 709406,
+          "language": "hin",
+          "title": "परमेश्वर की पुनःस्थापना की योजना"
+        },
+        "por": {
+          "content_id": 800346,
+          "language": "por",
+          "title": "Plano de Deus para restaurar"
+        },
+        "swh": {
+          "content_id": 765034,
+          "language": "swh",
+          "title": "Mpango wa Mungu wa Kurejesha"
+        },
+        "zht": {
+          "content_id": 700240,
+          "language": "zht",
+          "title": "神恢復的計劃"
+        }
+      }
+    },
+    "734236": {
+      "content_id": 734236,
+      "reference_id": 203336,
+      "index_reference": "le plan de salut de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500393,
+          "language": "eng",
+          "title": "God’s Unified Plan of Salvation"
+        },
+        "arb": {
+          "content_id": 702400,
+          "language": "arb",
+          "title": "خطة الله الموحدة للخلاص"
+        },
+        "hin": {
+          "content_id": 709565,
+          "language": "hin",
+          "title": "परमेश्वर की उद्धार की एकीकृत योजना"
+        },
+        "por": {
+          "content_id": 800505,
+          "language": "por",
+          "title": "Plano unificado de Salvação de Deus"
+        },
+        "swh": {
+          "content_id": 765193,
+          "language": "swh",
+          "title": "Mpango wa Wokovu wa Mungu Uliounganishwa"
+        },
+        "zht": {
+          "content_id": 700399,
+          "language": "zht",
+          "title": "神統一的救恩計劃"
+        }
+      }
+    },
+    "734220": {
+      "content_id": 734220,
+      "reference_id": 203272,
+      "index_reference": "le règne et la puissance de dieu sur toutes les nations",
+      "localizations": {
+        "eng": {
+          "content_id": 500329,
+          "language": "eng",
+          "title": "God's Rule and Power Over All Nations"
+        },
+        "arb": {
+          "content_id": 702336,
+          "language": "arb",
+          "title": "حكم ٱلله وسلطانه على جميع الأمم"
+        },
+        "hin": {
+          "content_id": 709501,
+          "language": "hin",
+          "title": "सभी राष्ट्रों पर परमेश्वर का शासन और सामर्थ्य"
+        },
+        "por": {
+          "content_id": 800441,
+          "language": "por",
+          "title": "O governo e poder de Deus sobre todas as nações"
+        },
+        "swh": {
+          "content_id": 765129,
+          "language": "swh",
+          "title": "Utawala na Nguvu ya Mungu Juu ya Mataifa Yote"
+        },
+        "zht": {
+          "content_id": 700335,
+          "language": "zht",
+          "title": "神對萬國的統治與權能"
+        }
+      }
+    },
+    "708458": {
+      "content_id": 708458,
+      "reference_id": 203365,
+      "index_reference": "le retour du seigneur",
+      "localizations": {
+        "eng": {
+          "content_id": 500422,
+          "language": "eng",
+          "title": "“He Will Come”"
+        },
+        "arb": {
+          "content_id": 702429,
+          "language": "arb",
+          "title": "\"سيأتي\""
+        },
+        "hin": {
+          "content_id": 709594,
+          "language": "hin",
+          "title": "\"वह आएगा\""
+        },
+        "por": {
+          "content_id": 800534,
+          "language": "por",
+          "title": "\"Ele Virá\""
+        },
+        "swh": {
+          "content_id": 765222,
+          "language": "swh",
+          "title": "\"Atakuja\""
+        },
+        "zht": {
+          "content_id": 700428,
+          "language": "zht",
+          "title": "「祂必再來」"
+        }
+      }
+    },
+    "734193": {
+      "content_id": 734193,
+      "reference_id": 203175,
+      "index_reference": "le royaume que dieu promet",
+      "localizations": {
+        "eng": {
+          "content_id": 500232,
+          "language": "eng",
+          "title": "God’s Promised Kingdom"
+        },
+        "arb": {
+          "content_id": 702239,
+          "language": "arb",
+          "title": "ملكوت الله الموعود"
+        },
+        "hin": {
+          "content_id": 709404,
+          "language": "hin",
+          "title": "परमेश्वर का वादा किया हुआ राज्य "
+        },
+        "por": {
+          "content_id": 800344,
+          "language": "por",
+          "title": "Reino prometido de Deus"
+        },
+        "swh": {
+          "content_id": 765032,
+          "language": "swh",
+          "title": "Ufalme wa ahadi ya Mungu"
+        },
+        "zht": {
+          "content_id": 700238,
+          "language": "zht",
+          "title": "神所應許的國度"
+        }
+      }
+    },
+    "734210": {
+      "content_id": 734210,
+      "reference_id": 203240,
+      "index_reference": "le serviteur de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500297,
+          "language": "eng",
+          "title": "God’s Servant"
+        },
+        "arb": {
+          "content_id": 702304,
+          "language": "arb",
+          "title": "عبد الرب"
+        },
+        "hin": {
+          "content_id": 709469,
+          "language": "hin",
+          "title": "परमेश्वर का दास (सेवक)"
+        },
+        "por": {
+          "content_id": 800409,
+          "language": "por",
+          "title": "Servo de Deus"
+        },
+        "swh": {
+          "content_id": 765097,
+          "language": "swh",
+          "title": "Mtumishi wa Mungu"
+        },
+        "zht": {
+          "content_id": 700303,
+          "language": "zht",
+          "title": "神的僕人"
+        }
+      }
+    },
+    "734231": {
+      "content_id": 734231,
+      "reference_id": 203312,
+      "index_reference": "l'eau vive",
+      "localizations": {
+        "eng": {
+          "content_id": 500369,
+          "language": "eng",
+          "title": "Living Water"
+        },
+        "arb": {
+          "content_id": 702376,
+          "language": "arb",
+          "title": "الماء الحي"
+        },
+        "hin": {
+          "content_id": 709541,
+          "language": "hin",
+          "title": "जीवन जल"
+        },
+        "por": {
+          "content_id": 800481,
+          "language": "por",
+          "title": "Água viva"
+        },
+        "swh": {
+          "content_id": 765169,
+          "language": "swh",
+          "title": "Maji ya Uzima"
+        },
+        "zht": {
+          "content_id": 700375,
+          "language": "zht",
+          "title": "活水"
+        }
+      }
+    },
+    "734177": {
+      "content_id": 734177,
+      "reference_id": 203111,
+      "index_reference": "l'endurcissement du cœur",
+      "localizations": {
+        "eng": {
+          "content_id": 500168,
+          "language": "eng",
+          "title": "Hardened Hearts"
+        },
+        "arb": {
+          "content_id": 702175,
+          "language": "arb",
+          "title": "القلوب المُتقسّية"
+        },
+        "hin": {
+          "content_id": 709340,
+          "language": "hin",
+          "title": "मन को हठीला करना"
+        },
+        "por": {
+          "content_id": 800280,
+          "language": "por",
+          "title": "Corações endurecidos"
+        },
+        "swh": {
+          "content_id": 764968,
+          "language": "swh",
+          "title": "Mioyo Migumu"
+        },
+        "zht": {
+          "content_id": 700174,
+          "language": "zht",
+          "title": "剛硬的心"
+        }
+      }
+    },
+    "734222": {
+      "content_id": 734222,
+      "reference_id": 203278,
+      "index_reference": "l'engagement de dieu envers son peuple",
+      "localizations": {
+        "eng": {
+          "content_id": 500335,
+          "language": "eng",
+          "title": "God’s Commitment to His People"
+        },
+        "arb": {
+          "content_id": 702342,
+          "language": "arb",
+          "title": "التزام ٱلله تجاه شعبه"
+        },
+        "hin": {
+          "content_id": 709507,
+          "language": "hin",
+          "title": "अपने लोगों के प्रति परमेश्वर की प्रतिबद्धता"
+        },
+        "por": {
+          "content_id": 800447,
+          "language": "por",
+          "title": "Compromisso de Deus com seu povo"
+        },
+        "swh": {
+          "content_id": 765135,
+          "language": "swh",
+          "title": "Ahadi ya Mungu kwa Watu Wake"
+        },
+        "zht": {
+          "content_id": 700341,
+          "language": "zht",
+          "title": "神對祂子民的應許"
+        }
+      }
+    },
+    "734172": {
+      "content_id": 734172,
+      "reference_id": 203101,
+      "index_reference": "les alliances de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500158,
+          "language": "eng",
+          "title": "God’s Covenants"
+        },
+        "arb": {
+          "content_id": 702165,
+          "language": "arb",
+          "title": "عهود الله"
+        },
+        "hin": {
+          "content_id": 709330,
+          "language": "hin",
+          "title": "परमेश्वर की वाचाएँ"
+        },
+        "por": {
+          "content_id": 800270,
+          "language": "por",
+          "title": "Alianças de Deus"
+        },
+        "swh": {
+          "content_id": 764958,
+          "language": "swh",
+          "title": "Agano za Mungu"
+        },
+        "zht": {
+          "content_id": 700164,
+          "language": "zht",
+          "title": "神的約"
+        }
+      }
+    },
+    "734224": {
+      "content_id": 734224,
+      "reference_id": 203281,
+      "index_reference": "les ancêtres de jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500338,
+          "language": "eng",
+          "title": "Ancestors of Jesus"
+        },
+        "arb": {
+          "content_id": 702345,
+          "language": "arb",
+          "title": "سلسلة نسب يسوع"
+        },
+        "hin": {
+          "content_id": 709510,
+          "language": "hin",
+          "title": "यीशु के पूर्वज"
+        },
+        "por": {
+          "content_id": 800450,
+          "language": "por",
+          "title": "Antepassados de Jesus"
+        },
+        "swh": {
+          "content_id": 765138,
+          "language": "swh",
+          "title": "Mababu wa ukoo wa  Yesu"
+        },
+        "zht": {
+          "content_id": 700344,
+          "language": "zht",
+          "title": "耶穌的祖先"
+        }
+      }
+    },
+    "708450": {
+      "content_id": 708450,
+      "reference_id": 203316,
+      "index_reference": "les déclarations « je suis » de jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500373,
+          "language": "eng",
+          "title": "“I Am” Sayings of Jesus"
+        },
+        "arb": {
+          "content_id": 702380,
+          "language": "arb",
+          "title": "\"أنا هو\" أقوال يسوع"
+        },
+        "hin": {
+          "content_id": 709545,
+          "language": "hin",
+          "title": "यीशु का कथन “मैं हूँ” "
+        },
+        "por": {
+          "content_id": 800485,
+          "language": "por",
+          "title": "Dizeres \"Eu Sou\" de Jesus"
+        },
+        "swh": {
+          "content_id": 765173,
+          "language": "swh",
+          "title": "\"Maneno ya \"Mimi Ndimi\" ya Yesu\""
+        },
+        "zht": {
+          "content_id": 700379,
+          "language": "zht",
+          "title": "耶穌的「我是」宣告"
+        }
+      }
+    },
+    "734196": {
+      "content_id": 734196,
+      "reference_id": 203178,
+      "index_reference": "les desseins impénétrables de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500235,
+          "language": "eng",
+          "title": "God’s Inscrutable Purposes in History"
+        },
+        "arb": {
+          "content_id": 702242,
+          "language": "arb",
+          "title": "مقاصد ٱلله الغامضة في التاريخ"
+        },
+        "hin": {
+          "content_id": 709407,
+          "language": "hin",
+          "title": "इतिहास में परमेश्वर की अगम्य योजनाएँ"
+        },
+        "por": {
+          "content_id": 800347,
+          "language": "por",
+          "title": "Os propósitos inescrutáveis de Deus na história"
+        },
+        "swh": {
+          "content_id": 765035,
+          "language": "swh",
+          "title": "Makusudi ya Mungu Yasiyochunguzika Katika Historia"
+        },
+        "zht": {
+          "content_id": 700241,
+          "language": "zht",
+          "title": "神在歷史中奧祕的旨意"
+        }
+      }
+    },
+    "708440": {
+      "content_id": 708440,
+      "reference_id": 203245,
+      "index_reference": "les deux plus grands commandements",
+      "localizations": {
+        "eng": {
+          "content_id": 500302,
+          "language": "eng",
+          "title": "Basic Laws"
+        },
+        "arb": {
+          "content_id": 702309,
+          "language": "arb",
+          "title": "الناموس الأساسيّ"
+        },
+        "hin": {
+          "content_id": 709474,
+          "language": "hin",
+          "title": "मूल नियम "
+        },
+        "por": {
+          "content_id": 800414,
+          "language": "por",
+          "title": "Leis básicas"
+        },
+        "swh": {
+          "content_id": 765102,
+          "language": "swh",
+          "title": "Sheria za Msingi"
+        },
+        "zht": {
+          "content_id": 700308,
+          "language": "zht",
+          "title": "基本律法"
+        }
+      }
+    },
+    "708443": {
+      "content_id": 708443,
+      "reference_id": 203261,
+      "index_reference": "les écrits apocalyptiques",
+      "localizations": {
+        "eng": {
+          "content_id": 500318,
+          "language": "eng",
+          "title": "Apocalyptic Literature"
+        },
+        "arb": {
+          "content_id": 702325,
+          "language": "arb",
+          "title": "الأدب الرؤيويّ الأخرويّ (أبوغلمسيس/ أبوكلبسيس)"
+        },
+        "hin": {
+          "content_id": 709490,
+          "language": "hin",
+          "title": "अंतकालीन साहित्य"
+        },
+        "ind": {
+          "content_id": 769528,
+          "language": "ind",
+          "title": "Literatur Apokaliptik"
+        },
+        "por": {
+          "content_id": 800430,
+          "language": "por",
+          "title": "Literatura apocalíptica"
+        },
+        "swh": {
+          "content_id": 765118,
+          "language": "swh",
+          "title": "Fasihi ya Apokaliptiki"
+        },
+        "zht": {
+          "content_id": 700324,
+          "language": "zht",
+          "title": "天啟文學"
+        }
+      }
+    },
+    "708463": {
+      "content_id": 708463,
+      "reference_id": 203383,
+      "index_reference": "les épreuves et le chrétien",
+      "localizations": {
+        "eng": {
+          "content_id": 500440,
+          "language": "eng",
+          "title": "Christian Suffering"
+        },
+        "arb": {
+          "content_id": 702447,
+          "language": "arb",
+          "title": "المعاناة المسيحية"
+        },
+        "hin": {
+          "content_id": 709612,
+          "language": "hin",
+          "title": "मसीही दुःख "
+        },
+        "por": {
+          "content_id": 800552,
+          "language": "por",
+          "title": "Sofrimento cristão"
+        },
+        "swh": {
+          "content_id": 765240,
+          "language": "swh",
+          "title": "Mateso ya Kikristo"
+        },
+        "zht": {
+          "content_id": 700446,
+          "language": "zht",
+          "title": "基督徒的苦難"
+        }
+      }
+    },
+    "708441": {
+      "content_id": 708441,
+      "reference_id": 203257,
+      "index_reference": "les faux prophètes",
+      "localizations": {
+        "eng": {
+          "content_id": 500314,
+          "language": "eng",
+          "title": "False Prophets"
+        },
+        "arb": {
+          "content_id": 702321,
+          "language": "arb",
+          "title": "الأنبياء الكذبة"
+        },
+        "hin": {
+          "content_id": 709486,
+          "language": "hin",
+          "title": "झूठे भविष्यद्वक्ता "
+        },
+        "por": {
+          "content_id": 800426,
+          "language": "por",
+          "title": "Falsos profetas"
+        },
+        "swh": {
+          "content_id": 765114,
+          "language": "swh",
+          "title": "Manabii wa Uongo"
+        },
+        "zht": {
+          "content_id": 700320,
+          "language": "zht",
+          "title": "假先知"
+        }
+      }
+    },
+    "734178": {
+      "content_id": 734178,
+      "reference_id": 203120,
+      "index_reference": "les instructions de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500177,
+          "language": "eng",
+          "title": "God’s Instructions"
+        },
+        "arb": {
+          "content_id": 702184,
+          "language": "arb",
+          "title": "شرائع ٱلله"
+        },
+        "hin": {
+          "content_id": 709349,
+          "language": "hin",
+          "title": "परमेश्वर के निर्देश"
+        },
+        "por": {
+          "content_id": 800289,
+          "language": "por",
+          "title": "Instruções de Deus"
+        },
+        "swh": {
+          "content_id": 764977,
+          "language": "swh",
+          "title": "Maagizo ya Mungu"
+        },
+        "zht": {
+          "content_id": 700183,
+          "language": "zht",
+          "title": "神的教導"
+        }
+      }
+    },
+    "734211": {
+      "content_id": 734211,
+      "reference_id": 203246,
+      "index_reference": "les invasions",
+      "localizations": {
+        "eng": {
+          "content_id": 500303,
+          "language": "eng",
+          "title": "Invasion"
+        },
+        "arb": {
+          "content_id": 702310,
+          "language": "arb",
+          "title": "غزو"
+        },
+        "hin": {
+          "content_id": 709475,
+          "language": "hin",
+          "title": "घुसपैठ"
+        },
+        "por": {
+          "content_id": 800415,
+          "language": "por",
+          "title": "Invasão"
+        },
+        "swh": {
+          "content_id": 765103,
+          "language": "swh",
+          "title": "Uvamizi"
+        },
+        "zht": {
+          "content_id": 700309,
+          "language": "zht",
+          "title": "入侵"
+        }
+      }
+    },
+    "734237": {
+      "content_id": 734237,
+      "reference_id": 203340,
+      "index_reference": "les juifs et les païens (les non-juifs)",
+      "localizations": {
+        "eng": {
+          "content_id": 500397,
+          "language": "eng",
+          "title": "Jews and Gentiles (Non-Jews)"
+        },
+        "arb": {
+          "content_id": 702404,
+          "language": "arb",
+          "title": "اليهود والأمم (غير اليهود)"
+        },
+        "hin": {
+          "content_id": 709569,
+          "language": "hin",
+          "title": "यहूदी और अन्यजाति (गैर-यहूदी)"
+        },
+        "por": {
+          "content_id": 800509,
+          "language": "por",
+          "title": "Judeus e gentios (Não-judeus)"
+        },
+        "swh": {
+          "content_id": 765197,
+          "language": "swh",
+          "title": "Wayahudi na Mataifa (Wasio Wayahudi)"
+        },
+        "zht": {
+          "content_id": 700403,
+          "language": "zht",
+          "title": "猶太人與外邦人（非猶太人）"
+        }
+      }
+    },
+    "734247": {
+      "content_id": 734247,
+      "reference_id": 203385,
+      "index_reference": "les lettres aux sept églises",
+      "localizations": {
+        "eng": {
+          "content_id": 500442,
+          "language": "eng",
+          "title": "Letters to the Seven Churches"
+        },
+        "arb": {
+          "content_id": 702449,
+          "language": "arb",
+          "title": "رسائل إلى الكنائس السبع"
+        },
+        "hin": {
+          "content_id": 709614,
+          "language": "hin",
+          "title": "सात कलीसियाओं को पत्र"
+        },
+        "por": {
+          "content_id": 800554,
+          "language": "por",
+          "title": "Cartas às sete igrejas"
+        },
+        "swh": {
+          "content_id": 765242,
+          "language": "swh",
+          "title": "Barua kwa Makanisa Saba"
+        },
+        "zht": {
+          "content_id": 700448,
+          "language": "zht",
+          "title": "給七個教會的書信"
+        }
+      }
+    },
+    "708420": {
+      "content_id": 708420,
+      "reference_id": 203138,
+      "index_reference": "les malédictions et bénédictions de la loi",
+      "localizations": {
+        "eng": {
+          "content_id": 500195,
+          "language": "eng",
+          "title": "Curses and Blessings"
+        },
+        "arb": {
+          "content_id": 702202,
+          "language": "arb",
+          "title": "اللعنات والبركات"
+        },
+        "hin": {
+          "content_id": 709367,
+          "language": "hin",
+          "title": "श्राप और आशीषें "
+        },
+        "ind": {
+          "content_id": 769405,
+          "language": "ind",
+          "title": "Kutuk dan Berkat"
+        },
+        "por": {
+          "content_id": 800307,
+          "language": "por",
+          "title": "Maldições e bênçãos"
+        },
+        "swh": {
+          "content_id": 764995,
+          "language": "swh",
+          "title": "Laana na Baraka"
+        },
+        "zht": {
+          "content_id": 700201,
+          "language": "zht",
+          "title": "詛咒和祝福"
+        }
+      }
+    },
+    "734198": {
+      "content_id": 734198,
+      "reference_id": 203186,
+      "index_reference": "les mariages mixtes et le divorce",
+      "localizations": {
+        "eng": {
+          "content_id": 500243,
+          "language": "eng",
+          "title": "Intermarriage and Divorce"
+        },
+        "arb": {
+          "content_id": 702250,
+          "language": "arb",
+          "title": "الطلاق والزاوج من غير المؤمنين"
+        },
+        "hin": {
+          "content_id": 709415,
+          "language": "hin",
+          "title": "अंतर्जातीय विवाह और तलाक"
+        },
+        "por": {
+          "content_id": 800355,
+          "language": "por",
+          "title": "Casamento inter-racial e divórcio"
+        },
+        "swh": {
+          "content_id": 765043,
+          "language": "swh",
+          "title": "Ndoa za mseto na Talaka"
+        },
+        "zht": {
+          "content_id": 700249,
+          "language": "zht",
+          "title": "通婚與休妻"
+        }
+      }
+    },
+    "708435": {
+      "content_id": 708435,
+      "reference_id": 203225,
+      "index_reference": "les présents pour influencer",
+      "localizations": {
+        "eng": {
+          "content_id": 500282,
+          "language": "eng",
+          "title": "Bribery and Gifts"
+        },
+        "arb": {
+          "content_id": 702289,
+          "language": "arb",
+          "title": "الرشوة والهدايا"
+        },
+        "hin": {
+          "content_id": 709454,
+          "language": "hin",
+          "title": "घूस और भेंट "
+        },
+        "por": {
+          "content_id": 800394,
+          "language": "por",
+          "title": "Suborno e presentes"
+        },
+        "swh": {
+          "content_id": 765082,
+          "language": "swh",
+          "title": "Rushwa na Zawadi"
+        },
+        "zht": {
+          "content_id": 700288,
+          "language": "zht",
+          "title": "賄賂和禮物"
+        }
+      }
+    },
+    "734230": {
+      "content_id": 734230,
+      "reference_id": 203304,
+      "index_reference": "les prières de jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500361,
+          "language": "eng",
+          "title": "Jesus’ Prayers"
+        },
+        "arb": {
+          "content_id": 702368,
+          "language": "arb",
+          "title": "صلوات يسوع"
+        },
+        "hin": {
+          "content_id": 709533,
+          "language": "hin",
+          "title": "यीशु की प्रार्थनाएँ"
+        },
+        "por": {
+          "content_id": 800473,
+          "language": "por",
+          "title": "Orações de Jesus"
+        },
+        "swh": {
+          "content_id": 765161,
+          "language": "swh",
+          "title": "Sala za Yesu"
+        },
+        "zht": {
+          "content_id": 700367,
+          "language": "zht",
+          "title": "耶穌的禱告"
+        }
+      }
+    },
+    "708445": {
+      "content_id": 708445,
+      "reference_id": 203286,
+      "index_reference": "les repas en commun",
+      "localizations": {
+        "eng": {
+          "content_id": 500343,
+          "language": "eng",
+          "title": "Eating Together"
+        },
+        "arb": {
+          "content_id": 702350,
+          "language": "arb",
+          "title": "تناول الطعام معًا"
+        },
+        "hin": {
+          "content_id": 709515,
+          "language": "hin",
+          "title": "सामूहिक भोज"
+        },
+        "ind": {
+          "content_id": 769553,
+          "language": "ind",
+          "title": "Makan Bersama"
+        },
+        "por": {
+          "content_id": 800455,
+          "language": "por",
+          "title": "Comendo juntos"
+        },
+        "rus": {
+          "content_id": 718836,
+          "language": "rus",
+          "title": "Совместные трапезы"
+        },
+        "swh": {
+          "content_id": 765143,
+          "language": "swh",
+          "title": "Kula Pamoja"
+        },
+        "zht": {
+          "content_id": 700349,
+          "language": "zht",
+          "title": "一同吃飯"
+        }
+      }
+    },
+    "708422": {
+      "content_id": 708422,
+      "reference_id": 203146,
+      "index_reference": "les serviteurs appelés par l'esprit",
+      "localizations": {
+        "eng": {
+          "content_id": 500203,
+          "language": "eng",
+          "title": "Charismatic Leadership"
+        },
+        "arb": {
+          "content_id": 702210,
+          "language": "arb",
+          "title": "القيادة بالروح القدس"
+        },
+        "hin": {
+          "content_id": 709375,
+          "language": "hin",
+          "title": "करिश्माई नेतृत्व"
+        },
+        "ind": {
+          "content_id": 769413,
+          "language": "ind",
+          "title": "Kepemimpinan Karismatik"
+        },
+        "por": {
+          "content_id": 800315,
+          "language": "por",
+          "title": "Liderança carismática"
+        },
+        "swh": {
+          "content_id": 765003,
+          "language": "swh",
+          "title": "Uongozi wenye Mvuto"
+        },
+        "zht": {
+          "content_id": 700209,
+          "language": "zht",
+          "title": "屬靈恩賜型領導"
+        }
+      }
+    },
+    "734214": {
+      "content_id": 734214,
+      "reference_id": 203252,
+      "index_reference": "l'espoir au-delà du jugement",
+      "localizations": {
+        "eng": {
+          "content_id": 500309,
+          "language": "eng",
+          "title": "Hope Beyond Judgment"
+        },
+        "arb": {
+          "content_id": 702316,
+          "language": "arb",
+          "title": "الرجاء بعد الدينونة"
+        },
+        "hin": {
+          "content_id": 709481,
+          "language": "hin",
+          "title": "न्याय से परे आशा"
+        },
+        "por": {
+          "content_id": 800421,
+          "language": "por",
+          "title": "Esperança além do julgamento"
+        },
+        "swh": {
+          "content_id": 765109,
+          "language": "swh",
+          "title": "Tumaini Zaidi ya Hukumu"
+        },
+        "zht": {
+          "content_id": 700315,
+          "language": "zht",
+          "title": "審判之後的盼望"
+        }
+      }
+    },
+    "734221": {
+      "content_id": 734221,
+      "reference_id": 203274,
+      "index_reference": "l'incompréhension humaine face aux desseins de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500331,
+          "language": "eng",
+          "title": "Human Confusion and God’s Purpose"
+        },
+        "arb": {
+          "content_id": 702338,
+          "language": "arb",
+          "title": "تحيّر الإنسان وقصد ٱلله"
+        },
+        "hin": {
+          "content_id": 709503,
+          "language": "hin",
+          "title": "मानवीय उलझन और परमेश्‍वर का उद्देश्य "
+        },
+        "por": {
+          "content_id": 800443,
+          "language": "por",
+          "title": "Confusão humana e o propósito de Deus"
+        },
+        "swh": {
+          "content_id": 765131,
+          "language": "swh",
+          "title": "Mkanganyiko wa Binadamu na Kusudi la Mungu"
+        },
+        "zht": {
+          "content_id": 700337,
+          "language": "zht",
+          "title": "人的困惑與神的旨意"
+        }
+      }
+    },
+    "734201": {
+      "content_id": 734201,
+      "reference_id": 203199,
+      "index_reference": "l'innocence de job",
+      "localizations": {
+        "eng": {
+          "content_id": 500256,
+          "language": "eng",
+          "title": "Job’s Innocence"
+        },
+        "arb": {
+          "content_id": 702263,
+          "language": "arb",
+          "title": "براءة أيّوب"
+        },
+        "hin": {
+          "content_id": 709428,
+          "language": "hin",
+          "title": "अय्यूब की निर्दोषता "
+        },
+        "por": {
+          "content_id": 800368,
+          "language": "por",
+          "title": "A inocência de Jó"
+        },
+        "swh": {
+          "content_id": 765056,
+          "language": "swh",
+          "title": "Kutokuwa na hatia kwa Ayubu"
+        },
+        "zht": {
+          "content_id": 700262,
+          "language": "zht",
+          "title": "約伯的無辜"
+        }
+      }
+    },
+    "708405": {
+      "content_id": 708405,
+      "reference_id": 203096,
+      "index_reference": "mariage biblique",
+      "localizations": {
+        "eng": {
+          "content_id": 500153,
+          "language": "eng",
+          "title": "Biblical Marriage"
+        },
+        "arb": {
+          "content_id": 702160,
+          "language": "arb",
+          "title": "الزواج الكتابي"
+        },
+        "hin": {
+          "content_id": 709325,
+          "language": "hin",
+          "title": "बाइबल आधारित विवाह"
+        },
+        "por": {
+          "content_id": 800265,
+          "language": "por",
+          "title": "Casamento bíblico"
+        },
+        "swh": {
+          "content_id": 764953,
+          "language": "swh",
+          "title": "Ndoa ya Kibiblia"
+        },
+        "zht": {
+          "content_id": 700159,
+          "language": "zht",
+          "title": "聖經中的婚姻"
+        }
+      }
+    },
+    "734216": {
+      "content_id": 734216,
+      "reference_id": 203259,
+      "index_reference": "messages contre les nations",
+      "localizations": {
+        "eng": {
+          "content_id": 500316,
+          "language": "eng",
+          "title": "Messages Against the Nations"
+        },
+        "arb": {
+          "content_id": 702323,
+          "language": "arb",
+          "title": "رسائل ضد الأمم"
+        },
+        "hin": {
+          "content_id": 709488,
+          "language": "hin",
+          "title": "जातियों के विरुद्ध सन्देश"
+        },
+        "por": {
+          "content_id": 800428,
+          "language": "por",
+          "title": "Mensagens contra as nações"
+        },
+        "swh": {
+          "content_id": 765116,
+          "language": "swh",
+          "title": "Ujumbe Dhidi ya Mataifa"
+        },
+        "zht": {
+          "content_id": 700322,
+          "language": "zht",
+          "title": "針對列國的信息"
+        }
+      }
+    },
+    "734235": {
+      "content_id": 734235,
+      "reference_id": 203327,
+      "index_reference": "miracles",
+      "localizations": {
+        "eng": {
+          "content_id": 500384,
+          "language": "eng",
+          "title": "Miracles"
+        },
+        "arb": {
+          "content_id": 702391,
+          "language": "arb",
+          "title": "المعجزات"
+        },
+        "hin": {
+          "content_id": 709556,
+          "language": "hin",
+          "title": "चमत्कार"
+        },
+        "por": {
+          "content_id": 800496,
+          "language": "por",
+          "title": "Milagres"
+        },
+        "swh": {
+          "content_id": 765184,
+          "language": "swh",
+          "title": "Miujiza"
+        },
+        "zht": {
+          "content_id": 700390,
+          "language": "zht",
+          "title": "神蹟"
+        }
+      }
+    },
+    "708410": {
+      "content_id": 708410,
+      "reference_id": 203107,
+      "index_reference": "mort",
+      "localizations": {
+        "eng": {
+          "content_id": 500164,
+          "language": "eng",
+          "title": "Death"
+        },
+        "arb": {
+          "content_id": 702171,
+          "language": "arb",
+          "title": "الموت"
+        },
+        "hin": {
+          "content_id": 709336,
+          "language": "hin",
+          "title": "मृत्यु"
+        },
+        "por": {
+          "content_id": 800276,
+          "language": "por",
+          "title": "Morte"
+        },
+        "swh": {
+          "content_id": 764964,
+          "language": "swh",
+          "title": "Kifo"
+        },
+        "zht": {
+          "content_id": 700170,
+          "language": "zht",
+          "title": "死亡"
+        }
+      }
+    },
+    "708462": {
+      "content_id": 708462,
+      "reference_id": 203378,
+      "index_reference": "par la foi",
+      "localizations": {
+        "eng": {
+          "content_id": 500435,
+          "language": "eng",
+          "title": "By Faith"
+        },
+        "arb": {
+          "content_id": 702442,
+          "language": "arb",
+          "title": "الإيمان"
+        },
+        "hin": {
+          "content_id": 709607,
+          "language": "hin",
+          "title": "विश्वास के द्वारा "
+        },
+        "por": {
+          "content_id": 800547,
+          "language": "por",
+          "title": "Pela fé"
+        },
+        "swh": {
+          "content_id": 765235,
+          "language": "swh",
+          "title": "Kwa Imani"
+        },
+        "zht": {
+          "content_id": 700441,
+          "language": "zht",
+          "title": "因著信"
+        }
+      }
+    },
+    "708436": {
+      "content_id": 708436,
+      "reference_id": 203226,
+      "index_reference": "parents et enfants",
+      "localizations": {
+        "eng": {
+          "content_id": 500283,
+          "language": "eng",
+          "title": "Children and Parents"
+        },
+        "arb": {
+          "content_id": 702290,
+          "language": "arb",
+          "title": "الآباء والأبناء"
+        },
+        "hin": {
+          "content_id": 709455,
+          "language": "hin",
+          "title": "बच्चे और माता-पिता"
+        },
+        "por": {
+          "content_id": 800395,
+          "language": "por",
+          "title": "Crianças e pais"
+        },
+        "swh": {
+          "content_id": 765083,
+          "language": "swh",
+          "title": "Watoto na Wazazi"
+        },
+        "zht": {
+          "content_id": 700289,
+          "language": "zht",
+          "title": "兒女和父母"
+        }
+      }
+    },
+    "734233": {
+      "content_id": 734233,
+      "reference_id": 203320,
+      "index_reference": "pêche en galilée",
+      "localizations": {
+        "eng": {
+          "content_id": 500377,
+          "language": "eng",
+          "title": "Fishing in Galilee"
+        },
+        "arb": {
+          "content_id": 702384,
+          "language": "arb",
+          "title": "الصيد في الجليل"
+        },
+        "hin": {
+          "content_id": 709549,
+          "language": "hin",
+          "title": "गलील में मछली पकड़ना"
+        },
+        "por": {
+          "content_id": 800489,
+          "language": "por",
+          "title": "Pescando na Galileia"
+        },
+        "swh": {
+          "content_id": 765177,
+          "language": "swh",
+          "title": "Uvuvi katika Galilaya"
+        },
+        "zht": {
+          "content_id": 700383,
+          "language": "zht",
+          "title": "加利利的打魚生活"
+        }
+      }
+    },
+    "734225": {
+      "content_id": 734225,
+      "reference_id": 203283,
+      "index_reference": "peu de foi",
+      "localizations": {
+        "eng": {
+          "content_id": 500340,
+          "language": "eng",
+          "title": "Little Faith"
+        },
+        "arb": {
+          "content_id": 702347,
+          "language": "arb",
+          "title": "إيمان قليل"
+        },
+        "hin": {
+          "content_id": 709512,
+          "language": "hin",
+          "title": "अल्प विश्वास"
+        },
+        "por": {
+          "content_id": 800452,
+          "language": "por",
+          "title": "Pouca fé"
+        },
+        "swh": {
+          "content_id": 765140,
+          "language": "swh",
+          "title": "Imani ndogo "
+        },
+        "zht": {
+          "content_id": 700346,
+          "language": "zht",
+          "title": "小信"
+        }
+      }
+    },
+    "708431": {
+      "content_id": 708431,
+      "reference_id": 203194,
+      "index_reference": "plaintes",
+      "localizations": {
+        "eng": {
+          "content_id": 500251,
+          "language": "eng",
+          "title": "Complaints"
+        },
+        "arb": {
+          "content_id": 702258,
+          "language": "arb",
+          "title": "شكاوى"
+        },
+        "hin": {
+          "content_id": 709423,
+          "language": "hin",
+          "title": "बुड़बुड़ाना"
+        },
+        "por": {
+          "content_id": 800363,
+          "language": "por",
+          "title": "Reclamações"
+        },
+        "swh": {
+          "content_id": 765051,
+          "language": "swh",
+          "title": "Malalamiko"
+        },
+        "zht": {
+          "content_id": 700257,
+          "language": "zht",
+          "title": "發怨言"
+        }
+      }
+    },
+    "734232": {
+      "content_id": 734232,
+      "reference_id": 203314,
+      "index_reference": "profil de jean en tant que disciple",
+      "localizations": {
+        "eng": {
+          "content_id": 500371,
+          "language": "eng",
+          "title": "John’s Profile of Discipleship"
+        },
+        "arb": {
+          "content_id": 702378,
+          "language": "arb",
+          "title": "ملامح/مفهوم التلمذة في إنجيل يوحنا"
+        },
+        "hin": {
+          "content_id": 709543,
+          "language": "hin",
+          "title": "यूहन्ना की शिष्यता का वर्णन"
+        },
+        "por": {
+          "content_id": 800483,
+          "language": "por",
+          "title": "Perfil de discipulado de João"
+        },
+        "swh": {
+          "content_id": 765171,
+          "language": "swh",
+          "title": "Wasifu wa Ufuasi wa Yohana"
+        },
+        "zht": {
+          "content_id": 700377,
+          "language": "zht",
+          "title": "約翰的門徒訓練簡介"
+        }
+      }
+    },
+    "708438": {
+      "content_id": 708438,
+      "reference_id": 203230,
+      "index_reference": "profiter des dons de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500287,
+          "language": "eng",
+          "title": "Enjoying God’s Gifts"
+        },
+        "arb": {
+          "content_id": 702294,
+          "language": "arb",
+          "title": "الاستمتاع بعطايا الله"
+        },
+        "hin": {
+          "content_id": 709459,
+          "language": "hin",
+          "title": "परमेश्वर के उपहारों का आनन्द लेना"
+        },
+        "por": {
+          "content_id": 800399,
+          "language": "por",
+          "title": "Apreciando os presentes de Deus"
+        },
+        "swh": {
+          "content_id": 765087,
+          "language": "swh",
+          "title": "Kufurahia Zawadi za Mungu"
+        },
+        "zht": {
+          "content_id": 700293,
+          "language": "zht",
+          "title": "享受神的恩賜"
+        }
+      }
+    },
+    "708413": {
+      "content_id": 708413,
+      "reference_id": 203122,
+      "index_reference": "pur, impur, et saint",
+      "localizations": {
+        "eng": {
+          "content_id": 500179,
+          "language": "eng",
+          "title": "Clean, Unclean, and Holy"
+        },
+        "arb": {
+          "content_id": 702186,
+          "language": "arb",
+          "title": "طاهر، نجس ، ومقدس"
+        },
+        "hin": {
+          "content_id": 709351,
+          "language": "hin",
+          "title": "शुद्ध, अशुद्ध और पवित्र "
+        },
+        "por": {
+          "content_id": 800291,
+          "language": "por",
+          "title": "Limpo, impuro e sagrado"
+        },
+        "swh": {
+          "content_id": 764979,
+          "language": "swh",
+          "title": "Safi, Najisi, na Mtakatifu"
+        },
+        "zht": {
+          "content_id": 700185,
+          "language": "zht",
+          "title": "潔淨、不潔淨與聖潔"
+        }
+      }
+    },
+    "756854": {
+      "content_id": 756854,
+      "reference_id": 203193,
+      "index_reference": "purim, pourim",
+      "localizations": {
+        "eng": {
+          "content_id": 500250,
+          "language": "eng",
+          "title": "Purim"
+        },
+        "arb": {
+          "content_id": 702257,
+          "language": "arb",
+          "title": "الفوريم"
+        },
+        "hin": {
+          "content_id": 709422,
+          "language": "hin",
+          "title": "पूरीम"
+        },
+        "por": {
+          "content_id": 800362,
+          "language": "por",
+          "title": "Purim"
+        },
+        "swh": {
+          "content_id": 765050,
+          "language": "swh",
+          "title": "Purimu"
+        },
+        "zht": {
+          "content_id": 700256,
+          "language": "zht",
+          "title": "普珥節"
+        }
+      }
+    },
+    "734218": {
+      "content_id": 734218,
+      "reference_id": 203265,
+      "index_reference": "quatre empires mondiaux",
+      "localizations": {
+        "eng": {
+          "content_id": 500322,
+          "language": "eng",
+          "title": "Four World Empires"
+        },
+        "arb": {
+          "content_id": 702329,
+          "language": "arb",
+          "title": "أربع إمبراطوريات عالمية "
+        },
+        "hin": {
+          "content_id": 709494,
+          "language": "hin",
+          "title": "चार विश्व साम्राज्य"
+        },
+        "por": {
+          "content_id": 800434,
+          "language": "por",
+          "title": "Quatro impérios mundiais"
+        },
+        "swh": {
+          "content_id": 765122,
+          "language": "swh",
+          "title": "Falme Nne za Dunia"
+        },
+        "zht": {
+          "content_id": 700328,
+          "language": "zht",
+          "title": "四個世界的帝國"
+        }
+      }
+    },
+    "734186": {
+      "content_id": 734186,
+      "reference_id": 203158,
+      "index_reference": "réaction de david à son roi injuste (saül)",
+      "localizations": {
+        "eng": {
+          "content_id": 500215,
+          "language": "eng",
+          "title": "David's Response to Unfriendly Leaders"
+        },
+        "arb": {
+          "content_id": 702222,
+          "language": "arb",
+          "title": "ردّ فِعْل داود تجاه القادة العدائيين"
+        },
+        "hin": {
+          "content_id": 709387,
+          "language": "hin",
+          "title": "प्रतिकूल अगुवों के प्रति दाऊद की प्रतिक्रिया"
+        },
+        "por": {
+          "content_id": 800327,
+          "language": "por",
+          "title": "Resposta de Davi a líderes hostis"
+        },
+        "swh": {
+          "content_id": 765015,
+          "language": "swh",
+          "title": "Jibu la Daudi kwa Viongozi Wasio na Urafiki"
+        },
+        "zht": {
+          "content_id": 700221,
+          "language": "zht",
+          "title": "大衛面對敵意領袖的回應"
+        }
+      }
+    },
+    "708425": {
+      "content_id": 708425,
+      "reference_id": 203157,
+      "index_reference": "religion cananéenne",
+      "localizations": {
+        "eng": {
+          "content_id": 500214,
+          "language": "eng",
+          "title": "Canaanite Religion"
+        },
+        "arb": {
+          "content_id": 702221,
+          "language": "arb",
+          "title": "الديانة الكنعانية"
+        },
+        "hin": {
+          "content_id": 709386,
+          "language": "hin",
+          "title": "कनानी धर्म"
+        },
+        "por": {
+          "content_id": 800326,
+          "language": "por",
+          "title": "Religião cananeia"
+        },
+        "swh": {
+          "content_id": 765014,
+          "language": "swh",
+          "title": "Dini ya Wakanaani"
+        },
+        "zht": {
+          "content_id": 700220,
+          "language": "zht",
+          "title": "迦南宗教"
+        }
+      }
+    },
+    "708448": {
+      "content_id": 708448,
+      "reference_id": 203297,
+      "index_reference": "rencontres avec jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500354,
+          "language": "eng",
+          "title": "Encounters with Jesus"
+        },
+        "arb": {
+          "content_id": 702361,
+          "language": "arb",
+          "title": "لقاءات مع يسوع"
+        },
+        "hin": {
+          "content_id": 709526,
+          "language": "hin",
+          "title": "यीशु से मुलाकात"
+        },
+        "por": {
+          "content_id": 800466,
+          "language": "por",
+          "title": "Encontros com Jesus"
+        },
+        "swh": {
+          "content_id": 765154,
+          "language": "swh",
+          "title": "Mikutano na Yesu"
+        },
+        "zht": {
+          "content_id": 700360,
+          "language": "zht",
+          "title": "與耶穌相遇"
+        }
+      }
+    },
+    "734239": {
+      "content_id": 734239,
+      "reference_id": 203344,
+      "index_reference": "renoncer à ses droits",
+      "localizations": {
+        "eng": {
+          "content_id": 500401,
+          "language": "eng",
+          "title": "Giving up Rights"
+        },
+        "arb": {
+          "content_id": 702408,
+          "language": "arb",
+          "title": "التنازل عن الحقوق"
+        },
+        "hin": {
+          "content_id": 709573,
+          "language": "hin",
+          "title": "अधिकारों का त्याग"
+        },
+        "por": {
+          "content_id": 800513,
+          "language": "por",
+          "title": "Renunciando aos direitos"
+        },
+        "swh": {
+          "content_id": 765201,
+          "language": "swh",
+          "title": "Kukataa Haki"
+        },
+        "zht": {
+          "content_id": 700407,
+          "language": "zht",
+          "title": "放棄權利"
+        }
+      }
+    },
+    "734244": {
+      "content_id": 734244,
+      "reference_id": 203374,
+      "index_reference": "repos du sabbat de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500431,
+          "language": "eng",
+          "title": "God’s Sabbath Rest"
+        },
+        "arb": {
+          "content_id": 702438,
+          "language": "arb",
+          "title": "راحة سبت ٱلله"
+        },
+        "hin": {
+          "content_id": 709603,
+          "language": "hin",
+          "title": "परमेश्वर के सब्त का विश्राम "
+        },
+        "por": {
+          "content_id": 800543,
+          "language": "por",
+          "title": "Descanso sabático de Deus"
+        },
+        "swh": {
+          "content_id": 765231,
+          "language": "swh",
+          "title": "Pumziko la sabato ya Mungu"
+        },
+        "zht": {
+          "content_id": 700437,
+          "language": "zht",
+          "title": "神的安息日之安息"
+        }
+      }
+    },
+    "708452": {
+      "content_id": 708452,
+      "reference_id": 203326,
+      "index_reference": "responsabiliser le ministère",
+      "localizations": {
+        "eng": {
+          "content_id": 500383,
+          "language": "eng",
+          "title": "Empowering Leadership"
+        },
+        "arb": {
+          "content_id": 702390,
+          "language": "arb",
+          "title": "تمكين القادة"
+        },
+        "hin": {
+          "content_id": 709555,
+          "language": "hin",
+          "title": "सशक्त नेतृत्व"
+        },
+        "por": {
+          "content_id": 800495,
+          "language": "por",
+          "title": "Liderança que capacita"
+        },
+        "swh": {
+          "content_id": 765183,
+          "language": "swh",
+          "title": "Uongozi Wa kuezesha Wengine"
+        },
+        "zht": {
+          "content_id": 700389,
+          "language": "zht",
+          "title": "使人得力的領導"
+        }
+      }
+    },
+    "708416": {
+      "content_id": 708416,
+      "reference_id": 203126,
+      "index_reference": "se soucier des pauvres",
+      "localizations": {
+        "eng": {
+          "content_id": 500183,
+          "language": "eng",
+          "title": "Concern for the Poor"
+        },
+        "arb": {
+          "content_id": 702190,
+          "language": "arb",
+          "title": "الاهتمام بالفقراء"
+        },
+        "hin": {
+          "content_id": 709355,
+          "language": "hin",
+          "title": "दीन की चिन्ता "
+        },
+        "por": {
+          "content_id": 800295,
+          "language": "por",
+          "title": "Preocupação com os pobres"
+        },
+        "swh": {
+          "content_id": 764983,
+          "language": "swh",
+          "title": "Wasiwasi kwa Maskini"
+        },
+        "zht": {
+          "content_id": 700189,
+          "language": "zht",
+          "title": "關心窮人"
+        }
+      }
+    },
+    "734176": {
+      "content_id": 734176,
+      "reference_id": 203110,
+      "index_reference": "souffrir quand on suit dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500167,
+          "language": "eng",
+          "title": "Suffering in Following God"
+        },
+        "arb": {
+          "content_id": 702174,
+          "language": "arb",
+          "title": "الصعوبات في تبعية ٱلله"
+        },
+        "hin": {
+          "content_id": 709339,
+          "language": "hin",
+          "title": "परमेश्‍वर का अनुसरण करते हुए कष्ट सहना "
+        },
+        "por": {
+          "content_id": 800279,
+          "language": "por",
+          "title": "Sofrendo ao seguir Deus"
+        },
+        "swh": {
+          "content_id": 764967,
+          "language": "swh",
+          "title": "Kuteseka katika Kumfuata Mungu"
+        },
+        "zht": {
+          "content_id": 700173,
+          "language": "zht",
+          "title": "跟隨神所帶來的苦難"
+        }
+      }
+    },
+    "708442": {
+      "content_id": 708442,
+      "reference_id": 203258,
+      "index_reference": "souveraineté divine et responsabilité humaine",
+      "localizations": {
+        "eng": {
+          "content_id": 500315,
+          "language": "eng",
+          "title": "Divine Sovereignty and Human Responsibility"
+        },
+        "arb": {
+          "content_id": 702322,
+          "language": "arb",
+          "title": "السيادة الإلهية والمسؤولية البشرية"
+        },
+        "hin": {
+          "content_id": 709487,
+          "language": "hin",
+          "title": "ईश्वरीय संप्रभुता और मनुष्य की जिम्मेदारी"
+        },
+        "por": {
+          "content_id": 800427,
+          "language": "por",
+          "title": "Soberania divina e responsabilidade humana"
+        },
+        "swh": {
+          "content_id": 765115,
+          "language": "swh",
+          "title": "Ukuu wa Kimungu na Wajibu wa Binadamu"
+        },
+        "zht": {
+          "content_id": 700321,
+          "language": "zht",
+          "title": "神的主權與人的責任"
+        }
+      }
+    },
+    "734227": {
+      "content_id": 734227,
+      "reference_id": 203296,
+      "index_reference": "suivre jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500353,
+          "language": "eng",
+          "title": "Following Jesus"
+        },
+        "arb": {
+          "content_id": 702360,
+          "language": "arb",
+          "title": "تبعية يسوع"
+        },
+        "hin": {
+          "content_id": 709525,
+          "language": "hin",
+          "title": "यीशु का अनुसरण करना"
+        },
+        "por": {
+          "content_id": 800465,
+          "language": "por",
+          "title": "Seguindo Jesus"
+        },
+        "swh": {
+          "content_id": 765153,
+          "language": "swh",
+          "title": "Kumfuata Yesu"
+        },
+        "zht": {
+          "content_id": 700359,
+          "language": "zht",
+          "title": "跟隨耶穌"
+        }
+      }
+    },
+    "708433": {
+      "content_id": 708433,
+      "reference_id": 203215,
+      "index_reference": "ténèbres et lumière",
+      "localizations": {
+        "eng": {
+          "content_id": 500272,
+          "language": "eng",
+          "title": "Darkness and Light"
+        },
+        "arb": {
+          "content_id": 702279,
+          "language": "arb",
+          "title": "الظلمة والنور"
+        },
+        "hin": {
+          "content_id": 709444,
+          "language": "hin",
+          "title": "अंधियारा और उजियाला"
+        },
+        "por": {
+          "content_id": 800384,
+          "language": "por",
+          "title": "Escuridão e luz"
+        },
+        "swh": {
+          "content_id": 765072,
+          "language": "swh",
+          "title": "Giza na Nuru"
+        },
+        "zht": {
+          "content_id": 700278,
+          "language": "zht",
+          "title": "黑暗和光"
+        }
+      }
+    },
+    "708437": {
+      "content_id": 708437,
+      "reference_id": 203229,
+      "index_reference": "tout est « vanité »",
+      "localizations": {
+        "eng": {
+          "content_id": 500286,
+          "language": "eng",
+          "title": "All Is “Vapor”"
+        },
+        "arb": {
+          "content_id": 702293,
+          "language": "arb",
+          "title": "الكل \"بخار\""
+        },
+        "hin": {
+          "content_id": 709458,
+          "language": "hin",
+          "title": "सब कुछ \"वाष्प\" है।"
+        },
+        "por": {
+          "content_id": 800398,
+          "language": "por",
+          "title": "Tudo é “Ilusão”"
+        },
+        "swh": {
+          "content_id": 765086,
+          "language": "swh",
+          "title": "Yote Ni \"Mvuke\""
+        },
+        "zht": {
+          "content_id": 700292,
+          "language": "zht",
+          "title": "一切都是「煙霧」"
+        }
+      }
+    },
+    "734242": {
+      "content_id": 734242,
+      "reference_id": 203359,
+      "index_reference": "vivre pour christ",
+      "localizations": {
+        "eng": {
+          "content_id": 500416,
+          "language": "eng",
+          "title": "Living for Christ"
+        },
+        "arb": {
+          "content_id": 702423,
+          "language": "arb",
+          "title": "العيش من أجل المسيح"
+        },
+        "hin": {
+          "content_id": 709588,
+          "language": "hin",
+          "title": "मसीह के लिए जीना"
+        },
+        "por": {
+          "content_id": 800528,
+          "language": "por",
+          "title": "Vivendo por Cristo"
+        },
+        "swh": {
+          "content_id": 765216,
+          "language": "swh",
+          "title": "Kuishi kwa Kristo"
+        },
+        "zht": {
+          "content_id": 700422,
+          "language": "zht",
+          "title": "為基督而活"
+        }
+      }
+    }
+  }
+}

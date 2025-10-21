@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 800418,
+    "reference_id": 203249,
+    "title": "O Senhor das nações",
+    "media_type": "Text",
+    "index_reference": "o senhor das nações",
+    "language": "por",
+    "content": "<p>Tanto o Antigo Testamento quanto o Novo Testamento afirmam que o Senhor é o único Deus verdadeiro. Deus é supremo sobre todas as nações e povos em todos os tempos. Mesmo que governantes não acreditem ou o reconheçam, Deus permanece no controle. Reis e imperadores podem pensar que controlam tudo em suas terras, mas estão enganados. O Senhor Deus está, em última instância, no comando.</p><p>Os profetas do Antigo Testamento afirmaram que o Senhor Deus de Israel escolhia os reis ou imperadores de cada nação. Deus responsabilizava os governantes pela moralidade de suas políticas e pela forma como as praticavam. Esta ideia é clara em <a href=\"https://ref.ly/Jer18:1-Jer18:23\">Jeremias 18</a>, <a href=\"https://ref.ly/Jer25:1-Jer25:38\">25</a> e <a href=\"https://ref.ly/Jer46:1-Jer51:64\">46–51</a>.</p><p>Nações que não reconheciam o único Deus verdadeiro enfrentariam um julgamento severo. Para algumas nações, Deus prometeu que um pequeno grupo (chamado de remanescente) sobreviveria (veja <a href=\"https://ref.ly/Jer46:1-Jer51:64\">Jeremias 46–51</a>).</p><p>O Senhor deseja que pessoas de todas as nações se voltem para Ele e o sigam com corações sinceros e dedicação completa. Ele sempre quis que todas as pessoas vivessem vidas justas e experimentassem a alegria de adorá-lo verdadeiramente. O livro de Apocalipse descreve pessoas de todas as nações, tribos e línguas adorando a Deus no futuro (<a href=\"https://ref.ly/Rev7:9-Rev7:10\">Apocalipse 7.9–10</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Exod8:20-Exod8:22\">Êxodo 8.20–22</a>; <a href=\"https://ref.ly/Exod9:29\">9.29</a>; <a href=\"https://ref.ly/2Kgs19:22-2Kgs19:37\">2 Reis 19.22–37</a>; <a href=\"https://ref.ly/Jer18:5-Jer18:11\">Jeremias 18.5–11</a>; <a href=\"https://ref.ly/Jer25:15-Jer25:29\">25.15–29</a>; <a href=\"https://ref.ly/Jer46:1-Jer51:64\">46.1–51.64</a>; <a href=\"https://ref.ly/Dan2:19-Dan2:21\">Daniel 2.19–21</a>; <a href=\"https://ref.ly/Dan4:34-Dan4:37\">4.34–37</a>; <a href=\"https://ref.ly/Hag2:7\">Ageu 2.7</a>; <a href=\"https://ref.ly/Matt28:18-Matt28:20\">Mateus 28.18–20</a>; <a href=\"https://ref.ly/Acts12:21-Acts12:23\">Atos 12.21–23</a>; <a href=\"https://ref.ly/Rom13:1-Rom13:7\">Romanos 13.1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02009029",
+          "start_ref_usfm": "EXO 9:29",
+          "end_ref": "02009029",
+          "end_ref_usfm": "EXO 9:29"
+        },
+        {
+          "start_ref": "37002007",
+          "start_ref_usfm": "HAG 2:7",
+          "end_ref": "37002007",
+          "end_ref_usfm": "HAG 2:7"
+        },
+        {
+          "start_ref": "44012021",
+          "start_ref_usfm": "ACT 12:21",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        },
+        {
+          "start_ref": "40028018",
+          "start_ref_usfm": "MAT 28:18",
+          "end_ref": "40028020",
+          "end_ref_usfm": "MAT 28:20"
+        },
+        {
+          "start_ref": "24046001",
+          "start_ref_usfm": "JER 46:1",
+          "end_ref": "24051064",
+          "end_ref_usfm": "JER 51:64"
+        },
+        {
+          "start_ref": "24018001",
+          "start_ref_usfm": "JER 18:1",
+          "end_ref": "24018023",
+          "end_ref_usfm": "JER 18:23"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        },
+        {
+          "start_ref": "27004034",
+          "start_ref_usfm": "DAN 4:34",
+          "end_ref": "27004037",
+          "end_ref_usfm": "DAN 4:37"
+        },
+        {
+          "start_ref": "24025001",
+          "start_ref_usfm": "JER 25:1",
+          "end_ref": "24025038",
+          "end_ref_usfm": "JER 25:38"
+        },
+        {
+          "start_ref": "66007009",
+          "start_ref_usfm": "REV 7:9",
+          "end_ref": "66007010",
+          "end_ref_usfm": "REV 7:10"
+        },
+        {
+          "start_ref": "02008020",
+          "start_ref_usfm": "EXO 8:20",
+          "end_ref": "02008022",
+          "end_ref_usfm": "EXO 8:22"
+        },
+        {
+          "start_ref": "12019022",
+          "start_ref_usfm": "2KI 19:22",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "24018005",
+          "start_ref_usfm": "JER 18:5",
+          "end_ref": "24018011",
+          "end_ref_usfm": "JER 18:11"
+        },
+        {
+          "start_ref": "24025015",
+          "start_ref_usfm": "JER 25:15",
+          "end_ref": "24025029",
+          "end_ref_usfm": "JER 25:29"
+        },
+        {
+          "start_ref": "27002019",
+          "start_ref_usfm": "DAN 2:19",
+          "end_ref": "27002021",
+          "end_ref_usfm": "DAN 2:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

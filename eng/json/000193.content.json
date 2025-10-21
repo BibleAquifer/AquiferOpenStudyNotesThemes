@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 500320,
+    "reference_id": 203263,
+    "title": "Temple Legislation as Theology",
+    "media_type": "Text",
+    "index_reference": "temple legislation as theology",
+    "language": "eng",
+    "content": "<p>The religious teachers of Judaism (called &quot;rabbis&quot;) spent much time trying to make the laws of <a href=\"https://ref.ly/Ezek44:1-Ezek48:35\">Ezekiel 44–48</a> agree with those laws of the Torah (the law given to Moses). They failed because these chapters do not intend to match the law of Moses. This is similar to how the vision of the temple building was not designed to look like the tabernacle or Solomon&apos;s Temple (<a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">Ezekiel 40–43</a>). The temple rules describe a theological message of change, similar to the earlier description of the temple&apos;s architecture.</p><p>These rules emphasized the need to separate the temple from the palace. Sacrificial ceremonies would increase and focus more on purification. Holy people would again make offerings to the holy God. These practices intended to separate the holy from the unholy and purify God&apos;s people. Pollution of the temple and idol worship had caused the Lord to leave (<a href=\"https://ref.ly/Ezek8:1-Ezek11:25\">Ezekiel 8–11</a>). </p><p>So, they needed a new situation for God to live among his people again. These rules intended to make the prophet&apos;s listeners aware of their past wrongs that confused what was holy and unholy. It also encouraged them that God would restore their worship to its proper condition.</p><p>These rules also put the prince, the king descended from King David, in a position of submission to the Lord. The arrival of Jesus fulfills this element. Jesus came as a servant king who was happy to do what the Father wanted (<a href=\"https://ref.ly/Matt4:1-Matt4:11\">Matthew 4:1–11</a>; <a href=\"https://ref.ly/Matt20:25-Matt20:28\">20:25–28</a>). He offered the perfect sacrifice that cleanses sin, purified the heavenly sanctuary once for all time, and ensured that God could live among his people forever (<a href=\"https://ref.ly/Heb9:11-Heb9:12\">Hebrews 9:11–12</a>, <a href=\"https://ref.ly/Heb9:23\">23</a>). His blood cleanses us from all sin. It allows sinners to confidently enter most holy place of heaven without fear of rejection or punishment.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Isa56:7\">Isaiah 56:7</a>; <a href=\"https://ref.ly/Ezek8:1-Ezek11:25\">Ezekiel 8:1–11:25</a>; <a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">40:1–43:27</a>; <a href=\"https://ref.ly/Ezek44:1-Ezek46:18\">44:1–46:18</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23056007",
+          "start_ref_usfm": "ISA 56:7",
+          "end_ref": "23056007",
+          "end_ref_usfm": "ISA 56:7"
+        },
+        {
+          "start_ref": "58009023",
+          "start_ref_usfm": "HEB 9:23",
+          "end_ref": "58009023",
+          "end_ref_usfm": "HEB 9:23"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "26008001",
+          "start_ref_usfm": "EZK 8:1",
+          "end_ref": "26011025",
+          "end_ref_usfm": "EZK 11:25"
+        },
+        {
+          "start_ref": "40020025",
+          "start_ref_usfm": "MAT 20:25",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26043027",
+          "end_ref_usfm": "EZK 43:27"
+        },
+        {
+          "start_ref": "26044001",
+          "start_ref_usfm": "EZK 44:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "58009011",
+          "start_ref_usfm": "HEB 9:11",
+          "end_ref": "58009012",
+          "end_ref_usfm": "HEB 9:12"
+        },
+        {
+          "start_ref": "26044001",
+          "start_ref_usfm": "EZK 44:1",
+          "end_ref": "26046018",
+          "end_ref_usfm": "EZK 46:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

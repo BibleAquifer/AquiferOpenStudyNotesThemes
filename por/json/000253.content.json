@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 800326,
+    "reference_id": 203157,
+    "title": "Religião cananeia",
+    "media_type": "Text",
+    "index_reference": "religião cananeia",
+    "language": "por",
+    "content": "<p>Os cananeus explicavam a criação ou a natureza em relação aos seus deuses. Cada deus representava uma força natural. Eles consideravam a lua, o sol, as estrelas importantes e os planetas visíveis como deuses ou deusas.</p><p>Os deuses cananeus tinham dois aspectos notáveis:</p><ol><li><p>As personalidades deles podiam mudar.</p></li><li><p>Os nomes deles estavam relacionados aos seus papéis.</p></li></ol><p>Alguns desses deuses tiveram grande influência nas interações dos israelitas com o povo cananeu:</p><ol><li><p><em>El</em> significa &quot;o poderoso&quot;. Ele era o líder dos deuses cananeus. El vivia longe de Canaã, &quot;na fonte dos dois rios&quot; (isso pode se referir ao jardim do Éden). Ele liderava um conselho de deuses que eram seus filhos. No Antigo Testamento, <em>El</em> (plural <em>Elohim</em>) refere-se a Deus, mas o Deus israelita não é o mesmo que o deus cananeu.</p></li><li><p><em>Baal</em> significa &quot;Senhor.&quot; Ele era o grande deus da tempestade e o rei dos deuses. Embora El fosse o líder, Baal tinha mais poder ativo como segundo em comando de El. Ele proporcionava toda a fertilidade. Quando Baal morreu, as plantas pararam de crescer e os animais deixaram de se reproduzir. Ele era o deus da justiça e causava medo àqueles que faziam o mal.</p></li><li><p><em>Dagom</em> significa &quot;peixe&quot; ou &quot;grão&quot;. Ele é às vezes chamado de pai de <em>Baal</em>. <em>Dagom</em> era o principal deus da cidade filisteia de Asdode (<a href=\"https://ref.ly/1Sam5:1-1Sam5:7\">1 Samuel 5.1–7</a>).</p></li><li><p><em>Astarote</em>, <em>Anate</em> e <em>Aserá</em> eram as três principais deusas no panteão de deuses cananeus. Elas se concentravam principalmente em sexo e guerra. Seu papel principal era ter relações sexuais anuais com <em>Baal</em>. Isso mantinha a força de <em>Baal</em> e garantia a fertilidade da terra.</p></li></ol><p>Os cananeus acreditavam que as forças da natureza eram como pessoas. Esses deuses controlavam as mudanças das estações. De abril a outubro, eles viam o período seco como a morte de <em>Baal</em> após perder uma batalha a cada primavera. As chuvas de outono marcavam o renascimento de <em>Baal</em> como o deus da chuva e das plantas, durando até o próximo abril. Eles pensavam que a terra se tornava fértil novamente por causa do acasalamento anual de <em>Baal</em> com sua parceira feminina. Suas atividades religiosas incluíam imitar as ações de seus deuses.</p><p>Os cananeus adoravam coisas que acreditavam trazer benefícios materiais. Se isso agradava aos deuses e deusas, eles proporcionariam uma boa colheita. Se um deus ficasse zangado, o povo poderia oferecer sacrifícios de animais ou humanos para acalmar o deus (veja <a href=\"https://ref.ly/2Kgs3:26-2Kgs3:27\">2 Reis 3.26–27</a>). A adoração cananeia era baseada no medo e na tentativa de influenciar ou pacificar os deuses.</p><p>O contato entre as diversas religiões do antigo Oriente Próximo gerou problemas sociais e resultou no empréstimo de práticas religiosas. Os arameus e filisteus que se estabeleceram em Canaã adotaram práticas cananeias. De forma semelhante, os amoritas incorporaram práticas religiosas sumérias ao se mudarem para a Mesopotâmia.</p><p>Em contraste, o Deus de Israel, Yahweh, exigia lealdade completa. Sua adoração era baseada na fé, não no medo. Infelizmente, os israelitas não mantiveram sua crença em um único Deus (monoteísmo). Eles adotaram ideias e práticas pagãs, adorando os deuses cananeus à sua maneira. Sua cultura tornou-se corrompida e irritou Deus. Como resultado, Deus os julgou e os enviou para o exílio (veja <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2 Reis 17.5–23</a>; <a href=\"https://ref.ly/2Kgs24:18-2Kgs25:21\">24.18–25.21</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Sam5:1-1Sam5:12\">1 Samuel 5.1–12.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09005001",
+          "start_ref_usfm": "1SA 5:1",
+          "end_ref": "09005012",
+          "end_ref_usfm": "1SA 5:12"
+        },
+        {
+          "start_ref": "09005001",
+          "start_ref_usfm": "1SA 5:1",
+          "end_ref": "09005007",
+          "end_ref_usfm": "1SA 5:7"
+        },
+        {
+          "start_ref": "12024018",
+          "start_ref_usfm": "2KI 24:18",
+          "end_ref": "12025021",
+          "end_ref_usfm": "2KI 25:21"
+        },
+        {
+          "start_ref": "12017005",
+          "start_ref_usfm": "2KI 17:5",
+          "end_ref": "12017023",
+          "end_ref_usfm": "2KI 17:23"
+        },
+        {
+          "start_ref": "12003026",
+          "start_ref_usfm": "2KI 3:26",
+          "end_ref": "12003027",
+          "end_ref_usfm": "2KI 3:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

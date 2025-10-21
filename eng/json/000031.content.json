@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 500418,
+    "reference_id": 203361,
+    "title": "Christian Joy",
+    "media_type": "Text",
+    "index_reference": "christian joy",
+    "language": "eng",
+    "content": "<p>In the final hours of his life, Jesus wanted his disciples filled with his joy (see <a href=\"https://ref.ly/John15:11\">John 15:11</a>; <a href=\"https://ref.ly/John16:20-John16:24\">16:20–24</a>). Joy is a common topic in many of the apostle Paul&apos;s letters and is a key theme in Philippians. Paul often encourages Christians to be joyful, especially those facing persecution, like the Christians in Philippi and Thessalonica (<a href=\"https://ref.ly/Phil3:1\">Philippians 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 Thessalonians 5:16</a>).</p><p>Surface-level happiness depends on what is happening around you. Christian joy is different. It comes from a person&apos;s relationship with the Lord. It remains strong even during suffering and death. Joy comes from knowing that whatever happens, God will use everything for a Christian&apos;s ultimate good (see <a href=\"https://ref.ly/Rom5:3-Rom5:4\">Romans 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>). </p><p>Christians also find joy in the active presence of God&apos;s Spirit in their hearts (see <a href=\"https://ref.ly/Gal5:22\">Galatians 5:22</a>). The real secret to a joyful life is &quot;to be filled with the Holy Spirit&quot; (see <a href=\"https://ref.ly/Eph5:18\">Ephesians 5:18</a>). A relationship with the living God forms Christians&apos; attitudes, not external circumstances.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/John15:11\">John 15:11</a>; <a href=\"https://ref.ly/John16:24\">16:24</a>; <a href=\"https://ref.ly/Rom5:3-Rom5:4\">Romans 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>; <a href=\"https://ref.ly/Gal5:22\">Galatians 5:22</a>; <a href=\"https://ref.ly/Eph5:18\">Ephesians 5:18</a>; <a href=\"https://ref.ly/Phil3:1\">Philippians 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 Thessalonians 5:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43015011",
+          "start_ref_usfm": "JHN 15:11",
+          "end_ref": "43015011",
+          "end_ref_usfm": "JHN 15:11"
+        },
+        {
+          "start_ref": "43016024",
+          "start_ref_usfm": "JHN 16:24",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "48005022",
+          "start_ref_usfm": "GAL 5:22",
+          "end_ref": "48005022",
+          "end_ref_usfm": "GAL 5:22"
+        },
+        {
+          "start_ref": "49005018",
+          "start_ref_usfm": "EPH 5:18",
+          "end_ref": "49005018",
+          "end_ref_usfm": "EPH 5:18"
+        },
+        {
+          "start_ref": "50003001",
+          "start_ref_usfm": "PHP 3:1",
+          "end_ref": "50003001",
+          "end_ref_usfm": "PHP 3:1"
+        },
+        {
+          "start_ref": "50004004",
+          "start_ref_usfm": "PHP 4:4",
+          "end_ref": "50004004",
+          "end_ref_usfm": "PHP 4:4"
+        },
+        {
+          "start_ref": "52005016",
+          "start_ref_usfm": "1TH 5:16",
+          "end_ref": "52005016",
+          "end_ref_usfm": "1TH 5:16"
+        },
+        {
+          "start_ref": "45005003",
+          "start_ref_usfm": "ROM 5:3",
+          "end_ref": "45005004",
+          "end_ref_usfm": "ROM 5:4"
+        },
+        {
+          "start_ref": "43016020",
+          "start_ref_usfm": "JHN 16:20",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

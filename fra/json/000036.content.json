@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 734183,
+    "reference_id": 203144,
+    "title": "Hériter le pays",
+    "media_type": "Text",
+    "index_reference": "hériter le pays",
+    "language": "fra",
+    "content": "<p>Le monde physique est-il mauvais ? L&apos;esprit, l&apos;âme et l&apos;énergie sont-ils les formes d&apos;existence pures que nous devons chercher à développer pendant notre vie terrestre ? Ne serons-nous vraiment spirituels et heureux que lorsque nous serons libérés de nos corps physiques ?</p><p>La Bible répond à ces questions et à des questions similaires par un « non » catégorique. L&apos;univers provient de la main experte d&apos;un créateur aimant. Cela inclut la Terre et toutes les créatures vivantes. Après avoir fini de créer les cieux et la Terre et tout ce qu&apos;ils renferment, Dieu a considéré que ce qu&apos;il avait fait était « très bon » (<a href=\"https://ref.ly/Gen1:31\">Gn 1.31</a>). Le péché qui est ensuite entré le monde a fait que le monde physique a eu besoin de rédemption. Par la grâce de Dieu, il sera racheté de sa soumission à la corruption à la fin des temps (voir <a href=\"https://ref.ly/Rom8:19-Rom8:21\">Rm 8.19–21</a>). Dieu fera une nouvelle Terre où habitera le peuple de Dieu.</p><p>La Bible montre que le monde physique est bon et important au travers de ce que Dieu dit à propos des terres. Toutes les terres lui appartiennent. Il a enlevé les Cananéens de la terre Promise à cause de leur méchanceté. Il a amené Israël dans ce pays pour accomplir ses promesses aux patriarches. Il veut également que les humains prennent soin de la Terre en harmonie avec leur Créateur.</p><p>Dans l&apos;Israël de l&apos;Antiquité, les terres du pays faisaient partie de l&apos;héritage que Dieu avait donné aux tribus, aux clans et aux familles. Ils pouvaient les cultiver, en vivre et recevoir de nombreuses bénédictions en les exploitant. Toutefois, le pays et ses terres ne leur appartenaient pas, car tout était à Dieu. Les pères transmettaient leurs terres à leurs fils comme la partie la plus importante de l&apos;héritage familial.</p><p>En suivant ces principes et les instructions de Dieu, Josué a divisé le pays en héritages entre les tribus. Les tribus ont ensuite partagé leurs terres entre les clans, les familles et les maisons individuelles. </p><p>À cette époque-là, le bonheur était représenté en termes très physiques : avoir des enfants, des troupeaux en bonne santé, de bonnes récoltes, une bonne santé, et vivre en paix sous son olivier ou son figuier. </p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen1:31\">Genèse 1.31</a> ; <a href=\"https://ref.ly/Gen12:7\">12.7</a> ; <a href=\"https://ref.ly/Gen13:14-Gen13:17\">13.14–17</a> ; <a href=\"https://ref.ly/Gen15:12-Gen15:21\">15.12–21</a> ; <a href=\"https://ref.ly/Gen17:7-Gen17:8\">17.7–8</a> ; <a href=\"https://ref.ly/Gen35:11-Gen35:13\">35.11–13</a> ; <a href=\"https://ref.ly/Gen50:24\">50.24</a> ; <a href=\"https://ref.ly/Josh13:1-Josh21:45\">Josué 13.1–21.45</a> ; <a href=\"https://ref.ly/Ps37:9-Ps37:34\">Psaumes 37.9–34</a> ; <a href=\"https://ref.ly/Luke12:22-Luke12:34\">Luc 12.22–34</a> ; <a href=\"https://ref.ly/Luke16:9-Luke16:11\">16.9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001031",
+          "start_ref_usfm": "GEN 1:31",
+          "end_ref": "01001031",
+          "end_ref_usfm": "GEN 1:31"
+        },
+        {
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "01050024",
+          "start_ref_usfm": "GEN 50:24",
+          "end_ref": "01050024",
+          "end_ref_usfm": "GEN 50:24"
+        },
+        {
+          "start_ref": "01017007",
+          "start_ref_usfm": "GEN 17:7",
+          "end_ref": "01017008",
+          "end_ref_usfm": "GEN 17:8"
+        },
+        {
+          "start_ref": "45008019",
+          "start_ref_usfm": "ROM 8:19",
+          "end_ref": "45008021",
+          "end_ref_usfm": "ROM 8:21"
+        },
+        {
+          "start_ref": "01015012",
+          "start_ref_usfm": "GEN 15:12",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "06013001",
+          "start_ref_usfm": "JOS 13:1",
+          "end_ref": "06021045",
+          "end_ref_usfm": "JOS 21:45"
+        },
+        {
+          "start_ref": "42016009",
+          "start_ref_usfm": "LUK 16:9",
+          "end_ref": "42016011",
+          "end_ref_usfm": "LUK 16:11"
+        },
+        {
+          "start_ref": "01013014",
+          "start_ref_usfm": "GEN 13:14",
+          "end_ref": "01013017",
+          "end_ref_usfm": "GEN 13:17"
+        },
+        {
+          "start_ref": "42012022",
+          "start_ref_usfm": "LUK 12:22",
+          "end_ref": "42012034",
+          "end_ref_usfm": "LUK 12:34"
+        },
+        {
+          "start_ref": "01035011",
+          "start_ref_usfm": "GEN 35:11",
+          "end_ref": "01035013",
+          "end_ref_usfm": "GEN 35:13"
+        },
+        {
+          "start_ref": "19037009",
+          "start_ref_usfm": "PSA 37:9",
+          "end_ref": "19037034",
+          "end_ref_usfm": "PSA 37:34"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

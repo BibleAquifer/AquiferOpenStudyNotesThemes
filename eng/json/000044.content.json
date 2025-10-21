@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 500242,
+    "reference_id": 203185,
+    "title": "Completion of the Second Temple",
+    "media_type": "Text",
+    "index_reference": "completion of the second temple",
+    "language": "eng",
+    "content": "<p>The dedication of Israel’s second temple on March 12, 515 BC, was a major event for the Israelites returning from exile in Babylon. They could now worship and praise God as their ancestors did before the exile. This new temple allowed them to fulfill God&apos;s requirements for a covenant relationship. The high priest could enter God&apos;s presence to sprinkle blood once a year on the day of atonement for the nation&apos;s sins. After seventy years apart from God, he restored the covenant community.</p><p>This joyful event was not without challenges. With God&apos;s help, the returned exiles overcame sixteen years of opposition from those living in the land and Persian officials. Despite their enemies&apos; efforts to discourage them, the Israelites rebuilt the temple. They once again established worship through patience, persistence, and strong prophetic encouragement (<a href=\"https://ref.ly/Ezra5:1-Ezra5:5\">Ezra 5:1–5</a>; <a href=\"https://ref.ly/Ezra6:14\">6:14</a>).</p><p>The dedication of the temple shows that God can achieve his goals through a small group of people. These people focus on pleasing him and trust him to provide what they need to fulfill his promises (see <a href=\"https://ref.ly/Hag2:6-Hag2:9\">Haggai 2:6–9</a>). Instead of worrying about their limited resources, they trusted in what God could provide. They committed to honor God and keeping their relationship with him strong. God demonstrated his control over nations and his ability to influence their leaders to fulfill his plans (<a href=\"https://ref.ly/Ezra5:5\">Ezra 5:5</a>; <a href=\"https://ref.ly/Ezra6:6-Ezra6:12\">6:6–12</a>, <a href=\"https://ref.ly/Ezra6:22\">22</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod40:1-Exod40:38\">Exodus 40:1–38</a>; <a href=\"https://ref.ly/1Kgs7:51-1Kgs9:9\">1 Kings 7:51–9:9</a>; <a href=\"https://ref.ly/Ezra6:14-Ezra6:22\">Ezra 6:14–22</a>; <a href=\"https://ref.ly/Hag1:8\">Haggai 1:8</a>; <a href=\"https://ref.ly/Hag2:7-Hag2:8\">2:7–8</a>; <a href=\"https://ref.ly/Zech4:1-Zech4:10\">Zechariah 4:1–10</a>; <a href=\"https://ref.ly/Rev21:1-Rev21:27\">Revelation 21:1–27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15005005",
+          "start_ref_usfm": "EZR 5:5",
+          "end_ref": "15005005",
+          "end_ref_usfm": "EZR 5:5"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "15006022",
+          "start_ref_usfm": "EZR 6:22",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "37001008",
+          "start_ref_usfm": "HAG 1:8",
+          "end_ref": "37001008",
+          "end_ref_usfm": "HAG 1:8"
+        },
+        {
+          "start_ref": "66021001",
+          "start_ref_usfm": "REV 21:1",
+          "end_ref": "66021027",
+          "end_ref_usfm": "REV 21:27"
+        },
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005005",
+          "end_ref_usfm": "EZR 5:5"
+        },
+        {
+          "start_ref": "37002006",
+          "start_ref_usfm": "HAG 2:6",
+          "end_ref": "37002009",
+          "end_ref_usfm": "HAG 2:9"
+        },
+        {
+          "start_ref": "02040001",
+          "start_ref_usfm": "EXO 40:1",
+          "end_ref": "02040038",
+          "end_ref_usfm": "EXO 40:38"
+        },
+        {
+          "start_ref": "15006006",
+          "start_ref_usfm": "EZR 6:6",
+          "end_ref": "15006012",
+          "end_ref_usfm": "EZR 6:12"
+        },
+        {
+          "start_ref": "11007051",
+          "start_ref_usfm": "1KI 7:51",
+          "end_ref": "11009009",
+          "end_ref_usfm": "1KI 9:9"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "37002007",
+          "start_ref_usfm": "HAG 2:7",
+          "end_ref": "37002008",
+          "end_ref_usfm": "HAG 2:8"
+        },
+        {
+          "start_ref": "38004001",
+          "start_ref_usfm": "ZEC 4:1",
+          "end_ref": "38004010",
+          "end_ref_usfm": "ZEC 4:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

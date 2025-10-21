@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 800269,
+    "reference_id": 203100,
+    "title": "Babel: A dispersão das nações",
+    "media_type": "Text",
+    "index_reference": "babel: a dispersão das nações",
+    "language": "por",
+    "content": "<p>A história da torre de Babel explica como as barreiras linguísticas separaram nações e grupos étnicos, dispersando-os geograficamente. Após o grande dilúvio, quando Deus julgou uma raça humana muito má, os humanos se rebelaram novamente construindo uma torre &quot;que alcança os céus&quot; (<a href=\"https://ref.ly/Gen11:4\">Gênesis 11.4</a>). Em vez de adorar a Deus, eles queriam se glorificar e se unir sem Deus. Deus viu sua perigosa independência e orgulho que poderiam levá-los de volta ao mal e à destruição. Então, Deus agiu para &quot;confundir sua linguagem&quot;, e ele &quot;os espalhou sobre a face de toda a terra&quot; (<a href=\"https://ref.ly/Gen11:7\">11.7; </a><a href=\"https://ref.ly/Gen11:9\">11.9</a>).</p><p>Babel marca o início das diferenças e desentendimentos entre povos e nações que não conseguem entender as línguas e culturas uns dos outros. Essa separação começa a se reverter com a vinda do Espírito Santo (veja <a href=\"https://ref.ly/Acts2:1-Acts2:47\">Atos 2</a>).</p><p>Depois que as nações se dispersaram em Babel, Deus renovou Seu relacionamento com a humanidade através de Abraão e seus descendentes (<a href=\"https://ref.ly/Gen12:1-Gen12:9\">Gênesis 12.1–9</a>). Ao contrário do povo de Babel, Abraão era justo porque &quot;creu no Senhor&quot;. Ele viveu pela fé em Deus, não pelo orgulho em suas conquistas (<a href=\"https://ref.ly/Gen15:6\">15.6</a>; <a href=\"https://ref.ly/Gen17:1\">17.1</a>; <a href=\"https://ref.ly/Gen18:19\">18.19</a>; <a href=\"https://ref.ly/Gen26:5\">26.5</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen11:1-Gen11:9\">Gênesis 11.1–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011004",
+          "start_ref_usfm": "GEN 11:4",
+          "end_ref": "01011004",
+          "end_ref_usfm": "GEN 11:4"
+        },
+        {
+          "start_ref": "01011007",
+          "start_ref_usfm": "GEN 11:7",
+          "end_ref": "01011007",
+          "end_ref_usfm": "GEN 11:7"
+        },
+        {
+          "start_ref": "01011009",
+          "start_ref_usfm": "GEN 11:9",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015006",
+          "end_ref_usfm": "GEN 15:6"
+        },
+        {
+          "start_ref": "01017001",
+          "start_ref_usfm": "GEN 17:1",
+          "end_ref": "01017001",
+          "end_ref_usfm": "GEN 17:1"
+        },
+        {
+          "start_ref": "01018019",
+          "start_ref_usfm": "GEN 18:19",
+          "end_ref": "01018019",
+          "end_ref_usfm": "GEN 18:19"
+        },
+        {
+          "start_ref": "01026005",
+          "start_ref_usfm": "GEN 26:5",
+          "end_ref": "01026005",
+          "end_ref_usfm": "GEN 26:5"
+        },
+        {
+          "start_ref": "01011001",
+          "start_ref_usfm": "GEN 11:1",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "44002001",
+          "start_ref_usfm": "ACT 2:1",
+          "end_ref": "44002047",
+          "end_ref_usfm": "ACT 2:47"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

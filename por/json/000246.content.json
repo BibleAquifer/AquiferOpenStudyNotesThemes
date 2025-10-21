@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 800434,
+    "reference_id": 203265,
+    "title": "Quatro impérios mundiais",
+    "media_type": "Text",
+    "index_reference": "quatro impérios mundiais",
+    "language": "por",
+    "content": "<p>O livro de Daniel descreve duas visões importantes que mostram como Deus governa toda a história. O rei Nabucodonosor da Babilônia teve a primeira visão (capítulo <a href=\"https://ref.ly/Dan2:1-Dan2:49\">2</a>), e o profeta Daniel teve uma visão semelhante (capítulo <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7</a>). Cada visão apresenta quatro reinos mundiais.</p><p>As pessoas às vezes discordaram sobre quais reinos essas visões se referiam, mas muitos professores importantes ao longo da história compartilharam o mesmo entendimento. Hipólito, um dos primeiros mestres cristãos (ou um dos &quot;pais da igreja&quot;) que viveu de 170 a 236 d.C., identificou os quatro reinos como:</p><ul><li><p>Babilônia,</p></li><li><p>Média-Pérsia,</p></li><li><p>Grécia, e</p></li><li><p>Roma.</p></li></ul><p>Eusébio de Cesareia, outro pai da igreja e historiador que viveu de 260 a 340 d.C., pensava que o primeiro reino era a Assíria (que havia governado sobre a Babilônia). No entanto, ele posteriormente concordou com a visão de Hipólito. A maioria dos outros primeiros professores cristãos também aceitou esse entendimento. Mais tarde, outros dois pais da igreja, Jerônimo e Agostinho, concordaram com essa mesma explicação. Muitos professores da Bíblia hoje ainda aceitam essa visão dos quatro reinos.</p><p>Nos tempos antigos e ainda hoje, algumas pessoas argumentam que a Grécia é o quarto império. Elas consideram Média e Pérsia como reinos separados. Esses estudiosos frequentemente acreditam nisso porque pensam que o livro de Daniel foi escrito antes de o Império Romano existir e, portanto, não poderia ter previsto eventos futuros. No entanto, geralmente se considera Média e Pérsia como um único império. Quando o Rei Ciro II conquistou a Babilônia em 539 a.C., os persas já haviam, em grande parte, integrado o reino Medo.</p><p>As pessoas geralmente consideram Roma como o quarto reino. No entanto, as qualidades malignas e desumanas descritas na visão vão além do Império Romano histórico. As visões apresentam uma perspectiva do mundo e seus governos. O reino de Deus destruirá e substituirá todos eles. É &quot;uma pedra... cortada&quot; (<a href=\"https://ref.ly/Dan2:34\">Daniel 2.34</a>). No capítulo <a href=\"https://ref.ly/Dan2:1-Dan2:49\">2</a>, os metais da estátua tornam-se menos valiosos, enquanto no capítulo <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7</a>, a imagem dos animais torna-se mais feroz e violenta. Essas características indicam um declínio na civilização humana ao longo do tempo, mesmo enquanto o reino de Deus aumenta em poder e tamanho (<a href=\"https://ref.ly/Dan2:35\">2.35</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Dan2:1-Dan2:49\">Daniel 2.1–49</a>; <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7.1–28</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27002034",
+          "start_ref_usfm": "DAN 2:34",
+          "end_ref": "27002034",
+          "end_ref_usfm": "DAN 2:34"
+        },
+        {
+          "start_ref": "27002035",
+          "start_ref_usfm": "DAN 2:35",
+          "end_ref": "27002035",
+          "end_ref_usfm": "DAN 2:35"
+        },
+        {
+          "start_ref": "27007001",
+          "start_ref_usfm": "DAN 7:1",
+          "end_ref": "27007028",
+          "end_ref_usfm": "DAN 7:28"
+        },
+        {
+          "start_ref": "27002001",
+          "start_ref_usfm": "DAN 2:1",
+          "end_ref": "27002049",
+          "end_ref_usfm": "DAN 2:49"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

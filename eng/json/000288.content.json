@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 500257,
+    "reference_id": 203200,
+    "title": "Understanding Job",
+    "media_type": "Text",
+    "index_reference": "understanding job",
+    "language": "eng",
+    "content": "<p>The story of Job presents a tension between good and bad aspects of his character. The beginning of the book clearly approves of Job (<a href=\"https://ref.ly/Job1:1\">Job 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>). But later, God questions Job directly: “<span>Who is this who obscures My counsel by words without knowledge?</span>” (<a href=\"https://ref.ly/Job38:2\">38:2</a>). “<span>Would you really annul My justice? Would you condemn Me to justify yourself?</span>” (<a href=\"https://ref.ly/Job40:8\">40:8</a>).</p><p>Some interpreters think Job talks too much and confuses God&apos;s work with Satan&apos;s. Some modern interpreters blame Job for his suffering, agreeing with his friends. Others argue like Eliphaz and Elihu (<a href=\"https://ref.ly/Job5:17-Job5:27\">5:17–27</a>; <a href=\"https://ref.ly/Job33:15-Job33:33\">33:15–33</a>; <a href=\"https://ref.ly/Job36:7-Job36:17\">36:7–17</a>). They say that Job&apos;s suffering is God&apos;s loving discipline. Even God&apos;s faithful encounter such discipline (<a href=\"https://ref.ly/Heb12:6-Heb12:12\">Hebrews 12:6–12</a>; see <a href=\"https://ref.ly/Prov3:11-Prov3:12\">Proverbs 3:11–12</a>). But this idea contradicts the book&apos;s opening statement.</p><p>Job suffered because God wanted to show Satan that Job was honest and faithful. God always had a positive view of Job&apos;s life (<a href=\"https://ref.ly/Job1:1\">Job 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>; <a href=\"https://ref.ly/Job42:7\">42:7</a>). This idea continues in the New Testament, where Job is an example of patience we should follow (<a href=\"https://ref.ly/Jas5:11\">James 5:11</a>).</p><p>Job&apos;s reactions are normal. He does not remain firm. His trials affected him. He also does not boldly defy his troubles as if they cannot affect him. He reacts like any human would. </p><p>Job becomes angry, protests, complains, and goes back and forth between confidence and despair. But he never gives up hope. He does not curse God or falsely confess guilt, trying to influence God to remove his suffering. Although Job cannot understand his situation, he knows his answer will come from God (<a href=\"https://ref.ly/Job19:25-Job19:27\">Job 19:25–27</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Job1:1\">Job 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>; <a href=\"https://ref.ly/Job5:17-Job5:18\">5:17–18</a>; <a href=\"https://ref.ly/Job19:25-Job19:27\">19:25–27</a>; <a href=\"https://ref.ly/Job33:15-Job33:28\">33:15–28</a>; <a href=\"https://ref.ly/Job36:8-Job36:15\">36:8–15</a>; <a href=\"https://ref.ly/Job38:2\">38:2</a>; <a href=\"https://ref.ly/Job40:8\">40:8</a>; <a href=\"https://ref.ly/Job42:7\">42:7</a>; <a href=\"https://ref.ly/Prov3:11\">Proverbs 3:11</a>; <a href=\"https://ref.ly/Heb12:7\">Hebrews 12:7</a>, <a href=\"https://ref.ly/Heb12:10\">10</a>; <a href=\"https://ref.ly/Jas5:11\">James 5:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        },
+        {
+          "start_ref": "18001008",
+          "start_ref_usfm": "JOB 1:8",
+          "end_ref": "18001008",
+          "end_ref_usfm": "JOB 1:8"
+        },
+        {
+          "start_ref": "18002003",
+          "start_ref_usfm": "JOB 2:3",
+          "end_ref": "18002003",
+          "end_ref_usfm": "JOB 2:3"
+        },
+        {
+          "start_ref": "18038002",
+          "start_ref_usfm": "JOB 38:2",
+          "end_ref": "18038002",
+          "end_ref_usfm": "JOB 38:2"
+        },
+        {
+          "start_ref": "18040008",
+          "start_ref_usfm": "JOB 40:8",
+          "end_ref": "18040008",
+          "end_ref_usfm": "JOB 40:8"
+        },
+        {
+          "start_ref": "18042007",
+          "start_ref_usfm": "JOB 42:7",
+          "end_ref": "18042007",
+          "end_ref_usfm": "JOB 42:7"
+        },
+        {
+          "start_ref": "20003011",
+          "start_ref_usfm": "PRO 3:11",
+          "end_ref": "20003011",
+          "end_ref_usfm": "PRO 3:11"
+        },
+        {
+          "start_ref": "58012007",
+          "start_ref_usfm": "HEB 12:7",
+          "end_ref": "58012007",
+          "end_ref_usfm": "HEB 12:7"
+        },
+        {
+          "start_ref": "58012010",
+          "start_ref_usfm": "HEB 12:10",
+          "end_ref": "58012010",
+          "end_ref_usfm": "HEB 12:10"
+        },
+        {
+          "start_ref": "59005011",
+          "start_ref_usfm": "JAS 5:11",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "18019025",
+          "start_ref_usfm": "JOB 19:25",
+          "end_ref": "18019027",
+          "end_ref_usfm": "JOB 19:27"
+        },
+        {
+          "start_ref": "20003011",
+          "start_ref_usfm": "PRO 3:11",
+          "end_ref": "20003012",
+          "end_ref_usfm": "PRO 3:12"
+        },
+        {
+          "start_ref": "18005017",
+          "start_ref_usfm": "JOB 5:17",
+          "end_ref": "18005027",
+          "end_ref_usfm": "JOB 5:27"
+        },
+        {
+          "start_ref": "18033015",
+          "start_ref_usfm": "JOB 33:15",
+          "end_ref": "18033033",
+          "end_ref_usfm": "JOB 33:33"
+        },
+        {
+          "start_ref": "18036007",
+          "start_ref_usfm": "JOB 36:7",
+          "end_ref": "18036017",
+          "end_ref_usfm": "JOB 36:17"
+        },
+        {
+          "start_ref": "58012006",
+          "start_ref_usfm": "HEB 12:6",
+          "end_ref": "58012012",
+          "end_ref_usfm": "HEB 12:12"
+        },
+        {
+          "start_ref": "18005017",
+          "start_ref_usfm": "JOB 5:17",
+          "end_ref": "18005018",
+          "end_ref_usfm": "JOB 5:18"
+        },
+        {
+          "start_ref": "18033015",
+          "start_ref_usfm": "JOB 33:15",
+          "end_ref": "18033028",
+          "end_ref_usfm": "JOB 33:28"
+        },
+        {
+          "start_ref": "18036008",
+          "start_ref_usfm": "JOB 36:8",
+          "end_ref": "18036015",
+          "end_ref_usfm": "JOB 36:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

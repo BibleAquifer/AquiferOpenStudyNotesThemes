@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 500174,
+    "reference_id": 203117,
+    "title": "The Passover",
+    "media_type": "Text",
+    "index_reference": "the passover",
+    "language": "eng",
+    "content": "<p>The feast of Passover became a central part of Israelite religious practice. This festival celebrated God&apos;s rescue of the Hebrews from Egypt and his protection from the final deadly plague. God wanted it observed every year, following the instructions in the book of Exodus (<a href=\"https://ref.ly/Exod12:1-Exod12:27\">Exodus 12:1–27</a>). Passover was a reminder for future generations of God&apos;s saving actions. All the people participated in the feast. They ate only unleavened bread, just as they did when they quickly left Egypt.</p><p>During the first Passover, they sacrificed a lamb to save the firstborn son of each Israelite family (<a href=\"https://ref.ly/Exod12:12-Exod12:13\">Exodus 12:12–13</a>, <a href=\"https://ref.ly/Exod12:23\">23</a>). Passover represents that we can escape death only through a sacrifice that substitutes for us. Passover was an important event in Israelite history. But the exodus from Egypt did not solve the universal problem of death, which comes from sin (<a href=\"https://ref.ly/1Cor15:56\">1 Corinthians 15:56</a>).</p><p>Many years later, during the Passover feast, Jesus Christ gave his &quot;life as a ransom for many&quot; (<a href=\"https://ref.ly/Matt20:28\">Matthew 20:28</a>; <a href=\"https://ref.ly/Mark10:45\">Mark 10:45</a>). He became &quot;the Lamb of God, who takes away the sin of the world!&quot; (<a href=\"https://ref.ly/John1:29\">John 1:29</a>). While sharing a final Passover meal with his disciples, Jesus explained the symbolic meaning of the wine they shared: &quot;<span>This is My blood of the covenant, which is poured out for many for the forgiveness of sins</span>&quot; (<a href=\"https://ref.ly/Matt26:28\">Matthew 26:28</a>). He represents and begins a new Passover. Jesus completely and finally defeated sin and death through his sacrifice (see also <a href=\"https://ref.ly/Isa25:7-Isa25:8\">Isaiah 25:7–8</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod12:1-Exod12:51\">Exodus 12:1–51</a>; <a href=\"https://ref.ly/Lev23:4-Lev23:8\">Leviticus 23:4–8</a>; <a href=\"https://ref.ly/Num9:1-Num9:14\">Numbers 9:1–14</a>; <a href=\"https://ref.ly/Num28:16-Num28:25\">Numbers 28:16–25</a>; <a href=\"https://ref.ly/Deut16:1-Deut16:7\">Deuteronomy 16:1–7</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:30\">Matthew 26:17–30</a>; <a href=\"https://ref.ly/Luke22:15-Luke22:20\">Luke 22:15–20</a>; <a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1 Corinthians 5:6–8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012023",
+          "start_ref_usfm": "EXO 12:23",
+          "end_ref": "02012023",
+          "end_ref_usfm": "EXO 12:23"
+        },
+        {
+          "start_ref": "40020028",
+          "start_ref_usfm": "MAT 20:28",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "40026028",
+          "start_ref_usfm": "MAT 26:28",
+          "end_ref": "40026028",
+          "end_ref_usfm": "MAT 26:28"
+        },
+        {
+          "start_ref": "41010045",
+          "start_ref_usfm": "MRK 10:45",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        },
+        {
+          "start_ref": "43001029",
+          "start_ref_usfm": "JHN 1:29",
+          "end_ref": "43001029",
+          "end_ref_usfm": "JHN 1:29"
+        },
+        {
+          "start_ref": "46015056",
+          "start_ref_usfm": "1CO 15:56",
+          "end_ref": "46015056",
+          "end_ref_usfm": "1CO 15:56"
+        },
+        {
+          "start_ref": "42022015",
+          "start_ref_usfm": "LUK 22:15",
+          "end_ref": "42022020",
+          "end_ref_usfm": "LUK 22:20"
+        },
+        {
+          "start_ref": "46005006",
+          "start_ref_usfm": "1CO 5:6",
+          "end_ref": "46005008",
+          "end_ref_usfm": "1CO 5:8"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012051",
+          "end_ref_usfm": "EXO 12:51"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026030",
+          "end_ref_usfm": "MAT 26:30"
+        },
+        {
+          "start_ref": "04028016",
+          "start_ref_usfm": "NUM 28:16",
+          "end_ref": "04028025",
+          "end_ref_usfm": "NUM 28:25"
+        },
+        {
+          "start_ref": "04009001",
+          "start_ref_usfm": "NUM 9:1",
+          "end_ref": "04009014",
+          "end_ref_usfm": "NUM 9:14"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012027",
+          "end_ref_usfm": "EXO 12:27"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012013",
+          "end_ref_usfm": "EXO 12:13"
+        },
+        {
+          "start_ref": "23025007",
+          "start_ref_usfm": "ISA 25:7",
+          "end_ref": "23025008",
+          "end_ref_usfm": "ISA 25:8"
+        },
+        {
+          "start_ref": "03023004",
+          "start_ref_usfm": "LEV 23:4",
+          "end_ref": "03023008",
+          "end_ref_usfm": "LEV 23:8"
+        },
+        {
+          "start_ref": "05016001",
+          "start_ref_usfm": "DEU 16:1",
+          "end_ref": "05016007",
+          "end_ref_usfm": "DEU 16:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

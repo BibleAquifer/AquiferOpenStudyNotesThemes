@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 800523,
+    "reference_id": 203354,
+    "title": "Justificação pela fé",
+    "media_type": "Text",
+    "index_reference": "justificação pela fé",
+    "language": "por",
+    "content": "<p>Uma questão chave na igreja primitiva era se os gentios (pessoas não-judaicas) que aceitavam as boas-novas sobre Jesus precisavam seguir as regras judaicas (incluindo a circuncisão) para se tornarem parte da família de Deus.</p><p>Para o apóstolo Paulo, a resposta era simples. As pessoas não podem se reconciliar com Deus por seus próprios esforços. Somente Jesus poderia realizar (e realizou) o que era necessário para a reconciliação com Deus. A salvação é um presente da graça de Deus recebido pela fé. Nossa resposta é confiar em Cristo, agradecer pelo que ele fez e viver de uma maneira que reflita seu amor e verdade.</p><p>Para os cristãos judeus do primeiro século, era difícil aceitar essa resposta. Desde o tempo de Abraão, o relacionamento correto com Deus era marcado pela circuncisão, a cerimônia de remoção do prepúcio masculino (<a href=\"https://ref.ly/Gen17:9-Gen17:14\">Gênesis 17.9–14</a>). Todo homem que fazia parte da família de Deus tinha que ser circuncidado, e aqueles que negligenciavam isso eram excluídos do povo de Deus. Aqueles que haviam recebido a circuncisão também eram esperados a cumprir o restante da lei, incluindo o sábado e as regras dietéticas sobre alimentos.</p><p>Quando o cristianismo se espalhou dos judeus para os não-judeus, era natural que surgissem perguntas. Os cristãos precisam ser circuncidados (e seguir a lei de Deus em geral) para serem aceitos como parte da família de Deus? Ou Deus aceita as pessoas por causa de sua fé na obra de Cristo na cruz? À medida que a missão de Paulo aos gentios avançava, essas questões tornaram-se urgentes.</p><p>O apóstolo Pedro compreendeu, a partir de sua visão em Jope e sua experiência em Cesareia, que Deus aceitou os gentios <em>como gentios</em>, devido à sua fé na obra concluída de Cristo (<a href=\"https://ref.ly/Acts10:9-Acts11:18\">Atos 10.9–11.18</a>). Eles não precisavam se tornar judeus praticando a circuncisão ou as leis cerimoniais. Cristo lhes proporcionou acesso direto a Deus pela fé. Pedro e a igreja de Jerusalém, portanto, acolheram os crentes gentios em comunhão. No entanto, mais tarde, Pedro temporariamente parou de comer com gentios quando alguns cristãos judeus o criticaram (<a href=\"https://ref.ly/Gal2:11-Gal2:13\">Gálatas 2.11–13</a>). Em resposta, Paulo repreendeu Pedro por sugerir que os gentios devem se tornar judeus para serem aceitos por Deus (<a href=\"https://ref.ly/Gal2:14-Gal2:21\">2.14–21</a>).</p><p>Ninguém é justificado diante de Deus por cumprir a lei (<a href=\"https://ref.ly/Gal2:16\">Gálatas 2.16</a>). Até mesmo Abraão foi considerado justo por causa de sua fé (<a href=\"https://ref.ly/Gen15:6\">Gênesis 15.6</a>; <a href=\"https://ref.ly/Gal3:6\">Gálatas 3.6</a>; <a href=\"https://ref.ly/Jas2:21-Jas2:24\">Tiago 2.21–24</a>). Não foi por causa da circuncisão, que veio depois (<a href=\"https://ref.ly/Gen17:9-Gen17:14\">Gênesis 17.9–14</a>). Tanto judeus quanto gentios são trazidos para um relacionamento correto com Deus através da fé, que é uma resposta à sua graça.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen15:6\">Gênesis 15.6</a>; <a href=\"https://ref.ly/Hab2:4\">Habacuque 2.4</a>; <a href=\"https://ref.ly/Acts10:1-Acts11:18\">Atos 10.1–11.18</a>; <a href=\"https://ref.ly/Rom1:17\">Romanos 1.17</a>; <a href=\"https://ref.ly/Gal2:14-Gal2:21\">Gálatas 2.14–21</a>; <a href=\"https://ref.ly/Gal3:11\">Gálatas 3.11</a>; <a href=\"https://ref.ly/Heb10:38\">Hebreus 10.38.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015006",
+          "end_ref_usfm": "GEN 15:6"
+        },
+        {
+          "start_ref": "35002004",
+          "start_ref_usfm": "HAB 2:4",
+          "end_ref": "35002004",
+          "end_ref_usfm": "HAB 2:4"
+        },
+        {
+          "start_ref": "45001017",
+          "start_ref_usfm": "ROM 1:17",
+          "end_ref": "45001017",
+          "end_ref_usfm": "ROM 1:17"
+        },
+        {
+          "start_ref": "48002016",
+          "start_ref_usfm": "GAL 2:16",
+          "end_ref": "48002016",
+          "end_ref_usfm": "GAL 2:16"
+        },
+        {
+          "start_ref": "48003006",
+          "start_ref_usfm": "GAL 3:6",
+          "end_ref": "48003006",
+          "end_ref_usfm": "GAL 3:6"
+        },
+        {
+          "start_ref": "48003011",
+          "start_ref_usfm": "GAL 3:11",
+          "end_ref": "48003011",
+          "end_ref_usfm": "GAL 3:11"
+        },
+        {
+          "start_ref": "58010038",
+          "start_ref_usfm": "HEB 10:38",
+          "end_ref": "58010038",
+          "end_ref_usfm": "HEB 10:38"
+        },
+        {
+          "start_ref": "01017009",
+          "start_ref_usfm": "GEN 17:9",
+          "end_ref": "01017014",
+          "end_ref_usfm": "GEN 17:14"
+        },
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        },
+        {
+          "start_ref": "48002014",
+          "start_ref_usfm": "GAL 2:14",
+          "end_ref": "48002021",
+          "end_ref_usfm": "GAL 2:21"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002013",
+          "end_ref_usfm": "GAL 2:13"
+        },
+        {
+          "start_ref": "44010009",
+          "start_ref_usfm": "ACT 10:9",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500195,
+    "reference_id": 203138,
+    "title": "Curses and Blessings",
+    "media_type": "Text",
+    "index_reference": "curses and blessings",
+    "language": "eng",
+    "content": "<p>Almost all treaty or covenant texts from the ancient Near East included curses and blessings. The curses focused on those who violated the terms of the covenant. Blessings are for those who remained faithful. This was especially true for suzerain-vassal (great king-lesser king or people) covenants like Deuteronomy (see <span data-bnType=\"resourceReference\" data-resourceId=\"Deut_BookIntro_Filament\" data-resourceType=\"UNKNOWN\">Deuteronomy Book Introduction</span>, “Literary Form”).</p><p>Deuteronomy explained to the people of Israel what God expected from them. The covenant required Israel to obey God. The Israelites promised to do this (<a href=\"https://ref.ly/Exod19:8\">Exodus 19:8</a>). The section on curses and blessings explains how God would reward obedience and punish disobedience (<a href=\"https://ref.ly/Deut27:1-Deut29:1\">Deuteronomy 27:1–29:1</a>). </p><p>The text emphasizes curses more than blessings. This might be because people tend to focus more on promises than warnings. Blessings are often easier to understand. This is because they promise future safety. Judgment is less clear and needs detailed descriptions. </p><p>God emphasizes the curses to focus on the consequences of wrongdoing. The warnings Jesus gave about future events align with these warnings (<a href=\"https://ref.ly/Matt24:1-Matt25:46\">Matthew 24–25</a>).</p><p>Israel&apos;s history shows how God fulfilled his promise of blessings and curses. When Israel followed their covenant with God, he blessed them. When they rebelled, he judged them. Israel&apos;s rebellion is summarized in <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 Kings 17:7–20</a>. When the Israelites broke the first two commandments, they violated the entire covenant (<a href=\"https://ref.ly/Deut5:7-Deut5:10\">Deuteronomy 5:7–10</a>). Their rebellion brought the curses of <a href=\"https://ref.ly/Deut28:1-Deut28:68\">Deuteronomy 28</a> upon them.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen9:24-Gen9:27\">Genesis 9:24–27</a>; <a href=\"https://ref.ly/Lev26:3-Lev26:45\">Leviticus 26:3–45</a>; <a href=\"https://ref.ly/Deut8:7-Deut8:20\">Deuteronomy 8:7–20</a>; <a href=\"https://ref.ly/Deut11:29\">11:29</a>; <a href=\"https://ref.ly/Deut27:1-Deut29:1\">Deuteronomy 27:1–29:1</a>; <a href=\"https://ref.ly/Josh8:33-Josh8:35\">Joshua 8:33–35</a>; <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 Kings 17:7–20</a>; <a href=\"https://ref.ly/2Chr36:17-2Chr36:21\">2 Chronicles 36:17–21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019008",
+          "start_ref_usfm": "EXO 19:8",
+          "end_ref": "02019008",
+          "end_ref_usfm": "EXO 19:8"
+        },
+        {
+          "start_ref": "05011029",
+          "start_ref_usfm": "DEU 11:29",
+          "end_ref": "05011029",
+          "end_ref_usfm": "DEU 11:29"
+        },
+        {
+          "start_ref": "05028001",
+          "start_ref_usfm": "DEU 28:1",
+          "end_ref": "05028068",
+          "end_ref_usfm": "DEU 28:68"
+        },
+        {
+          "start_ref": "40024001",
+          "start_ref_usfm": "MAT 24:1",
+          "end_ref": "40025046",
+          "end_ref_usfm": "MAT 25:46"
+        },
+        {
+          "start_ref": "06008033",
+          "start_ref_usfm": "JOS 8:33",
+          "end_ref": "06008035",
+          "end_ref_usfm": "JOS 8:35"
+        },
+        {
+          "start_ref": "05027001",
+          "start_ref_usfm": "DEU 27:1",
+          "end_ref": "05029001",
+          "end_ref_usfm": "DEU 29:1"
+        },
+        {
+          "start_ref": "12017007",
+          "start_ref_usfm": "2KI 17:7",
+          "end_ref": "12017020",
+          "end_ref_usfm": "2KI 17:20"
+        },
+        {
+          "start_ref": "05005007",
+          "start_ref_usfm": "DEU 5:7",
+          "end_ref": "05005010",
+          "end_ref_usfm": "DEU 5:10"
+        },
+        {
+          "start_ref": "01009024",
+          "start_ref_usfm": "GEN 9:24",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "03026003",
+          "start_ref_usfm": "LEV 26:3",
+          "end_ref": "03026045",
+          "end_ref_usfm": "LEV 26:45"
+        },
+        {
+          "start_ref": "05008007",
+          "start_ref_usfm": "DEU 8:7",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "14036017",
+          "start_ref_usfm": "2CH 36:17",
+          "end_ref": "14036021",
+          "end_ref_usfm": "2CH 36:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

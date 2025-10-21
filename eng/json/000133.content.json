@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500369,
+    "reference_id": 203312,
+    "title": "Living Water",
+    "media_type": "Text",
+    "index_reference": "living water",
+    "language": "eng",
+    "content": "<p>Israel was a land often experiencing drought. People were very aware of water sources and quality. There were few year-round springs and rivers. So, people relied on a deep hole built underground to collect and store winter rain. These are called cisterns. They used wells to access underground water.</p><p>In Jewish culture, &quot;dead water&quot; meant standing or stored water. &quot;Living water&quot; meant moving water, like rivers, springs, and rainfall. This water was valuable because it was fresh. Since it came directly from God, people used it for ceremonial washings (see <a href=\"https://ref.ly/Lev14:5-Lev14:6\">Leviticus 14:5–6</a>, <a href=\"https://ref.ly/Lev14:50-Lev14:51\">50–51</a>; <a href=\"https://ref.ly/Lev15:13\">15:13</a>; <a href=\"https://ref.ly/Num19:17-Num19:19\">Numbers 19:17–19</a>).</p><p>The difference between &quot;dead&quot; and &quot;living&quot; water explains the confusion of the woman of Samaria when Jesus offered her &quot;living water&quot; (<a href=\"https://ref.ly/John4:12\">John 4:12</a>). Samaria does not have a permanent river. If Jacob had to dig a well there, how could Jesus offer better water?</p><p>Jesus spoke about living water again in Jerusalem during the autumn Feast of Tabernacles (<a href=\"https://ref.ly/John7:37-John7:39\">John 7:37–39</a>). This feast, held in a dry season, focused on water. In this context, Jesus stepped forward and made a bold claim. Anyone seeking living water should come to him and drink. Jesus is the source of living water. He came directly from God and brought divine renewal through the Holy Spirit.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Lev14:5-Lev14:6\">Leviticus 14:5–6</a>, <a href=\"https://ref.ly/Lev14:50-Lev14:51\">50–51</a>; <a href=\"https://ref.ly/Lev15:13\">15:13</a>; <a href=\"https://ref.ly/Num19:17-Num19:19\">Numbers 19:17–19</a>; <a href=\"https://ref.ly/Song4:15\">Song of Solomon 4:15</a>; <a href=\"https://ref.ly/Jer2:13\">Jeremiah 2:13</a>; <a href=\"https://ref.ly/Jer17:13\">17:13</a>; <a href=\"https://ref.ly/John4:10-John4:14\">John 4:10–14</a>; <a href=\"https://ref.ly/John7:38-John7:39\">7:38–39</a>; <a href=\"https://ref.ly/Jas3:11-Jas3:12\">James 3:11–12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03015013",
+          "start_ref_usfm": "LEV 15:13",
+          "end_ref": "03015013",
+          "end_ref_usfm": "LEV 15:13"
+        },
+        {
+          "start_ref": "22004015",
+          "start_ref_usfm": "SNG 4:15",
+          "end_ref": "22004015",
+          "end_ref_usfm": "SNG 4:15"
+        },
+        {
+          "start_ref": "24002013",
+          "start_ref_usfm": "JER 2:13",
+          "end_ref": "24002013",
+          "end_ref_usfm": "JER 2:13"
+        },
+        {
+          "start_ref": "24017013",
+          "start_ref_usfm": "JER 17:13",
+          "end_ref": "24017013",
+          "end_ref_usfm": "JER 17:13"
+        },
+        {
+          "start_ref": "43004012",
+          "start_ref_usfm": "JHN 4:12",
+          "end_ref": "43004012",
+          "end_ref_usfm": "JHN 4:12"
+        },
+        {
+          "start_ref": "43004010",
+          "start_ref_usfm": "JHN 4:10",
+          "end_ref": "43004014",
+          "end_ref_usfm": "JHN 4:14"
+        },
+        {
+          "start_ref": "43007037",
+          "start_ref_usfm": "JHN 7:37",
+          "end_ref": "43007039",
+          "end_ref_usfm": "JHN 7:39"
+        },
+        {
+          "start_ref": "43007038",
+          "start_ref_usfm": "JHN 7:38",
+          "end_ref": "43007039",
+          "end_ref_usfm": "JHN 7:39"
+        },
+        {
+          "start_ref": "03014005",
+          "start_ref_usfm": "LEV 14:5",
+          "end_ref": "03014006",
+          "end_ref_usfm": "LEV 14:6"
+        },
+        {
+          "start_ref": "03014050",
+          "start_ref_usfm": "LEV 14:50",
+          "end_ref": "03014051",
+          "end_ref_usfm": "LEV 14:51"
+        },
+        {
+          "start_ref": "04019017",
+          "start_ref_usfm": "NUM 19:17",
+          "end_ref": "04019019",
+          "end_ref_usfm": "NUM 19:19"
+        },
+        {
+          "start_ref": "59003011",
+          "start_ref_usfm": "JAS 3:11",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

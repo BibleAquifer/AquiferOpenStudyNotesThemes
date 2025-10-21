@@ -1,0 +1,142 @@
+[
+  {
+    "content_id": 500439,
+    "reference_id": 203382,
+    "title": "The New Community",
+    "media_type": "Text",
+    "index_reference": "the new community",
+    "language": "eng",
+    "content": "<p>The New Testament emphasizes the importance of the Christian community. Cultures that focus on individuals can miss this emphasis. Although God converts and spiritually rebirths Christians as individuals, he does not want them to remain isolated (<a href=\"https://ref.ly/John3:3\">John 3:3</a>; <a href=\"https://ref.ly/1Pet1:23\">1 Peter 1:23</a>). God intends to unite us as &quot;living stones&quot; in his &quot;spiritual house&quot; (<a href=\"https://ref.ly/1Pet2:5\">1 Peter 2:5</a>). God no longer lives in a building on Mount Zion in Jerusalem. He now lives in and among his people through the Holy Spirit.</p><p>God promised to rebuild his temple (see <a href=\"https://ref.ly/Ezek40:1-Ezek48:35\">Ezekiel 40–48</a>). He fulfills this promise as he lives among his people (see <a href=\"https://ref.ly/John1:14\">John 1:14</a>). Under the new covenant, the people themselves are the &quot;temple.&quot; We must unite in worship, praise, and service to fulfill God&apos;s purpose. Christians share the blessing of being chosen by God to carry out his mission to the world.</p><p><a href=\"https://ref.ly/1Pet2:9\">1 Peter 2:9</a> teaches that the church now has the same special role that God once gave to Israel. The church is a “chosen people” (see <a href=\"https://ref.ly/Deut7:6\">Deuteronomy 7:6</a>). It is “a royal priesthood,” “a holy nation” (see <a href=\"https://ref.ly/Exod19:6\">Exodus 19:6</a>). It is &quot;God’s own possession” (see <a href=\"https://ref.ly/Exod19:5\">Exodus 19:5</a>). </p><p>With this special status comes the duty to share the truth about God with the nations. By worshiping together and serving in different ministries, we “<span>proclaim the virtues of Him</span>” (<a href=\"https://ref.ly/1Pet2:9\">1 Peter 2:9</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen12:3\">Genesis 12:3</a>; <a href=\"https://ref.ly/Exod19:4-Exod19:6\">Exodus 19:4–6</a>; <a href=\"https://ref.ly/Deut7:6\">Deuteronomy 7:6</a>; <a href=\"https://ref.ly/2Chr5:13-2Chr5:14\">2 Chronicles 5:13–14</a>; <a href=\"https://ref.ly/Isa11:1-Isa11:16\">Isaiah 11:1–16</a>; <a href=\"https://ref.ly/John1:14\">John 1:14</a>; <a href=\"https://ref.ly/1Cor3:9-1Cor3:17\">1 Corinthians 3:9–17</a>; <a href=\"https://ref.ly/1Cor6:19\">6:19</a>; <a href=\"https://ref.ly/2Cor6:16-2Cor6:18\">2 Corinthians 6:16–18</a>; <a href=\"https://ref.ly/Eph2:19-Eph2:22\">Ephesians 2:19–22</a>; <a href=\"https://ref.ly/1Pet2:4-1Pet2:10\">1 Peter 2:4–10</a>; <a href=\"https://ref.ly/Rev3:12\">Revelation 3:12</a>; <a href=\"https://ref.ly/Rev21:1-Rev21:3\">21:1–3</a>, <a href=\"https://ref.ly/Rev21:22\">22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012003",
+          "start_ref_usfm": "GEN 12:3",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "02019005",
+          "start_ref_usfm": "EXO 19:5",
+          "end_ref": "02019005",
+          "end_ref_usfm": "EXO 19:5"
+        },
+        {
+          "start_ref": "02019006",
+          "start_ref_usfm": "EXO 19:6",
+          "end_ref": "02019006",
+          "end_ref_usfm": "EXO 19:6"
+        },
+        {
+          "start_ref": "05007006",
+          "start_ref_usfm": "DEU 7:6",
+          "end_ref": "05007006",
+          "end_ref_usfm": "DEU 7:6"
+        },
+        {
+          "start_ref": "43001014",
+          "start_ref_usfm": "JHN 1:14",
+          "end_ref": "43001014",
+          "end_ref_usfm": "JHN 1:14"
+        },
+        {
+          "start_ref": "43003003",
+          "start_ref_usfm": "JHN 3:3",
+          "end_ref": "43003003",
+          "end_ref_usfm": "JHN 3:3"
+        },
+        {
+          "start_ref": "46006019",
+          "start_ref_usfm": "1CO 6:19",
+          "end_ref": "46006019",
+          "end_ref_usfm": "1CO 6:19"
+        },
+        {
+          "start_ref": "60001023",
+          "start_ref_usfm": "1PE 1:23",
+          "end_ref": "60001023",
+          "end_ref_usfm": "1PE 1:23"
+        },
+        {
+          "start_ref": "60002005",
+          "start_ref_usfm": "1PE 2:5",
+          "end_ref": "60002005",
+          "end_ref_usfm": "1PE 2:5"
+        },
+        {
+          "start_ref": "60002009",
+          "start_ref_usfm": "1PE 2:9",
+          "end_ref": "60002009",
+          "end_ref_usfm": "1PE 2:9"
+        },
+        {
+          "start_ref": "66003012",
+          "start_ref_usfm": "REV 3:12",
+          "end_ref": "66003012",
+          "end_ref_usfm": "REV 3:12"
+        },
+        {
+          "start_ref": "66021022",
+          "start_ref_usfm": "REV 21:22",
+          "end_ref": "66021022",
+          "end_ref_usfm": "REV 21:22"
+        },
+        {
+          "start_ref": "49002019",
+          "start_ref_usfm": "EPH 2:19",
+          "end_ref": "49002022",
+          "end_ref_usfm": "EPH 2:22"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "23011001",
+          "start_ref_usfm": "ISA 11:1",
+          "end_ref": "23011016",
+          "end_ref_usfm": "ISA 11:16"
+        },
+        {
+          "start_ref": "14005013",
+          "start_ref_usfm": "2CH 5:13",
+          "end_ref": "14005014",
+          "end_ref_usfm": "2CH 5:14"
+        },
+        {
+          "start_ref": "60002004",
+          "start_ref_usfm": "1PE 2:4",
+          "end_ref": "60002010",
+          "end_ref_usfm": "1PE 2:10"
+        },
+        {
+          "start_ref": "02019004",
+          "start_ref_usfm": "EXO 19:4",
+          "end_ref": "02019006",
+          "end_ref_usfm": "EXO 19:6"
+        },
+        {
+          "start_ref": "46003009",
+          "start_ref_usfm": "1CO 3:9",
+          "end_ref": "46003017",
+          "end_ref_usfm": "1CO 3:17"
+        },
+        {
+          "start_ref": "47006016",
+          "start_ref_usfm": "2CO 6:16",
+          "end_ref": "47006018",
+          "end_ref_usfm": "2CO 6:18"
+        },
+        {
+          "start_ref": "66021001",
+          "start_ref_usfm": "REV 21:1",
+          "end_ref": "66021003",
+          "end_ref_usfm": "REV 21:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

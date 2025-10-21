@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 800361,
+    "reference_id": 203192,
+    "title": "Ódio étnico",
+    "media_type": "Text",
+    "index_reference": "ódio étnico",
+    "language": "por",
+    "content": "<p>O orgulho egoísta, o desejo de manter o poder e o ódio por aqueles que se opõem a eles frequentemente levaram à perseguição de grupos raciais ou religiosos. Muitas pessoas morreram ao longo dos séculos por causa desse ódio.</p><p>No livro de Ester, Hamã odiava Mordecai porque ele se recusava a curvar-se como todos os outros quando Hamã passava (<a href=\"https://ref.ly/Esth3:1-Esth3:5\">Ester 3.1–5</a>). Hamã desprezava Mordecai, um homem de integridade que não seguia leis contrárias às suas crenças. Esse ódio pessoal por Mordecai, um judeu, transformou-se em um desejo de destruir todos os judeus (<a href=\"https://ref.ly/Esth3:6\">3.6</a>). A base para a acusação de Hamã contra o povo judeu era o que ele não gostava em Mordecai:</p><ul><li><p>Eles não agiram como os demais,</p></li><li><p>eles tinham leis e costumes pessoais específicos, e</p></li><li><p>eles não seguiram algumas das leis do rei (<a href=\"https://ref.ly/Esth3:8\">3.8</a>).</p></li></ul><p>A Inquisição Espanhola em 1400 d.C. e o Holocausto na Alemanha Nazista durante as décadas de 1930 e 1940 foram tentativas terríveis de destruir o povo judeu. O ódio religioso e étnico ainda gera planos malignos atualmente.</p><p>Deus não aprova o ódio contra qualquer grupo étnico ou religioso. Ele eventualmente responsabilizará aqueles que fazem tais planos malignos (veja <a href=\"https://ref.ly/Deut30:7\">Deuteronômio 30.7</a>; <a href=\"https://ref.ly/Ps21:7-Ps21:11\">Salmos 21.7–11</a>; <a href=\"https://ref.ly/Ps34:19-Ps34:21\">34.19–21</a>; <a href=\"https://ref.ly/Ps44:7\">44.7</a>). Deus frequentemente salvou o povo judeu e derrotou seus inimigos porque é fiel a todas as suas promessas (veja <a href=\"https://ref.ly/Rom9:1-Rom11:36\">Romanos 9–11</a>). Ele também protegerá sua igreja durante toda perseguição (veja <a href=\"https://ref.ly/Matt16:18\">Mateus 16.18</a>; <a href=\"https://ref.ly/Rom8:26-Rom8:39\">Romanos 8.26–39</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen46:33-Gen46:34\">Gênesis 46.33–34</a>; <a href=\"https://ref.ly/Deut7:1-Deut7:6\">Deuteronômio 7.1–6</a>; <a href=\"https://ref.ly/Deut23:3-Deut23:8\">23.3–8</a>; <a href=\"https://ref.ly/Esth3:1-Esth3:9\">Ester 3.1–9</a>; <a href=\"https://ref.ly/Matt15:22-Matt15:28\">Mateus 15.22–28</a>; <a href=\"https://ref.ly/Luke4:27\">Lucas 4.27</a>; <a href=\"https://ref.ly/Acts10:34-Acts10:35\">Atos 10.34–35</a>; <a href=\"https://ref.ly/Rom9:1-Rom11:36\">Romanos 9.1–11.36</a>; <a href=\"https://ref.ly/Gal3:26-Gal3:29\">Gálatas 3.26–29</a>; <a href=\"https://ref.ly/Eph2:14\">Efésios 2.14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05030007",
+          "start_ref_usfm": "DEU 30:7",
+          "end_ref": "05030007",
+          "end_ref_usfm": "DEU 30:7"
+        },
+        {
+          "start_ref": "17003006",
+          "start_ref_usfm": "EST 3:6",
+          "end_ref": "17003006",
+          "end_ref_usfm": "EST 3:6"
+        },
+        {
+          "start_ref": "17003008",
+          "start_ref_usfm": "EST 3:8",
+          "end_ref": "17003008",
+          "end_ref_usfm": "EST 3:8"
+        },
+        {
+          "start_ref": "19044007",
+          "start_ref_usfm": "PSA 44:7",
+          "end_ref": "19044007",
+          "end_ref_usfm": "PSA 44:7"
+        },
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "49002014",
+          "start_ref_usfm": "EPH 2:14",
+          "end_ref": "49002014",
+          "end_ref_usfm": "EPH 2:14"
+        },
+        {
+          "start_ref": "40015022",
+          "start_ref_usfm": "MAT 15:22",
+          "end_ref": "40015028",
+          "end_ref_usfm": "MAT 15:28"
+        },
+        {
+          "start_ref": "45009001",
+          "start_ref_usfm": "ROM 9:1",
+          "end_ref": "45011036",
+          "end_ref_usfm": "ROM 11:36"
+        },
+        {
+          "start_ref": "44010034",
+          "start_ref_usfm": "ACT 10:34",
+          "end_ref": "44010035",
+          "end_ref_usfm": "ACT 10:35"
+        },
+        {
+          "start_ref": "48003026",
+          "start_ref_usfm": "GAL 3:26",
+          "end_ref": "48003029",
+          "end_ref_usfm": "GAL 3:29"
+        },
+        {
+          "start_ref": "45008026",
+          "start_ref_usfm": "ROM 8:26",
+          "end_ref": "45008039",
+          "end_ref_usfm": "ROM 8:39"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007006",
+          "end_ref_usfm": "DEU 7:6"
+        },
+        {
+          "start_ref": "17003001",
+          "start_ref_usfm": "EST 3:1",
+          "end_ref": "17003005",
+          "end_ref_usfm": "EST 3:5"
+        },
+        {
+          "start_ref": "19021007",
+          "start_ref_usfm": "PSA 21:7",
+          "end_ref": "19021011",
+          "end_ref_usfm": "PSA 21:11"
+        },
+        {
+          "start_ref": "19034019",
+          "start_ref_usfm": "PSA 34:19",
+          "end_ref": "19034021",
+          "end_ref_usfm": "PSA 34:21"
+        },
+        {
+          "start_ref": "01046033",
+          "start_ref_usfm": "GEN 46:33",
+          "end_ref": "01046034",
+          "end_ref_usfm": "GEN 46:34"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023008",
+          "end_ref_usfm": "DEU 23:8"
+        },
+        {
+          "start_ref": "17003001",
+          "start_ref_usfm": "EST 3:1",
+          "end_ref": "17003009",
+          "end_ref_usfm": "EST 3:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

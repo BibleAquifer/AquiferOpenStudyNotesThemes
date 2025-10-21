@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 800342,
+    "reference_id": 203173,
+    "title": "A promessa da dinastia",
+    "media_type": "Text",
+    "index_reference": "a promessa da dinastia",
+    "language": "por",
+    "content": "<p>Deus prometeu ao Rei Davi que sua linhagem familiar duraria para sempre (<a href=\"https://ref.ly/2Sam7:11-2Sam7:16\">2 Samuel 7.11–16 </a>e passagem paralela em <a href=\"https://ref.ly/1Chr17:9-1Chr17:14\">1 Crônicas 17.9–14</a>). No entanto, o escritor de Crônicas (chamado de Cronista) viveu em uma época em que a linhagem de Davi parecia ter terminado. Embora os descendentes de Davi continuassem, nenhum deles havia sido rei desde o exílio de Judá para a Babilônia, ocorrido mais de 150 anos antes (veja <a href=\"https://ref.ly/1Chr3:17-1Chr3:23\">1 Crônicas 3.1–24</a>). Esta situação levantou dúvidas sobre a esperança futura de Israel.</p><p>O Cronista pretendia mostrar que a promessa de Deus a Davi era incondicional e que seu trono estava de fato &quot;seguro para sempre&quot;. Mesmo a possibilidade de exílio não remove a esperança da promessa de Deus de uma linhagem real. A promessa continuaria para um tempo futuro porque um descendente futuro de Davi herdaria o trono (<a href=\"https://ref.ly/1Chr17:11\">1 Crônicas 17.11</a>).</p><p>O Cronista não escreveu diretamente sobre o Messias no sentido estrito do termo. Ele não estava principalmente focado na vinda de um libertador escolhido por Deus. Em vez disso, ele esperava que reis da linhagem de Davi liderassem novamente a comunidade da aliança (o povo de Israel que tinha um acordo especial com Deus). O Cronista incentivou a comunidade a esperar por um novo rei que melhoraria a condição de Israel.</p><p>O nascimento de Jesus, o Filho de Davi, cumpriu a esperança do Cronista para Israel. Jesus atendeu à expectativa do Cronista de um novo rei (veja <a href=\"https://ref.ly/Matt1:1-Matt1:17\">Mateus 1.1–17</a>). Seu reino inclui todas as nações (<a href=\"https://ref.ly/Isa49:6\">Isaías 49.6</a>). Ele se estende &quot;de um mar a outro, e desde o rio Eufrates até os fins da terra&quot; (<a href=\"https://ref.ly/Zech9:10\">Zacarias 9.10</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen49:8-Gen49:12\">Gênesis 49.8–12</a>; <a href=\"https://ref.ly/1Chr5:1-1Chr5:2\">1 Crônicas 5.1–2</a>; <a href=\"https://ref.ly/1Chr17:1-1Chr17:15\">17.1–15</a>; <a href=\"https://ref.ly/1Chr22:6-1Chr22:13\">22.6–13</a>; <a href=\"https://ref.ly/1Chr28:4-1Chr28:7\">28.4–7</a>; <a href=\"https://ref.ly/Ps78:67-Ps78:72\">Salmos 78.67–72</a>; <a href=\"https://ref.ly/Ps132:11-Ps132:12\">132.11–12</a>; <a href=\"https://ref.ly/Amos9:11-Amos9:12\">Amós 9.11–12</a>; <a href=\"https://ref.ly/Matt1:1-Matt1:17\">Mateus 1.1–17</a>; <a href=\"https://ref.ly/Matt22:41-Matt22:46\">22.41–46</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13017011",
+          "start_ref_usfm": "1CH 17:11",
+          "end_ref": "13017011",
+          "end_ref_usfm": "1CH 17:11"
+        },
+        {
+          "start_ref": "23049006",
+          "start_ref_usfm": "ISA 49:6",
+          "end_ref": "23049006",
+          "end_ref_usfm": "ISA 49:6"
+        },
+        {
+          "start_ref": "38009010",
+          "start_ref_usfm": "ZEC 9:10",
+          "end_ref": "38009010",
+          "end_ref_usfm": "ZEC 9:10"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
+        },
+        {
+          "start_ref": "30009011",
+          "start_ref_usfm": "AMO 9:11",
+          "end_ref": "30009012",
+          "end_ref_usfm": "AMO 9:12"
+        },
+        {
+          "start_ref": "13005001",
+          "start_ref_usfm": "1CH 5:1",
+          "end_ref": "13005002",
+          "end_ref_usfm": "1CH 5:2"
+        },
+        {
+          "start_ref": "01049008",
+          "start_ref_usfm": "GEN 49:8",
+          "end_ref": "01049012",
+          "end_ref_usfm": "GEN 49:12"
+        },
+        {
+          "start_ref": "40022041",
+          "start_ref_usfm": "MAT 22:41",
+          "end_ref": "40022046",
+          "end_ref_usfm": "MAT 22:46"
+        },
+        {
+          "start_ref": "13017001",
+          "start_ref_usfm": "1CH 17:1",
+          "end_ref": "13017015",
+          "end_ref_usfm": "1CH 17:15"
+        },
+        {
+          "start_ref": "19078067",
+          "start_ref_usfm": "PSA 78:67",
+          "end_ref": "19078072",
+          "end_ref_usfm": "PSA 78:72"
+        },
+        {
+          "start_ref": "13003017",
+          "start_ref_usfm": "1CH 3:17",
+          "end_ref": "13003023",
+          "end_ref_usfm": "1CH 3:23"
+        },
+        {
+          "start_ref": "19132011",
+          "start_ref_usfm": "PSA 132:11",
+          "end_ref": "19132012",
+          "end_ref_usfm": "PSA 132:12"
+        },
+        {
+          "start_ref": "10007011",
+          "start_ref_usfm": "2SA 7:11",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "13017009",
+          "start_ref_usfm": "1CH 17:9",
+          "end_ref": "13017014",
+          "end_ref_usfm": "1CH 17:14"
+        },
+        {
+          "start_ref": "13022006",
+          "start_ref_usfm": "1CH 22:6",
+          "end_ref": "13022013",
+          "end_ref_usfm": "1CH 22:13"
+        },
+        {
+          "start_ref": "13028004",
+          "start_ref_usfm": "1CH 28:4",
+          "end_ref": "13028007",
+          "end_ref_usfm": "1CH 28:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

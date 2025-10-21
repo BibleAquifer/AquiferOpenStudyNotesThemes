@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 500288,
+    "reference_id": 203231,
+    "title": "Remember Him",
+    "media_type": "Text",
+    "index_reference": "remember him",
+    "language": "eng",
+    "content": "<p>God saved the Israelites from slavery in Egypt and made them his people. Yet, God knew they would forget him (<a href=\"https://ref.ly/Deut31:16-Deut31:21\">Deuteronomy 31:16–21</a>). Moses warned the people entering the promised land to always remember what the Lord had done for them (<a href=\"https://ref.ly/Deut8:1-Deut8:20\">Deuteronomy 8:1–20</a>). The Israelites eventually forgot the Lord, which led to their exile from the land God had given them (see <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2 Kings 17:5–23</a>; see also <a href=\"https://ref.ly/Jer2:32\">Jeremiah 2:32</a>).</p><p>The Teacher in the book of Ecclesiastes emphasizes the importance of remembering the Lord. Throughout the book, the Teacher reflects on how many aspects of life are temporary and useless or meaningless. He concludes by urging readers to remember the one who is eternal (<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">Ecclesiastes 12:1–7</a>). No one stays young forever, aging and death are universal. </p><p>Therefore, the Teacher encourages people to focus on God while they are young, before it is too late. All people are accountable to God for their actions (<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">Ecclesiastes 12:13–14</a>). Our present lives should be guided by the reality of his future judgment.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Deut8:1-Deut8:20\">Deuteronomy 8:1–20</a>; <a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">Ecclesiastes 12:1–7</a>, <a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">13–14</a>; <a href=\"https://ref.ly/1Cor3:12-1Cor3:14\">1 Corinthians 3:12–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "24002032",
+          "start_ref_usfm": "JER 2:32",
+          "end_ref": "24002032",
+          "end_ref_usfm": "JER 2:32"
+        },
+        {
+          "start_ref": "05008001",
+          "start_ref_usfm": "DEU 8:1",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "21012013",
+          "start_ref_usfm": "ECC 12:13",
+          "end_ref": "21012014",
+          "end_ref_usfm": "ECC 12:14"
+        },
+        {
+          "start_ref": "21012001",
+          "start_ref_usfm": "ECC 12:1",
+          "end_ref": "21012007",
+          "end_ref_usfm": "ECC 12:7"
+        },
+        {
+          "start_ref": "12017005",
+          "start_ref_usfm": "2KI 17:5",
+          "end_ref": "12017023",
+          "end_ref_usfm": "2KI 17:23"
+        },
+        {
+          "start_ref": "05031016",
+          "start_ref_usfm": "DEU 31:16",
+          "end_ref": "05031021",
+          "end_ref_usfm": "DEU 31:21"
+        },
+        {
+          "start_ref": "46003012",
+          "start_ref_usfm": "1CO 3:12",
+          "end_ref": "46003014",
+          "end_ref_usfm": "1CO 3:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

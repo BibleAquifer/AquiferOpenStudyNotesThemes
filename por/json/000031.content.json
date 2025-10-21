@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 800478,
+    "reference_id": 203309,
+    "title": "A Palavra",
+    "media_type": "Text",
+    "index_reference": "a palavra",
+    "language": "por",
+    "content": "<p>O apóstolo João começa seu Evangelho com uma descrição extraordinária de Jesus Cristo como &quot;a Palavra&quot; (em grego <em>logos, </em><a href=\"https://ref.ly/John1:1\">João 1.1</a>). Várias versões da Bíblia em português trazuem esse mesmo termo como &quot;Verbo&quot;. No primeiro século, tanto os ouvintes gregos quanto os judeus entenderiam o profundo significado deste título.</p><p>Os gregos pensariam nas forças fundamentais que sustentam o universo. Os judeus se lembrariam de Deus criando o mundo ao falar (<a href=\"https://ref.ly/Gen1:3-Gen1:28\">Gênesis 1.3–28</a>; <a href=\"https://ref.ly/Ps33:6\">Salmo 33.6</a>,<a href=\"https://ref.ly/Ps33:9\">9</a>). No tempo de Jesus, a &quot;Palavra&quot; de Deus havia adquirido qualidades criativas pessoais. Os judeus viam a &quot;Palavra&quot; de Deus como outra maneira de falar sobre a &quot;Sabedoria&quot; de Deus. Através da Sabedoria, Deus entrou no universo para criar o mundo (<a href=\"https://ref.ly/Prov8:22-Prov8:31\">Provérbios 8.22–31</a>).</p><p>João explica que Jesus compartilha a mesma essência ou natureza de Deus. O Filho existia antes do tempo e criou tudo. João conecta a verdade de que Jesus é Deus à antiga ideia judaica de Sabedoria. Esta Sabedoria divina, presente com Deus antes do tempo, agora é revelada por Deus em Jesus Cristo. Em um versículo poderoso, João escreve que este Logos, ou Sabedoria, tornou-se uma pessoa humana e viveu entre nós (<a href=\"https://ref.ly/John1:14\">João 1.14</a>). O que Deus é, o Logos é, e o Logos é Jesus Cristo.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen1:3-Gen1:28\">Gênesis 1.3–28</a>; <a href=\"https://ref.ly/Ps33:6\">Salmo 33.6</a>,<a href=\"https://ref.ly/Ps33:9\">9</a>; <a href=\"https://ref.ly/Prov8:22-Prov8:31\">Provérbios 8.22–31</a>; <a href=\"https://ref.ly/Isa40:8\">Isaías 40.8</a>; <a href=\"https://ref.ly/John1:1-John1:18\">João 1.1–18</a>; <a href=\"https://ref.ly/1John1:1\">1 João 1.1</a>; <a href=\"https://ref.ly/Rev19:13\">Apocalipse 19.13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19033006",
+          "start_ref_usfm": "PSA 33:6",
+          "end_ref": "19033006",
+          "end_ref_usfm": "PSA 33:6"
+        },
+        {
+          "start_ref": "19033009",
+          "start_ref_usfm": "PSA 33:9",
+          "end_ref": "19033009",
+          "end_ref_usfm": "PSA 33:9"
+        },
+        {
+          "start_ref": "23040008",
+          "start_ref_usfm": "ISA 40:8",
+          "end_ref": "23040008",
+          "end_ref_usfm": "ISA 40:8"
+        },
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001001",
+          "end_ref_usfm": "JHN 1:1"
+        },
+        {
+          "start_ref": "43001014",
+          "start_ref_usfm": "JHN 1:14",
+          "end_ref": "43001014",
+          "end_ref_usfm": "JHN 1:14"
+        },
+        {
+          "start_ref": "62001001",
+          "start_ref_usfm": "1JN 1:1",
+          "end_ref": "62001001",
+          "end_ref_usfm": "1JN 1:1"
+        },
+        {
+          "start_ref": "66019013",
+          "start_ref_usfm": "REV 19:13",
+          "end_ref": "66019013",
+          "end_ref_usfm": "REV 19:13"
+        },
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001018",
+          "end_ref_usfm": "JHN 1:18"
+        },
+        {
+          "start_ref": "20008022",
+          "start_ref_usfm": "PRO 8:22",
+          "end_ref": "20008031",
+          "end_ref_usfm": "PRO 8:31"
+        },
+        {
+          "start_ref": "01001003",
+          "start_ref_usfm": "GEN 1:3",
+          "end_ref": "01001028",
+          "end_ref_usfm": "GEN 1:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 702373,
+    "reference_id": 203309,
+    "title": "الكلمة",
+    "media_type": "Text",
+    "index_reference": "الكلمة",
+    "language": "arb",
+    "content": "<p>بدأ الرسول يوحنا إنجيله بكلمات مميزة تصف يسوع المسيح بأنه &quot;الكلمة&quot; (في اليونانية <em>لوغوس، </em><a href=\"https://ref.ly/John1:1\">يوحنا 1:1</a>). في القرن الأول، كان لليهود واليونانيين فهم خاص وعميق لهذا اللقب.</p><p>فبالنسبة لليونانيين، كانت &quot;الكلمة&quot; تعني القوة التي تُنظم وتُحافظ على الكون. أما اليهود، فيتذكروا كيف خلق الله العالم بكلمته (<a href=\"https://ref.ly/Gen1:3-Gen1:28\">تكوين 1:3–28</a>؛ <a href=\"https://ref.ly/Ps33:6\">مزمور 33:6</a>، <a href=\"https://ref.ly/Ps33:9\">9</a>). في زمن يسوع، اكتسبت &quot;كلمة&quot; الله صفات إبداعية شخصية. وقد رأى اليهود في &quot;كلمة&quot; الله تعبيرًا آخر عن &quot;حكمة&quot; الله، التي بها دخل الله إلى الكون ليخلقه (<a href=\"https://ref.ly/Prov8:22-Prov8:31\">أمثال 8:22–31</a>).</p><p>ويُوضح يوحنا أن يسوع يشترك في ذات جوهر الله وطبيعته. فالابن كان موجودًا قبل بدء الزمن، وبه خُلق كل شيء. ويربط يوحنا حقيقة إلوهية يسوع بالفكرة اليهودية القديمة عن الحكمة. هذه الحكمة الإلهية، التي كانت مع الله قبل الزمان، قد أعلنها الله الآن في شخص يسوع المسيح. وفي آية قوية، يُعلن يوحنا أن هذا &quot;اللوغوس&quot;، أو الحكمة، قد صار إنسانًا وسكن بيننا (<a href=\"https://ref.ly/John1:14\">يوحنا 1:14</a>). ما هو الله، هو اللوغوس، واللوغوس هو يسوع المسيح.</p><p><u>نصوص إضافية للدراسة</u></p><p><a href=\"https://ref.ly/Gen1:3-Gen1:28\">تكوين 1:3–28</a>; <a href=\"https://ref.ly/Ps33:6\">مزمور 33:6</a>, <a href=\"https://ref.ly/Ps33:9\">9</a>; <a href=\"https://ref.ly/Prov8:22-Prov8:31\">أمثال 8:22–31</a>; <a href=\"https://ref.ly/Isa40:8\">إشعياء 40:8</a>; <a href=\"https://ref.ly/John1:1-John1:18\">يوحنا 1:1–18</a>; <a href=\"https://ref.ly/1John1:1\">1 يوحنا 1:1</a>; <a href=\"https://ref.ly/Rev19:13\">رؤيا 19:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19033006",
+          "start_ref_usfm": "PSA 33:6",
+          "end_ref": "19033006",
+          "end_ref_usfm": "PSA 33:6"
+        },
+        {
+          "start_ref": "19033009",
+          "start_ref_usfm": "PSA 33:9",
+          "end_ref": "19033009",
+          "end_ref_usfm": "PSA 33:9"
+        },
+        {
+          "start_ref": "23040008",
+          "start_ref_usfm": "ISA 40:8",
+          "end_ref": "23040008",
+          "end_ref_usfm": "ISA 40:8"
+        },
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001001",
+          "end_ref_usfm": "JHN 1:1"
+        },
+        {
+          "start_ref": "43001014",
+          "start_ref_usfm": "JHN 1:14",
+          "end_ref": "43001014",
+          "end_ref_usfm": "JHN 1:14"
+        },
+        {
+          "start_ref": "62001001",
+          "start_ref_usfm": "1JN 1:1",
+          "end_ref": "62001001",
+          "end_ref_usfm": "1JN 1:1"
+        },
+        {
+          "start_ref": "66019013",
+          "start_ref_usfm": "REV 19:13",
+          "end_ref": "66019013",
+          "end_ref_usfm": "REV 19:13"
+        },
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001018",
+          "end_ref_usfm": "JHN 1:18"
+        },
+        {
+          "start_ref": "20008022",
+          "start_ref_usfm": "PRO 8:22",
+          "end_ref": "20008031",
+          "end_ref_usfm": "PRO 8:31"
+        },
+        {
+          "start_ref": "01001003",
+          "start_ref_usfm": "GEN 1:3",
+          "end_ref": "01001028",
+          "end_ref_usfm": "GEN 1:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

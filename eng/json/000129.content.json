@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 500442,
+    "reference_id": 203385,
+    "title": "Letters to the Seven Churches",
+    "media_type": "Text",
+    "index_reference": "letters to the seven churches",
+    "language": "eng",
+    "content": "<p>In the letters to the seven churches of Asia, the apostle John uses a single literary pattern (<a href=\"https://ref.ly/Rev2:1-Rev3:22\">Revelation 2–3</a>). Each letter starts with an address to the “angel of the church” in a specific city. It then mentions an aspect of Jesus’ appearance from the vision of &quot;the Son of Man&quot; (<a href=\"https://ref.ly/Rev1:12-Rev1:18\">1:12–18</a>). </p><p>Jesus says that he knows each church and describes its condition. He gives advice or judgment and promises a reward for obedience. Each time, Jesus emphasizes the importance of paying full attention to the Holy Spirit’s message to the churches.</p><p>Interpreters often divide the seven letters into separate messages, symbolizing seven types of people or time periods. Yet, these letters were first from Jesus to specific local churches in Asia. Jesus knows each local gathering of Christians and encourages them to follow him faithfully. </p><p>Together, these letters form a unified message for the church at all times and places, knowing its weaknesses. Any local gathering of Christians might resemble one of these churches, and each community has people similar to those Christians. Jesus invites every community of Christians to examine itself using all these messages.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Rev2:1-Rev3:22\">Revelation 2:1–3:22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "66002001",
+          "start_ref_usfm": "REV 2:1",
+          "end_ref": "66003022",
+          "end_ref_usfm": "REV 3:22"
+        },
+        {
+          "start_ref": "66001012",
+          "start_ref_usfm": "REV 1:12",
+          "end_ref": "66001018",
+          "end_ref_usfm": "REV 1:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

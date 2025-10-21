@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 800369,
+    "reference_id": 203200,
+    "title": "Compreendendo Jó",
+    "media_type": "Text",
+    "index_reference": "compreendendo jó",
+    "language": "por",
+    "content": "<p>A história de Jó apresenta uma tensão entre os aspectos bons e ruins de seu caráter. O início do livro claramente aprova Jó (<a href=\"https://ref.ly/Job1:1\">Jó 1.1</a>,<a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2.3</a>). Mas mais tarde, Deus questiona Jó diretamente: “As suas palavras só mostram a sua ignorância; quem é você para pôr em dúvida a minha sabedoria?” (<a href=\"https://ref.ly/Job38:2\">38.2</a>). “Será que você está querendo provar que sou injusto, que eu sou culpado, e você é inocente?” (<a href=\"https://ref.ly/Job40:8\">40.8</a>).</p><p>Alguns intérpretes acreditam que Jó fala demais e confunde o trabalho de Deus com o de Satanás. Alguns intérpretes modernos culpam Jó por seu sofrimento, concordando com seus amigos. Outros argumentam como Elifaz e Eliú (<a href=\"https://ref.ly/Job5:17-Job5:27\">5.17–27</a>; <a href=\"https://ref.ly/Job33:15-Job33:33\">33.15–33</a>; <a href=\"https://ref.ly/Job36:7-Job36:17\">36.7–17</a>). Eles dizem que o sofrimento de Jó é a disciplina amorosa de Deus. Mesmo os fiéis de Deus enfrentam tal disciplina (<a href=\"https://ref.ly/Heb12:6-Heb12:12\">Hebreus 12.6–12</a>; veja <a href=\"https://ref.ly/Prov3:11-Prov3:12\">Provérbios 3.11–12</a>). Mas essa ideia contradiz a declaração de abertura do livro.</p><p>Jó sofreu porque Deus queria mostrar a Satanás que Jó era honesto e fiel. Deus sempre teve uma visão positiva da vida de Jó (<a href=\"https://ref.ly/Job1:1\">Jó 1.1</a>,<a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2.3</a>; <a href=\"https://ref.ly/Job42:7\">42.7</a>). Esta ideia continua no Novo Testamento, onde Jó é um exemplo de paciência que devemos seguir (<a href=\"https://ref.ly/Jas5:11\">Tiago 5.11</a>).</p><p>As reações de Jó são normais. Ele não permanece firme. Suas provações o afetaram. Ele também não enfrenta corajosamente seus problemas como se eles não pudessem afetá-lo. Ele reage como qualquer ser humano reagiria.</p><p>Jó fica com raiva, protesta, reclama e oscila entre confiança e desespero. Mas ele nunca perde a esperança. Ele não amaldiçoa Deus nem confessa falsamente culpa para tentar influenciar Deus a remover seu sofrimento. Embora Jó não consiga entender sua situação, ele sabe que sua resposta virá de Deus (<a href=\"https://ref.ly/Job19:25-Job19:27\">Jó 19.25–27</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Job1:1\">Jó 1.1</a>,<a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2.3</a>; <a href=\"https://ref.ly/Job5:17-Job5:18\">5.17–18</a>; <a href=\"https://ref.ly/Job19:25-Job19:27\">19.25–27</a>; <a href=\"https://ref.ly/Job33:15-Job33:28\">33.15–28</a>; <a href=\"https://ref.ly/Job36:8-Job36:15\">36.8–15</a>; <a href=\"https://ref.ly/Job38:2\">38.2</a>; <a href=\"https://ref.ly/Job40:8\">40.8</a>; <a href=\"https://ref.ly/Job42:7\">42.7</a>; <a href=\"https://ref.ly/Prov3:11\">Provérbios 3.11</a>; <a href=\"https://ref.ly/Heb12:7\">Hebreus 12.7</a>,<a href=\"https://ref.ly/Heb12:10\">10</a>; <a href=\"https://ref.ly/Jas5:11\">Tiago 5.11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        },
+        {
+          "start_ref": "18001008",
+          "start_ref_usfm": "JOB 1:8",
+          "end_ref": "18001008",
+          "end_ref_usfm": "JOB 1:8"
+        },
+        {
+          "start_ref": "18002003",
+          "start_ref_usfm": "JOB 2:3",
+          "end_ref": "18002003",
+          "end_ref_usfm": "JOB 2:3"
+        },
+        {
+          "start_ref": "18038002",
+          "start_ref_usfm": "JOB 38:2",
+          "end_ref": "18038002",
+          "end_ref_usfm": "JOB 38:2"
+        },
+        {
+          "start_ref": "18040008",
+          "start_ref_usfm": "JOB 40:8",
+          "end_ref": "18040008",
+          "end_ref_usfm": "JOB 40:8"
+        },
+        {
+          "start_ref": "18042007",
+          "start_ref_usfm": "JOB 42:7",
+          "end_ref": "18042007",
+          "end_ref_usfm": "JOB 42:7"
+        },
+        {
+          "start_ref": "20003011",
+          "start_ref_usfm": "PRO 3:11",
+          "end_ref": "20003011",
+          "end_ref_usfm": "PRO 3:11"
+        },
+        {
+          "start_ref": "58012007",
+          "start_ref_usfm": "HEB 12:7",
+          "end_ref": "58012007",
+          "end_ref_usfm": "HEB 12:7"
+        },
+        {
+          "start_ref": "58012010",
+          "start_ref_usfm": "HEB 12:10",
+          "end_ref": "58012010",
+          "end_ref_usfm": "HEB 12:10"
+        },
+        {
+          "start_ref": "59005011",
+          "start_ref_usfm": "JAS 5:11",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "18019025",
+          "start_ref_usfm": "JOB 19:25",
+          "end_ref": "18019027",
+          "end_ref_usfm": "JOB 19:27"
+        },
+        {
+          "start_ref": "20003011",
+          "start_ref_usfm": "PRO 3:11",
+          "end_ref": "20003012",
+          "end_ref_usfm": "PRO 3:12"
+        },
+        {
+          "start_ref": "18005017",
+          "start_ref_usfm": "JOB 5:17",
+          "end_ref": "18005027",
+          "end_ref_usfm": "JOB 5:27"
+        },
+        {
+          "start_ref": "18033015",
+          "start_ref_usfm": "JOB 33:15",
+          "end_ref": "18033033",
+          "end_ref_usfm": "JOB 33:33"
+        },
+        {
+          "start_ref": "18036007",
+          "start_ref_usfm": "JOB 36:7",
+          "end_ref": "18036017",
+          "end_ref_usfm": "JOB 36:17"
+        },
+        {
+          "start_ref": "58012006",
+          "start_ref_usfm": "HEB 12:6",
+          "end_ref": "58012012",
+          "end_ref_usfm": "HEB 12:12"
+        },
+        {
+          "start_ref": "18005017",
+          "start_ref_usfm": "JOB 5:17",
+          "end_ref": "18005018",
+          "end_ref_usfm": "JOB 5:18"
+        },
+        {
+          "start_ref": "18033015",
+          "start_ref_usfm": "JOB 33:15",
+          "end_ref": "18033028",
+          "end_ref_usfm": "JOB 33:28"
+        },
+        {
+          "start_ref": "18036008",
+          "start_ref_usfm": "JOB 36:8",
+          "end_ref": "18036015",
+          "end_ref_usfm": "JOB 36:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

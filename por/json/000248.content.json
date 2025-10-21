@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 800321,
+    "reference_id": 203152,
+    "title": "Realeza",
+    "media_type": "Text",
+    "index_reference": "realeza",
+    "language": "por",
+    "content": "<p>Israel queria um rei para ser &quot;como todas as outras nações&quot;. Na época de Saul e Davi, a realeza no antigo Oriente Próximo já existia há quase dois mil anos. Isso era especialmente verdadeiro nos impérios egípcio e babilônico. Mesmo nações menores como a <span>Filisteia</span>, Moabe e Edom tinham reis com governos e exércitos permanentes. As pessoas acreditavam que os reis eram escolhidos pelos deuses para governar os assuntos humanos. Os reis governavam ou para os deuses ou como deuses eles mesmos.</p><p>Os israelitas queriam ser como outras nações e ignoraram os efeitos a longo prazo de ter um rei, apesar dos avisos do profeta Samuel (<a href=\"https://ref.ly/1Sam8:10-1Sam8:18\">1Sm 8.10–18</a>). Ao longo de vários séculos, ter reis provou que Samuel estava certo. Reis maus levaram o povo escolhido de Deus ao controle estrangeiro e ao exílio. No entanto, Deus usou a monarquia para realizar seus planos, pois ele providenciou o Messias (o escolhido de Deus) através de Davi e sua linhagem familiar, criando um reino eterno (veja <a href=\"https://ref.ly/2Sam7:8-2Sam7:16\">2 Samuel 7.8–16</a>; <a href=\"https://ref.ly/Matt21:1-Matt21:11\">Mateus 21.1–11</a>; <a href=\"https://ref.ly/Rev5:5\">Apocalipse 5.5</a>; <a href=\"https://ref.ly/Rev11:15\">11.15</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Deut17:14-Deut17:20\">Deuteronômio 17.14–20</a>; <a href=\"https://ref.ly/Deut33:5\">33.5</a>; <a href=\"https://ref.ly/Judg17:6\">Juízes 17.6</a>; <a href=\"https://ref.ly/Judg21:25\">21.25</a>; <a href=\"https://ref.ly/1Sam8:5-1Sam8:22\">1 Samuel 8.5–22</a>; <a href=\"https://ref.ly/1Sam10:1\">10.1</a>,<a href=\"https://ref.ly/1Sam10:24-1Sam10:25\">24–25</a>; <a href=\"https://ref.ly/2Sam7:8-2Sam7:16\">2 Samuel 7.8–16</a>; <a href=\"https://ref.ly/Ps89:35-Ps89:37\">Salmos 89.35–37</a>; <a href=\"https://ref.ly/Eccl8:2-Eccl8:5\">Eclesiastes 8.2–5</a>; <a href=\"https://ref.ly/Isa33:22\">Isaías 33.22</a>; <a href=\"https://ref.ly/Matt21:1-Matt21:11\">Mateus 21.1–11</a>; <a href=\"https://ref.ly/Matt22:42-Matt22:46\">22.42–46</a>; <a href=\"https://ref.ly/Matt27:11\">27.11</a>; <a href=\"https://ref.ly/1Tim1:17\">1 Timóteo 1.17</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:14\">1 Pedro 2.13–14</a>; <a href=\"https://ref.ly/Rev5:5\">Apocalipse 5.5</a>; <a href=\"https://ref.ly/Rev11:15\">11.15</a>; <a href=\"https://ref.ly/Rev15:3\">15.3</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05033005",
+          "start_ref_usfm": "DEU 33:5",
+          "end_ref": "05033005",
+          "end_ref_usfm": "DEU 33:5"
+        },
+        {
+          "start_ref": "07017006",
+          "start_ref_usfm": "JDG 17:6",
+          "end_ref": "07017006",
+          "end_ref_usfm": "JDG 17:6"
+        },
+        {
+          "start_ref": "07021025",
+          "start_ref_usfm": "JDG 21:25",
+          "end_ref": "07021025",
+          "end_ref_usfm": "JDG 21:25"
+        },
+        {
+          "start_ref": "09010001",
+          "start_ref_usfm": "1SA 10:1",
+          "end_ref": "09010001",
+          "end_ref_usfm": "1SA 10:1"
+        },
+        {
+          "start_ref": "23033022",
+          "start_ref_usfm": "ISA 33:22",
+          "end_ref": "23033022",
+          "end_ref_usfm": "ISA 33:22"
+        },
+        {
+          "start_ref": "40027011",
+          "start_ref_usfm": "MAT 27:11",
+          "end_ref": "40027011",
+          "end_ref_usfm": "MAT 27:11"
+        },
+        {
+          "start_ref": "54001017",
+          "start_ref_usfm": "1TI 1:17",
+          "end_ref": "54001017",
+          "end_ref_usfm": "1TI 1:17"
+        },
+        {
+          "start_ref": "66005005",
+          "start_ref_usfm": "REV 5:5",
+          "end_ref": "66005005",
+          "end_ref_usfm": "REV 5:5"
+        },
+        {
+          "start_ref": "66011015",
+          "start_ref_usfm": "REV 11:15",
+          "end_ref": "66011015",
+          "end_ref_usfm": "REV 11:15"
+        },
+        {
+          "start_ref": "66015003",
+          "start_ref_usfm": "REV 15:3",
+          "end_ref": "66015003",
+          "end_ref_usfm": "REV 15:3"
+        },
+        {
+          "start_ref": "10007008",
+          "start_ref_usfm": "2SA 7:8",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "60002013",
+          "start_ref_usfm": "1PE 2:13",
+          "end_ref": "60002014",
+          "end_ref_usfm": "1PE 2:14"
+        },
+        {
+          "start_ref": "09008010",
+          "start_ref_usfm": "1SA 8:10",
+          "end_ref": "09008018",
+          "end_ref_usfm": "1SA 8:18"
+        },
+        {
+          "start_ref": "09008005",
+          "start_ref_usfm": "1SA 8:5",
+          "end_ref": "09008022",
+          "end_ref_usfm": "1SA 8:22"
+        },
+        {
+          "start_ref": "09010024",
+          "start_ref_usfm": "1SA 10:24",
+          "end_ref": "09010025",
+          "end_ref_usfm": "1SA 10:25"
+        },
+        {
+          "start_ref": "19089035",
+          "start_ref_usfm": "PSA 89:35",
+          "end_ref": "19089037",
+          "end_ref_usfm": "PSA 89:37"
+        },
+        {
+          "start_ref": "21008002",
+          "start_ref_usfm": "ECC 8:2",
+          "end_ref": "21008005",
+          "end_ref_usfm": "ECC 8:5"
+        },
+        {
+          "start_ref": "40022042",
+          "start_ref_usfm": "MAT 22:42",
+          "end_ref": "40022046",
+          "end_ref_usfm": "MAT 22:46"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

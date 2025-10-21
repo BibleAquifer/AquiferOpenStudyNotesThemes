@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 702425,
+    "reference_id": 203361,
+    "title": "الفرح المسيحي",
+    "media_type": "Text",
+    "index_reference": "الفرح المسيحي",
+    "language": "arb",
+    "content": "<p>في الساعات الأخيرة من حياته، أراد يسوع أن يمتلئ تلاميذه بفرحه (انظر <a href=\"https://ref.ly/John15:11\">يوحنا 15:11</a>; <a href=\"https://ref.ly/John16:20-John16:24\">16:20–24</a>). الفرح هو موضوع شائع في العديد من رسائل الرسول بولس، وخاصة في رسالة فيلبي. كان بولس يشجّع المسيحيين على الفرح، خاصة الذين يعانون من الاضطهاد، مثل مؤمني فيلبي وتسالونيكي (<a href=\"https://ref.ly/Phil3:1\">فيلبي 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 تسالونيكي 5:16</a>).</p><p>السعادة التي تعتمد على الظروف الخارجية هي مؤقتة، لكن الفرح المسيحي مختلف. فهو يأتي من العلاقة مع الرب، ويستمر حتى في أوقات الألم والموت. الفرح ينبع من الثقة بأن الله يستخدم كل الأمور لخير المؤمن في النهاية (انظر <a href=\"https://ref.ly/Rom5:3-Rom5:4\">رومية 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>).</p><p>ويجد المسيحيون الفرح أيضًا في الحضور الفعّال لروح الله في قلوبهم (انظر <a href=\"https://ref.ly/Gal5:22\">غلاطية 5:22</a>). والسر الحقيقي لحياة مليئة بالفرح يكمن في الامتلاء بالروح القدوس &quot;أ<span>مْتَلِئُوا بِٱلرُّوحِ</span>&quot; (انظر <a href=\"https://ref.ly/Eph5:18\">أفسس 5:18</a>). العلاقة مع الله الحي هي التي تشكل أفكار وردود أفعال المسيحيين، وليس الظروف الخارجية.</p><p><u>مقاطع إضافية للدراسة</u></p><p><a href=\"https://ref.ly/John15:11\">يوحنا 15:11</a>; <a href=\"https://ref.ly/John16:24\">16:24</a>; <a href=\"https://ref.ly/Rom5:3-Rom5:4\">رومية 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>; <a href=\"https://ref.ly/Gal5:22\">غلاطية 5:22</a>; <a href=\"https://ref.ly/Eph5:18\">أفسس 5:18</a>; <a href=\"https://ref.ly/Phil3:1\">فيلبي 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 تسالونيكي 5:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43015011",
+          "start_ref_usfm": "JHN 15:11",
+          "end_ref": "43015011",
+          "end_ref_usfm": "JHN 15:11"
+        },
+        {
+          "start_ref": "43016024",
+          "start_ref_usfm": "JHN 16:24",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "48005022",
+          "start_ref_usfm": "GAL 5:22",
+          "end_ref": "48005022",
+          "end_ref_usfm": "GAL 5:22"
+        },
+        {
+          "start_ref": "49005018",
+          "start_ref_usfm": "EPH 5:18",
+          "end_ref": "49005018",
+          "end_ref_usfm": "EPH 5:18"
+        },
+        {
+          "start_ref": "50003001",
+          "start_ref_usfm": "PHP 3:1",
+          "end_ref": "50003001",
+          "end_ref_usfm": "PHP 3:1"
+        },
+        {
+          "start_ref": "50004004",
+          "start_ref_usfm": "PHP 4:4",
+          "end_ref": "50004004",
+          "end_ref_usfm": "PHP 4:4"
+        },
+        {
+          "start_ref": "52005016",
+          "start_ref_usfm": "1TH 5:16",
+          "end_ref": "52005016",
+          "end_ref_usfm": "1TH 5:16"
+        },
+        {
+          "start_ref": "45005003",
+          "start_ref_usfm": "ROM 5:3",
+          "end_ref": "45005004",
+          "end_ref_usfm": "ROM 5:4"
+        },
+        {
+          "start_ref": "43016020",
+          "start_ref_usfm": "JHN 16:20",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

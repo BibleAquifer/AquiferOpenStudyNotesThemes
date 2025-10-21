@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 500338,
+    "reference_id": 203281,
+    "title": "Ancestors of Jesus",
+    "media_type": "Text",
+    "index_reference": "ancestors of jesus",
+    "language": "eng",
+    "content": "<p>Both the Gospel of Matthew and the Gospel of Luke include a list of Jesus&apos; ancestors (<a href=\"https://ref.ly/Matt1:1-Matt1:17\">Matthew 1:1–17</a>; <a href=\"https://ref.ly/Luke3:23-Luke3:38\">Luke 3:23–38</a>). These lists are called &quot;genealogies.&quot; The two genealogies are different after they mention King David. Matthew&apos;s list shows Jesus&apos; family history through David’s son King Solomon, while Luke&apos;s list shows Jesus&apos; family history through David’s son Nathan. Why are there two different lists? One possible explanation is that Matthew records Joseph’s family history, while Luke records Mary’s. In this case, Joseph would be Heli’s son-in-law.</p><p>In ancient Jewish culture, people kept very careful records of their family histories. Josephus (a Jewish historian who lived in the first century AD) confirms this in his writings. Genealogies were important in the Old Testament and Judaism because land rights were for families in Israel. Certain roles, like priest and king, passed from father to son. </p><p>Genealogies often showed connections from the past to the present. They emphasized religious themes, family descent, political ties, and simple timelines (<a href=\"https://ref.ly/1Chr1:1-1Chr9:44\">1 Chronicles 1–9</a>). Most genealogies listed important persons in the history of Israel. They were not a complete record of every family member.</p><p>Matthew and Luke each had different reasons for listing Jesus&apos;s ancestors. Matthew wanted to show that Jesus descended from Abraham through David. Matthew&apos;s genealogy confirms Jesus as a rightful heir to David&apos;s throne. Therefore, Matthew shows Jesus&apos; ancestors back to Abraham, the father of the Jewish people. In contrast, Luke&apos;s genealogy lists Jesus&apos; ancestors back to the first human, Adam. This aligns with Luke&apos;s focus on Jesus as the Savior for all people everywhere.</p><p>In Matthew&apos;s genealogy, it is notable that he mentions women. These women include Tamar, Rahab, Ruth, and Bathsheba. Some had bad reputations and some were non-Jews (gentiles). This emphasizes God&apos;s grace to redeem those whom others consider unworthy.</p><p>The genealogies of Jesus do not prove he is the Messiah (God&apos;s chosen one), but they do make him a possible candidate. His identity as the Messiah becomes clear in other ways (<a href=\"https://ref.ly/Matt11:2-Matt11:6\">Matthew 11:2–6</a>). God guided history to its climax. Jesus is the expected Messiah of the Old Testament. He is the savior of his people, and the king descended from David who takes his throne (see <a href=\"https://ref.ly/2Sam7:16\">2 Samuel 7:16</a>). Jesus is the heir to Abraham and ultimately fulfills God&apos;s promises to Abraham (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Genesis 12:1–3</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen12:1-Gen12:3\">Genesis 12:1–3</a>; <a href=\"https://ref.ly/2Sam7:16\">2 Samuel 7:16</a>; <a href=\"https://ref.ly/Matt1:1-Matt1:17\">Matthew 1:1–17</a>; <a href=\"https://ref.ly/Luke3:23-Luke3:38\">Luke 3:23–38</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10007016",
+          "start_ref_usfm": "2SA 7:16",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "42003023",
+          "start_ref_usfm": "LUK 3:23",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13009044",
+          "end_ref_usfm": "1CH 9:44"
+        },
+        {
+          "start_ref": "40011002",
+          "start_ref_usfm": "MAT 11:2",
+          "end_ref": "40011006",
+          "end_ref_usfm": "MAT 11:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

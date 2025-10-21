@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 702421,
+    "reference_id": 203357,
+    "title": "الحياة القديمة والحياة الجديدة",
+    "media_type": "Text",
+    "index_reference": "الحياة القديمة والحياة الجديدة",
+    "language": "arb",
+    "content": "<p>عندما يصبح الأشخاص مسيحيين، يتحدون بالمسيح ويشاركونه في موته وقيامته. وتنتهي حياتهم القديمة التي اتسمت بالخطية، ويبدؤون حياة جديدة بقوة المسيح الساكنة فيهم (انظر <a href=\"https://ref.ly/Rom6:3-Rom6:14\">رومية 6:3–14</a>).</p><p>إن الله يُحولهم بروحه، فيُجدد أذهانهم (انظر <a href=\"https://ref.ly/Rom12:2\">رومية 12:2</a>). وتتغير رغباتهم وأفعالهم، وتبدأ حياتهم بإظهار ثمار الروح (<a href=\"https://ref.ly/Gal5:22-Gal5:23\">غلاطية 5:22–23</a>). وهكذا يبدؤون في النمو روحياً ويصيرون أكثر شبهًا بالمسيح.</p><p>فمن الواجب على المسيحيين أن يعيشوا حياة يكونوا فيها &quot;متشبهين&quot; بموت وقيامة يسوع (انظر <a href=\"https://ref.ly/Phil3:10-Phil3:11\">فيلبي 3:10–14</a>). فعليهم أن يتركوا الظلمة ويلتزموا بحياة النور (<a href=\"https://ref.ly/Eph4:17-Eph5:20\">أفسس 4:17–5:20</a>). وهذا يعني أن يجب عليهم التوقف عن العيش في حياة الشر ويعيشوا في طرُق الله الصالحة. يُعبر الرسول بولس عن هذا التغيير بصورة الثياب، فيدعو الله المؤمنين لخلع الحياة القديمة الملوثة بالشر والخداع، وارتداء حياة جديدة نقية، يقودها الروح القدس (<a href=\"https://ref.ly/Eph4:21-Eph4:24\">أفسس 4:21–24</a>; <a href=\"https://ref.ly/Col3:1-Col3:15\">كولوسي 3:1–15</a>; أيضًا <a href=\"https://ref.ly/Gal3:27\">غلاطية 3:27</a>). وبذلك، يعترفون باعتمادهم الكامل على نعمة وقوة الله.</p><p><u>نصوص إضافية للدراسة</u></p><p><a href=\"https://ref.ly/Rom6:3-Rom6:14\">رومية 6:3–14</a>؛ <a href=\"https://ref.ly/Rom12:1-Rom12:2\">12:1–2</a>؛ <a href=\"https://ref.ly/Gal5:19-Gal5:23\">غلاطية 5:19–23</a>؛ <a href=\"https://ref.ly/Eph4:17-Eph5:20\">أفسس 4:17–5:20</a>؛ <a href=\"https://ref.ly/Phil3:12-Phil3:13\">فيلبي 3:12–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45012002",
+          "start_ref_usfm": "ROM 12:2",
+          "end_ref": "45012002",
+          "end_ref_usfm": "ROM 12:2"
+        },
+        {
+          "start_ref": "48003027",
+          "start_ref_usfm": "GAL 3:27",
+          "end_ref": "48003027",
+          "end_ref_usfm": "GAL 3:27"
+        },
+        {
+          "start_ref": "50003010",
+          "start_ref_usfm": "PHP 3:10",
+          "end_ref": "50003011",
+          "end_ref_usfm": "PHP 3:11"
+        },
+        {
+          "start_ref": "45012001",
+          "start_ref_usfm": "ROM 12:1",
+          "end_ref": "45012002",
+          "end_ref_usfm": "ROM 12:2"
+        },
+        {
+          "start_ref": "48005022",
+          "start_ref_usfm": "GAL 5:22",
+          "end_ref": "48005023",
+          "end_ref_usfm": "GAL 5:23"
+        },
+        {
+          "start_ref": "48005019",
+          "start_ref_usfm": "GAL 5:19",
+          "end_ref": "48005023",
+          "end_ref_usfm": "GAL 5:23"
+        },
+        {
+          "start_ref": "49004017",
+          "start_ref_usfm": "EPH 4:17",
+          "end_ref": "49005020",
+          "end_ref_usfm": "EPH 5:20"
+        },
+        {
+          "start_ref": "45006003",
+          "start_ref_usfm": "ROM 6:3",
+          "end_ref": "45006014",
+          "end_ref_usfm": "ROM 6:14"
+        },
+        {
+          "start_ref": "49004021",
+          "start_ref_usfm": "EPH 4:21",
+          "end_ref": "49004024",
+          "end_ref_usfm": "EPH 4:24"
+        },
+        {
+          "start_ref": "51003001",
+          "start_ref_usfm": "COL 3:1",
+          "end_ref": "51003015",
+          "end_ref_usfm": "COL 3:15"
+        },
+        {
+          "start_ref": "50003012",
+          "start_ref_usfm": "PHP 3:12",
+          "end_ref": "50003013",
+          "end_ref_usfm": "PHP 3:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

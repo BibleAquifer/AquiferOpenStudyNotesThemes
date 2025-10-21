@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500388,
+    "reference_id": 203331,
+    "title": "The Unknown God",
+    "media_type": "Text",
+    "index_reference": "the unknown god",
+    "language": "eng",
+    "content": "<p>The apostle Paul spoke to the Areopagus, the high council of the city of Athens (<a href=\"https://ref.ly/Acts17:19\">Acts 17:19</a>). He spoke to people who did not share his belief in the God of Abraham and Moses. This God had revealed himself, &quot;<span>On many past occasions and in many different ways… through the prophets</span>&quot; (<a href=\"https://ref.ly/Heb1:1\">Hebrews 1:1</a>). </p><p>Paul&apos;s audience thought differently about religion than he did. They had many gods in their culture, and common people still believed in the ancient gods. Yet, many of the people who influenced the culture of Athens no longer believed the gods existed. Instead, they followed either <em>materialism</em> (the belief that only physical things exist) or <em>pantheism</em> (the belief that the divine is in everything).</p><p>They all lacked the belief in one true God who is Lord of all. Their myths described the actions of various gods, but they did not believe that the ultimate reality, God himself, could be known. Instead, they reasoned and discussed the latest ideas, hoping to better understand the nature of things.</p><p>When Paul visited Athens, many philosophical ideas were popular. Yet, Stoicism and Epicureanism were the two main schools of thought (<a href=\"https://ref.ly/Acts17:18\">Acts 17:18</a>).</p><p>Stoicism was founded by Zeno of Citium, who lived from around 334 to 262 BC. Those who followed the teachings of Stoicism were called Stoics. The Stoics studied nature&apos;s laws and believed in the <em>Logos</em>, a force that organizes and sustains everything. This force gives life and reason to humans. A good life is one where reason leads, and peace of mind and harmony with nature exist. Many important ancient leaders were Stoics or influenced by Stoicism. This included Cicero, Seneca, and Marcus Aurelius. Some Christians found Stoic ideas appealing because of similarities between the Stoic <em>Logos</em> and the divine <em>Logos</em> and between natural law and God&apos;s law (<a href=\"https://ref.ly/John1:1-John1:18\">John 1:1–18</a>).</p><p>The Epicureans were people who followed the teachings of Epicurus, who lived from 341 to 270 BC. They were empiricists, which means they believed knowledge comes from what we can experience with our senses (like seeing, hearing, or touching) rather than from abstract reasoning. Epicureans focused on natural evidence and showed little interest in mathematics. Their main interest was ethics, the study of right behavior (morality). They judged actions or things by the pleasure or pain they caused. Epicurus viewed belief in gods as a threat to peace of mind. He and his followers believed that no one should fear either gods or death.</p><p>When Paul spoke, he used their poets to explain complex ideas. He said that the God who created everything is personal and able to be known. God showed himself clearly, in real history, and in a complete way in Jesus Christ. After death, there is not an end or a journey of the soul, but only coming judgment. The resurrection of Jesus from the dead proves all these things.</p><p>Most Greeks in Athens thought it was foolish, but it is the ultimate truth. God can be known through Jesus Christ.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ps50:7-Ps50:15\">Psalm 50:7–15</a>; <a href=\"https://ref.ly/Isa42:5-Isa42:7\">Isaiah 42:5–7</a>; <a href=\"https://ref.ly/Acts17:16-Acts17:32\">Acts 17:16–32</a>; <a href=\"https://ref.ly/Rom1:18-Rom1:32\">Romans 1:18–32</a>; <a href=\"https://ref.ly/Col1:15-Col1:23\">Colossians 1:15–23</a>; <a href=\"https://ref.ly/Col2:6-Col2:12\">Colossians 2:6–12</a>; <a href=\"https://ref.ly/1Thess1:9-1Thess1:10\">1 Thessalonians 1:9–10</a>; <a href=\"https://ref.ly/Heb1:1-Heb1:4\">Hebrews 1:1–4</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017018",
+          "start_ref_usfm": "ACT 17:18",
+          "end_ref": "44017018",
+          "end_ref_usfm": "ACT 17:18"
+        },
+        {
+          "start_ref": "44017019",
+          "start_ref_usfm": "ACT 17:19",
+          "end_ref": "44017019",
+          "end_ref_usfm": "ACT 17:19"
+        },
+        {
+          "start_ref": "58001001",
+          "start_ref_usfm": "HEB 1:1",
+          "end_ref": "58001001",
+          "end_ref_usfm": "HEB 1:1"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001032",
+          "end_ref_usfm": "ROM 1:32"
+        },
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001018",
+          "end_ref_usfm": "JHN 1:18"
+        },
+        {
+          "start_ref": "19050007",
+          "start_ref_usfm": "PSA 50:7",
+          "end_ref": "19050015",
+          "end_ref_usfm": "PSA 50:15"
+        },
+        {
+          "start_ref": "52001009",
+          "start_ref_usfm": "1TH 1:9",
+          "end_ref": "52001010",
+          "end_ref_usfm": "1TH 1:10"
+        },
+        {
+          "start_ref": "51001015",
+          "start_ref_usfm": "COL 1:15",
+          "end_ref": "51001023",
+          "end_ref_usfm": "COL 1:23"
+        },
+        {
+          "start_ref": "58001001",
+          "start_ref_usfm": "HEB 1:1",
+          "end_ref": "58001004",
+          "end_ref_usfm": "HEB 1:4"
+        },
+        {
+          "start_ref": "23042005",
+          "start_ref_usfm": "ISA 42:5",
+          "end_ref": "23042007",
+          "end_ref_usfm": "ISA 42:7"
+        },
+        {
+          "start_ref": "44017016",
+          "start_ref_usfm": "ACT 17:16",
+          "end_ref": "44017032",
+          "end_ref_usfm": "ACT 17:32"
+        },
+        {
+          "start_ref": "51002006",
+          "start_ref_usfm": "COL 2:6",
+          "end_ref": "51002012",
+          "end_ref_usfm": "COL 2:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 800401,
+    "reference_id": 203232,
+    "title": "Beleza na natureza",
+    "media_type": "Text",
+    "index_reference": "beleza na natureza",
+    "language": "por",
+    "content": "<p>No final da obra de criação de Deus, Ele disse que tudo o que fez era &quot;muito bom&quot; (<a href=\"https://ref.ly/Gen1:31\">Gênesis 1.31</a>). As Escrituras frequentemente destacam a beleza e a maravilha da criação de Deus, especialmente nos salmos (veja, por exemplo, <a href=\"https://ref.ly/Ps8:3-Ps8:4\">Salmo 8.3–4</a>; <a href=\"https://ref.ly/Ps104:1-Ps104:35\">Salmo 104.1–35</a>).</p><p>A natureza e as imagens da natureza são importantes no Cântico de Salomão (ou Cântico dos Cânticos). O homem e a mulher frequentemente expressam seu amor no campo (<a href=\"https://ref.ly/Song2:8-Song2:17\">Cântico dos Cânticos 2.8–17</a>; <a href=\"https://ref.ly/Song4:12-Song5:1\">4.12–5.1</a>; <a href=\"https://ref.ly/Song6:2-Song6:3\">6.2–3</a>,<a href=\"https://ref.ly/Song6:11-Song6:12\">11–12</a>). Este é um lugar com aromas agradáveis e locais privados. O jardim, a vinha e o pomar criam cenários íntimos e românticos. O mistério da natureza lhes oferece um cenário simples, mas desconhecido e emocionante para o seu amor.</p><p>O casal utiliza muitas metáforas da natureza para descrever as características físicas um do outro e seus efeitos emocionantes. As descrições que fazem um do outro os levam a usar ilustrações da criação de Deus.</p><p>A natureza direciona as pessoas ao Criador, mostrando evidências de Seu poder, bondade, justiça e amor (veja <a href=\"https://ref.ly/Ps19:1-Ps19:4\">Salmo 19.1–4</a>; <a href=\"https://ref.ly/Rom1:18-Rom1:20\">Romanos 1.18–20</a>). O desejo de Deus por redenção, restauração e nova criação também é evidente na beleza da natureza. Exemplos incluem as mudanças das estações, o crescimento das plantas e o nascimento das crianças.</p><p><u>Seções para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen2:1-Gen2:9\">Gênesis 2.1–9</a>; <a href=\"https://ref.ly/Ps8:3-Ps8:8\">Salmos 8.3–8</a>; <a href=\"https://ref.ly/Ps19:1-Ps19:6\">19.1–6</a>; <a href=\"https://ref.ly/Ps96:5-Ps96:6\">96.5–6</a>; <a href=\"https://ref.ly/Song2:8-Song2:17\">Cântico dos Cânticos 2.8–17</a>; <a href=\"https://ref.ly/Song4:12-Song5:1\">4.12–5.1</a>; <a href=\"https://ref.ly/Song6:2-Song6:3\">6.2–3</a>,<a href=\"https://ref.ly/Song6:11-Song6:12\">11–12</a>; <a href=\"https://ref.ly/Song7:10-Song7:13\">7.10–13</a>; <a href=\"https://ref.ly/Matt6:26-Matt6:30\">Mateus 6.26–30.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001031",
+          "start_ref_usfm": "GEN 1:31",
+          "end_ref": "01001031",
+          "end_ref_usfm": "GEN 1:31"
+        },
+        {
+          "start_ref": "19019001",
+          "start_ref_usfm": "PSA 19:1",
+          "end_ref": "19019006",
+          "end_ref_usfm": "PSA 19:6"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001020",
+          "end_ref_usfm": "ROM 1:20"
+        },
+        {
+          "start_ref": "19019001",
+          "start_ref_usfm": "PSA 19:1",
+          "end_ref": "19019004",
+          "end_ref_usfm": "PSA 19:4"
+        },
+        {
+          "start_ref": "19104001",
+          "start_ref_usfm": "PSA 104:1",
+          "end_ref": "19104035",
+          "end_ref_usfm": "PSA 104:35"
+        },
+        {
+          "start_ref": "19008003",
+          "start_ref_usfm": "PSA 8:3",
+          "end_ref": "19008004",
+          "end_ref_usfm": "PSA 8:4"
+        },
+        {
+          "start_ref": "22002008",
+          "start_ref_usfm": "SNG 2:8",
+          "end_ref": "22002017",
+          "end_ref_usfm": "SNG 2:17"
+        },
+        {
+          "start_ref": "22004012",
+          "start_ref_usfm": "SNG 4:12",
+          "end_ref": "22005001",
+          "end_ref_usfm": "SNG 5:1"
+        },
+        {
+          "start_ref": "22006002",
+          "start_ref_usfm": "SNG 6:2",
+          "end_ref": "22006003",
+          "end_ref_usfm": "SNG 6:3"
+        },
+        {
+          "start_ref": "22006011",
+          "start_ref_usfm": "SNG 6:11",
+          "end_ref": "22006012",
+          "end_ref_usfm": "SNG 6:12"
+        },
+        {
+          "start_ref": "01002001",
+          "start_ref_usfm": "GEN 2:1",
+          "end_ref": "01002009",
+          "end_ref_usfm": "GEN 2:9"
+        },
+        {
+          "start_ref": "19008003",
+          "start_ref_usfm": "PSA 8:3",
+          "end_ref": "19008008",
+          "end_ref_usfm": "PSA 8:8"
+        },
+        {
+          "start_ref": "19096005",
+          "start_ref_usfm": "PSA 96:5",
+          "end_ref": "19096006",
+          "end_ref_usfm": "PSA 96:6"
+        },
+        {
+          "start_ref": "22007010",
+          "start_ref_usfm": "SNG 7:10",
+          "end_ref": "22007013",
+          "end_ref_usfm": "SNG 7:13"
+        },
+        {
+          "start_ref": "40006026",
+          "start_ref_usfm": "MAT 6:26",
+          "end_ref": "40006030",
+          "end_ref_usfm": "MAT 6:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

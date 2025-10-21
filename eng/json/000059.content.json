@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 500249,
+    "reference_id": 203192,
+    "title": "Ethnic Hatred",
+    "media_type": "Text",
+    "index_reference": "ethnic hatred",
+    "language": "eng",
+    "content": "<p>Selfish pride, a desire to keep power, and hatred for those who oppose them have often led to the persecution of racial or religious groups. Many people have died over the centuries because of this hatred.</p><p>In the book of Esther, Haman hated Mordecai because Mordecai refused to bow down like everyone else when Haman passed by (<a href=\"https://ref.ly/Esth3:1-Esth3:5\">Esther 3:1–5</a>). Haman despised Mordecai, a man of integrity who would not follow laws against his beliefs. This personal hatred for Mordecai, a Jew, became a desire to destroy all Jews (<a href=\"https://ref.ly/Esth3:6\">3:6</a>). The basis for Haman&apos;s accusation against the Jewish people was what he did not like in Mordecai:</p><ul><li><p>They did not act like others, </p></li><li><p>they had unique laws and customs, and </p></li><li><p>they did not follow some of the king&apos;s laws (<a href=\"https://ref.ly/Esth3:8\">3:8</a>).</p></li></ul><p>The Spanish Inquisition in the 1400s and the Holocaust in Nazi Germany during the 1930s and 1940s were terrible attempts to destroy the Jewish people. Religious and ethnic hatred still causes evil plans today.</p><p>God does not approve of hatred against any ethnic or religious group. He will eventually hold accountable those who make such evil plans (see <a href=\"https://ref.ly/Deut30:7\">Deuteronomy 30:7</a>; <a href=\"https://ref.ly/Ps21:7-Ps21:11\">Psalms 21:7–11</a>; <a href=\"https://ref.ly/Ps34:19-Ps34:21\">34:19–21</a>; <a href=\"https://ref.ly/Ps44:7\">44:7</a>). God has often saved the Jewish people and defeated their enemies because he is faithful to all his promises (see <a href=\"https://ref.ly/Rom9:1-Rom11:36\">Romans 9–11</a>). He will also protect his church through all persecution (see <a href=\"https://ref.ly/Matt16:18\">Matthew 16:18</a>; <a href=\"https://ref.ly/Rom8:26-Rom8:39\">Romans 8:26–39</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen46:33-Gen46:34\">Genesis 46:33–34</a>; <a href=\"https://ref.ly/Deut7:1-Deut7:6\">Deuteronomy 7:1–6</a>; <a href=\"https://ref.ly/Deut23:3-Deut23:8\">23:3–8</a>; <a href=\"https://ref.ly/Esth3:1-Esth3:9\">Esther 3:1–9</a>; <a href=\"https://ref.ly/Matt15:22-Matt15:28\">Matthew 15:22–28</a>; <a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a>; <a href=\"https://ref.ly/Acts10:34-Acts10:35\">Acts 10:34–35</a>; <a href=\"https://ref.ly/Rom9:1-Rom11:36\">Romans 9:1–11:36</a>; <a href=\"https://ref.ly/Gal3:26-Gal3:29\">Galatians 3:26–29</a>; <a href=\"https://ref.ly/Eph2:14\">Ephesians 2:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05030007",
+          "start_ref_usfm": "DEU 30:7",
+          "end_ref": "05030007",
+          "end_ref_usfm": "DEU 30:7"
+        },
+        {
+          "start_ref": "17003006",
+          "start_ref_usfm": "EST 3:6",
+          "end_ref": "17003006",
+          "end_ref_usfm": "EST 3:6"
+        },
+        {
+          "start_ref": "17003008",
+          "start_ref_usfm": "EST 3:8",
+          "end_ref": "17003008",
+          "end_ref_usfm": "EST 3:8"
+        },
+        {
+          "start_ref": "19044007",
+          "start_ref_usfm": "PSA 44:7",
+          "end_ref": "19044007",
+          "end_ref_usfm": "PSA 44:7"
+        },
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "49002014",
+          "start_ref_usfm": "EPH 2:14",
+          "end_ref": "49002014",
+          "end_ref_usfm": "EPH 2:14"
+        },
+        {
+          "start_ref": "40015022",
+          "start_ref_usfm": "MAT 15:22",
+          "end_ref": "40015028",
+          "end_ref_usfm": "MAT 15:28"
+        },
+        {
+          "start_ref": "45009001",
+          "start_ref_usfm": "ROM 9:1",
+          "end_ref": "45011036",
+          "end_ref_usfm": "ROM 11:36"
+        },
+        {
+          "start_ref": "44010034",
+          "start_ref_usfm": "ACT 10:34",
+          "end_ref": "44010035",
+          "end_ref_usfm": "ACT 10:35"
+        },
+        {
+          "start_ref": "48003026",
+          "start_ref_usfm": "GAL 3:26",
+          "end_ref": "48003029",
+          "end_ref_usfm": "GAL 3:29"
+        },
+        {
+          "start_ref": "45008026",
+          "start_ref_usfm": "ROM 8:26",
+          "end_ref": "45008039",
+          "end_ref_usfm": "ROM 8:39"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007006",
+          "end_ref_usfm": "DEU 7:6"
+        },
+        {
+          "start_ref": "17003001",
+          "start_ref_usfm": "EST 3:1",
+          "end_ref": "17003005",
+          "end_ref_usfm": "EST 3:5"
+        },
+        {
+          "start_ref": "19021007",
+          "start_ref_usfm": "PSA 21:7",
+          "end_ref": "19021011",
+          "end_ref_usfm": "PSA 21:11"
+        },
+        {
+          "start_ref": "19034019",
+          "start_ref_usfm": "PSA 34:19",
+          "end_ref": "19034021",
+          "end_ref_usfm": "PSA 34:21"
+        },
+        {
+          "start_ref": "01046033",
+          "start_ref_usfm": "GEN 46:33",
+          "end_ref": "01046034",
+          "end_ref_usfm": "GEN 46:34"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023008",
+          "end_ref_usfm": "DEU 23:8"
+        },
+        {
+          "start_ref": "17003001",
+          "start_ref_usfm": "EST 3:1",
+          "end_ref": "17003009",
+          "end_ref_usfm": "EST 3:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

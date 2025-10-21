@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 800510,
+    "reference_id": 203341,
+    "title": "Tolerância",
+    "media_type": "Text",
+    "index_reference": "tolerância",
+    "language": "por",
+    "content": "<p>O apóstolo Paulo exorta à tolerância (compreensão paciente) entre os fracos na fé e os fortes na fé. Ele ensina os cristãos a aceitarem uns aos outros (<a href=\"https://ref.ly/Rom14:1\">Romanos 14.1</a>; <a href=\"https://ref.ly/Rom15:7\">15.7</a>). Ele os instrui a parar de condenar uns aos outros e de fazer com que se sintam insignificantes. Em vez disso, eles devem adorar a Deus com uma voz e espírito unidos (<a href=\"https://ref.ly/Rom15:6\">Romanos 15.6</a>).</p><p>Paulo está discutindo se os cristãos precisam seguir certas leis do Antigo Testamento e práticas de adoração judaicas. Os estudiosos usam a palavra grega <em>adiaphora</em>, que significa &quot;não essenciais&quot;, para descrever crenças ou práticas que as Escrituras nem exigem nem proíbem. Nessas questões, os cristãos devem aceitar diferentes opiniões. Às vezes, os cristãos podem se sentir livres para realizar certas atividades, mas fazê-lo pode causar problemas para outros. Nesses casos, Paulo aconselha os cristãos a considerarem as necessidades dos outros antes das suas próprias (veja <a href=\"https://ref.ly/1Cor8:1-1Cor8:13\">1 Coríntios 8.1–13</a>).</p><p>Paulo adota uma abordagem diferente para a tolerância quando as boas-novas (evangelho) estão em risco. Na carta aos Gálatas, por exemplo, Paulo confronta os falsos ensinamentos sobre as boas-novas, criticando fortemente os falsos mestres (<a href=\"https://ref.ly/Gal1:6-Gal1:9\">Gálatas 1.6–9</a>). Ele adverte os leitores de que aceitar falsos ensinamentos os separará de Cristo (<a href=\"https://ref.ly/Gal5:4\">Gálatas 5.4</a>).</p><p>Hoje, devemos ser cautelosos sobre o que toleramos e a que nos opomos. Os cristãos devem considerar cuidadosamente as questões que encontram com outros cristãos. Se permanecermos fiéis à verdade fundamental das boas-novas sobre Jesus, não devemos discutir ou nos dividir por questões menos importantes.</p><p>No entanto, algumas questões afetam a mensagem central das boas-novas. Nesses casos, os cristãos devem permanecer firmes e fiéis às boas-novas e a Jesus Cristo. Às vezes, é difícil determinar se uma questão é central. Pode ser importante para discussão, mas não essencial para a unidade cristã. A abordagem de Paulo a várias questões em seu tempo pode nos guiar na resolução de conflitos e argumentos hoje.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ps133:1-Ps133:3\">Salmo 133.1–3</a>; <a href=\"https://ref.ly/Rom12:9-Rom12:21\">Romanos 12.9–21</a>; <a href=\"https://ref.ly/Rom14:1-Rom15:13\">14.1–15.13</a>; <a href=\"https://ref.ly/1Cor1:10\">1 Coríntios 1.10</a>; <a href=\"https://ref.ly/1Cor6:1-1Cor6:20\">6.1–20</a>; <a href=\"https://ref.ly/1Cor8:1-1Cor8:13\">8.1–13</a>; <a href=\"https://ref.ly/1Cor10:1-1Cor10:11\">10.1–11.1</a>; <a href=\"https://ref.ly/1Cor12:12-1Cor12:27\">12.12–27</a>; <a href=\"https://ref.ly/1Cor13:1-1Cor13:8\">13.1–8</a>; <a href=\"https://ref.ly/2Cor6:14-2Cor7:1\">2 Coríntios 6.14–7.1</a>; <a href=\"https://ref.ly/Col3:12-Col3:15\">Colossenses 3.12–15</a>; <a href=\"https://ref.ly/2Tim2:23-2Tim2:26\">2 Timóteo 2.23–26</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45014001",
+          "start_ref_usfm": "ROM 14:1",
+          "end_ref": "45014001",
+          "end_ref_usfm": "ROM 14:1"
+        },
+        {
+          "start_ref": "45015006",
+          "start_ref_usfm": "ROM 15:6",
+          "end_ref": "45015006",
+          "end_ref_usfm": "ROM 15:6"
+        },
+        {
+          "start_ref": "45015007",
+          "start_ref_usfm": "ROM 15:7",
+          "end_ref": "45015007",
+          "end_ref_usfm": "ROM 15:7"
+        },
+        {
+          "start_ref": "46001010",
+          "start_ref_usfm": "1CO 1:10",
+          "end_ref": "46001010",
+          "end_ref_usfm": "1CO 1:10"
+        },
+        {
+          "start_ref": "48005004",
+          "start_ref_usfm": "GAL 5:4",
+          "end_ref": "48005004",
+          "end_ref_usfm": "GAL 5:4"
+        },
+        {
+          "start_ref": "46012012",
+          "start_ref_usfm": "1CO 12:12",
+          "end_ref": "46012027",
+          "end_ref_usfm": "1CO 12:27"
+        },
+        {
+          "start_ref": "46006001",
+          "start_ref_usfm": "1CO 6:1",
+          "end_ref": "46006020",
+          "end_ref_usfm": "1CO 6:20"
+        },
+        {
+          "start_ref": "46008001",
+          "start_ref_usfm": "1CO 8:1",
+          "end_ref": "46008013",
+          "end_ref_usfm": "1CO 8:13"
+        },
+        {
+          "start_ref": "47006014",
+          "start_ref_usfm": "2CO 6:14",
+          "end_ref": "47007001",
+          "end_ref_usfm": "2CO 7:1"
+        },
+        {
+          "start_ref": "48001006",
+          "start_ref_usfm": "GAL 1:6",
+          "end_ref": "48001009",
+          "end_ref_usfm": "GAL 1:9"
+        },
+        {
+          "start_ref": "19133001",
+          "start_ref_usfm": "PSA 133:1",
+          "end_ref": "19133003",
+          "end_ref_usfm": "PSA 133:3"
+        },
+        {
+          "start_ref": "46010001",
+          "start_ref_usfm": "1CO 10:1",
+          "end_ref": "46010011",
+          "end_ref_usfm": "1CO 10:11"
+        },
+        {
+          "start_ref": "45012009",
+          "start_ref_usfm": "ROM 12:9",
+          "end_ref": "45012021",
+          "end_ref_usfm": "ROM 12:21"
+        },
+        {
+          "start_ref": "55002023",
+          "start_ref_usfm": "2TI 2:23",
+          "end_ref": "55002026",
+          "end_ref_usfm": "2TI 2:26"
+        },
+        {
+          "start_ref": "45014001",
+          "start_ref_usfm": "ROM 14:1",
+          "end_ref": "45015013",
+          "end_ref_usfm": "ROM 15:13"
+        },
+        {
+          "start_ref": "46013001",
+          "start_ref_usfm": "1CO 13:1",
+          "end_ref": "46013008",
+          "end_ref_usfm": "1CO 13:8"
+        },
+        {
+          "start_ref": "51003012",
+          "start_ref_usfm": "COL 3:12",
+          "end_ref": "51003015",
+          "end_ref_usfm": "COL 3:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

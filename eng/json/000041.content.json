@@ -1,0 +1,178 @@
+[
+  {
+    "content_id": 500251,
+    "reference_id": 203194,
+    "title": "Complaints",
+    "media_type": "Text",
+    "index_reference": "complaints",
+    "language": "eng",
+    "content": "<p>The Bible teaches that complaining is often wrong. For example, God judged the Israelites for complaining about their difficulties in the wilderness (<a href=\"https://ref.ly/Num14:27-Num14:37\">Numbers 14:27–37</a>). The Job complained a lot and received God&apos;s rebuke. But God still confirmed that Job was righteous and rejected those who tried to silence him (<a href=\"https://ref.ly/Job42:7-Job42:8\">Job 42:7–8</a>).</p><p>Job&apos;s main complaint was that God did not give him a fair chance to prove his innocence. Job&apos;s friends criticized him for trying to defend himself, but God supported Job&apos;s innocence. In a kind yet firm way, God revealed himself and corrected Job for his excessive self-defense that implied criticism of God&apos;s fairness. God redirected Job&apos;s attention from his problems to God himself (<a href=\"https://ref.ly/Job38:1-Job41:34\">Job 38–41</a>).</p><p>Scripture requires us to rejoice and give thanks in all situations (<a href=\"https://ref.ly/Eph5:20\">Ephesians 5:20</a>; <a href=\"https://ref.ly/Phil4:4\">Philippians 4:4</a>; <a href=\"https://ref.ly/1Thess5:16-1Thess5:18\">1 Thessalonians 5:16–18</a>). It also urges us to endure suffering and persist in prayer (<a href=\"https://ref.ly/Jas5:10-Jas5:18\">James 5:10–18</a>). If we feel the need to complain in prayer, we should follow the example of the psalms, which guide us back to God (see, for example, <a href=\"https://ref.ly/Ps13:1-Ps13:6\">Psalm 13</a>). Job&apos;s positive example is not in his response to troubles or comforters, but in his response to God (<a href=\"https://ref.ly/Jas5:11\">James 5:11</a>; <a href=\"https://ref.ly/Job40:3-Job40:5\">Job 40:3–5</a>; <a href=\"https://ref.ly/Job42:1-Job42:6\">42:1–6</a>). In difficult and confusing times, we can still recognize God&apos;s sovereignty and goodness.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen4:13-Gen4:14\">Genesis 4:13–14</a>; <a href=\"https://ref.ly/Exod16:2-Exod16:18\">Exodus 16:2–18</a>; <a href=\"https://ref.ly/Num14:27-Num14:37\">Numbers 14:27–37</a>; <a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">1 Kings 19:3–18</a>; <a href=\"https://ref.ly/Job3:1-Job3:26\">Job 3:1–26</a>; <a href=\"https://ref.ly/Job6:1-Job7:21\">Job 6:1–7:21</a>; <a href=\"https://ref.ly/Ps38:1-Ps38:22\">Psalms 38</a>; <a href=\"https://ref.ly/Ps39:1-Ps39:13\">Psalms 39</a>; <a href=\"https://ref.ly/Ps44:1-Ps44:26\">Psalms 44</a>; <a href=\"https://ref.ly/Ps73:1-Ps73:28\">Psalms 73</a>; <a href=\"https://ref.ly/Jer20:14-Jer20:18\">Jeremiah 20:14–18</a>; <a href=\"https://ref.ly/Jonah4:1-Jonah4:11\">Jonah 4:1–11</a>; <a href=\"https://ref.ly/Matt27:46\">Matthew 27:46</a>; <a href=\"https://ref.ly/John6:41-John6:59\">John 6:41–59</a>; <a href=\"https://ref.ly/1Cor10:1-1Cor10:10\">1 Corinthians 10:1–10</a>; <a href=\"https://ref.ly/Eph5:20\">Ephesians 5:20</a>; <a href=\"https://ref.ly/Phil2:14-Phil2:15\">Philippians 2:14–15</a>; <a href=\"https://ref.ly/Jas5:9-Jas5:11\">James 5:9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027046",
+          "start_ref_usfm": "MAT 27:46",
+          "end_ref": "40027046",
+          "end_ref_usfm": "MAT 27:46"
+        },
+        {
+          "start_ref": "49005020",
+          "start_ref_usfm": "EPH 5:20",
+          "end_ref": "49005020",
+          "end_ref_usfm": "EPH 5:20"
+        },
+        {
+          "start_ref": "50004004",
+          "start_ref_usfm": "PHP 4:4",
+          "end_ref": "50004004",
+          "end_ref_usfm": "PHP 4:4"
+        },
+        {
+          "start_ref": "59005011",
+          "start_ref_usfm": "JAS 5:11",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "18042001",
+          "start_ref_usfm": "JOB 42:1",
+          "end_ref": "18042006",
+          "end_ref_usfm": "JOB 42:6"
+        },
+        {
+          "start_ref": "19039001",
+          "start_ref_usfm": "PSA 39:1",
+          "end_ref": "19039013",
+          "end_ref_usfm": "PSA 39:13"
+        },
+        {
+          "start_ref": "01004013",
+          "start_ref_usfm": "GEN 4:13",
+          "end_ref": "01004014",
+          "end_ref_usfm": "GEN 4:14"
+        },
+        {
+          "start_ref": "18038001",
+          "start_ref_usfm": "JOB 38:1",
+          "end_ref": "18041034",
+          "end_ref_usfm": "JOB 41:34"
+        },
+        {
+          "start_ref": "18003001",
+          "start_ref_usfm": "JOB 3:1",
+          "end_ref": "18003026",
+          "end_ref_usfm": "JOB 3:26"
+        },
+        {
+          "start_ref": "19038001",
+          "start_ref_usfm": "PSA 38:1",
+          "end_ref": "19038022",
+          "end_ref_usfm": "PSA 38:22"
+        },
+        {
+          "start_ref": "19073001",
+          "start_ref_usfm": "PSA 73:1",
+          "end_ref": "19073028",
+          "end_ref_usfm": "PSA 73:28"
+        },
+        {
+          "start_ref": "19044001",
+          "start_ref_usfm": "PSA 44:1",
+          "end_ref": "19044026",
+          "end_ref_usfm": "PSA 44:26"
+        },
+        {
+          "start_ref": "24020014",
+          "start_ref_usfm": "JER 20:14",
+          "end_ref": "24020018",
+          "end_ref_usfm": "JER 20:18"
+        },
+        {
+          "start_ref": "18040003",
+          "start_ref_usfm": "JOB 40:3",
+          "end_ref": "18040005",
+          "end_ref_usfm": "JOB 40:5"
+        },
+        {
+          "start_ref": "18006001",
+          "start_ref_usfm": "JOB 6:1",
+          "end_ref": "18007021",
+          "end_ref_usfm": "JOB 7:21"
+        },
+        {
+          "start_ref": "19013001",
+          "start_ref_usfm": "PSA 13:1",
+          "end_ref": "19013006",
+          "end_ref_usfm": "PSA 13:6"
+        },
+        {
+          "start_ref": "59005009",
+          "start_ref_usfm": "JAS 5:9",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "32004001",
+          "start_ref_usfm": "JON 4:1",
+          "end_ref": "32004011",
+          "end_ref_usfm": "JON 4:11"
+        },
+        {
+          "start_ref": "04014027",
+          "start_ref_usfm": "NUM 14:27",
+          "end_ref": "04014037",
+          "end_ref_usfm": "NUM 14:37"
+        },
+        {
+          "start_ref": "18042007",
+          "start_ref_usfm": "JOB 42:7",
+          "end_ref": "18042008",
+          "end_ref_usfm": "JOB 42:8"
+        },
+        {
+          "start_ref": "52005016",
+          "start_ref_usfm": "1TH 5:16",
+          "end_ref": "52005018",
+          "end_ref_usfm": "1TH 5:18"
+        },
+        {
+          "start_ref": "59005010",
+          "start_ref_usfm": "JAS 5:10",
+          "end_ref": "59005018",
+          "end_ref_usfm": "JAS 5:18"
+        },
+        {
+          "start_ref": "02016002",
+          "start_ref_usfm": "EXO 16:2",
+          "end_ref": "02016018",
+          "end_ref_usfm": "EXO 16:18"
+        },
+        {
+          "start_ref": "11019003",
+          "start_ref_usfm": "1KI 19:3",
+          "end_ref": "11019018",
+          "end_ref_usfm": "1KI 19:18"
+        },
+        {
+          "start_ref": "43006041",
+          "start_ref_usfm": "JHN 6:41",
+          "end_ref": "43006059",
+          "end_ref_usfm": "JHN 6:59"
+        },
+        {
+          "start_ref": "46010001",
+          "start_ref_usfm": "1CO 10:1",
+          "end_ref": "46010010",
+          "end_ref_usfm": "1CO 10:10"
+        },
+        {
+          "start_ref": "50002014",
+          "start_ref_usfm": "PHP 2:14",
+          "end_ref": "50002015",
+          "end_ref_usfm": "PHP 2:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

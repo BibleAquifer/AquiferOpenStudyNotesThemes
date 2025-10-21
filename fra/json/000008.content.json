@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 708424,
+    "reference_id": 203156,
+    "title": "Appeler les morts",
+    "media_type": "Text",
+    "index_reference": "appeler les morts",
+    "language": "fra",
+    "content": "<p>L&apos;AT interdit des pratiques de sorcellerie ou magie telles que le spiritisme, la divination et la nécromancie. La nécromancie consiste à contacter les esprits des morts, généralement pour chercher des conseils sur l&apos;avenir (voir <a href=\"https://ref.ly/Deut18:9-Deut18:12\">Dt 18.9–12</a>). Pratiquer la nécromancie ou consulter un nécromancien étaient des crimes punis de mort (<a href=\"https://ref.ly/Lev20:6\">Lv 20.6</a>, <a href=\"https://ref.ly/Lev20:27\">27</a> ; voir aussi <a href=\"https://ref.ly/1Sam28:9\">1S 28.9</a>). Le peuple de Dieu devait se tourner vers lui et ses serviteurs pour savoir comment vivre et quelles décisions prendre.</p><p>Dieu a enterré Moïse dans une tombe cachée (<a href=\"https://ref.ly/Deut34:6\">Dt 34.6</a>). Il l&apos;a probablement fait pour empêcher les Israélites de transformer la tombe de Moïse en un lieu de culte idolâtre. Dieu ne voulait pas qu&apos;ils présentent des offrandes à l&apos;esprit de Moïse, l&apos;adorent ou essaient de contacter son esprit. Les Israélites auraient pu être tentés de faire ces choses, car ils avaient vu les Égyptiens les pratiquer. Comme Moïse avait eu un rôle si important comme médiateur de l&apos;alliance d&apos;Israël avec Dieu, ils auraient pu vouloir vénérer sa mémoire de manière inappropriée.</p><p>L&apos;AT interdit donc de chercher à contacter les morts pour parler avec eux (voir <a href=\"https://ref.ly/2Sam12:23\">2S 12.23 </a>; <a href=\"https://ref.ly/Job14:10-Job14:12\">Jb 14.10–12 </a>; <a href=\"https://ref.ly/Ps88:10\">Ps 88.11 </a>; <a href=\"https://ref.ly/Ps115:17\">115.17</a>). Il semble que Dieu ait fait une exception lorsqu&apos;il a permis au prophète Samuel de revenir et de parler avec Saül (voir <a href=\"https://ref.ly/1Sam28:12-1Sam28:19\">1S 28.12–19</a>). Cependant, Saül a gravement péché en essayant de contacter Samuel par l&apos;intermédiaire de quelqu&apos;un qui pratiquait cela (un médium). L&apos;auteur des Chroniques mentionne ce péché parmi les péchés qui en ont fait un mauvais roi, qui a perdu son royaume (voir <a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">1Ch 10.13–14</a>). Il n&apos;y a jamais de raison valide de pratiquer la nécromancie (chercher des conseils auprès des morts) alors que nous avons la parole de Dieu et son Esprit pour nous guider (<a href=\"https://ref.ly/2Tim3:15-2Tim3:17\">2Tm 3.15–17 </a>; <a href=\"https://ref.ly/Heb4:12-Heb4:13\">Hé 4.12–13</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Lev19:31\">Lévitique 19.31</a> ; <a href=\"https://ref.ly/Lev20:6-Lev20:8\">20.6–8</a>, <a href=\"https://ref.ly/Lev20:27\">27</a> ; <a href=\"https://ref.ly/Deut18:9-Deut18:12\">Deutéronome 18.9–12</a> ; <a href=\"https://ref.ly/1Sam28:1-1Sam28:25\">1 Samuel 28.1–25</a> ; <a href=\"https://ref.ly/2Kgs21:6\">2 Rois 21.6</a> ; <a href=\"https://ref.ly/2Kgs23:24\">23.24</a> ; <a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">1 Chroniques 10.13–14</a> ; <a href=\"https://ref.ly/Job14:10-Job14:12\">Job 14.10–12</a> ; <a href=\"https://ref.ly/Isa3:1-Isa3:3\">Ésaïe 3.1–3</a> ; <a href=\"https://ref.ly/Isa8:19-Isa8:22\">8.19–22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03019031",
+          "start_ref_usfm": "LEV 19:31",
+          "end_ref": "03019031",
+          "end_ref_usfm": "LEV 19:31"
+        },
+        {
+          "start_ref": "03020006",
+          "start_ref_usfm": "LEV 20:6",
+          "end_ref": "03020006",
+          "end_ref_usfm": "LEV 20:6"
+        },
+        {
+          "start_ref": "03020027",
+          "start_ref_usfm": "LEV 20:27",
+          "end_ref": "03020027",
+          "end_ref_usfm": "LEV 20:27"
+        },
+        {
+          "start_ref": "05034006",
+          "start_ref_usfm": "DEU 34:6",
+          "end_ref": "05034006",
+          "end_ref_usfm": "DEU 34:6"
+        },
+        {
+          "start_ref": "09028009",
+          "start_ref_usfm": "1SA 28:9",
+          "end_ref": "09028009",
+          "end_ref_usfm": "1SA 28:9"
+        },
+        {
+          "start_ref": "10012023",
+          "start_ref_usfm": "2SA 12:23",
+          "end_ref": "10012023",
+          "end_ref_usfm": "2SA 12:23"
+        },
+        {
+          "start_ref": "12021006",
+          "start_ref_usfm": "2KI 21:6",
+          "end_ref": "12021006",
+          "end_ref_usfm": "2KI 21:6"
+        },
+        {
+          "start_ref": "12023024",
+          "start_ref_usfm": "2KI 23:24",
+          "end_ref": "12023024",
+          "end_ref_usfm": "2KI 23:24"
+        },
+        {
+          "start_ref": "19088010",
+          "start_ref_usfm": "PSA 88:10",
+          "end_ref": "19088010",
+          "end_ref_usfm": "PSA 88:10"
+        },
+        {
+          "start_ref": "19115017",
+          "start_ref_usfm": "PSA 115:17",
+          "end_ref": "19115017",
+          "end_ref_usfm": "PSA 115:17"
+        },
+        {
+          "start_ref": "13010013",
+          "start_ref_usfm": "1CH 10:13",
+          "end_ref": "13010014",
+          "end_ref_usfm": "1CH 10:14"
+        },
+        {
+          "start_ref": "09028001",
+          "start_ref_usfm": "1SA 28:1",
+          "end_ref": "09028025",
+          "end_ref_usfm": "1SA 28:25"
+        },
+        {
+          "start_ref": "58004012",
+          "start_ref_usfm": "HEB 4:12",
+          "end_ref": "58004013",
+          "end_ref_usfm": "HEB 4:13"
+        },
+        {
+          "start_ref": "23008019",
+          "start_ref_usfm": "ISA 8:19",
+          "end_ref": "23008022",
+          "end_ref_usfm": "ISA 8:22"
+        },
+        {
+          "start_ref": "05018009",
+          "start_ref_usfm": "DEU 18:9",
+          "end_ref": "05018012",
+          "end_ref_usfm": "DEU 18:12"
+        },
+        {
+          "start_ref": "18014010",
+          "start_ref_usfm": "JOB 14:10",
+          "end_ref": "18014012",
+          "end_ref_usfm": "JOB 14:12"
+        },
+        {
+          "start_ref": "09028012",
+          "start_ref_usfm": "1SA 28:12",
+          "end_ref": "09028019",
+          "end_ref_usfm": "1SA 28:19"
+        },
+        {
+          "start_ref": "55003015",
+          "start_ref_usfm": "2TI 3:15",
+          "end_ref": "55003017",
+          "end_ref_usfm": "2TI 3:17"
+        },
+        {
+          "start_ref": "03020006",
+          "start_ref_usfm": "LEV 20:6",
+          "end_ref": "03020008",
+          "end_ref_usfm": "LEV 20:8"
+        },
+        {
+          "start_ref": "23003001",
+          "start_ref_usfm": "ISA 3:1",
+          "end_ref": "23003003",
+          "end_ref_usfm": "ISA 3:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 800481,
+    "reference_id": 203312,
+    "title": "Água viva",
+    "media_type": "Text",
+    "index_reference": "água viva",
+    "language": "por",
+    "content": "<p>Israel era uma terra que frequentemente enfrentava secas. As pessoas estavam muito conscientes das fontes de água e de sua qualidade. Havia poucas nascentes e rios perenes. Assim, as pessoas dependiam de um buraco profundo construído no subsolo para coletar e armazenar a chuva do inverno. Estes são chamados de cisternas. Elas usavam poços para acessar a água subterrânea.</p><p>Na cultura judaica, &quot;água morta&quot; significava água parada ou armazenada. &quot;Água viva&quot; significava água em movimento, como rios, nascentes e chuva. Esta água era valiosa porque era fresca. Como vinha diretamente de Deus, as pessoas a usavam para lavagens cerimoniais (veja <a href=\"https://ref.ly/Lev14:5-Lev14:6\">Levítico 14.5–6</a>, <a href=\"https://ref.ly/Lev14:50-Lev14:51\">50–51</a>; <a href=\"https://ref.ly/Lev15:13\">15.13</a>; <a href=\"https://ref.ly/Num19:17-Num19:19\">Números 19.17–19</a>).</p><p>A diferença entre &quot;água morta&quot; e &quot;água viva&quot; explica a confusão da mulher de Samaria quando Jesus lhe ofereceu &quot;água viva&quot; (<a href=\"https://ref.ly/John4:12\">João 4.12</a>). Samaria não possui um rio permanente. Se Jacó teve que cavar um poço lá, como Jesus poderia oferecer uma água melhor?</p><p>Jesus falou novamente sobre a água viva em Jerusalém durante a Festa dos tabernáculos no outono (<a href=\"https://ref.ly/John7:37-John7:39\">João 7.37–39</a>). Esta festa, realizada em uma estação seca, tinha como foco a água. Nesse contexto, Jesus se adiantou e fez uma afirmação ousada. Qualquer pessoa que buscasse água viva deveria vir a ele e beber. Jesus é a fonte de água viva. Ele veio diretamente de Deus e trouxe renovação divina através do Espírito Santo.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Lev14:5-Lev14:6\">Levítico 14.5–6</a>,<a href=\"https://ref.ly/Lev14:50-Lev14:51\">50–51</a>; <a href=\"https://ref.ly/Lev15:13\">15.13</a>; <a href=\"https://ref.ly/Num19:17-Num19:19\">Números 19.17–19</a>; <a href=\"https://ref.ly/Song4:15\">Cântico de Salomão 4.15</a>; <a href=\"https://ref.ly/Jer2:13\">Jeremias 2.13</a>; <a href=\"https://ref.ly/Jer17:13\">17.13</a>; <a href=\"https://ref.ly/John4:10-John4:14\">João 4.10–14</a>; <a href=\"https://ref.ly/John7:38-John7:39\">7.38–39</a>; <a href=\"https://ref.ly/Jas3:11-Jas3:12\">Tiago 3.11–12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03015013",
+          "start_ref_usfm": "LEV 15:13",
+          "end_ref": "03015013",
+          "end_ref_usfm": "LEV 15:13"
+        },
+        {
+          "start_ref": "22004015",
+          "start_ref_usfm": "SNG 4:15",
+          "end_ref": "22004015",
+          "end_ref_usfm": "SNG 4:15"
+        },
+        {
+          "start_ref": "24002013",
+          "start_ref_usfm": "JER 2:13",
+          "end_ref": "24002013",
+          "end_ref_usfm": "JER 2:13"
+        },
+        {
+          "start_ref": "24017013",
+          "start_ref_usfm": "JER 17:13",
+          "end_ref": "24017013",
+          "end_ref_usfm": "JER 17:13"
+        },
+        {
+          "start_ref": "43004012",
+          "start_ref_usfm": "JHN 4:12",
+          "end_ref": "43004012",
+          "end_ref_usfm": "JHN 4:12"
+        },
+        {
+          "start_ref": "43004010",
+          "start_ref_usfm": "JHN 4:10",
+          "end_ref": "43004014",
+          "end_ref_usfm": "JHN 4:14"
+        },
+        {
+          "start_ref": "43007037",
+          "start_ref_usfm": "JHN 7:37",
+          "end_ref": "43007039",
+          "end_ref_usfm": "JHN 7:39"
+        },
+        {
+          "start_ref": "43007038",
+          "start_ref_usfm": "JHN 7:38",
+          "end_ref": "43007039",
+          "end_ref_usfm": "JHN 7:39"
+        },
+        {
+          "start_ref": "03014005",
+          "start_ref_usfm": "LEV 14:5",
+          "end_ref": "03014006",
+          "end_ref_usfm": "LEV 14:6"
+        },
+        {
+          "start_ref": "03014050",
+          "start_ref_usfm": "LEV 14:50",
+          "end_ref": "03014051",
+          "end_ref_usfm": "LEV 14:51"
+        },
+        {
+          "start_ref": "04019017",
+          "start_ref_usfm": "NUM 19:17",
+          "end_ref": "04019019",
+          "end_ref_usfm": "NUM 19:19"
+        },
+        {
+          "start_ref": "59003011",
+          "start_ref_usfm": "JAS 3:11",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
