@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 765118,
+    "reference_id": 203261,
+    "title": "Fasihi ya Apokaliptiki",
+    "media_type": "Text",
+    "index_reference": "fasihi ya apokaliptiki",
+    "language": "swh",
+    "content": "<p>Sehemu kadhaa za Agano la Kale zina mada zinazofanana na maandiko ya kishirika ya Kiyahudi ya baadaye (Isaya 24–27; Ezekieli 38:1–39:29; Danieli 7–12; Zekaria 9–14). Fasihi ya kishirika ni aina ya maandiko yanayotumia maono na alama kuonyesha ushindi wa mwisho wa Mungu juu ya uovu na kutoa matumaini kwa watu wake. Kitabu kizima cha Ufunuo katika Agano Jipya pia ni sehemu ya aina hii ya maandiko.</p><p>Fasihi ya apokaliptiki hutumia maono ya kimungu kuwasilisha mambo yasiyoeleweka au yaliyofichika. Neno <em>apokaliptiki</em> linatokana na neno la Kigiriki <em>apokalupsis</em>, linalomaanisha “Ufunuo.” Hata hivyo, fasihi nyingine ya kinabii inazingatia maneno ya ujumbe. Katika muktadha wa kisheria, nabii anayetoa ujumbe wa kimungu (unabii) ni kama wakili wa mashtaka. Mwandishi wa fasihi ya apokaliptiki ni kama shahidi, akielezea hali za mbinguni alizoziona.</p><p>Unabii kwa kawaida hutabiri wokovu au hukumu katika dunia yetu ya sasa. Kinyume chake, fasihi ya apokaliptiki inatazamia utimilifu zaidi ya nafasi na wakati. Haitegemei jamii kuboreka polepole. Badala yake, inatabiri tukio la kubadilisha dunia ambalo litaisha jinsi mambo yalivyo sasa na kuunda kitu kipya. Fasihi ya apokaliptiki inaona wakati wa sasa kama kipindi cha mgogoro kati ya nuru na giza. Huwezi kuwa na maelewano au amani kati ya nguvu za kimuujiza za mema na mabaya.</p><p>Fasihi ya kiapokaliptiki inafichua vipengele vilivyofichika vya vita hivi. Uwepo wa giza la kiroho unadhihirika. Hii pia ni kweli kwa nguvu zisizoonekana za wema zilizo karibu nasi, ambazo hatimaye zitashinda. Ushindi huu wa baadaye ni hakika, bila kujali jaribio lolote la kibinadamu au la kiroho la kuuzuia.</p><p>Maono ya kiapokaliptiki yanakusudia kuhamasisha na kuwachochea Wakristo, hasa wakati wa nyakati ngumu. Kuna ujumbe chanya katika maandiko haya. Licha ya changamoto za sasa, Mungu tayari ameamua matokeo ya vita vya mwisho. Nguvu za wema zitashinda. Fasihi ya kiapokaliptiki inapingana na madai ya kipagani kwamba mambo yatabaki vilevile. Mungu anatawala na ufalme wake utashinda mwishowe.</p><p>Ujumbe huu unawapa waumini matumaini wakati wa mateso. Unawahimiza kubaki waaminifu licha ya changamoto. Unawatia moyo wale wanaopambana, ukithibitisha kwamba Mungu yuko madarakani na hatimaye atashinda. Licha ya mateso, utii ndio njia pekee ya kuishi. Tunaamini katika ushindi wa mwisho wakati Mungu ataleta enzi mpya ya wokovu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezek38:1-Ezek39:24\">Ezekieli 38:1–39:24</a>; <a href=\"https://ref.ly/Dan7:1-Dan12:13\">Danieli 7:1–12:13</a>; <a href=\"https://ref.ly/Zech9:1-Zech14:21\">Zekaria 9:1–14:21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27007001",
+          "start_ref_usfm": "DAN 7:1",
+          "end_ref": "27012013",
+          "end_ref_usfm": "DAN 12:13"
+        },
+        {
+          "start_ref": "26038001",
+          "start_ref_usfm": "EZK 38:1",
+          "end_ref": "26039024",
+          "end_ref_usfm": "EZK 39:24"
+        },
+        {
+          "start_ref": "26038001",
+          "start_ref_usfm": "EZK 38:1",
+          "end_ref": "26039029",
+          "end_ref_usfm": "EZK 39:29"
+        },
+        {
+          "start_ref": "38009001",
+          "start_ref_usfm": "ZEC 9:1",
+          "end_ref": "38014021",
+          "end_ref_usfm": "ZEC 14:21"
+        },
+        {
+          "start_ref": "23024001",
+          "start_ref_usfm": "ISA 24:1",
+          "end_ref": "23027013",
+          "end_ref_usfm": "ISA 27:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

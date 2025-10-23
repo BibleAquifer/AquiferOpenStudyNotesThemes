@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 765104,
+    "reference_id": 203247,
+    "title": "Upekee wa Mungu",
+    "media_type": "Text",
+    "index_reference": "upekee wa mungu",
+    "language": "swh",
+    "content": "<p>Kama Muumba, Mungu ametenganishwa na kile alichoumba. Mungu si sehemu ya asili. Aliumba asili na anaiongoza. Daima amekuwepo kama Mungu aliye hai. Mungu alipanga jinsi kila kitu katika ulimwengu kitakavyofanya kazi kulingana na sheria zake. Alitoa uhai kwa kila kiumbe hai. Kwa sababu yeye ni Mungu, yupo kila mahali wakati wote na anajua kila kitu. Yeye ni Mungu aliye hai anayeeleza upendo mkamilifu, utakatifu, haki, na nguvu.</p><p>Watu waliokuwa wakiishi katika ardhi karibu na Israeli waliabudu miungu mingi tofauti. Mara nyingi walifanya miungu hii ionekane kama vitu vya asili, kama vile jua, mwezi, au dhoruba. Hata hivyo, miungu hii haikuwa halisi. Ilikuwa tu sanamu zisizo na uhai ambazo haziwezi kusonga au kufanya chochote (tazama <a href=\"https://ref.ly/Jer10:1-Jer10:5\">Yeremia 10:1—5</a>). Miungu hii ya uongo haikuweza kuwasiliana na watu au kuwa na uhusiano wowote nao. Hawakuwa na nguvu kabisa, hata ya kujisogeza wenyewe.</p><p>Kwa huzuni, mara nyingi watu wa Israeli walifuata mfano wa majirani zao na kuanza kuabudu miungu hii ya uongo pia. Wakati hili lilipotokea, Mungu alituma manabii (watu waliotoa ujumbe wa Mungu) kuwakumbusha Waisraeli kwamba Mungu wa kweli alikuwa tofauti kabisa na sanamu hizi zisizo na uhai. Manabii walifundisha kwamba kulikuwa na Mungu mmoja tu wa kweli ambaye alikuwa na nguvu za kweli.</p><p>Tofauti na sanamu zisizo na uhai, Mungu mmoja wa kweli na aliye hai huungana kibinafsi na wanadamu, ingawa yeye ni tofauti. Anajihusisha na maisha ya watu na anaonyesha mapenzi yake ili kila mtu aweze kuelewa matakwa yake na kumjibu. Bwana, ambaye aliumba kila kitu, kwa kushangaza anatafuta uhusiano wa kibinafsi na watu wake.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen1:1-Gen2:4\">Mwanzo 1:1–2:4</a>; <a href=\"https://ref.ly/Exod15:11\">Kutoka 15:11</a>; <a href=\"https://ref.ly/Exod20:2-Exod20:6\">20:2–6</a>; <a href=\"https://ref.ly/Deut4:32-Deut4:39\">Kumbukumbu la Torati 4:32–39</a>; <a href=\"https://ref.ly/Deut33:26\">33:26</a>; <a href=\"https://ref.ly/Job38:1-Job41:34\">Ayubu 38:1–41:34</a>; <a href=\"https://ref.ly/Ps86:8\">Zaburi 86:8</a>; <a href=\"https://ref.ly/Ps115:4-Ps115:7\">115:4–7</a>; <a href=\"https://ref.ly/Ps139:1-Ps139:18\">139:1–18</a>; <a href=\"https://ref.ly/Isa42:8\">Isaya 42:8</a>; <a href=\"https://ref.ly/Isa44:9-Isa44:20\">44:9–20</a>; <a href=\"https://ref.ly/Jer10:1-Jer10:16\">Yeremia 10:1–16</a>; <a href=\"https://ref.ly/Jer14:22\">14:22</a>; <a href=\"https://ref.ly/Amos4:13\">Amosi 4:13</a>; <a href=\"https://ref.ly/Amos5:8-Amos5:9\">5:8–9</a>; <a href=\"https://ref.ly/Rev15:3-Rev15:4\">Ufunuo 15:3–4</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02015011",
+          "start_ref_usfm": "EXO 15:11",
+          "end_ref": "02015011",
+          "end_ref_usfm": "EXO 15:11"
+        },
+        {
+          "start_ref": "05033026",
+          "start_ref_usfm": "DEU 33:26",
+          "end_ref": "05033026",
+          "end_ref_usfm": "DEU 33:26"
+        },
+        {
+          "start_ref": "19086008",
+          "start_ref_usfm": "PSA 86:8",
+          "end_ref": "19086008",
+          "end_ref_usfm": "PSA 86:8"
+        },
+        {
+          "start_ref": "23042008",
+          "start_ref_usfm": "ISA 42:8",
+          "end_ref": "23042008",
+          "end_ref_usfm": "ISA 42:8"
+        },
+        {
+          "start_ref": "24014022",
+          "start_ref_usfm": "JER 14:22",
+          "end_ref": "24014022",
+          "end_ref_usfm": "JER 14:22"
+        },
+        {
+          "start_ref": "30004013",
+          "start_ref_usfm": "AMO 4:13",
+          "end_ref": "30004013",
+          "end_ref_usfm": "AMO 4:13"
+        },
+        {
+          "start_ref": "30005008",
+          "start_ref_usfm": "AMO 5:8",
+          "end_ref": "30005009",
+          "end_ref_usfm": "AMO 5:9"
+        },
+        {
+          "start_ref": "24010001",
+          "start_ref_usfm": "JER 10:1",
+          "end_ref": "24010016",
+          "end_ref_usfm": "JER 10:16"
+        },
+        {
+          "start_ref": "66015003",
+          "start_ref_usfm": "REV 15:3",
+          "end_ref": "66015004",
+          "end_ref_usfm": "REV 15:4"
+        },
+        {
+          "start_ref": "18038001",
+          "start_ref_usfm": "JOB 38:1",
+          "end_ref": "18041034",
+          "end_ref_usfm": "JOB 41:34"
+        },
+        {
+          "start_ref": "02020002",
+          "start_ref_usfm": "EXO 20:2",
+          "end_ref": "02020006",
+          "end_ref_usfm": "EXO 20:6"
+        },
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01002004",
+          "end_ref_usfm": "GEN 2:4"
+        },
+        {
+          "start_ref": "24010001",
+          "start_ref_usfm": "JER 10:1",
+          "end_ref": "24010005",
+          "end_ref_usfm": "JER 10:5"
+        },
+        {
+          "start_ref": "05004032",
+          "start_ref_usfm": "DEU 4:32",
+          "end_ref": "05004039",
+          "end_ref_usfm": "DEU 4:39"
+        },
+        {
+          "start_ref": "19115004",
+          "start_ref_usfm": "PSA 115:4",
+          "end_ref": "19115007",
+          "end_ref_usfm": "PSA 115:7"
+        },
+        {
+          "start_ref": "19139001",
+          "start_ref_usfm": "PSA 139:1",
+          "end_ref": "19139018",
+          "end_ref_usfm": "PSA 139:18"
+        },
+        {
+          "start_ref": "23044009",
+          "start_ref_usfm": "ISA 44:9",
+          "end_ref": "23044020",
+          "end_ref_usfm": "ISA 44:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

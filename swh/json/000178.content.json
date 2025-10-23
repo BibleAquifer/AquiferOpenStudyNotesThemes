@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 765078,
+    "reference_id": 203221,
+    "title": "Ndoa na Ngono",
+    "media_type": "Text",
+    "index_reference": "ndoa na ngono",
+    "language": "swh",
+    "content": "<p>Maandiko yanachukulia ndoa kuwa takatifu tangu mwanzo kabisa. Maonyesho ya ngono ni sehemu muhimu ya ndoa (<a href=\"https://ref.ly/Gen2:23-Gen2:25\">Mwanzo 2:23–25</a>). Dhambi ya kwanza ya binadamu ilisababisha kuvurugika kwa mahusiano yote. Hii ilitokea kwanza kati ya Mungu na binadamu, kisha kati ya mume na mke, na hata kati ya binadamu na uumbaji (<a href=\"https://ref.ly/Gen3:1-Gen3:24\">Mwanzo 3</a>). Mgawanyiko kati ya Adamu na Hawa ulionekana katika ujinsia wao. Hawakuweza tena kuwa uchi bustanini bila kuhisi aibu.</p><p>Katika Mithali, mwalimu mwenye hekima mara nyingi huwaonya vijana kuepuka majaribu ya kingono nje ya ndoa (<a href=\"https://ref.ly/Prov2:16-Prov2:22\">Mithali 2:16–22</a>; <a href=\"https://ref.ly/Prov5:1-Prov5:23\">5:1–23</a>; <a href=\"https://ref.ly/Prov6:20-Prov7:27\">6:20–7:27</a>). Ingawa kijana anaweza kuvutiwa na wanawake wengine, kutekeleza majaribu haya kunaweza kuwa na madhara makubwa. Malengo yake ya kifamilia na kikazi yanaweza kuharibiwa. Mithali inawashauri vijana kujenga uhusiano imara na wake zao. Maandiko yanawahimiza wanaume kuwa na uhusiano mzuri wa ndoa badala ya kuwa na wanawake wengine (<a href=\"https://ref.ly/Prov5:15-Prov5:20\">5:15–20</a>).</p><p>Ingawa sehemu hii ya Mithali iliandikwa awali kwa ajili ya kuwafundisha vijana, kila mtu anaweza kutafakari masuala haya ya ndoa na ngono. Kitabu cha Mithali kinahimiza kila mtu kutambua utakatifu na uzuri wa upendo wa ndoa kama ulivyopangwa na Mungu, Muumba mwenye hekima.</p><p>Agano Jipya linasisitiza utakatifu wa ngono na maonyesho yake sahihi ndani ya ndoa. Yesu anarejelea hadithi ya uumbaji katika Mwanzo ili kusisitiza kudumu kwa ndoa kama ilivyokusudiwa. Baada ya kunukuu <a href=\"https://ref.ly/Gen2:24\">Mwanzo 2:24</a>, anasema, “Kwa hiyo hawako wawili tena, bali mwili mmoja. Kwa hiyo kile Mungu ameunganisha, mwanadamu asikitenganishe” (<a href=\"https://ref.ly/Matt19:3-Matt19:6\">Mathayo 19:3–6</a>). Mtume Paulo anazungumzia umuhimu wa kudumisha ukaribu wa kimwili katika ndoa ili kuzuia majaribu ya Shetani (<a href=\"https://ref.ly/1Cor7:3-1Cor7:5\">1 Wakorintho 7:3–5</a>). Mungu anataka wale wanaooana wabaki waaminifu kwa kila mmoja na kuepuka shughuli za ngono zenye madhara ambazo zinaweza kuharibu uhusiano wao mtakatifu (tazama <a href=\"https://ref.ly/Heb13:4\">Waebrania 13:4</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen2:18-Gen2:25\">Mwanzo 2:18–25</a>; <a href=\"https://ref.ly/Prov2:16-Prov2:22\">Mithali 2:16–22</a>; <a href=\"https://ref.ly/Prov5:15-Prov5:20\">5:15–20</a>; <a href=\"https://ref.ly/Prov6:20-Prov6:35\">6:20–35</a>; <a href=\"https://ref.ly/Prov7:1-Prov7:27\">7:1–27</a>; <a href=\"https://ref.ly/Jer5:7-Jer5:11\">Yeremia 5:7–11</a>; <a href=\"https://ref.ly/Hos2:20\">Hosea 2:20</a>; <a href=\"https://ref.ly/Mal2:14-Mal2:16\">Malaki 2:14–16</a>; <a href=\"https://ref.ly/Matt19:4-Matt19:6\">Mathayo 19:4–6</a>; <a href=\"https://ref.ly/Matt22:30\">22:30</a>; <a href=\"https://ref.ly/1Cor6:15-1Cor6:20\">1 Wakorintho 6:15–20</a>; <a href=\"https://ref.ly/Heb13:4\">Waebrania 13:4</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002024",
+          "start_ref_usfm": "GEN 2:24",
+          "end_ref": "01002024",
+          "end_ref_usfm": "GEN 2:24"
+        },
+        {
+          "start_ref": "28002020",
+          "start_ref_usfm": "HOS 2:20",
+          "end_ref": "28002020",
+          "end_ref_usfm": "HOS 2:20"
+        },
+        {
+          "start_ref": "40022030",
+          "start_ref_usfm": "MAT 22:30",
+          "end_ref": "40022030",
+          "end_ref_usfm": "MAT 22:30"
+        },
+        {
+          "start_ref": "58013004",
+          "start_ref_usfm": "HEB 13:4",
+          "end_ref": "58013004",
+          "end_ref_usfm": "HEB 13:4"
+        },
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "39002014",
+          "start_ref_usfm": "MAL 2:14",
+          "end_ref": "39002016",
+          "end_ref_usfm": "MAL 2:16"
+        },
+        {
+          "start_ref": "20005001",
+          "start_ref_usfm": "PRO 5:1",
+          "end_ref": "20005023",
+          "end_ref_usfm": "PRO 5:23"
+        },
+        {
+          "start_ref": "20006020",
+          "start_ref_usfm": "PRO 6:20",
+          "end_ref": "20006035",
+          "end_ref_usfm": "PRO 6:35"
+        },
+        {
+          "start_ref": "20007001",
+          "start_ref_usfm": "PRO 7:1",
+          "end_ref": "20007027",
+          "end_ref_usfm": "PRO 7:27"
+        },
+        {
+          "start_ref": "01002018",
+          "start_ref_usfm": "GEN 2:18",
+          "end_ref": "01002025",
+          "end_ref_usfm": "GEN 2:25"
+        },
+        {
+          "start_ref": "46006015",
+          "start_ref_usfm": "1CO 6:15",
+          "end_ref": "46006020",
+          "end_ref_usfm": "1CO 6:20"
+        },
+        {
+          "start_ref": "01002023",
+          "start_ref_usfm": "GEN 2:23",
+          "end_ref": "01002025",
+          "end_ref_usfm": "GEN 2:25"
+        },
+        {
+          "start_ref": "20002016",
+          "start_ref_usfm": "PRO 2:16",
+          "end_ref": "20002022",
+          "end_ref_usfm": "PRO 2:22"
+        },
+        {
+          "start_ref": "20006020",
+          "start_ref_usfm": "PRO 6:20",
+          "end_ref": "20007027",
+          "end_ref_usfm": "PRO 7:27"
+        },
+        {
+          "start_ref": "20005015",
+          "start_ref_usfm": "PRO 5:15",
+          "end_ref": "20005020",
+          "end_ref_usfm": "PRO 5:20"
+        },
+        {
+          "start_ref": "40019003",
+          "start_ref_usfm": "MAT 19:3",
+          "end_ref": "40019006",
+          "end_ref_usfm": "MAT 19:6"
+        },
+        {
+          "start_ref": "46007003",
+          "start_ref_usfm": "1CO 7:3",
+          "end_ref": "46007005",
+          "end_ref_usfm": "1CO 7:5"
+        },
+        {
+          "start_ref": "24005007",
+          "start_ref_usfm": "JER 5:7",
+          "end_ref": "24005011",
+          "end_ref_usfm": "JER 5:11"
+        },
+        {
+          "start_ref": "40019004",
+          "start_ref_usfm": "MAT 19:4",
+          "end_ref": "40019006",
+          "end_ref_usfm": "MAT 19:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

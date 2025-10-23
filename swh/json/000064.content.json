@@ -1,0 +1,148 @@
+[
+  {
+    "content_id": 765162,
+    "reference_id": 203305,
+    "title": "Karamu ya Kimasihi",
+    "media_type": "Text",
+    "index_reference": "karamu ya kimasihi",
+    "language": "swh",
+    "content": "<p>Kupitia mafundisho na miujiza yake, Yesu alionyesha kwamba karamu ya Kimasihi ilikuwa tayari. Karamu ya Kimasihi ni sherehe maalum ambayo Mungu aliahidi kuandaa wakati Masihi atakapokuja. Aliwaalika watu wote kuja na kupokea wokovu wa Mungu na kuwa sehemu ya Ufalme wa Mungu.</p><p>Yesu alifananisha huduma yake na karamu ya harusi, ambapo yeye mwenyewe alikuwa bwana harusi (<a href=\"https://ref.ly/Luke5:33-Luke5:35\">Luka 5:33–35</a>). Ufalme wa Mungu ulifanana na karamu kuu. Mungu aliwaalika wote, lakini baadhi yao walichagua kutohudhuria (<a href=\"https://ref.ly/Luke14:15-Luke14:24\">Luka 14:15–24</a>; tazama pia <a href=\"https://ref.ly/Matt8:11-Matt8:12\">Mathayo 8:11–12</a>). Yesu mara nyingi alikula pamoja na watu wa aina mbalimbali. Hii ilijumuisha watoza ushuru waliodharauliwa na Mafarisayo waliojitolea (<a href=\"https://ref.ly/Luke5:29-Luke5:32\">5:29–32</a>; <a href=\"https://ref.ly/Luke7:36-Luke7:50\">7:36–50</a>; <a href=\"https://ref.ly/Luke11:37-Luke11:41\">11:37–41</a>; <a href=\"https://ref.ly/Luke14:1-Luke14:6\">14:1–6</a>).</p><p>Pia alitumia taswira ya karamu na sherehe katika mafundisho na mifano yake (<a href=\"https://ref.ly/Luke5:33-Luke5:35\">Luka 5:33–35</a>; <a href=\"https://ref.ly/Luke12:35-Luke12:38\">12:35–38</a>; <a href=\"https://ref.ly/Luke14:7-Luke14:14\">14:7–14</a>, <a href=\"https://ref.ly/Luke14:15-Luke14:24\">15–24</a>; <a href=\"https://ref.ly/Luke17:7-Luke17:10\">17:7–10</a>; <a href=\"https://ref.ly/Luke22:28-Luke22:30\">22:28–30</a>). Vilevile, aliwalisha umati mkubwa kwa mikate michache na samaki (<a href=\"https://ref.ly/Luke9:10-Luke9:17\">9:10–17</a>).</p><p>Mandhari ya Agano la Kale kwa taswira hii ya karamu ni <a href=\"https://ref.ly/Isa25:6\">Isaya 25:6</a>. Inaelezea wokovu wa mwisho wa Mungu kama karamu kuu kwa kila mtu: “Bwana wa majeshi atatayarisha karamu ya kifahari kwa watu wote, karamu ya divai iliyokolea, ya nyama bora, na divai iliyokolea vizuri” (tazama pia <a href=\"https://ref.ly/Isa65:13-Isa65:14\">Isaya 65:13–14</a>).</p><p>Huduma ya umma ya Yesu ilianza na mwaliko wa karamu na mwanzo wake. Kupitia kifo chake na ufufuo, alileta wokovu. Sasa, kila mtu anaweza kuja kwenye meza ya karamu ya Mungu na kupokea baraka za kiroho za ufalme. Hata hivyo, karamu hii itatimia kikamilifu katika ufalme ujao. Kisha, wanafunzi wa Yesu watakuwa &quot;wakila na kunywa kwenye meza Yangu katika ufalme Wangu&quot; na &quot;kuketi kwenye viti vya enzi, wakihukumu makabila kumi na mawili ya Israeli&quot; (<a href=\"https://ref.ly/Luke22:30\">Luka 22:30</a>; tazama pia <a href=\"https://ref.ly/Rev19:7-Rev19:9\">Ufunuo 19:7–9</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Isa25:6\">Isaya 25:6</a>; <a href=\"https://ref.ly/Isa65:13-Isa65:14\">65:13–14</a>; <a href=\"https://ref.ly/Luke5:29-Luke5:35\">Luka 5:29–35</a>; <a href=\"https://ref.ly/Luke6:21\">6:21</a>; <a href=\"https://ref.ly/Luke7:36-Luke7:50\">7:36–50</a>; <a href=\"https://ref.ly/Luke9:10-Luke9:17\">9:10–17</a>; <a href=\"https://ref.ly/Luke11:37-Luke11:41\">11:37–41</a>; <a href=\"https://ref.ly/Luke12:35-Luke12:40\">12:35–40</a>; <a href=\"https://ref.ly/Luke13:24-Luke13:30\">13:24–30</a>; <a href=\"https://ref.ly/Luke14:1-Luke14:24\">14:1–24</a>; <a href=\"https://ref.ly/Luke17:8\">17:8</a>; <a href=\"https://ref.ly/Luke22:30\">22:30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23025006",
+          "start_ref_usfm": "ISA 25:6",
+          "end_ref": "23025006",
+          "end_ref_usfm": "ISA 25:6"
+        },
+        {
+          "start_ref": "42006021",
+          "start_ref_usfm": "LUK 6:21",
+          "end_ref": "42006021",
+          "end_ref_usfm": "LUK 6:21"
+        },
+        {
+          "start_ref": "42017008",
+          "start_ref_usfm": "LUK 17:8",
+          "end_ref": "42017008",
+          "end_ref_usfm": "LUK 17:8"
+        },
+        {
+          "start_ref": "42022030",
+          "start_ref_usfm": "LUK 22:30",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        },
+        {
+          "start_ref": "42014015",
+          "start_ref_usfm": "LUK 14:15",
+          "end_ref": "42014024",
+          "end_ref_usfm": "LUK 14:24"
+        },
+        {
+          "start_ref": "66019007",
+          "start_ref_usfm": "REV 19:7",
+          "end_ref": "66019009",
+          "end_ref_usfm": "REV 19:9"
+        },
+        {
+          "start_ref": "42009010",
+          "start_ref_usfm": "LUK 9:10",
+          "end_ref": "42009017",
+          "end_ref_usfm": "LUK 9:17"
+        },
+        {
+          "start_ref": "42017007",
+          "start_ref_usfm": "LUK 17:7",
+          "end_ref": "42017010",
+          "end_ref_usfm": "LUK 17:10"
+        },
+        {
+          "start_ref": "42007036",
+          "start_ref_usfm": "LUK 7:36",
+          "end_ref": "42007050",
+          "end_ref_usfm": "LUK 7:50"
+        },
+        {
+          "start_ref": "40008011",
+          "start_ref_usfm": "MAT 8:11",
+          "end_ref": "40008012",
+          "end_ref_usfm": "MAT 8:12"
+        },
+        {
+          "start_ref": "42022028",
+          "start_ref_usfm": "LUK 22:28",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "23065013",
+          "start_ref_usfm": "ISA 65:13",
+          "end_ref": "23065014",
+          "end_ref_usfm": "ISA 65:14"
+        },
+        {
+          "start_ref": "42005033",
+          "start_ref_usfm": "LUK 5:33",
+          "end_ref": "42005035",
+          "end_ref_usfm": "LUK 5:35"
+        },
+        {
+          "start_ref": "42011037",
+          "start_ref_usfm": "LUK 11:37",
+          "end_ref": "42011041",
+          "end_ref_usfm": "LUK 11:41"
+        },
+        {
+          "start_ref": "42014001",
+          "start_ref_usfm": "LUK 14:1",
+          "end_ref": "42014006",
+          "end_ref_usfm": "LUK 14:6"
+        },
+        {
+          "start_ref": "42012035",
+          "start_ref_usfm": "LUK 12:35",
+          "end_ref": "42012038",
+          "end_ref_usfm": "LUK 12:38"
+        },
+        {
+          "start_ref": "42014007",
+          "start_ref_usfm": "LUK 14:7",
+          "end_ref": "42014014",
+          "end_ref_usfm": "LUK 14:14"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005035",
+          "end_ref_usfm": "LUK 5:35"
+        },
+        {
+          "start_ref": "42012035",
+          "start_ref_usfm": "LUK 12:35",
+          "end_ref": "42012040",
+          "end_ref_usfm": "LUK 12:40"
+        },
+        {
+          "start_ref": "42013024",
+          "start_ref_usfm": "LUK 13:24",
+          "end_ref": "42013030",
+          "end_ref_usfm": "LUK 13:30"
+        },
+        {
+          "start_ref": "42014001",
+          "start_ref_usfm": "LUK 14:1",
+          "end_ref": "42014024",
+          "end_ref_usfm": "LUK 14:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

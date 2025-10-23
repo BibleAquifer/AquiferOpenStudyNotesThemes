@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 764989,
+    "reference_id": 203132,
+    "title": "Nyoka ya Shaba",
+    "media_type": "Text",
+    "index_reference": "nyoka ya shaba",
+    "language": "swh",
+    "content": "<p><a href=\"https://ref.ly/Num21:4-Num21:9\">Hesabu 21:4–9</a> inaelezea tukio ambapo Waisraeli walilalamika dhidi ya Mungu na Mose. Walikuwa hawaridhiki na chakula na maji na wakasema, &quot;Tunachukia chakula hiki kibaya!&quot; (<a href=\"https://ref.ly/Num21:5\">21:5</a>). Kwa kujibu, Bwana alituma nyoka wenye sumu waliowauma na kuua watu wengi (tazama <a href=\"https://ref.ly/Deut8:15\">Kumbukumbu la Torati 8:15</a>). Walipotambua makosa yao, Waisraeli walimwomba Mose aombe kuondolewa kwa nyoka. Mungu alimwambia Mose atengeneze nyoka wa shaba. Yeyote aliyeumwa angeweza kuutazama na Mungu angemponya (<a href=\"https://ref.ly/Num21:8\">Hesabu 21:8</a>).</p><p>Hii haikuwa matibabu ya kawaida ya kitabibu. Uponyaji ulitoka kwa Mungu na ulihitaji imani kutazama nyoka wa shaba na kuamini katika nguvu ya uponyaji ya Mungu. Kuumwa na nyoka kulikuwa matokeo ya adhabu ya Mungu. Hata hivyo, pia alitoa njia ya wokovu wao kupitia rehema zake (tazama <em>Hekima ya Solomoni</em> 16:5–7).</p><p>Wakati Hezekia alipokuwa mfalme wa Yuda mwaka wa 715Kabla ya Kristo (KK), Waisraeli walianza kutumia nyoka wa shaba wa Mose kama sanamu (tazama <a href=\"https://ref.ly/2Kgs18:1-2Kgs18:4\">2 Wafalme 18:1–4</a>). Inawezekana walihifadhi sanamu hiyo ili kukumbuka nguvu za Mungu. Hii ilikuwa sawa na vitu vingine vitakatifu kutoka kipindi cha nyikani (tazama <a href=\"https://ref.ly/Deut10:5\">Kumbukumbu la Torati 10:5</a>; <a href=\"https://ref.ly/Heb9:4-Heb9:5\">Waebrania 9:4–5</a>). Hata hivyo, walianza kuiabudu kama mungu mwingine. Kwa hivyo, walilazimika kuiharibu kama walivyofanya kwa vitu vingine vya ibada ya kipagani na nguzo. Ibada kama hiyo ya sanamu inatishia ibada ya Mungu wa milele (linganisha <a href=\"https://ref.ly/Exod32:1-Exod32:35\">Kutoka 32</a>).</p><p>Yesu alitaja tukio la nyoka wa shaba ili kutabiri jinsi angekufa.  &quot;Angeinuliwa juu&quot; msalabani kama Mose alivyoinua nyoka juu ya mti (<a href=\"https://ref.ly/John3:14-John3:15\">Yohana 3:14–15</a>; tazama pia <a href=\"https://ref.ly/John8:28\">8:28</a>; <a href=\"https://ref.ly/John12:32-John12:33\">12:32–33</a>). Picha ya nyoka wa shaba ilitumika kama tiba ya kuumwa na nyoka. Vivyo hivyo, wale wanaotazama msalaba wa Kristo na kukubali dhabihu ya Yesu wanapokea ahadi ya uzima wa milele (<a href=\"https://ref.ly/John3:14-John3:16\">Yohana 3:14–16</a>).</p><p>Bwana alituma nyoka kuwaadhibu Waisraeli kwa kulalamika kuhusu mana katika nyika (<a href=\"https://ref.ly/Num21:4-Num21:9\">Hesabu 21:4–9</a>). Yesu alijiita &quot;mkate wa kweli kutoka mbinguni,&quot; mana ya kiroho inayotoa uzima wa milele kwa watu wake (<a href=\"https://ref.ly/John6:32-John6:40\">Yohana 6:32–40</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Num21:4-Num21:9\">Hesabu 21:4–9</a>; <a href=\"https://ref.ly/2Kgs18:1-2Kgs18:4\">2 Wafalme 18:1–4</a>; <a href=\"https://ref.ly/John3:14-John3:15\">Yohana 3:14–15</a>; <a href=\"https://ref.ly/John6:32-John6:40\">6:32–40</a>; <a href=\"https://ref.ly/John8:28\">8:28</a>; <a href=\"https://ref.ly/John12:30-John12:34\">12:30–34</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04021005",
+          "start_ref_usfm": "NUM 21:5",
+          "end_ref": "04021005",
+          "end_ref_usfm": "NUM 21:5"
+        },
+        {
+          "start_ref": "04021008",
+          "start_ref_usfm": "NUM 21:8",
+          "end_ref": "04021008",
+          "end_ref_usfm": "NUM 21:8"
+        },
+        {
+          "start_ref": "05008015",
+          "start_ref_usfm": "DEU 8:15",
+          "end_ref": "05008015",
+          "end_ref_usfm": "DEU 8:15"
+        },
+        {
+          "start_ref": "05010005",
+          "start_ref_usfm": "DEU 10:5",
+          "end_ref": "05010005",
+          "end_ref_usfm": "DEU 10:5"
+        },
+        {
+          "start_ref": "43008028",
+          "start_ref_usfm": "JHN 8:28",
+          "end_ref": "43008028",
+          "end_ref_usfm": "JHN 8:28"
+        },
+        {
+          "start_ref": "02032001",
+          "start_ref_usfm": "EXO 32:1",
+          "end_ref": "02032035",
+          "end_ref_usfm": "EXO 32:35"
+        },
+        {
+          "start_ref": "04021004",
+          "start_ref_usfm": "NUM 21:4",
+          "end_ref": "04021009",
+          "end_ref_usfm": "NUM 21:9"
+        },
+        {
+          "start_ref": "43012032",
+          "start_ref_usfm": "JHN 12:32",
+          "end_ref": "43012033",
+          "end_ref_usfm": "JHN 12:33"
+        },
+        {
+          "start_ref": "43003014",
+          "start_ref_usfm": "JHN 3:14",
+          "end_ref": "43003015",
+          "end_ref_usfm": "JHN 3:15"
+        },
+        {
+          "start_ref": "43003014",
+          "start_ref_usfm": "JHN 3:14",
+          "end_ref": "43003016",
+          "end_ref_usfm": "JHN 3:16"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018004",
+          "end_ref_usfm": "2KI 18:4"
+        },
+        {
+          "start_ref": "58009004",
+          "start_ref_usfm": "HEB 9:4",
+          "end_ref": "58009005",
+          "end_ref_usfm": "HEB 9:5"
+        },
+        {
+          "start_ref": "43006032",
+          "start_ref_usfm": "JHN 6:32",
+          "end_ref": "43006040",
+          "end_ref_usfm": "JHN 6:40"
+        },
+        {
+          "start_ref": "43012030",
+          "start_ref_usfm": "JHN 12:30",
+          "end_ref": "43012034",
+          "end_ref_usfm": "JHN 12:34"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

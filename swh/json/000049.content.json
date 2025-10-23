@@ -1,0 +1,148 @@
+[
+  {
+    "content_id": 765128,
+    "reference_id": 203271,
+    "title": "Ibada katika Yerusalemu",
+    "media_type": "Text",
+    "index_reference": "ibada katika yerusalemu",
+    "language": "swh",
+    "content": "<p>Manabii wa Agano la Kale walielewa kwamba ibada ya kweli inahitaji kumjua Mungu na matarajio yake. Mungu aliamua kwamba hekalu huko Yerusalemu lingekuwa mahali kuu kwa ibada ya watu wake. Sauti ya Bwana ilitoka Sayuni na Yerusalemu (<a href=\"https://ref.ly/Amos1:2\">Amosi 1:2</a>). Haikubaliki kwa Waisraeli kuunda mahali pengine pa kati pa ibada isipokuwa hekalu huko Yerusalemu.</p><p>Baada ya ufalme wa Israeli kugawanyika katika sehemu mbili, Yeroboamu, ambaye alikuwa mfalme wa ufalme wa kaskazini, alianzisha maeneo mapya ya ibada. Alijaribu kuwazuia watu wake kusafiri kwenda Yerusalemu kuabudu Mungu. Kwa muda, maeneo mbalimbali ya ibada yalionekana katika falme za kaskazini na kusini. Hata hivyo, haijalishi ni dhabihu ngapi zilifanywa au jinsi sherehe zilivyokuwa za kifahari, haya hayakuwa maeneo ambayo Mungu alikuwa ameyachagua kwa ajili ya ibada (<a href=\"https://ref.ly/Amos5:4-Amos5:5\">5:4–5</a>).</p><p>Katika Agano Jipya, ibada haijazuiliwa kwa mahali maalum. Wakristo wanaweza kuabudu popote wanapokusanyika (tazama <a href=\"https://ref.ly/Matt18:20\">Mathayo 18:20</a>). Hata hivyo, ibada lazima ifuate mwongozo wa Mungu &quot;katika roho na kweli&quot; (<a href=\"https://ref.ly/John4:23-John4:24\">Yohana 4:23–24</a>). Agano la Kale na Jipya yote yanasisitiza umuhimu wa ibada ya kweli.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Deut12:5\">Kumbukumbu la Torati 12:5</a>; <a href=\"https://ref.ly/1Kgs11:36\">1 Wafalme 11:36</a>; <a href=\"https://ref.ly/2Chr6:6\">2 Mambo ya Nyakati 6:6</a>; <a href=\"https://ref.ly/Neh1:9\">Nehemia 1:9</a>; <a href=\"https://ref.ly/Neh11:1\">11:1</a>; <a href=\"https://ref.ly/Isa2:3\">Isaya 2:3</a>; <a href=\"https://ref.ly/Isa52:1\">52:1</a>; <a href=\"https://ref.ly/Isa56:7\">56:7</a>; <a href=\"https://ref.ly/Joel3:17\">Yoeli 3:17</a>; <a href=\"https://ref.ly/Amos5:4-Amos5:5\">Amosi 5:4–5</a>; <a href=\"https://ref.ly/Zech8:20-Zech8:22\">Zekaria 8:20–22</a>; <a href=\"https://ref.ly/Matt4:5\">Mathayo 4:5</a>; <a href=\"https://ref.ly/Luke19:46\">Luka 19:46</a>; <a href=\"https://ref.ly/John2:16\">Yohana 2:16</a>; <a href=\"https://ref.ly/John4:21-John4:24\">4:21–24</a>; <a href=\"https://ref.ly/Heb12:18-Heb12:29\">Waebrania 12:18–29</a>; <a href=\"https://ref.ly/Rev21:2\">Ufunuo 21:2</a>, <a href=\"https://ref.ly/Rev21:10\">10</a>; <a href=\"https://ref.ly/Rev22:19\">22:19</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05012005",
+          "start_ref_usfm": "DEU 12:5",
+          "end_ref": "05012005",
+          "end_ref_usfm": "DEU 12:5"
+        },
+        {
+          "start_ref": "11011036",
+          "start_ref_usfm": "1KI 11:36",
+          "end_ref": "11011036",
+          "end_ref_usfm": "1KI 11:36"
+        },
+        {
+          "start_ref": "14006006",
+          "start_ref_usfm": "2CH 6:6",
+          "end_ref": "14006006",
+          "end_ref_usfm": "2CH 6:6"
+        },
+        {
+          "start_ref": "16001009",
+          "start_ref_usfm": "NEH 1:9",
+          "end_ref": "16001009",
+          "end_ref_usfm": "NEH 1:9"
+        },
+        {
+          "start_ref": "16011001",
+          "start_ref_usfm": "NEH 11:1",
+          "end_ref": "16011001",
+          "end_ref_usfm": "NEH 11:1"
+        },
+        {
+          "start_ref": "23002003",
+          "start_ref_usfm": "ISA 2:3",
+          "end_ref": "23002003",
+          "end_ref_usfm": "ISA 2:3"
+        },
+        {
+          "start_ref": "23052001",
+          "start_ref_usfm": "ISA 52:1",
+          "end_ref": "23052001",
+          "end_ref_usfm": "ISA 52:1"
+        },
+        {
+          "start_ref": "23056007",
+          "start_ref_usfm": "ISA 56:7",
+          "end_ref": "23056007",
+          "end_ref_usfm": "ISA 56:7"
+        },
+        {
+          "start_ref": "29003017",
+          "start_ref_usfm": "JOL 3:17",
+          "end_ref": "29003017",
+          "end_ref_usfm": "JOL 3:17"
+        },
+        {
+          "start_ref": "30001002",
+          "start_ref_usfm": "AMO 1:2",
+          "end_ref": "30001002",
+          "end_ref_usfm": "AMO 1:2"
+        },
+        {
+          "start_ref": "40004005",
+          "start_ref_usfm": "MAT 4:5",
+          "end_ref": "40004005",
+          "end_ref_usfm": "MAT 4:5"
+        },
+        {
+          "start_ref": "40018020",
+          "start_ref_usfm": "MAT 18:20",
+          "end_ref": "40018020",
+          "end_ref_usfm": "MAT 18:20"
+        },
+        {
+          "start_ref": "42019046",
+          "start_ref_usfm": "LUK 19:46",
+          "end_ref": "42019046",
+          "end_ref_usfm": "LUK 19:46"
+        },
+        {
+          "start_ref": "43002016",
+          "start_ref_usfm": "JHN 2:16",
+          "end_ref": "43002016",
+          "end_ref_usfm": "JHN 2:16"
+        },
+        {
+          "start_ref": "66021002",
+          "start_ref_usfm": "REV 21:2",
+          "end_ref": "66021002",
+          "end_ref_usfm": "REV 21:2"
+        },
+        {
+          "start_ref": "66021010",
+          "start_ref_usfm": "REV 21:10",
+          "end_ref": "66021010",
+          "end_ref_usfm": "REV 21:10"
+        },
+        {
+          "start_ref": "66022019",
+          "start_ref_usfm": "REV 22:19",
+          "end_ref": "66022019",
+          "end_ref_usfm": "REV 22:19"
+        },
+        {
+          "start_ref": "43004023",
+          "start_ref_usfm": "JHN 4:23",
+          "end_ref": "43004024",
+          "end_ref_usfm": "JHN 4:24"
+        },
+        {
+          "start_ref": "43004021",
+          "start_ref_usfm": "JHN 4:21",
+          "end_ref": "43004024",
+          "end_ref_usfm": "JHN 4:24"
+        },
+        {
+          "start_ref": "58012018",
+          "start_ref_usfm": "HEB 12:18",
+          "end_ref": "58012029",
+          "end_ref_usfm": "HEB 12:29"
+        },
+        {
+          "start_ref": "38008020",
+          "start_ref_usfm": "ZEC 8:20",
+          "end_ref": "38008022",
+          "end_ref_usfm": "ZEC 8:22"
+        },
+        {
+          "start_ref": "30005004",
+          "start_ref_usfm": "AMO 5:4",
+          "end_ref": "30005005",
+          "end_ref_usfm": "AMO 5:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 765249,
+    "reference_id": 203392,
+    "title": "Miaka Elfu (Millenia)",
+    "media_type": "Text",
+    "index_reference": "miaka elfu (millenia)",
+    "language": "swh",
+    "content": "<p>Millenia ni kipindi cha miaka 1,000.Kitabu cha  <a href=\"https://ref.ly/Rev20:1-Rev20:15\">Ufunuo 20</a> kinaelezea utawala wa miaka 1,000 wa Yesu Kristo duniani. Makundi ya Kikristo yanayothamini sana Maandiko kama neno lililoongozwa na Mungu na lenye mamlaka yamekuwa na mitazamo mitatu kuhusu jinsi milenia hii inavyohusiana na kuja kwa Pili kwa Yesu:</p><ol><li><p><em>Premillennialism:</em> Kipindi kati ya kuja kwa kwanza kwa Yesu na kuja kwa pili kitakamilika atakaporudi. Atatawala duniani kwa miaka 1,000 pamoja na watakatifu wake. Baada ya hapo, Yesu ataleta hukumu ya mwisho na kuanzisha ufalme wake wa milele. Mtazamo huu unaweka kurudi kwa Yesu kabla ya milenia.</p></li><li><p><em>Amillennialism:</em> Huu si kipindi halisi cha miaka 1,000. &quot;Miaka 1,000&quot; ni ya mfano na inawakilisha wakati wa sasa kati ya kuja kwa kwanza kwa Yesu na kuja kwa pili. Katika kipindi hiki, Yesu anatawala kiroho pamoja na watu wake. Mwisho wa wakati huu, Yesu atarudi, kuleta hukumu ya mwisho, na kuanzisha ufalme wake wa milele. Mtazamo huu hauoni milenia tofauti (a-) mbali na enzi ya kanisa ya sasa.</p></li><li><p><em>Postmillennialism:</em> Katika kipindi kati ya kuja kwa kwanza kwa Yesu na kuja kwa Pili, Yesu ataendeleza utawala wake kupitia kanisa. Hii itasababisha kipindi kirefu cha amani duniani, kinachojulikana kama &quot;miaka 1,000.&quot; Mwisho wa kipindi hiki, Yesu atarudi, kufanya hukumu ya mwisho, na kuanzisha ufalme wake wa milele. Mtazamo huu unaweka kurudi kwa Yesu baada ya (post-) milenia.</p></li></ol><p>Mawazo haya tofauti yamesababisha migogoro miongoni mwa Wakristo. Wengi wameacha mahusiano ya Kikristo na wale wenye maoni tofauti. Hata hivyo, Wakristo wanapaswa kuonyesha unyenyekevu na upendo, na wasiruhusu tofauti hizi kuwatenganisha. (tazama <a href=\"https://ref.ly/1Pet3:8\">1 Petro 3:8</a>).</p><p>Ujumbe mkuu wa Ufunuo ni kwamba Yesu Kristo atarudi kimwili na kutawala mbingu mpya na dunia mpya. Vita vya kiroho vya kweli vinaendelea. Jehanamu, kama mbingu, ni halisi, na Mungu atawahukumu wote kwa viwango vyake. Unabii wa Ufunuo unatoa tumaini kwa watu wa Mungu wakati wa maumivu, mateso, na kuchanganyikiwa duniani.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Rev20:1-Rev20:10\">Ufunuo 20:1–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "60003008",
+          "start_ref_usfm": "1PE 3:8",
+          "end_ref": "60003008",
+          "end_ref_usfm": "1PE 3:8"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020015",
+          "end_ref_usfm": "REV 20:15"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

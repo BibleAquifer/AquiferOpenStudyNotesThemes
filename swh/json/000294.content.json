@@ -1,0 +1,154 @@
+[
+  {
+    "content_id": 765061,
+    "reference_id": 203204,
+    "title": "Zaburi ya Mateso",
+    "media_type": "Text",
+    "index_reference": "zaburi ya mateso",
+    "language": "swh",
+    "content": "<p>Zaburi nne za mateso (Zaburi 16, 22, 40, na 69) zinaelezea dhiki kali inayompata mtumishi wa Mungu. Pia zinajulikana kama &quot;Zaburi za Mateso.&quot;</p><p><a href=\"https://ref.ly/Ps22:1-Ps22:31\">Zaburi 22</a> inatumia lugha yenye nguvu sana kuhusu mateso katika Zaburi. Katika zaburi hii, mtumishi wa Mungu anateseka ingawa yeye ni mwenye haki. Hakuna kutajwa kwa dhambi yoyote, hivyo mateso ya mwandishi wa zaburi yanaonekana kuwa hayana haki kabisa. Licha ya kutendewa vibaya sana, hakuna sala ya kulipiza kisasi (tazama <a href=\"https://ref.ly/Ps137:1-Ps137:9\">Zaburi 137</a>).</p><p>Zaburi hii ina uhusiano muhimu na kifo cha Yesu msalabani (kwa mfano, <a href=\"https://ref.ly/Ps22:6-Ps22:8\">Zaburi 22:6–8</a>, <a href=\"https://ref.ly/Ps22:14-Ps22:18\">14–18</a>). Kwa kweli, Yesu alinukuu sehemu ya <a href=\"https://ref.ly/Ps22:1-Ps22:31\">Zaburi 22</a> alipokuwa akining&apos;inia msalabani (<a href=\"https://ref.ly/Ps22:1\">22:1</a>; tazama <a href=\"https://ref.ly/Matt27:46\">Mathayo 27:46</a>). Kristo asiye na dhambi hata aliwaombea wale waliomuua (<a href=\"https://ref.ly/Luke23:34\">Luka 23:34</a>).</p><p>Zaburi nyingine za mateso pia zilihusishwa na Yesu. <a href=\"https://ref.ly/Ps16:10\">Zaburi 16:10</a> inatabiri ushindi wa Yesu dhidi ya kifo (tazama <a href=\"https://ref.ly/Acts2:24-Acts2:31\">Matendo 2:24–31</a>). <a href=\"https://ref.ly/Ps40:6-Ps40:8\">Zaburi 40:6–8</a> inapendekeza kazi isiyo na ubinafsi ya Yesu ya ukombozi (<a href=\"https://ref.ly/Heb10:5-Heb10:10\">Waebrania 10:5–10</a>). <a href=\"https://ref.ly/Ps69:1-Ps69:36\">Zaburi 69</a> inazungumzia upweke unaotokana na kujitolea kwa ajili ya Mungu (<a href=\"https://ref.ly/Ps69:8-Ps69:9\">69:8–9</a>). Pia inatabiri jukumu la mwanafunzi Yuda katika kazi ya Mungu kupitia Kristo (<a href=\"https://ref.ly/Ps69:25-Ps69:26\">69:25–26</a>; tazama <a href=\"https://ref.ly/Ps109:8\">Zaburi 109:8</a>; <a href=\"https://ref.ly/Isa53:10\">Isaya 53:10</a>; <a href=\"https://ref.ly/Acts1:20\">Matendo 1:20</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ps16:1-Ps16:11\">Zaburi 16</a>; <a href=\"https://ref.ly/Ps22:1-Ps22:31\">22</a>; <a href=\"https://ref.ly/Ps40:1-Ps40:17\">40</a>; <a href=\"https://ref.ly/Ps69:1-Ps69:36\">69</a>; <a href=\"https://ref.ly/Ps102:1-Ps102:28\">102</a>; <a href=\"https://ref.ly/Ps109:1-Ps109:31\">109</a>; <a href=\"https://ref.ly/Isa42:1-Isa42:9\">Isaya 42:1–9</a>; <a href=\"https://ref.ly/Isa52:13-Isa53:12\">52:13–53:12</a>; <a href=\"https://ref.ly/Matt27:46\">Mathayo 27:46</a>; <a href=\"https://ref.ly/Luke23:34\">Luka 23:34</a>; <a href=\"https://ref.ly/Heb10:5-Heb10:10\">Waebrania 10:5–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19016010",
+          "start_ref_usfm": "PSA 16:10",
+          "end_ref": "19016010",
+          "end_ref_usfm": "PSA 16:10"
+        },
+        {
+          "start_ref": "19022001",
+          "start_ref_usfm": "PSA 22:1",
+          "end_ref": "19022001",
+          "end_ref_usfm": "PSA 22:1"
+        },
+        {
+          "start_ref": "19109008",
+          "start_ref_usfm": "PSA 109:8",
+          "end_ref": "19109008",
+          "end_ref_usfm": "PSA 109:8"
+        },
+        {
+          "start_ref": "23053010",
+          "start_ref_usfm": "ISA 53:10",
+          "end_ref": "23053010",
+          "end_ref_usfm": "ISA 53:10"
+        },
+        {
+          "start_ref": "40027046",
+          "start_ref_usfm": "MAT 27:46",
+          "end_ref": "40027046",
+          "end_ref_usfm": "MAT 27:46"
+        },
+        {
+          "start_ref": "42023034",
+          "start_ref_usfm": "LUK 23:34",
+          "end_ref": "42023034",
+          "end_ref_usfm": "LUK 23:34"
+        },
+        {
+          "start_ref": "44001020",
+          "start_ref_usfm": "ACT 1:20",
+          "end_ref": "44001020",
+          "end_ref_usfm": "ACT 1:20"
+        },
+        {
+          "start_ref": "19022001",
+          "start_ref_usfm": "PSA 22:1",
+          "end_ref": "19022031",
+          "end_ref_usfm": "PSA 22:31"
+        },
+        {
+          "start_ref": "23052013",
+          "start_ref_usfm": "ISA 52:13",
+          "end_ref": "23053012",
+          "end_ref_usfm": "ISA 53:12"
+        },
+        {
+          "start_ref": "19040001",
+          "start_ref_usfm": "PSA 40:1",
+          "end_ref": "19040017",
+          "end_ref_usfm": "PSA 40:17"
+        },
+        {
+          "start_ref": "19109001",
+          "start_ref_usfm": "PSA 109:1",
+          "end_ref": "19109031",
+          "end_ref_usfm": "PSA 109:31"
+        },
+        {
+          "start_ref": "19016001",
+          "start_ref_usfm": "PSA 16:1",
+          "end_ref": "19016011",
+          "end_ref_usfm": "PSA 16:11"
+        },
+        {
+          "start_ref": "19040006",
+          "start_ref_usfm": "PSA 40:6",
+          "end_ref": "19040008",
+          "end_ref_usfm": "PSA 40:8"
+        },
+        {
+          "start_ref": "58010005",
+          "start_ref_usfm": "HEB 10:5",
+          "end_ref": "58010010",
+          "end_ref_usfm": "HEB 10:10"
+        },
+        {
+          "start_ref": "19137001",
+          "start_ref_usfm": "PSA 137:1",
+          "end_ref": "19137009",
+          "end_ref_usfm": "PSA 137:9"
+        },
+        {
+          "start_ref": "19102001",
+          "start_ref_usfm": "PSA 102:1",
+          "end_ref": "19102028",
+          "end_ref_usfm": "PSA 102:28"
+        },
+        {
+          "start_ref": "19069001",
+          "start_ref_usfm": "PSA 69:1",
+          "end_ref": "19069036",
+          "end_ref_usfm": "PSA 69:36"
+        },
+        {
+          "start_ref": "23042001",
+          "start_ref_usfm": "ISA 42:1",
+          "end_ref": "23042009",
+          "end_ref_usfm": "ISA 42:9"
+        },
+        {
+          "start_ref": "19022006",
+          "start_ref_usfm": "PSA 22:6",
+          "end_ref": "19022008",
+          "end_ref_usfm": "PSA 22:8"
+        },
+        {
+          "start_ref": "19022014",
+          "start_ref_usfm": "PSA 22:14",
+          "end_ref": "19022018",
+          "end_ref_usfm": "PSA 22:18"
+        },
+        {
+          "start_ref": "44002024",
+          "start_ref_usfm": "ACT 2:24",
+          "end_ref": "44002031",
+          "end_ref_usfm": "ACT 2:31"
+        },
+        {
+          "start_ref": "19069008",
+          "start_ref_usfm": "PSA 69:8",
+          "end_ref": "19069009",
+          "end_ref_usfm": "PSA 69:9"
+        },
+        {
+          "start_ref": "19069025",
+          "start_ref_usfm": "PSA 69:25",
+          "end_ref": "19069026",
+          "end_ref_usfm": "PSA 69:26"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 765103,
+    "reference_id": 203246,
+    "title": "Uvamizi",
+    "media_type": "Text",
+    "index_reference": "uvamizi",
+    "language": "swh",
+    "content": "<p>Katika ulimwengu wa kale, uvamizi wa kigeni ulikuwa jambo la kawaida na ulisababisha matatizo makubwa. Wavamizi walipofaulu, walileta uharibifu na mateso. Wavamizi walioshinda waliua wanaume wazima, kubaka wanawake, kuwafanya watoto watumwa, kuiba vitu vya thamani, na kuharibu kila kitu kingine. Tishio la uvamizi liliwafanya watu waishi kwa hofu.</p><p>Katika miongo ya mwisho ya ufalme, watu wa Yuda na Yerusalemu waliishi chini ya tishio la uvamizi wa Babeli. Zaidi ya karne moja mapema, Waashuru walikuwa wameharibu ufalme wa kaskazini wa Israeli, kuvamia Yuda, na kushambulia Yerusalemu. Matukio haya yalibaki wazi katika kumbukumbu za watu wa Yuda. Nabii Yeremia alionya kuhusu uvamizi mwingine unaokuja na uharibifu ambao ungetokea.</p><p>Wakati uvamizi ulipotishia, watu walitafuta njia za kuepuka mateso yaliyokuwa yanakuja. Manabii kama Yeremia waliwahimiza watu wa Mungu kuacha miungu ya uongo na kumtii Bwana. Walishauri kutotegemea washirika wenye nguvu kwa ajili ya uokoaji. Badala yake, walihimiza kutafuta ulinzi wa Bwana.</p><p>Manabii wakati mwingine walielezea kwa undani kile ambacho kingetokea wakati wa uvamizi. Lengo lao halikuwa kuwatisha au kuwakatisha tamaa watu wa Mungu. Mungu aliwatuma kuhimiza utii kwake. Walitaka watu wamwamini Bwana kwa wokovu na wapate kuokolewa naye. Hivi ndivyo Mfalme Hezekia alivyoitikia uvamizi wa Waashuru karne moja mapema. Alimwamini Bwana, na Bwana alimwokoa yeye na watu wake.</p><p><u>Vifungu vya Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen14:1-Gen14:16\">Mwanzo 14:1–16</a>; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2 Wafalme 17:5–23</a>; <a href=\"https://ref.ly/2Kgs18:13-2Kgs19:37\">18:13–19:37</a>; <a href=\"https://ref.ly/Isa6:8-Isa6:13\">Isaya 6:8–13</a>; <a href=\"https://ref.ly/Isa36:1-Isa37:38\">36:1–37:38</a>; <a href=\"https://ref.ly/Isa65:21-Isa65:23\">65:21–23</a>; <a href=\"https://ref.ly/Jer6:22-Jer6:26\">Yeremia 6:22–26</a>; <a href=\"https://ref.ly/Jer19:7-Jer19:15\">19:7–15</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "12018013",
+          "start_ref_usfm": "2KI 18:13",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23037038",
+          "end_ref_usfm": "ISA 37:38"
+        },
+        {
+          "start_ref": "12017005",
+          "start_ref_usfm": "2KI 17:5",
+          "end_ref": "12017023",
+          "end_ref_usfm": "2KI 17:23"
+        },
+        {
+          "start_ref": "23006008",
+          "start_ref_usfm": "ISA 6:8",
+          "end_ref": "23006013",
+          "end_ref_usfm": "ISA 6:13"
+        },
+        {
+          "start_ref": "23065021",
+          "start_ref_usfm": "ISA 65:21",
+          "end_ref": "23065023",
+          "end_ref_usfm": "ISA 65:23"
+        },
+        {
+          "start_ref": "24006022",
+          "start_ref_usfm": "JER 6:22",
+          "end_ref": "24006026",
+          "end_ref_usfm": "JER 6:26"
+        },
+        {
+          "start_ref": "24019007",
+          "start_ref_usfm": "JER 19:7",
+          "end_ref": "24019015",
+          "end_ref_usfm": "JER 19:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 765183,
+    "reference_id": 203326,
+    "title": "Uongozi Wa kuezesha Wengine",
+    "media_type": "Text",
+    "index_reference": "uongozi wa kuezesha wengine",
+    "language": "swh",
+    "content": "<p>Kwenye <a href=\"https://ref.ly/Acts6:1-Acts6:7\">Matendo 6:1–7</a>, jamii ya Wakristo ya awali ilikumbana na mgogoro wa uongozi. Wagiriki walikuwa Wayahudi wanaozungumza Kigiriki huko Yerusalemu. Walikasirika kwa sababu wanawake wao wajane walikuwa wakipuuzwa katika mgao wa chakula wa kila siku (<a href=\"https://ref.ly/Acts6:1\">6:1</a>).</p><p>Suala hili lilitishia ukuaji wa kanisa na lilihitaji umakini mkubwa. &quot;Wayahudi wa Kiyunani miongoni mwao walianza kunung&apos;unika&quot; (<a href=\"https://ref.ly/Acts6:1\">6:1</a>). Mitume kwa busara walitambua tatizo (<a href=\"https://ref.ly/Acts6:2-Acts6:3\">6:2–3</a>). Walitoa wito wa kuchaguliwa wanaume saba kusimamia mpango wa chakula (<a href=\"https://ref.ly/Acts6:5-Acts6:6\">6:5–6</a>).</p><p>Wengi wanaamini hawa saba walikuwa mashemasi wa kwanza (tazama <span data-bnType=\"resourceReference\" data-resourceId=\"8795\" data-resourceType=\"TyndaleStudyNotes\">maelezo ya somo kwenye 6:2–6</span>). Walikubaliana juu ya mgawanyo wazi wa kazi. Mitume kumi na wawili walijikita katika kuhubiri na kufundisha, huku viongozi wengine waliokuwa wamejaa Roho Mtakatifu wakishughulikia mahitaji ya kimwili. Mitume walionyesha uongozi thabiti kwa kusikiliza mahitaji ya jamii. Mbinu hii ya busara na hatua ya pamoja ilisababisha ukuaji wa kiroho na ongezeko la Wakristo (<a href=\"https://ref.ly/Acts6:7\">6:7</a>).</p><p>Kanisa lilitambua vipawa mbalimbali na kuvitumia kwa manufaa ya wote (tazama <a href=\"https://ref.ly/1Cor12:4-1Cor12:11\">1 Wakorintho 12:4–11</a>; <a href=\"https://ref.ly/1Pet4:10-1Pet4:11\">1 Petro 4:10–11</a>). Kila Mkristo ana nafasi ya kushiriki katika aina fulani ya huduma. Wazo hili la kila Mkristo kumtumikia Mungu linaitwa &quot;ukuhani wa waumini wote&quot; (<a href=\"https://ref.ly/1Pet2:5\">1 Petro 2:5</a>, <a href=\"https://ref.ly/1Pet2:9\">9</a>; <a href=\"https://ref.ly/Rev1:6\">Ufunuo 1:6</a>; <a href=\"https://ref.ly/Rev5:10\">5:10</a>; tazama <a href=\"https://ref.ly/Exod19:6\">Kutoka 19:6</a>; <a href=\"https://ref.ly/Isa61:6\">Isaiah 61:6</a>; <a href=\"https://ref.ly/Rev20:6\">Ufunuo 20:6</a>). Ingawa si kila mtu ana jukumu sawa, Mungu anamwita kila mtu kutumia vipawa vyake katika huduma ya Mungu.</p><p>Mungu amewapa kanisa viongozi wake, &quot;si kuwatawala&quot; watu, bali kuhudumia jamii (<a href=\"https://ref.ly/Matt20:25-Matt20:28\">Mathayo 20:25–28</a>; <a href=\"https://ref.ly/Mark10:42-Mark10:45\">Marko 10:42–45</a>; <a href=\"https://ref.ly/Luke22:25-Luke22:27\">Luka 22:25–27</a>; <a href=\"https://ref.ly/1Pet5:1-1Pet5:4\">1 Petro 5:1–4</a>). Viongozi wa kanisa wanafanikiwa wanapofahamu mahitaji ya jamii na kutambua wale ambao Mungu amewaandaa kukidhi mahitaji hayo. Viongozi bora wanatambua watu wenye vipaji na kuwasaidia kukua, kuwawezesha wanachama kutumia vipawa walivyopewa na Mungu (<a href=\"https://ref.ly/Eph4:11-Eph4:12\">Waefeso 4:11–12</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod19:6\">Kutoka 19:6</a>; <a href=\"https://ref.ly/Isa61:6\">Isaya 61:6</a>; <a href=\"https://ref.ly/Matt20:25-Matt20:28\">Mathayo 20:25–28</a>; <a href=\"https://ref.ly/Acts6:1-Acts6:7\">Matendo 6:1–7</a>; <a href=\"https://ref.ly/1Cor12:4-1Cor12:11\">1 Wakorintho 12:4–11</a>; <a href=\"https://ref.ly/Eph4:11-Eph4:12\">Waefeso 4:11–12</a>; <a href=\"https://ref.ly/1Pet2:5\">1 Petro 2:5</a>, <a href=\"https://ref.ly/1Pet2:9\">9</a>; <a href=\"https://ref.ly/1Pet4:10-1Pet4:11\">4:10–11</a>; <a href=\"https://ref.ly/Rev1:6\">Ufunuo 1:6</a>; <a href=\"https://ref.ly/Rev5:10\">5:10</a>; <a href=\"https://ref.ly/Rev20:6\">20:6</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019006",
+          "start_ref_usfm": "EXO 19:6",
+          "end_ref": "02019006",
+          "end_ref_usfm": "EXO 19:6"
+        },
+        {
+          "start_ref": "23061006",
+          "start_ref_usfm": "ISA 61:6",
+          "end_ref": "23061006",
+          "end_ref_usfm": "ISA 61:6"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006001",
+          "end_ref_usfm": "ACT 6:1"
+        },
+        {
+          "start_ref": "44006007",
+          "start_ref_usfm": "ACT 6:7",
+          "end_ref": "44006007",
+          "end_ref_usfm": "ACT 6:7"
+        },
+        {
+          "start_ref": "60002005",
+          "start_ref_usfm": "1PE 2:5",
+          "end_ref": "60002005",
+          "end_ref_usfm": "1PE 2:5"
+        },
+        {
+          "start_ref": "60002009",
+          "start_ref_usfm": "1PE 2:9",
+          "end_ref": "60002009",
+          "end_ref_usfm": "1PE 2:9"
+        },
+        {
+          "start_ref": "66001006",
+          "start_ref_usfm": "REV 1:6",
+          "end_ref": "66001006",
+          "end_ref_usfm": "REV 1:6"
+        },
+        {
+          "start_ref": "66005010",
+          "start_ref_usfm": "REV 5:10",
+          "end_ref": "66005010",
+          "end_ref_usfm": "REV 5:10"
+        },
+        {
+          "start_ref": "66020006",
+          "start_ref_usfm": "REV 20:6",
+          "end_ref": "66020006",
+          "end_ref_usfm": "REV 20:6"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "60005001",
+          "start_ref_usfm": "1PE 5:1",
+          "end_ref": "60005004",
+          "end_ref_usfm": "1PE 5:4"
+        },
+        {
+          "start_ref": "41010042",
+          "start_ref_usfm": "MRK 10:42",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006007",
+          "end_ref_usfm": "ACT 6:7"
+        },
+        {
+          "start_ref": "46012004",
+          "start_ref_usfm": "1CO 12:4",
+          "end_ref": "46012011",
+          "end_ref_usfm": "1CO 12:11"
+        },
+        {
+          "start_ref": "40020025",
+          "start_ref_usfm": "MAT 20:25",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "60004010",
+          "start_ref_usfm": "1PE 4:10",
+          "end_ref": "60004011",
+          "end_ref_usfm": "1PE 4:11"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004012",
+          "end_ref_usfm": "EPH 4:12"
+        },
+        {
+          "start_ref": "44006002",
+          "start_ref_usfm": "ACT 6:2",
+          "end_ref": "44006003",
+          "end_ref_usfm": "ACT 6:3"
+        },
+        {
+          "start_ref": "42022025",
+          "start_ref_usfm": "LUK 22:25",
+          "end_ref": "42022027",
+          "end_ref_usfm": "LUK 22:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

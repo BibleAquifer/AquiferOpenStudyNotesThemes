@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 765133,
+    "reference_id": 203276,
+    "title": "Kurudi kwa Bwana",
+    "media_type": "Text",
+    "index_reference": "kurudi kwa bwana",
+    "language": "swh",
+    "content": "<p>Manabii wa Agano la Kale mara nyingi waliwaambia watu wa Israeli warudi kwa Bwana, kabla na baada ya uhamisho kwenda Babeli (tazama, kwa mfano, <a href=\"https://ref.ly/Isa55:6-Isa55:7\">Isaya 55:6–7</a>; <a href=\"https://ref.ly/Hos6:1-Hos6:3\">Hosea 6:1–3</a>; <a href=\"https://ref.ly/Hag1:12\">Hagai 1:12</a>; <a href=\"https://ref.ly/Mal3:7\">Malaki 3:7</a>). Hii ilimaanisha kujitolea upya kumtii Mungu. Walikuwa wamemwacha Mungu wa kweli na kuanza kuabudu miungu mingine, jambo ambalo lilipelekea hukumu yake. Hukumu hii ilisababisha uharibifu wa hekalu na uhamisho wao. Urejesho wa baadaye na baraka za watu wa Mungu zilitegemea utiifu wao kwake.</p><p>Ujumbe mkuu wa nabii Zekaria kwa wale wanaorejea Yerusalemu kutoka uhamishoni ni wazi katika kauli yake ya ufunguzi: “Rudieni Mimi, asema BWANA wa majeshi, nami nitawarudia, asema BWANA wa majeshi” (<a href=\"https://ref.ly/Zech1:3\">Zekaria 1:3</a>). Zekaria aliwasihi watu wa Israeli kufufua ahadi yao kwa makubaliano yao maalum na Mungu (agano). Aliwaonya wajifunze kutoka kwa mababu zao ambao hawakuwa waaminifu kwa agano. Hii ilikuwa na matokeo makubwa (<a href=\"https://ref.ly/Zech7:11-Zech7:14\">7:11–14</a>).</p><p>Zakaria alijali kuhusu agano la Israeli na Mungu pamoja na haki ya kijamii. Kurudi kwa Bwana kunaleta utiifu na kutenda haki, uaminifu, usawa, huruma, na wema (<a href=\"https://ref.ly/Zech7:9-Zech7:10\">Zakaria 7:9–10</a>; <a href=\"https://ref.ly/Zech8:16-Zech8:17\">8:16–17</a>). Mtazamo wa Zakaria kuhusu mahusiano sahihi na Mungu na wengine ulitabiri mafundisho ya Yesu. Alisema amri kuu ni kumpenda Mungu zaidi ya kila kitu na kumpenda jirani yako kama unavyojipenda mwenyewe (<a href=\"https://ref.ly/Matt22:34-Matt22:40\">Mathayo 22:34–40</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam7:2-1Sam7:11\">1 Samweli 7:2–11</a>; <a href=\"https://ref.ly/Isa1:16-Isa1:20\">Isaya 1:16–20</a>; <a href=\"https://ref.ly/Isa55:7\">55:7</a>; <a href=\"https://ref.ly/Hos6:1-Hos6:3\">Hosea 6:1–3</a>; <a href=\"https://ref.ly/Hos14:1-Hos14:7\">14:1–7</a>; <a href=\"https://ref.ly/Hag1:12\">Hagai 1:12</a>; <a href=\"https://ref.ly/Zech1:3\">Zekaria 1:3</a>; <a href=\"https://ref.ly/Zech7:9-Zech7:14\">7:9–14</a>; <a href=\"https://ref.ly/Zech8:16-Zech8:17\">8:16–17</a>; <a href=\"https://ref.ly/Mal3:7\">Malaki 3:7</a>; <a href=\"https://ref.ly/Matt3:2-Matt3:10\">Mathayo 3:2–10</a>; <a href=\"https://ref.ly/Matt22:34-Matt22:40\">22:34–40</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:31\">Matendo 17:24–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23055007",
+          "start_ref_usfm": "ISA 55:7",
+          "end_ref": "23055007",
+          "end_ref_usfm": "ISA 55:7"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "38001003",
+          "start_ref_usfm": "ZEC 1:3",
+          "end_ref": "38001003",
+          "end_ref_usfm": "ZEC 1:3"
+        },
+        {
+          "start_ref": "39003007",
+          "start_ref_usfm": "MAL 3:7",
+          "end_ref": "39003007",
+          "end_ref_usfm": "MAL 3:7"
+        },
+        {
+          "start_ref": "28006001",
+          "start_ref_usfm": "HOS 6:1",
+          "end_ref": "28006003",
+          "end_ref_usfm": "HOS 6:3"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022040",
+          "end_ref_usfm": "MAT 22:40"
+        },
+        {
+          "start_ref": "38007009",
+          "start_ref_usfm": "ZEC 7:9",
+          "end_ref": "38007010",
+          "end_ref_usfm": "ZEC 7:10"
+        },
+        {
+          "start_ref": "23055006",
+          "start_ref_usfm": "ISA 55:6",
+          "end_ref": "23055007",
+          "end_ref_usfm": "ISA 55:7"
+        },
+        {
+          "start_ref": "38008016",
+          "start_ref_usfm": "ZEC 8:16",
+          "end_ref": "38008017",
+          "end_ref_usfm": "ZEC 8:17"
+        },
+        {
+          "start_ref": "38007011",
+          "start_ref_usfm": "ZEC 7:11",
+          "end_ref": "38007014",
+          "end_ref_usfm": "ZEC 7:14"
+        },
+        {
+          "start_ref": "09007002",
+          "start_ref_usfm": "1SA 7:2",
+          "end_ref": "09007011",
+          "end_ref_usfm": "1SA 7:11"
+        },
+        {
+          "start_ref": "23001016",
+          "start_ref_usfm": "ISA 1:16",
+          "end_ref": "23001020",
+          "end_ref_usfm": "ISA 1:20"
+        },
+        {
+          "start_ref": "28014001",
+          "start_ref_usfm": "HOS 14:1",
+          "end_ref": "28014007",
+          "end_ref_usfm": "HOS 14:7"
+        },
+        {
+          "start_ref": "38007009",
+          "start_ref_usfm": "ZEC 7:9",
+          "end_ref": "38007014",
+          "end_ref_usfm": "ZEC 7:14"
+        },
+        {
+          "start_ref": "40003002",
+          "start_ref_usfm": "MAT 3:2",
+          "end_ref": "40003010",
+          "end_ref_usfm": "MAT 3:10"
+        },
+        {
+          "start_ref": "44017024",
+          "start_ref_usfm": "ACT 17:24",
+          "end_ref": "44017031",
+          "end_ref_usfm": "ACT 17:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

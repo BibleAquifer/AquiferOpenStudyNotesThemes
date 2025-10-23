@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 764974,
+    "reference_id": 203117,
+    "title": "Pasaka",
+    "media_type": "Text",
+    "index_reference": "pasaka",
+    "language": "swh",
+    "content": "<p>Sikukuu ya Pasaka ikawa sehemu muhimu ya desturi za kidini za Waisraeli. Sikukuu hii iliadhimisha uokoaji wa Mungu wa Waebrania kutoka Misri na ulinzi wake dhidi ya pigo la mwisho la mauti. Mungu alitaka iadhimishwe kila mwaka, kufuatia maagizo katika kitabu cha Kutoka (<a href=\"https://ref.ly/Exod12:1-Exod12:27\">Kutoka 12:1–27</a>). Pasaka ilikuwa ukumbusho kwa vizazi vijavyo wa matendo ya wokovu ya Mungu. Watu wote walishiriki katika sikukuu hiyo. Walikula mkate usiotiwa chachu pekee, kama walivyofanya walipoondoka haraka Misri.</p><p>Wakati wa Pasaka ya kwanza, walitoa dhabihu ya mwana-kondoo ili kumwokoa mzaliwa wa kwanza wa kila familia ya Mwisraeli (<a href=\"https://ref.ly/Exod12:12-Exod12:13\">Kutoka 12:12–13</a>, <a href=\"https://ref.ly/Exod12:23\">23</a>). Pasaka inaonyesha kwamba tunaweza kuepuka kifo kupitia dhabihu inayotuchukua nafasi yetu. Pasaka ilikuwa tukio muhimu katika historia ya Waisraeli. Hata hivyo, kutoka kwao Misri hakukutatua tatizo la kifo duniani, ambalo linatokana na dhambi (<a href=\"https://ref.ly/1Cor15:56\">1 Wakorintho 15:56</a>).</p><p>Miaka mingi baadaye, wakati wa sikukuu ya Pasaka, Yesu Kristo alitoa &quot;maisha yake kuwa fidia kwa wengi&quot; (<a href=\"https://ref.ly/Matt20:28\">Mathayo 20:28</a>; <a href=\"https://ref.ly/Mark10:45\">Marko 10:45</a>). Akawa &quot;Mwanakondoo wa Mungu, aondoaye dhambi za ulimwengu!&quot; (<a href=\"https://ref.ly/John1:29\">Yohana 1:29</a>). Alipokuwa akishiriki mlo wa mwisho wa Pasaka na wanafunzi wake, Yesu alieleza maana ya mfano wa divai waliyoishiriki: &quot;Hii ni damu yangu ya agano, inayomwagika kwa ajili ya wengi kwa msamaha wa dhambi&quot; (<a href=\"https://ref.ly/Matt26:28\">Mathayo 26:28</a>). Alianzisha na kuwakilisha Pasaka mpya. Yesu alishinda dhambi na kifo kabisa kupitia dhabihu yake (tazama pia <a href=\"https://ref.ly/Isa25:7-Isa25:8\">Isaya 25:7–8</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod12:1-Exod12:51\">Kutoka 12:1–51</a>; <a href=\"https://ref.ly/Lev23:4-Lev23:8\">Walawi 23:4–8</a>; <a href=\"https://ref.ly/Num9:1-Num9:14\">Hesabu 9:1–14</a>; <a href=\"https://ref.ly/Num28:16-Num28:25\">Hesabu 28:16–25</a>; <a href=\"https://ref.ly/Deut16:1-Deut16:7\">Kumbukumbu la Torati 16:1–7</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:30\">Mathayo 26:17–30</a>; <a href=\"https://ref.ly/Luke22:15-Luke22:20\">Luka 22:15–20</a>; <a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1 Wakorintho 5:6–8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012023",
+          "start_ref_usfm": "EXO 12:23",
+          "end_ref": "02012023",
+          "end_ref_usfm": "EXO 12:23"
+        },
+        {
+          "start_ref": "40020028",
+          "start_ref_usfm": "MAT 20:28",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "40026028",
+          "start_ref_usfm": "MAT 26:28",
+          "end_ref": "40026028",
+          "end_ref_usfm": "MAT 26:28"
+        },
+        {
+          "start_ref": "41010045",
+          "start_ref_usfm": "MRK 10:45",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        },
+        {
+          "start_ref": "43001029",
+          "start_ref_usfm": "JHN 1:29",
+          "end_ref": "43001029",
+          "end_ref_usfm": "JHN 1:29"
+        },
+        {
+          "start_ref": "46015056",
+          "start_ref_usfm": "1CO 15:56",
+          "end_ref": "46015056",
+          "end_ref_usfm": "1CO 15:56"
+        },
+        {
+          "start_ref": "42022015",
+          "start_ref_usfm": "LUK 22:15",
+          "end_ref": "42022020",
+          "end_ref_usfm": "LUK 22:20"
+        },
+        {
+          "start_ref": "46005006",
+          "start_ref_usfm": "1CO 5:6",
+          "end_ref": "46005008",
+          "end_ref_usfm": "1CO 5:8"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012051",
+          "end_ref_usfm": "EXO 12:51"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026030",
+          "end_ref_usfm": "MAT 26:30"
+        },
+        {
+          "start_ref": "04028016",
+          "start_ref_usfm": "NUM 28:16",
+          "end_ref": "04028025",
+          "end_ref_usfm": "NUM 28:25"
+        },
+        {
+          "start_ref": "04009001",
+          "start_ref_usfm": "NUM 9:1",
+          "end_ref": "04009014",
+          "end_ref_usfm": "NUM 9:14"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012027",
+          "end_ref_usfm": "EXO 12:27"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012013",
+          "end_ref_usfm": "EXO 12:13"
+        },
+        {
+          "start_ref": "23025007",
+          "start_ref_usfm": "ISA 25:7",
+          "end_ref": "23025008",
+          "end_ref_usfm": "ISA 25:8"
+        },
+        {
+          "start_ref": "03023004",
+          "start_ref_usfm": "LEV 23:4",
+          "end_ref": "03023008",
+          "end_ref_usfm": "LEV 23:8"
+        },
+        {
+          "start_ref": "05016001",
+          "start_ref_usfm": "DEU 16:1",
+          "end_ref": "05016007",
+          "end_ref_usfm": "DEU 16:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

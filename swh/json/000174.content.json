@@ -1,0 +1,172 @@
+[
+  {
+    "content_id": 765160,
+    "reference_id": 203303,
+    "title": "Nabii Aliyeteseka",
+    "media_type": "Text",
+    "index_reference": "nabii aliyeteseka",
+    "language": "swh",
+    "content": "<p>Kwenye Injili, Yesu ana majina mengi, kama vile Masihi (au Kristo), Mwana wa Daudi, Mwana wa Mtu, Mwana wa Mungu, na Bwana. Katika Luka, jina muhimu ni &quot;nabii.&quot; Yesu ni nabii ambaye Mose alitabiri katika <a href=\"https://ref.ly/Deut18:15\">Kumbukumbu la Torati 18:15</a>.</p><p>Kama nabii, Yesu alihubiri neno la Mungu na kufanya miujiza kama manabii wakuu wa Agano la Kale. Wakati Yesu alipomfufua mwana wa mjane, watu walipiga kelele, “Nabii mkuu ametokea kati yetu!” (<a href=\"https://ref.ly/Luke7:16\">Luka 7:16</a>). Wanafunzi walimwambia Yesu kwamba watu walikuwa wakimwita nabii (<a href=\"https://ref.ly/Matt16:13-Matt16:14\">Mathayo 16:13–14</a>). Wanafunzi waliokuwa njiani kuelekea Emau walimuelezea kama “nabii, mwenye nguvu katika maneno na matendo mbele ya Mungu na watu wote” (<a href=\"https://ref.ly/Luke24:19\">Luka 24:19</a>).</p><p>Kama manabii wengine, Yesu aliteseka kwa ajili ya ujumbe wake (tazama <a href=\"https://ref.ly/1Kgs19:1-1Kgs19:18\">1 Wafalme 19:1–18</a>; <a href=\"https://ref.ly/Jer11:18-Jer11:19\">Yeremia 11:18–19</a>; <a href=\"https://ref.ly/Jer18:18\">18:18</a>; <a href=\"https://ref.ly/Jer20:1-Jer20:2\">20:1–2</a>, <a href=\"https://ref.ly/Jer20:7-Jer20:18\">7–18</a>; <a href=\"https://ref.ly/Jer26:7-Jer26:11\">26:7–11</a>, <a href=\"https://ref.ly/Jer26:20-Jer26:23\">20–23</a>; <a href=\"https://ref.ly/Jer38:1-Jer38:6\">38:1–6</a>). Watu waliunganisha jukumu la Yesu kama nabii na miujiza yake na mafundisho. Hata hivyo, Yesu alihusisha zaidi na mateso yake. Katika Nazareti, alisema kwamba “hakuna nabii anayekubalika katika mji wake mwenyewe” (<a href=\"https://ref.ly/Luke4:24\">Luka 4:24</a>). Baadaye aliwalaumu viongozi wa Israeli kwa kuwaua manabii wao (<a href=\"https://ref.ly/Luke11:47-Luke11:51\">11:47–51</a>). Alipokuwa akisafiri kwenda Yerusalemu, alisema, “si ruhusa kwa nabii kuangamia nje ya Yerusalemu” (<a href=\"https://ref.ly/Luke13:33\">13:33</a>).</p><p>Kwenye Agano la Kale, wakati Waisraeli walipowapuuza manabii wa Mungu, hukumu ya kiungu iliwajia. Vivyo hivyo, watu wa Mungu wangekumbana na hukumu ikiwa hawangemsikiliza Yesu (tazama <a href=\"https://ref.ly/Acts3:22-Acts3:23\">Matendo 3:22–23</a>).</p><p>Ufunuo kwamba Yesu ni Masihi (mteule wa Mungu) unaonyesha kuwa yeye ni mwokozi wa watu wote. Jukumu lake kama nabii linaonyesha kuwa ujumbe wake unatoka kwa Mungu. Maneno yake ni kweli maneno ya Mungu, ambayo watu wanapaswa kusikiliza na kufuata.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Deut18:15\">Kumbukumbu la Torati 18:15</a>; <a href=\"https://ref.ly/Matt5:12\">Mathayo 5:12</a>; <a href=\"https://ref.ly/Matt23:34-Matt23:37\">23:34–37</a>; <a href=\"https://ref.ly/Luke4:22-Luke4:24\">Luka 4:22–24</a>; <a href=\"https://ref.ly/Luke6:23\">6:23</a>, <a href=\"https://ref.ly/Luke6:26\">26</a>; <a href=\"https://ref.ly/Luke7:16\">7:16</a>; <a href=\"https://ref.ly/Luke11:47-Luke11:52\">11:47–52</a>; <a href=\"https://ref.ly/Luke13:33-Luke13:34\">13:33–34</a>; <a href=\"https://ref.ly/Luke24:17-Luke24:21\">24:17–21</a>; <a href=\"https://ref.ly/Acts3:22-Acts3:23\">Matendo 3:22–23</a>; <a href=\"https://ref.ly/Acts7:37\">7:37</a>, <a href=\"https://ref.ly/Acts7:52\">52</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05018015",
+          "start_ref_usfm": "DEU 18:15",
+          "end_ref": "05018015",
+          "end_ref_usfm": "DEU 18:15"
+        },
+        {
+          "start_ref": "24018018",
+          "start_ref_usfm": "JER 18:18",
+          "end_ref": "24018018",
+          "end_ref_usfm": "JER 18:18"
+        },
+        {
+          "start_ref": "40005012",
+          "start_ref_usfm": "MAT 5:12",
+          "end_ref": "40005012",
+          "end_ref_usfm": "MAT 5:12"
+        },
+        {
+          "start_ref": "42004024",
+          "start_ref_usfm": "LUK 4:24",
+          "end_ref": "42004024",
+          "end_ref_usfm": "LUK 4:24"
+        },
+        {
+          "start_ref": "42006023",
+          "start_ref_usfm": "LUK 6:23",
+          "end_ref": "42006023",
+          "end_ref_usfm": "LUK 6:23"
+        },
+        {
+          "start_ref": "42006026",
+          "start_ref_usfm": "LUK 6:26",
+          "end_ref": "42006026",
+          "end_ref_usfm": "LUK 6:26"
+        },
+        {
+          "start_ref": "42007016",
+          "start_ref_usfm": "LUK 7:16",
+          "end_ref": "42007016",
+          "end_ref_usfm": "LUK 7:16"
+        },
+        {
+          "start_ref": "42013033",
+          "start_ref_usfm": "LUK 13:33",
+          "end_ref": "42013033",
+          "end_ref_usfm": "LUK 13:33"
+        },
+        {
+          "start_ref": "42024019",
+          "start_ref_usfm": "LUK 24:19",
+          "end_ref": "42024019",
+          "end_ref_usfm": "LUK 24:19"
+        },
+        {
+          "start_ref": "44007037",
+          "start_ref_usfm": "ACT 7:37",
+          "end_ref": "44007037",
+          "end_ref_usfm": "ACT 7:37"
+        },
+        {
+          "start_ref": "44007052",
+          "start_ref_usfm": "ACT 7:52",
+          "end_ref": "44007052",
+          "end_ref_usfm": "ACT 7:52"
+        },
+        {
+          "start_ref": "24038001",
+          "start_ref_usfm": "JER 38:1",
+          "end_ref": "24038006",
+          "end_ref_usfm": "JER 38:6"
+        },
+        {
+          "start_ref": "24020007",
+          "start_ref_usfm": "JER 20:7",
+          "end_ref": "24020018",
+          "end_ref_usfm": "JER 20:18"
+        },
+        {
+          "start_ref": "24026020",
+          "start_ref_usfm": "JER 26:20",
+          "end_ref": "24026023",
+          "end_ref_usfm": "JER 26:23"
+        },
+        {
+          "start_ref": "24011018",
+          "start_ref_usfm": "JER 11:18",
+          "end_ref": "24011019",
+          "end_ref_usfm": "JER 11:19"
+        },
+        {
+          "start_ref": "24020001",
+          "start_ref_usfm": "JER 20:1",
+          "end_ref": "24020002",
+          "end_ref_usfm": "JER 20:2"
+        },
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016014",
+          "end_ref_usfm": "MAT 16:14"
+        },
+        {
+          "start_ref": "11019001",
+          "start_ref_usfm": "1KI 19:1",
+          "end_ref": "11019018",
+          "end_ref_usfm": "1KI 19:18"
+        },
+        {
+          "start_ref": "24026007",
+          "start_ref_usfm": "JER 26:7",
+          "end_ref": "24026011",
+          "end_ref_usfm": "JER 26:11"
+        },
+        {
+          "start_ref": "42011047",
+          "start_ref_usfm": "LUK 11:47",
+          "end_ref": "42011051",
+          "end_ref_usfm": "LUK 11:51"
+        },
+        {
+          "start_ref": "44003022",
+          "start_ref_usfm": "ACT 3:22",
+          "end_ref": "44003023",
+          "end_ref_usfm": "ACT 3:23"
+        },
+        {
+          "start_ref": "40023034",
+          "start_ref_usfm": "MAT 23:34",
+          "end_ref": "40023037",
+          "end_ref_usfm": "MAT 23:37"
+        },
+        {
+          "start_ref": "42004022",
+          "start_ref_usfm": "LUK 4:22",
+          "end_ref": "42004024",
+          "end_ref_usfm": "LUK 4:24"
+        },
+        {
+          "start_ref": "42011047",
+          "start_ref_usfm": "LUK 11:47",
+          "end_ref": "42011052",
+          "end_ref_usfm": "LUK 11:52"
+        },
+        {
+          "start_ref": "42013033",
+          "start_ref_usfm": "LUK 13:33",
+          "end_ref": "42013034",
+          "end_ref_usfm": "LUK 13:34"
+        },
+        {
+          "start_ref": "42024017",
+          "start_ref_usfm": "LUK 24:17",
+          "end_ref": "42024021",
+          "end_ref_usfm": "LUK 24:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 765138,
+    "reference_id": 203281,
+    "title": "Mababu wa ukoo wa  Yesu",
+    "media_type": "Text",
+    "index_reference": "mababu wa ukoo wa  yesu",
+    "language": "swh",
+    "content": "<p>Injili ya Mathayo na injili ya Luka zinajumuisha orodha ya mababu wa Yesu (<a href=\"https://ref.ly/Matt1:1-Matt1:17\">Mathayo 1:1–17</a>; <a href=\"https://ref.ly/Luke3:23-Luke3:38\">Luka 3:23–38</a>). Orodha hizi zinaitwa &quot;vizazi.&quot; Vizazi hivi viwili ni tofauti baada ya kumtaja Mfalme Daudi. Orodha ya Mathayo inaonyesha historia ya familia ya Yesu kupitia mwana wa Daudi, Mfalme Solomoni, wakati orodha ya Luka inaonyesha historia ya familia ya Yesu kupitia mwana wa Daudi, Nathani. Kwa nini kuna orodha mbili tofauti? Ufafanuzi mmoja unaowezekana ni kwamba Mathayo anarekodi historia ya familia ya Yosefu, wakati Luka anarekodi ya Maria. Katika kesi hii, Yosefu angekuwa mkwe wa Heli.</p><p>Kwenye utamaduni wa kale wa Kiyahudi, watu walihifadhi kumbukumbu za historia za familia zao kwa umakini mkubwa. Josephus, mwanahistoria wa Kiyahudi aliyeishi katika karne ya kwanza Baada ya Krsito (BK), anathibitisha hili katika maandiko yake. Nasaba zilikuwa muhimu katika Agano la Kale na Uyahudi kwa sababu haki za ardhi zilikuwa za familia nchini Israeli. Majukumu fulani, kama vile kuhani na mfalme, yalipitishwa kutoka kwa baba kwenda kwa mwana.</p><p>Nasaba mara nyingi zilionyesha uhusiano kutoka zamani hadi sasa. Zilisitiza mada za kidini, ukoo wa familia, uhusiano wa kisiasa, na ratiba rahisi (<a href=\"https://ref.ly/1Chr1:1-1Chr9:44\">1 Mambo ya Nyakati 1–9</a>). Nasaba nyingi ziliorodhesha watu muhimu katika historia ya Israeli. Hazikuwa rekodi kamili ya kila mwanafamilia.</p><p>Mathayo na Luka kila mmoja alikuwa na sababu tofauti za kuorodhesha mababu wa Yesu. Mathayo alitaka kuonyesha kwamba Yesu alitokana na Abrahamu kupitia Daudi. Nasaba ya Mathayo inathibitisha Yesu kama mrithi halali wa kiti cha enzi cha Daudi. Kwa hiyo, Mathayo anaonyesha mababu wa Yesu hadi kwa Abrahamu, baba wa watu wa Kiyahudi. Kwa upande mwingine, Nasaba ya Luka inaorodhesha mababu wa Yesu hadi kwa binadamu wa kwanza, Adamu. Hii inalingana na mtazamo wa Luka juu ya Yesu kama Mwokozi kwa watu wote kila mahali.</p><p>Kwenye nasaba ya Mathayo, ni muhimu kuzingatia kwamba anawataja wanawake. Wanawake hawa ni pamoja na Tamari, Rahabu, Ruthu, na Bathsheba. Baadhi yao walikuwa na sifa mbaya na wengine hawakuwa Wayahudi (watu wa mataifa). Hii inasisitiza neema ya Mungu katika kuwakomboa wale ambao wengine wanawaona kuwa hawastahili.</p><p>Nasaba za Yesu hazithibitishi kwamba yeye ni Masihi (mteule wa Mungu), lakini zinamfanya kuwa mgombea anayefaa. Utambulisho wake kama Masihi unafahamika kwa njia nyingine (<a href=\"https://ref.ly/Matt11:2-Matt11:6\">Mathayo 11:2–6</a>). Mungu aliongoza historia hadi kilele chake. Yesu ndiye Masihi aliyetarajiwa wa Agano la Kale. Yeye ni mwokozi wa watu wake, na mfalme aliyeshuka kutoka kwa Daudi anayechukua kiti chake cha enzi (tazama <a href=\"https://ref.ly/2Sam7:16\">2 Samweli 7:16</a>). Yesu ni mrithi wa Abrahamu na hatimaye anatimiza ahadi za Mungu kwa Abrahamu (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Mwanzo 12:1–3</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen12:1-Gen12:3\">Mwanzo 12:1–3</a>; <a href=\"https://ref.ly/2Sam7:16\">2 Samweli 7:16</a>; <a href=\"https://ref.ly/Matt1:1-Matt1:17\">Mathayo 1:1–17</a>; <a href=\"https://ref.ly/Luke3:23-Luke3:38\">Luka 3:23–38</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10007016",
+          "start_ref_usfm": "2SA 7:16",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "42003023",
+          "start_ref_usfm": "LUK 3:23",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13009044",
+          "end_ref_usfm": "1CH 9:44"
+        },
+        {
+          "start_ref": "40011002",
+          "start_ref_usfm": "MAT 11:2",
+          "end_ref": "40011006",
+          "end_ref_usfm": "MAT 11:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

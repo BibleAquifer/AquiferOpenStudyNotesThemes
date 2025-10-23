@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 765088,
+    "reference_id": 203231,
+    "title": "Mkumbuke Yeye",
+    "media_type": "Text",
+    "index_reference": "mkumbuke yeye",
+    "language": "swh",
+    "content": "<p>Mungu aliwaokoa Waisraeli kutoka utumwani Misri na kuwafanya kuwa watu wake. Hata hivyo, Mungu alijua wangesahau (<a href=\"https://ref.ly/Deut31:16-Deut31:21\">Kumbukumbu la Torati 31:16–21</a>). Mose aliwaonya watu wanaoingia nchi ya ahadi daima wakumbuke kile Bwana alichowafanyia (<a href=\"https://ref.ly/Deut8:1-Deut8:20\">Kumbukumbu la Torati 8:1–20</a>). Hatimaye Waisraeli walisahau Bwana, jambo lililosababisha kuhamishwa kwao kutoka nchi ambayo Mungu aliwapa (tazama <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2 Wafalme 17:5–23</a>; tazama pia <a href=\"https://ref.ly/Jer2:32\">Yeremia 2:32</a>).</p><p>Mwalimu katika kitabu cha Mhubiri anasisitiza umuhimu wa kumkumbuka Bwana. Katika kitabu chote, Mwalimu anatafakari jinsi vipengele vingi vya maisha ni vya muda mfupi na havina maana au ni bure. Anahitimisha kwa kuwasihi wasomaji kumkumbuka yule ambaye ni wa milele (<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">Mhubiri 12:1–7</a>). Hakuna anayebaki kijana milele; kuzeeka na kifo ni mambo ya kawaida kwa wote.</p><p>Kwa hiyo, Mwalimu anawahimiza watu kumzingatia Mungu wakati bado ni vijana, kabla ya kuchelewa. Watu wote wanawajibika kwa Mungu kwa matendo yao (<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">Mhubiri 12:13–14</a>). Maisha yetu ya sasa yanapaswa kuongozwa na ukweli wa hukumu yake ya baadaye.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Deut8:1-Deut8:20\">Kumbukumbu la Torati 8:1–20</a>; <a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">Mhubiri 12:1–7</a>, <a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">13–14</a>; <a href=\"https://ref.ly/1Cor3:12-1Cor3:14\">1 Wakorintho 3:12–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "24002032",
+          "start_ref_usfm": "JER 2:32",
+          "end_ref": "24002032",
+          "end_ref_usfm": "JER 2:32"
+        },
+        {
+          "start_ref": "05008001",
+          "start_ref_usfm": "DEU 8:1",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "21012013",
+          "start_ref_usfm": "ECC 12:13",
+          "end_ref": "21012014",
+          "end_ref_usfm": "ECC 12:14"
+        },
+        {
+          "start_ref": "21012001",
+          "start_ref_usfm": "ECC 12:1",
+          "end_ref": "21012007",
+          "end_ref_usfm": "ECC 12:7"
+        },
+        {
+          "start_ref": "12017005",
+          "start_ref_usfm": "2KI 17:5",
+          "end_ref": "12017023",
+          "end_ref_usfm": "2KI 17:23"
+        },
+        {
+          "start_ref": "05031016",
+          "start_ref_usfm": "DEU 31:16",
+          "end_ref": "05031021",
+          "end_ref_usfm": "DEU 31:21"
+        },
+        {
+          "start_ref": "46003012",
+          "start_ref_usfm": "1CO 3:12",
+          "end_ref": "46003014",
+          "end_ref_usfm": "1CO 3:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 765218,
+    "reference_id": 203361,
+    "title": "Furaha ya Kikristo",
+    "media_type": "Text",
+    "index_reference": "furaha ya kikristo",
+    "language": "swh",
+    "content": "<p>Katika saa za mwisho za maisha yake, Yesu alitaka wanafunzi wake wajazwe na furaha yake (tazama <a href=\"https://ref.ly/John15:11\">Yohana 15:11</a>; <a href=\"https://ref.ly/John16:20-John16:24\">16:20–24</a>). Furaha ni mada ya kawaida katika barua nyingi za mtume Paulo na ni mada kuu katika Wafilipi. Paulo mara nyingi anawahimiza Wakristo kuwa na furaha, hasa wale wanaokabiliwa na mateso, kama Wakristo wa Filipi na Thesalonike (<a href=\"https://ref.ly/Phil3:1\">Wafilipi 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 Wathesalonike 5:16</a>).</p><p>Furaha ya juu ya uso inategemea kile kinachotokea karibu nawe. Furaha ya Kikristo ni tofauti. Inatokana na uhusiano wa mtu na Bwana. Inabaki kuwa imara hata wakati wa mateso na kifo. Furaha hii inatokana na kujua kwamba chochote kinachotokea, Mungu atatumia kila kitu kwa manufaa ya mwisho ya Mkristo (tazama <a href=\"https://ref.ly/Rom5:3-Rom5:4\">Warumi 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>).</p><p>Wakristo pia hupata furaha katika uwepo hai wa Roho wa Mungu mioyoni mwao (tazama <a href=\"https://ref.ly/Gal5:22\">Wagalatia 5:22</a>). Siri ya kweli ya maisha yenye furaha ni &quot;kujawa na Roho Mtakatifu&quot; (tazama <a href=\"https://ref.ly/Eph5:18\">Waefeso 5:18</a>). Uhusiano na Mungu aliye hai huunda mitazamo ya Wakristo, si hali za nje.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/John15:11\">Yohana 15:11</a>; <a href=\"https://ref.ly/John16:24\">16:24</a>; <a href=\"https://ref.ly/Rom5:3-Rom5:4\">Warumi 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>; <a href=\"https://ref.ly/Gal5:22\">Wagalatia 5:22</a>; <a href=\"https://ref.ly/Eph5:18\">Waefeso 5:18</a>; <a href=\"https://ref.ly/Phil3:1\">Wafilipi 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 Wathesalonike 5:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43015011",
+          "start_ref_usfm": "JHN 15:11",
+          "end_ref": "43015011",
+          "end_ref_usfm": "JHN 15:11"
+        },
+        {
+          "start_ref": "43016024",
+          "start_ref_usfm": "JHN 16:24",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "48005022",
+          "start_ref_usfm": "GAL 5:22",
+          "end_ref": "48005022",
+          "end_ref_usfm": "GAL 5:22"
+        },
+        {
+          "start_ref": "49005018",
+          "start_ref_usfm": "EPH 5:18",
+          "end_ref": "49005018",
+          "end_ref_usfm": "EPH 5:18"
+        },
+        {
+          "start_ref": "50003001",
+          "start_ref_usfm": "PHP 3:1",
+          "end_ref": "50003001",
+          "end_ref_usfm": "PHP 3:1"
+        },
+        {
+          "start_ref": "50004004",
+          "start_ref_usfm": "PHP 4:4",
+          "end_ref": "50004004",
+          "end_ref_usfm": "PHP 4:4"
+        },
+        {
+          "start_ref": "52005016",
+          "start_ref_usfm": "1TH 5:16",
+          "end_ref": "52005016",
+          "end_ref_usfm": "1TH 5:16"
+        },
+        {
+          "start_ref": "45005003",
+          "start_ref_usfm": "ROM 5:3",
+          "end_ref": "45005004",
+          "end_ref_usfm": "ROM 5:4"
+        },
+        {
+          "start_ref": "43016020",
+          "start_ref_usfm": "JHN 16:20",
+          "end_ref": "43016024",
+          "end_ref_usfm": "JHN 16:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

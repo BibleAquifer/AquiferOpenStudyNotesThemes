@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 764996,
+    "reference_id": 203139,
+    "title": "Upendo wa Agano la Mungu",
+    "media_type": "Text",
+    "index_reference": "upendo wa agano la mungu",
+    "language": "swh",
+    "content": "<p>Biblia inazungumzia upendo wa Mungu kwa njia mbili kuu. Kwanza, kuna ufahamu wa jumla kwamba Mungu anawajali sana watu wote na ana mapenzi makubwa kwao. Pili, katika sehemu zingine za Biblia, kama vile Kumbukumbu la Torati (ambapo Mungu anafanya makubaliano maalum na watu wake), upendo wa Mungu unamaanisha ahadi yake ya uaminifu ya kubaki na watu wake na kuwatunza.</p><p>Kwenye Mashariki ya Kale, mfalme mshindi mara nyingi alielezea uhusiano wake na watu waliotwaliwa kwa maneno ya upendo. Hii ilimaanisha aliwachagua kufurahia upendeleo na ulinzi wake kwa kubadilishana na uaminifu wao.</p><p>Vivyo hivyo, Mungu alichagua Israeli kuwa taifa lake mtumishi. Hii haikuwa kwa sababu walistahili, bali kwa sababu aliamua kuwapenda (<a href=\"https://ref.ly/Deut7:6-Deut7:11\">Kumbukumbu la Torati 7:6–11</a>). Kwa maneno mengine, aliwapenda kwa sababu aliwachagua. Mfano wenye nguvu wa hili ni katika <a href=\"https://ref.ly/Mal1:2-Mal1:3\">Malaki 1:2–3</a>. Mungu alichagua Yakobo lakini akamkataa Esau (tazama pia <a href=\"https://ref.ly/Rom9:13-Rom9:26\">Warumi 9:13–26</a>).</p><p>Mungu alipanua uhusiano maalum wa agano na Israeli ili kujumuisha Wayahudi na wasio Wayahudi (mataifa) kupitia Yesu Kristo (<a href=\"https://ref.ly/Acts10:1-Acts11:18\">Matendo 10:1–11:18</a>; <a href=\"https://ref.ly/Eph2:11-Eph2:22\">Waefeso 2:11–22</a>). Mungu alianzisha agano hili jipya kupitia onyesho kuu la upendo wake katika mateso na kifo cha Mwanawe Yesu (<a href=\"https://ref.ly/Luke22:20\">Luka 22:20</a>; <a href=\"https://ref.ly/John3:16\">Yohana 3:16</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Deut7:6-Deut7:11\">Kumbukumbu la Torati 7:6–11</a>; <a href=\"https://ref.ly/Deut33:3\">33:3</a>; <a href=\"https://ref.ly/Isa49:14-Isa49:18\">Isaya 49:14–18</a>; <a href=\"https://ref.ly/Hos11:1-Hos11:11\">Hosea 11:1–11</a>; <a href=\"https://ref.ly/Mal1:2-Mal1:3\">Malaki 1:2–3</a>; <a href=\"https://ref.ly/Matt3:16-Matt3:17\">Mathayo 3:16–17</a>; <a href=\"https://ref.ly/Luke15:1-Luke15:32\">Luka 15:1–32</a>; <a href=\"https://ref.ly/John3:16\">Yohana 3:16</a>; <a href=\"https://ref.ly/John16:25-John16:27\">16:25–27</a>; <a href=\"https://ref.ly/Rom5:6-Rom5:8\">Warumi 5:6–8</a>; <a href=\"https://ref.ly/Rom9:13-Rom9:26\">9:13–26</a>; <a href=\"https://ref.ly/Eph1:4\">Waefeso 1:4</a>; <a href=\"https://ref.ly/Eph2:4-Eph2:7\">2:4–7</a>; <a href=\"https://ref.ly/Heb12:6-Heb12:11\">Waebrania 12:6–11</a>; <a href=\"https://ref.ly/1John3:1\">1 Yohana 3:1</a>; <a href=\"https://ref.ly/1John4:8-1John4:9\">4:8–9</a>, <a href=\"https://ref.ly/1John4:16\">16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05033003",
+          "start_ref_usfm": "DEU 33:3",
+          "end_ref": "05033003",
+          "end_ref_usfm": "DEU 33:3"
+        },
+        {
+          "start_ref": "42022020",
+          "start_ref_usfm": "LUK 22:20",
+          "end_ref": "42022020",
+          "end_ref_usfm": "LUK 22:20"
+        },
+        {
+          "start_ref": "43003016",
+          "start_ref_usfm": "JHN 3:16",
+          "end_ref": "43003016",
+          "end_ref_usfm": "JHN 3:16"
+        },
+        {
+          "start_ref": "49001004",
+          "start_ref_usfm": "EPH 1:4",
+          "end_ref": "49001004",
+          "end_ref_usfm": "EPH 1:4"
+        },
+        {
+          "start_ref": "62003001",
+          "start_ref_usfm": "1JN 3:1",
+          "end_ref": "62003001",
+          "end_ref_usfm": "1JN 3:1"
+        },
+        {
+          "start_ref": "62004016",
+          "start_ref_usfm": "1JN 4:16",
+          "end_ref": "62004016",
+          "end_ref_usfm": "1JN 4:16"
+        },
+        {
+          "start_ref": "49002011",
+          "start_ref_usfm": "EPH 2:11",
+          "end_ref": "49002022",
+          "end_ref_usfm": "EPH 2:22"
+        },
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        },
+        {
+          "start_ref": "45005006",
+          "start_ref_usfm": "ROM 5:6",
+          "end_ref": "45005008",
+          "end_ref_usfm": "ROM 5:8"
+        },
+        {
+          "start_ref": "42015001",
+          "start_ref_usfm": "LUK 15:1",
+          "end_ref": "42015032",
+          "end_ref_usfm": "LUK 15:32"
+        },
+        {
+          "start_ref": "39001002",
+          "start_ref_usfm": "MAL 1:2",
+          "end_ref": "39001003",
+          "end_ref_usfm": "MAL 1:3"
+        },
+        {
+          "start_ref": "40003016",
+          "start_ref_usfm": "MAT 3:16",
+          "end_ref": "40003017",
+          "end_ref_usfm": "MAT 3:17"
+        },
+        {
+          "start_ref": "28011001",
+          "start_ref_usfm": "HOS 11:1",
+          "end_ref": "28011011",
+          "end_ref_usfm": "HOS 11:11"
+        },
+        {
+          "start_ref": "05007006",
+          "start_ref_usfm": "DEU 7:6",
+          "end_ref": "05007011",
+          "end_ref_usfm": "DEU 7:11"
+        },
+        {
+          "start_ref": "45009013",
+          "start_ref_usfm": "ROM 9:13",
+          "end_ref": "45009026",
+          "end_ref_usfm": "ROM 9:26"
+        },
+        {
+          "start_ref": "23049014",
+          "start_ref_usfm": "ISA 49:14",
+          "end_ref": "23049018",
+          "end_ref_usfm": "ISA 49:18"
+        },
+        {
+          "start_ref": "43016025",
+          "start_ref_usfm": "JHN 16:25",
+          "end_ref": "43016027",
+          "end_ref_usfm": "JHN 16:27"
+        },
+        {
+          "start_ref": "49002004",
+          "start_ref_usfm": "EPH 2:4",
+          "end_ref": "49002007",
+          "end_ref_usfm": "EPH 2:7"
+        },
+        {
+          "start_ref": "58012006",
+          "start_ref_usfm": "HEB 12:6",
+          "end_ref": "58012011",
+          "end_ref_usfm": "HEB 12:11"
+        },
+        {
+          "start_ref": "62004008",
+          "start_ref_usfm": "1JN 4:8",
+          "end_ref": "62004009",
+          "end_ref_usfm": "1JN 4:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

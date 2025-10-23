@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 764956,
+    "reference_id": 203099,
+    "title": "Agano la Mungu na Noa",
+    "media_type": "Text",
+    "index_reference": "agano la mungu na noa",
+    "language": "swh",
+    "content": "<p>Agano ni makubaliano maalum au ahadi kati ya vikundi viwili au watu binafsi. Katika Biblia, maagano mara nyingi hufanyika kati ya Mungu na wanadamu. Makubaliano haya kwa kawaida yanajumuisha ahadi, wajibu, na wakati mwingine ishara au alama za kukumbuka agano. Kutajwa kwa mara ya kwanza kwa agano katika Maandiko kunaonekana mara baada ya gharika kuu (<a href=\"https://ref.ly/Gen9:1-Gen9:17\">Mwanzo 9:1–17</a>).</p><p>Mungu aliona kwamba wanadamu walikuwa wamekuwa waovu sana na walikuwa wakifanya mambo maovu. Hii ilimhuzunisha Mungu, na Mungu alijuta kuwaumba wanadamu duniani (<a href=\"https://ref.ly/Gen6:5-Gen6:7\">Mwanzo 6:5–7</a>). Mungu aliadhibu wanadamu kwa sababu ya ufisadi na vurugu zao (<a href=\"https://ref.ly/Gen6:11-Gen6:13\">Mwanzo 6:11–13</a>). Hata hivyo, Mungu alionyesha wema kwa Noa (<a href=\"https://ref.ly/Gen6:8\">6:8</a>). Mungu alimwambia Noa ajenge safina (boti kubwa) ili kuishi katika Gharika inayokuja (<a href=\"https://ref.ly/Gen6:13-Gen6:17\">6:13–17</a>). Ingawa wanadamu hawakuwa waaminifu, Mungu aliahidi kufanya agano na Noa, familia yake, na viumbe vyote (<a href=\"https://ref.ly/Gen6:1-Gen6:7\">6:1–7</a>; <a href=\"https://ref.ly/Gen9:8-Gen9:13\">9:8–13</a>).</p><p>Mungu alidumisha uhusiano na familia ya Noa, hata wakati uhusiano mwingine kati ya Mungu na wanadamu ulipovunjika (<a href=\"https://ref.ly/Gen6:18\">Mwanzo 6:18</a>). Ahadi ya Mungu kwa Noa ilihusisha amri ya kujenga safina (<a href=\"https://ref.ly/Gen6:14\">6:14</a>). Ili Noa apate baraka kutoka kwa agano hilo, ilimbidi kutii amri hii (<a href=\"https://ref.ly/Gen6:22\">6:22</a>; <a href=\"https://ref.ly/Gen7:5\">7:5</a>).</p><p>Baada ya Gharika kuu, Noa alitoa sadaka kwa Mungu (<a href=\"https://ref.ly/Gen8:20-Gen8:22\">Mwanzo 8:20–22</a>). Mungu kisha alieleza agano lake na Noa. Agano hili lilikuwa la ulimwengu mzima, likiwajumuisha wanadamu na viumbe vyote hai (<a href=\"https://ref.ly/Gen9:8-Gen9:10\">9:8–10</a>). Mungu aliahidi kamwe kutotuma Gharika nyingine kama hukumu kwa dunia (<a href=\"https://ref.ly/Gen9:15\">9:15</a>).</p><p>Agano hili linatusaidia kuelewa maana ya maagano ya Mungu. Ingawa watu wanastahili adhabu kwa uovu wao, Mungu anazuia maangamizi kamili. Agano la Mungu na Noa halikuanzisha uhusiano wa karibu kati ya Mungu na kila kiumbe hai. Badala yake, lilirekebisha maisha ya kimaadili na ya kidunia kama Mungu alivyokusudia (<a href=\"https://ref.ly/Gen9:1-Gen9:7\">Mwanzo 9:1–7</a>). Hii iliruhusu agano la karibu zaidi siku zijazo (<a href=\"https://ref.ly/Gen17:1-Gen17:21\">17:1–21</a>). Ingawa wanakosea, watu wanaweza kuishi katika dunia ya Mungu na kutafuta uhusiano wa kina zaidi na Muumba wakati wa maisha yao. Maagano ya baadaye ya Mungu yalifanya uhusiano wa karibu na yeye kupatikana kwa kila mtu (<a href=\"https://ref.ly/Acts2:22-Acts2:40\">Matendo 2:22–40</a>; <a href=\"https://ref.ly/Acts3:17-Acts3:26\">3:17–26</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen9:1-Gen9:17\">Mwanzo 9:1–17</a>; <a href=\"https://ref.ly/Ezek14:12-Ezek14:23\">Ezekieli 14:12–23</a>; <a href=\"https://ref.ly/Matt24:37-Matt24:39\">Mathayo 24:37–39</a>; <a href=\"https://ref.ly/Heb11:7\">Waebrania 11:7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006008",
+          "start_ref_usfm": "GEN 6:8",
+          "end_ref": "01006008",
+          "end_ref_usfm": "GEN 6:8"
+        },
+        {
+          "start_ref": "01006014",
+          "start_ref_usfm": "GEN 6:14",
+          "end_ref": "01006014",
+          "end_ref_usfm": "GEN 6:14"
+        },
+        {
+          "start_ref": "01006018",
+          "start_ref_usfm": "GEN 6:18",
+          "end_ref": "01006018",
+          "end_ref_usfm": "GEN 6:18"
+        },
+        {
+          "start_ref": "01006022",
+          "start_ref_usfm": "GEN 6:22",
+          "end_ref": "01006022",
+          "end_ref_usfm": "GEN 6:22"
+        },
+        {
+          "start_ref": "01007005",
+          "start_ref_usfm": "GEN 7:5",
+          "end_ref": "01007005",
+          "end_ref_usfm": "GEN 7:5"
+        },
+        {
+          "start_ref": "58011007",
+          "start_ref_usfm": "HEB 11:7",
+          "end_ref": "58011007",
+          "end_ref_usfm": "HEB 11:7"
+        },
+        {
+          "start_ref": "01008020",
+          "start_ref_usfm": "GEN 8:20",
+          "end_ref": "01008022",
+          "end_ref_usfm": "GEN 8:22"
+        },
+        {
+          "start_ref": "01009008",
+          "start_ref_usfm": "GEN 9:8",
+          "end_ref": "01009010",
+          "end_ref_usfm": "GEN 9:10"
+        },
+        {
+          "start_ref": "40024037",
+          "start_ref_usfm": "MAT 24:37",
+          "end_ref": "40024039",
+          "end_ref_usfm": "MAT 24:39"
+        },
+        {
+          "start_ref": "01006011",
+          "start_ref_usfm": "GEN 6:11",
+          "end_ref": "01006013",
+          "end_ref_usfm": "GEN 6:13"
+        },
+        {
+          "start_ref": "01009001",
+          "start_ref_usfm": "GEN 9:1",
+          "end_ref": "01009007",
+          "end_ref_usfm": "GEN 9:7"
+        },
+        {
+          "start_ref": "01009001",
+          "start_ref_usfm": "GEN 9:1",
+          "end_ref": "01009017",
+          "end_ref_usfm": "GEN 9:17"
+        },
+        {
+          "start_ref": "01006013",
+          "start_ref_usfm": "GEN 6:13",
+          "end_ref": "01006017",
+          "end_ref_usfm": "GEN 6:17"
+        },
+        {
+          "start_ref": "01006001",
+          "start_ref_usfm": "GEN 6:1",
+          "end_ref": "01006007",
+          "end_ref_usfm": "GEN 6:7"
+        },
+        {
+          "start_ref": "01017001",
+          "start_ref_usfm": "GEN 17:1",
+          "end_ref": "01017021",
+          "end_ref_usfm": "GEN 17:21"
+        },
+        {
+          "start_ref": "44002022",
+          "start_ref_usfm": "ACT 2:22",
+          "end_ref": "44002040",
+          "end_ref_usfm": "ACT 2:40"
+        },
+        {
+          "start_ref": "44003017",
+          "start_ref_usfm": "ACT 3:17",
+          "end_ref": "44003026",
+          "end_ref_usfm": "ACT 3:26"
+        },
+        {
+          "start_ref": "26014012",
+          "start_ref_usfm": "EZK 14:12",
+          "end_ref": "26014023",
+          "end_ref_usfm": "EZK 14:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

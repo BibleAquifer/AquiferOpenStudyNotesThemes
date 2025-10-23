@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 765225,
+    "reference_id": 203368,
+    "title": "Kaya",
+    "media_type": "Text",
+    "index_reference": "kaya",
+    "language": "swh",
+    "content": "<p>Kaya ilikuwa kitengo cha msingi cha familia katika jamii za Kigiriki na Kirumi. Watu waliamini kwamba ikiwa kaya zingekuwa imara, basi serikali pia ingekuwa imara. Katika kaya hizi, kila mtu alikuwa na majukumu na wajibu wazi ambao ulikuwa umejikita sana katika utamaduni wao. Lengo kuu lilikuwa kudumisha mpangilio wa &quot;asili&quot; wa mamlaka na utii. Kuvunja mpangilio huu kungeleta aibu na ufisadi.</p><p>Kwenye mfumo huu, baba alikuwa na jukumu la kusimamia kila mtu. Wanaume walidhibiti maeneo ya umma na serikali, wakati wanawake walikuwa wakisimamia nyumba. Wazungumzaji wa Kigiriki na Kirumi mara nyingi waliishutumu dini mpya za kigeni, kama Ukristo, kwa kuharibu jamii kwa kutishia muundo wa kaya.</p><p>Kanuni za kaya za Agano Jipya hazikuwa mawazo mapya (tazama <a href=\"https://ref.ly/Eph5:21-Eph6:9\">Waefeso 5:21–6:9</a>; <a href=\"https://ref.ly/Col3:18-Col4:1\">Wakolosai 3:18–4:1</a>; <a href=\"https://ref.ly/1Tim2:8-1Tim2:15\">1 Timotheo 2:8–15</a>; <a href=\"https://ref.ly/1Tim5:1-1Tim5:2\">5:1–2</a>; <a href=\"https://ref.ly/1Tim6:1-1Tim6:2\">6:1–2</a>; <a href=\"https://ref.ly/Titus2:1-Titus3:8\">Tito 2:1–3:8</a>; <a href=\"https://ref.ly/1Pet2:18-1Pet3:7\">1 Petro 2:18–3:7</a>). Mitume walizibadilisha ili zilingane na imani ya Kikristo na kushughulikia mahitaji maalum. Imani ya Kikristo mara nyingi ilileta mabadiliko makubwa kwa desturi za kawaida za utamaduni. Hata hivyo, hekima na umakini vilikuwa muhimu. Kupuuza desturi za kawaida za utamaduni kunaweza kusababisha matatizo makubwa. Hii inaweza kuleta aibu, fedheha, na kuaibisha kaya nzima—ikiwa ni pamoja na Yesu, mkuu wa kaya ya Kikristo.</p><p>Hii ilikuwa athari ya baadhi ya walimu wa uongo huko Efeso, kama ilivyojadiliwa katika barua ya kwanza kwa Timotheo katika Agano Jipya. Katika muktadha huu, kanuni za kaya za Agano Jipya ziliwasaidia jamii za Kikristo kuishi kwa njia ambayo:</p><ol><li><p>ilisitisha madai kwamba Ukristo ulikuwa tishio kwa serikali; na</p></li><li><p>ilitumikia kama shahidi mwenye nguvu na mvuto kwa ajili ya ukweli.</p></li></ol><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Eph5:21-Eph6:9\">Waefeso 5:21–6:9</a>; <a href=\"https://ref.ly/Col3:18-Col4:1\">Wakolosai 3:18–4:1</a>; <a href=\"https://ref.ly/1Tim2:8-1Tim2:15\">1 Timotheo 2:8–15</a>; <a href=\"https://ref.ly/1Tim3:5\">3:5</a>, <a href=\"https://ref.ly/1Tim3:12\">12</a>, <a href=\"https://ref.ly/1Tim3:15\">15</a>; <a href=\"https://ref.ly/1Tim5:1-1Tim5:2\">5:1–2</a>, <a href=\"https://ref.ly/1Tim5:8\">8</a>; <a href=\"https://ref.ly/1Tim6:1-1Tim6:2\">6:1–2</a>; <a href=\"https://ref.ly/Titus2:1-Titus3:8\">Tito 2:1–3:8</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet3:7\">1 Petro 2:13–3:7</a>; <a href=\"https://ref.ly/1Pet4:17\">4:17</a>; <a href=\"https://ref.ly/1Pet5:1-1Pet5:5\">5:1–5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "54003005",
+          "start_ref_usfm": "1TI 3:5",
+          "end_ref": "54003005",
+          "end_ref_usfm": "1TI 3:5"
+        },
+        {
+          "start_ref": "54003012",
+          "start_ref_usfm": "1TI 3:12",
+          "end_ref": "54003012",
+          "end_ref_usfm": "1TI 3:12"
+        },
+        {
+          "start_ref": "54003015",
+          "start_ref_usfm": "1TI 3:15",
+          "end_ref": "54003015",
+          "end_ref_usfm": "1TI 3:15"
+        },
+        {
+          "start_ref": "54005008",
+          "start_ref_usfm": "1TI 5:8",
+          "end_ref": "54005008",
+          "end_ref_usfm": "1TI 5:8"
+        },
+        {
+          "start_ref": "60004017",
+          "start_ref_usfm": "1PE 4:17",
+          "end_ref": "60004017",
+          "end_ref_usfm": "1PE 4:17"
+        },
+        {
+          "start_ref": "51003018",
+          "start_ref_usfm": "COL 3:18",
+          "end_ref": "51004001",
+          "end_ref_usfm": "COL 4:1"
+        },
+        {
+          "start_ref": "60005001",
+          "start_ref_usfm": "1PE 5:1",
+          "end_ref": "60005005",
+          "end_ref_usfm": "1PE 5:5"
+        },
+        {
+          "start_ref": "49005021",
+          "start_ref_usfm": "EPH 5:21",
+          "end_ref": "49006009",
+          "end_ref_usfm": "EPH 6:9"
+        },
+        {
+          "start_ref": "60002013",
+          "start_ref_usfm": "1PE 2:13",
+          "end_ref": "60003007",
+          "end_ref_usfm": "1PE 3:7"
+        },
+        {
+          "start_ref": "54002008",
+          "start_ref_usfm": "1TI 2:8",
+          "end_ref": "54002015",
+          "end_ref_usfm": "1TI 2:15"
+        },
+        {
+          "start_ref": "54005001",
+          "start_ref_usfm": "1TI 5:1",
+          "end_ref": "54005002",
+          "end_ref_usfm": "1TI 5:2"
+        },
+        {
+          "start_ref": "54006001",
+          "start_ref_usfm": "1TI 6:1",
+          "end_ref": "54006002",
+          "end_ref_usfm": "1TI 6:2"
+        },
+        {
+          "start_ref": "56002001",
+          "start_ref_usfm": "TIT 2:1",
+          "end_ref": "56003008",
+          "end_ref_usfm": "TIT 3:8"
+        },
+        {
+          "start_ref": "60002018",
+          "start_ref_usfm": "1PE 2:18",
+          "end_ref": "60003007",
+          "end_ref_usfm": "1PE 3:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

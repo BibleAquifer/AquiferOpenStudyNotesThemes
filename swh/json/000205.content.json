@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 765120,
+    "reference_id": 203263,
+    "title": "Sheria ya Hekalu kama Teolojia",
+    "media_type": "Text",
+    "index_reference": "sheria ya hekalu kama teolojia",
+    "language": "swh",
+    "content": "<p>Walimu wa kidini wa Uyahudi (wanaoitwa &quot;rabbis&quot;) walitumia muda mwingi kujaribu kufanya sheria za <a href=\"https://ref.ly/Ezek44:1-Ezek48:35\">Ezekieli 44–48</a> zinazokubaliana na sheria za Torati (sheria aliyopewa Mose). Walishindwa kwa sababu sura hizi hazikulenga kufanana na sheria za Mose. Hii ni sawa na jinsi maono ya jengo la hekalu hayakubuniwa kuonekana kama hema au hekalu la Solomoni (<a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">Ezekieli 40–43</a>). Sheria za hekalu zinaelezea ujumbe wa kiteolojia wa mabadiliko, sawa na maelezo ya awali ya usanifu wa hekalu.</p><p>Kanuni hizi zilisistiza umuhimu wa kutenganisha hekalu na ikulu. Sherehe za dhabihu zingekuwa nyingi zaidi na zingeweka mkazo kwenye utakaso. Watu watakatifu wangefanya tena matoleo kwa Mungu mtakatifu. Mazoea haya yalilenga kutenganisha takatifu na najisi na kutakasa watu wa Mungu. Uchafuzi wa hekalu na ibada ya sanamu ulikuwa umesababisha Bwana kuondoka (<a href=\"https://ref.ly/Ezek8:1-Ezek11:25\">Ezekieli 8–11</a>).</p><p>Kwa hivyo, walihitaji hali mpya ili Mungu aishi kati ya watu wake tena. Sheria hizi zililenga kuwafanya wasikilizaji wa nabii watambue makosa yao ya zamani ambayo yalichanganya kilicho kitakatifu na kisicho kitakatifu. Pia ziliwahimiza kwamba Mungu angerudisha ibada yao katika hali inayofaa.</p><p>Kanuni hizi pia zimemweka mkuu, mfalme aliye kutoka kwa Mfalme Daudi, katika nafasi ya unyenyekevu mbele za Bwana. Kuwasili kwa Yesu kunatimiza kipengele hiki. Yesu alikuja kama mfalme mtumishi ambaye alifurahia kufanya kile Baba alitaka (<a href=\"https://ref.ly/Matt4:1-Matt4:11\">Mathayo 4:1–11</a>; <a href=\"https://ref.ly/Matt20:25-Matt20:28\">20:25–28</a>). Alitoa dhabihu kamilifu inayosafisha dhambi, akitakasa patakatifu pa mbinguni mara moja kwa wakati wote, na kuhakikisha kwamba Mungu anaweza kuishi miongoni mwa watu wake milele (<a href=\"https://ref.ly/Heb9:11-Heb9:12\">Waebrania 9:11–12</a>, <a href=\"https://ref.ly/Heb9:23\">23</a>). Damu yake inatusafisha kutoka kwa dhambi zote. Inawaruhusu wenye dhambi kuingia kwa ujasiri Mahali Patakatifu Sana pa mbinguni bila hofu ya kukataliwa au kuadhibiwa.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Isa56:7\">Isaya 56:7</a>; <a href=\"https://ref.ly/Ezek8:1-Ezek11:25\">Ezekieli 8:1–11:25</a>; <a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">40:1–43:27</a>; <a href=\"https://ref.ly/Ezek44:1-Ezek46:18\">44:1–46:18</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23056007",
+          "start_ref_usfm": "ISA 56:7",
+          "end_ref": "23056007",
+          "end_ref_usfm": "ISA 56:7"
+        },
+        {
+          "start_ref": "58009023",
+          "start_ref_usfm": "HEB 9:23",
+          "end_ref": "58009023",
+          "end_ref_usfm": "HEB 9:23"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "26008001",
+          "start_ref_usfm": "EZK 8:1",
+          "end_ref": "26011025",
+          "end_ref_usfm": "EZK 11:25"
+        },
+        {
+          "start_ref": "40020025",
+          "start_ref_usfm": "MAT 20:25",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26043027",
+          "end_ref_usfm": "EZK 43:27"
+        },
+        {
+          "start_ref": "26044001",
+          "start_ref_usfm": "EZK 44:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "58009011",
+          "start_ref_usfm": "HEB 9:11",
+          "end_ref": "58009012",
+          "end_ref_usfm": "HEB 9:12"
+        },
+        {
+          "start_ref": "26044001",
+          "start_ref_usfm": "EZK 44:1",
+          "end_ref": "26046018",
+          "end_ref_usfm": "EZK 46:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

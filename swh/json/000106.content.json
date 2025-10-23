@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 764969,
+    "reference_id": 203112,
+    "title": "Kutoka kama Historia",
+    "media_type": "Text",
+    "index_reference": "kutoka kama historia",
+    "language": "swh",
+    "content": "<p>Mtazamo wa Waisraeli kuhusu uhalisia ulikuwa tofauti sana na tamaduni nyingine za kale. Tamaduni nyingine kuu zilizoizunguka Israeli, kutoka Sumer katika Mesopotamia ya kusini mnamo 2000 Kabla ya Kristo (KK) hadi Rumi mnamo mwaka wa 200 Baada ya Kristo (BK), ziliendeleza mitazamo yao kwa kuangalia uumbaji. Waliamini katika miungu mingi na walidhani matukio yalitokea katika mizunguko isiyo na mwisho. Kinyume chake, Waisraeli wa kale waliamini katika Mungu mmoja, aliyejitenga na dunia. Mungu aliyeumba dunia kwa kusudi maalum na anaongoza matukio ili kutimiza kusudi hilo.</p><p>Waisraeli walipataje mtazamo huu wa kipekee? Je, ilikuwa kupitia mikutano na Mungu wa kweli katika matukio ya kihistoria? Ufafanuzi wa busara zaidi kwa ufahamu wa kipekee wa Israeli ni kwamba, kama Biblia inavyoeleza, Mungu alijifunua kwao kupitia matukio yaliyorekodiwa kama historia.</p><p>Maandishi ya Wamisri hayataji matukio yaliyofafanuliwa katika Biblia, jambo linalowafanya baadhi ya watu kuwa na shaka. Hata hivyo, haikuwa kawaida kwa taifa lenye nguvu kurekodi kushindwa kwao na watumwa. Maelezo ya kihistoria ya Biblia, ikiwa ni pamoja na hadithi za kushindwa kwa Waisraeli wenyewe, ni za kipekee katika Mashariki ya Karibu ya kale.</p><p>Akiolojia haiwezi kuthibitisha matukio maalum yalivyotokea. Hata hivyo, inaweza kuonyesha kwamba hali ziliruhusu yatokee. Hii ni kweli kwa kitabu cha Kutoka na Biblia kwa ujumla. Rekodi za Wamisri na akiolojia hazithibitishi wala kupinga simulizi la Biblia. Hata hivyo, maandiko ya Kutoka yanaonyesha uelewa wa kina wa mawazo na utamaduni wa Wamisri, sawa na rekodi za kihistoria.</p><p>Waandishi wa Biblia waliamini walikuwa wakielezea matukio halisi na walitarajia wasomaji wayachukulie kwa njia hiyo. <a href=\"https://ref.ly/Exod18:8-Exod18:12\">Kutoka 18:8–12</a> inaonyesha mfano wa kwanza wa mtu aliyemwamini Mungu kwa sababu ya hadithi ya kweli.</p><p>Imani katika Mungu na Biblia ina msingi thabiti wa kihistoria. Mungu ametenda katika historia ili kuwaokoa wanadamu. Matendo yake yanajumuisha kutoroka kwa Waisraeli kutoka Misri. Matendo haya yanapata kilele chake katika maisha, kifo, na ufufuo wa Yesu Kristo.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod14:15-Exod15:21\">Kutoka 14:15–15:21</a>; <a href=\"https://ref.ly/Exod18:8-Exod18:12\">18:8–12</a>; <a href=\"https://ref.ly/Judg11:12-Judg11:27\">Waamuzi 11:12–27</a>; <a href=\"https://ref.ly/Acts7:1-Acts7:56\">Matendo 7:1–56</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07011012",
+          "start_ref_usfm": "JDG 11:12",
+          "end_ref": "07011027",
+          "end_ref_usfm": "JDG 11:27"
+        },
+        {
+          "start_ref": "02018008",
+          "start_ref_usfm": "EXO 18:8",
+          "end_ref": "02018012",
+          "end_ref_usfm": "EXO 18:12"
+        },
+        {
+          "start_ref": "02014015",
+          "start_ref_usfm": "EXO 14:15",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007056",
+          "end_ref_usfm": "ACT 7:56"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
