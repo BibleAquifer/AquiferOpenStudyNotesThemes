@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 765121,
+    "reference_id": 203264,
+    "title": "Jiografia ya Israeli kama Theolojia",
+    "media_type": "Text",
+    "index_reference": "jiografia ya israeli kama theolojia",
+    "language": "swh",
+    "content": "<p>Mgawanyo wa ardhi katika <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">Ezekieli 47:13–48:35</a> unachanganya mawazo ya kiroho na ujumbe wa vitendo. Unaimarisha mada kutoka sehemu za awali za maono (<a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">Ezekieli 40–46</a>). Nabii Ezekieli aliona mustakabali uliounganishwa kwa karibu na zamani. Ardhi ya Israeli ilibaki kuwa ardhi maalum ya ahadi kwa wazee wa Israeli.</p><p>Ramani katika maono haya ni tofauti na mgawanyiko wa kikabila wa awali wakati wa Yoshua. Katika maono ya Ezekieli, kila kabila linapokea sehemu sawa ya ardhi. Sehemu hizi ziko katika vipande vya mashariki hadi magharibi, zikigawanya ardhi yote huku hekalu likiwa katikati yake. Vipande hivi havilingani na jiografia halisi ya ardhi; ni vya mfano. Wazo ni kwamba uhasama na chuki za kikabila za zamani zitatoweka, kwani kila kabila litakuwa na hadhi sawa.</p><p>Ufalme (mfumo wa kutawaliwa na mfalme aliyechaguliwa na Mungu) hauondolewi katika maono haya, bali unabadilishwa. Jiji lililoharibika kutoka sura za awali za Ezekieli linakuwa jiji jipya takatifu la umoja na maelewano kwa makabila. Mto unaotoa uhai unarejesha, ukileta baraka kutoka hekalu la Mungu kwa kila sehemu ya maisha ya watu.</p><p>Maono katika <a href=\"https://ref.ly/Ezek40:1-Ezek48:35\">Ezekieli 40–48</a> yanawahimiza watu kutubu kwa dhambi za zamani, kubaki waaminifu katika nyakati ngumu, na kuwa na tumaini la siku zijazo bora kupitia nguvu na neema ya Mungu. Sura za mwisho za Ufunuo zinaonyesha maono haya yakitimia katika Yesu (<a href=\"https://ref.ly/Rev21:1-Rev22:21\">Ufunuo 21–22</a>). Yesu alianzisha uhalisia wa kiroho ambao Ezekieli alielezea. Ni mji wa mbinguni &quot;ambaye mbunifu na mjenzi wake ni Mungu&quot; (<a href=\"https://ref.ly/Heb11:10\">Waebrania 11:10</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">Ezekieli 40:1–46:24</a>; <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">47:13–48:35</a>; <a href=\"https://ref.ly/Rev22:1-Rev22:2\">Ufunuo 22:1–2</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "58011010",
+          "start_ref_usfm": "HEB 11:10",
+          "end_ref": "58011010",
+          "end_ref_usfm": "HEB 11:10"
+        },
+        {
+          "start_ref": "66021001",
+          "start_ref_usfm": "REV 21:1",
+          "end_ref": "66022021",
+          "end_ref_usfm": "REV 22:21"
+        },
+        {
+          "start_ref": "66022001",
+          "start_ref_usfm": "REV 22:1",
+          "end_ref": "66022002",
+          "end_ref_usfm": "REV 22:2"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26046024",
+          "end_ref_usfm": "EZK 46:24"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "26047013",
+          "start_ref_usfm": "EZK 47:13",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

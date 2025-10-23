@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 764970,
+    "reference_id": 203113,
+    "title": "Kusudi la agano la Sinai",
+    "media_type": "Text",
+    "index_reference": "kusudi la agano la sinai",
+    "language": "swh",
+    "content": "<p>Karibu kila kitu ambacho Waisraeli walijifunza kuhusu ukweli wa mwisho kutoka kwa Wamisri kilikuwa si sahihi. Hakuna miungu mingi; kuna Mungu mmoja tu. Muumba ni mwema kabisa, na uovu hutokana na kuasi dhidi yake. Huwezi kupata baraka za Mungu kupitia uchawi au kwa kujaribu kumshawishi Mungu. Baraka za Mungu ni bure kwa wale wanaojisalimisha kwake kwa upendo.</p><p>Wakati Waisraeli walipoondoka Misri, hawakumwelewa Mungu kikamilifu kama alivyokusudia. Kupitia mapigo na kuvuka Bahari ya Shamu, walijifunza kuhusu nguvu ya kipekee ya Mungu. Katika nyika, waligundua utunzaji wa Mungu. Hata hivyo, bado hawakujua tabia ya Mungu. Agano huko Sinai lilikuwa makubaliano maalum kati ya Mungu na Waisraeli. Agano hilo lililenga kuwafundisha Waisraeli kuhusu asili na tabia ya Mungu walipofuata Torati yake na maelekezo yake.</p><p>Agano lilitumia aina ya kisiasa inayojulikana kama <em>suzerain-vassal treaty</em>. Katika aina hii ya mkataba, mfalme mwenye nguvu (<em>suzerain</em>) alifanya mkataba na taifa alilokuwa ameliteka (watu wa <em>vassal</em>). Watu waliotekwa walitoa ahadi ya uaminifu kamili kwa mfalme na walikubali kufuata sheria zake. Kwa kurudi, mfalme aliahidi kuwajali na kuwalinda dhidi ya maadui. Katika agano la Mlima Sinai, Mungu aliwataka watu wawe waaminifu kwake kama Mungu wao pekee. Alitaka waishi kwa njia inayoonyesha upendo na asili yake kama Muumba na Mfalme wao.</p><p>Mungu alitaka Waisraeli wamtii. Hata hivyo, tangu dhambi ya kwanza ya binadamu, kumekuwa na tatizo la msingi katika roho ya binadamu (<a href=\"https://ref.ly/Gen3:1-Gen3:24\">Mwanzo 3</a>). Utii rahisi haukuwezekana kwa Waisraeli kwa sababu mapenzi yao hayakuwa mtiifu. Agano lilikuwa zuri, lakini halikuweza kuwawezesha Waisraeli kulifuata (<a href=\"https://ref.ly/Rom7:12\">Warumi 7:12</a>; <a href=\"https://ref.ly/Rom8:3\">8:3</a>). Bila Roho wa Mungu, hatuwezi kufanya tunachopaswa au kushiriki tabia ya Muumba. Lakini sasa, Yesu amekufa kama dhabihu msalabani ili kuondoa dhambi zetu. Kwa hivyo, Mungu anawapa nguvu za Roho wale wanaomwamini Kristo ili watimize kusudi la agano lake na kushiriki tabia yake takatifu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod9:1\">Kutoka 9:1</a>; <a href=\"https://ref.ly/Exod19:3-Exod19:6\">19:3–6</a>; <a href=\"https://ref.ly/Lev11:44-Lev11:45\">Mambo ya Walawi 11:44–45</a>; <a href=\"https://ref.ly/Jer31:33-Jer31:34\">Yeremia 31:33–34</a>; <a href=\"https://ref.ly/Jer32:40\">32:40</a>; <a href=\"https://ref.ly/John16:5-John16:11\">Yohana 16:5–11</a>; <a href=\"https://ref.ly/Rom8:5-Rom8:14\">Warumi 8:5–14</a>; <a href=\"https://ref.ly/Rom10:8-Rom10:17\">10:8–17</a>; <a href=\"https://ref.ly/Gal5:1-Gal5:26\">Wagalatia 5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02009001",
+          "start_ref_usfm": "EXO 9:1",
+          "end_ref": "02009001",
+          "end_ref_usfm": "EXO 9:1"
+        },
+        {
+          "start_ref": "24032040",
+          "start_ref_usfm": "JER 32:40",
+          "end_ref": "24032040",
+          "end_ref_usfm": "JER 32:40"
+        },
+        {
+          "start_ref": "45007012",
+          "start_ref_usfm": "ROM 7:12",
+          "end_ref": "45007012",
+          "end_ref_usfm": "ROM 7:12"
+        },
+        {
+          "start_ref": "45008003",
+          "start_ref_usfm": "ROM 8:3",
+          "end_ref": "45008003",
+          "end_ref_usfm": "ROM 8:3"
+        },
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "48005001",
+          "start_ref_usfm": "GAL 5:1",
+          "end_ref": "48005026",
+          "end_ref_usfm": "GAL 5:26"
+        },
+        {
+          "start_ref": "03011044",
+          "start_ref_usfm": "LEV 11:44",
+          "end_ref": "03011045",
+          "end_ref_usfm": "LEV 11:45"
+        },
+        {
+          "start_ref": "45010008",
+          "start_ref_usfm": "ROM 10:8",
+          "end_ref": "45010017",
+          "end_ref_usfm": "ROM 10:17"
+        },
+        {
+          "start_ref": "24031033",
+          "start_ref_usfm": "JER 31:33",
+          "end_ref": "24031034",
+          "end_ref_usfm": "JER 31:34"
+        },
+        {
+          "start_ref": "02019003",
+          "start_ref_usfm": "EXO 19:3",
+          "end_ref": "02019006",
+          "end_ref_usfm": "EXO 19:6"
+        },
+        {
+          "start_ref": "43016005",
+          "start_ref_usfm": "JHN 16:5",
+          "end_ref": "43016011",
+          "end_ref_usfm": "JHN 16:11"
+        },
+        {
+          "start_ref": "45008005",
+          "start_ref_usfm": "ROM 8:5",
+          "end_ref": "45008014",
+          "end_ref_usfm": "ROM 8:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

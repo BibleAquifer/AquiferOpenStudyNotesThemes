@@ -1,0 +1,169 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "StudyNotes",
+    "resource_type": "Study Notes",
+    "title": "Aquifer Open Study Notes (Themes)",
+    "aquifer_name": "Study Notes - Themes (Tyndale)",
+    "collection_title": "Study Notes - Themes (Tyndale)",
+    "short_name": "TSNT",
+    "license_info": {
+      "title": "Tyndale Open Study Notes",
+      "copyright": {
+        "dates": "2019",
+        "holder": {
+          "name": "Tyndale House Publishers",
+          "url": "https://tyndaleopenresources.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by BiblioNexus and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
+    "resource_code": "TyndaleStudyNotesThemes",
+    "date_created": "2025-10-22",
+    "language": "rus",
+    "localizations": [
+      "eng",
+      "arb",
+      "fra",
+      "hin",
+      "ind",
+      "por",
+      "swh",
+      "zht"
+    ],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-22T15:03:54.327982"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "TyndaleStudyNotesThemes": {
+            "timestamp": "2025-10-22T15:03:54.327982"
+          }
+        }
+      },
+      "name": {
+        "ru": "Tyndale Open Study Notes"
+      },
+      "abbreviation": {
+        "ru": "TSNT"
+      }
+    },
+    "languages": [
+      {
+        "tag": "ru",
+        "name": {
+          "ru": "Russian"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 9045
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5871
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Tyndale Open Study Notes © 2019 Tyndale House Publishers.</p>",
+          "mimetype": "text/html",
+          "lang": "ru"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "718836": {
+      "content_id": 718836,
+      "reference_id": 203286,
+      "index_reference": "совместные трапезы",
+      "localizations": {
+        "eng": {
+          "content_id": 500343,
+          "language": "eng",
+          "title": "Eating Together"
+        },
+        "arb": {
+          "content_id": 702350,
+          "language": "arb",
+          "title": "تناول الطعام معًا"
+        },
+        "fra": {
+          "content_id": 708445,
+          "language": "fra",
+          "title": "Les repas en commun"
+        },
+        "hin": {
+          "content_id": 709515,
+          "language": "hin",
+          "title": "सामूहिक भोज"
+        },
+        "ind": {
+          "content_id": 769553,
+          "language": "ind",
+          "title": "Makan Bersama"
+        },
+        "por": {
+          "content_id": 800455,
+          "language": "por",
+          "title": "Comendo juntos"
+        },
+        "swh": {
+          "content_id": 765143,
+          "language": "swh",
+          "title": "Kula Pamoja"
+        },
+        "zht": {
+          "content_id": 700349,
+          "language": "zht",
+          "title": "一同吃飯"
+        }
+      }
+    }
+  }
+}

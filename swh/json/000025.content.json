@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 765049,
+    "reference_id": 203192,
+    "title": "CHUKI YA KIKABILA",
+    "media_type": "Text",
+    "index_reference": "chuki ya kikabila",
+    "language": "swh",
+    "content": "<p>Kiburi cha ubinafsi, tamaa ya madaraka, na chuki dhidi ya wapinzani mara nyingi vimesababisha mateso ya makundi ya kikabila au kidini. Watu wengi wamepoteza maisha kwa karne nyingi kutokana na chuki hii.</p><p>Katika kitabu cha Esta, Hamani alimchukia Mordekai kwa sababu Mordekai alikataa kuinama kama kila mtu mwingine wakati Hamani alipita (<a href=\"https://ref.ly/Esth3:1-Esth3:5\">Esta 3:1–5</a>). Hamani alimchukia Mordekai, mtu mwenye uadilifu ambaye hangefuata sheria kinyume na imani zake. Chuki hii binafsi kwa Mordekai, Myahudi, ikawa tamaa ya kuwaangamiza Wayahudi wote (<a href=\"https://ref.ly/Esth3:6\">3:6</a>). Msingi wa mashtaka ya Hamani dhidi ya watu wa Kiyahudi ulikuwa kile ambacho hakupenda kwa Mordekai:</p><ul><li><p>Hawakufanya kama wengine,</p></li><li><p>walikuwa na sheria na mila za kipekee, na</p></li><li><p>hawakuwa wakifuata baadhi ya sheria za mfalme (<a href=\"https://ref.ly/Esth3:8\">3:8</a>).</p></li></ul><p>Uchunguzi wa Kihispania katika miaka ya 1400 na Holocaust huko Ujerumani ya Nazi katika miaka ya 1930 na 1940 zilikuwa majaribio mabaya ya kuwaangamiza watu wa Kiyahudi. Chuki za kidini na kikabila bado husababisha mipango mibaya hadi leo.</p><p>Mungu haidhinishi chuki dhidi ya kundi lolote la kikabila au kidini. Hatimaye atawawajibisha wale wanaopanga mipango mibaya kama hiyo (tazama <a href=\"https://ref.ly/Deut30:7\">Kumbukumbu la Torati 30:7</a>; <a href=\"https://ref.ly/Ps21:7-Ps21:11\">Zaburi 21:7–11</a>; <a href=\"https://ref.ly/Ps34:19-Ps34:21\">34:19–21</a>; <a href=\"https://ref.ly/Ps44:7\">44:7</a>). Mungu mara nyingi amewaokoa watu wa Kiyahudi na kuwashinda maadui zao kwa sababu yeye ni mwaminifu kwa ahadi zake zote (tazama <a href=\"https://ref.ly/Rom9:1-Rom11:36\">Warumi 9–11</a>). Pia atalilinda kanisa lake kupitia mateso yote (tazama <a href=\"https://ref.ly/Matt16:18\">Mathayo 16:18</a>; <a href=\"https://ref.ly/Rom8:26-Rom8:39\">Warumi 8:26–39</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen46:33-Gen46:34\">Mwanzo 46:33–34</a>; <a href=\"https://ref.ly/Deut7:1-Deut7:6\">Kumbukumbu la Torati 7:1–6</a>; <a href=\"https://ref.ly/Deut23:3-Deut23:8\">23:3–8</a>; <a href=\"https://ref.ly/Esth3:1-Esth3:9\">Esta 3:1–9</a>; <a href=\"https://ref.ly/Matt15:22-Matt15:28\">Mathayo 15:22–28</a>; <a href=\"https://ref.ly/Luke4:27\">Luka 4:27</a>; <a href=\"https://ref.ly/Acts10:34-Acts10:35\">Matendo 10:34–35</a>; <a href=\"https://ref.ly/Rom9:1-Rom11:36\">Warumi 9:1–11:36</a>; <a href=\"https://ref.ly/Gal3:26-Gal3:29\">Wagalatia 3:26–29</a>; <a href=\"https://ref.ly/Eph2:14\">Waefeso 2:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05030007",
+          "start_ref_usfm": "DEU 30:7",
+          "end_ref": "05030007",
+          "end_ref_usfm": "DEU 30:7"
+        },
+        {
+          "start_ref": "17003006",
+          "start_ref_usfm": "EST 3:6",
+          "end_ref": "17003006",
+          "end_ref_usfm": "EST 3:6"
+        },
+        {
+          "start_ref": "17003008",
+          "start_ref_usfm": "EST 3:8",
+          "end_ref": "17003008",
+          "end_ref_usfm": "EST 3:8"
+        },
+        {
+          "start_ref": "19044007",
+          "start_ref_usfm": "PSA 44:7",
+          "end_ref": "19044007",
+          "end_ref_usfm": "PSA 44:7"
+        },
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "49002014",
+          "start_ref_usfm": "EPH 2:14",
+          "end_ref": "49002014",
+          "end_ref_usfm": "EPH 2:14"
+        },
+        {
+          "start_ref": "40015022",
+          "start_ref_usfm": "MAT 15:22",
+          "end_ref": "40015028",
+          "end_ref_usfm": "MAT 15:28"
+        },
+        {
+          "start_ref": "45009001",
+          "start_ref_usfm": "ROM 9:1",
+          "end_ref": "45011036",
+          "end_ref_usfm": "ROM 11:36"
+        },
+        {
+          "start_ref": "44010034",
+          "start_ref_usfm": "ACT 10:34",
+          "end_ref": "44010035",
+          "end_ref_usfm": "ACT 10:35"
+        },
+        {
+          "start_ref": "48003026",
+          "start_ref_usfm": "GAL 3:26",
+          "end_ref": "48003029",
+          "end_ref_usfm": "GAL 3:29"
+        },
+        {
+          "start_ref": "45008026",
+          "start_ref_usfm": "ROM 8:26",
+          "end_ref": "45008039",
+          "end_ref_usfm": "ROM 8:39"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007006",
+          "end_ref_usfm": "DEU 7:6"
+        },
+        {
+          "start_ref": "17003001",
+          "start_ref_usfm": "EST 3:1",
+          "end_ref": "17003005",
+          "end_ref_usfm": "EST 3:5"
+        },
+        {
+          "start_ref": "19021007",
+          "start_ref_usfm": "PSA 21:7",
+          "end_ref": "19021011",
+          "end_ref_usfm": "PSA 21:11"
+        },
+        {
+          "start_ref": "19034019",
+          "start_ref_usfm": "PSA 34:19",
+          "end_ref": "19034021",
+          "end_ref_usfm": "PSA 34:21"
+        },
+        {
+          "start_ref": "01046033",
+          "start_ref_usfm": "GEN 46:33",
+          "end_ref": "01046034",
+          "end_ref_usfm": "GEN 46:34"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023008",
+          "end_ref_usfm": "DEU 23:8"
+        },
+        {
+          "start_ref": "17003001",
+          "start_ref_usfm": "EST 3:1",
+          "end_ref": "17003009",
+          "end_ref_usfm": "EST 3:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

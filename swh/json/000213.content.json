@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 765244,
+    "reference_id": 203387,
+    "title": "Tamthilia na Ufunuo",
+    "media_type": "Text",
+    "index_reference": "tamthilia na ufunuo",
+    "language": "swh",
+    "content": "<p>Katika ulimwengu wa kale, tamthilia ilikuwa njia ya kusimulia hadithi kupitia maonyesho ya moja kwa moja na waigizaji, mandhari, na maonyesho ya kusisimua. Kuelewa jinsi maonyesho ya kale yalivyofanya kazi kunaweza kutusaidia kuelewa <a href=\"https://ref.ly/Rev4:1-Rev5:14\">Ufunuo 4–5</a>. Sura hizi zinatambulisha tamthilia  ya kimungu (kama mchezo wa kuigiza na mandhari na waigizaji) na kuonyesha umuhimu wa wakala wa Mungu (Masihi) katika historia ya dunia. Kifungu hiki kinamwandaa msomaji kwa ujumbe mkuu wa kitabu, ambao unahusu dunia, ukweli wa hukumu, na ushindi unaokuja kupitia Mwanakondoo (Yesu). Katika sura hizi, mfululizo wa mandhari (kama katika mchezo wa kuigiza) hutumika kuwasilisha ujumbe.</p><p><a href=\"https://ref.ly/Rev4:1-Rev4:3\">Ufunuo 4:1–3 </a>inaanza kwa kumwelezea Mungu akiwa kwenye kiti chake cha enzi mbinguni. Katika ukumbi wa michezo wa kale, mtu aliyemwakilisha Mungu aliketi kwenye sanduku la kati au kiti cha enzi juu ya jukwaa. Mwigizaji huyu alielezea umuhimu wa kila tukio kwa watazamaji kwa maoni chanya na hasi. Pia, alitatua matatizo ya maandishi ambayo yalikuwa magumu sana kwa wahusika. Vivyo hivyo, wasomaji wa Ufunuo wanapaswa kutafuta matukio ambapo Mungu au wajumbe wake wanafafanua au kuingilia kati ili kuelezea ujumbe.</p><p>Tamthilia ya kale ilikuwa kwenye jukwaa chini ya kiumbe wa kimungu. Kati ya jukwaa na watazamaji, kundi la wazungumzaji lilionyesha hisia za mchezo huo. Katika Ufunuo, viumbe wanne wenye uhai wana jukumu sawa (<a href=\"https://ref.ly/Rev4:6-Rev4:8\">Ufunuo 4:6–8</a>).</p><p>Wazee ishirini na wanne wanawakilisha maagano ya zamani na mapya (<a href=\"https://ref.ly/Rev4:4\">4:4</a>). (&quot;Agano la zamani&quot; linarejelea makubaliano ambayo Mungu alifanya na Israeli kupitia Mose, yakiwemo Amri Kumi na sheria nyingine zilizorekodiwa katika vitabu vya kwanza vya Biblia. &quot;Agano jipya&quot; linarejelea makubaliano Mungu aliyofanya kupitia Yesu Kristo, ambapo Agano Jipya linaelezea kama kutimiza agano la zamani na kuanzisha njia mpya ya kuhusiana na Mungu kwa msingi wa imani kwa Yesu.) Wazee ishirini na wanne wanatenda kama kwaya yenye vikundi vya wazungumzaji vinavyobadilishana na kutoa historia ya nyuma ya tamthilia hii kubwa. Pia wanatoa muktadha wa kihistoria kwa tahmthilia hii kubwa. Mungu anatoa maandiko, na ni wakala wake maalum tu, &quot;Mwanakondoo,&quot; anayeweza kuyafungua, kuyasoma, na kuyatekeleza (<a href=\"https://ref.ly/Rev5:1-Rev5:5\">5:1–5</a>; <a href=\"https://ref.ly/Rev6:1\">6:1</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Rev4:1-Rev5:14\">Ufunuo 4:1–5:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "66004004",
+          "start_ref_usfm": "REV 4:4",
+          "end_ref": "66004004",
+          "end_ref_usfm": "REV 4:4"
+        },
+        {
+          "start_ref": "66006001",
+          "start_ref_usfm": "REV 6:1",
+          "end_ref": "66006001",
+          "end_ref_usfm": "REV 6:1"
+        },
+        {
+          "start_ref": "66004001",
+          "start_ref_usfm": "REV 4:1",
+          "end_ref": "66005014",
+          "end_ref_usfm": "REV 5:14"
+        },
+        {
+          "start_ref": "66004001",
+          "start_ref_usfm": "REV 4:1",
+          "end_ref": "66004003",
+          "end_ref_usfm": "REV 4:3"
+        },
+        {
+          "start_ref": "66004006",
+          "start_ref_usfm": "REV 4:6",
+          "end_ref": "66004008",
+          "end_ref_usfm": "REV 4:8"
+        },
+        {
+          "start_ref": "66005001",
+          "start_ref_usfm": "REV 5:1",
+          "end_ref": "66005005",
+          "end_ref_usfm": "REV 5:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 765247,
+    "reference_id": 203390,
+    "title": "Mpinga Kristo",
+    "media_type": "Text",
+    "index_reference": "mpinga kristo",
+    "language": "swh",
+    "content": "<p>Neno <em>mpinga Kristo</em> linapatikana tu katika barua za mtume Yohana (<a href=\"https://ref.ly/1John2:18\">1 Yohana 2:18</a>, <a href=\"https://ref.ly/1John2:22\">22</a>; <a href=\"https://ref.ly/1John4:3\">4:3</a>; <a href=\"https://ref.ly/2John1:7\">2 Yohana 1:7</a>). Yohana aliamini kwamba wapinga Kristo wengi wangejitokeza katika historia (<a href=\"https://ref.ly/1John2:18\">1 Yohana 2:18</a>). Wapinga Kristo hawa wangekataa kwamba Yesu ni wa kimungu na wa kibinadamu (<a href=\"https://ref.ly/1John2:22\">1 Yohana 2:22</a>; <a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>; <a href=\"https://ref.ly/2John1:7\">2 Yohana 1:7</a>).</p><p>Mtume Paulo anataja &quot;binadamu wa uasi&quot; ambaye atatokea katika nyakati za mwisho kuanzisha uasi dhidi ya Mungu (<a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Wathesalonike 2:1–12</a>). Mtu huyu &quot;atakuwa akifuatana na kazi ya Shetani.&quot; Hii ni hasa kupitia udanganyifu. Ufunuo haujamwita yeye &quot;mpinga Kristo.&quot; Hata hivyo, huyu &quot;binadamu wa uasi,&quot; kama &quot;mpinga Kristo&quot; katika barua za Yohana, atapinga ukweli.</p><p>Kwenye <a href=\"https://ref.ly/Rev13:1-Rev13:18\">Ufunuo 13</a>, roho anayempinga Yesu Kristo ni &quot;mnyama mwingine&quot; anayemtumikia joka (Shetani) na mnyama wa kwanza. Nambari ya mpinga Kristo huyu, 666, huenda ilimwakilisha Mfalme Nero na pengine Mfalme Domitian (tazama <span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">maelezo ya somo kwenye 17:8</span>). Ibada ya mfalme, ambayo ilitangaza &quot;Kaisari ni Bwana!&quot; ilikuwa dini ya uongo inayopinga tangazo la Yesu Kristo kama Bwana.</p><p>Haijulikani kama Yohana alitarajia mpinga Kristo wa mwisho ambaye ni mkubwa zaidi kuliko viongozi kama Nero au Domitian. Hata hivyo, Wakristo wanapaswa kutambua uwepo wa uovu. Pia wanapaswa kutambua upinzani wake kwa Kristo katika watu na miundo ya nguvu duniani kote. Kupinga maadui hawa kunaweza kusababisha mateso na hata kifo. Lakini tumaini letu liko katika ushindi wa mwisho kupitia Kristo.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Thess2:3-2Thess2:10\">2 Wathesalonike 2:3–10</a>; <a href=\"https://ref.ly/1John2:18\">1 Yohana 2:18</a>, <a href=\"https://ref.ly/1John2:22\">22</a>; <a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>; <a href=\"https://ref.ly/2John1:7\">2 Yohana 1:7</a>; <a href=\"https://ref.ly/Rev13:11\">Ufunuo 13:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62002018",
+          "start_ref_usfm": "1JN 2:18",
+          "end_ref": "62002018",
+          "end_ref_usfm": "1JN 2:18"
+        },
+        {
+          "start_ref": "62002022",
+          "start_ref_usfm": "1JN 2:22",
+          "end_ref": "62002022",
+          "end_ref_usfm": "1JN 2:22"
+        },
+        {
+          "start_ref": "62004003",
+          "start_ref_usfm": "1JN 4:3",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001007",
+          "end_ref_usfm": "2JN 1:7"
+        },
+        {
+          "start_ref": "66013011",
+          "start_ref_usfm": "REV 13:11",
+          "end_ref": "66013011",
+          "end_ref_usfm": "REV 13:11"
+        },
+        {
+          "start_ref": "62004002",
+          "start_ref_usfm": "1JN 4:2",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "66013001",
+          "start_ref_usfm": "REV 13:1",
+          "end_ref": "66013018",
+          "end_ref_usfm": "REV 13:18"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "53002003",
+          "start_ref_usfm": "2TH 2:3",
+          "end_ref": "53002010",
+          "end_ref_usfm": "2TH 2:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

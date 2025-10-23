@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 765045,
+    "reference_id": 203188,
+    "title": "Ujenzi upya wa Yerusalemu",
+    "media_type": "Text",
+    "index_reference": "ujenzi upya wa yerusalemu",
+    "language": "swh",
+    "content": "<p>Ukuta wa Yerusalemu ulikuwa na umuhimu mkubwa wa kisiasa, kijamii, na kidini kwa watu wa Yuda (tazama <a href=\"https://ref.ly/Neh2:10\">Nehemia 2:10</a>, <a href=\"https://ref.ly/Neh2:19\">19</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:15\">4:1–15</a>; <a href=\"https://ref.ly/Neh6:1-Neh6:14\">6:1–14</a>). Katika nyakati za kale na hata za kisasa, mji usio na kuta hauwezi kudumu kwa muda mrefu. Kuta zililinda miji dhidi ya majeshi vamizi na wahalifu wa kawaida.</p><p>Wakati wa Nehemia, kuta za Yerusalemu zilikuwa zimeharibiwa kwa zaidi ya miaka mia moja, tangu uharibifu wa mji huo mwaka wa 586 Kabla ya Kristo (KK). Ukuta uliovunjika ulikuwa ukumbusho wa aibu kwamba Mungu alikuwa ameuhukumu mji huo, akitimiza laana za agano kutokana na dhambi za watu (<a href=\"https://ref.ly/Neh1:2-Neh1:7\">Nehemia 1:2–7</a>; <a href=\"https://ref.ly/Neh2:17\">2:17</a>). Kujenga upya ukuta kungeonyesha baraka za Mungu na kuthibitisha kwamba alikuwa akiwarejesha watu wa agano. Maadui wa Israeli walijua kwamba ikiwa wangejenga upya ukuta, Wayahudi wangepata nguvu za kisiasa, usalama, na kujitawala. Kwa hiyo, walipinga vikali ujenzi huo upya.</p><p>Chini ya uongozi wa Nehemia, watu wa Yudea walijenga upya ukuta wote katika siku hamsini na mbili tu wakati wa msimu wa vuli wa mwaka 445 KK. Ujenzi huu wa haraka na wenye mafanikio unaweza kuwahimiza Wakristo kwamba kwa msaada wa Mungu, wanaweza kutimiza mambo ya ajabu (tazama <a href=\"https://ref.ly/Neh2:18\">Nehemia 2:18</a>; <a href=\"https://ref.ly/Neh4:14-Neh4:15\">4:14–15</a>, <a href=\"https://ref.ly/Neh4:20\">20</a>; <a href=\"https://ref.ly/Neh6:16\">6:16</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Neh1:2-Neh1:4\">Nehemia 1:2–4</a>; <a href=\"https://ref.ly/Neh2:10-Neh2:20\">2:10–20</a>; <a href=\"https://ref.ly/Neh3:1-Neh3:32\">3:1–32</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">4:1–23</a>; <a href=\"https://ref.ly/Neh6:1-Neh6:16\">6:1–16</a>; <a href=\"https://ref.ly/Ps51:16-Ps51:18\">Zaburi 51:16–18</a>; <a href=\"https://ref.ly/Isa22:5\">Isaya 22:5</a>; <a href=\"https://ref.ly/Isa26:1-Isa26:3\">26:1–3</a>; <a href=\"https://ref.ly/Rev21:10-Rev21:27\">Ufunuo 21:10–27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16002010",
+          "start_ref_usfm": "NEH 2:10",
+          "end_ref": "16002010",
+          "end_ref_usfm": "NEH 2:10"
+        },
+        {
+          "start_ref": "16002017",
+          "start_ref_usfm": "NEH 2:17",
+          "end_ref": "16002017",
+          "end_ref_usfm": "NEH 2:17"
+        },
+        {
+          "start_ref": "16002018",
+          "start_ref_usfm": "NEH 2:18",
+          "end_ref": "16002018",
+          "end_ref_usfm": "NEH 2:18"
+        },
+        {
+          "start_ref": "16002019",
+          "start_ref_usfm": "NEH 2:19",
+          "end_ref": "16002019",
+          "end_ref_usfm": "NEH 2:19"
+        },
+        {
+          "start_ref": "16004020",
+          "start_ref_usfm": "NEH 4:20",
+          "end_ref": "16004020",
+          "end_ref_usfm": "NEH 4:20"
+        },
+        {
+          "start_ref": "16006016",
+          "start_ref_usfm": "NEH 6:16",
+          "end_ref": "16006016",
+          "end_ref_usfm": "NEH 6:16"
+        },
+        {
+          "start_ref": "23022005",
+          "start_ref_usfm": "ISA 22:5",
+          "end_ref": "23022005",
+          "end_ref_usfm": "ISA 22:5"
+        },
+        {
+          "start_ref": "23026001",
+          "start_ref_usfm": "ISA 26:1",
+          "end_ref": "23026003",
+          "end_ref_usfm": "ISA 26:3"
+        },
+        {
+          "start_ref": "16001002",
+          "start_ref_usfm": "NEH 1:2",
+          "end_ref": "16001004",
+          "end_ref_usfm": "NEH 1:4"
+        },
+        {
+          "start_ref": "16006001",
+          "start_ref_usfm": "NEH 6:1",
+          "end_ref": "16006014",
+          "end_ref_usfm": "NEH 6:14"
+        },
+        {
+          "start_ref": "16003001",
+          "start_ref_usfm": "NEH 3:1",
+          "end_ref": "16003032",
+          "end_ref_usfm": "NEH 3:32"
+        },
+        {
+          "start_ref": "16002010",
+          "start_ref_usfm": "NEH 2:10",
+          "end_ref": "16002020",
+          "end_ref_usfm": "NEH 2:20"
+        },
+        {
+          "start_ref": "16004001",
+          "start_ref_usfm": "NEH 4:1",
+          "end_ref": "16004015",
+          "end_ref_usfm": "NEH 4:15"
+        },
+        {
+          "start_ref": "16001002",
+          "start_ref_usfm": "NEH 1:2",
+          "end_ref": "16001007",
+          "end_ref_usfm": "NEH 1:7"
+        },
+        {
+          "start_ref": "16004014",
+          "start_ref_usfm": "NEH 4:14",
+          "end_ref": "16004015",
+          "end_ref_usfm": "NEH 4:15"
+        },
+        {
+          "start_ref": "16004001",
+          "start_ref_usfm": "NEH 4:1",
+          "end_ref": "16004023",
+          "end_ref_usfm": "NEH 4:23"
+        },
+        {
+          "start_ref": "16006001",
+          "start_ref_usfm": "NEH 6:1",
+          "end_ref": "16006016",
+          "end_ref_usfm": "NEH 6:16"
+        },
+        {
+          "start_ref": "19051016",
+          "start_ref_usfm": "PSA 51:16",
+          "end_ref": "19051018",
+          "end_ref_usfm": "PSA 51:18"
+        },
+        {
+          "start_ref": "66021010",
+          "start_ref_usfm": "REV 21:10",
+          "end_ref": "66021027",
+          "end_ref_usfm": "REV 21:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

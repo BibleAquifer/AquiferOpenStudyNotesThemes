@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 765018,
+    "reference_id": 203161,
+    "title": "Mungu au Shetani?",
+    "media_type": "Text",
+    "index_reference": "mungu au shetani?",
+    "language": "swh",
+    "content": "<p>Nani anawajibika kwa majaribu na matatizo? Inaweza kuonekana ajabu, lakini Maandiko wakati mwingine yanasema ni Mungu, wakati mwingine Shetani, na wakati mwingine wote wawili. Hii inawezekanaje? Kuelewa hili kunahitaji kuangalia hali hizi kutoka mitazamo tofauti.</p><p>Biblia inasimulia hadithi ya sensa ya Mfalme Daudi katika vitabu viwili tofauti, na vinaelezea kilichotokea kwa njia tofauti. <a href=\"https://ref.ly/2Sam24:1\">Pili Samweli 24:1</a> inasema Mungu &quot;alimchochea Daudi dhidi yao&quot; kufanya sensa. Kinyume chake, <a href=\"https://ref.ly/1Chr21:1\">1 Mambo ya Nyakati 21:1</a> inasema &quot;Shetani alisimama dhidi ya Israeli na kumshawishi Daudi kufanya sensa ya Israeli.&quot; <a href=\"https://ref.ly/2Sam24:1-2Sam24:25\">Pili Samweli 24:1–25</a> inasimulia hadithi ya sensa kutoka mtazamo wa Mungu. Mungu aliruhusu matendo ya Shetani kufikia kusudi lake.</p><p>Hii ni kawaida katika Maandiko. <a href=\"https://ref.ly/Matt4:1\">Mathayo 4:1</a> inasema Roho Mtakatifu alimwongoza Yesu nyikani ambako Shetani angemjaribu. Hii inaonyesha jinsi Mungu na Shetani wanaweza kushiriki katika tukio moja lakini kwa malengo tofauti.</p><p>Mfano mashuhuri ni mateso ya Ayubu. Mungu alikuwa amemsifu Ayubu kwa kuwa mtu mwaminifu. Kisha akampa Shetani ruhusa ya kumsababishia Ayubu mateso makubwa (<a href=\"https://ref.ly/Job1:6-Job2:7\">Ayubu 1:6–2:7</a>). Licha ya ugumu, Ayubu alibaki mwenye haki. Alipinga majaribio ya Shetani ya kumfanya amlaani Mungu.</p><p>Vivyo hivyo, <a href=\"https://ref.ly/2Cor12:7\">2 Wakorintho 12:7</a> inafundisha kwamba Mungu anaweza kuleta mateso kupitia mjumbe kutoka kwa Shetani. Paulo alipomtaja &quot;mwiba&quot; wake, alitumia kitenzi cha upole, akionyesha kwamba Mungu aliruhusu &quot;kero&quot; hii. Namna Paulo anavyoelezea hili inaonyesha kwamba Mungu aliruhusu shida hii kutokea, ingawa ilitokea kupitia mjumbe kutoka kwa Shetani.</p><p>Shetani hutumia mbinu mbalimbali kujaribu kuumiza na kuvunja moyo wale wanaomfuata Mungu. Hata hivyo, Mungu anadhibiti kila kitu. Mungu haumbi uovu, lakini wakati mwingine hutumia matendo maovu ya wengine kutimiza makusudi yake mema (<a href=\"https://ref.ly/Gen50:20\">Mwanzo 50:20</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Sam24:1-2Sam24:25\">2 Samweli 24:1–25</a>; <a href=\"https://ref.ly/1Chr21:1-1Chr21:30\">1 Mambo ya Nyakati 21:1–30</a>; <a href=\"https://ref.ly/Job1:8-Job2:10\">Ayubu 1:8–2:10</a>; <a href=\"https://ref.ly/Matt4:1-Matt4:11\">Mathayo 4:1–11</a>; <a href=\"https://ref.ly/Matt12:22-Matt12:37\">12:22–37</a>; <a href=\"https://ref.ly/Mark8:31-Mark8:33\">Marko 8:31–33</a>; <a href=\"https://ref.ly/John13:21-John13:31\">Yohana 13:21–31</a>; <a href=\"https://ref.ly/Rom8:28\">Warumi 8:28</a>; <a href=\"https://ref.ly/1Cor5:1-1Cor5:5\">1 Wakorintho 5:1–5</a>; <a href=\"https://ref.ly/2Cor12:6-2Cor12:10\">2 Wakorintho 12:6–10</a>; <a href=\"https://ref.ly/Eph2:1-Eph2:7\">Waefeso 2:1–7</a>; <a href=\"https://ref.ly/Rev20:1-Rev20:3\">Ufunuo 20:1–3</a>, <a href=\"https://ref.ly/Rev20:7-Rev20:10\">7–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01050020",
+          "start_ref_usfm": "GEN 50:20",
+          "end_ref": "01050020",
+          "end_ref_usfm": "GEN 50:20"
+        },
+        {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024001",
+          "end_ref_usfm": "2SA 24:1"
+        },
+        {
+          "start_ref": "13021001",
+          "start_ref_usfm": "1CH 21:1",
+          "end_ref": "13021001",
+          "end_ref_usfm": "1CH 21:1"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004001",
+          "end_ref_usfm": "MAT 4:1"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "47012007",
+          "start_ref_usfm": "2CO 12:7",
+          "end_ref": "47012007",
+          "end_ref_usfm": "2CO 12:7"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024025",
+          "end_ref_usfm": "2SA 24:25"
+        },
+        {
+          "start_ref": "13021001",
+          "start_ref_usfm": "1CH 21:1",
+          "end_ref": "13021030",
+          "end_ref_usfm": "1CH 21:30"
+        },
+        {
+          "start_ref": "46005001",
+          "start_ref_usfm": "1CO 5:1",
+          "end_ref": "46005005",
+          "end_ref_usfm": "1CO 5:5"
+        },
+        {
+          "start_ref": "66020007",
+          "start_ref_usfm": "REV 20:7",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020003",
+          "end_ref_usfm": "REV 20:3"
+        },
+        {
+          "start_ref": "18001006",
+          "start_ref_usfm": "JOB 1:6",
+          "end_ref": "18002007",
+          "end_ref_usfm": "JOB 2:7"
+        },
+        {
+          "start_ref": "40012022",
+          "start_ref_usfm": "MAT 12:22",
+          "end_ref": "40012037",
+          "end_ref_usfm": "MAT 12:37"
+        },
+        {
+          "start_ref": "18001008",
+          "start_ref_usfm": "JOB 1:8",
+          "end_ref": "18002010",
+          "end_ref_usfm": "JOB 2:10"
+        },
+        {
+          "start_ref": "41008031",
+          "start_ref_usfm": "MRK 8:31",
+          "end_ref": "41008033",
+          "end_ref_usfm": "MRK 8:33"
+        },
+        {
+          "start_ref": "43013021",
+          "start_ref_usfm": "JHN 13:21",
+          "end_ref": "43013031",
+          "end_ref_usfm": "JHN 13:31"
+        },
+        {
+          "start_ref": "47012006",
+          "start_ref_usfm": "2CO 12:6",
+          "end_ref": "47012010",
+          "end_ref_usfm": "2CO 12:10"
+        },
+        {
+          "start_ref": "49002001",
+          "start_ref_usfm": "EPH 2:1",
+          "end_ref": "49002007",
+          "end_ref_usfm": "EPH 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

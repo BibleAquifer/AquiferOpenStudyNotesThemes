@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 765040,
+    "reference_id": 203183,
+    "title": "Roho ya Sheria",
+    "media_type": "Text",
+    "index_reference": "roho ya sheria",
+    "language": "swh",
+    "content": "<p>Wakati Mfalme Hezekia alipotaka kusherehekea Pasaka, alikumbana na changamoto. Pasaka ni sikukuu inayoadhimisha ukombozi wa Israeli kutoka utumwani Misri na ni sikukuu ya kwanza katika mwaka wa kidini wa Israeli (<a href=\"https://ref.ly/Exod12:1-Exod12:2\">Kutoka 12:1–2</a>). Hezekia alikusudia kurejesha ibada ya Israeli kwa Bwana. Hata hivyo, muda kati ya kuanza juhudi zake za upyaisho na mwezi wa kwanza wa mwaka ulikuwa mfupi sana. Makuhani hawakuwa na muda wa kutosha kujiandaa na kukusanya watu (<a href=\"https://ref.ly/2Chr30:2-2Chr30:3\">2 Mambo ya Nyakati 30:2–3</a>). Kwa hiyo, hakuweza kusherehekea Pasaka kwa wakati wa kawaida.</p><p>Hezekia alifanya Pasaka mwezi mmoja baadaye (<a href=\"https://ref.ly/2Chr30:15\">2 Mambo ya Nyakati 30:15</a>). Aliamini kuwa kusherehekea kulikuwa muhimu zaidi kuliko muda. Kwa kuchelewesha, aliwapa watu muda wa kukusanyika kwenye hekalu huko Yerusalemu. Hii ilileta maelewano kati ya Yuda na ufalme wa kaskazini na kuunganisha sherehe.</p><p>Kufuata kanuni sahihi haikuwa muhimu zaidi kuliko kuhakikisha kila mtu anaweza kusherehekea Pasaka. Wakati karamu ilipoanza, watu wengi hawakuwa wamejitakasa ipasavyo. Kwa hivyo, hawakuweza kuchinja dhabihu zao wenyewe kama sheria ilivyohitaji.</p><p>Hezekia aliamua kwamba ushiriki katika Pasaka ulikuwa muhimu zaidi kuliko utii mkali kwa kanuni. Aliwaombea mahujaji ambao hawakuweza kujiandaa ipasavyo. Ingawa hawakuweza kutoa dhabihu bila kuwa safi, bado wangeweza kushiriki katika Pasaka. Kuwa na mtazamo sahihi na kumtafuta Bwana kwa maombi kulisababisha Mungu kukubali kwa neema (<a href=\"https://ref.ly/2Chr30:18-2Chr30:20\">2 Mambo ya Nyakati 30:18–20</a>; tazama pia <a href=\"https://ref.ly/1Cor11:27-1Cor11:34\">1 Wakorintho 11:27–34</a>).</p><p>Viongozi wa kidini mara nyingi walimkosoa Yesu kwa kutofuata vipengele vyote vya sheria. Walikuwa na wasiwasi hasa kuhusu sabato na usafi. Yesu alifundisha kwamba kuonyesha upendo kwa wengine ni muhimu zaidi kuliko kufuata kila undani wa sheria. Pia aliwakosoa viongozi wa kidini kwa kuzingatia sana maelezo ya sheria badala ya kanuni zilizo nyuma yake. Ingawa utiifu mkali kwa sheria ulikuwa muhimu kwa utambulisho wa Kiyahudi, roho ya sheria iliruhusu kubadilika katika hali fulani.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod12:1-Exod12:30\">Kutoka 12:1–30</a>; <a href=\"https://ref.ly/2Kgs5:17-2Kgs5:19\">2 Wafalme 5:17–19</a>; <a href=\"https://ref.ly/2Chr30:1-2Chr30:27\">2 Mambo ya Nyakati 30:1–27</a>; <a href=\"https://ref.ly/Matt15:21-Matt15:28\">Mathayo 15:21–28</a>; <a href=\"https://ref.ly/John8:1-John8:11\">Yohana 8:1–11</a>; <a href=\"https://ref.ly/Rom3:23-Rom3:28\">Warumi 3:23–28</a>; <a href=\"https://ref.ly/1Cor11:27-1Cor11:34\">1 Wakorintho 11:27–34</a>; <a href=\"https://ref.ly/Heb9:13-Heb9:15\">Waebrania 9:13–15</a>; <a href=\"https://ref.ly/Jas5:16\">Yakobo 5:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14030015",
+          "start_ref_usfm": "2CH 30:15",
+          "end_ref": "14030015",
+          "end_ref_usfm": "2CH 30:15"
+        },
+        {
+          "start_ref": "59005016",
+          "start_ref_usfm": "JAS 5:16",
+          "end_ref": "59005016",
+          "end_ref_usfm": "JAS 5:16"
+        },
+        {
+          "start_ref": "40015021",
+          "start_ref_usfm": "MAT 15:21",
+          "end_ref": "40015028",
+          "end_ref_usfm": "MAT 15:28"
+        },
+        {
+          "start_ref": "14030001",
+          "start_ref_usfm": "2CH 30:1",
+          "end_ref": "14030027",
+          "end_ref_usfm": "2CH 30:27"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012030",
+          "end_ref_usfm": "EXO 12:30"
+        },
+        {
+          "start_ref": "14030002",
+          "start_ref_usfm": "2CH 30:2",
+          "end_ref": "14030003",
+          "end_ref_usfm": "2CH 30:3"
+        },
+        {
+          "start_ref": "12005017",
+          "start_ref_usfm": "2KI 5:17",
+          "end_ref": "12005019",
+          "end_ref_usfm": "2KI 5:19"
+        },
+        {
+          "start_ref": "58009013",
+          "start_ref_usfm": "HEB 9:13",
+          "end_ref": "58009015",
+          "end_ref_usfm": "HEB 9:15"
+        },
+        {
+          "start_ref": "43008001",
+          "start_ref_usfm": "JHN 8:1",
+          "end_ref": "43008011",
+          "end_ref_usfm": "JHN 8:11"
+        },
+        {
+          "start_ref": "14030018",
+          "start_ref_usfm": "2CH 30:18",
+          "end_ref": "14030020",
+          "end_ref_usfm": "2CH 30:20"
+        },
+        {
+          "start_ref": "02012001",
+          "start_ref_usfm": "EXO 12:1",
+          "end_ref": "02012002",
+          "end_ref_usfm": "EXO 12:2"
+        },
+        {
+          "start_ref": "46011027",
+          "start_ref_usfm": "1CO 11:27",
+          "end_ref": "46011034",
+          "end_ref_usfm": "1CO 11:34"
+        },
+        {
+          "start_ref": "45003023",
+          "start_ref_usfm": "ROM 3:23",
+          "end_ref": "45003028",
+          "end_ref_usfm": "ROM 3:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

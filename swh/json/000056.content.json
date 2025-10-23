@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 765033,
+    "reference_id": 203176,
+    "title": "Jina la Mungu kwenye Hekalu Lake",
+    "media_type": "Text",
+    "index_reference": "jina la mungu kwenye hekalu lake",
+    "language": "swh",
+    "content": "<p>Kwenye sala yake ya kutakasa, Mfalme Solomoni alisema hekalu lilikuwa nyumba ambapo Mungu angeweka jina lake (<a href=\"https://ref.ly/2Chr6:20\">2 Mambo ya Nyakati 6:20</a>; linganisha <a href=\"https://ref.ly/2Chr6:5-2Chr6:6\">6:5–6</a>). Mungu alisema kwamba Mfalme Daudi angejenga &quot;nyumba kwa ajili ya Jina Langu&quot; huko Yerusalemu (<a href=\"https://ref.ly/2Sam7:4-2Sam7:17\">2 Samweli 7:4–17</a>). Mungu anapoweka jina lake mahali, inamaanisha kuwa ni mali ya Mungu.</p><p>Kwa watu wa Israeli, hekalu lilikuwa linawakilisha ardhi ambayo Mungu aliwaahidi na lilikuwa limewekwa alama kwa jina la Mungu. Lilikuwa ishara kuu ya uhusiano kati ya Mungu na Israeli. Solomoni aliomba kwamba Mungu akumbuke uhusiano huu na asikilize maombi yao katika hekalu.</p><p>Kwenye tafsiri nyingi za Biblia za Kiingereza, Yahweh inawakilishwa kama &quot;BWANA&quot; iliyoandikwa kwa herufi kubwa zote<em> </em>(tazama <a href=\"https://ref.ly/Exod3:13-Exod3:15\">Kutoka 3:13–15</a>). Sala ya Solomoni inatumia jina la kibinafsi la Mungu. Hii ilifanya hekalu kuwa ishara kuu ya imani ya Israeli. Hekalu lilikuwa mahali palipochaguliwa ambapo watu walihifadhi na kukumbuka agano la Mungu (makubaliano maalum ambayo Mungu alifanya na Waisraeli). Hapa ndipo watu wa Israeli walipomwita Mungu kwa jina lake na kumtambua katika ungamo na sifa.</p><p>Utimizaji wa ahadi ya Mungu kwa kuweka jina lake kwenye hekalu lake sasa unapatikana katika &quot;hekalu hai,&quot; ambalo ni jamii ya watu wa Mungu. Mtume Petro anawahimiza waumini kuja kwa &quot;jiwe hai, lililokataliwa na wanadamu lakini lililochaguliwa na lenye thamani machoni pa Mungu. Ninyi pia, kama mawe hai, mnajengwa kuwa nyumba ya kiroho ili kuwa ukuhani mtakatifu, kutoa dhabihu za kiroho zinazokubalika kwa Mungu kupitia Yesu Kristo&quot; (<a href=\"https://ref.ly/1Pet2:4-1Pet2:5\">1 Petro 2:4–5</a>).</p><p>Kama vile jina la Mungu lilivyohusishwa na hekalu, kitovu cha uwepo na ibada ya Mungu katika Agano la Kale, sasa jina la Mungu linahusishwa na kanisa, watu wa Mungu, ambao ni hekalu jipya katika Agano Jipya.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod3:13-Exod3:15\">Kutoka 3:13–15</a>; <a href=\"https://ref.ly/2Sam7:12-2Sam7:13\">2 Samweli 7:12–13</a>; <a href=\"https://ref.ly/2Chr6:3-2Chr6:42\">2 Mambo ya Nyakati 6:3–42</a>; <a href=\"https://ref.ly/Ps23:3\">Zaburi 23:3</a>; <a href=\"https://ref.ly/1Pet2:4-1Pet2:5\">1 Petro 2:4–5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14006020",
+          "start_ref_usfm": "2CH 6:20",
+          "end_ref": "14006020",
+          "end_ref_usfm": "2CH 6:20"
+        },
+        {
+          "start_ref": "19023003",
+          "start_ref_usfm": "PSA 23:3",
+          "end_ref": "19023003",
+          "end_ref_usfm": "PSA 23:3"
+        },
+        {
+          "start_ref": "60002004",
+          "start_ref_usfm": "1PE 2:4",
+          "end_ref": "60002005",
+          "end_ref_usfm": "1PE 2:5"
+        },
+        {
+          "start_ref": "10007004",
+          "start_ref_usfm": "2SA 7:4",
+          "end_ref": "10007017",
+          "end_ref_usfm": "2SA 7:17"
+        },
+        {
+          "start_ref": "10007012",
+          "start_ref_usfm": "2SA 7:12",
+          "end_ref": "10007013",
+          "end_ref_usfm": "2SA 7:13"
+        },
+        {
+          "start_ref": "14006005",
+          "start_ref_usfm": "2CH 6:5",
+          "end_ref": "14006006",
+          "end_ref_usfm": "2CH 6:6"
+        },
+        {
+          "start_ref": "02003013",
+          "start_ref_usfm": "EXO 3:13",
+          "end_ref": "02003015",
+          "end_ref_usfm": "EXO 3:15"
+        },
+        {
+          "start_ref": "14006003",
+          "start_ref_usfm": "2CH 6:3",
+          "end_ref": "14006042",
+          "end_ref_usfm": "2CH 6:42"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

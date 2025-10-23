@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 765192,
+    "reference_id": 203335,
+    "title": "Ufunuo wa Asili",
+    "media_type": "Text",
+    "index_reference": "ufunuo wa asili",
+    "language": "swh",
+    "content": "<p>Wakati Mungu anapozungumza moja kwa moja na watu, tunaita <em>Ufunuo Maalum</em>. Mungu pia huzungumza na kila mtu kwa njia isiyo ya moja kwa moja kupitia <em>Ufunuo wa Asili</em> (pia unajulikana kama <em>Ufunuo wa Jumla</em> kwa sababu unatolewa kwa wote). Hii hutokea kupitia ulimwengu wa asili ambao Mungu ameumba. Kwa mfano, <a href=\"https://ref.ly/Ps19:1-Ps19:14\">Zaburi 19</a> inasema kwamba maarifa ya Mungu katika uumbaji yanapatikana kwa kila mtu kila mahali (tazama <a href=\"https://ref.ly/Ps19:1-Ps19:4\">Zaburi 19:1–4</a>).</p><p>Kwa huzuni, si kila mtu anaitikia Mungu kwa njia chanya. Paulo anaeleza katika <a href=\"https://ref.ly/Rom1:1-Rom3:31\">Warumi 1–3</a> kwamba kwa sababu ya dhambi ya Adamu, watu wote wanapoteza maarifa ya Mungu yanayopatikana katika uumbaji. Bila neema ya Mungu, Ufunuo wa asili unawahukumu watu tu. Kama Paulo anavyosema katika <a href=\"https://ref.ly/Rom1:20\">1:20</a>, watu &quot;hawana udhuru.”</p><p>Mungu anaweza kutumia uumbaji kusaidia watu kutambua kwamba yeye ndiye Mungu wa kweli. Wakati neema ya Mungu inaunga mkono na kuimarisha ufunuo huu wa asili, uzuri na ugumu wa dunia unaweza kuhamasisha kutafuta Muumba. Paulo alitumia ufunuo wa asili alipokuwa Athene kama njia ya kuanzisha habari njema kuhusu Yesu (<a href=\"https://ref.ly/Acts17:16-Acts17:31\">Matendo 17:16–31</a>). Ufunuo wa Mungu katika dunia ya asili na katika asili ya binadamu unaweza kuhamasisha watu kumtafuta. Kisha, kupitia ufunuo maalum ambao Mungu ametoa hatimaye katika Mwana wake, Yesu Kristo, watu wanaweza kumjua kweli na kupata wokovu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ps19:1-Ps19:4\">Zaburi 19:1–4</a>; <a href=\"https://ref.ly/Acts14:15-Acts14:17\">Matendo 14:15–17</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:29\">Matendo 17:24–29</a>; <a href=\"https://ref.ly/Rom1:19-Rom1:21\">Warumi 1:19–21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45001020",
+          "start_ref_usfm": "ROM 1:20",
+          "end_ref": "45001020",
+          "end_ref_usfm": "ROM 1:20"
+        },
+        {
+          "start_ref": "19019001",
+          "start_ref_usfm": "PSA 19:1",
+          "end_ref": "19019014",
+          "end_ref_usfm": "PSA 19:14"
+        },
+        {
+          "start_ref": "19019001",
+          "start_ref_usfm": "PSA 19:1",
+          "end_ref": "19019004",
+          "end_ref_usfm": "PSA 19:4"
+        },
+        {
+          "start_ref": "45001019",
+          "start_ref_usfm": "ROM 1:19",
+          "end_ref": "45001021",
+          "end_ref_usfm": "ROM 1:21"
+        },
+        {
+          "start_ref": "45001001",
+          "start_ref_usfm": "ROM 1:1",
+          "end_ref": "45003031",
+          "end_ref_usfm": "ROM 3:31"
+        },
+        {
+          "start_ref": "44017016",
+          "start_ref_usfm": "ACT 17:16",
+          "end_ref": "44017031",
+          "end_ref_usfm": "ACT 17:31"
+        },
+        {
+          "start_ref": "44014015",
+          "start_ref_usfm": "ACT 14:15",
+          "end_ref": "44014017",
+          "end_ref_usfm": "ACT 14:17"
+        },
+        {
+          "start_ref": "44017024",
+          "start_ref_usfm": "ACT 17:24",
+          "end_ref": "44017029",
+          "end_ref_usfm": "ACT 17:29"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

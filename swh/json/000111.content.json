@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 765158,
+    "reference_id": 203301,
+    "title": "Kuzaliwa kwa Kristo",
+    "media_type": "Text",
+    "index_reference": "kuzaliwa kwa kristo",
+    "language": "swh",
+    "content": "<p>Hadithi za kuzaliwa kwa Yesu zinaonyesha tofauti iliyo wazi kati ya hali ya unyenyekevu na umuhimu wa kimungu (<a href=\"https://ref.ly/Matt1:18-Matt2:12\">Mathayo 1:18–2:12</a>; <a href=\"https://ref.ly/Luke1:44-Luke1:47\">Luka 2:1–20</a>).</p><p>Kwa upande mmoja, tunaona asili ya unyenyekevu katika kuzaliwa kwake. Wenzi maskini wanasafiri kwenda Bethlehemu, nyumbani kwa mababu zao. Wanaenda kujiandikisha kwa sensa (hesabu ya serikali ya watu wote wanaoishi katika nchi au eneo) iliyoamriwa na Dola la Kirumi, ambalo lilitawala nchi yao wakati huo. Safari yao kutoka Galilaya kwenda Bethlehemu ilikuwa ndefu na ngumu. Walipofika, hawakuweza kupata mahali pa kukaa. Walilazimika kutumia sehemu ambapo wanyama walihifadhiwa.</p><p>Hali nzima ilionyesha umaskini, kutengwa, na ukosefu wa umakini kutoka kwa wengine. Yesu alipozaliwa, habari haikutumwa kwa wafalme mashuhuri au watu matajiri. Badala yake, tangazo lilipelekwa kwa wachungaji wa kawaida waliokuwa wakichunga kondoo wao kwenye uwanja wa karibu.</p><p>Lakini, licha ya mazingira haya ya unyenyekevu, kuna ujumbe wenye nguvu na ukuu wa ajabu. Mtoto aliyewekwa kwenye hori ya kulishia ni Masihi, mzao aliyesubiriwa kwa muda mrefu wa Mfalme Daudi. Atatawala kwa ushindi juu ya watu wa Israeli, na ufalme wake hautaisha kamwe.</p><p>Yeye ndiye yule ambaye manabii wote walizungumza kumhusu. Historia yote ilikuwa ikielekeza mbele kwa wakati wake muhimu zaidi. Kundi la watu wenye hekima kutoka nchi za mashariki liliwasili kumheshimu. Na jeshi la malaika wenye nguvu lilitoka mbinguni kutangaza kuzaliwa kwake.</p><p>Tofauti hizi zinatupa mtazamo wa kwanza wa kile kitakachokuja baadaye. Katika Yesu, Mungu wa Israeli na Bwana wa dunia yote amekuja kutembelea na kuokoa watu wake. Mungu anashuka kutoka mbinguni kuja kukutana na watu katika maisha yao ya kila siku na hali zao. Katika Injili zote, Yesu anaonyesha kujali maalum kwa wanyenyekevu, maskini, waliokataliwa, na wenye dhambi. Anakuja kuwaokoa kwa sababu wanatambua hitaji lao kwake. Wanapokea ujumbe wa wokovu kwa furaha na shangwe.</p><p>Tofauti kati ya unyenyekevu na ukuu pia inaunganishwa na misheni ya Yesu. Watu waovu wanamkataa na kumuua. Hata hivyo, Mungu anathibitisha kuwa Yesu alikuwa sahihi kwa kumfufua na kumwinua Yesu kwenye &quot;mkono wake wa kuume.&quot;</p><p>Kule kwenye kiti chake cha enzi, anatawala kama Bwana na Masihi. Kutoka hapo, anamtuma Roho wa Mungu kuongoza na kuelekeza kanisa lake. Kupitia maisha yake, kifo, ufufuo, na kupaa kwake kwa utukufu, Yesu anatoa msamaha wa dhambi. Anatoa uzima wa milele kwa wote wanaomjibu kwa maisha ya uaminifu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt1:18-Matt2:12\">Mathayo 1:18–2:12</a>; <a href=\"https://ref.ly/Luke2:1-Luke2:40\">Luka 2:1–20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001044",
+          "start_ref_usfm": "LUK 1:44",
+          "end_ref": "42001047",
+          "end_ref_usfm": "LUK 1:47"
+        },
+        {
+          "start_ref": "40001018",
+          "start_ref_usfm": "MAT 1:18",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        },
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002040",
+          "end_ref_usfm": "LUK 2:40"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

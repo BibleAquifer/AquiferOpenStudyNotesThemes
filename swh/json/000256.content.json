@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 765156,
+    "reference_id": 203299,
+    "title": "Usiku wa Mwisho wa Yesu",
+    "media_type": "Text",
+    "index_reference": "usiku wa mwisho wa yesu",
+    "language": "swh",
+    "content": "<p>Yesu alipokwenda Yerusalemu kusherehekea sikukuu ya Pasaka, alitambua kuwa huo ulikuwa usiku wake wa mwisho kabla ya kifo. Alifika Yerusalemu ili &quot;kuteseka mambo mengi na ... kuuawa&quot; (<a href=\"https://ref.ly/Mark8:31\">Marko 8:31</a>). Wanafunzi wake waliandaa chakula, lakini alihitaji kuwaandaa kwa yale yaliyokuwa yanakuja.</p><p>Yesu alisherehekea Pasaka pamoja na wanafunzi wake. Wakati wa mlo huu, aliwaonyesha maana ya kuwa mtumishi wa kweli kwa kuwaosha miguu (<a href=\"https://ref.ly/John13:1-John13:20\">Yohana 13:1–20</a>). Aliwapa mafundisho yake ya mwisho, akawaambia kuhusu kuja kwa Roho Mtakatifu, na kuwaombea wafuasi wake (<a href=\"https://ref.ly/John14:1-John17:26\">Yohana 14:1–17:26</a>). Yesu pia alianzisha agano jipya (<a href=\"https://ref.ly/Mark14:22-Mark14:24\">Marko 14:22–24</a>). Yesu alichukua nafasi ya mwana-kondoo wa Pasaka. Mwili na damu yake vilikuwa dhabihu inayowaokoa watu wa Mungu kutoka hukumu, kama vile mwana-kondoo katika Pasaka ya kwanza.</p><p>Wakati wa Pasaka, Mungu aliwaua wazaliwa wa kwanza wa kiume wa Wamisri lakini akawaokoa Waisraeli. Sasa, Yesu angekuwa dhabihu ili kuwaokoa watu wake. Manabii walitabiri hili lingetokea (kwa mfano, <a href=\"https://ref.ly/Zech12:10\">Zekaria 12:10</a>; <a href=\"https://ref.ly/Zech13:7\">13:7</a>). Yesu aliwaonya wanafunzi wake kwamba hili lingetokea hivi karibuni na kwamba wangeacha kumfuata (<a href=\"https://ref.ly/Mark14:27\">Marko 14:27</a>). Pia aliwaonya kwamba mmoja wao angemsaliti (<a href=\"https://ref.ly/Mark14:18\">Marko 14:18</a>).</p><p>Baada ya chakula, Yesu na wanafunzi wake walitembea hadi bustani ya Gethsemane kwenye Mlima wa Mizeituni. Hapo, Yesu alihisi huzuni kubwa alipokuwa akiomba, akikubali mapenzi ya Mungu (<a href=\"https://ref.ly/Mark14:26-Mark14:42\">Marko 14:26–42</a>).</p><p>Yuda alikuwa mwanafunzi aliyemsaliti Yesu. Alifika na askari waliomkamata Yesu (<a href=\"https://ref.ly/Mark14:43-Mark14:49\">Marko 14:43–49</a>). Wanafunzi wa Yesu walikimbia (<a href=\"https://ref.ly/Mark14:50-Mark14:52\">Marko 14:50–52</a>). Kisha wakampeleka Yesu kwenye nyumba ya kuhani mkuu kwa kesi usiku. Wakati huo, Petro alikana kumjua Yesu mara tatu (<a href=\"https://ref.ly/Mark14:53-Mark14:72\">Marko 14:53–72</a>).</p><p>Yesu tayari alijua kitakachotokea katika usiku wake wa mwisho, mema na mabaya. Yote yalitokea kulingana na mpango wa Mungu. Matukio haya yalikuwa muhimu kutimiza kile Maandiko yalivyotabiri na kwa yale yaliyofuata. Hii ilijumuisha kifo chake na ufufuo wake.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt26:17-Matt26:56\">Mathayo 26:17–56</a>; <a href=\"https://ref.ly/Mark14:12-Mark14:52\">Marko 14:12–52</a>; <a href=\"https://ref.ly/Luke22:7-Luke22:46\">Luka 22:7–46</a>; <a href=\"https://ref.ly/John13:1-John18:11\">Yohana 13:1–18:11</a>; <a href=\"https://ref.ly/1Cor11:23-1Cor11:34\">1 Wakorintho 11:23–34</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "38012010",
+          "start_ref_usfm": "ZEC 12:10",
+          "end_ref": "38012010",
+          "end_ref_usfm": "ZEC 12:10"
+        },
+        {
+          "start_ref": "38013007",
+          "start_ref_usfm": "ZEC 13:7",
+          "end_ref": "38013007",
+          "end_ref_usfm": "ZEC 13:7"
+        },
+        {
+          "start_ref": "41008031",
+          "start_ref_usfm": "MRK 8:31",
+          "end_ref": "41008031",
+          "end_ref_usfm": "MRK 8:31"
+        },
+        {
+          "start_ref": "41014018",
+          "start_ref_usfm": "MRK 14:18",
+          "end_ref": "41014018",
+          "end_ref_usfm": "MRK 14:18"
+        },
+        {
+          "start_ref": "41014027",
+          "start_ref_usfm": "MRK 14:27",
+          "end_ref": "41014027",
+          "end_ref_usfm": "MRK 14:27"
+        },
+        {
+          "start_ref": "41014022",
+          "start_ref_usfm": "MRK 14:22",
+          "end_ref": "41014024",
+          "end_ref_usfm": "MRK 14:24"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43013020",
+          "end_ref_usfm": "JHN 13:20"
+        },
+        {
+          "start_ref": "42022007",
+          "start_ref_usfm": "LUK 22:7",
+          "end_ref": "42022046",
+          "end_ref_usfm": "LUK 22:46"
+        },
+        {
+          "start_ref": "43014001",
+          "start_ref_usfm": "JHN 14:1",
+          "end_ref": "43017026",
+          "end_ref_usfm": "JHN 17:26"
+        },
+        {
+          "start_ref": "41014026",
+          "start_ref_usfm": "MRK 14:26",
+          "end_ref": "41014042",
+          "end_ref_usfm": "MRK 14:42"
+        },
+        {
+          "start_ref": "41014043",
+          "start_ref_usfm": "MRK 14:43",
+          "end_ref": "41014049",
+          "end_ref_usfm": "MRK 14:49"
+        },
+        {
+          "start_ref": "41014050",
+          "start_ref_usfm": "MRK 14:50",
+          "end_ref": "41014052",
+          "end_ref_usfm": "MRK 14:52"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014072",
+          "end_ref_usfm": "MRK 14:72"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026056",
+          "end_ref_usfm": "MAT 26:56"
+        },
+        {
+          "start_ref": "41014012",
+          "start_ref_usfm": "MRK 14:12",
+          "end_ref": "41014052",
+          "end_ref_usfm": "MRK 14:52"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43018011",
+          "end_ref_usfm": "JHN 18:11"
+        },
+        {
+          "start_ref": "46011023",
+          "start_ref_usfm": "1CO 11:23",
+          "end_ref": "46011034",
+          "end_ref_usfm": "1CO 11:34"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 765139,
+    "reference_id": 203282,
+    "title": "Baraka za Yesu",
+    "media_type": "Text",
+    "index_reference": "baraka za yesu",
+    "language": "swh",
+    "content": "<p>Heri ni baraka ambazo Yesu alitoa kwa wafuasi wake. Zinapata jina lao kutoka kwa neno <em>beati</em> (ambalo linamaanisha heri) katika tafsiri ya Biblia ya Kilatini (Vulgate). Hakuna neno moja linaloweza kuelezea kikamilifu Yesu anachomaanisha hapa. Anaelezea upendeleo maalum wa Mungu kwa watu wake, kimwili na kiroho, na matokeo ya kuishi katika upendeleo huo.</p><p>Heri zinaeleza jinsi mfuasi wa Yesu anavyopaswa kuishi na kuenenda. Yesu anawaalika watu kumfuata anaposhiriki ujumbe wa ufalme na Israeli (tazama pia <a href=\"https://ref.ly/Matt11:6\">Mathayo 11:6</a>; <a href=\"https://ref.ly/Matt13:16\">13:16</a>; <a href=\"https://ref.ly/Matt16:17\">16:17</a>; <a href=\"https://ref.ly/Matt24:46\">24:46</a>). Wale ambao Yesu anawabariki wameungama dhambi zao kwa kuitikia ujumbe wa ufalme (<a href=\"https://ref.ly/Matt4:17-Matt4:22\">Mathayo 4:17–22</a>). Heri zinahusiana na <a href=\"https://ref.ly/Isa61:1-Isa61:3\">Isaya 61:1–3.</a> Roho Mtakatifu hutoa nguvu na kuwaongoza watu kushiriki habari njema kuhusu Yesu. Roho Mtakatifu anawabariki maskini, wanyenyekevu, na wenye haki.</p><p>Kwenye Biblia, neno &quot;heri&quot; linamaanisha:</p><ul><li><p>Baraka hizi zinatoka kwa Mungu na zinaonyesha upendeleo wake (tazama <a href=\"https://ref.ly/Matt25:34\">Mathayo 25:34</a>).</p></li><li><p>Baraka zinaonyesha ahadi za Mungu zikitimia (tazama <a href=\"https://ref.ly/Matt11:6\">Mathayo 11:6</a>; <a href=\"https://ref.ly/Matt13:16\">13:16</a>; <a href=\"https://ref.ly/Matt16:17\">16:17</a>).</p></li><li><p>Baraka hubadilisha mambo kwa njia za kushangaza na kuboresha maisha ya wale wanaomwamini Mungu (tazama <a href=\"https://ref.ly/Luke1:1-Luke2:52\">Luka 1:1–2:52</a>; <a href=\"https://ref.ly/Luke6:20-Luke6:26\">6:20–26</a>).</p></li><li><p>Ili kupokea baraka hizi, watu wanahitaji kumtii Mungu (tazama <a href=\"https://ref.ly/Ps1:1\">Zaburi 1:1</a>, <a href=\"https://ref.ly/Ps1:3-Ps1:6\">3–6</a>; <a href=\"https://ref.ly/Ps106:3\">106:3</a>; <a href=\"https://ref.ly/Ps112:1-Ps112:2\">112:1–2</a>; <a href=\"https://ref.ly/Ps119:1-Ps119:2\">119:1–2</a>; <a href=\"https://ref.ly/Prov8:32\">Mithali 8:32</a>; <a href=\"https://ref.ly/Isa56:2\">Isaya 56:2</a>).</p></li></ul><p>Baraka hizi zilianza wakati Yesu Masihi alikuja duniani. Wakristo wanaweza kuwa na uhakika kwamba watafurahia baraka hizi kikamilifu na milele.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ps1:1-Ps1:3\">Zaburi 1:1–3</a>; <a href=\"https://ref.ly/Ps106:3\">106:3</a>; <a href=\"https://ref.ly/Ps112:1-Ps112:2\">112:1–2</a>; <a href=\"https://ref.ly/Ps119:1-Ps119:2\">119:1–2</a>; <a href=\"https://ref.ly/Isa56:1-Isa56:2\">Isaya 56:1–2</a>; <a href=\"https://ref.ly/Matt5:3-Matt5:12\">Mathayo 5:3–12</a>; <a href=\"https://ref.ly/Matt11:6\">11:6</a>; <a href=\"https://ref.ly/Matt13:16\">13:16</a>; <a href=\"https://ref.ly/Matt16:17\">16:17</a>; <a href=\"https://ref.ly/Matt24:46\">24:46</a>; <a href=\"https://ref.ly/Matt25:34\">25:34</a>; <a href=\"https://ref.ly/Luke6:20-Luke6:26\">Luka 6:20–26</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001001",
+          "end_ref_usfm": "PSA 1:1"
+        },
+        {
+          "start_ref": "19106003",
+          "start_ref_usfm": "PSA 106:3",
+          "end_ref": "19106003",
+          "end_ref_usfm": "PSA 106:3"
+        },
+        {
+          "start_ref": "20008032",
+          "start_ref_usfm": "PRO 8:32",
+          "end_ref": "20008032",
+          "end_ref_usfm": "PRO 8:32"
+        },
+        {
+          "start_ref": "23056002",
+          "start_ref_usfm": "ISA 56:2",
+          "end_ref": "23056002",
+          "end_ref_usfm": "ISA 56:2"
+        },
+        {
+          "start_ref": "40011006",
+          "start_ref_usfm": "MAT 11:6",
+          "end_ref": "40011006",
+          "end_ref_usfm": "MAT 11:6"
+        },
+        {
+          "start_ref": "40013016",
+          "start_ref_usfm": "MAT 13:16",
+          "end_ref": "40013016",
+          "end_ref_usfm": "MAT 13:16"
+        },
+        {
+          "start_ref": "40016017",
+          "start_ref_usfm": "MAT 16:17",
+          "end_ref": "40016017",
+          "end_ref_usfm": "MAT 16:17"
+        },
+        {
+          "start_ref": "40024046",
+          "start_ref_usfm": "MAT 24:46",
+          "end_ref": "40024046",
+          "end_ref_usfm": "MAT 24:46"
+        },
+        {
+          "start_ref": "40025034",
+          "start_ref_usfm": "MAT 25:34",
+          "end_ref": "40025034",
+          "end_ref_usfm": "MAT 25:34"
+        },
+        {
+          "start_ref": "42006020",
+          "start_ref_usfm": "LUK 6:20",
+          "end_ref": "42006026",
+          "end_ref_usfm": "LUK 6:26"
+        },
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42002052",
+          "end_ref_usfm": "LUK 2:52"
+        },
+        {
+          "start_ref": "40005003",
+          "start_ref_usfm": "MAT 5:3",
+          "end_ref": "40005012",
+          "end_ref_usfm": "MAT 5:12"
+        },
+        {
+          "start_ref": "23061001",
+          "start_ref_usfm": "ISA 61:1",
+          "end_ref": "23061003",
+          "end_ref_usfm": "ISA 61:3"
+        },
+        {
+          "start_ref": "23056001",
+          "start_ref_usfm": "ISA 56:1",
+          "end_ref": "23056002",
+          "end_ref_usfm": "ISA 56:2"
+        },
+        {
+          "start_ref": "19119001",
+          "start_ref_usfm": "PSA 119:1",
+          "end_ref": "19119002",
+          "end_ref_usfm": "PSA 119:2"
+        },
+        {
+          "start_ref": "40004017",
+          "start_ref_usfm": "MAT 4:17",
+          "end_ref": "40004022",
+          "end_ref_usfm": "MAT 4:22"
+        },
+        {
+          "start_ref": "19001003",
+          "start_ref_usfm": "PSA 1:3",
+          "end_ref": "19001006",
+          "end_ref_usfm": "PSA 1:6"
+        },
+        {
+          "start_ref": "19112001",
+          "start_ref_usfm": "PSA 112:1",
+          "end_ref": "19112002",
+          "end_ref_usfm": "PSA 112:2"
+        },
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001003",
+          "end_ref_usfm": "PSA 1:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

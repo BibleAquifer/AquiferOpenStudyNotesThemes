@@ -1,0 +1,226 @@
+[
+  {
+    "content_id": 765129,
+    "reference_id": 203272,
+    "title": "Utawala na Nguvu ya Mungu Juu ya Mataifa Yote",
+    "media_type": "Text",
+    "index_reference": "utawala na nguvu ya mungu juu ya mataifa yote",
+    "language": "swh",
+    "content": "<p>Katika nyakati za kale, watu wengi walidhani kila taifa lilikuwa na Mungu wake au miungu yake. Kwa mfano, mfalme wa Aramu alidhani miungu ya Israeli ilikuwa na nguvu tu milimani (<a href=\"https://ref.ly/1Kgs20:23\">1 Wafalme 20:23</a>). Wakati hakimu Yeftha alipozungumzia mungu wa uongo Kemoshi akitoa ardhi kwa Waamoni, alikuwa akionyesha bado alifikiri kama watu waliokuwa wakiabudu miungu mingi (<a href=\"https://ref.ly/Judg11:24\">Waamuzi 11:24</a>).</p><p>Kinyume chake, nabii Amosi alijua kwamba ni Mungu pekee aliyewaleta Wafilisti kutoka Krete na Waaramu kutoka Kiri (<a href=\"https://ref.ly/Amos9:7\">Amosi 9:7</a>). Mungu aliumba ulimwengu wote, si Israeli pekee (<a href=\"https://ref.ly/Amos4:13\">4:13</a>; <a href=\"https://ref.ly/Amos5:8\">5:8</a>). Kwa hivyo, alikuwa na haki ya kudai kwamba mataifa yatende kwa haki na huruma (<a href=\"https://ref.ly/Amos1:3-Amos1:2\">1:3–2:3</a>).</p><p>Kulikuwa na imani potofu ya kawaida miongoni mwa watu wa Yuda na Israeli kwamba licha ya dhambi zao, Mungu hatimaye angewaunga mkono kwa sababu ya agano lake nao (tazama <a href=\"https://ref.ly/Jer7:4\">Yeremia 7:4</a>; <a href=\"https://ref.ly/Amos3:1-Amos3:2\">Amosi 3:1–2</a>; <a href=\"https://ref.ly/Amos9:10\">9:10</a>). Walikosea kuamini kwamba &quot;Siku ya Bwana&quot; ilimaanisha uokoaji wa moja kwa moja kwao na maangamizi kwa maadui zao. Amosi alikabiliana moja kwa moja na hisia hii potofu ya upendeleo (<a href=\"https://ref.ly/Amos9:7\">9:7</a>; tazama pia <a href=\"https://ref.ly/Amos5:18-Amos5:20\">5:18–20</a>). Siku ya Bwana haingesamehe dhambi za Israeli. Badala yake, Mungu angeitumia kuwaadhibu.</p><p>Nafasi ya kipekee ya Israeli kati ya mataifa iliwapa jukumu kubwa zaidi. Wakati mataifa ya karibu yalipata adhabu kwa dhambi kali, Mungu aliadhibu Israeli kwa dhambi zao zote (<a href=\"https://ref.ly/Amos3:2\">Amosi 3:2</a>). Agano Jipya linapanua wazo hili: &quot;Kila mtu ambaye amepewa mengi&quot; ana jukumu kubwa zaidi (<a href=\"https://ref.ly/Luke12:48\">Luka 12:48</a>; <a href=\"https://ref.ly/Jas3:1\">Yakobo 3:1</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod15:18\">Kutoka 15:18</a>; <a href=\"https://ref.ly/Deut32:8\">Kumbukumbu la Torati 32:8</a>; <a href=\"https://ref.ly/1Chr29:11-1Chr29:12\">1 Mambo ya Nyakati 29:11–12</a>; <a href=\"https://ref.ly/2Chr20:6\">2 Mambo ya Nyakati 20:6</a>; <a href=\"https://ref.ly/Ps2:1-Ps2:12\">Zaburi 2:1–12</a>; <a href=\"https://ref.ly/Ps7:6-Ps7:8\">7:6–8</a>; <a href=\"https://ref.ly/Ps10:16\">10:16</a>; <a href=\"https://ref.ly/Ps22:28\">22:28</a>; <a href=\"https://ref.ly/Ps47:2\">47:2</a>; <a href=\"https://ref.ly/Ps83:18\">83:18</a>; <a href=\"https://ref.ly/Ps93:1-Ps93:5\">93:1–5</a>; <a href=\"https://ref.ly/Ps103:19\">103:19</a>; <a href=\"https://ref.ly/Dan2:20-Dan2:21\">Danieli 2:20–21</a>, <a href=\"https://ref.ly/Dan2:47\">47</a>; <a href=\"https://ref.ly/Dan4:34-Dan4:37\">4:34–37</a>; <a href=\"https://ref.ly/Amos9:7\">Amosi 9:7</a>; <a href=\"https://ref.ly/Matt28:18-Matt28:20\">Mathayo 28:18–20</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:26\">Matendo 17:24–26</a>; <a href=\"https://ref.ly/1Tim1:17\">1 Timotheo 1:17</a>; <a href=\"https://ref.ly/1Tim6:15\">6:15</a>; <a href=\"https://ref.ly/Rev15:3-Rev15:4\">Ufunuo 15:3–4</a>; <a href=\"https://ref.ly/Rev17:14\">17:14</a>; <a href=\"https://ref.ly/Rev19:16\">19:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02015018",
+          "start_ref_usfm": "EXO 15:18",
+          "end_ref": "02015018",
+          "end_ref_usfm": "EXO 15:18"
+        },
+        {
+          "start_ref": "05032008",
+          "start_ref_usfm": "DEU 32:8",
+          "end_ref": "05032008",
+          "end_ref_usfm": "DEU 32:8"
+        },
+        {
+          "start_ref": "07011024",
+          "start_ref_usfm": "JDG 11:24",
+          "end_ref": "07011024",
+          "end_ref_usfm": "JDG 11:24"
+        },
+        {
+          "start_ref": "11020023",
+          "start_ref_usfm": "1KI 20:23",
+          "end_ref": "11020023",
+          "end_ref_usfm": "1KI 20:23"
+        },
+        {
+          "start_ref": "14020006",
+          "start_ref_usfm": "2CH 20:6",
+          "end_ref": "14020006",
+          "end_ref_usfm": "2CH 20:6"
+        },
+        {
+          "start_ref": "19010016",
+          "start_ref_usfm": "PSA 10:16",
+          "end_ref": "19010016",
+          "end_ref_usfm": "PSA 10:16"
+        },
+        {
+          "start_ref": "19022028",
+          "start_ref_usfm": "PSA 22:28",
+          "end_ref": "19022028",
+          "end_ref_usfm": "PSA 22:28"
+        },
+        {
+          "start_ref": "19047002",
+          "start_ref_usfm": "PSA 47:2",
+          "end_ref": "19047002",
+          "end_ref_usfm": "PSA 47:2"
+        },
+        {
+          "start_ref": "19083018",
+          "start_ref_usfm": "PSA 83:18",
+          "end_ref": "19083018",
+          "end_ref_usfm": "PSA 83:18"
+        },
+        {
+          "start_ref": "19103019",
+          "start_ref_usfm": "PSA 103:19",
+          "end_ref": "19103019",
+          "end_ref_usfm": "PSA 103:19"
+        },
+        {
+          "start_ref": "24007004",
+          "start_ref_usfm": "JER 7:4",
+          "end_ref": "24007004",
+          "end_ref_usfm": "JER 7:4"
+        },
+        {
+          "start_ref": "27002047",
+          "start_ref_usfm": "DAN 2:47",
+          "end_ref": "27002047",
+          "end_ref_usfm": "DAN 2:47"
+        },
+        {
+          "start_ref": "30003002",
+          "start_ref_usfm": "AMO 3:2",
+          "end_ref": "30003002",
+          "end_ref_usfm": "AMO 3:2"
+        },
+        {
+          "start_ref": "30004013",
+          "start_ref_usfm": "AMO 4:13",
+          "end_ref": "30004013",
+          "end_ref_usfm": "AMO 4:13"
+        },
+        {
+          "start_ref": "30005008",
+          "start_ref_usfm": "AMO 5:8",
+          "end_ref": "30005008",
+          "end_ref_usfm": "AMO 5:8"
+        },
+        {
+          "start_ref": "30009007",
+          "start_ref_usfm": "AMO 9:7",
+          "end_ref": "30009007",
+          "end_ref_usfm": "AMO 9:7"
+        },
+        {
+          "start_ref": "30009010",
+          "start_ref_usfm": "AMO 9:10",
+          "end_ref": "30009010",
+          "end_ref_usfm": "AMO 9:10"
+        },
+        {
+          "start_ref": "42012048",
+          "start_ref_usfm": "LUK 12:48",
+          "end_ref": "42012048",
+          "end_ref_usfm": "LUK 12:48"
+        },
+        {
+          "start_ref": "54001017",
+          "start_ref_usfm": "1TI 1:17",
+          "end_ref": "54001017",
+          "end_ref_usfm": "1TI 1:17"
+        },
+        {
+          "start_ref": "54006015",
+          "start_ref_usfm": "1TI 6:15",
+          "end_ref": "54006015",
+          "end_ref_usfm": "1TI 6:15"
+        },
+        {
+          "start_ref": "59003001",
+          "start_ref_usfm": "JAS 3:1",
+          "end_ref": "59003001",
+          "end_ref_usfm": "JAS 3:1"
+        },
+        {
+          "start_ref": "66017014",
+          "start_ref_usfm": "REV 17:14",
+          "end_ref": "66017014",
+          "end_ref_usfm": "REV 17:14"
+        },
+        {
+          "start_ref": "66019016",
+          "start_ref_usfm": "REV 19:16",
+          "end_ref": "66019016",
+          "end_ref_usfm": "REV 19:16"
+        },
+        {
+          "start_ref": "13029011",
+          "start_ref_usfm": "1CH 29:11",
+          "end_ref": "13029012",
+          "end_ref_usfm": "1CH 29:12"
+        },
+        {
+          "start_ref": "19002001",
+          "start_ref_usfm": "PSA 2:1",
+          "end_ref": "19002012",
+          "end_ref_usfm": "PSA 2:12"
+        },
+        {
+          "start_ref": "30005018",
+          "start_ref_usfm": "AMO 5:18",
+          "end_ref": "30005020",
+          "end_ref_usfm": "AMO 5:20"
+        },
+        {
+          "start_ref": "66015003",
+          "start_ref_usfm": "REV 15:3",
+          "end_ref": "66015004",
+          "end_ref_usfm": "REV 15:4"
+        },
+        {
+          "start_ref": "40028018",
+          "start_ref_usfm": "MAT 28:18",
+          "end_ref": "40028020",
+          "end_ref_usfm": "MAT 28:20"
+        },
+        {
+          "start_ref": "19093001",
+          "start_ref_usfm": "PSA 93:1",
+          "end_ref": "19093005",
+          "end_ref_usfm": "PSA 93:5"
+        },
+        {
+          "start_ref": "30003001",
+          "start_ref_usfm": "AMO 3:1",
+          "end_ref": "30003002",
+          "end_ref_usfm": "AMO 3:2"
+        },
+        {
+          "start_ref": "27004034",
+          "start_ref_usfm": "DAN 4:34",
+          "end_ref": "27004037",
+          "end_ref_usfm": "DAN 4:37"
+        },
+        {
+          "start_ref": "30001002",
+          "start_ref_usfm": "AMO 1:2",
+          "end_ref": "30001003",
+          "end_ref_usfm": "AMO 1:3"
+        },
+        {
+          "start_ref": "19007006",
+          "start_ref_usfm": "PSA 7:6",
+          "end_ref": "19007008",
+          "end_ref_usfm": "PSA 7:8"
+        },
+        {
+          "start_ref": "27002020",
+          "start_ref_usfm": "DAN 2:20",
+          "end_ref": "27002021",
+          "end_ref_usfm": "DAN 2:21"
+        },
+        {
+          "start_ref": "44017024",
+          "start_ref_usfm": "ACT 17:24",
+          "end_ref": "44017026",
+          "end_ref_usfm": "ACT 17:26"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

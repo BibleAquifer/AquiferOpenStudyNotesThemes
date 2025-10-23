@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 765057,
+    "reference_id": 203200,
+    "title": "Kuelewa Ayubu",
+    "media_type": "Text",
+    "index_reference": "kuelewa ayubu",
+    "language": "swh",
+    "content": "<p>Hadithi ya Ayubu inaonyesha mvutano kati ya mambo mazuri na mabaya ya tabia yake. Mwanzo wa kitabu kinamtambua Ayubu waziwazi (<a href=\"https://ref.ly/Job1:1\">Ayubu 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>). Hata hivyo, baadaye Mungu anamhoji Ayubu moja kwa moja: “Ni nani huyu anayeficha shauri Langu kwa maneno yasiyo na maarifa?” (<a href=\"https://ref.ly/Job38:2\">38:2</a>). “Je, kweli utaondoa haki Yangu? Je, utanishutumu ili kujihalalisha mwenyewe?” (<a href=\"https://ref.ly/Job40:8\">40:8</a>).</p><p>Wafasiri wengine wanaamini Ayubu anazungumza sana na anachanganya kazi ya Mungu na ya Shetani. Wafasiri wa kisasa wengine wanamlaumu Ayubu kwa mateso yake, wakikubaliana na marafiki zake. Wengine wanabishana kama Elifazi na Elihu (<a href=\"https://ref.ly/Job5:17-Job5:27\">5:17–27</a>; <a href=\"https://ref.ly/Job33:15-Job33:33\">33:15–33</a>; <a href=\"https://ref.ly/Job36:7-Job36:17\">36:7–17</a>). Wanasema kwamba mateso ya Ayubu ni nidhamu ya upendo kutoka kwa Mungu. Hata Mwaminifu wa Mungu hukutana na nidhamu kama hiyo (<a href=\"https://ref.ly/Heb12:6-Heb12:12\">Waebrania 12:6–12</a>; tazama <a href=\"https://ref.ly/Prov3:11-Prov3:12\">Mithali 3:11–12</a>). Hata hivyo, wazo hili linapingana na kauli ya mwanzo ya kitabu hiki.</p><p>Ayubu aliteseka kwa sababu Mungu alitaka kumwonyesha Shetani kwamba Ayubu alikuwa mwaminifu na mkweli. Mungu daima alikuwa na mtazamo mzuri kuhusu maisha ya Ayubu (<a href=\"https://ref.ly/Job1:1\">Ayubu 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>; <a href=\"https://ref.ly/Job42:7\">42:7</a>). Wazo hili linaendelea katika Agano Jipya, ambapo Ayubu ni mfano wa uvumilivu ambao tunapaswa kufuata (<a href=\"https://ref.ly/Jas5:11\">Yakobo 5:11</a>).</p><p>Rekodi za Ayubu ni za kawaida. Yeye habaki thabiti. Majaribu yake yalimwathiri. Pia, hakabiliani kwa ujasiri na matatizo yake kana kwamba hayawezi kumwathiri. Anajibu kama binadamu yeyote angefanya.</p><p>Ayubu anapandwa na hasira, analalamika mara kwa mara, na anabadilika kati ya kujiamini na kukata tamaa. Hata hivyo, kamwe hapotezi matumaini. Hamlaani Mungu wala kukiri uongo wa hatia, akijaribu kumshawishi Mungu kuondoa mateso yake. Ingawa Ayubu hawezi kuelewa hali yake, anajua jibu lake litatoka kwa Mungu (<a href=\"https://ref.ly/Job19:25-Job19:27\">Ayubu 19:25–27</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Job1:1\">Ayubu 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>; <a href=\"https://ref.ly/Job5:17-Job5:18\">5:17–18</a>; <a href=\"https://ref.ly/Job19:25-Job19:27\">19:25–27</a>; <a href=\"https://ref.ly/Job33:15-Job33:28\">33:15–28</a>; <a href=\"https://ref.ly/Job36:8-Job36:15\">36:8–15</a>; <a href=\"https://ref.ly/Job38:2\">38:2</a>; <a href=\"https://ref.ly/Job40:8\">40:8</a>; <a href=\"https://ref.ly/Job42:7\">42:7</a>; <a href=\"https://ref.ly/Prov3:11\">Mithali 3:11</a>; <a href=\"https://ref.ly/Heb12:7\">Waebrania 12:7</a>, <a href=\"https://ref.ly/Heb12:10\">10</a>; <a href=\"https://ref.ly/Jas5:11\">Yakobo 5:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        },
+        {
+          "start_ref": "18001008",
+          "start_ref_usfm": "JOB 1:8",
+          "end_ref": "18001008",
+          "end_ref_usfm": "JOB 1:8"
+        },
+        {
+          "start_ref": "18002003",
+          "start_ref_usfm": "JOB 2:3",
+          "end_ref": "18002003",
+          "end_ref_usfm": "JOB 2:3"
+        },
+        {
+          "start_ref": "18038002",
+          "start_ref_usfm": "JOB 38:2",
+          "end_ref": "18038002",
+          "end_ref_usfm": "JOB 38:2"
+        },
+        {
+          "start_ref": "18040008",
+          "start_ref_usfm": "JOB 40:8",
+          "end_ref": "18040008",
+          "end_ref_usfm": "JOB 40:8"
+        },
+        {
+          "start_ref": "18042007",
+          "start_ref_usfm": "JOB 42:7",
+          "end_ref": "18042007",
+          "end_ref_usfm": "JOB 42:7"
+        },
+        {
+          "start_ref": "20003011",
+          "start_ref_usfm": "PRO 3:11",
+          "end_ref": "20003011",
+          "end_ref_usfm": "PRO 3:11"
+        },
+        {
+          "start_ref": "58012007",
+          "start_ref_usfm": "HEB 12:7",
+          "end_ref": "58012007",
+          "end_ref_usfm": "HEB 12:7"
+        },
+        {
+          "start_ref": "58012010",
+          "start_ref_usfm": "HEB 12:10",
+          "end_ref": "58012010",
+          "end_ref_usfm": "HEB 12:10"
+        },
+        {
+          "start_ref": "59005011",
+          "start_ref_usfm": "JAS 5:11",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "18019025",
+          "start_ref_usfm": "JOB 19:25",
+          "end_ref": "18019027",
+          "end_ref_usfm": "JOB 19:27"
+        },
+        {
+          "start_ref": "20003011",
+          "start_ref_usfm": "PRO 3:11",
+          "end_ref": "20003012",
+          "end_ref_usfm": "PRO 3:12"
+        },
+        {
+          "start_ref": "18005017",
+          "start_ref_usfm": "JOB 5:17",
+          "end_ref": "18005027",
+          "end_ref_usfm": "JOB 5:27"
+        },
+        {
+          "start_ref": "18033015",
+          "start_ref_usfm": "JOB 33:15",
+          "end_ref": "18033033",
+          "end_ref_usfm": "JOB 33:33"
+        },
+        {
+          "start_ref": "18036007",
+          "start_ref_usfm": "JOB 36:7",
+          "end_ref": "18036017",
+          "end_ref_usfm": "JOB 36:17"
+        },
+        {
+          "start_ref": "58012006",
+          "start_ref_usfm": "HEB 12:6",
+          "end_ref": "58012012",
+          "end_ref_usfm": "HEB 12:12"
+        },
+        {
+          "start_ref": "18005017",
+          "start_ref_usfm": "JOB 5:17",
+          "end_ref": "18005018",
+          "end_ref_usfm": "JOB 5:18"
+        },
+        {
+          "start_ref": "18033015",
+          "start_ref_usfm": "JOB 33:15",
+          "end_ref": "18033028",
+          "end_ref_usfm": "JOB 33:28"
+        },
+        {
+          "start_ref": "18036008",
+          "start_ref_usfm": "JOB 36:8",
+          "end_ref": "18036015",
+          "end_ref_usfm": "JOB 36:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

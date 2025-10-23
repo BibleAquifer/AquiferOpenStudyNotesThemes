@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 765223,
+    "reference_id": 203366,
+    "title": "Kazi na Ufadhili",
+    "media_type": "Text",
+    "index_reference": "kazi na ufadhili",
+    "language": "swh",
+    "content": "<p>Paulo alipotembelea mji wa Thesalonike kwa mara ya kwanza, aliwafundisha waumini wapya jinsi ya kupata pesa zao wenyewe kupitia kazi badala ya kutegemea msaada wa watu wengine.</p><p>Baadhi ya Wathesalonike walikataa kufanya kazi. Paulo aliwaandikia Wakristo hawa wavivu katika barua yake ya kwanza, lakini hawakubadilika (<a href=\"https://ref.ly/1Thess4:11-1Thess4:12\">1 Wathesalonike 4:11–12</a>; <a href=\"https://ref.ly/1Thess5:14\">5:14</a>). Kwa nini walikataa kufanya kazi? Inawezekana walitarajia Bwana kurudi hivi karibuni, hivyo wakaacha kufanya kazi. Hata hivyo, mafundisho ya Paulo kuhusu kurudi kwa Bwana hayapingani kabisa na maagizo yake ya msingi juu ya umuhimu wa kazi (<a href=\"https://ref.ly/2Thess3:6\">2 Wathesalonike 3:6</a>, <a href=\"https://ref.ly/2Thess3:10\">10</a>).</p><p>Wakristo hawa wavivu huenda walikuwa wateja wa wadhamini wenye ushawishi. Udhamini ulikuwa sehemu muhimu ya uchumi wa Kirumi. Wadhamini matajiri mara nyingi waliwasaidia wateja wao kwa kutoa chakula, pesa, au uwakilishi wa umma mahakamani. Kuwa na wateja wengi kuliongeza heshima ya mdhamini. Hata hivyo, kuwa mteja kulikuwa na majukumu ya kijamii ambayo Paulo alitaka Wakristo wa Thesalonike waepuke. Hii ilikuwa muhimu hasa kwa kuwa wadhamini wao huenda hawakuwa Wakristo.</p><p>Paulo aliweka mfano kwa Wathesalonike. Alipokuwa nao, alijitegemea kifedha (<a href=\"https://ref.ly/1Thess2:9\">1 Wathesalonike 2:9</a>; <a href=\"https://ref.ly/2Thess3:7-2Thess3:9\">2 Wathesalonike 3:7–9</a>). Paulo alifuata mafundisho ya Yesu kwamba, “mfanyakazi anastahili riziki zake” (tazama <a href=\"https://ref.ly/Matt10:10\">Mathayo 10:10</a>; <a href=\"https://ref.ly/1Cor9:13-1Cor9:16\">1 Wakorintho 9:13–16</a>). Hata hivyo, hakukubali msaada kutoka kwa Wathesalonike (ingawa alikubali sadaka kutoka kwa Wafilipi, <a href=\"https://ref.ly/Phil4:15-Phil4:16\">Wafilipi 4:15–16</a>). Paulo alitaka Wathesalonike wajue kwamba hakuja kwao akitumia &quot;maneno ya kujipendekeza&quot; ili kupata pesa (<a href=\"https://ref.ly/1Thess2:5\">1 Wathesalonike 2:5</a>, <a href=\"https://ref.ly/1Thess2:9\">9</a>). Alitaka wajifunze kutoka kwa mfano wake jinsi wanavyopaswa kuishi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt10:10\">Mathayo 10:10</a>; <a href=\"https://ref.ly/1Cor9:13-1Cor9:16\">1 Wakorintho 9:13–16</a>; <a href=\"https://ref.ly/Phil4:15-Phil4:16\">Wafilipi 4:15–16</a>; <a href=\"https://ref.ly/1Thess2:5\">1 Wathesalonike 2:5</a>, <a href=\"https://ref.ly/1Thess2:9\">9</a>; <a href=\"https://ref.ly/1Thess4:11-1Thess4:12\">4:11–12</a>; <a href=\"https://ref.ly/1Thess5:14\">5:14</a>; <a href=\"https://ref.ly/2Thess3:6-2Thess3:10\">2 Wathesalonike 3:6–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010010",
+          "start_ref_usfm": "MAT 10:10",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        },
+        {
+          "start_ref": "52002005",
+          "start_ref_usfm": "1TH 2:5",
+          "end_ref": "52002005",
+          "end_ref_usfm": "1TH 2:5"
+        },
+        {
+          "start_ref": "52002009",
+          "start_ref_usfm": "1TH 2:9",
+          "end_ref": "52002009",
+          "end_ref_usfm": "1TH 2:9"
+        },
+        {
+          "start_ref": "52005014",
+          "start_ref_usfm": "1TH 5:14",
+          "end_ref": "52005014",
+          "end_ref_usfm": "1TH 5:14"
+        },
+        {
+          "start_ref": "53003006",
+          "start_ref_usfm": "2TH 3:6",
+          "end_ref": "53003006",
+          "end_ref_usfm": "2TH 3:6"
+        },
+        {
+          "start_ref": "53003010",
+          "start_ref_usfm": "2TH 3:10",
+          "end_ref": "53003010",
+          "end_ref_usfm": "2TH 3:10"
+        },
+        {
+          "start_ref": "52004011",
+          "start_ref_usfm": "1TH 4:11",
+          "end_ref": "52004012",
+          "end_ref_usfm": "1TH 4:12"
+        },
+        {
+          "start_ref": "53003007",
+          "start_ref_usfm": "2TH 3:7",
+          "end_ref": "53003009",
+          "end_ref_usfm": "2TH 3:9"
+        },
+        {
+          "start_ref": "46009013",
+          "start_ref_usfm": "1CO 9:13",
+          "end_ref": "46009016",
+          "end_ref_usfm": "1CO 9:16"
+        },
+        {
+          "start_ref": "50004015",
+          "start_ref_usfm": "PHP 4:15",
+          "end_ref": "50004016",
+          "end_ref_usfm": "PHP 4:16"
+        },
+        {
+          "start_ref": "53003006",
+          "start_ref_usfm": "2TH 3:6",
+          "end_ref": "53003010",
+          "end_ref_usfm": "2TH 3:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

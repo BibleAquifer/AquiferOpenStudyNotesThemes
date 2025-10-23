@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 765035,
+    "reference_id": 203178,
+    "title": "Makusudi ya Mungu Yasiyochunguzika Katika Historia",
+    "media_type": "Text",
+    "index_reference": "makusudi ya mungu yasiyochunguzika katika historia",
+    "language": "swh",
+    "content": "<p>Mungu anaelekeza watu na matukio ili kutimiza makusudi yake katika historia. Hahitaji kujieleza, lakini daima ana kusudi. Anaongoza watu binafsi, mataifa, na matukio ili kutimiza mapenzi yake. Mtazamo huu wa historia unabaki thabiti katika historia ya kibiblia. Mungu hutumia matendo ya binadamu kufanikisha matokeo ambayo ni mipango yake pekee inayoweza kueleza.</p><p>Mwandishi wa kitabu cha Mambo ya Nyakati anaeleza mgawanyiko wa ufalme wa Israeli kwa njia rahisi. Rehoboamu na wafuasi wake “walisikiliza maneno ya BWANA na kurudi nyuma wasiende dhidi ya Yeroboamu” (<a href=\"https://ref.ly/2Chr11:4\">2 Mambo ya Nyakati 11:4</a>). Sababu ya mgawanyiko ilikuwa ni jibu lisilo la busara la Rehoboamu kwa ombi la watu. Hii ilielezwa mapema: “Mabadiliko haya ya matukio yalitoka kwa Mungu, ili Bwana atimize neno alilosema kupitia Ahiya Mshiloni kwa Yeroboamu mwana wa Nebati” (<a href=\"https://ref.ly/2Chr10:15\">10:15</a>). Rehoboamu angeweza kuwashinda waasi kwa urahisi, lakini mapenzi ya Bwana yalimzuia.</p><p>Kutii mapenzi ya Mungu kulileta matokeo mazuri kwa Rehoboamu. Alitia nguvu miji, akaweka viongozi wa kijeshi, na kuhifadhi vifaa na chakula. Raia waaminifu walihamia katika eneo lake, na alikuwa na familia kubwa. Mapenzi ya Mungu yalionekana wazi, na Rehoboamu alifaidi sana. Hata hivyo, mwandishi wa Mambo ya Nyakati hakuweza kueleza makusudi ya Mungu. Wasomaji wa leo bado wanajiuliza kwa nini Mungu aliruhusu ufalme kubaki umegawanyika.</p><p>Nabii Isaya anafunua siri ya njia za Mungu: “Kwa maana mawazo yangu si mawazo yenu, wala njia zenu si njia zangu,” asema BWANA. “Kwa maana kama vile mbingu zilivyo juu kuliko dunia, ndivyo njia zangu zilivyo juu kuliko njia zenu na mawazo yangu kuliko mawazo yenu” (<a href=\"https://ref.ly/Isa55:8-Isa55:9\">Isaya 55:8–9</a>). Wale wanaomheshimu Mungu hujifunza kutotegemea ufahamu wa kibinadamu. Badala yake, wanatii neno la Mungu, hata linapopingana na maadili ya kidunia.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Kgs8:56-1Kgs8:61\">1 Wafalme 8:56–61</a>; <a href=\"https://ref.ly/2Chr10:1-2Chr11:4\">2 Mambo ya Nyakati 10:1–11:4</a>; <a href=\"https://ref.ly/Job42:1-Job42:6\">Ayubu 42:1–6</a>; <a href=\"https://ref.ly/Ps115:1-Ps115:3\">Zaburi 115:1–3</a>; <a href=\"https://ref.ly/Isa40:9-Isa40:31\">Isaya 40:9–31</a>; <a href=\"https://ref.ly/Isa42:1-Isa42:17\">42:1–17</a>; <a href=\"https://ref.ly/Isa55:8-Isa55:13\">55:8–13</a>; <a href=\"https://ref.ly/Rom8:26-Rom8:30\">Warumi 8:26–30</a>; <a href=\"https://ref.ly/Eph1:9-Eph1:14\">Waefeso 1:9–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14010015",
+          "start_ref_usfm": "2CH 10:15",
+          "end_ref": "14010015",
+          "end_ref_usfm": "2CH 10:15"
+        },
+        {
+          "start_ref": "14011004",
+          "start_ref_usfm": "2CH 11:4",
+          "end_ref": "14011004",
+          "end_ref_usfm": "2CH 11:4"
+        },
+        {
+          "start_ref": "18042001",
+          "start_ref_usfm": "JOB 42:1",
+          "end_ref": "18042006",
+          "end_ref_usfm": "JOB 42:6"
+        },
+        {
+          "start_ref": "23055008",
+          "start_ref_usfm": "ISA 55:8",
+          "end_ref": "23055009",
+          "end_ref_usfm": "ISA 55:9"
+        },
+        {
+          "start_ref": "19115001",
+          "start_ref_usfm": "PSA 115:1",
+          "end_ref": "19115003",
+          "end_ref_usfm": "PSA 115:3"
+        },
+        {
+          "start_ref": "11008056",
+          "start_ref_usfm": "1KI 8:56",
+          "end_ref": "11008061",
+          "end_ref_usfm": "1KI 8:61"
+        },
+        {
+          "start_ref": "14010001",
+          "start_ref_usfm": "2CH 10:1",
+          "end_ref": "14011004",
+          "end_ref_usfm": "2CH 11:4"
+        },
+        {
+          "start_ref": "23040009",
+          "start_ref_usfm": "ISA 40:9",
+          "end_ref": "23040031",
+          "end_ref_usfm": "ISA 40:31"
+        },
+        {
+          "start_ref": "23042001",
+          "start_ref_usfm": "ISA 42:1",
+          "end_ref": "23042017",
+          "end_ref_usfm": "ISA 42:17"
+        },
+        {
+          "start_ref": "23055008",
+          "start_ref_usfm": "ISA 55:8",
+          "end_ref": "23055013",
+          "end_ref_usfm": "ISA 55:13"
+        },
+        {
+          "start_ref": "45008026",
+          "start_ref_usfm": "ROM 8:26",
+          "end_ref": "45008030",
+          "end_ref_usfm": "ROM 8:30"
+        },
+        {
+          "start_ref": "49001009",
+          "start_ref_usfm": "EPH 1:9",
+          "end_ref": "49001014",
+          "end_ref_usfm": "EPH 1:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

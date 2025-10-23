@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 765132,
+    "reference_id": 203275,
+    "title": "Upya wa Kiroho katika Manabii wa Mwisho",
+    "media_type": "Text",
+    "index_reference": "upya wa kiroho katika manabii wa mwisho",
+    "language": "swh",
+    "content": "<p>Nabii Hagai aliwaamuru wasikilizaji wake kufikiria jinsi kushindwa kuzingatia uhusiano wao na Mungu kulivyoathiri hali yao ya sasa (<a href=\"https://ref.ly/Hag1:5-Hag1:7\">Hagai 1:5–7</a>; <a href=\"https://ref.ly/Hag2:15-Hag2:18\">2:15–18</a>). Mungu alituma majanga ya asili kama onyo la kuhimiza toba (<a href=\"https://ref.ly/Hag2:17\">2:17</a>). Hagai alielewa kuwa upya wa kiroho ulipaswa kutokea sambamba na ujenzi upya wa hekalu (<a href=\"https://ref.ly/Hag1:12\">1:12</a>).</p><p>Mada ya upyaisho wa kiroho inaunganisha manabii Hagai, Zekaria, na Malaki. Wote walikuja baada ya uhamisho kwenda Babeli. Mungu aliwarudisha watu wake kwenye nchi yao, kama alivyoahidi kupitia manabii wa awali. Hata hivyo, watu walihitaji kuzingatia hali yao ya kiroho ili kuepuka matatizo zaidi. Hatari ya kutomtii Mungu wakati huu inaonyesha haja ya &quot;mtumishi&quot; wa Bwana kuja (tazama <a href=\"https://ref.ly/Hag2:23\">Hagai 2:23</a>).</p><p>Mtumishi huyu awali alihusishwa na Zerubabeli lakini baadaye alionekana kama Masihi (mteule wa Mungu). Mfalme-mchungaji mwenye haki alikuwa anakuja (<a href=\"https://ref.ly/Zech9:9\">Zakaria 9:9</a>; tazama pia <a href=\"https://ref.ly/Mal3:1\">Malaki 3:1</a>). Uwepo wa Mungu ungerudi kwa njia ya wazi. Mungu angerudisha uumbaji. Ibada ya Bwana ingekuwa ya ulimwengu mzima.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Deut30:2-Deut30:4\">Kumbukumbu la Torati 30:2–4</a>; <a href=\"https://ref.ly/Ps22:27\">Zaburi 22:27</a>; <a href=\"https://ref.ly/Isa11:9-Isa12:6\">Isaya 11:9–12:6</a>; <a href=\"https://ref.ly/Isa44:22\">44:22</a>, <a href=\"https://ref.ly/Isa44:26-Isa44:28\">26–28</a>; <a href=\"https://ref.ly/Isa61:6-Isa61:7\">61:6–7</a>; <a href=\"https://ref.ly/Jer24:4-Jer24:7\">Yeremia 24:4–7</a>; <a href=\"https://ref.ly/Amos4:6-Amos4:12\">Amosi 4:6–12</a>; <a href=\"https://ref.ly/Hag1:7-Hag1:15\">Hagai 1:7–15</a>; <a href=\"https://ref.ly/Zech9:9\">Zekaria 9:9</a>; <a href=\"https://ref.ly/Zech14:9\">14:9</a>; <a href=\"https://ref.ly/Mal3:1\">Malaki 3:1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19022027",
+          "start_ref_usfm": "PSA 22:27",
+          "end_ref": "19022027",
+          "end_ref_usfm": "PSA 22:27"
+        },
+        {
+          "start_ref": "23044022",
+          "start_ref_usfm": "ISA 44:22",
+          "end_ref": "23044022",
+          "end_ref_usfm": "ISA 44:22"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "37002017",
+          "start_ref_usfm": "HAG 2:17",
+          "end_ref": "37002017",
+          "end_ref_usfm": "HAG 2:17"
+        },
+        {
+          "start_ref": "37002023",
+          "start_ref_usfm": "HAG 2:23",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        },
+        {
+          "start_ref": "38009009",
+          "start_ref_usfm": "ZEC 9:9",
+          "end_ref": "38009009",
+          "end_ref_usfm": "ZEC 9:9"
+        },
+        {
+          "start_ref": "38014009",
+          "start_ref_usfm": "ZEC 14:9",
+          "end_ref": "38014009",
+          "end_ref_usfm": "ZEC 14:9"
+        },
+        {
+          "start_ref": "39003001",
+          "start_ref_usfm": "MAL 3:1",
+          "end_ref": "39003001",
+          "end_ref_usfm": "MAL 3:1"
+        },
+        {
+          "start_ref": "24024004",
+          "start_ref_usfm": "JER 24:4",
+          "end_ref": "24024007",
+          "end_ref_usfm": "JER 24:7"
+        },
+        {
+          "start_ref": "37001005",
+          "start_ref_usfm": "HAG 1:5",
+          "end_ref": "37001007",
+          "end_ref_usfm": "HAG 1:7"
+        },
+        {
+          "start_ref": "37002015",
+          "start_ref_usfm": "HAG 2:15",
+          "end_ref": "37002018",
+          "end_ref_usfm": "HAG 2:18"
+        },
+        {
+          "start_ref": "05030002",
+          "start_ref_usfm": "DEU 30:2",
+          "end_ref": "05030004",
+          "end_ref_usfm": "DEU 30:4"
+        },
+        {
+          "start_ref": "23011009",
+          "start_ref_usfm": "ISA 11:9",
+          "end_ref": "23012006",
+          "end_ref_usfm": "ISA 12:6"
+        },
+        {
+          "start_ref": "23044026",
+          "start_ref_usfm": "ISA 44:26",
+          "end_ref": "23044028",
+          "end_ref_usfm": "ISA 44:28"
+        },
+        {
+          "start_ref": "23061006",
+          "start_ref_usfm": "ISA 61:6",
+          "end_ref": "23061007",
+          "end_ref_usfm": "ISA 61:7"
+        },
+        {
+          "start_ref": "30004006",
+          "start_ref_usfm": "AMO 4:6",
+          "end_ref": "30004012",
+          "end_ref_usfm": "AMO 4:12"
+        },
+        {
+          "start_ref": "37001007",
+          "start_ref_usfm": "HAG 1:7",
+          "end_ref": "37001015",
+          "end_ref_usfm": "HAG 1:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 765009,
+    "reference_id": 203152,
+    "title": "Ufalme",
+    "media_type": "Text",
+    "index_reference": "ufalme",
+    "language": "swh",
+    "content": "<p>Waisraeli walitaka mfalme &quot;kama mataifa mengine yote.&quot; Kufikia wakati wa Sauli na Daudi, ufalme katika Mashariki ya Karibu ya kale ulikuwa na karibu miaka elfu mbili ya historia. Hii ilikuwa kweli hasa katika milki za Misri na Babeli. Hata mataifa madogo kama Filistia, Moabu, na Edomu yalikuwa na wafalme wenye serikali na majeshi ya kudumu. Watu waliamini kwamba wafalme walichaguliwa na miungu kutawala mambo ya kibinadamu. Wafalme walitawala ama kwa niaba ya miungu au kama miungu wenyewe.</p><p>Waisraeli walitaka kuwa kama mataifa mengine na kupuuza athari za muda mrefu za kuwa na mfalme, licha ya maonyo ya nabii Samweli (<a href=\"https://ref.ly/1Sam8:10-1Sam8:18\">1 Samweli 8:10–18</a>). Kwa zaidi ya miaka mia kadhaa, kuwa na wafalme kulithibitisha kwamba Samweli alikuwa sahihi. Wafalme wabaya waliwaongoza watu waliochaguliwa na Mungu kwenye udhibiti wa kigeni na uhamisho. Hata hivyo, Mungu alitumia ufalme kutimiza mipango yake, kwani alitoa Masihi (mteule wa Mungu) kupitia Daudi na ukoo wake, na kuunda ufalme wa milele (tazama <a href=\"https://ref.ly/2Sam7:8-2Sam7:16\">2 Samweli 7:8–16</a>; <a href=\"https://ref.ly/Matt21:1-Matt21:11\">Mathayo 21:1–11</a>; <a href=\"https://ref.ly/Rev5:5\">Ufunuo 5:5</a>; <a href=\"https://ref.ly/Rev11:15\">11:15</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Deut17:14-Deut17:20\">Kumbukumbu la Torati 17:14–20</a>; <a href=\"https://ref.ly/Deut33:5\">33:5</a>; <a href=\"https://ref.ly/Judg17:6\">Waamuzi 17:6</a>; <a href=\"https://ref.ly/Judg21:25\">21:25</a>; <a href=\"https://ref.ly/1Sam8:5-1Sam8:22\">1 Samweli 8:5–22</a>; <a href=\"https://ref.ly/1Sam10:1\">10:1</a>, <a href=\"https://ref.ly/1Sam10:24-1Sam10:25\">24–25</a>; <a href=\"https://ref.ly/2Sam7:8-2Sam7:16\">2 Samweli 7:8–16</a>; <a href=\"https://ref.ly/Ps89:35-Ps89:37\">Zaburi 89:35–37</a>; <a href=\"https://ref.ly/Eccl8:2-Eccl8:5\">Mhubiri 8:2–5</a>; <a href=\"https://ref.ly/Isa33:22\">Isaya 33:22</a>; <a href=\"https://ref.ly/Matt21:1-Matt21:11\">Mathayo 21:1–11</a>; <a href=\"https://ref.ly/Matt22:42-Matt22:46\">22:42–46</a>; <a href=\"https://ref.ly/Matt27:11\">27:11</a>; <a href=\"https://ref.ly/1Tim1:17\">1 Timotheo 1:17</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:14\">1 Petro 2:13–14</a>; <a href=\"https://ref.ly/Rev5:5\">Ufunuo 5:5</a>; <a href=\"https://ref.ly/Rev11:15\">11:15</a>; <a href=\"https://ref.ly/Rev15:3\">15:3</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05033005",
+          "start_ref_usfm": "DEU 33:5",
+          "end_ref": "05033005",
+          "end_ref_usfm": "DEU 33:5"
+        },
+        {
+          "start_ref": "07017006",
+          "start_ref_usfm": "JDG 17:6",
+          "end_ref": "07017006",
+          "end_ref_usfm": "JDG 17:6"
+        },
+        {
+          "start_ref": "07021025",
+          "start_ref_usfm": "JDG 21:25",
+          "end_ref": "07021025",
+          "end_ref_usfm": "JDG 21:25"
+        },
+        {
+          "start_ref": "09010001",
+          "start_ref_usfm": "1SA 10:1",
+          "end_ref": "09010001",
+          "end_ref_usfm": "1SA 10:1"
+        },
+        {
+          "start_ref": "23033022",
+          "start_ref_usfm": "ISA 33:22",
+          "end_ref": "23033022",
+          "end_ref_usfm": "ISA 33:22"
+        },
+        {
+          "start_ref": "40027011",
+          "start_ref_usfm": "MAT 27:11",
+          "end_ref": "40027011",
+          "end_ref_usfm": "MAT 27:11"
+        },
+        {
+          "start_ref": "54001017",
+          "start_ref_usfm": "1TI 1:17",
+          "end_ref": "54001017",
+          "end_ref_usfm": "1TI 1:17"
+        },
+        {
+          "start_ref": "66005005",
+          "start_ref_usfm": "REV 5:5",
+          "end_ref": "66005005",
+          "end_ref_usfm": "REV 5:5"
+        },
+        {
+          "start_ref": "66011015",
+          "start_ref_usfm": "REV 11:15",
+          "end_ref": "66011015",
+          "end_ref_usfm": "REV 11:15"
+        },
+        {
+          "start_ref": "66015003",
+          "start_ref_usfm": "REV 15:3",
+          "end_ref": "66015003",
+          "end_ref_usfm": "REV 15:3"
+        },
+        {
+          "start_ref": "10007008",
+          "start_ref_usfm": "2SA 7:8",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "60002013",
+          "start_ref_usfm": "1PE 2:13",
+          "end_ref": "60002014",
+          "end_ref_usfm": "1PE 2:14"
+        },
+        {
+          "start_ref": "09008010",
+          "start_ref_usfm": "1SA 8:10",
+          "end_ref": "09008018",
+          "end_ref_usfm": "1SA 8:18"
+        },
+        {
+          "start_ref": "09008005",
+          "start_ref_usfm": "1SA 8:5",
+          "end_ref": "09008022",
+          "end_ref_usfm": "1SA 8:22"
+        },
+        {
+          "start_ref": "09010024",
+          "start_ref_usfm": "1SA 10:24",
+          "end_ref": "09010025",
+          "end_ref_usfm": "1SA 10:25"
+        },
+        {
+          "start_ref": "19089035",
+          "start_ref_usfm": "PSA 89:35",
+          "end_ref": "19089037",
+          "end_ref_usfm": "PSA 89:37"
+        },
+        {
+          "start_ref": "21008002",
+          "start_ref_usfm": "ECC 8:2",
+          "end_ref": "21008005",
+          "end_ref_usfm": "ECC 8:5"
+        },
+        {
+          "start_ref": "40022042",
+          "start_ref_usfm": "MAT 22:42",
+          "end_ref": "40022046",
+          "end_ref_usfm": "MAT 22:46"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

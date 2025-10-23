@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 765122,
+    "reference_id": 203265,
+    "title": "Falme Nne za Dunia",
+    "media_type": "Text",
+    "index_reference": "falme nne za dunia",
+    "language": "swh",
+    "content": "<p>Kitabu cha Danieli kinaelezea maono mawili muhimu yanayoonyesha jinsi Mungu anavyotawala historia yote. Mfalme Nebukadneza wa Babeli alikuwa na maono ya kwanza (sura ya <a href=\"https://ref.ly/Dan2:1-Dan2:49\">2</a>), na nabii Danieli alikuwa na maono yanayofanana (sura ya <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7</a>). Kila maono yanaonyesha falme nne za dunia.</p><p>Watu mara nyingi wamekuwa na maoni tofauti kuhusu ni falme zipi maono haya yalielezea, lakini walimu wengi muhimu katika historia wamekuwa na uelewa sawa. Hippolytus, mwalimu wa Kikristo wa mapema (au &quot;baba wa kanisa&quot;) aliyeishi kutoka mwaka wa 170 Baada ya Kristo (BK) hadi 236, alitambua falme nne kama:</p><ul><li><p>Babeli,</p></li><li><p>Uhusiano kati ya Umedi na Uajemi,</p></li><li><p>Ugiriki, na</p></li><li><p>Rumi.</p></li></ul><p>Eusebius wa Kaisaria, baba mwingine wa kanisa na mwanahistoria aliyeishi kutoka  mwaka wa 260 hadi 340 BK, alifikiri kwamba ufalme wa kwanza ulikuwa Ashuru (ambao ulikuwa umetawala Babuloni). Hata hivyo, baadaye alikubaliana na mtazamo wa Hippolytus. Walimu wengine wengi wa Kikristo wa mapema pia walikubaliana na ufahamu huu. Baadaye, baba wengine wawili wa kanisa, Jerome na Augustine, walikubaliana na maelezo haya. Walimu wengi wa Biblia leo bado wanakubali mtazamo huu wa falme nne.</p><p>Katika nyakati za kale na za sasa, baadhi ya watu wamejadili kwamba Ugiriki ni ufalme wa nne. Wanachukulia Umedi na Uajemi kama falme tofauti. Walimu hawa mara nyingi wanaamini hivi kwa sababu wanafikiri kitabu cha Danieli kiliandikwa kabla ya Ufalme wa Kirumi kuwepo na hakiwezi kuwa kilitabiri matukio ya baadaye. Hata hivyo, kwa kawaida watu huchukulia Umedi na Uajemi kuwa ufalme mmoja. Kufikia wakati Mfalme Koreshi II aliposhinda Babuloni mwaka 539 Kabla ya Krsito (KK), Waajemi walikuwa wameunganisha ufalme wa Wamedi kwa kiasi kikubwa.</p><p>Kwa ujumla, watu wanamchukulia Rumi kama ufalme wa nne. Hata hivyo, sifa mbaya na zisizo za kibinadamu zilizoelezwa katika maono hayo zinazidi Dola ya Kirumi ya kihistoria. Maono haya yanaonyesha mtazamo wa dunia na serikali zake. Ufalme wa Mungu utaangamiza na kuchukua nafasi ya yote. Ni &quot;jiwe ... lililokatwa” (<a href=\"https://ref.ly/Dan2:34\">Danieli 2:34</a>). Katika sura ya <a href=\"https://ref.ly/Dan2:1-Dan2:49\">2</a>, metali za sanamu zinapungua thamani. Wakati katika sura ya <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7</a>, taswira ya wanyama inakuwa kali na yenye vurugu zaidi. Vipengele hivi vinaonyesha kushuka kwa ustaarabu wa kibinadamu kwa muda, hata wakati ufalme wa Mungu unavyoongezeka kwa nguvu na ukubwa (<a href=\"https://ref.ly/Dan2:35\">2:35</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Dan2:1-Dan2:49\">Danieli 2:1–49</a>; <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7:1–28</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27002034",
+          "start_ref_usfm": "DAN 2:34",
+          "end_ref": "27002034",
+          "end_ref_usfm": "DAN 2:34"
+        },
+        {
+          "start_ref": "27002035",
+          "start_ref_usfm": "DAN 2:35",
+          "end_ref": "27002035",
+          "end_ref_usfm": "DAN 2:35"
+        },
+        {
+          "start_ref": "27007001",
+          "start_ref_usfm": "DAN 7:1",
+          "end_ref": "27007028",
+          "end_ref_usfm": "DAN 7:28"
+        },
+        {
+          "start_ref": "27002001",
+          "start_ref_usfm": "DAN 2:1",
+          "end_ref": "27002049",
+          "end_ref_usfm": "DAN 2:49"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

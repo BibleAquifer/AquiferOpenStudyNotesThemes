@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 764998,
+    "reference_id": 203141,
+    "title": "Miji ya Makimbilio",
+    "media_type": "Text",
+    "index_reference": "miji ya makimbilio",
+    "language": "swh",
+    "content": "<p>Waisraeli walijenga miji ya kimbilio ili kuwalinda watu wasio na hatia dhidi ya kisasi cha damu. Mlipiza kisasi alikuwa na haki ya kisheria ya kumuua muuaji (<a href=\"https://ref.ly/Num35:19\">Hesabu 35:19</a>; angalia <a href=\"https://ref.ly/Gen9:6\">Mwanzo 9:6</a>). Ikiwa mtu alisababisha kifo kwa bahati mbaya, mtu huyo alikimbilia kwenye mji wa kimbilio kwa usalama wa muda wakati akisubiri kesi (<a href=\"https://ref.ly/Num35:22-Num35:28\">Hesabu 35:22–28</a>). Miji sita ya kimbilio ilisambazwa katika eneo la Waebrania ili Mwisraeli yeyote aweze kutafuta kimbilio.</p><p>Baada ya kesi, ikiwa wazee wa mji walimkuta mtu huyo na hatia ya mauaji (badala ya kuua kwa bahati mbaya), walimkabidhi kwa mkomoaji kwa adhabu (<a href=\"https://ref.ly/Deut19:12\">Kumbukumbu la Torati 19:12</a>). Ikiwa walimkuta mtu huyo hana hatia, muuaji alikaa katika mji wa kimbilio kwa usalama. Kuhani mkuu alipokufa, muuaji angeweza kurudi nyumbani bila hofu ya kulipizwa kisasi cha damu. Sheria hii ya huruma ilizuia nchi isichafuliwe na damu isiyo na hatia (tazama <a href=\"https://ref.ly/Num35:33\">Hesabu 35:33</a>).</p><p>Kulipa faini ili kufidia kifo cha mtu hakukubalika, hata kama kifo kilikuwa cha bahati mbaya (<a href=\"https://ref.ly/Num35:31-Num35:33\">Hesabu 35:31–33</a>). Uhai wa binadamu ulikuwa na thamani kubwa sana kiasi kwamba pesa haziwezi kuununua. Wakati mtu alipomuua mtu mwingine, iwe kwa makusudi au kwa bahati mbaya, ilisababisha kutengwa au uhamisho.</p><p>Upatanisho si rahisi, iwe katika nyakati za kale za Waisraeli au leo. Kila mtu anahitaji upatanisho ili kurejesha uhusiano wake na Mungu (tazama <a href=\"https://ref.ly/Rom3:23-Rom3:26\">Warumi 3:23–26</a>). Yesu, Mwana wa Mungu, anatoa upatanisho huu. Yeye hufanya kazi kama kuhani mkuu na alikufa kama dhabihu kuu (tazama <a href=\"https://ref.ly/Heb4:14-Heb10:18\">Waebrania 4:14–10:18</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Num35:6-Num35:34\">Hesabu 35:6–34</a>; <a href=\"https://ref.ly/Deut19:1-Deut19:13\">Kumbukumbu la Torati 19:1–13</a>; <a href=\"https://ref.ly/Josh20:1-Josh20:9\">Yoshua 20:1–9</a>; <a href=\"https://ref.ly/Josh21:13\">21:13</a>, <a href=\"https://ref.ly/Josh21:21\">21</a>, <a href=\"https://ref.ly/Josh21:27\">27</a>, <a href=\"https://ref.ly/Josh21:32\">32</a>, <a href=\"https://ref.ly/Josh21:38\">38</a>; <a href=\"https://ref.ly/1Kgs1:50-1Kgs1:53\">1 Wafalme 1:50–53</a>; <a href=\"https://ref.ly/1Kgs2:28-1Kgs2:34\">2:28–34</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009006",
+          "start_ref_usfm": "GEN 9:6",
+          "end_ref": "01009006",
+          "end_ref_usfm": "GEN 9:6"
+        },
+        {
+          "start_ref": "04035019",
+          "start_ref_usfm": "NUM 35:19",
+          "end_ref": "04035019",
+          "end_ref_usfm": "NUM 35:19"
+        },
+        {
+          "start_ref": "04035033",
+          "start_ref_usfm": "NUM 35:33",
+          "end_ref": "04035033",
+          "end_ref_usfm": "NUM 35:33"
+        },
+        {
+          "start_ref": "05019012",
+          "start_ref_usfm": "DEU 19:12",
+          "end_ref": "05019012",
+          "end_ref_usfm": "DEU 19:12"
+        },
+        {
+          "start_ref": "06021013",
+          "start_ref_usfm": "JOS 21:13",
+          "end_ref": "06021013",
+          "end_ref_usfm": "JOS 21:13"
+        },
+        {
+          "start_ref": "06021021",
+          "start_ref_usfm": "JOS 21:21",
+          "end_ref": "06021021",
+          "end_ref_usfm": "JOS 21:21"
+        },
+        {
+          "start_ref": "06021027",
+          "start_ref_usfm": "JOS 21:27",
+          "end_ref": "06021027",
+          "end_ref_usfm": "JOS 21:27"
+        },
+        {
+          "start_ref": "06021032",
+          "start_ref_usfm": "JOS 21:32",
+          "end_ref": "06021032",
+          "end_ref_usfm": "JOS 21:32"
+        },
+        {
+          "start_ref": "06021038",
+          "start_ref_usfm": "JOS 21:38",
+          "end_ref": "06021038",
+          "end_ref_usfm": "JOS 21:38"
+        },
+        {
+          "start_ref": "11002028",
+          "start_ref_usfm": "1KI 2:28",
+          "end_ref": "11002034",
+          "end_ref_usfm": "1KI 2:34"
+        },
+        {
+          "start_ref": "11001050",
+          "start_ref_usfm": "1KI 1:50",
+          "end_ref": "11001053",
+          "end_ref_usfm": "1KI 1:53"
+        },
+        {
+          "start_ref": "04035022",
+          "start_ref_usfm": "NUM 35:22",
+          "end_ref": "04035028",
+          "end_ref_usfm": "NUM 35:28"
+        },
+        {
+          "start_ref": "05019001",
+          "start_ref_usfm": "DEU 19:1",
+          "end_ref": "05019013",
+          "end_ref_usfm": "DEU 19:13"
+        },
+        {
+          "start_ref": "06020001",
+          "start_ref_usfm": "JOS 20:1",
+          "end_ref": "06020009",
+          "end_ref_usfm": "JOS 20:9"
+        },
+        {
+          "start_ref": "04035006",
+          "start_ref_usfm": "NUM 35:6",
+          "end_ref": "04035034",
+          "end_ref_usfm": "NUM 35:34"
+        },
+        {
+          "start_ref": "04035031",
+          "start_ref_usfm": "NUM 35:31",
+          "end_ref": "04035033",
+          "end_ref_usfm": "NUM 35:33"
+        },
+        {
+          "start_ref": "45003023",
+          "start_ref_usfm": "ROM 3:23",
+          "end_ref": "45003026",
+          "end_ref_usfm": "ROM 3:26"
+        },
+        {
+          "start_ref": "58004014",
+          "start_ref_usfm": "HEB 4:14",
+          "end_ref": "58010018",
+          "end_ref_usfm": "HEB 10:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

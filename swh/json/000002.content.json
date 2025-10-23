@@ -1,0 +1,202 @@
+[
+  {
+    "content_id": 765168,
+    "reference_id": 203311,
+    "title": "\"Imani\" Katika Injili ya Yohana",
+    "media_type": "Text",
+    "index_reference": "\"imani\" katika injili ya yohana",
+    "language": "swh",
+    "content": "<p>Mada ya &quot;imani&quot; ni ya msingi katika injili ya Yohana. Yohana hatumii neno <em>imani</em> inayopatikana mara nyingi katika Agano Jipya (kwa mfano, tazama <a href=\"https://ref.ly/Matt8:8-Matt8:10\">Mathayo 8:8–10</a>; <a href=\"https://ref.ly/Mark11:22\">Marko 11:22</a>; <a href=\"https://ref.ly/Acts20:21\">Matendo 20:21</a>; <a href=\"https://ref.ly/Rom1:17\">Warumi 1:17</a>; <a href=\"https://ref.ly/Rom3:27-Rom3:31\">3:27–31</a>; <a href=\"https://ref.ly/Rom4:3-Rom4:5\">4:3–5</a>; <a href=\"https://ref.ly/Heb11:1-Heb11:39\">Waebrania 11:1–39</a>; <a href=\"https://ref.ly/Jas2:14-Jas2:24\">Yakobo 2:14–24</a>; <a href=\"https://ref.ly/1Pet1:5-1Pet1:7\">1 Petro 1:5–7</a>). Yohana anapendelea kutumia kitenzi <em>amini</em> (&quot;amini&quot; au &quot;kuwa mwaminifu&quot;) kuonyesha kwamba imani siyo tu imani isiyobadilika, bali ni &quot;hai&quot; na inahitaji vitendo. Katika injili ya Yohana, “kuamini” katika Yesu ni alama ya wanafunzi wote wa kweli.</p><p>Kwenye injili ya Yohana, kitenzi kilichotafsiriwa kama &quot;amini&quot; mara nyingi hufuatwa na kihusishi cha Kigiriki <em>eis</em>, ambacho kinamaanisha &quot;ndani ya.&quot; Mchanganyiko huu ni wa kipekee katika matumizi ya Kigiriki cha kale. Kwa Yohana, kuamini au imani siyo tu hali, bali ni uwekezaji kwa Yesu. Imani inamaanisha kukubali Yesu ni nani na anavyodai kuwa.</p><p>Imani pia inahusisha kujitolea kukubali mwaliko wake wa kumtumaini ili kubadilisha jinsi mtu anavyoishi. Imani ni kazi ambayo Mungu anataka kutoka kwetu (<a href=\"https://ref.ly/John6:29\">Yohana 6:29</a>). Tunaonyesha imani kwa kufuata mafundisho ya Yesu, kumpenda, na kutii amri zake (<a href=\"https://ref.ly/John8:31\">Yohana 8:31</a>; <a href=\"https://ref.ly/John15:1-John15:17\">15:1–17</a>; tazama <a href=\"https://ref.ly/1John5:10\">1 Yohana 5:10</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen15:6\">Mwanzo 15:6</a>; <a href=\"https://ref.ly/Isa28:16\">Isaya 28:16</a>; <a href=\"https://ref.ly/Mark1:15\">Marko 1:15</a>; <a href=\"https://ref.ly/Mark9:23-Mark9:24\">Marko 9:23–24</a>; <a href=\"https://ref.ly/John1:12-John1:13\">Yohana 1:12–13</a>; <a href=\"https://ref.ly/John3:10-John3:18\">Yohana 3:10–18</a>; <a href=\"https://ref.ly/John5:24\">Yohana 5:24</a>; <a href=\"https://ref.ly/John6:35-John6:36\">Yohana 6:35–36</a>; <a href=\"https://ref.ly/John7:38\">Yohana 7:38</a>; <a href=\"https://ref.ly/John9:35-John9:38\">Yohana 9:35–38</a>; <a href=\"https://ref.ly/John11:25-John11:27\">Yohana 11:25–27</a>; <a href=\"https://ref.ly/John12:37\">Yohana 12:37</a>; <a href=\"https://ref.ly/John20:25-John20:31\">Yohana 20:25–31</a>; <a href=\"https://ref.ly/Acts10:43\">Matendo 10:43</a>; <a href=\"https://ref.ly/Acts13:39\">Matendo 13:39</a>; <a href=\"https://ref.ly/Rom1:16\">Warumi 1:16</a>; <a href=\"https://ref.ly/Rom10:9-Rom10:10\">Warumi 10:9–10</a>; <a href=\"https://ref.ly/Heb4:3\">Waebrania 4:3</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015006",
+          "end_ref_usfm": "GEN 15:6"
+        },
+        {
+          "start_ref": "23028016",
+          "start_ref_usfm": "ISA 28:16",
+          "end_ref": "23028016",
+          "end_ref_usfm": "ISA 28:16"
+        },
+        {
+          "start_ref": "41001015",
+          "start_ref_usfm": "MRK 1:15",
+          "end_ref": "41001015",
+          "end_ref_usfm": "MRK 1:15"
+        },
+        {
+          "start_ref": "41011022",
+          "start_ref_usfm": "MRK 11:22",
+          "end_ref": "41011022",
+          "end_ref_usfm": "MRK 11:22"
+        },
+        {
+          "start_ref": "43005024",
+          "start_ref_usfm": "JHN 5:24",
+          "end_ref": "43005024",
+          "end_ref_usfm": "JHN 5:24"
+        },
+        {
+          "start_ref": "43006029",
+          "start_ref_usfm": "JHN 6:29",
+          "end_ref": "43006029",
+          "end_ref_usfm": "JHN 6:29"
+        },
+        {
+          "start_ref": "43007038",
+          "start_ref_usfm": "JHN 7:38",
+          "end_ref": "43007038",
+          "end_ref_usfm": "JHN 7:38"
+        },
+        {
+          "start_ref": "43008031",
+          "start_ref_usfm": "JHN 8:31",
+          "end_ref": "43008031",
+          "end_ref_usfm": "JHN 8:31"
+        },
+        {
+          "start_ref": "43012037",
+          "start_ref_usfm": "JHN 12:37",
+          "end_ref": "43012037",
+          "end_ref_usfm": "JHN 12:37"
+        },
+        {
+          "start_ref": "44010043",
+          "start_ref_usfm": "ACT 10:43",
+          "end_ref": "44010043",
+          "end_ref_usfm": "ACT 10:43"
+        },
+        {
+          "start_ref": "44013039",
+          "start_ref_usfm": "ACT 13:39",
+          "end_ref": "44013039",
+          "end_ref_usfm": "ACT 13:39"
+        },
+        {
+          "start_ref": "44020021",
+          "start_ref_usfm": "ACT 20:21",
+          "end_ref": "44020021",
+          "end_ref_usfm": "ACT 20:21"
+        },
+        {
+          "start_ref": "45001016",
+          "start_ref_usfm": "ROM 1:16",
+          "end_ref": "45001016",
+          "end_ref_usfm": "ROM 1:16"
+        },
+        {
+          "start_ref": "45001017",
+          "start_ref_usfm": "ROM 1:17",
+          "end_ref": "45001017",
+          "end_ref_usfm": "ROM 1:17"
+        },
+        {
+          "start_ref": "58004003",
+          "start_ref_usfm": "HEB 4:3",
+          "end_ref": "58004003",
+          "end_ref_usfm": "HEB 4:3"
+        },
+        {
+          "start_ref": "62005010",
+          "start_ref_usfm": "1JN 5:10",
+          "end_ref": "62005010",
+          "end_ref_usfm": "1JN 5:10"
+        },
+        {
+          "start_ref": "45010009",
+          "start_ref_usfm": "ROM 10:9",
+          "end_ref": "45010010",
+          "end_ref_usfm": "ROM 10:10"
+        },
+        {
+          "start_ref": "43015001",
+          "start_ref_usfm": "JHN 15:1",
+          "end_ref": "43015017",
+          "end_ref_usfm": "JHN 15:17"
+        },
+        {
+          "start_ref": "43009035",
+          "start_ref_usfm": "JHN 9:35",
+          "end_ref": "43009038",
+          "end_ref_usfm": "JHN 9:38"
+        },
+        {
+          "start_ref": "43001012",
+          "start_ref_usfm": "JHN 1:12",
+          "end_ref": "43001013",
+          "end_ref_usfm": "JHN 1:13"
+        },
+        {
+          "start_ref": "40008008",
+          "start_ref_usfm": "MAT 8:8",
+          "end_ref": "40008010",
+          "end_ref_usfm": "MAT 8:10"
+        },
+        {
+          "start_ref": "41009023",
+          "start_ref_usfm": "MRK 9:23",
+          "end_ref": "41009024",
+          "end_ref_usfm": "MRK 9:24"
+        },
+        {
+          "start_ref": "45003027",
+          "start_ref_usfm": "ROM 3:27",
+          "end_ref": "45003031",
+          "end_ref_usfm": "ROM 3:31"
+        },
+        {
+          "start_ref": "45004003",
+          "start_ref_usfm": "ROM 4:3",
+          "end_ref": "45004005",
+          "end_ref_usfm": "ROM 4:5"
+        },
+        {
+          "start_ref": "58011001",
+          "start_ref_usfm": "HEB 11:1",
+          "end_ref": "58011039",
+          "end_ref_usfm": "HEB 11:39"
+        },
+        {
+          "start_ref": "59002014",
+          "start_ref_usfm": "JAS 2:14",
+          "end_ref": "59002024",
+          "end_ref_usfm": "JAS 2:24"
+        },
+        {
+          "start_ref": "60001005",
+          "start_ref_usfm": "1PE 1:5",
+          "end_ref": "60001007",
+          "end_ref_usfm": "1PE 1:7"
+        },
+        {
+          "start_ref": "43003010",
+          "start_ref_usfm": "JHN 3:10",
+          "end_ref": "43003018",
+          "end_ref_usfm": "JHN 3:18"
+        },
+        {
+          "start_ref": "43006035",
+          "start_ref_usfm": "JHN 6:35",
+          "end_ref": "43006036",
+          "end_ref_usfm": "JHN 6:36"
+        },
+        {
+          "start_ref": "43011025",
+          "start_ref_usfm": "JHN 11:25",
+          "end_ref": "43011027",
+          "end_ref_usfm": "JHN 11:27"
+        },
+        {
+          "start_ref": "43020025",
+          "start_ref_usfm": "JHN 20:25",
+          "end_ref": "43020031",
+          "end_ref_usfm": "JHN 20:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

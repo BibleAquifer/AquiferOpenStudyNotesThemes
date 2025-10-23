@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 764999,
+    "reference_id": 203142,
+    "title": "Wajibu wa Jamii: Dhambi ya Akani",
+    "media_type": "Text",
+    "index_reference": "wajibu wa jamii: dhambi ya akani",
+    "language": "swh",
+    "content": "<p>Je, jamii yote inawajibika kwa makosa ya watu wachache?</p><p>Kwanini askari wengi wa Israeli walikufa huko Ai kutokana na dhambi ya Akani (<a href=\"https://ref.ly/Josh7:1-Josh7:26\">Yoshua 7</a>)? Kwa nini Waisraeli walimpiga mawe Akani na familia yake ? Kuelewa jukumu la jamii husaidia kujibu maswali haya.</p><p>Kama familia ya Akani ilijua kuhusu wizi wake, walishiriki katika hatia yake. Jamii inabeba jukumu la dhambi wakati wanachama wake wanashiriki katika kitendo cha mdhambi au wanakubali kimya kimya vitendo au mitazamo ya mdhambi.</p><p>Je, itakuwaje kwa watoto wa Akani ambao walikuwa wadogo sana kuelewa au hawakujua kuhusu wizi wake? Na itakuwaje kwa wanajeshi wa Israeli waliokufa huko Ai kwa sababu Akani alichukua kilichokuwa cha Mungu?</p><p>Ili kuelewa, tunapaswa kurudi mwanzo.</p><p>Dhambi ya wazazi wetu wa kwanza, Adamu na Hawa, ilikuwa na angalau vipengele viwili (<a href=\"https://ref.ly/Gen3:1-Gen3:24\">Mwanzo 3</a>):</p><ol><li><p>Walichagua kutomwamini Mungu, ingawa walikuwa na uhusiano wa karibu naye. Badala yake, walimsikiliza mgeni.</p></li><li><p>Walijaribu kuwa kama miungu. Walitangaza uhuru wao kutoka kwa Mungu, ingawa hawakufanikiwa.</p></li></ol><p>Kila mtu anapofanya chaguo linalowafaa wenyewe, hakuna aliye kweli asiye na hatia (tazama <a href=\"https://ref.ly/Ps14:2-Ps14:3\">Zaburi 14:2–3</a>; <a href=\"https://ref.ly/Rom3:9-Rom3:23\">Warumi 3:9–23</a>). Kwa sababu hiyo, sote tunakabiliwa na matokeo ya dhambi duniani. Tunaweza kufa kutokana na dhambi ya mtu mwingine, uzembe, au ujinga, au kwa sababu ya matendo yetu wenyewe. Mtu anapokunywa pombe na kuendesha gari, anaweza kupata ajali na kuua watu wengine. Watu wanapojali zaidi kutengeneza pesa kuliko kusaidia wengine, wanaweza kulazimisha wafanyakazi wao kufanya kazi katika maeneo yasiyo salama. Wakati Akani alipotenda dhambi, wengine katika Israeli walikufa huko Ai.</p><p>Hali hii inaweza kuonekana kama si &quot;haki.&quot; Hata hivyo, Mungu anaahidi kuleta haki kamilifu kwa wakati wake mwenyewe. Haki ya Mungu itakuja kupitia neema na rehema yake, iliyoletwa kwetu kupitia kifo cha Yesu kwa niaba yetu (tazama <a href=\"https://ref.ly/Rom5:12-Rom5:21\">Warumi 5:12–21</a>).</p><p><u>Sehemu za Kujifunza  Zaidi</u></p><p><a href=\"https://ref.ly/Gen9:24-Gen9:27\">Mwanzo 9:24–27</a>; <a href=\"https://ref.ly/Exod20:5\">Kutoka 20:5</a>; <a href=\"https://ref.ly/Josh7:1-Josh7:26\">Yoshua 7:1–26</a>; <a href=\"https://ref.ly/2Kgs14:6\">2 Wafalme 14:6</a>; <a href=\"https://ref.ly/2Kgs21:10-2Kgs21:15\">2 Wafalme 21:10–15</a>; <a href=\"https://ref.ly/Ezra9:6-Ezra9:15\">Ezra 9:6–15</a>; <a href=\"https://ref.ly/Neh9:16-Neh9:37\">Nehemia 9:16–37</a>; <a href=\"https://ref.ly/Jer31:29-Jer31:30\">Yeremia 31:29–30</a>; <a href=\"https://ref.ly/Ezek18:20\">Ezekieli 18:20</a>; <a href=\"https://ref.ly/Dan9:4-Dan9:19\">Danieli 9:4–19</a>; <a href=\"https://ref.ly/Matt23:29-Matt23:36\">Mathayo 23:29–36</a>; <a href=\"https://ref.ly/John9:1-John9:3\">Yohana 9:1–3</a>; <a href=\"https://ref.ly/Rom5:12-Rom5:21\">Warumi 5:12–21</a>; <a href=\"https://ref.ly/1Cor15:21\">1 Wakorintho 15:21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02020005",
+          "start_ref_usfm": "EXO 20:5",
+          "end_ref": "02020005",
+          "end_ref_usfm": "EXO 20:5"
+        },
+        {
+          "start_ref": "12014006",
+          "start_ref_usfm": "2KI 14:6",
+          "end_ref": "12014006",
+          "end_ref_usfm": "2KI 14:6"
+        },
+        {
+          "start_ref": "26018020",
+          "start_ref_usfm": "EZK 18:20",
+          "end_ref": "26018020",
+          "end_ref_usfm": "EZK 18:20"
+        },
+        {
+          "start_ref": "46015021",
+          "start_ref_usfm": "1CO 15:21",
+          "end_ref": "46015021",
+          "end_ref_usfm": "1CO 15:21"
+        },
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "40023029",
+          "start_ref_usfm": "MAT 23:29",
+          "end_ref": "40023036",
+          "end_ref_usfm": "MAT 23:36"
+        },
+        {
+          "start_ref": "24031029",
+          "start_ref_usfm": "JER 31:29",
+          "end_ref": "24031030",
+          "end_ref_usfm": "JER 31:30"
+        },
+        {
+          "start_ref": "45005012",
+          "start_ref_usfm": "ROM 5:12",
+          "end_ref": "45005021",
+          "end_ref_usfm": "ROM 5:21"
+        },
+        {
+          "start_ref": "27009004",
+          "start_ref_usfm": "DAN 9:4",
+          "end_ref": "27009019",
+          "end_ref_usfm": "DAN 9:19"
+        },
+        {
+          "start_ref": "06007001",
+          "start_ref_usfm": "JOS 7:1",
+          "end_ref": "06007026",
+          "end_ref_usfm": "JOS 7:26"
+        },
+        {
+          "start_ref": "43009001",
+          "start_ref_usfm": "JHN 9:1",
+          "end_ref": "43009003",
+          "end_ref_usfm": "JHN 9:3"
+        },
+        {
+          "start_ref": "12021010",
+          "start_ref_usfm": "2KI 21:10",
+          "end_ref": "12021015",
+          "end_ref_usfm": "2KI 21:15"
+        },
+        {
+          "start_ref": "15009006",
+          "start_ref_usfm": "EZR 9:6",
+          "end_ref": "15009015",
+          "end_ref_usfm": "EZR 9:15"
+        },
+        {
+          "start_ref": "19014002",
+          "start_ref_usfm": "PSA 14:2",
+          "end_ref": "19014003",
+          "end_ref_usfm": "PSA 14:3"
+        },
+        {
+          "start_ref": "01009024",
+          "start_ref_usfm": "GEN 9:24",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "45003009",
+          "start_ref_usfm": "ROM 3:9",
+          "end_ref": "45003023",
+          "end_ref_usfm": "ROM 3:23"
+        },
+        {
+          "start_ref": "16009016",
+          "start_ref_usfm": "NEH 9:16",
+          "end_ref": "16009037",
+          "end_ref_usfm": "NEH 9:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

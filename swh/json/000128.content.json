@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 765221,
+    "reference_id": 203364,
+    "title": "Mambo ya Mwisho na Wathesalonike",
+    "media_type": "Text",
+    "index_reference": "mambo ya mwisho na wathesalonike",
+    "language": "swh",
+    "content": "<p>Wakristo wa Thesalonike walipokea kwa shauku mafundisho ya mtume Paulo kuhusu Siku ya Bwana na kuja kwa Yesu kwa mara ya pili. Hata hivyo, hii ilisababisha maswali na dhana kuhusu mwisho wa nyakati.</p><p>Walijiuliza nini kingetokea kwa Wakristo waliokufa kabla ya Yesu kurejea (<a href=\"https://ref.ly/1Thess4:13-1Thess4:18\">1 Wathesalonike 4:13–18</a>). Pia waliuliza lini &quot;Siku ya Bwana&quot; itafika (<a href=\"https://ref.ly/1Thess5:1-1Thess5:11\">5:1–11</a>). Walijiuliza kama Wakristo wangeweza kupitia ghadhabu ya Mungu (<a href=\"https://ref.ly/1Thess1:10\">1:10</a>; <a href=\"https://ref.ly/1Thess5:9\">5:9</a>). Paulo anahakikishia kanisa kwa kuelezea mada hizi na kuwakumbusha mafundisho waliyokuwa tayari wamepokea (<a href=\"https://ref.ly/1Thess4:13-1Thess5:11\">4:13–5:11</a>).</p><p>Paulo huenda alitarajia Yesu kurudi wakati wa maisha yake (<a href=\"https://ref.ly/1Thess4:15\">4:15</a>). Hata hivyo, alijua pia tukio la mwisho lingetokea bila kutarajiwa, “kama mwizi usiku” (<a href=\"https://ref.ly/1Thess5:2\">5:2</a>). Njia ya kuwa tayari kwa mwisho si kwa kujua tarehe bali kwa kuishi kwa umakinifu wa Kikristo. Hii inamaanisha kuweka uangalizi wa kiroho wa mara kwa mara na kuwa tayari kukutana na Yesu.</p><p>Wathesalonike walihitaji kuelewa kuhusu vifo vya Wakristo wenzao. Paulo hajadili hali ya Wakristo kati ya kifo chao na kurudi kwa Yesu. Badala yake, anazingatia ufufuo. Kama vile Mungu alivyomfufua Yesu kutoka kwa wafu, Wakristo wanaokufa pia watafufuliwa atakaporudi. Watafufuka kutoka kwa wafu kwanza, kisha wataungana na Wakristo walio hai ili kukutana na Yesu katika kuja kwake kifalme.</p><p>Paulo alijaribu kuelezea tumaini la Kikristo. Hata hivyo, Wakristo wa Thesalonike walichanganyikiwa na mafundisho ya uongo yaliyodai, &quot;Siku ya Bwana tayari imekuja&quot; (tazama <a href=\"https://ref.ly/2Thess2:2\">2 Wathesalonike 2:2</a>). Ili kusahihisha kutoelewana huku, Paulo alijadili mada hii kwa undani zaidi katika barua yake ya Pili kwa kanisa hilo changa (tazama <a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Wathesalonike 2:1–12</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Mark13:1-Mark13:37\">Marko 13:1–37</a>; <a href=\"https://ref.ly/1Thess4:13-1Thess5:11\">1 Wathesalonike 4:13–5:11</a>; <a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Wathesalonike 2:1–12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "52001010",
+          "start_ref_usfm": "1TH 1:10",
+          "end_ref": "52001010",
+          "end_ref_usfm": "1TH 1:10"
+        },
+        {
+          "start_ref": "52004015",
+          "start_ref_usfm": "1TH 4:15",
+          "end_ref": "52004015",
+          "end_ref_usfm": "1TH 4:15"
+        },
+        {
+          "start_ref": "52005002",
+          "start_ref_usfm": "1TH 5:2",
+          "end_ref": "52005002",
+          "end_ref_usfm": "1TH 5:2"
+        },
+        {
+          "start_ref": "52005009",
+          "start_ref_usfm": "1TH 5:9",
+          "end_ref": "52005009",
+          "end_ref_usfm": "1TH 5:9"
+        },
+        {
+          "start_ref": "53002002",
+          "start_ref_usfm": "2TH 2:2",
+          "end_ref": "53002002",
+          "end_ref_usfm": "2TH 2:2"
+        },
+        {
+          "start_ref": "41013001",
+          "start_ref_usfm": "MRK 13:1",
+          "end_ref": "41013037",
+          "end_ref_usfm": "MRK 13:37"
+        },
+        {
+          "start_ref": "52004013",
+          "start_ref_usfm": "1TH 4:13",
+          "end_ref": "52004018",
+          "end_ref_usfm": "1TH 4:18"
+        },
+        {
+          "start_ref": "52005001",
+          "start_ref_usfm": "1TH 5:1",
+          "end_ref": "52005011",
+          "end_ref_usfm": "1TH 5:11"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "52004013",
+          "start_ref_usfm": "1TH 4:13",
+          "end_ref": "52005011",
+          "end_ref_usfm": "1TH 5:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

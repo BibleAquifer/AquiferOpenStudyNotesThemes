@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 765242,
+    "reference_id": 203385,
+    "title": "Barua kwa Makanisa Saba",
+    "media_type": "Text",
+    "index_reference": "barua kwa makanisa saba",
+    "language": "swh",
+    "content": "<p>Kwenye barua kwa makanisa saba ya Asia, mtume Yohana anatumia mtindo wa kifasihi (<a href=\"https://ref.ly/Rev2:1-Rev3:22\">Ufunuo 2–3</a>). Kila barua huanza na anwani kwa “malaika wa kanisa” katika mji maalum. Kisha inataja kipengele cha mwonekano wa Yesu kutoka kwenye maono ya &quot;Mwana wa Mtu&quot; (<a href=\"https://ref.ly/Rev1:12-Rev1:18\">1:12–18</a>).</p><p>Yesu anasema kwamba anafahamu kila kanisa na anaelezea hali yake. Anatoa ushauri au hukumu na anaahidi zawadi kwa wale wanaotii. Kila mara, Yesu anasisitiza umuhimu wa kusikiliza kwa makini ujumbe wa Roho Mtakatifu kwa makanisa.</p><p>Wafafanuzi mara nyingi hugawanya barua saba kuwa ujumbe tofauti, wakionyesha aina saba za watu au vipindi vya wakati. Hata hivyo, barua hizi zilikuwa awali kutoka kwa Yesu kwa makanisa maalum ya eneo katika Asia. Yesu anajua kila mkusanyiko wa Kikristo wa eneo na anawahimiza kumfuata kwa uaminifu.</p><p>Pamoja, barua hizi zinaunda ujumbe wa umoja kwa kanisa wakati wote na mahali popote, zikijua udhaifu wake. Kila mkusanyiko wa ndani wa Wakristo unaweza kufanana na moja ya makanisa haya, na kila jamii ina watu wanaofanana na Wakristo hao. Yesu anaalika kila jamii ya Wakristo kujichunguza kwa kutumia ujumbe huu wote.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Rev2:1-Rev3:22\">Ufunuo 2:1–3:22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "66002001",
+          "start_ref_usfm": "REV 2:1",
+          "end_ref": "66003022",
+          "end_ref_usfm": "REV 3:22"
+        },
+        {
+          "start_ref": "66001012",
+          "start_ref_usfm": "REV 1:12",
+          "end_ref": "66001018",
+          "end_ref_usfm": "REV 1:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
