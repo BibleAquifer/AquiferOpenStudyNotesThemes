@@ -2485,6 +2485,10 @@
       "md/000299.content.md": {
         "mimeType": "text/markdown",
         "size": 4170
+      },
+      "pdf/000001.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 5795789
       }
     },
     "copyright": {
