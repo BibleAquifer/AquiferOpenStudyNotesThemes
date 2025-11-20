@@ -1,0 +1,974 @@
+[
+  {
+    "content_id": 702305,
+    "reference_id": 203241,
+    "version": "1.0.1",
+    "title": "الوعد بالخروج الثاني",
+    "media_type": "Text",
+    "index_reference": "الوعد بالخروج الثاني",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>أعاد الله شعب إسرائيل إلى وطنهم من بابل، تمامًا كما أخرجهم من مصر منذ عدة سنوات (<a href=\"https://ref.ly/Isa48:20-Isa48:21\">إشعياء 48:20–21</a>). (ويُعرف هذا الإنقاذ الأول من مصر &quot;بالخروج&quot;). وهذه المرة، عندما خرجوا من بابل، كان عليهم أن يتطهروا ولا يتعجلوا في الرحيل (<a href=\"https://ref.ly/Isa52:11\">52:11</a><a href=\"https://ref.ly/Isa52:12\">,12</a>).</p><p>كان السبي والرحلة من بابل، أشبه بصحراء أنقذهم الله منها (انظر <a href=\"https://ref.ly/Isa35:1\">إشعياء 35:1</a>):</p><ul><li><p>هو يصنع طريقًا في البرية، ويجعل فيه ماء ونباتات وحيوانات (<a href=\"https://ref.ly/Isa43:19-Isa43:20\">إشعياء 43:19–20</a>).</p></li><li><p>يُزيل العوائق  (<a href=\"https://ref.ly/Isa42:16\">42:16</a>; <a href=\"https://ref.ly/Isa49:11\">49:11</a>).</p></li><li><p>يقود شعبه (<a href=\"https://ref.ly/Isa42:16\">42:16</a>; <a href=\"https://ref.ly/Isa58:11\">58:11</a>; <a href=\"https://ref.ly/Isa63:13\">63:13</a>).</p></li><li><p>يُطعمهم (<a href=\"https://ref.ly/Isa49:10\">49:10</a>).</p></li><li><p>يحميهم من الحر (<a href=\"https://ref.ly/Isa49:10\">49:10</a>).</p></li><li><p>يمنحهم القوة (<a href=\"https://ref.ly/Isa58:11\">58:11</a>).</p></li><li><p>يحول حزنهم إلى فرح عظيم (<a href=\"https://ref.ly/Isa51:3\">51:3</a>).</p></li><li><p>يسكب روحه عليهم (<a href=\"https://ref.ly/Isa44:3-Isa44:4\">44:3–4</a>).</p></li></ul><p>ويختبر المسيحيون أيضًا &quot;خروجًا&quot; روحيًا، إذ يتركون وراءهم الخطية والموت بفضل موت المسيح وقيامته. ويُساعدهم الروح القدوس ليعيشوا حياة جديدة، فيخدمون الله بفرح، وهم في انتظار مجيء ملكوته بالكامل.</p><p><u>نصوص إضافية للدراسة</u></p><p><a href=\"https://ref.ly/Isa35:8-Isa35:10\">إشعياء 35:8–10</a>; <a href=\"https://ref.ly/Isa42:14-Isa42:16\">42:14–16</a>; <a href=\"https://ref.ly/Isa43:18-Isa43:21\">43:18–21</a>; <a href=\"https://ref.ly/Isa44:3-Isa44:4\">44:3–4</a>; <a href=\"https://ref.ly/Isa48:20-Isa48:21\">48:20–21</a>; <a href=\"https://ref.ly/Isa49:9-Isa49:12\">49:9–12</a>; <a href=\"https://ref.ly/Isa52:11-Isa52:12\">52:11–12</a>; <a href=\"https://ref.ly/Isa58:8-Isa58:12\">58:8–12</a>; <a href=\"https://ref.ly/Jer31:2-Jer31:17\">إرميا 31:2–17</a>; <a href=\"https://ref.ly/Joel3:17-Joel3:21\">يوئيل 3:17–21</a>; <a href=\"https://ref.ly/Luke1:78-Luke1:79\">لوقا 1:78–79</a>; <a href=\"https://ref.ly/John7:38\">يوحنّا 7:38</a>; <a href=\"https://ref.ly/John15:19\">15:19</a>; <a href=\"https://ref.ly/2Cor5:17\">2 كورنثوس 5:17</a>; <a href=\"https://ref.ly/2Cor6:17-2Cor6:18\">6:17–18</a>; <a href=\"https://ref.ly/Eph5:8\">أفسس 5:8</a>; <a href=\"https://ref.ly/Col1:13\">كولوسي 1:13</a>; <a href=\"https://ref.ly/Heb13:12-Heb13:14\">عبرانيين 13:12–14</a>; <a href=\"https://ref.ly/Rev7:16\">رؤيا 7:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23035001",
+          "start_ref_usfm": "ISA 35:1",
+          "end_ref": "23035001",
+          "end_ref_usfm": "ISA 35:1"
+        },
+        {
+          "start_ref": "23042016",
+          "start_ref_usfm": "ISA 42:16",
+          "end_ref": "23042016",
+          "end_ref_usfm": "ISA 42:16"
+        },
+        {
+          "start_ref": "23043019",
+          "start_ref_usfm": "ISA 43:19",
+          "end_ref": "23043019",
+          "end_ref_usfm": "ISA 43:19"
+        },
+        {
+          "start_ref": "23049010",
+          "start_ref_usfm": "ISA 49:10",
+          "end_ref": "23049010",
+          "end_ref_usfm": "ISA 49:10"
+        },
+        {
+          "start_ref": "23049011",
+          "start_ref_usfm": "ISA 49:11",
+          "end_ref": "23049011",
+          "end_ref_usfm": "ISA 49:11"
+        },
+        {
+          "start_ref": "23051003",
+          "start_ref_usfm": "ISA 51:3",
+          "end_ref": "23051003",
+          "end_ref_usfm": "ISA 51:3"
+        },
+        {
+          "start_ref": "23052011",
+          "start_ref_usfm": "ISA 52:11",
+          "end_ref": "23052011",
+          "end_ref_usfm": "ISA 52:11"
+        },
+        {
+          "start_ref": "23052012",
+          "start_ref_usfm": "ISA 52:12",
+          "end_ref": "23052012",
+          "end_ref_usfm": "ISA 52:12"
+        },
+        {
+          "start_ref": "23058011",
+          "start_ref_usfm": "ISA 58:11",
+          "end_ref": "23058011",
+          "end_ref_usfm": "ISA 58:11"
+        },
+        {
+          "start_ref": "23063013",
+          "start_ref_usfm": "ISA 63:13",
+          "end_ref": "23063013",
+          "end_ref_usfm": "ISA 63:13"
+        },
+        {
+          "start_ref": "43007038",
+          "start_ref_usfm": "JHN 7:38",
+          "end_ref": "43007038",
+          "end_ref_usfm": "JHN 7:38"
+        },
+        {
+          "start_ref": "43015019",
+          "start_ref_usfm": "JHN 15:19",
+          "end_ref": "43015019",
+          "end_ref_usfm": "JHN 15:19"
+        },
+        {
+          "start_ref": "47005017",
+          "start_ref_usfm": "2CO 5:17",
+          "end_ref": "47005017",
+          "end_ref_usfm": "2CO 5:17"
+        },
+        {
+          "start_ref": "49005008",
+          "start_ref_usfm": "EPH 5:8",
+          "end_ref": "49005008",
+          "end_ref_usfm": "EPH 5:8"
+        },
+        {
+          "start_ref": "51001013",
+          "start_ref_usfm": "COL 1:13",
+          "end_ref": "51001013",
+          "end_ref_usfm": "COL 1:13"
+        },
+        {
+          "start_ref": "66007016",
+          "start_ref_usfm": "REV 7:16",
+          "end_ref": "66007016",
+          "end_ref_usfm": "REV 7:16"
+        },
+        {
+          "start_ref": "23043019",
+          "start_ref_usfm": "ISA 43:19",
+          "end_ref": "23043020",
+          "end_ref_usfm": "ISA 43:20"
+        },
+        {
+          "start_ref": "23044003",
+          "start_ref_usfm": "ISA 44:3",
+          "end_ref": "23044004",
+          "end_ref_usfm": "ISA 44:4"
+        },
+        {
+          "start_ref": "29003017",
+          "start_ref_usfm": "JOL 3:17",
+          "end_ref": "29003021",
+          "end_ref_usfm": "JOL 3:21"
+        },
+        {
+          "start_ref": "23052011",
+          "start_ref_usfm": "ISA 52:11",
+          "end_ref": "23052012",
+          "end_ref_usfm": "ISA 52:12"
+        },
+        {
+          "start_ref": "47006017",
+          "start_ref_usfm": "2CO 6:17",
+          "end_ref": "47006018",
+          "end_ref_usfm": "2CO 6:18"
+        },
+        {
+          "start_ref": "23035008",
+          "start_ref_usfm": "ISA 35:8",
+          "end_ref": "23035010",
+          "end_ref_usfm": "ISA 35:10"
+        },
+        {
+          "start_ref": "42001078",
+          "start_ref_usfm": "LUK 1:78",
+          "end_ref": "42001079",
+          "end_ref_usfm": "LUK 1:79"
+        },
+        {
+          "start_ref": "23048020",
+          "start_ref_usfm": "ISA 48:20",
+          "end_ref": "23048021",
+          "end_ref_usfm": "ISA 48:21"
+        },
+        {
+          "start_ref": "23042014",
+          "start_ref_usfm": "ISA 42:14",
+          "end_ref": "23042016",
+          "end_ref_usfm": "ISA 42:16"
+        },
+        {
+          "start_ref": "23043018",
+          "start_ref_usfm": "ISA 43:18",
+          "end_ref": "23043021",
+          "end_ref_usfm": "ISA 43:21"
+        },
+        {
+          "start_ref": "23049009",
+          "start_ref_usfm": "ISA 49:9",
+          "end_ref": "23049012",
+          "end_ref_usfm": "ISA 49:12"
+        },
+        {
+          "start_ref": "23058008",
+          "start_ref_usfm": "ISA 58:8",
+          "end_ref": "23058012",
+          "end_ref_usfm": "ISA 58:12"
+        },
+        {
+          "start_ref": "24031002",
+          "start_ref_usfm": "JER 31:2",
+          "end_ref": "24031017",
+          "end_ref_usfm": "JER 31:17"
+        },
+        {
+          "start_ref": "58013012",
+          "start_ref_usfm": "HEB 13:12",
+          "end_ref": "58013014",
+          "end_ref_usfm": "HEB 13:14"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702237,
+    "reference_id": 203173,
+    "version": "1.0.1",
+    "title": "الوعد بالنسل المَلَكي",
+    "media_type": "Text",
+    "index_reference": "الوعد بالنسل المَلَكي",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>وعد الله الملك داود بأن نسله سيبقى إلى الأبد (<a href=\"https://ref.ly/2Sam7:11-2Sam7:16\">2 صموئيل 7:11–16 </a>والمقطع الموازي نجده في <a href=\"https://ref.ly/1Chr17:9-1Chr17:14\">1 أخبار الأيام 17:9–14</a>). ومع ذلك، عاش كاتب أخبار الأيام (المعروف بالمؤرّخ) في زمن بدا فيه أن نسل داود قد انقطع. فمع أن نسل داود قد استمر، إلا أنه لم يكن هناك أي ملك من نسله يجلس على العرش منذ سبي يهوذا إلى بابل قبل أكثر من 150 عامًا (انظر <a href=\"https://ref.ly/1Chr3:17-1Chr3:23\">1 أخبار الأيام 3:1–24</a>). وقد أثار هذا الوضع شكوكًا حول رجاء إسرائيل المستقبلي.</p><p>كان هدف المؤرّخ هو أن يُظهر أن وعد الله لداود كان وعدًا غير مشروط، وأن عرشه كان بالفعل &quot;<span>ثَابِتًا إِلَى ٱلْأَبَدِ.</span>&quot; فحتى احتمال السبي لا يلغي الرجاء في وعد الله بسلالة مَلَكية. لقد كان الوعد مستمرًا ليتحقق في المستقبل حين يرث العرش أحد أحفاد نسل داود (<a href=\"https://ref.ly/1Chr17:11\">1 أخبار الأيام 17:11</a>).</p><p>لم يكتب المؤرّخ بشكل مباشر عن المسيّا بالمعنى الدقيق للمصطلح. فلم يكن التركيز بشكل أساسي على <span>مجيء </span>مُخلِّص مُختار من الله. بل كان رجاءه هو أن يقود ملوك من نسل داود جماعة العهد مرة أخرى (أي شعب إسرائيل الذين كان لهم عهد خاص مع الله). وكان المؤرّخ يشجّع الجماعة على توقّع ملك جديد يحسّن من حال إسرائيل.</p><p>لقد حقق ميلاد يسوع، ابن داود، رجاء المؤرّخ لإسرائيل. لقد كان يسوع هو التلبية لتوقّع المؤرخ بقدوم ملك جديد (انظر <a href=\"https://ref.ly/Matt1:1-Matt1:17\">متّى 1:1–17</a>). ويمتد ملكوت الملك ليشمل جميع الأمم (<a href=\"https://ref.ly/Isa49:6\">إشعياء 49:6</a>). وهي تمتد &quot;<span>مِنَ ٱلْبَحْرِ إِلَى ٱلْبَحْرِ، وَمِنَ ٱلنَّهْرِ إِلَى أَقَاصِي ٱلْأَرْضِ</span>&quot; (<a href=\"https://ref.ly/Zech9:10\">زكريّا 9:10</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Gen49:8-Gen49:12\">تكوين 49:8–12</a>; <a href=\"https://ref.ly/1Chr5:1-1Chr5:2\">1 أخبار الأيام 5:1–2</a>; <a href=\"https://ref.ly/1Chr17:1-1Chr17:15\">17:1–15</a>; <a href=\"https://ref.ly/1Chr22:6-1Chr22:13\">22:6–13</a>; <a href=\"https://ref.ly/1Chr28:4-1Chr28:7\">28:4–7</a>; <a href=\"https://ref.ly/Ps78:67-Ps78:72\">مزامير 78:67–72</a>; <a href=\"https://ref.ly/Ps132:11-Ps132:12\">132:11–12</a>; <a href=\"https://ref.ly/Amos9:11-Amos9:12\">عاموس 9:11–12</a>; <a href=\"https://ref.ly/Matt1:1-Matt1:17\">متى 1:1–17</a>; <a href=\"https://ref.ly/Matt22:41-Matt22:46\">22:41–46</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13017011",
+          "start_ref_usfm": "1CH 17:11",
+          "end_ref": "13017011",
+          "end_ref_usfm": "1CH 17:11"
+        },
+        {
+          "start_ref": "23049006",
+          "start_ref_usfm": "ISA 49:6",
+          "end_ref": "23049006",
+          "end_ref_usfm": "ISA 49:6"
+        },
+        {
+          "start_ref": "38009010",
+          "start_ref_usfm": "ZEC 9:10",
+          "end_ref": "38009010",
+          "end_ref_usfm": "ZEC 9:10"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
+        },
+        {
+          "start_ref": "30009011",
+          "start_ref_usfm": "AMO 9:11",
+          "end_ref": "30009012",
+          "end_ref_usfm": "AMO 9:12"
+        },
+        {
+          "start_ref": "13005001",
+          "start_ref_usfm": "1CH 5:1",
+          "end_ref": "13005002",
+          "end_ref_usfm": "1CH 5:2"
+        },
+        {
+          "start_ref": "01049008",
+          "start_ref_usfm": "GEN 49:8",
+          "end_ref": "01049012",
+          "end_ref_usfm": "GEN 49:12"
+        },
+        {
+          "start_ref": "40022041",
+          "start_ref_usfm": "MAT 22:41",
+          "end_ref": "40022046",
+          "end_ref_usfm": "MAT 22:46"
+        },
+        {
+          "start_ref": "13017001",
+          "start_ref_usfm": "1CH 17:1",
+          "end_ref": "13017015",
+          "end_ref_usfm": "1CH 17:15"
+        },
+        {
+          "start_ref": "19078067",
+          "start_ref_usfm": "PSA 78:67",
+          "end_ref": "19078072",
+          "end_ref_usfm": "PSA 78:72"
+        },
+        {
+          "start_ref": "13003017",
+          "start_ref_usfm": "1CH 3:17",
+          "end_ref": "13003023",
+          "end_ref_usfm": "1CH 3:23"
+        },
+        {
+          "start_ref": "19132011",
+          "start_ref_usfm": "PSA 132:11",
+          "end_ref": "19132012",
+          "end_ref_usfm": "PSA 132:12"
+        },
+        {
+          "start_ref": "10007011",
+          "start_ref_usfm": "2SA 7:11",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "13017009",
+          "start_ref_usfm": "1CH 17:9",
+          "end_ref": "13017014",
+          "end_ref_usfm": "1CH 17:14"
+        },
+        {
+          "start_ref": "13022006",
+          "start_ref_usfm": "1CH 22:6",
+          "end_ref": "13022013",
+          "end_ref_usfm": "1CH 22:13"
+        },
+        {
+          "start_ref": "13028004",
+          "start_ref_usfm": "1CH 28:4",
+          "end_ref": "13028007",
+          "end_ref_usfm": "1CH 28:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702344,
+    "reference_id": 203280,
+    "version": "1.0.1",
+    "title": "الوعظ لجمهور صعب",
+    "media_type": "Text",
+    "index_reference": "الوعظ لجمهور صعب",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>في بعض الأحيان يطلب الله من الناس مشاركة الأخبار السارة المختصة بالرب يسوع مع جمهور صعب. قد يقاوم المستمعون الحق الإلهي، ويرفضون كلًا من الرسالة والرسول. صح هذا بشكل خاص مع أنبياء العهد القديم، الذين نقلوا رسائل لم يرغب الناس في سماعها، في كثير من الأحيان.  (انظر <a href=\"https://ref.ly/Jer26:7-Jer26:9\">إرميا 26:7–9</a>; <a href=\"https://ref.ly/Jer38:1-Jer38:6\">38:1–6</a>; <a href=\"https://ref.ly/Amos7:10-Amos7:13\">عاموس 7:10–13</a>).</p><p>وعظ ملاخي النبي لجمهور صعب. تضمنت جماعته أفرادًا كانوا:</p><ul><li><p>يشعورون بخيبة الأمل (<a href=\"https://ref.ly/Mal1:2\">ملاخي 1:2</a>)</p></li><li><p>لديهم انعدام الثقة (<a href=\"https://ref.ly/Mal1:7\">1:7</a>; <a href=\"https://ref.ly/Mal2:2\">2:2</a>)</p></li><li><p>غير مكترثين (<a href=\"https://ref.ly/Mal2:13-Mal2:16\">2:13–16</a>)</p></li><li><p>غير صادقين (<a href=\"https://ref.ly/Mal3:5\">3:5</a>)</p></li><li><p>غير مهتمين (<a href=\"https://ref.ly/Mal3:14-Mal3:15\">3:14–15</a>)</p></li><li><p>شككاكين، ومتشككين، وأشرار عن حق (انظر <a href=\"https://ref.ly/Mal4:1\">4:1</a>)</p></li></ul><p>ما الذي يجب على الواعظ قوله لمثل هذه الجماعة؟</p><p>استخدم ملاخي النبي الحوار لجذب انتباه جمهوره فينخرطوا في سلسلة من النقاشات. قدم النبي تصحيحًا قويًا أجاب به بذكاء على الاعتراضات التي قد يثيرها الناس، وهذا قبل أن يتمكنوا من الحديث. كانت رسالته قوية وجعلت الناس ينتبهون: “<span>حِينَئِذٍ كَلَّمَ مُتَّقُو ٱلرَّبِّ كُلُّ وَاحِدٍ قَرِيبَهُ، وَٱلرَّبُّ أَصْغَى وَسَمِعَ</span>” (<a href=\"https://ref.ly/Mal3:16\">ملاخي 3:16</a>).</p><p>ومثل الأنبياء، شارك كل من الرب يسوع وأتباعه برسائل مع جماهير قاومتهم (انظر، على سبيل المثال، <a href=\"https://ref.ly/Luke4:16-Luke4:30\">لوقا 4:16–30</a>؛ <a href=\"https://ref.ly/John10:22-John10:40\">يوحنا 10:22–40</a>؛ <a href=\"https://ref.ly/Acts5:26-Acts5:40\">أعمال الرسل 5:26–40</a>؛ <a href=\"https://ref.ly/Acts22:30-Acts23:10\">22:30–23:10</a>). ومع ذلك، لم تمنعهم هذه المقاومة من إتمام الواجب الذي كلفهم به الله في مشاركة الأخبار السارة المختصة بالرب يسوع مع الجميع (انظر <a href=\"https://ref.ly/Acts5:41-Acts5:42\">أعمال الرسل 5:41–42</a>). يمكن لأولئك الذين يبشرون برسالة الرب أن يأملوا في تجاوب إيجابية كما فعل ملاخي. ولكن، هذا ليس مضمونًا دائمًا.</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Gen19:6-Gen19:11\">تكوين 19:6–11</a>; <a href=\"https://ref.ly/Exod17:1-Exod17:13\">خروج 17:1–13</a>; <a href=\"https://ref.ly/Judg9:1-Judg9:21\">قضاة 9:1–21</a>; <a href=\"https://ref.ly/1Kgs22:8-1Kgs22:28\">1 ملوك 22:8–28</a>; <a href=\"https://ref.ly/Jer28:1-Jer28:17\">إرميا 28:1–17</a>; <a href=\"https://ref.ly/Mal3:14-Mal3:18\">ملاخي 3:14–18</a>; <a href=\"https://ref.ly/John10:24-John10:39\">يوحنّا 10:24–39</a>; <a href=\"https://ref.ly/Acts22:30-Acts23:10\">أعمال 22:30–23:10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "39001002",
+          "start_ref_usfm": "MAL 1:2",
+          "end_ref": "39001002",
+          "end_ref_usfm": "MAL 1:2"
+        },
+        {
+          "start_ref": "39001007",
+          "start_ref_usfm": "MAL 1:7",
+          "end_ref": "39001007",
+          "end_ref_usfm": "MAL 1:7"
+        },
+        {
+          "start_ref": "39002002",
+          "start_ref_usfm": "MAL 2:2",
+          "end_ref": "39002002",
+          "end_ref_usfm": "MAL 2:2"
+        },
+        {
+          "start_ref": "39003005",
+          "start_ref_usfm": "MAL 3:5",
+          "end_ref": "39003005",
+          "end_ref_usfm": "MAL 3:5"
+        },
+        {
+          "start_ref": "39003016",
+          "start_ref_usfm": "MAL 3:16",
+          "end_ref": "39003016",
+          "end_ref_usfm": "MAL 3:16"
+        },
+        {
+          "start_ref": "39004001",
+          "start_ref_usfm": "MAL 4:1",
+          "end_ref": "39004001",
+          "end_ref_usfm": "MAL 4:1"
+        },
+        {
+          "start_ref": "44022030",
+          "start_ref_usfm": "ACT 22:30",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "30007010",
+          "start_ref_usfm": "AMO 7:10",
+          "end_ref": "30007013",
+          "end_ref_usfm": "AMO 7:13"
+        },
+        {
+          "start_ref": "24028001",
+          "start_ref_usfm": "JER 28:1",
+          "end_ref": "24028017",
+          "end_ref_usfm": "JER 28:17"
+        },
+        {
+          "start_ref": "42004016",
+          "start_ref_usfm": "LUK 4:16",
+          "end_ref": "42004030",
+          "end_ref_usfm": "LUK 4:30"
+        },
+        {
+          "start_ref": "24038001",
+          "start_ref_usfm": "JER 38:1",
+          "end_ref": "24038006",
+          "end_ref_usfm": "JER 38:6"
+        },
+        {
+          "start_ref": "39003014",
+          "start_ref_usfm": "MAL 3:14",
+          "end_ref": "39003018",
+          "end_ref_usfm": "MAL 3:18"
+        },
+        {
+          "start_ref": "24026007",
+          "start_ref_usfm": "JER 26:7",
+          "end_ref": "24026009",
+          "end_ref_usfm": "JER 26:9"
+        },
+        {
+          "start_ref": "11022008",
+          "start_ref_usfm": "1KI 22:8",
+          "end_ref": "11022028",
+          "end_ref_usfm": "1KI 22:28"
+        },
+        {
+          "start_ref": "39002013",
+          "start_ref_usfm": "MAL 2:13",
+          "end_ref": "39002016",
+          "end_ref_usfm": "MAL 2:16"
+        },
+        {
+          "start_ref": "39003014",
+          "start_ref_usfm": "MAL 3:14",
+          "end_ref": "39003015",
+          "end_ref_usfm": "MAL 3:15"
+        },
+        {
+          "start_ref": "43010022",
+          "start_ref_usfm": "JHN 10:22",
+          "end_ref": "43010040",
+          "end_ref_usfm": "JHN 10:40"
+        },
+        {
+          "start_ref": "44005026",
+          "start_ref_usfm": "ACT 5:26",
+          "end_ref": "44005040",
+          "end_ref_usfm": "ACT 5:40"
+        },
+        {
+          "start_ref": "44005041",
+          "start_ref_usfm": "ACT 5:41",
+          "end_ref": "44005042",
+          "end_ref_usfm": "ACT 5:42"
+        },
+        {
+          "start_ref": "01019006",
+          "start_ref_usfm": "GEN 19:6",
+          "end_ref": "01019011",
+          "end_ref_usfm": "GEN 19:11"
+        },
+        {
+          "start_ref": "02017001",
+          "start_ref_usfm": "EXO 17:1",
+          "end_ref": "02017013",
+          "end_ref_usfm": "EXO 17:13"
+        },
+        {
+          "start_ref": "07009001",
+          "start_ref_usfm": "JDG 9:1",
+          "end_ref": "07009021",
+          "end_ref_usfm": "JDG 9:21"
+        },
+        {
+          "start_ref": "43010024",
+          "start_ref_usfm": "JHN 10:24",
+          "end_ref": "43010039",
+          "end_ref_usfm": "JHN 10:39"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702213,
+    "reference_id": 203149,
+    "version": "1.0.1",
+    "title": "الوليّ (الفادي العائلي)",
+    "media_type": "Text",
+    "index_reference": "الوليّ (الفادي العائلي)",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>كانت فكرة &quot;الوليّ الفادي&quot; (أو الفادي العائلي) مُؤسَّسة في شريعة موسى. وتُقدّم لنا قصة راعوث مثالًا واضحًا على هذا المفهوم، حيث يأخذ المصطلح هناك معنى قانونيًا محددًا. في مواضع أخرى، يُترجم المصطلح العبري <em>go’el</em> إلى &quot;القريب الأقرب&quot; (<a href=\"https://ref.ly/Num27:11\">العدد 27:11</a>; <a href=\"https://ref.ly/Num35:19\">35:19</a>, <a href=\"https://ref.ly/Num35:24\">24</a>).</p><p>وقد كان للوليّ، وفقًا لشريعة موسى، ثلاث مهام رئيسية في إسرائيل:</p><ol><li><p>يشرح سفر <a href=\"https://ref.ly/Lev25:23-Lev25:34\">لاويين 25:23–34</a> أنه إذا افتقر إسرائيلي واضطر إلى بيع أرضه، فعلى أحد أقربائه أن يسدّد الدين ويسترد الأرض ليحفظها ضمن ميراث العائلة. وإن لم يوجد قريب قادر على الشراء، ولم يستطع البائع أن يسترد الأرض بنفسه، فإن الأرض تعود إليه أو إلى ورثته في سنة اليوبيل (أي السنة الخمسين). من الأمثلة على الفادي العائلي الذي اشترى الأرض لأحد أقربائه هم بوعز وأرميا (<a href=\"https://ref.ly/Ruth4:1-Ruth4:12\">راعوث 4:1–12</a>; <a href=\"https://ref.ly/Jer32:6-Jer32:15\">إرميا 32:6–15</a>).</p></li><li><p>وبالمثل، إذا افتقر إسرائيلي واضطر إلى بيع نفسه كعبد لتسديد ديونه، فكان على الوليّ واجب أن يفكّه من خدمة الغريب (<a href=\"https://ref.ly/Lev25:35-Lev25:55\">لاويين 25:35–55</a>). وكان على الفقير الإسرائيلي أن يسدّد دينه من خلال العمل لدى قريبه، ومن المحتمل أن يعامله القريب أفضل بكثير مما كان سيعامله الغريب.</p></li><li><p>كان الوليّ مسؤولاً عن السعي لتحقيق العدالة إذا قُتل شخص إسرائيلي، كما هو موضح في <a href=\"https://ref.ly/Num35:9-Num35:34\">العدد 35:9–34</a>.</p></li></ol><p>تُظهر لنا فكرة الوليّ أن الله هو مالك كل شيء. وأنه يحثّنا على أن نحب أقاربنا كما نحب أنفسنا (<a href=\"https://ref.ly/Lev19:18\">لاويين 19:18</a>; <a href=\"https://ref.ly/Matt22:39-Matt22:40\">متّى 22:39–40</a>). ويصف العهد الجديد يسوع كالوليّ الكامل، الذي يحرّرنا من عبودية الخطية والموت، التي اخترناها نحن بأنفسنا (<a href=\"https://ref.ly/Matt20:28\">متّى 20:28</a>; <a href=\"https://ref.ly/Rom3:24-Rom3:25\">رومية 3:24–25</a>; <a href=\"https://ref.ly/Eph1:7\">أفسس 1:7</a>; <a href=\"https://ref.ly/Titus2:14\">تيطس 2:14</a>; <a href=\"https://ref.ly/Rev5:9\">رؤيا 5:9</a>; قارن <a href=\"https://ref.ly/Exod6:6\">خروج 6:6</a>; <a href=\"https://ref.ly/Exod15:13\">15:13</a>; <a href=\"https://ref.ly/Ps130:8\">مزمور 130:8</a>; <a href=\"https://ref.ly/Isa44:22\">إشعياء 44:22</a>; <a href=\"https://ref.ly/Isa59:20\">59:20</a>; <a href=\"https://ref.ly/Isa63:9\">63:9</a>; <a href=\"https://ref.ly/Jer31:11\">إرميا 31:11</a>).</p><p>ومثلما فعل الوليّ في العهد القديم، مثال بوعز، واتباعاً لفادينا العظيم، ينبغي علينا أن نظهر الحب واللطف للآخرين (<a href=\"https://ref.ly/Lev19:11-Lev19:18\">لاويين 19:11–18</a>; <a href=\"https://ref.ly/Matt5:43-Matt5:48\">متّى 5:43–48</a>; <a href=\"https://ref.ly/Matt19:19\">19:19</a>; <a href=\"https://ref.ly/Matt22:37-Matt22:40\">22:37–40</a>; <a href=\"https://ref.ly/Rom13:8-Rom13:10\">رومية 13:8–10</a>; <a href=\"https://ref.ly/Gal5:14\">غلاطية 5:14</a>; <a href=\"https://ref.ly/Jas2:8-Jas2:9\">يعقوب 2:8–9</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Lev25:23-Lev25:55\">اللاويين 25:23–55</a>; <a href=\"https://ref.ly/Num35:9-Num35:34\">العدد 35:9–34</a>; <a href=\"https://ref.ly/Ruth2:20\">راعوث 2:20</a>; <a href=\"https://ref.ly/Ruth3:9\">3:9</a>, <a href=\"https://ref.ly/Ruth3:12\">12</a>; <a href=\"https://ref.ly/Ruth4:1-Ruth4:10\">4:1–10</a>; <a href=\"https://ref.ly/Isa59:20\">إشعياء 59:20</a>; <a href=\"https://ref.ly/Jer32:6-Jer32:15\">إرميا 32:6–15</a>; <a href=\"https://ref.ly/Matt20:28\">متى 20:28</a>; <a href=\"https://ref.ly/Rom3:24-Rom3:25\">رومية 3:24–25</a>; <a href=\"https://ref.ly/Eph1:7\">أفسس 1:7</a>; <a href=\"https://ref.ly/Titus2:14\">تيطس 2:14</a>; <a href=\"https://ref.ly/Rev5:9\">رؤيا 5:9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02006006",
+          "start_ref_usfm": "EXO 6:6",
+          "end_ref": "02006006",
+          "end_ref_usfm": "EXO 6:6"
+        },
+        {
+          "start_ref": "02015013",
+          "start_ref_usfm": "EXO 15:13",
+          "end_ref": "02015013",
+          "end_ref_usfm": "EXO 15:13"
+        },
+        {
+          "start_ref": "03019018",
+          "start_ref_usfm": "LEV 19:18",
+          "end_ref": "03019018",
+          "end_ref_usfm": "LEV 19:18"
+        },
+        {
+          "start_ref": "04027011",
+          "start_ref_usfm": "NUM 27:11",
+          "end_ref": "04027011",
+          "end_ref_usfm": "NUM 27:11"
+        },
+        {
+          "start_ref": "04035019",
+          "start_ref_usfm": "NUM 35:19",
+          "end_ref": "04035019",
+          "end_ref_usfm": "NUM 35:19"
+        },
+        {
+          "start_ref": "04035024",
+          "start_ref_usfm": "NUM 35:24",
+          "end_ref": "04035024",
+          "end_ref_usfm": "NUM 35:24"
+        },
+        {
+          "start_ref": "08002020",
+          "start_ref_usfm": "RUT 2:20",
+          "end_ref": "08002020",
+          "end_ref_usfm": "RUT 2:20"
+        },
+        {
+          "start_ref": "08003009",
+          "start_ref_usfm": "RUT 3:9",
+          "end_ref": "08003009",
+          "end_ref_usfm": "RUT 3:9"
+        },
+        {
+          "start_ref": "08003012",
+          "start_ref_usfm": "RUT 3:12",
+          "end_ref": "08003012",
+          "end_ref_usfm": "RUT 3:12"
+        },
+        {
+          "start_ref": "19130008",
+          "start_ref_usfm": "PSA 130:8",
+          "end_ref": "19130008",
+          "end_ref_usfm": "PSA 130:8"
+        },
+        {
+          "start_ref": "23044022",
+          "start_ref_usfm": "ISA 44:22",
+          "end_ref": "23044022",
+          "end_ref_usfm": "ISA 44:22"
+        },
+        {
+          "start_ref": "23059020",
+          "start_ref_usfm": "ISA 59:20",
+          "end_ref": "23059020",
+          "end_ref_usfm": "ISA 59:20"
+        },
+        {
+          "start_ref": "23063009",
+          "start_ref_usfm": "ISA 63:9",
+          "end_ref": "23063009",
+          "end_ref_usfm": "ISA 63:9"
+        },
+        {
+          "start_ref": "24031011",
+          "start_ref_usfm": "JER 31:11",
+          "end_ref": "24031011",
+          "end_ref_usfm": "JER 31:11"
+        },
+        {
+          "start_ref": "40019019",
+          "start_ref_usfm": "MAT 19:19",
+          "end_ref": "40019019",
+          "end_ref_usfm": "MAT 19:19"
+        },
+        {
+          "start_ref": "40020028",
+          "start_ref_usfm": "MAT 20:28",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "48005014",
+          "start_ref_usfm": "GAL 5:14",
+          "end_ref": "48005014",
+          "end_ref_usfm": "GAL 5:14"
+        },
+        {
+          "start_ref": "49001007",
+          "start_ref_usfm": "EPH 1:7",
+          "end_ref": "49001007",
+          "end_ref_usfm": "EPH 1:7"
+        },
+        {
+          "start_ref": "56002014",
+          "start_ref_usfm": "TIT 2:14",
+          "end_ref": "56002014",
+          "end_ref_usfm": "TIT 2:14"
+        },
+        {
+          "start_ref": "66005009",
+          "start_ref_usfm": "REV 5:9",
+          "end_ref": "66005009",
+          "end_ref_usfm": "REV 5:9"
+        },
+        {
+          "start_ref": "40005043",
+          "start_ref_usfm": "MAT 5:43",
+          "end_ref": "40005048",
+          "end_ref_usfm": "MAT 5:48"
+        },
+        {
+          "start_ref": "45013008",
+          "start_ref_usfm": "ROM 13:8",
+          "end_ref": "45013010",
+          "end_ref_usfm": "ROM 13:10"
+        },
+        {
+          "start_ref": "08004001",
+          "start_ref_usfm": "RUT 4:1",
+          "end_ref": "08004012",
+          "end_ref_usfm": "RUT 4:12"
+        },
+        {
+          "start_ref": "24032006",
+          "start_ref_usfm": "JER 32:6",
+          "end_ref": "24032015",
+          "end_ref_usfm": "JER 32:15"
+        },
+        {
+          "start_ref": "40022037",
+          "start_ref_usfm": "MAT 22:37",
+          "end_ref": "40022040",
+          "end_ref_usfm": "MAT 22:40"
+        },
+        {
+          "start_ref": "04035009",
+          "start_ref_usfm": "NUM 35:9",
+          "end_ref": "04035034",
+          "end_ref_usfm": "NUM 35:34"
+        },
+        {
+          "start_ref": "59002008",
+          "start_ref_usfm": "JAS 2:8",
+          "end_ref": "59002009",
+          "end_ref_usfm": "JAS 2:9"
+        },
+        {
+          "start_ref": "03025023",
+          "start_ref_usfm": "LEV 25:23",
+          "end_ref": "03025034",
+          "end_ref_usfm": "LEV 25:34"
+        },
+        {
+          "start_ref": "03025035",
+          "start_ref_usfm": "LEV 25:35",
+          "end_ref": "03025055",
+          "end_ref_usfm": "LEV 25:55"
+        },
+        {
+          "start_ref": "40022039",
+          "start_ref_usfm": "MAT 22:39",
+          "end_ref": "40022040",
+          "end_ref_usfm": "MAT 22:40"
+        },
+        {
+          "start_ref": "45003024",
+          "start_ref_usfm": "ROM 3:24",
+          "end_ref": "45003025",
+          "end_ref_usfm": "ROM 3:25"
+        },
+        {
+          "start_ref": "03019011",
+          "start_ref_usfm": "LEV 19:11",
+          "end_ref": "03019018",
+          "end_ref_usfm": "LEV 19:18"
+        },
+        {
+          "start_ref": "03025023",
+          "start_ref_usfm": "LEV 25:23",
+          "end_ref": "03025055",
+          "end_ref_usfm": "LEV 25:55"
+        },
+        {
+          "start_ref": "08004001",
+          "start_ref_usfm": "RUT 4:1",
+          "end_ref": "08004010",
+          "end_ref_usfm": "RUT 4:10"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702369,
+    "reference_id": 203305,
+    "version": "1.0.1",
+    "title": "الوليمة المسيّانية",
+    "media_type": "Text",
+    "index_reference": "الوليمة المسيّانية",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>من خلال تعاليمه ومعجزاته، أظهر يسوع أن الوليمة المسيانية كانت مُعَدّة. الوليمة المسيانية هي الوليمة الخاصة التي وعد الله بإعدادها عند مجيء المسيّا. وفيها يدعو جميع الناس لقبول خلاص الله وأن يصبحوا جزءًا من ملكوت الله.</p><p>قارن يسوع خدمته بوليمة عُرس، وكان هو نفسه العريس (<a href=\"https://ref.ly/Luke5:33-Luke5:35\">لوقا 5:33–35</a>). كان ملكوت الله يشبه وليمة عظيمة. دعا الله إليها الجميع، لكن البعض رفضوا الحضور (<a href=\"https://ref.ly/Luke14:15-Luke14:24\">لوقا 14:15–24</a>; انظر أيضًا <a href=\"https://ref.ly/Matt8:11-Matt8:12\">متّى 8:11–12</a>). وكان يسوع كثيرًا ما يأكل مع أشخاص من خلفيات متنوعة، بما في ذلك جباة الضرائب المرفوضون اجتماعيًا، وأيضًا الفريسيون المتدينون (<a href=\"https://ref.ly/Luke5:29-Luke5:32\">5:29–32</a>; <a href=\"https://ref.ly/Luke7:36-Luke7:50\">7:36–50</a>; <a href=\"https://ref.ly/Luke11:37-Luke11:41\">11:37–41</a>; <a href=\"https://ref.ly/Luke14:1-Luke14:6\">14:1–6</a>).</p><p>كما استخدم يسوع أيضًا صورة الولائم والمآدب في تعاليمه وأمثاله (<a href=\"https://ref.ly/Luke5:33-Luke5:35\">لوقا 5:33–35</a>; <a href=\"https://ref.ly/Luke12:35-Luke12:38\">12:35–38</a>; <a href=\"https://ref.ly/Luke14:7-Luke14:14\">14:7–14</a>, <a href=\"https://ref.ly/Luke14:15-Luke14:24\">15–24</a>; <a href=\"https://ref.ly/Luke17:7-Luke17:10\">17:7–10</a>; <a href=\"https://ref.ly/Luke22:28-Luke22:30\">22:28–30</a>). كما أطعم جموعًا كبيرة من الناس ببضعة أرغفة وسمكات قليلة فقط (<a href=\"https://ref.ly/Luke9:10-Luke9:17\">9:10–17</a>).</p><p>الخلفية في العهد القديم لهذه الصور الاحتفالية الرمزية عن الوليمة نجدها في <a href=\"https://ref.ly/Isa25:6\">إشعياء 25:6، </a>حيث يصف خلاص الله النهائي بأنه وليمة عظيمة لكل الشعوب: &quot;وَيَصْنَعُ رَبُّ الْجُنُودِ لِجَمِيعِ الشُّعُوبِ فِي هذَا الْجَبَلِ وَلِيمَةَ سَمَائِنَ، وَلِيمَةَ خَمْرٍ عَلَى دَرْدِيّ، سَمَائِنَ مُمِخَّةٍ، دَرْدِيّ مُصَفًّى.&quot; (انظر أيضًا <a href=\"https://ref.ly/Isa65:13-Isa65:14\">إشعياء 65:13–14</a>).</p><p>بدأت خدمة يسوع العلنية بالدعوة إلى الوليمة وافتتاحها. فبموته وقيامته، قدّم الخلاص. وأصبح الآن بإمكان الجميع أن يأتوا إلى مائدة الله وينالوا بركات الملكوت الروحية. ومع ذلك، ستتحقق هذه الوليمة بالكامل في ملكوت الله المستقبلي. وعندئذ، كما وعد يسوع، سيأكل تلاميذ يسوع ويشربون على مائدته في ملكوته، ويجلسون <span>عَلَى كَرَاسِيَّ</span>، ويدينون أَسْبَاطَ إِسْرَائِيلَ ٱلِٱثْنَيْ عَشَرَ (<a href=\"https://ref.ly/Luke22:30\">لوقا 22:30</a>؛ انظر أيضًا <a href=\"https://ref.ly/Rev19:7-Rev19:9\">رؤيا 19:7–9</a>). <span> </span></p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Isa25:6\">إشعياء 25:6</a>; <a href=\"https://ref.ly/Isa65:13-Isa65:14\">65:13–14</a>; <a href=\"https://ref.ly/Luke5:29-Luke5:35\">لوقا 5:29–35</a>; <a href=\"https://ref.ly/Luke6:21\">6:21</a>; <a href=\"https://ref.ly/Luke7:36-Luke7:50\">7:36–50</a>; <a href=\"https://ref.ly/Luke9:10-Luke9:17\">9:10–17</a>; <a href=\"https://ref.ly/Luke11:37-Luke11:41\">11:37–41</a>; <a href=\"https://ref.ly/Luke12:35-Luke12:40\">12:35–40</a>; <a href=\"https://ref.ly/Luke13:24-Luke13:30\">13:24–30</a>; <a href=\"https://ref.ly/Luke14:1-Luke14:24\">14:1–24</a>; <a href=\"https://ref.ly/Luke17:8\">17:8</a>; <a href=\"https://ref.ly/Luke22:30\">22:30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23025006",
+          "start_ref_usfm": "ISA 25:6",
+          "end_ref": "23025006",
+          "end_ref_usfm": "ISA 25:6"
+        },
+        {
+          "start_ref": "42006021",
+          "start_ref_usfm": "LUK 6:21",
+          "end_ref": "42006021",
+          "end_ref_usfm": "LUK 6:21"
+        },
+        {
+          "start_ref": "42017008",
+          "start_ref_usfm": "LUK 17:8",
+          "end_ref": "42017008",
+          "end_ref_usfm": "LUK 17:8"
+        },
+        {
+          "start_ref": "42022030",
+          "start_ref_usfm": "LUK 22:30",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        },
+        {
+          "start_ref": "42014015",
+          "start_ref_usfm": "LUK 14:15",
+          "end_ref": "42014024",
+          "end_ref_usfm": "LUK 14:24"
+        },
+        {
+          "start_ref": "66019007",
+          "start_ref_usfm": "REV 19:7",
+          "end_ref": "66019009",
+          "end_ref_usfm": "REV 19:9"
+        },
+        {
+          "start_ref": "42009010",
+          "start_ref_usfm": "LUK 9:10",
+          "end_ref": "42009017",
+          "end_ref_usfm": "LUK 9:17"
+        },
+        {
+          "start_ref": "42017007",
+          "start_ref_usfm": "LUK 17:7",
+          "end_ref": "42017010",
+          "end_ref_usfm": "LUK 17:10"
+        },
+        {
+          "start_ref": "42007036",
+          "start_ref_usfm": "LUK 7:36",
+          "end_ref": "42007050",
+          "end_ref_usfm": "LUK 7:50"
+        },
+        {
+          "start_ref": "40008011",
+          "start_ref_usfm": "MAT 8:11",
+          "end_ref": "40008012",
+          "end_ref_usfm": "MAT 8:12"
+        },
+        {
+          "start_ref": "42022028",
+          "start_ref_usfm": "LUK 22:28",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "23065013",
+          "start_ref_usfm": "ISA 65:13",
+          "end_ref": "23065014",
+          "end_ref_usfm": "ISA 65:14"
+        },
+        {
+          "start_ref": "42005033",
+          "start_ref_usfm": "LUK 5:33",
+          "end_ref": "42005035",
+          "end_ref_usfm": "LUK 5:35"
+        },
+        {
+          "start_ref": "42011037",
+          "start_ref_usfm": "LUK 11:37",
+          "end_ref": "42011041",
+          "end_ref_usfm": "LUK 11:41"
+        },
+        {
+          "start_ref": "42014001",
+          "start_ref_usfm": "LUK 14:1",
+          "end_ref": "42014006",
+          "end_ref_usfm": "LUK 14:6"
+        },
+        {
+          "start_ref": "42012035",
+          "start_ref_usfm": "LUK 12:35",
+          "end_ref": "42012038",
+          "end_ref_usfm": "LUK 12:38"
+        },
+        {
+          "start_ref": "42014007",
+          "start_ref_usfm": "LUK 14:7",
+          "end_ref": "42014014",
+          "end_ref_usfm": "LUK 14:14"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005035",
+          "end_ref_usfm": "LUK 5:35"
+        },
+        {
+          "start_ref": "42012035",
+          "start_ref_usfm": "LUK 12:35",
+          "end_ref": "42012040",
+          "end_ref_usfm": "LUK 12:40"
+        },
+        {
+          "start_ref": "42013024",
+          "start_ref_usfm": "LUK 13:24",
+          "end_ref": "42013030",
+          "end_ref_usfm": "LUK 13:30"
+        },
+        {
+          "start_ref": "42014001",
+          "start_ref_usfm": "LUK 14:1",
+          "end_ref": "42014024",
+          "end_ref_usfm": "LUK 14:24"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702324,
+    "reference_id": 203260,
+    "version": "1.0.1",
+    "title": "وعد الحياة الجديدة",
+    "media_type": "Text",
+    "index_reference": "وعد الحياة الجديدة",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>القيامة معتقد أساسي في الإيمان المسيحي. وبدون القيامة، يبطل الإيمان المسيحي كله (<a href=\"https://ref.ly/1Cor15:14\">1كورنثوس 15:14</a>). يعدْ الله بأن شعبه سيشترك مع المسيح في هذه القيامة (<a href=\"https://ref.ly/Col3:1\">كولوسي 3:1</a>). من المهم أن نفهم بوضوح الحياة الجديدة التي يعدنا بها الله.</p><p><a href=\"https://ref.ly/Ezek37:1-Ezek37:28\">حزقيال 37</a> يشير إلى أن الجميع سيقومون بأجساد جديدة بعد الموت. ومع ذلك، فالنبي حزقيال لم يكن يسأل، &quot;هل يمكن للعظام البشرية أن تعود إلى الحياة؟&quot; إذ كان حزقيال وجمهور قُراءه على دراية بالفعل بإمكانية القيامة من معجزات إيليّا وأليشع (<a href=\"https://ref.ly/1Kgs17:17-1Kgs17:24\">1ملوك 17:17–24</a>؛ <a href=\"https://ref.ly/2Kgs4:31-2Kgs4:37\">2ملوك 4:31–37</a>؛ <a href=\"https://ref.ly/2Kgs13:20-2Kgs13:21\">13:20–21</a>). لكن بالأحرى كان حزقيال يسأل، &quot;أَتَحْيَا هَذِهِ ٱلْعِظَامُ؟&quot; إنه يتساءل عما إذا كان ٱلله يمكنه استعادة أمة يهوذا لأنها أمة مجردة، وممزقة، وقد يَبُستْ.</p><p>في ذلك الوقت، كان البابليون قد دمروا يهوذا والهيكل، وسبوا كثيرين إلى بابل. كانت الأمة قد فقدت قوتها، وتحطمت سياسيًا، وخارت قواها روحيًا. أولئك الذين بقوا في يهوذا كانوا مجموعة صغيرة، لم تكن سوى مجموعة من أشد الناس فقرا (انظر <a href=\"https://ref.ly/2Kgs25:8-2Kgs25:12\">2ملوك 25:8–12</a>). وظنّ كثيرون أنه لا مستقبل لشعب ٱلله. فقالوا، “يَبِسَتْ عِظَامُنَا وَهَلَكَ رَجَاؤُنَا. قَدِ ٱنْقَطَعْنَا.” (<a href=\"https://ref.ly/Ezek37:11\">حزقيال 37:11</a>). لم تكن المسألة ما إذا كان ٱلله <em>باستطاعته </em>إحيائهم، بل ما إذا كان <em>سيفعل</em> هذه المعجزة مع العظام اليابسة التي تمثل إسرائيل.</p><p>أجاب النبي على هذا السؤال بـ <em>نعم!</em> والله سيعيد شعبه إلى الحياة بسكب روحه استجابة لكلمة النبي. كان موتهم بسبب خطاياهم حقيقيًا. لكن الله لن يتركهم في القبر (انظر <a href=\"https://ref.ly/Ps16:10\">مزمور 16:10</a>). عوضا عن الموت، وعد الله بأنه سيمنح شعبه الحياة مستقبلًا بروحه. وسيجعلهم خليقة جديدة، إسرائيل جديدة مملوءة بالروح. سيقف شعب الله الجديد جيشًا عظيمًا لخدمة الرب.</p><p>يستطيع الله أن يحي الذين ماتوا جسديًا أو روحيًا. إنه يختار أن يمنح حياة جديدة للخطاة الذين لا يستحقون نوالها (انظر <a href=\"https://ref.ly/John3:5-John3:7\">يوحنا 3:5–7</a>؛ <a href=\"https://ref.ly/Eph2:1-Eph2:7\">أفسس 2:1–7</a>). ومن يرزحون تحت نير الخطية يحصلون أيضًا على الحياة الجديدة التي يقدمها الله بروحه، الآن وللأبد (انظر <a href=\"https://ref.ly/Rom8:5-Rom8:13\">رومية 8:5–13</a>؛ <a href=\"https://ref.ly/Col3:1-Col3:11\">كولوسي 3:1–11</a>). فمن يراهم العالم أنهم بعيدين عن الخلاص يجعلهم الله مقبولين لديه بالمسيح (<a href=\"https://ref.ly/1Cor6:9-1Cor6:11\">1كورنثوس 6:9–11</a>). كما يعدّهم أيضًا لأعمال صالحة في خدمته (<a href=\"https://ref.ly/Eph4:12-Eph4:13\">أفسس 4:12–13</a>؛ <a href=\"https://ref.ly/Eph6:11-Eph6:18\">6:11–18</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u> </p><p><a href=\"https://ref.ly/1Kgs17:17-1Kgs17:24\">1ملوك 17:17–24</a>؛ <a href=\"https://ref.ly/2Kgs4:31-2Kgs4:37\">2ملوك 4:31–37</a>؛ <a href=\"https://ref.ly/2Kgs13:20-2Kgs13:21\">13:20–21</a>؛ <a href=\"https://ref.ly/Ps16:10\">مزمور 16:10</a>؛ <a href=\"https://ref.ly/Ezek18:31\">حزقيال 18:31</a>؛ <a href=\"https://ref.ly/Ezek37:1-Ezek37:28\">37:1–28</a>؛ <a href=\"https://ref.ly/Ezek39:29\">39:29</a>؛ <a href=\"https://ref.ly/Matt22:31-Matt22:32\">متى 22:31–32</a>؛ <a href=\"https://ref.ly/Rom8:11\">رومية 8:11</a>؛ <a href=\"https://ref.ly/2Cor5:17\">2كورنثوس 5:17.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19016010",
+          "start_ref_usfm": "PSA 16:10",
+          "end_ref": "19016010",
+          "end_ref_usfm": "PSA 16:10"
+        },
+        {
+          "start_ref": "26018031",
+          "start_ref_usfm": "EZK 18:31",
+          "end_ref": "26018031",
+          "end_ref_usfm": "EZK 18:31"
+        },
+        {
+          "start_ref": "26037011",
+          "start_ref_usfm": "EZK 37:11",
+          "end_ref": "26037011",
+          "end_ref_usfm": "EZK 37:11"
+        },
+        {
+          "start_ref": "26039029",
+          "start_ref_usfm": "EZK 39:29",
+          "end_ref": "26039029",
+          "end_ref_usfm": "EZK 39:29"
+        },
+        {
+          "start_ref": "45008011",
+          "start_ref_usfm": "ROM 8:11",
+          "end_ref": "45008011",
+          "end_ref_usfm": "ROM 8:11"
+        },
+        {
+          "start_ref": "46015014",
+          "start_ref_usfm": "1CO 15:14",
+          "end_ref": "46015014",
+          "end_ref_usfm": "1CO 15:14"
+        },
+        {
+          "start_ref": "47005017",
+          "start_ref_usfm": "2CO 5:17",
+          "end_ref": "47005017",
+          "end_ref_usfm": "2CO 5:17"
+        },
+        {
+          "start_ref": "51003001",
+          "start_ref_usfm": "COL 3:1",
+          "end_ref": "51003001",
+          "end_ref_usfm": "COL 3:1"
+        },
+        {
+          "start_ref": "49004012",
+          "start_ref_usfm": "EPH 4:12",
+          "end_ref": "49004013",
+          "end_ref_usfm": "EPH 4:13"
+        },
+        {
+          "start_ref": "46006009",
+          "start_ref_usfm": "1CO 6:9",
+          "end_ref": "46006011",
+          "end_ref_usfm": "1CO 6:11"
+        },
+        {
+          "start_ref": "26037001",
+          "start_ref_usfm": "EZK 37:1",
+          "end_ref": "26037028",
+          "end_ref_usfm": "EZK 37:28"
+        },
+        {
+          "start_ref": "40022031",
+          "start_ref_usfm": "MAT 22:31",
+          "end_ref": "40022032",
+          "end_ref_usfm": "MAT 22:32"
+        },
+        {
+          "start_ref": "51003001",
+          "start_ref_usfm": "COL 3:1",
+          "end_ref": "51003011",
+          "end_ref_usfm": "COL 3:11"
+        },
+        {
+          "start_ref": "12013020",
+          "start_ref_usfm": "2KI 13:20",
+          "end_ref": "12013021",
+          "end_ref_usfm": "2KI 13:21"
+        },
+        {
+          "start_ref": "11017017",
+          "start_ref_usfm": "1KI 17:17",
+          "end_ref": "11017024",
+          "end_ref_usfm": "1KI 17:24"
+        },
+        {
+          "start_ref": "49002001",
+          "start_ref_usfm": "EPH 2:1",
+          "end_ref": "49002007",
+          "end_ref_usfm": "EPH 2:7"
+        },
+        {
+          "start_ref": "12004031",
+          "start_ref_usfm": "2KI 4:31",
+          "end_ref": "12004037",
+          "end_ref_usfm": "2KI 4:37"
+        },
+        {
+          "start_ref": "12025008",
+          "start_ref_usfm": "2KI 25:8",
+          "end_ref": "12025012",
+          "end_ref_usfm": "2KI 25:12"
+        },
+        {
+          "start_ref": "43003005",
+          "start_ref_usfm": "JHN 3:5",
+          "end_ref": "43003007",
+          "end_ref_usfm": "JHN 3:7"
+        },
+        {
+          "start_ref": "45008005",
+          "start_ref_usfm": "ROM 8:5",
+          "end_ref": "45008013",
+          "end_ref_usfm": "ROM 8:13"
+        },
+        {
+          "start_ref": "49006011",
+          "start_ref_usfm": "EPH 6:11",
+          "end_ref": "49006018",
+          "end_ref_usfm": "EPH 6:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

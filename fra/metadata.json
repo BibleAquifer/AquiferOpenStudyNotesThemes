@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Aquifer Open Study Notes (Themes)",
     "aquifer_name": "Study Notes - Themes (Tyndale)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Themes (Tyndale)",
     "short_name": "TSNT",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesThemes",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "fra",
     "localizations": [
       "eng",
@@ -50,7 +50,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:14:34.159553"
+      "dateCreated": "2025-11-17T09:32:13.773895"
     },
     "idAuthorities": {
       "aquifer": {
@@ -64,7 +64,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesThemes": {
-            "timestamp": "2025-11-06T13:14:34.159553"
+            "timestamp": "2025-11-17T09:32:13.773895"
           }
         }
       },
@@ -94,1113 +94,585 @@
       }
     },
     "ingredients": {
-      "json/000001.content.json": {
-        "mimeType": "text/json",
-        "size": 8690
-      },
-      "json/000002.content.json": {
-        "mimeType": "text/json",
-        "size": 8569
-      },
-      "json/000003.content.json": {
-        "mimeType": "text/json",
-        "size": 7366
-      },
-      "json/000004.content.json": {
-        "mimeType": "text/json",
-        "size": 25463
-      },
-      "json/000005.content.json": {
-        "mimeType": "text/json",
-        "size": 9895
-      },
-      "json/000006.content.json": {
-        "mimeType": "text/json",
-        "size": 9720
-      },
-      "json/000007.content.json": {
-        "mimeType": "text/json",
-        "size": 7094
-      },
-      "json/000008.content.json": {
-        "mimeType": "text/json",
-        "size": 7043
-      },
-      "json/000009.content.json": {
-        "mimeType": "text/json",
-        "size": 9484
-      },
-      "json/000010.content.json": {
-        "mimeType": "text/json",
-        "size": 3943
-      },
-      "json/000011.content.json": {
-        "mimeType": "text/json",
-        "size": 19025
-      },
-      "json/000012.content.json": {
-        "mimeType": "text/json",
-        "size": 15803
-      },
-      "json/000013.content.json": {
-        "mimeType": "text/json",
-        "size": 13132
-      },
-      "json/000014.content.json": {
-        "mimeType": "text/json",
-        "size": 12220
-      },
-      "json/000015.content.json": {
-        "mimeType": "text/json",
-        "size": 8541
-      },
-      "json/000016.content.json": {
-        "mimeType": "text/json",
-        "size": 11303
-      },
-      "json/000017.content.json": {
-        "mimeType": "text/json",
-        "size": 10707
-      },
-      "json/000018.content.json": {
-        "mimeType": "text/json",
-        "size": 7832
-      },
-      "json/000019.content.json": {
-        "mimeType": "text/json",
-        "size": 7847
-      },
-      "json/000020.content.json": {
-        "mimeType": "text/json",
-        "size": 4553
-      },
-      "json/000021.content.json": {
-        "mimeType": "text/json",
-        "size": 12028
-      },
-      "json/000022.content.json": {
-        "mimeType": "text/json",
-        "size": 7793
-      },
-      "json/000023.content.json": {
-        "mimeType": "text/json",
-        "size": 13836
-      },
-      "json/000024.content.json": {
-        "mimeType": "text/json",
-        "size": 7246
-      },
-      "json/000025.content.json": {
-        "mimeType": "text/json",
-        "size": 12184
-      },
-      "json/000026.content.json": {
-        "mimeType": "text/json",
-        "size": 7581
-      },
-      "json/000027.content.json": {
-        "mimeType": "text/json",
-        "size": 12682
-      },
-      "json/000028.content.json": {
-        "mimeType": "text/json",
-        "size": 12418
-      },
-      "json/000029.content.json": {
-        "mimeType": "text/json",
-        "size": 6049
-      },
-      "json/000030.content.json": {
-        "mimeType": "text/json",
-        "size": 9432
-      },
-      "json/000031.content.json": {
-        "mimeType": "text/json",
-        "size": 8768
-      },
-      "json/000032.content.json": {
-        "mimeType": "text/json",
-        "size": 15881
-      },
-      "json/000033.content.json": {
-        "mimeType": "text/json",
-        "size": 17490
-      },
-      "json/000034.content.json": {
-        "mimeType": "text/json",
-        "size": 16262
-      },
-      "json/000035.content.json": {
-        "mimeType": "text/json",
-        "size": 10350
-      },
-      "json/000036.content.json": {
-        "mimeType": "text/json",
-        "size": 5541
-      },
-      "json/000037.content.json": {
-        "mimeType": "text/json",
-        "size": 6724
-      },
-      "json/000038.content.json": {
-        "mimeType": "text/json",
-        "size": 16429
-      },
-      "json/000039.content.json": {
-        "mimeType": "text/json",
-        "size": 10398
-      },
-      "json/000040.content.json": {
-        "mimeType": "text/json",
-        "size": 5496
-      },
-      "json/000041.content.json": {
-        "mimeType": "text/json",
-        "size": 15096
-      },
-      "json/000042.content.json": {
-        "mimeType": "text/json",
-        "size": 14417
-      },
-      "json/000043.content.json": {
-        "mimeType": "text/json",
-        "size": 11956
-      },
-      "json/000044.content.json": {
-        "mimeType": "text/json",
-        "size": 6620
-      },
-      "json/000045.content.json": {
-        "mimeType": "text/json",
-        "size": 12693
-      },
-      "json/000046.content.json": {
-        "mimeType": "text/json",
-        "size": 14976
-      },
-      "json/000047.content.json": {
-        "mimeType": "text/json",
-        "size": 4111
-      },
-      "json/000048.content.json": {
-        "mimeType": "text/json",
-        "size": 10667
-      },
-      "json/000049.content.json": {
-        "mimeType": "text/json",
-        "size": 12355
-      },
-      "json/000050.content.json": {
-        "mimeType": "text/json",
-        "size": 4265
-      },
-      "json/000051.content.json": {
-        "mimeType": "text/json",
-        "size": 22141
-      },
-      "json/000052.content.json": {
-        "mimeType": "text/json",
-        "size": 10326
-      },
-      "json/000053.content.json": {
-        "mimeType": "text/json",
-        "size": 10436
-      },
-      "json/000054.content.json": {
-        "mimeType": "text/json",
-        "size": 11559
-      },
-      "json/000055.content.json": {
-        "mimeType": "text/json",
-        "size": 9164
-      },
-      "json/000056.content.json": {
-        "mimeType": "text/json",
-        "size": 7427
-      },
-      "json/000057.content.json": {
-        "mimeType": "text/json",
-        "size": 9343
-      },
-      "json/000058.content.json": {
-        "mimeType": "text/json",
-        "size": 11974
-      },
-      "json/000059.content.json": {
-        "mimeType": "text/json",
-        "size": 10494
-      },
-      "json/000060.content.json": {
-        "mimeType": "text/json",
-        "size": 7251
-      },
-      "json/000061.content.json": {
-        "mimeType": "text/json",
-        "size": 11359
-      },
-      "json/000062.content.json": {
-        "mimeType": "text/json",
-        "size": 5411
-      },
-      "json/000063.content.json": {
-        "mimeType": "text/json",
-        "size": 10010
-      },
-      "json/000064.content.json": {
-        "mimeType": "text/json",
-        "size": 11446
-      },
-      "json/000065.content.json": {
-        "mimeType": "text/json",
-        "size": 12048
-      },
-      "json/000066.content.json": {
-        "mimeType": "text/json",
-        "size": 5430
-      },
-      "json/000067.content.json": {
-        "mimeType": "text/json",
-        "size": 12283
-      },
-      "json/000068.content.json": {
-        "mimeType": "text/json",
-        "size": 16208
-      },
-      "json/000069.content.json": {
-        "mimeType": "text/json",
-        "size": 11417
-      },
-      "json/000070.content.json": {
-        "mimeType": "text/json",
-        "size": 7014
-      },
-      "json/000071.content.json": {
-        "mimeType": "text/json",
-        "size": 8136
-      },
-      "json/000072.content.json": {
-        "mimeType": "text/json",
-        "size": 7938
-      },
-      "json/000073.content.json": {
-        "mimeType": "text/json",
-        "size": 9758
-      },
-      "json/000074.content.json": {
-        "mimeType": "text/json",
-        "size": 7713
-      },
-      "json/000075.content.json": {
-        "mimeType": "text/json",
-        "size": 5808
-      },
-      "json/000076.content.json": {
-        "mimeType": "text/json",
-        "size": 6198
-      },
-      "json/000077.content.json": {
-        "mimeType": "text/json",
-        "size": 16494
-      },
-      "json/000078.content.json": {
-        "mimeType": "text/json",
-        "size": 4768
-      },
-      "json/000079.content.json": {
-        "mimeType": "text/json",
-        "size": 7325
-      },
-      "json/000080.content.json": {
-        "mimeType": "text/json",
-        "size": 3987
-      },
-      "json/000081.content.json": {
-        "mimeType": "text/json",
-        "size": 7676
-      },
-      "json/000082.content.json": {
-        "mimeType": "text/json",
-        "size": 7974
-      },
-      "json/000083.content.json": {
-        "mimeType": "text/json",
-        "size": 8871
-      },
-      "json/000084.content.json": {
-        "mimeType": "text/json",
-        "size": 10428
-      },
-      "json/000085.content.json": {
-        "mimeType": "text/json",
-        "size": 7081
-      },
-      "json/000086.content.json": {
-        "mimeType": "text/json",
-        "size": 10866
-      },
-      "json/000087.content.json": {
-        "mimeType": "text/json",
-        "size": 11303
-      },
-      "json/000088.content.json": {
-        "mimeType": "text/json",
-        "size": 5186
-      },
-      "json/000089.content.json": {
-        "mimeType": "text/json",
-        "size": 13112
-      },
-      "json/000090.content.json": {
-        "mimeType": "text/json",
-        "size": 6531
-      },
-      "json/000091.content.json": {
-        "mimeType": "text/json",
-        "size": 16256
-      },
-      "json/000092.content.json": {
-        "mimeType": "text/json",
-        "size": 5684
-      },
-      "json/000093.content.json": {
-        "mimeType": "text/json",
-        "size": 10124
-      },
-      "json/000094.content.json": {
-        "mimeType": "text/json",
-        "size": 5656
-      },
-      "json/000095.content.json": {
-        "mimeType": "text/json",
-        "size": 8287
-      },
-      "json/000096.content.json": {
-        "mimeType": "text/json",
-        "size": 6230
-      },
-      "json/000097.content.json": {
-        "mimeType": "text/json",
-        "size": 8123
-      },
-      "json/000098.content.json": {
-        "mimeType": "text/json",
-        "size": 7323
-      },
-      "json/000099.content.json": {
-        "mimeType": "text/json",
-        "size": 8255
-      },
-      "json/000100.content.json": {
-        "mimeType": "text/json",
-        "size": 4216
-      },
-      "json/000101.content.json": {
-        "mimeType": "text/json",
-        "size": 13090
-      },
-      "json/000102.content.json": {
-        "mimeType": "text/json",
-        "size": 2506
-      },
-      "json/000103.content.json": {
-        "mimeType": "text/json",
-        "size": 5704
-      },
-      "json/000104.content.json": {
-        "mimeType": "text/json",
-        "size": 8648
-      },
-      "json/000105.content.json": {
-        "mimeType": "text/json",
-        "size": 6725
-      },
-      "json/000106.content.json": {
-        "mimeType": "text/json",
-        "size": 6821
-      },
-      "json/000107.content.json": {
-        "mimeType": "text/json",
-        "size": 7852
-      },
-      "json/000108.content.json": {
-        "mimeType": "text/json",
-        "size": 12182
-      },
-      "json/000109.content.json": {
-        "mimeType": "text/json",
-        "size": 7942
-      },
-      "json/000110.content.json": {
-        "mimeType": "text/json",
-        "size": 7699
-      },
-      "json/000111.content.json": {
-        "mimeType": "text/json",
-        "size": 13099
-      },
-      "json/000112.content.json": {
-        "mimeType": "text/json",
-        "size": 8551
-      },
-      "json/000113.content.json": {
-        "mimeType": "text/json",
-        "size": 7800
-      },
-      "json/000114.content.json": {
-        "mimeType": "text/json",
-        "size": 15532
-      },
-      "json/000115.content.json": {
-        "mimeType": "text/json",
-        "size": 14161
-      },
-      "json/000116.content.json": {
-        "mimeType": "text/json",
-        "size": 8693
-      },
-      "json/000117.content.json": {
-        "mimeType": "text/json",
-        "size": 10897
-      },
-      "json/000118.content.json": {
-        "mimeType": "text/json",
-        "size": 7888
-      },
-      "json/000119.content.json": {
-        "mimeType": "text/json",
-        "size": 5718
-      },
-      "json/000120.content.json": {
-        "mimeType": "text/json",
-        "size": 9023
-      },
-      "json/000121.content.json": {
-        "mimeType": "text/json",
-        "size": 9585
-      },
-      "json/000122.content.json": {
-        "mimeType": "text/json",
-        "size": 8232
-      },
-      "json/000123.content.json": {
-        "mimeType": "text/json",
-        "size": 8723
-      },
-      "json/000124.content.json": {
-        "mimeType": "text/json",
-        "size": 6934
-      },
-      "json/000125.content.json": {
-        "mimeType": "text/json",
-        "size": 4358
-      },
-      "json/000126.content.json": {
-        "mimeType": "text/json",
-        "size": 11230
-      },
-      "json/000127.content.json": {
-        "mimeType": "text/json",
-        "size": 6356
-      },
-      "json/000128.content.json": {
-        "mimeType": "text/json",
-        "size": 18073
-      },
-      "json/000129.content.json": {
-        "mimeType": "text/json",
-        "size": 7639
-      },
-      "json/000130.content.json": {
-        "mimeType": "text/json",
-        "size": 11995
-      },
-      "json/000131.content.json": {
-        "mimeType": "text/json",
-        "size": 8146
-      },
-      "json/000132.content.json": {
-        "mimeType": "text/json",
-        "size": 15615
-      },
-      "json/000133.content.json": {
-        "mimeType": "text/json",
-        "size": 8500
-      },
-      "json/000134.content.json": {
-        "mimeType": "text/json",
-        "size": 10880
-      },
-      "json/000135.content.json": {
-        "mimeType": "text/json",
-        "size": 19417
-      },
-      "json/000136.content.json": {
-        "mimeType": "text/json",
-        "size": 31129
-      },
-      "json/000137.content.json": {
-        "mimeType": "text/json",
-        "size": 8343
-      },
-      "json/000138.content.json": {
-        "mimeType": "text/json",
-        "size": 5365
-      },
-      "md/000001.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3673
-      },
-      "md/000002.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3948
-      },
-      "md/000003.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4630
-      },
-      "md/000004.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9145
-      },
-      "md/000005.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5719
-      },
-      "md/000006.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5735
-      },
-      "md/000007.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3787
-      },
-      "md/000008.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3912
-      },
-      "md/000009.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4468
-      },
-      "md/000010.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2558
-      },
-      "md/000011.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7771
-      },
-      "md/000012.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7562
-      },
-      "md/000013.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5559
-      },
-      "md/000014.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5698
-      },
-      "md/000015.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5918
-      },
-      "md/000016.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4702
-      },
-      "md/000017.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4970
-      },
-      "md/000018.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3691
-      },
-      "md/000019.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4040
-      },
-      "md/000020.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1269
-      },
-      "md/000021.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6455
-      },
-      "md/000022.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4265
-      },
-      "md/000023.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6443
-      },
-      "md/000024.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4334
-      },
-      "md/000025.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6344
-      },
-      "md/000026.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4103
-      },
-      "md/000027.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8193
-      },
-      "md/000028.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5799
-      },
-      "md/000029.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3865
-      },
-      "md/000030.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5208
-      },
-      "md/000031.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5812
-      },
-      "md/000032.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7242
-      },
-      "md/000033.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7868
-      },
-      "md/000034.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7854
-      },
-      "md/000035.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7171
-      },
-      "md/000036.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3838
-      },
-      "md/000037.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4444
-      },
-      "md/000038.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7345
-      },
-      "md/000039.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4458
-      },
-      "md/000040.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3326
-      },
-      "md/000041.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7277
-      },
-      "md/000042.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6223
-      },
-      "md/000043.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5127
-      },
-      "md/000044.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4085
-      },
-      "md/000045.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5884
-      },
-      "md/000046.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6130
-      },
-      "md/000047.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3354
-      },
-      "md/000048.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5662
-      },
-      "md/000049.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6936
-      },
-      "md/000050.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2772
-      },
-      "md/000051.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8873
-      },
-      "md/000052.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5590
-      },
-      "md/000053.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5018
-      },
-      "md/000054.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4809
-      },
-      "md/000055.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3910
-      },
-      "md/000056.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3958
-      },
-      "md/000057.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4689
-      },
-      "md/000058.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5146
-      },
-      "md/000059.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5686
-      },
-      "md/000060.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4556
-      },
-      "md/000061.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6276
-      },
-      "md/000062.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3583
-      },
-      "md/000063.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5477
-      },
-      "md/000064.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6328
-      },
-      "md/000065.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5693
-      },
-      "md/000066.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3563
-      },
-      "md/000067.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5437
-      },
-      "md/000068.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7113
-      },
-      "md/000069.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5078
-      },
-      "md/000070.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3859
-      },
-      "md/000071.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4491
-      },
-      "md/000072.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3983
-      },
-      "md/000073.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4374
-      },
-      "md/000074.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4869
-      },
-      "md/000075.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3338
-      },
-      "md/000076.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3634
-      },
-      "md/000077.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6545
-      },
-      "md/000078.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3863
-      },
-      "md/000079.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4380
-      },
-      "md/000080.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2928
-      },
-      "md/000081.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4517
-      },
-      "md/000082.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4365
-      },
-      "md/000083.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4248
-      },
-      "md/000084.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4621
-      },
-      "md/000085.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4672
-      },
-      "md/000086.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5813
-      },
-      "md/000087.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4879
-      },
-      "md/000088.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3340
-      },
-      "md/000089.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5932
-      },
-      "md/000090.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3682
-      },
-      "md/000091.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8005
-      },
-      "md/000092.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4867
-      },
-      "md/000093.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5392
-      },
-      "md/000094.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3903
-      },
-      "md/000095.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4258
-      },
-      "md/000096.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5625
-      },
-      "md/000097.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4114
-      },
-      "md/000098.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3823
-      },
-      "md/000099.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4456
-      },
-      "md/000100.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3184
-      },
-      "md/000101.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6201
-      },
-      "md/000102.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2464
-      },
-      "md/000103.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3852
-      },
-      "md/000104.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5737
-      },
-      "md/000105.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3693
-      },
-      "md/000106.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3719
-      },
-      "md/000107.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4552
-      },
-      "md/000108.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6688
-      },
-      "md/000109.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4327
-      },
-      "md/000110.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4163
-      },
-      "md/000111.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5843
-      },
-      "md/000112.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4363
-      },
-      "md/000113.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4575
-      },
-      "md/000114.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6628
-      },
-      "md/000115.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6658
-      },
-      "md/000116.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4189
-      },
-      "md/000117.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4608
-      },
-      "md/000118.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5548
-      },
-      "md/000119.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3681
-      },
-      "md/000120.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4840
-      },
-      "md/000121.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3868
-      },
-      "md/000122.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4286
-      },
-      "md/000123.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4474
-      },
-      "md/000124.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4148
-      },
-      "md/000125.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3817
-      },
-      "md/000126.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6060
-      },
-      "md/000127.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5580
-      },
-      "md/000128.content.md": {
-        "mimeType": "text/markdown",
-        "size": 13254
-      },
-      "md/000129.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3924
-      },
-      "md/000130.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5471
-      },
-      "md/000131.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4774
-      },
-      "md/000132.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7868
-      },
-      "md/000133.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4373
-      },
-      "md/000134.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5844
-      },
-      "md/000135.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7491
-      },
-      "md/000136.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11315
-      },
-      "md/000137.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5768
-      },
-      "md/000138.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3117
-      },
-      "pdf/000001.content.pdf": {
+      "json/001.content.json": {
+        "mimeType": "text/json",
+        "size": 8719,
+        "scope": {
+          "«": [
+            "« Croire » dans l'Évangile de Jean"
+          ]
+        }
+      },
+      "json/002.content.json": {
+        "mimeType": "text/json",
+        "size": 84845,
+        "scope": {
+          "a": [
+            "Aimer son prochain",
+            "Alliance de Dieu avec Noé",
+            "Anges",
+            "Apostasie",
+            "Apostasie et restauration",
+            "Appartenir à Christ",
+            "Appeler les morts",
+            "Autels"
+          ]
+        }
+      },
+      "json/003.content.json": {
+        "mimeType": "text/json",
+        "size": 38852,
+        "scope": {
+          "b": [
+            "Babel : la dispersion des nations",
+            "Baptême",
+            "Bénédiction"
+          ]
+        }
+      },
+      "json/004.content.json": {
+        "mimeType": "text/json",
+        "size": 71767,
+        "scope": {
+          "c": [
+            "Célébration",
+            "Circoncision dans le Nouveau Testament",
+            "Codes de lois anciens",
+            "Colère",
+            "Comprendre l'exil",
+            "Connaître Dieu",
+            "Crainte du Seigneur"
+          ]
+        }
+      },
+      "json/005.content.json": {
+        "mimeType": "text/json",
+        "size": 90558,
+        "scope": {
+          "d": [
+            "Destruction complète",
+            "Dévouer par interdit",
+            "Dieu en tant que guerrier saint",
+            "Dieu et la prière",
+            "Dieu ou Satan ?",
+            "Dieu protège son serviteur",
+            "Dieu se repent-il ?",
+            "Dirigeants de l'Église",
+            "Donner et recevoir des conseils"
+          ]
+        }
+      },
+      "json/006.content.json": {
+        "mimeType": "text/json",
+        "size": 15536,
+        "scope": {
+          "e": [
+            "Être citoyen du royaume de Dieu",
+            "Expiation"
+          ]
+        }
+      },
+      "json/007.content.json": {
+        "mimeType": "text/json",
+        "size": 42220,
+        "scope": {
+          "f": [
+            "Famille, communauté et péchés sexuels",
+            "Famine",
+            "Foi et bonnes œuvres"
+          ]
+        }
+      },
+      "json/008.content.json": {
+        "mimeType": "text/json",
+        "size": 16291,
+        "scope": {
+          "g": [
+            "Gérer les conflits"
+          ]
+        }
+      },
+      "json/009.content.json": {
+        "mimeType": "text/json",
+        "size": 15946,
+        "scope": {
+          "h": [
+            "Hérésies à l'époque de l'Église primitive",
+            "Hériter le pays"
+          ]
+        }
+      },
+      "json/010.content.json": {
+        "mimeType": "text/json",
+        "size": 6753,
+        "scope": {
+          "i": [
+            "Identité communautaire"
+          ]
+        }
+      },
+      "json/011.content.json": {
+        "mimeType": "text/json",
+        "size": 26882,
+        "scope": {
+          "j": [
+            "Jérusalem",
+            "Jésus et Satan"
+          ]
+        }
+      },
+      "json/012.content.json": {
+        "mimeType": "text/json",
+        "size": 666843,
+        "scope": {
+          "l": [
+            "L'achèvement du Second Temple",
+            "L'alliance de Dieu avec Abraham",
+            "L'alliance de Dieu avec David",
+            "L'Alliance de Dieu avec les rois d'Israël",
+            "L'amour de Dieu dans le contexte de l'alliance",
+            "L'amour de Dieu pour Israël",
+            "L'amour entre chrétiens",
+            "L'ascension de Jésus",
+            "L'attente du Messie",
+            "L'eau vive",
+            "L'endurcissement du cœur",
+            "L'engagement de Dieu envers son peuple",
+            "L'espoir au-delà du jugement",
+            "L'incompréhension humaine face aux desseins de Dieu",
+            "L'innocence de Job",
+            "La beauté de la nature",
+            "La circoncision",
+            "La colère de Dieu",
+            "La compassion de Jésus",
+            "La dernière nuit de Jésus",
+            "La dîme et les offrandes du chrétien",
+            "La fidélité de Dieu envers son peuple",
+            "La géographie symbolique d'Israël dans la vision d'Ézéchiel",
+            "La gloire de Dieu parmi son peuple",
+            "La guerre sainte",
+            "La joie du chrétien",
+            "La justice de Dieu",
+            "La loi biblique",
+            "La nouvelle alliance",
+            "La paresse et le bon travail",
+            "La Parole de Dieu",
+            "La persévérance",
+            "La peur des hommes",
+            "La présence de Dieu dans les Psaumes",
+            "La prospérité comme récompense",
+            "La responsabilité collective : le péché d'Acan",
+            "La sainteté et la pureté sexuelle",
+            "La sainteté infinie de Dieu",
+            "La sainteté vient de Dieu",
+            "La sexualité humaine",
+            "La stérilité (incapacité d'avoir des enfants)",
+            "Le chagrin de Dieu face à l'apostasie",
+            "Le Dieu qui est unique",
+            "Le jugement de Dieu sur son peuple",
+            "Le légalisme",
+            "Le mariage et la sexualité",
+            "Le nom de Dieu et son Temple",
+            "Le pain du ciel",
+            "Le plan de Dieu pour rétablir son peuple",
+            "Le plan de salut de Dieu",
+            "Le règne et la puissance de Dieu sur toutes les nations",
+            "Le retour du Seigneur",
+            "Le royaume que Dieu promet",
+            "Le Serviteur de Dieu",
+            "Les alliances de Dieu",
+            "Les ancêtres de Jésus",
+            "Les déclarations « je suis » de Jésus",
+            "Les desseins impénétrables de Dieu",
+            "Les deux plus grands commandements",
+            "Les écrits apocalyptiques",
+            "Les épreuves et le chrétien",
+            "Les faux prophètes",
+            "Les instructions de Dieu",
+            "Les invasions",
+            "Les Juifs et les païens (les non-Juifs)",
+            "Les lettres aux sept Églises",
+            "Les malédictions et bénédictions de la loi",
+            "Les mariages mixtes et le divorce",
+            "Les présents pour influencer",
+            "Les prières de Jésus",
+            "Les repas en commun",
+            "Les serviteurs appelés par l'Esprit"
+          ]
+        }
+      },
+      "json/013.content.json": {
+        "mimeType": "text/json",
+        "size": 46151,
+        "scope": {
+          "m": [
+            "Mariage biblique",
+            "Messages contre les nations",
+            "Miracles",
+            "Mort"
+          ]
+        }
+      },
+      "json/014.content.json": {
+        "mimeType": "text/json",
+        "size": 75930,
+        "scope": {
+          "p": [
+            "Par la foi",
+            "Parents et enfants",
+            "Pêche en Galilée",
+            "Peu de foi",
+            "Plaintes",
+            "Profil de Jean en tant que disciple",
+            "Profiter des dons de Dieu",
+            "pur, impur, et saint",
+            "Purim, Pourim"
+          ]
+        }
+      },
+      "json/015.content.json": {
+        "mimeType": "text/json",
+        "size": 4387,
+        "scope": {
+          "q": [
+            "Quatre empires mondiaux"
+          ]
+        }
+      },
+      "json/016.content.json": {
+        "mimeType": "text/json",
+        "size": 63598,
+        "scope": {
+          "r": [
+            "Réaction de David à son roi injuste (Saül)",
+            "Religion cananéenne",
+            "Rencontres avec Jésus",
+            "Renoncer à ses droits",
+            "Repos du sabbat de Dieu",
+            "Responsabiliser le ministère"
+          ]
+        }
+      },
+      "json/017.content.json": {
+        "mimeType": "text/json",
+        "size": 54519,
+        "scope": {
+          "s": [
+            "Se soucier des pauvres",
+            "Souffrir quand on suit Dieu",
+            "souveraineté divine et responsabilité humaine",
+            "Suivre Jésus"
+          ]
+        }
+      },
+      "json/018.content.json": {
+        "mimeType": "text/json",
+        "size": 39527,
+        "scope": {
+          "t": [
+            "Ténèbres et lumière",
+            "Tout est « vanité »"
+          ]
+        }
+      },
+      "json/019.content.json": {
+        "mimeType": "text/json",
+        "size": 5394,
+        "scope": {
+          "v": [
+            "Vivre pour Christ"
+          ]
+        }
+      },
+      "pdf/001.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 2846493
+        "size": 195857,
+        "scope": {
+          "«": [
+            "« Croire » dans l'Évangile de Jean"
+          ]
+        }
+      },
+      "pdf/002.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 396840,
+        "scope": {
+          "a": [
+            "Aimer son prochain",
+            "Alliance de Dieu avec Noé",
+            "Anges",
+            "Apostasie",
+            "Apostasie et restauration",
+            "Appartenir à Christ",
+            "Appeler les morts",
+            "Autels"
+          ]
+        }
+      },
+      "pdf/003.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 284676,
+        "scope": {
+          "b": [
+            "Babel : la dispersion des nations",
+            "Baptême",
+            "Bénédiction"
+          ]
+        }
+      },
+      "pdf/004.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 392718,
+        "scope": {
+          "c": [
+            "Célébration",
+            "Circoncision dans le Nouveau Testament",
+            "Codes de lois anciens",
+            "Colère",
+            "Comprendre l'exil",
+            "Connaître Dieu",
+            "Crainte du Seigneur"
+          ]
+        }
+      },
+      "pdf/005.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 425852,
+        "scope": {
+          "d": [
+            "Destruction complète",
+            "Dévouer par interdit",
+            "Dieu en tant que guerrier saint",
+            "Dieu et la prière",
+            "Dieu ou Satan ?",
+            "Dieu protège son serviteur",
+            "Dieu se repent-il ?",
+            "Dirigeants de l'Église",
+            "Donner et recevoir des conseils"
+          ]
+        }
+      },
+      "pdf/006.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 210209,
+        "scope": {
+          "e": [
+            "Être citoyen du royaume de Dieu",
+            "Expiation"
+          ]
+        }
+      },
+      "pdf/007.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 305894,
+        "scope": {
+          "f": [
+            "Famille, communauté et péchés sexuels",
+            "Famine",
+            "Foi et bonnes œuvres"
+          ]
+        }
+      },
+      "pdf/008.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 214234,
+        "scope": {
+          "g": [
+            "Gérer les conflits"
+          ]
+        }
+      },
+      "pdf/009.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 216828,
+        "scope": {
+          "h": [
+            "Hérésies à l'époque de l'Église primitive",
+            "Hériter le pays"
+          ]
+        }
+      },
+      "pdf/010.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 188697,
+        "scope": {
+          "i": [
+            "Identité communautaire"
+          ]
+        }
+      },
+      "pdf/011.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 265353,
+        "scope": {
+          "j": [
+            "Jérusalem",
+            "Jésus et Satan"
+          ]
+        }
+      },
+      "pdf/012.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 1656263,
+        "scope": {
+          "l": [
+            "L'achèvement du Second Temple",
+            "L'alliance de Dieu avec Abraham",
+            "L'alliance de Dieu avec David",
+            "L'Alliance de Dieu avec les rois d'Israël",
+            "L'amour de Dieu dans le contexte de l'alliance",
+            "L'amour de Dieu pour Israël",
+            "L'amour entre chrétiens",
+            "L'ascension de Jésus",
+            "L'attente du Messie",
+            "L'eau vive",
+            "L'endurcissement du cœur",
+            "L'engagement de Dieu envers son peuple",
+            "L'espoir au-delà du jugement",
+            "L'incompréhension humaine face aux desseins de Dieu",
+            "L'innocence de Job",
+            "La beauté de la nature",
+            "La circoncision",
+            "La colère de Dieu",
+            "La compassion de Jésus",
+            "La dernière nuit de Jésus",
+            "La dîme et les offrandes du chrétien",
+            "La fidélité de Dieu envers son peuple",
+            "La géographie symbolique d'Israël dans la vision d'Ézéchiel",
+            "La gloire de Dieu parmi son peuple",
+            "La guerre sainte",
+            "La joie du chrétien",
+            "La justice de Dieu",
+            "La loi biblique",
+            "La nouvelle alliance",
+            "La paresse et le bon travail",
+            "La Parole de Dieu",
+            "La persévérance",
+            "La peur des hommes",
+            "La présence de Dieu dans les Psaumes",
+            "La prospérité comme récompense",
+            "La responsabilité collective : le péché d'Acan",
+            "La sainteté et la pureté sexuelle",
+            "La sainteté infinie de Dieu",
+            "La sainteté vient de Dieu",
+            "La sexualité humaine",
+            "La stérilité (incapacité d'avoir des enfants)",
+            "Le chagrin de Dieu face à l'apostasie",
+            "Le Dieu qui est unique",
+            "Le jugement de Dieu sur son peuple",
+            "Le légalisme",
+            "Le mariage et la sexualité",
+            "Le nom de Dieu et son Temple",
+            "Le pain du ciel",
+            "Le plan de Dieu pour rétablir son peuple",
+            "Le plan de salut de Dieu",
+            "Le règne et la puissance de Dieu sur toutes les nations",
+            "Le retour du Seigneur",
+            "Le royaume que Dieu promet",
+            "Le Serviteur de Dieu",
+            "Les alliances de Dieu",
+            "Les ancêtres de Jésus",
+            "Les déclarations « je suis » de Jésus",
+            "Les desseins impénétrables de Dieu",
+            "Les deux plus grands commandements",
+            "Les écrits apocalyptiques",
+            "Les épreuves et le chrétien",
+            "Les faux prophètes",
+            "Les instructions de Dieu",
+            "Les invasions",
+            "Les Juifs et les païens (les non-Juifs)",
+            "Les lettres aux sept Églises",
+            "Les malédictions et bénédictions de la loi",
+            "Les mariages mixtes et le divorce",
+            "Les présents pour influencer",
+            "Les prières de Jésus",
+            "Les repas en commun",
+            "Les serviteurs appelés par l'Esprit"
+          ]
+        }
+      },
+      "pdf/013.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 304394,
+        "scope": {
+          "m": [
+            "Mariage biblique",
+            "Messages contre les nations",
+            "Miracles",
+            "Mort"
+          ]
+        }
+      },
+      "pdf/014.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 400907,
+        "scope": {
+          "p": [
+            "Par la foi",
+            "Parents et enfants",
+            "Pêche en Galilée",
+            "Peu de foi",
+            "Plaintes",
+            "Profil de Jean en tant que disciple",
+            "Profiter des dons de Dieu",
+            "pur, impur, et saint",
+            "Purim, Pourim"
+          ]
+        }
+      },
+      "pdf/015.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 214205,
+        "scope": {
+          "q": [
+            "Quatre empires mondiaux"
+          ]
+        }
+      },
+      "pdf/016.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 357824,
+        "scope": {
+          "r": [
+            "Réaction de David à son roi injuste (Saül)",
+            "Religion cananéenne",
+            "Rencontres avec Jésus",
+            "Renoncer à ses droits",
+            "Repos du sabbat de Dieu",
+            "Responsabiliser le ministère"
+          ]
+        }
+      },
+      "pdf/017.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 329394,
+        "scope": {
+          "s": [
+            "Se soucier des pauvres",
+            "Souffrir quand on suit Dieu",
+            "souveraineté divine et responsabilité humaine",
+            "Suivre Jésus"
+          ]
+        }
+      },
+      "pdf/018.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 271392,
+        "scope": {
+          "t": [
+            "Ténèbres et lumière",
+            "Tout est « vanité »"
+          ]
+        }
+      },
+      "pdf/019.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 217820,
+        "scope": {
+          "v": [
+            "Vivre pour Christ"
+          ]
+        }
       }
     },
     "copyright": {
@@ -2682,6 +2154,561 @@
         }
       }
     },
+    "708428": {
+      "content_id": 708428,
+      "reference_id": 203185,
+      "index_reference": "l'achèvement du second temple",
+      "localizations": {
+        "eng": {
+          "content_id": 500242,
+          "language": "eng",
+          "title": "Completion of the Second Temple"
+        },
+        "arb": {
+          "content_id": 702249,
+          "language": "arb",
+          "title": "اكتمال الهيكل الثاني"
+        },
+        "hin": {
+          "content_id": 709414,
+          "language": "hin",
+          "title": "दूसरे मन्दिर का निर्माण पूर्ण होना"
+        },
+        "por": {
+          "content_id": 800354,
+          "language": "por",
+          "title": "Conclusão do Segundo Templo"
+        },
+        "swh": {
+          "content_id": 765042,
+          "language": "swh",
+          "title": "Kukamilika kwa Hekalu la Pili "
+        },
+        "zht": {
+          "content_id": 700248,
+          "language": "zht",
+          "title": "第二聖殿重建完成"
+        }
+      }
+    },
+    "734173": {
+      "content_id": 734173,
+      "reference_id": 203102,
+      "index_reference": "l'alliance de dieu avec abraham",
+      "localizations": {
+        "eng": {
+          "content_id": 500159,
+          "language": "eng",
+          "title": "God’s Covenant with Abraham"
+        },
+        "arb": {
+          "content_id": 702166,
+          "language": "arb",
+          "title": "عهد ٱلله مع إبراهيم"
+        },
+        "hin": {
+          "content_id": 709331,
+          "language": "hin",
+          "title": "अब्राहम के साथ परमेश्वर की वाचा"
+        },
+        "por": {
+          "content_id": 800271,
+          "language": "por",
+          "title": "A aliança de Deus com Abraão"
+        },
+        "swh": {
+          "content_id": 764959,
+          "language": "swh",
+          "title": "Agano la Mungu na Abrahamu"
+        },
+        "zht": {
+          "content_id": 700165,
+          "language": "zht",
+          "title": "神與亞伯拉罕所立的約"
+        }
+      }
+    },
+    "734187": {
+      "content_id": 734187,
+      "reference_id": 203160,
+      "index_reference": "l'alliance de dieu avec david",
+      "localizations": {
+        "eng": {
+          "content_id": 500217,
+          "language": "eng",
+          "title": "God’s Covenant with David"
+        },
+        "arb": {
+          "content_id": 702224,
+          "language": "arb",
+          "title": "عهد ٱلله مع داود"
+        },
+        "hin": {
+          "content_id": 709389,
+          "language": "hin",
+          "title": "दाऊद के साथ परमेश्वर की वाचा"
+        },
+        "por": {
+          "content_id": 800329,
+          "language": "por",
+          "title": "Aliança de Deus com Davi"
+        },
+        "swh": {
+          "content_id": 765017,
+          "language": "swh",
+          "title": "Agano la Mungu na Daudi"
+        },
+        "zht": {
+          "content_id": 700223,
+          "language": "zht",
+          "title": "神與大衛所立的約"
+        }
+      }
+    },
+    "734190": {
+      "content_id": 734190,
+      "reference_id": 203163,
+      "index_reference": "l'alliance de dieu avec les rois d'israël",
+      "localizations": {
+        "eng": {
+          "content_id": 500220,
+          "language": "eng",
+          "title": "God’s Covenant with Israel’s Kings"
+        },
+        "arb": {
+          "content_id": 702227,
+          "language": "arb",
+          "title": "عهد ٱلله مع ملوك إسرائيل"
+        },
+        "hin": {
+          "content_id": 709392,
+          "language": "hin",
+          "title": "इस्राएल के राजाओं के साथ परमेश्वर की वाचा"
+        },
+        "por": {
+          "content_id": 800332,
+          "language": "por",
+          "title": "A aliança de Deus com os reis de Israel"
+        },
+        "swh": {
+          "content_id": 765020,
+          "language": "swh",
+          "title": "Agano la Mungu na Wafalme wa Israeli"
+        },
+        "zht": {
+          "content_id": 700226,
+          "language": "zht",
+          "title": "神與以色列諸王所立的約"
+        }
+      }
+    },
+    "734181": {
+      "content_id": 734181,
+      "reference_id": 203139,
+      "index_reference": "l'amour de dieu dans le contexte de l'alliance",
+      "localizations": {
+        "eng": {
+          "content_id": 500196,
+          "language": "eng",
+          "title": "God’s Covenant Love"
+        },
+        "arb": {
+          "content_id": 702203,
+          "language": "arb",
+          "title": "محبة الله العهدية"
+        },
+        "hin": {
+          "content_id": 709368,
+          "language": "hin",
+          "title": "परमेश्वर का वाचा-प्रेम"
+        },
+        "por": {
+          "content_id": 800308,
+          "language": "por",
+          "title": "O amor pactual de Deus"
+        },
+        "swh": {
+          "content_id": 764996,
+          "language": "swh",
+          "title": "Upendo wa Agano la Mungu"
+        },
+        "zht": {
+          "content_id": 700202,
+          "language": "zht",
+          "title": "神立約的愛"
+        }
+      }
+    },
+    "734223": {
+      "content_id": 734223,
+      "reference_id": 203279,
+      "index_reference": "l'amour de dieu pour israël",
+      "localizations": {
+        "eng": {
+          "content_id": 500336,
+          "language": "eng",
+          "title": "God’s Love for Israel"
+        },
+        "arb": {
+          "content_id": 702343,
+          "language": "arb",
+          "title": "محبة ٱلله لإسرائيل"
+        },
+        "hin": {
+          "content_id": 709508,
+          "language": "hin",
+          "title": "इस्राएल के लिए परमेश्वर का प्रेम"
+        },
+        "por": {
+          "content_id": 800448,
+          "language": "por",
+          "title": "O amor de Deus por Israel"
+        },
+        "swh": {
+          "content_id": 765136,
+          "language": "swh",
+          "title": "Upendo wa Mungu kwa Israeli"
+        },
+        "zht": {
+          "content_id": 700342,
+          "language": "zht",
+          "title": "神對以色列的愛"
+        }
+      }
+    },
+    "734246": {
+      "content_id": 734246,
+      "reference_id": 203379,
+      "index_reference": "l'amour entre chrétiens",
+      "localizations": {
+        "eng": {
+          "content_id": 500436,
+          "language": "eng",
+          "title": "Love in the Community of Christ"
+        },
+        "arb": {
+          "content_id": 702443,
+          "language": "arb",
+          "title": "المحبة في مجتمع ٱلمسيح"
+        },
+        "hin": {
+          "content_id": 709608,
+          "language": "hin",
+          "title": "मसीह के समुदाय में प्रेम"
+        },
+        "por": {
+          "content_id": 800548,
+          "language": "por",
+          "title": "Amor na comunidade de Cristo"
+        },
+        "swh": {
+          "content_id": 765236,
+          "language": "swh",
+          "title": "Upendo katika Jamii ya Kristo"
+        },
+        "zht": {
+          "content_id": 700442,
+          "language": "zht",
+          "title": "在基督裡的群體中彼此相愛"
+        }
+      }
+    },
+    "734234": {
+      "content_id": 734234,
+      "reference_id": 203321,
+      "index_reference": "l'ascension de jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 500378,
+          "language": "eng",
+          "title": "Jesus’ Ascension"
+        },
+        "arb": {
+          "content_id": 702385,
+          "language": "arb",
+          "title": "صعود الرب يسوع"
+        },
+        "hin": {
+          "content_id": 709550,
+          "language": "hin",
+          "title": "यीशु का स्वर्गारोहण"
+        },
+        "por": {
+          "content_id": 800490,
+          "language": "por",
+          "title": "Ascensão de Jesus"
+        },
+        "swh": {
+          "content_id": 765178,
+          "language": "swh",
+          "title": "Kupaa kwa Yesu"
+        },
+        "zht": {
+          "content_id": 700384,
+          "language": "zht",
+          "title": "耶穌的升天"
+        }
+      }
+    },
+    "734229": {
+      "content_id": 734229,
+      "reference_id": 203302,
+      "index_reference": "l'attente du messie",
+      "localizations": {
+        "eng": {
+          "content_id": 500359,
+          "language": "eng",
+          "title": "Hope for the Messiah"
+        },
+        "arb": {
+          "content_id": 702366,
+          "language": "arb",
+          "title": "الرجاء في المسيا"
+        },
+        "hin": {
+          "content_id": 709531,
+          "language": "hin",
+          "title": "मसीहा की आशा"
+        },
+        "por": {
+          "content_id": 800471,
+          "language": "por",
+          "title": "Esperança pelo Messias"
+        },
+        "swh": {
+          "content_id": 765159,
+          "language": "swh",
+          "title": "Tumaini kwa Masihi"
+        },
+        "zht": {
+          "content_id": 700365,
+          "language": "zht",
+          "title": "對彌賽亞的盼望"
+        }
+      }
+    },
+    "734231": {
+      "content_id": 734231,
+      "reference_id": 203312,
+      "index_reference": "l'eau vive",
+      "localizations": {
+        "eng": {
+          "content_id": 500369,
+          "language": "eng",
+          "title": "Living Water"
+        },
+        "arb": {
+          "content_id": 702376,
+          "language": "arb",
+          "title": "الماء الحي"
+        },
+        "hin": {
+          "content_id": 709541,
+          "language": "hin",
+          "title": "जीवन जल"
+        },
+        "por": {
+          "content_id": 800481,
+          "language": "por",
+          "title": "Água viva"
+        },
+        "swh": {
+          "content_id": 765169,
+          "language": "swh",
+          "title": "Maji ya Uzima"
+        },
+        "zht": {
+          "content_id": 700375,
+          "language": "zht",
+          "title": "活水"
+        }
+      }
+    },
+    "734177": {
+      "content_id": 734177,
+      "reference_id": 203111,
+      "index_reference": "l'endurcissement du cœur",
+      "localizations": {
+        "eng": {
+          "content_id": 500168,
+          "language": "eng",
+          "title": "Hardened Hearts"
+        },
+        "arb": {
+          "content_id": 702175,
+          "language": "arb",
+          "title": "القلوب المُتقسّية"
+        },
+        "hin": {
+          "content_id": 709340,
+          "language": "hin",
+          "title": "मन को हठीला करना"
+        },
+        "por": {
+          "content_id": 800280,
+          "language": "por",
+          "title": "Corações endurecidos"
+        },
+        "swh": {
+          "content_id": 764968,
+          "language": "swh",
+          "title": "Mioyo Migumu"
+        },
+        "zht": {
+          "content_id": 700174,
+          "language": "zht",
+          "title": "剛硬的心"
+        }
+      }
+    },
+    "734222": {
+      "content_id": 734222,
+      "reference_id": 203278,
+      "index_reference": "l'engagement de dieu envers son peuple",
+      "localizations": {
+        "eng": {
+          "content_id": 500335,
+          "language": "eng",
+          "title": "God’s Commitment to His People"
+        },
+        "arb": {
+          "content_id": 702342,
+          "language": "arb",
+          "title": "التزام ٱلله تجاه شعبه"
+        },
+        "hin": {
+          "content_id": 709507,
+          "language": "hin",
+          "title": "अपने लोगों के प्रति परमेश्वर की प्रतिबद्धता"
+        },
+        "por": {
+          "content_id": 800447,
+          "language": "por",
+          "title": "Compromisso de Deus com seu povo"
+        },
+        "swh": {
+          "content_id": 765135,
+          "language": "swh",
+          "title": "Ahadi ya Mungu kwa Watu Wake"
+        },
+        "zht": {
+          "content_id": 700341,
+          "language": "zht",
+          "title": "神對祂子民的應許"
+        }
+      }
+    },
+    "734214": {
+      "content_id": 734214,
+      "reference_id": 203252,
+      "index_reference": "l'espoir au-delà du jugement",
+      "localizations": {
+        "eng": {
+          "content_id": 500309,
+          "language": "eng",
+          "title": "Hope Beyond Judgment"
+        },
+        "arb": {
+          "content_id": 702316,
+          "language": "arb",
+          "title": "الرجاء بعد الدينونة"
+        },
+        "hin": {
+          "content_id": 709481,
+          "language": "hin",
+          "title": "न्याय से परे आशा"
+        },
+        "por": {
+          "content_id": 800421,
+          "language": "por",
+          "title": "Esperança além do julgamento"
+        },
+        "swh": {
+          "content_id": 765109,
+          "language": "swh",
+          "title": "Tumaini Zaidi ya Hukumu"
+        },
+        "zht": {
+          "content_id": 700315,
+          "language": "zht",
+          "title": "審判之後的盼望"
+        }
+      }
+    },
+    "734221": {
+      "content_id": 734221,
+      "reference_id": 203274,
+      "index_reference": "l'incompréhension humaine face aux desseins de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 500331,
+          "language": "eng",
+          "title": "Human Confusion and God’s Purpose"
+        },
+        "arb": {
+          "content_id": 702338,
+          "language": "arb",
+          "title": "تحيّر الإنسان وقصد ٱلله"
+        },
+        "hin": {
+          "content_id": 709503,
+          "language": "hin",
+          "title": "मानवीय उलझन और परमेश्‍वर का उद्देश्य "
+        },
+        "por": {
+          "content_id": 800443,
+          "language": "por",
+          "title": "Confusão humana e o propósito de Deus"
+        },
+        "swh": {
+          "content_id": 765131,
+          "language": "swh",
+          "title": "Mkanganyiko wa Binadamu na Kusudi la Mungu"
+        },
+        "zht": {
+          "content_id": 700337,
+          "language": "zht",
+          "title": "人的困惑與神的旨意"
+        }
+      }
+    },
+    "734201": {
+      "content_id": 734201,
+      "reference_id": 203199,
+      "index_reference": "l'innocence de job",
+      "localizations": {
+        "eng": {
+          "content_id": 500256,
+          "language": "eng",
+          "title": "Job’s Innocence"
+        },
+        "arb": {
+          "content_id": 702263,
+          "language": "arb",
+          "title": "براءة أيّوب"
+        },
+        "hin": {
+          "content_id": 709428,
+          "language": "hin",
+          "title": "अय्यूब की निर्दोषता "
+        },
+        "por": {
+          "content_id": 800368,
+          "language": "por",
+          "title": "A inocência de Jó"
+        },
+        "swh": {
+          "content_id": 765056,
+          "language": "swh",
+          "title": "Kutokuwa na hatia kwa Ayubu"
+        },
+        "zht": {
+          "content_id": 700262,
+          "language": "zht",
+          "title": "約伯的無辜"
+        }
+      }
+    },
     "708439": {
       "content_id": 708439,
       "reference_id": 203232,
@@ -3649,339 +3676,6 @@
         }
       }
     },
-    "708428": {
-      "content_id": 708428,
-      "reference_id": 203185,
-      "index_reference": "l'achèvement du second temple",
-      "localizations": {
-        "eng": {
-          "content_id": 500242,
-          "language": "eng",
-          "title": "Completion of the Second Temple"
-        },
-        "arb": {
-          "content_id": 702249,
-          "language": "arb",
-          "title": "اكتمال الهيكل الثاني"
-        },
-        "hin": {
-          "content_id": 709414,
-          "language": "hin",
-          "title": "दूसरे मन्दिर का निर्माण पूर्ण होना"
-        },
-        "por": {
-          "content_id": 800354,
-          "language": "por",
-          "title": "Conclusão do Segundo Templo"
-        },
-        "swh": {
-          "content_id": 765042,
-          "language": "swh",
-          "title": "Kukamilika kwa Hekalu la Pili "
-        },
-        "zht": {
-          "content_id": 700248,
-          "language": "zht",
-          "title": "第二聖殿重建完成"
-        }
-      }
-    },
-    "734173": {
-      "content_id": 734173,
-      "reference_id": 203102,
-      "index_reference": "l'alliance de dieu avec abraham",
-      "localizations": {
-        "eng": {
-          "content_id": 500159,
-          "language": "eng",
-          "title": "God’s Covenant with Abraham"
-        },
-        "arb": {
-          "content_id": 702166,
-          "language": "arb",
-          "title": "عهد ٱلله مع إبراهيم"
-        },
-        "hin": {
-          "content_id": 709331,
-          "language": "hin",
-          "title": "अब्राहम के साथ परमेश्वर की वाचा"
-        },
-        "por": {
-          "content_id": 800271,
-          "language": "por",
-          "title": "A aliança de Deus com Abraão"
-        },
-        "swh": {
-          "content_id": 764959,
-          "language": "swh",
-          "title": "Agano la Mungu na Abrahamu"
-        },
-        "zht": {
-          "content_id": 700165,
-          "language": "zht",
-          "title": "神與亞伯拉罕所立的約"
-        }
-      }
-    },
-    "734187": {
-      "content_id": 734187,
-      "reference_id": 203160,
-      "index_reference": "l'alliance de dieu avec david",
-      "localizations": {
-        "eng": {
-          "content_id": 500217,
-          "language": "eng",
-          "title": "God’s Covenant with David"
-        },
-        "arb": {
-          "content_id": 702224,
-          "language": "arb",
-          "title": "عهد ٱلله مع داود"
-        },
-        "hin": {
-          "content_id": 709389,
-          "language": "hin",
-          "title": "दाऊद के साथ परमेश्वर की वाचा"
-        },
-        "por": {
-          "content_id": 800329,
-          "language": "por",
-          "title": "Aliança de Deus com Davi"
-        },
-        "swh": {
-          "content_id": 765017,
-          "language": "swh",
-          "title": "Agano la Mungu na Daudi"
-        },
-        "zht": {
-          "content_id": 700223,
-          "language": "zht",
-          "title": "神與大衛所立的約"
-        }
-      }
-    },
-    "734190": {
-      "content_id": 734190,
-      "reference_id": 203163,
-      "index_reference": "l'alliance de dieu avec les rois d'israël",
-      "localizations": {
-        "eng": {
-          "content_id": 500220,
-          "language": "eng",
-          "title": "God’s Covenant with Israel’s Kings"
-        },
-        "arb": {
-          "content_id": 702227,
-          "language": "arb",
-          "title": "عهد ٱلله مع ملوك إسرائيل"
-        },
-        "hin": {
-          "content_id": 709392,
-          "language": "hin",
-          "title": "इस्राएल के राजाओं के साथ परमेश्वर की वाचा"
-        },
-        "por": {
-          "content_id": 800332,
-          "language": "por",
-          "title": "A aliança de Deus com os reis de Israel"
-        },
-        "swh": {
-          "content_id": 765020,
-          "language": "swh",
-          "title": "Agano la Mungu na Wafalme wa Israeli"
-        },
-        "zht": {
-          "content_id": 700226,
-          "language": "zht",
-          "title": "神與以色列諸王所立的約"
-        }
-      }
-    },
-    "734181": {
-      "content_id": 734181,
-      "reference_id": 203139,
-      "index_reference": "l'amour de dieu dans le contexte de l'alliance",
-      "localizations": {
-        "eng": {
-          "content_id": 500196,
-          "language": "eng",
-          "title": "God’s Covenant Love"
-        },
-        "arb": {
-          "content_id": 702203,
-          "language": "arb",
-          "title": "محبة الله العهدية"
-        },
-        "hin": {
-          "content_id": 709368,
-          "language": "hin",
-          "title": "परमेश्वर का वाचा-प्रेम"
-        },
-        "por": {
-          "content_id": 800308,
-          "language": "por",
-          "title": "O amor pactual de Deus"
-        },
-        "swh": {
-          "content_id": 764996,
-          "language": "swh",
-          "title": "Upendo wa Agano la Mungu"
-        },
-        "zht": {
-          "content_id": 700202,
-          "language": "zht",
-          "title": "神立約的愛"
-        }
-      }
-    },
-    "734223": {
-      "content_id": 734223,
-      "reference_id": 203279,
-      "index_reference": "l'amour de dieu pour israël",
-      "localizations": {
-        "eng": {
-          "content_id": 500336,
-          "language": "eng",
-          "title": "God’s Love for Israel"
-        },
-        "arb": {
-          "content_id": 702343,
-          "language": "arb",
-          "title": "محبة ٱلله لإسرائيل"
-        },
-        "hin": {
-          "content_id": 709508,
-          "language": "hin",
-          "title": "इस्राएल के लिए परमेश्वर का प्रेम"
-        },
-        "por": {
-          "content_id": 800448,
-          "language": "por",
-          "title": "O amor de Deus por Israel"
-        },
-        "swh": {
-          "content_id": 765136,
-          "language": "swh",
-          "title": "Upendo wa Mungu kwa Israeli"
-        },
-        "zht": {
-          "content_id": 700342,
-          "language": "zht",
-          "title": "神對以色列的愛"
-        }
-      }
-    },
-    "734246": {
-      "content_id": 734246,
-      "reference_id": 203379,
-      "index_reference": "l'amour entre chrétiens",
-      "localizations": {
-        "eng": {
-          "content_id": 500436,
-          "language": "eng",
-          "title": "Love in the Community of Christ"
-        },
-        "arb": {
-          "content_id": 702443,
-          "language": "arb",
-          "title": "المحبة في مجتمع ٱلمسيح"
-        },
-        "hin": {
-          "content_id": 709608,
-          "language": "hin",
-          "title": "मसीह के समुदाय में प्रेम"
-        },
-        "por": {
-          "content_id": 800548,
-          "language": "por",
-          "title": "Amor na comunidade de Cristo"
-        },
-        "swh": {
-          "content_id": 765236,
-          "language": "swh",
-          "title": "Upendo katika Jamii ya Kristo"
-        },
-        "zht": {
-          "content_id": 700442,
-          "language": "zht",
-          "title": "在基督裡的群體中彼此相愛"
-        }
-      }
-    },
-    "734234": {
-      "content_id": 734234,
-      "reference_id": 203321,
-      "index_reference": "l'ascension de jésus",
-      "localizations": {
-        "eng": {
-          "content_id": 500378,
-          "language": "eng",
-          "title": "Jesus’ Ascension"
-        },
-        "arb": {
-          "content_id": 702385,
-          "language": "arb",
-          "title": "صعود الرب يسوع"
-        },
-        "hin": {
-          "content_id": 709550,
-          "language": "hin",
-          "title": "यीशु का स्वर्गारोहण"
-        },
-        "por": {
-          "content_id": 800490,
-          "language": "por",
-          "title": "Ascensão de Jesus"
-        },
-        "swh": {
-          "content_id": 765178,
-          "language": "swh",
-          "title": "Kupaa kwa Yesu"
-        },
-        "zht": {
-          "content_id": 700384,
-          "language": "zht",
-          "title": "耶穌的升天"
-        }
-      }
-    },
-    "734229": {
-      "content_id": 734229,
-      "reference_id": 203302,
-      "index_reference": "l'attente du messie",
-      "localizations": {
-        "eng": {
-          "content_id": 500359,
-          "language": "eng",
-          "title": "Hope for the Messiah"
-        },
-        "arb": {
-          "content_id": 702366,
-          "language": "arb",
-          "title": "الرجاء في المسيا"
-        },
-        "hin": {
-          "content_id": 709531,
-          "language": "hin",
-          "title": "मसीहा की आशा"
-        },
-        "por": {
-          "content_id": 800471,
-          "language": "por",
-          "title": "Esperança pelo Messias"
-        },
-        "swh": {
-          "content_id": 765159,
-          "language": "swh",
-          "title": "Tumaini kwa Masihi"
-        },
-        "zht": {
-          "content_id": 700365,
-          "language": "zht",
-          "title": "對彌賽亞的盼望"
-        }
-      }
-    },
     "734184": {
       "content_id": 734184,
       "reference_id": 203147,
@@ -4460,117 +4154,6 @@
           "content_id": 700303,
           "language": "zht",
           "title": "神的僕人"
-        }
-      }
-    },
-    "734231": {
-      "content_id": 734231,
-      "reference_id": 203312,
-      "index_reference": "l'eau vive",
-      "localizations": {
-        "eng": {
-          "content_id": 500369,
-          "language": "eng",
-          "title": "Living Water"
-        },
-        "arb": {
-          "content_id": 702376,
-          "language": "arb",
-          "title": "الماء الحي"
-        },
-        "hin": {
-          "content_id": 709541,
-          "language": "hin",
-          "title": "जीवन जल"
-        },
-        "por": {
-          "content_id": 800481,
-          "language": "por",
-          "title": "Água viva"
-        },
-        "swh": {
-          "content_id": 765169,
-          "language": "swh",
-          "title": "Maji ya Uzima"
-        },
-        "zht": {
-          "content_id": 700375,
-          "language": "zht",
-          "title": "活水"
-        }
-      }
-    },
-    "734177": {
-      "content_id": 734177,
-      "reference_id": 203111,
-      "index_reference": "l'endurcissement du cœur",
-      "localizations": {
-        "eng": {
-          "content_id": 500168,
-          "language": "eng",
-          "title": "Hardened Hearts"
-        },
-        "arb": {
-          "content_id": 702175,
-          "language": "arb",
-          "title": "القلوب المُتقسّية"
-        },
-        "hin": {
-          "content_id": 709340,
-          "language": "hin",
-          "title": "मन को हठीला करना"
-        },
-        "por": {
-          "content_id": 800280,
-          "language": "por",
-          "title": "Corações endurecidos"
-        },
-        "swh": {
-          "content_id": 764968,
-          "language": "swh",
-          "title": "Mioyo Migumu"
-        },
-        "zht": {
-          "content_id": 700174,
-          "language": "zht",
-          "title": "剛硬的心"
-        }
-      }
-    },
-    "734222": {
-      "content_id": 734222,
-      "reference_id": 203278,
-      "index_reference": "l'engagement de dieu envers son peuple",
-      "localizations": {
-        "eng": {
-          "content_id": 500335,
-          "language": "eng",
-          "title": "God’s Commitment to His People"
-        },
-        "arb": {
-          "content_id": 702342,
-          "language": "arb",
-          "title": "التزام ٱلله تجاه شعبه"
-        },
-        "hin": {
-          "content_id": 709507,
-          "language": "hin",
-          "title": "अपने लोगों के प्रति परमेश्वर की प्रतिबद्धता"
-        },
-        "por": {
-          "content_id": 800447,
-          "language": "por",
-          "title": "Compromisso de Deus com seu povo"
-        },
-        "swh": {
-          "content_id": 765135,
-          "language": "swh",
-          "title": "Ahadi ya Mungu kwa Watu Wake"
-        },
-        "zht": {
-          "content_id": 700341,
-          "language": "zht",
-          "title": "神對祂子民的應許"
         }
       }
     },
@@ -5262,117 +4845,6 @@
           "content_id": 700209,
           "language": "zht",
           "title": "屬靈恩賜型領導"
-        }
-      }
-    },
-    "734214": {
-      "content_id": 734214,
-      "reference_id": 203252,
-      "index_reference": "l'espoir au-delà du jugement",
-      "localizations": {
-        "eng": {
-          "content_id": 500309,
-          "language": "eng",
-          "title": "Hope Beyond Judgment"
-        },
-        "arb": {
-          "content_id": 702316,
-          "language": "arb",
-          "title": "الرجاء بعد الدينونة"
-        },
-        "hin": {
-          "content_id": 709481,
-          "language": "hin",
-          "title": "न्याय से परे आशा"
-        },
-        "por": {
-          "content_id": 800421,
-          "language": "por",
-          "title": "Esperança além do julgamento"
-        },
-        "swh": {
-          "content_id": 765109,
-          "language": "swh",
-          "title": "Tumaini Zaidi ya Hukumu"
-        },
-        "zht": {
-          "content_id": 700315,
-          "language": "zht",
-          "title": "審判之後的盼望"
-        }
-      }
-    },
-    "734221": {
-      "content_id": 734221,
-      "reference_id": 203274,
-      "index_reference": "l'incompréhension humaine face aux desseins de dieu",
-      "localizations": {
-        "eng": {
-          "content_id": 500331,
-          "language": "eng",
-          "title": "Human Confusion and God’s Purpose"
-        },
-        "arb": {
-          "content_id": 702338,
-          "language": "arb",
-          "title": "تحيّر الإنسان وقصد ٱلله"
-        },
-        "hin": {
-          "content_id": 709503,
-          "language": "hin",
-          "title": "मानवीय उलझन और परमेश्‍वर का उद्देश्य "
-        },
-        "por": {
-          "content_id": 800443,
-          "language": "por",
-          "title": "Confusão humana e o propósito de Deus"
-        },
-        "swh": {
-          "content_id": 765131,
-          "language": "swh",
-          "title": "Mkanganyiko wa Binadamu na Kusudi la Mungu"
-        },
-        "zht": {
-          "content_id": 700337,
-          "language": "zht",
-          "title": "人的困惑與神的旨意"
-        }
-      }
-    },
-    "734201": {
-      "content_id": 734201,
-      "reference_id": 203199,
-      "index_reference": "l'innocence de job",
-      "localizations": {
-        "eng": {
-          "content_id": 500256,
-          "language": "eng",
-          "title": "Job’s Innocence"
-        },
-        "arb": {
-          "content_id": 702263,
-          "language": "arb",
-          "title": "براءة أيّوب"
-        },
-        "hin": {
-          "content_id": 709428,
-          "language": "hin",
-          "title": "अय्यूब की निर्दोषता "
-        },
-        "por": {
-          "content_id": 800368,
-          "language": "por",
-          "title": "A inocência de Jó"
-        },
-        "swh": {
-          "content_id": 765056,
-          "language": "swh",
-          "title": "Kutokuwa na hatia kwa Ayubu"
-        },
-        "zht": {
-          "content_id": 700262,
-          "language": "zht",
-          "title": "約伯的無辜"
         }
       }
     },

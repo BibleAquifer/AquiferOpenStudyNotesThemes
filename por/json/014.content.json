@@ -1,0 +1,1360 @@
+[
+  {
+    "content_id": 800482,
+    "reference_id": 203313,
+    "version": "1.0.1",
+    "title": "Mal-entendido no evangelho de João",
+    "media_type": "Text",
+    "index_reference": "mal-entendido no evangelho de joão",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>No Evangelho de João, as pessoas frequentemente não compreendiam Jesus (veja <a href=\"https://ref.ly/John3:4\">João 3.4</a>; <a href=\"https://ref.ly/John4:11\">4.11</a>,<a href=\"https://ref.ly/John4:33\">33</a>; <a href=\"https://ref.ly/John7:35\">7.35</a>; <a href=\"https://ref.ly/John11:12-John11:13\">11.12–13</a>). Elas discordavam sobre quem Jesus era. Quando perceberam o que ele realmente queria dizer, alguns queriam prendê-lo, enquanto outros desejavam segui-lo (<a href=\"https://ref.ly/John7:40-John7:44\">7.40–44</a>). Somente mais tarde, após os discípulos receberem o Espírito Santo, eles compreenderam plenamente sua importância (veja <a href=\"https://ref.ly/John16:12-John16:13\">16.12–13</a>).</p><p>O mundo permanece em escuridão espiritual e luta para entender a vida ou Deus (<a href=\"https://ref.ly/John1:5\">Jó 1.5</a>,<a href=\"https://ref.ly/John1:10\">10</a>). As pessoas não conseguem compreender as mensagens de Deus por conta própria, a menos que Deus as ajude a entender. A luz espiritual de Deus penetra na escuridão, revelando as falhas do mundo. Muitas pessoas se retraem ainda mais na escuridão espiritual porque a preferem à luz (<a href=\"https://ref.ly/John3:19-John3:20\">3.19–20</a>). Somente o Espírito de Deus pode transformar e ajudar as pessoas a ver claramente como os filhos de Deus veem (<a href=\"https://ref.ly/John3:21\">3.21</a>; <a href=\"https://ref.ly/John8:12\">8.12</a>; <a href=\"https://ref.ly/John12:35-John12:36\">12.35–36</a>,<a href=\"https://ref.ly/John12:46\">46</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Isa6:8-Isa6:13\">Isaías 6.8–13</a>; <a href=\"https://ref.ly/Isa56:10-Isa56:11\">56.10–11</a>; <a href=\"https://ref.ly/Matt13:11-Matt13:17\">Mateus 13.11–17</a>; <a href=\"https://ref.ly/John1:10-John1:11\">João 1.10–11</a>; <a href=\"https://ref.ly/John3:19-John3:20\">3.19–20</a>; <a href=\"https://ref.ly/John7:32-John7:36\">João 7.32–36</a>; <a href=\"https://ref.ly/John9:40-John9:41\">9.40–41</a>; <a href=\"https://ref.ly/John12:40\">12.40</a>; <a href=\"https://ref.ly/Rom1:21\">Romanos 1.21</a>; <a href=\"https://ref.ly/2Cor3:13-2Cor3:18\">2 Coríntios 3.13–18</a>; <a href=\"https://ref.ly/2Cor4:3-2Cor4:4\">4.3–4</a>; <a href=\"https://ref.ly/1John2:9-1John2:11\">1 João 2.9–11</a>; <a href=\"https://ref.ly/Rev3:17\">Apocalipse 3.17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43001005",
+          "start_ref_usfm": "JHN 1:5",
+          "end_ref": "43001005",
+          "end_ref_usfm": "JHN 1:5"
+        },
+        {
+          "start_ref": "43001010",
+          "start_ref_usfm": "JHN 1:10",
+          "end_ref": "43001010",
+          "end_ref_usfm": "JHN 1:10"
+        },
+        {
+          "start_ref": "43003004",
+          "start_ref_usfm": "JHN 3:4",
+          "end_ref": "43003004",
+          "end_ref_usfm": "JHN 3:4"
+        },
+        {
+          "start_ref": "43003021",
+          "start_ref_usfm": "JHN 3:21",
+          "end_ref": "43003021",
+          "end_ref_usfm": "JHN 3:21"
+        },
+        {
+          "start_ref": "43004011",
+          "start_ref_usfm": "JHN 4:11",
+          "end_ref": "43004011",
+          "end_ref_usfm": "JHN 4:11"
+        },
+        {
+          "start_ref": "43004033",
+          "start_ref_usfm": "JHN 4:33",
+          "end_ref": "43004033",
+          "end_ref_usfm": "JHN 4:33"
+        },
+        {
+          "start_ref": "43007035",
+          "start_ref_usfm": "JHN 7:35",
+          "end_ref": "43007035",
+          "end_ref_usfm": "JHN 7:35"
+        },
+        {
+          "start_ref": "43008012",
+          "start_ref_usfm": "JHN 8:12",
+          "end_ref": "43008012",
+          "end_ref_usfm": "JHN 8:12"
+        },
+        {
+          "start_ref": "43012040",
+          "start_ref_usfm": "JHN 12:40",
+          "end_ref": "43012040",
+          "end_ref_usfm": "JHN 12:40"
+        },
+        {
+          "start_ref": "43012046",
+          "start_ref_usfm": "JHN 12:46",
+          "end_ref": "43012046",
+          "end_ref_usfm": "JHN 12:46"
+        },
+        {
+          "start_ref": "45001021",
+          "start_ref_usfm": "ROM 1:21",
+          "end_ref": "45001021",
+          "end_ref_usfm": "ROM 1:21"
+        },
+        {
+          "start_ref": "66003017",
+          "start_ref_usfm": "REV 3:17",
+          "end_ref": "66003017",
+          "end_ref_usfm": "REV 3:17"
+        },
+        {
+          "start_ref": "23056010",
+          "start_ref_usfm": "ISA 56:10",
+          "end_ref": "23056011",
+          "end_ref_usfm": "ISA 56:11"
+        },
+        {
+          "start_ref": "47004003",
+          "start_ref_usfm": "2CO 4:3",
+          "end_ref": "47004004",
+          "end_ref_usfm": "2CO 4:4"
+        },
+        {
+          "start_ref": "62002009",
+          "start_ref_usfm": "1JN 2:9",
+          "end_ref": "62002011",
+          "end_ref_usfm": "1JN 2:11"
+        },
+        {
+          "start_ref": "43003019",
+          "start_ref_usfm": "JHN 3:19",
+          "end_ref": "43003020",
+          "end_ref_usfm": "JHN 3:20"
+        },
+        {
+          "start_ref": "43007032",
+          "start_ref_usfm": "JHN 7:32",
+          "end_ref": "43007036",
+          "end_ref_usfm": "JHN 7:36"
+        },
+        {
+          "start_ref": "43009040",
+          "start_ref_usfm": "JHN 9:40",
+          "end_ref": "43009041",
+          "end_ref_usfm": "JHN 9:41"
+        },
+        {
+          "start_ref": "43011012",
+          "start_ref_usfm": "JHN 11:12",
+          "end_ref": "43011013",
+          "end_ref_usfm": "JHN 11:13"
+        },
+        {
+          "start_ref": "43012035",
+          "start_ref_usfm": "JHN 12:35",
+          "end_ref": "43012036",
+          "end_ref_usfm": "JHN 12:36"
+        },
+        {
+          "start_ref": "47003013",
+          "start_ref_usfm": "2CO 3:13",
+          "end_ref": "47003018",
+          "end_ref_usfm": "2CO 3:18"
+        },
+        {
+          "start_ref": "23006008",
+          "start_ref_usfm": "ISA 6:8",
+          "end_ref": "23006013",
+          "end_ref_usfm": "ISA 6:13"
+        },
+        {
+          "start_ref": "43007040",
+          "start_ref_usfm": "JHN 7:40",
+          "end_ref": "43007044",
+          "end_ref_usfm": "JHN 7:44"
+        },
+        {
+          "start_ref": "43016012",
+          "start_ref_usfm": "JHN 16:12",
+          "end_ref": "43016013",
+          "end_ref_usfm": "JHN 16:13"
+        },
+        {
+          "start_ref": "40013011",
+          "start_ref_usfm": "MAT 13:11",
+          "end_ref": "40013017",
+          "end_ref_usfm": "MAT 13:17"
+        },
+        {
+          "start_ref": "43001010",
+          "start_ref_usfm": "JHN 1:10",
+          "end_ref": "43001011",
+          "end_ref_usfm": "JHN 1:11"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 800307,
+    "reference_id": 203138,
+    "version": "1.0.1",
+    "title": "Maldições e bênçãos",
+    "media_type": "Text",
+    "index_reference": "maldições e bênçãos",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>Quase todos os textos de tratados ou alianças do antigo Oriente Próximo incluíam maldições e bênçãos. As maldições eram direcionadas àqueles que violavam os termos da aliança. As bênçãos eram para aqueles que permaneciam fiéis. Isso era especialmente verdadeiro para alianças suzerano-vassalo (grande rei-rei menor ou povo) como Deuteronômio (veja <span data-bnType=\"resourceReference\" data-resourceId=\"Deut_BookIntro_Filament\" data-resourceType=\"UNKNOWN\">Introdução ao livro de Deuteronômio</span>, “Forma Literária”).</p><p>Deuteronômio explicou ao povo de Israel o que Deus esperava deles. A aliança exigia que Israel obedecesse a Deus, e os israelitas prometeram cumprir isso (<a href=\"https://ref.ly/Exod19:8\">Êxodo 19.8</a>). A seção sobre maldições e bênçãos explica como Deus recompensaria a obediência e puniria a desobediência (<a href=\"https://ref.ly/Deut27:1-Deut29:1\">Deuteronômio 27.1–29.1</a>).</p><p>O texto enfatiza mais as maldições do que as bênçãos. Isso pode ser porque as pessoas tendem a focar mais em promessas do que em avisos. As bênçãos são frequentemente mais fáceis de entender, pois prometem segurança futura. O julgamento é menos claro e precisa de descrições detalhadas.</p><p>Deus enfatiza as maldições para destacar as consequências das más ações. Os avisos que Jesus deu sobre eventos futuros estão alinhados com esses alertas (<a href=\"https://ref.ly/Matt24:1-Matt25:46\">Mateus 24–25</a>).</p><p>A história de Israel mostra como Deus cumpriu sua promessa de bênçãos e maldições. Quando Israel seguiu sua aliança com Deus, Ele os abençoou. Quando se rebelaram, Ele os julgou. A rebelião de Israel é resumida em <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 Reis 17.7–20</a>. Quando os israelitas quebraram os dois primeiros mandamentos, violaram toda a aliança (<a href=\"https://ref.ly/Deut5:7-Deut5:10\">Deuteronômio 5.7–10</a>). A rebelião deles trouxe as maldições de <a href=\"https://ref.ly/Deut28:1-Deut28:68\">Deuteronômio 28</a> sobre eles.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen9:24-Gen9:27\">Gênesis 9.24–27</a>; <a href=\"https://ref.ly/Lev26:3-Lev26:45\">Levítico 26.3–45</a>; <a href=\"https://ref.ly/Deut8:7-Deut8:20\">Deuteronômio 8.7–20</a>; <a href=\"https://ref.ly/Deut11:29\">11.29</a>; <a href=\"https://ref.ly/Deut27:1-Deut29:1\">Deuteronômio 27.1–29.1</a>; <a href=\"https://ref.ly/Josh8:33-Josh8:35\">Josué 8.33–35</a>; <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 Reis 17.7–20</a>; <a href=\"https://ref.ly/2Chr36:17-2Chr36:21\">2 Crônicas 36.17–21.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019008",
+          "start_ref_usfm": "EXO 19:8",
+          "end_ref": "02019008",
+          "end_ref_usfm": "EXO 19:8"
+        },
+        {
+          "start_ref": "05011029",
+          "start_ref_usfm": "DEU 11:29",
+          "end_ref": "05011029",
+          "end_ref_usfm": "DEU 11:29"
+        },
+        {
+          "start_ref": "05028001",
+          "start_ref_usfm": "DEU 28:1",
+          "end_ref": "05028068",
+          "end_ref_usfm": "DEU 28:68"
+        },
+        {
+          "start_ref": "40024001",
+          "start_ref_usfm": "MAT 24:1",
+          "end_ref": "40025046",
+          "end_ref_usfm": "MAT 25:46"
+        },
+        {
+          "start_ref": "06008033",
+          "start_ref_usfm": "JOS 8:33",
+          "end_ref": "06008035",
+          "end_ref_usfm": "JOS 8:35"
+        },
+        {
+          "start_ref": "05027001",
+          "start_ref_usfm": "DEU 27:1",
+          "end_ref": "05029001",
+          "end_ref_usfm": "DEU 29:1"
+        },
+        {
+          "start_ref": "12017007",
+          "start_ref_usfm": "2KI 17:7",
+          "end_ref": "12017020",
+          "end_ref_usfm": "2KI 17:20"
+        },
+        {
+          "start_ref": "05005007",
+          "start_ref_usfm": "DEU 5:7",
+          "end_ref": "05005010",
+          "end_ref_usfm": "DEU 5:10"
+        },
+        {
+          "start_ref": "01009024",
+          "start_ref_usfm": "GEN 9:24",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "03026003",
+          "start_ref_usfm": "LEV 26:3",
+          "end_ref": "03026045",
+          "end_ref_usfm": "LEV 26:45"
+        },
+        {
+          "start_ref": "05008007",
+          "start_ref_usfm": "DEU 8:7",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "14036017",
+          "start_ref_usfm": "2CH 36:17",
+          "end_ref": "14036021",
+          "end_ref_usfm": "2CH 36:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 800545,
+    "reference_id": 203376,
+    "version": "1.0.1",
+    "title": "Maturidade espiritual",
+    "media_type": "Text",
+    "index_reference": "maturidade espiritual",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>Quando alguém confia em Jesus Cristo para a salvação, isso marca o início de uma jornada que continuará pelo resto de sua vida. Eles não permanecem os mesmos. Eles se transformam e crescem para se tornarem mais semelhantes a Jesus. Este processo é chamado de &quot;santificação&quot;. Assim como os bebês recém-nascidos precisam de leite para crescer antes de poderem comer alimentos sólidos, os novos cristãos precisam de &quot;leite espiritual puro&quot; para experimentar plenamente a salvação (<a href=\"https://ref.ly/1Pet2:1-1Pet2:3\">1 Pedro 2.2–3</a>). Eventualmente, eles estarão prontos para o &quot;alimento sólido&quot; de ensinamentos mais profundos (<a href=\"https://ref.ly/Heb5:11-Heb5:14\">Hebreus 5.11–14</a>).</p><p>Maturidade espiritual envolve a capacidade de compreender a sabedoria espiritual (<a href=\"https://ref.ly/1Cor2:6\">1 Coríntios 2.6</a>). O apóstolo Paulo instrui que os cristãos pensem de forma madura (<a href=\"https://ref.ly/1Cor14:20\">1 Coríntios 14.20</a>). O corpo de Cristo amadurece à medida que os cristãos se tornam espiritualmente equipados e aprendem sobre o Filho de Deus (<a href=\"https://ref.ly/Eph4:11-Eph4:16\">Efésios 4.11–16</a>). Isso resulta em uma comunidade de fé unida, onde o amor e a verdade fortalecem o corpo de Cristo.</p><p>O público de Hebreus era espiritualmente imaturo. O autor queria fornecer-lhes ensinamentos espirituais substanciais, mas eles se comportavam como bebês espirituais que precisavam de nutrição básica em vez de lições mais profundas (<a href=\"https://ref.ly/Heb5:12\">Hebreus 5.12</a>). Eles não tinham sido atentos aos ensinamentos de Deus. Já eram cristãos há tempo suficiente para ensinar outros, mas sua crescente insensibilidade os tornava espiritualmente apáticos (<a href=\"https://ref.ly/Heb5:11-Heb5:12\">5.11–12</a>; compare <a href=\"https://ref.ly/1Cor3:1-1Cor3:3\">1 Coríntios 3.1–3</a>).</p><p>Eles não tinham a maturidade para entender a diferença básica entre o certo e o errado (<a href=\"https://ref.ly/Heb5:14\">Hebreus 5.14</a>). Portanto, o autor os desafiou a crescer em maturidade. Isso foi para que ele pudesse compartilhar verdades mais profundas da fé, em vez de cobrir repetidamente os fundamentos (<a href=\"https://ref.ly/Heb6:1-Heb6:3\">6.1–3</a>).</p><p>A maturidade espiritual não ocorre automaticamente com o tempo. Ela surge ao ouvir ativamente a palavra de Deus e vivê-la em uma comunidade de cristãos.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Cor2:6\">1 Coríntios 2.6</a>; <a href=\"https://ref.ly/1Cor3:1-1Cor3:3\">3.1–3</a>; <a href=\"https://ref.ly/1Cor14:20\">14.20</a>; <a href=\"https://ref.ly/2Cor13:9-2Cor13:11\">2 Coríntios 13.9–11</a>; <a href=\"https://ref.ly/Eph4:11-Eph4:16\">Efésios 4.11–16</a>; <a href=\"https://ref.ly/Col4:12\">Colossenses 4.12</a>; <a href=\"https://ref.ly/Heb5:11-Heb5:14\">Hebreus 5.11–14</a>; <a href=\"https://ref.ly/Heb6:1-Heb6:3\">6.1–3</a>; <a href=\"https://ref.ly/Heb10:14\">10.14</a>; <a href=\"https://ref.ly/Heb12:1-Heb12:2\">12.1–2</a>; <a href=\"https://ref.ly/1Pet2:1-1Pet2:3\">1 Pedro 2.1–3.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46002006",
+          "start_ref_usfm": "1CO 2:6",
+          "end_ref": "46002006",
+          "end_ref_usfm": "1CO 2:6"
+        },
+        {
+          "start_ref": "46014020",
+          "start_ref_usfm": "1CO 14:20",
+          "end_ref": "46014020",
+          "end_ref_usfm": "1CO 14:20"
+        },
+        {
+          "start_ref": "51004012",
+          "start_ref_usfm": "COL 4:12",
+          "end_ref": "51004012",
+          "end_ref_usfm": "COL 4:12"
+        },
+        {
+          "start_ref": "58005012",
+          "start_ref_usfm": "HEB 5:12",
+          "end_ref": "58005012",
+          "end_ref_usfm": "HEB 5:12"
+        },
+        {
+          "start_ref": "58005014",
+          "start_ref_usfm": "HEB 5:14",
+          "end_ref": "58005014",
+          "end_ref_usfm": "HEB 5:14"
+        },
+        {
+          "start_ref": "58010014",
+          "start_ref_usfm": "HEB 10:14",
+          "end_ref": "58010014",
+          "end_ref_usfm": "HEB 10:14"
+        },
+        {
+          "start_ref": "60002001",
+          "start_ref_usfm": "1PE 2:1",
+          "end_ref": "60002003",
+          "end_ref_usfm": "1PE 2:3"
+        },
+        {
+          "start_ref": "46003001",
+          "start_ref_usfm": "1CO 3:1",
+          "end_ref": "46003003",
+          "end_ref_usfm": "1CO 3:3"
+        },
+        {
+          "start_ref": "58006001",
+          "start_ref_usfm": "HEB 6:1",
+          "end_ref": "58006003",
+          "end_ref_usfm": "HEB 6:3"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004016",
+          "end_ref_usfm": "EPH 4:16"
+        },
+        {
+          "start_ref": "58005011",
+          "start_ref_usfm": "HEB 5:11",
+          "end_ref": "58005014",
+          "end_ref_usfm": "HEB 5:14"
+        },
+        {
+          "start_ref": "58005011",
+          "start_ref_usfm": "HEB 5:11",
+          "end_ref": "58005012",
+          "end_ref_usfm": "HEB 5:12"
+        },
+        {
+          "start_ref": "47013009",
+          "start_ref_usfm": "2CO 13:9",
+          "end_ref": "47013011",
+          "end_ref_usfm": "2CO 13:11"
+        },
+        {
+          "start_ref": "58012001",
+          "start_ref_usfm": "HEB 12:1",
+          "end_ref": "58012002",
+          "end_ref_usfm": "HEB 12:2"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 800428,
+    "reference_id": 203259,
+    "version": "1.0.1",
+    "title": "Mensagens contra as nações",
+    "media_type": "Text",
+    "index_reference": "mensagens contra as nações",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>Por que os profetas de Israel falavam a nações que provavelmente não ouviriam suas mensagens? Por que os profetas se importavam com os pensamentos e ações dessas nações?</p><p>O verdadeiro público era o povo de Deus. Essas mensagens os lembravam de que Deus não tem dois pesos e duas medidas. Ele julga os pecados de seu povo e os de outras nações. O julgamento começa &quot;pela família de Deus&quot; (<a href=\"https://ref.ly/1Pet4:17\">1 Pedro 4.17</a>).</p><p>Mas não para por aí. Deus julgará todos, tanto dentro quanto fora de Israel, que se rebelam contra Ele. Todos devem reconhecer o Senhor como o único verdadeiro e soberano Deus.</p><p>O povo de Judá frequentemente confiava em nações como o Egito para salvá-los de inimigos estrangeiros. Eles não percebiam que Deus usava outras nações para julgá-los. Os profetas lembravam ao povo que nenhuma nação na terra pode substituir Deus. No final, todas as nações se curvarão diante dele em adoração.</p><p>As mensagens contra nações estrangeiras lembravam à comunidade da aliança que, mesmo que Deus os julgasse por seus pecados, eles continuavam sendo seu povo precioso. A principal acusação contra essas nações estrangeiras era que elas perseguiam e insultavam o povo escolhido de Deus. Isso ofendeu a Deus. A parte negativa da aliança de Deus com Abraão ainda estava ativa. Deus diz que ele irá “amaldiçoar aqueles que te amaldiçoarem” (<a href=\"https://ref.ly/Gen12:3\">Gênesis 12.3</a>).</p><p>O principal objetivo de Deus na história é trazer glória para si mesmo. Ao exilar seu povo pecador e julgar seus opressores arrogantes, Deus mostrou seu poder e santidade. Apesar do exílio para Babilônia, ainda havia esperança para que o lado positivo da aliança fosse cumprido: “todas as famílias da terra serão abençoadas por meio de você” (<a href=\"https://ref.ly/Gen12:3\">Gênesis 12.3</a>; veja também <a href=\"https://ref.ly/Rom11:1-Rom11:27\">Romanos 11.1–27</a>). Deus não havia terminado os planos para seu povo. Ele, em última análise, se glorificaria ao trazê-los de volta das terras distantes para onde os havia espalhado.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen12:3\">Gênesis 12.3</a>; <a href=\"https://ref.ly/Deut23:3-Deut23:6\">Deuteronômio 23.3–6</a>; <a href=\"https://ref.ly/Isa13:1-Isa23:18\">Isaías 13.1–23.18</a>; <a href=\"https://ref.ly/Jer25:29\">Jeremias 25.29</a>; <a href=\"https://ref.ly/Jer46:1-Jer51:64\">46.1–51.64</a>; <a href=\"https://ref.ly/Ezek9:6\">Ezequiel 9.6</a>; <a href=\"https://ref.ly/Ezek25:1-Ezek32:32\">25.1–32.32</a>; <a href=\"https://ref.ly/Ezek36:23\">36.23</a>; <a href=\"https://ref.ly/Ezek39:7\">39.7</a>; <a href=\"https://ref.ly/Dan4:17\">Daniel 4.17</a>; <a href=\"https://ref.ly/Amos1:1-Amos2:3\">Amós 1.1–2.3</a>; <a href=\"https://ref.ly/Amos3:2\">3.2</a>; <a href=\"https://ref.ly/Obad1:1-Obad1:16\">Obadias 1.1–16</a>; <a href=\"https://ref.ly/John15:18-John15:24\">João 15.18–24</a>; <a href=\"https://ref.ly/Acts3:25-Acts3:26\">Atos 3.25–26</a>; <a href=\"https://ref.ly/Rom2:9-Rom2:10\">Romanos 2.9–10</a>; <a href=\"https://ref.ly/Rom11:1-Rom11:27\">11.1–27</a>; <a href=\"https://ref.ly/Eph1:3-Eph1:14\">Efésios 1.3–14</a>; <a href=\"https://ref.ly/1Pet4:17\">1 Pedro 4.17</a>; <a href=\"https://ref.ly/Rev18:1-Rev18:24\">Apocalipse 18.1–24</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012003",
+          "start_ref_usfm": "GEN 12:3",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "24025029",
+          "start_ref_usfm": "JER 25:29",
+          "end_ref": "24025029",
+          "end_ref_usfm": "JER 25:29"
+        },
+        {
+          "start_ref": "26009006",
+          "start_ref_usfm": "EZK 9:6",
+          "end_ref": "26009006",
+          "end_ref_usfm": "EZK 9:6"
+        },
+        {
+          "start_ref": "26036023",
+          "start_ref_usfm": "EZK 36:23",
+          "end_ref": "26036023",
+          "end_ref_usfm": "EZK 36:23"
+        },
+        {
+          "start_ref": "26039007",
+          "start_ref_usfm": "EZK 39:7",
+          "end_ref": "26039007",
+          "end_ref_usfm": "EZK 39:7"
+        },
+        {
+          "start_ref": "27004017",
+          "start_ref_usfm": "DAN 4:17",
+          "end_ref": "27004017",
+          "end_ref_usfm": "DAN 4:17"
+        },
+        {
+          "start_ref": "30003002",
+          "start_ref_usfm": "AMO 3:2",
+          "end_ref": "30003002",
+          "end_ref_usfm": "AMO 3:2"
+        },
+        {
+          "start_ref": "60004017",
+          "start_ref_usfm": "1PE 4:17",
+          "end_ref": "60004017",
+          "end_ref_usfm": "1PE 4:17"
+        },
+        {
+          "start_ref": "26025001",
+          "start_ref_usfm": "EZK 25:1",
+          "end_ref": "26032032",
+          "end_ref_usfm": "EZK 32:32"
+        },
+        {
+          "start_ref": "49001003",
+          "start_ref_usfm": "EPH 1:3",
+          "end_ref": "49001014",
+          "end_ref_usfm": "EPH 1:14"
+        },
+        {
+          "start_ref": "23013001",
+          "start_ref_usfm": "ISA 13:1",
+          "end_ref": "23023018",
+          "end_ref_usfm": "ISA 23:18"
+        },
+        {
+          "start_ref": "24046001",
+          "start_ref_usfm": "JER 46:1",
+          "end_ref": "24051064",
+          "end_ref_usfm": "JER 51:64"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023006",
+          "end_ref_usfm": "DEU 23:6"
+        },
+        {
+          "start_ref": "66018001",
+          "start_ref_usfm": "REV 18:1",
+          "end_ref": "66018024",
+          "end_ref_usfm": "REV 18:24"
+        },
+        {
+          "start_ref": "45011001",
+          "start_ref_usfm": "ROM 11:1",
+          "end_ref": "45011027",
+          "end_ref_usfm": "ROM 11:27"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30002003",
+          "end_ref_usfm": "AMO 2:3"
+        },
+        {
+          "start_ref": "31001001",
+          "start_ref_usfm": "OBA 1:1",
+          "end_ref": "31001016",
+          "end_ref_usfm": "OBA 1:16"
+        },
+        {
+          "start_ref": "43015018",
+          "start_ref_usfm": "JHN 15:18",
+          "end_ref": "43015024",
+          "end_ref_usfm": "JHN 15:24"
+        },
+        {
+          "start_ref": "44003025",
+          "start_ref_usfm": "ACT 3:25",
+          "end_ref": "44003026",
+          "end_ref_usfm": "ACT 3:26"
+        },
+        {
+          "start_ref": "45002009",
+          "start_ref_usfm": "ROM 2:9",
+          "end_ref": "45002010",
+          "end_ref_usfm": "ROM 2:10"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 800496,
+    "reference_id": 203327,
+    "version": "1.0.1",
+    "title": "Milagres",
+    "media_type": "Text",
+    "index_reference": "milagres",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>Milagres frequentemente ocorreram na Bíblia. Eles eram especialmente comuns durante o tempo de Moisés e nos ministérios de Elias, Eliseu, Jesus e seus apóstolos. A Bíblia não tenta provar milagres, apenas os relata. Os milagres demonstram o poder de Deus sobre a criação e sua compaixão pelas necessidades humanas.</p><p>Milagres podem levar as pessoas a acreditar em Deus (<a href=\"https://ref.ly/John2:23\">Jó 2.23</a>). Mas a verdadeira crença requer mais do que apenas testemunhar um milagre (veja <a href=\"https://ref.ly/John12:37\">Jó 12.37</a>). Milagres nos lembram que qualquer coisa é possível para Deus (<a href=\"https://ref.ly/Mark9:21-Mark9:23\">Mc 9.21–23</a>; compare <a href=\"https://ref.ly/Matt19:26\">Mateus 19.26</a>; <a href=\"https://ref.ly/Mark10:27\">Mc 10.27</a>; <a href=\"https://ref.ly/Luke1:37\">Lucas 1.37</a>; <a href=\"https://ref.ly/Luke18:27\">18.27</a>).</p><p>Jesus realizou muitos milagres durante seu ministério, incluindo curar os doentes, expulsar demônios, controlar a natureza e ressuscitar os mortos. Ele demonstrou profundo amor pelas pessoas ao atender suas necessidades. Muitos o seguiram por causa desses milagres (<a href=\"https://ref.ly/John6:2\">João 6.2</a>). No entanto, ele advertiu contra segui-lo apenas pelos milagres (<a href=\"https://ref.ly/John6:26\">João 6.26</a>).</p><p>Os três maiores milagres relacionados a Jesus são:</p><ol><li><p>Sua chegada como &quot;a Palavra&quot; de Deus em carne humana (<a href=\"https://ref.ly/John1:14\">João 1.14</a>).</p></li><li><p>Sua ressurreição dos mortos (<a href=\"https://ref.ly/Matt28:1-Matt28:20\">Mateus 28</a>; <a href=\"https://ref.ly/Mark16:1-Mark16:8\">Mc 16.1–8</a>; <a href=\"https://ref.ly/Luke24:1-Luke24:53\">Lucas 24.1–53</a>; <a href=\"https://ref.ly/John20:1-John20:31\">João 20.1–31</a>; <a href=\"https://ref.ly/Acts1:3\">Atos 1.3</a>; <a href=\"https://ref.ly/1Cor15:3-1Cor15:8\">1 Coríntios 15.3–8</a>; veja também <a href=\"https://ref.ly/Acts23:6\">Atos 23.6</a>; <a href=\"https://ref.ly/Acts26:8\">26.8</a>).</p></li><li><p>O milagre do renascimento espiritual (<a href=\"https://ref.ly/John3:3-John3:8\">João 3.3–8</a>; <a href=\"https://ref.ly/Gal2:20\">Gálatas 2.20</a>; <a href=\"https://ref.ly/Eph2:8-Eph2:10\">Efésios 2.8–10</a>).</p></li></ol><p>Jesus veio ao mundo para salvá-lo e morrer pelos pecados, demonstrando o grande amor de Deus pela humanidade (<a href=\"https://ref.ly/John3:16\">Jó 3.16</a>; <a href=\"https://ref.ly/Rom5:8\">Romanos 5.8</a>; <a href=\"https://ref.ly/Rom8:32\">8.32</a>; <a href=\"https://ref.ly/Eph2:4-Eph2:5\">Efésios 2.4–5</a>; <a href=\"https://ref.ly/1John3:1-1John3:2\">1 João 3.1–2</a>). Deus ressuscitando Jesus dos mortos mostra seu poder sobre a morte e nos dá esperança de vida eterna (<a href=\"https://ref.ly/1Pet1:3-1Pet1:9\">1 Pedro 1.3–9</a>). Qualquer pessoa que confia em Jesus Cristo como Salvador e Senhor renasce como filho de Deus e recebe a vida eterna (<a href=\"https://ref.ly/John1:12\">Jó 1.12</a>; <a href=\"https://ref.ly/John3:36\">3.36</a>; <a href=\"https://ref.ly/Rom5:1-Rom5:2\">Romanos 5.1–2</a>; <a href=\"https://ref.ly/1John5:11-1John5:13\">1 João 5.11–13</a>).</p><p>O trabalho milagroso de Jesus continuou através de seus seguidores, como mostrado no livro de Atos (por exemplo, <a href=\"https://ref.ly/Acts3:1-Acts3:11\">Atos 3.1–11</a>; <a href=\"https://ref.ly/Acts5:12-Acts5:15\">5.12–15</a>; <a href=\"https://ref.ly/Acts6:8\">6.8</a>; <a href=\"https://ref.ly/Acts8:6-Acts8:7\">8.6–7</a>; <a href=\"https://ref.ly/Acts9:32-Acts9:42\">9.32–42</a>; <a href=\"https://ref.ly/Acts14:3\">14.3</a>). Cheios do Espírito Santo, os apóstolos e outros líderes cristãos realizaram esses milagres para demonstrar o poder e a verdade da mensagem cristã (<a href=\"https://ref.ly/Acts14:3\">14.3</a>; veja <a href=\"https://ref.ly/John3:2\">João 3.2</a>; <a href=\"https://ref.ly/Heb2:4\">Hebreus 2.4</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt19:23-Matt19:26\">Mateus 19.23–26</a>; <a href=\"https://ref.ly/Matt28:1-Matt28:20\">28.1–20</a>; <a href=\"https://ref.ly/Mark10:23-Mark10:27\">Marcos 10.23–27</a>; <a href=\"https://ref.ly/Luke1:30-Luke1:38\">Lucas 1.30–38</a>; <a href=\"https://ref.ly/Luke18:24-Luke18:27\">18.24–27</a>; <a href=\"https://ref.ly/Luke24:1-Luke24:53\">24.1–53</a>; <a href=\"https://ref.ly/John1:12-John1:14\">João 1.12–14</a>; <a href=\"https://ref.ly/John3:2-John3:8\">3.2–8</a>, <a href=\"https://ref.ly/John3:16\">16</a>; <a href=\"https://ref.ly/John20:1-John21:25\">20.1–21.25</a>; <a href=\"https://ref.ly/Acts4:29-Acts4:31\">Atos 4.29–31</a>; <a href=\"https://ref.ly/Acts5:12-Acts5:16\">5.12–16</a>; <a href=\"https://ref.ly/Acts6:8\">6.8</a>; <a href=\"https://ref.ly/Acts8:4-Acts8:23\">8.4–23</a>; <a href=\"https://ref.ly/Acts9:32-Acts9:42\">9.32–42</a>; <a href=\"https://ref.ly/Acts14:3-Acts14:4\">14.3–4</a>; <a href=\"https://ref.ly/Acts26:8\">26.8</a>; <a href=\"https://ref.ly/Rom5:1\">Romanos 5.1</a>, <a href=\"https://ref.ly/Rom5:8\">8</a>; <a href=\"https://ref.ly/Rom8:32\">8.32</a>; <a href=\"https://ref.ly/Eph2:4-Eph2:5\">Efésios 2.4–5</a>, <a href=\"https://ref.ly/Eph2:8-Eph2:10\">8–10</a>; <a href=\"https://ref.ly/Heb2:4\">Hebreus 2.4</a>; <a href=\"https://ref.ly/1Pet1:3-1Pet1:5\">1 Pedro 1.3–5</a>; <a href=\"https://ref.ly/1John5:12-1John5:13\">1 João 5.12–13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40019026",
+          "start_ref_usfm": "MAT 19:26",
+          "end_ref": "40019026",
+          "end_ref_usfm": "MAT 19:26"
+        },
+        {
+          "start_ref": "41010027",
+          "start_ref_usfm": "MRK 10:27",
+          "end_ref": "41010027",
+          "end_ref_usfm": "MRK 10:27"
+        },
+        {
+          "start_ref": "42001037",
+          "start_ref_usfm": "LUK 1:37",
+          "end_ref": "42001037",
+          "end_ref_usfm": "LUK 1:37"
+        },
+        {
+          "start_ref": "42018027",
+          "start_ref_usfm": "LUK 18:27",
+          "end_ref": "42018027",
+          "end_ref_usfm": "LUK 18:27"
+        },
+        {
+          "start_ref": "43001012",
+          "start_ref_usfm": "JHN 1:12",
+          "end_ref": "43001012",
+          "end_ref_usfm": "JHN 1:12"
+        },
+        {
+          "start_ref": "43001014",
+          "start_ref_usfm": "JHN 1:14",
+          "end_ref": "43001014",
+          "end_ref_usfm": "JHN 1:14"
+        },
+        {
+          "start_ref": "43002023",
+          "start_ref_usfm": "JHN 2:23",
+          "end_ref": "43002023",
+          "end_ref_usfm": "JHN 2:23"
+        },
+        {
+          "start_ref": "43003002",
+          "start_ref_usfm": "JHN 3:2",
+          "end_ref": "43003002",
+          "end_ref_usfm": "JHN 3:2"
+        },
+        {
+          "start_ref": "43003016",
+          "start_ref_usfm": "JHN 3:16",
+          "end_ref": "43003016",
+          "end_ref_usfm": "JHN 3:16"
+        },
+        {
+          "start_ref": "43003036",
+          "start_ref_usfm": "JHN 3:36",
+          "end_ref": "43003036",
+          "end_ref_usfm": "JHN 3:36"
+        },
+        {
+          "start_ref": "43006002",
+          "start_ref_usfm": "JHN 6:2",
+          "end_ref": "43006002",
+          "end_ref_usfm": "JHN 6:2"
+        },
+        {
+          "start_ref": "43006026",
+          "start_ref_usfm": "JHN 6:26",
+          "end_ref": "43006026",
+          "end_ref_usfm": "JHN 6:26"
+        },
+        {
+          "start_ref": "43012037",
+          "start_ref_usfm": "JHN 12:37",
+          "end_ref": "43012037",
+          "end_ref_usfm": "JHN 12:37"
+        },
+        {
+          "start_ref": "44001003",
+          "start_ref_usfm": "ACT 1:3",
+          "end_ref": "44001003",
+          "end_ref_usfm": "ACT 1:3"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44014003",
+          "start_ref_usfm": "ACT 14:3",
+          "end_ref": "44014003",
+          "end_ref_usfm": "ACT 14:3"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023006",
+          "end_ref_usfm": "ACT 23:6"
+        },
+        {
+          "start_ref": "44026008",
+          "start_ref_usfm": "ACT 26:8",
+          "end_ref": "44026008",
+          "end_ref_usfm": "ACT 26:8"
+        },
+        {
+          "start_ref": "45005001",
+          "start_ref_usfm": "ROM 5:1",
+          "end_ref": "45005001",
+          "end_ref_usfm": "ROM 5:1"
+        },
+        {
+          "start_ref": "45005008",
+          "start_ref_usfm": "ROM 5:8",
+          "end_ref": "45005008",
+          "end_ref_usfm": "ROM 5:8"
+        },
+        {
+          "start_ref": "45008032",
+          "start_ref_usfm": "ROM 8:32",
+          "end_ref": "45008032",
+          "end_ref_usfm": "ROM 8:32"
+        },
+        {
+          "start_ref": "48002020",
+          "start_ref_usfm": "GAL 2:20",
+          "end_ref": "48002020",
+          "end_ref_usfm": "GAL 2:20"
+        },
+        {
+          "start_ref": "58002004",
+          "start_ref_usfm": "HEB 2:4",
+          "end_ref": "58002004",
+          "end_ref_usfm": "HEB 2:4"
+        },
+        {
+          "start_ref": "41016001",
+          "start_ref_usfm": "MRK 16:1",
+          "end_ref": "41016008",
+          "end_ref_usfm": "MRK 16:8"
+        },
+        {
+          "start_ref": "40028001",
+          "start_ref_usfm": "MAT 28:1",
+          "end_ref": "40028020",
+          "end_ref_usfm": "MAT 28:20"
+        },
+        {
+          "start_ref": "42024001",
+          "start_ref_usfm": "LUK 24:1",
+          "end_ref": "42024053",
+          "end_ref_usfm": "LUK 24:53"
+        },
+        {
+          "start_ref": "43020001",
+          "start_ref_usfm": "JHN 20:1",
+          "end_ref": "43021025",
+          "end_ref_usfm": "JHN 21:25"
+        },
+        {
+          "start_ref": "46015003",
+          "start_ref_usfm": "1CO 15:3",
+          "end_ref": "46015008",
+          "end_ref_usfm": "1CO 15:8"
+        },
+        {
+          "start_ref": "44003001",
+          "start_ref_usfm": "ACT 3:1",
+          "end_ref": "44003011",
+          "end_ref_usfm": "ACT 3:11"
+        },
+        {
+          "start_ref": "49002008",
+          "start_ref_usfm": "EPH 2:8",
+          "end_ref": "49002010",
+          "end_ref_usfm": "EPH 2:10"
+        },
+        {
+          "start_ref": "43003003",
+          "start_ref_usfm": "JHN 3:3",
+          "end_ref": "43003008",
+          "end_ref_usfm": "JHN 3:8"
+        },
+        {
+          "start_ref": "43020001",
+          "start_ref_usfm": "JHN 20:1",
+          "end_ref": "43020031",
+          "end_ref_usfm": "JHN 20:31"
+        },
+        {
+          "start_ref": "44009032",
+          "start_ref_usfm": "ACT 9:32",
+          "end_ref": "44009042",
+          "end_ref_usfm": "ACT 9:42"
+        },
+        {
+          "start_ref": "44005012",
+          "start_ref_usfm": "ACT 5:12",
+          "end_ref": "44005016",
+          "end_ref_usfm": "ACT 5:16"
+        },
+        {
+          "start_ref": "60001003",
+          "start_ref_usfm": "1PE 1:3",
+          "end_ref": "60001009",
+          "end_ref_usfm": "1PE 1:9"
+        },
+        {
+          "start_ref": "41010023",
+          "start_ref_usfm": "MRK 10:23",
+          "end_ref": "41010027",
+          "end_ref_usfm": "MRK 10:27"
+        },
+        {
+          "start_ref": "45005001",
+          "start_ref_usfm": "ROM 5:1",
+          "end_ref": "45005002",
+          "end_ref_usfm": "ROM 5:2"
+        },
+        {
+          "start_ref": "60001003",
+          "start_ref_usfm": "1PE 1:3",
+          "end_ref": "60001005",
+          "end_ref_usfm": "1PE 1:5"
+        },
+        {
+          "start_ref": "49002004",
+          "start_ref_usfm": "EPH 2:4",
+          "end_ref": "49002005",
+          "end_ref_usfm": "EPH 2:5"
+        },
+        {
+          "start_ref": "41009021",
+          "start_ref_usfm": "MRK 9:21",
+          "end_ref": "41009023",
+          "end_ref_usfm": "MRK 9:23"
+        },
+        {
+          "start_ref": "62003001",
+          "start_ref_usfm": "1JN 3:1",
+          "end_ref": "62003002",
+          "end_ref_usfm": "1JN 3:2"
+        },
+        {
+          "start_ref": "62005011",
+          "start_ref_usfm": "1JN 5:11",
+          "end_ref": "62005013",
+          "end_ref_usfm": "1JN 5:13"
+        },
+        {
+          "start_ref": "44005012",
+          "start_ref_usfm": "ACT 5:12",
+          "end_ref": "44005015",
+          "end_ref_usfm": "ACT 5:15"
+        },
+        {
+          "start_ref": "44008006",
+          "start_ref_usfm": "ACT 8:6",
+          "end_ref": "44008007",
+          "end_ref_usfm": "ACT 8:7"
+        },
+        {
+          "start_ref": "40019023",
+          "start_ref_usfm": "MAT 19:23",
+          "end_ref": "40019026",
+          "end_ref_usfm": "MAT 19:26"
+        },
+        {
+          "start_ref": "42001030",
+          "start_ref_usfm": "LUK 1:30",
+          "end_ref": "42001038",
+          "end_ref_usfm": "LUK 1:38"
+        },
+        {
+          "start_ref": "42018024",
+          "start_ref_usfm": "LUK 18:24",
+          "end_ref": "42018027",
+          "end_ref_usfm": "LUK 18:27"
+        },
+        {
+          "start_ref": "43001012",
+          "start_ref_usfm": "JHN 1:12",
+          "end_ref": "43001014",
+          "end_ref_usfm": "JHN 1:14"
+        },
+        {
+          "start_ref": "43003002",
+          "start_ref_usfm": "JHN 3:2",
+          "end_ref": "43003008",
+          "end_ref_usfm": "JHN 3:8"
+        },
+        {
+          "start_ref": "44004029",
+          "start_ref_usfm": "ACT 4:29",
+          "end_ref": "44004031",
+          "end_ref_usfm": "ACT 4:31"
+        },
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008023",
+          "end_ref_usfm": "ACT 8:23"
+        },
+        {
+          "start_ref": "44014003",
+          "start_ref_usfm": "ACT 14:3",
+          "end_ref": "44014004",
+          "end_ref_usfm": "ACT 14:4"
+        },
+        {
+          "start_ref": "62005012",
+          "start_ref_usfm": "1JN 5:12",
+          "end_ref": "62005013",
+          "end_ref_usfm": "1JN 5:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 800276,
+    "reference_id": 203107,
+    "version": "1.0.1",
+    "title": "Morte",
+    "media_type": "Text",
+    "index_reference": "morte",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>Os seres humanos são mortais, e a morte é o fim natural da vida na terra (<a href=\"https://ref.ly/Ps90:1-Ps90:6\">Salmo 90.1–6</a>). A identidade humana começou quando Deus soprou vida no pó da terra e fez um homem (<a href=\"https://ref.ly/Gen2:7\">Gênesis 2.7</a>). Este estado se reverte na morte quando Deus retira seu sopro. Então, o corpo humano retorna ao pó (<a href=\"https://ref.ly/Gen3:19\">3.19</a>; <a href=\"https://ref.ly/Job4:19-Job4:21\">Jó 4.19–21</a>; <a href=\"https://ref.ly/Isa40:6-Isa40:8\">Isaías 40.6–8</a>). A vida humana depende totalmente do Criador. Seu sopro é um presente que nos sustenta enquanto ele permite (<a href=\"https://ref.ly/Ps104:29\">Salmo 104.29</a>).</p><p>O pecado trouxe a morte para a vida humana e causou muitos danos. A morte muitas vezes vem sem aviso, deixando as pessoas muito tristes. Quando alguém morre, pode parecer que suas esperanças e planos para o futuro terminaram. A pena de morte é a punição mais severa que os tribunais humanos podem aplicar. No Antigo Testamento, a pena de morte era aplicada para crimes como assassinato ou blasfêmia (<a href=\"https://ref.ly/Gen9:6\">Gênesis 9.6</a>; <a href=\"https://ref.ly/Exod21:12\">Êxodo 21.12</a>; <a href=\"https://ref.ly/Lev24:16\">Levítico 24.16</a>; <a href=\"https://ref.ly/John10:30-John10:33\">João 10.30–33</a>). Esses eram crimes que colocavam a comunidade em perigo.</p><p>No Antigo Testamento, <em>Sheol</em> é o oposto da &quot;terra dos vivos&quot; (<a href=\"https://ref.ly/Ps27:13\">Salmo 27.13</a>). Este é o lugar escuro e silencioso onde as pessoas mortas estão (<a href=\"https://ref.ly/Job10:21-Job10:22\">Jó 10.21–22</a>; <a href=\"https://ref.ly/Ps94:17\">Salmo 94.17</a>; <a href=\"https://ref.ly/Jonah2:6\">Jonas 2.6</a>). Mesmo na morte, o povo de Deus tem esperança (veja <a href=\"https://ref.ly/Prov14:32\">Provérbios 14.32</a>). Deus é soberano (tem controle completo) e governa sobre a morte (<a href=\"https://ref.ly/Deut32:39\">Deuteronômio 32.39</a>).</p><p>O Antigo Testamento frequentemente descreve a morte como juntar-se aos antepassados, sem mencionar a ressurreição (veja, por exemplo, <a href=\"https://ref.ly/Gen49:29-Gen49:33\">Gênesis 49.29–33</a>). No entanto, há algumas indicações de ressurreição (veja <a href=\"https://ref.ly/Job19:25-Job19:27\">Jó 19.25–27</a>; <a href=\"https://ref.ly/Isa25:6-Isa25:9\">Isaías 25.6–9</a>; <a href=\"https://ref.ly/Isa26:19\">26.19</a>; <a href=\"https://ref.ly/Dan12:2\">Daniel 12.2</a>). A crença judaica na ressurreição tornou-se mais comum durante o período entre o Antigo e o Novo Testamento.</p><p>Ressurreição é um tema importante no Novo Testamento. Através de Cristo, o povo redimido por Deus vencerá a morte. A morte é o último inimigo que Deus destrói (<a href=\"https://ref.ly/1Cor15:54-1Cor15:57\">1 Coríntios 15.54–57,26</a>). A morte vem do pecado (<a href=\"https://ref.ly/Rom5:12\">Romanos 5.12</a>). Aqueles que vivem em um estado pecaminoso e não se arrependem (afastam-se do pecado) experimentarão punição no lago de fogo, conhecido como &quot;a segunda morte&quot; (<a href=\"https://ref.ly/Rev21:8\">Apocalipse 21.8</a>).</p><p>Mas a morte de Jesus derrotou a morte. Quando Jesus morreu e ressuscitou, ele mostrou que a morte não é a autoridade final sobre a humanidade. Sua ressurreição é um modelo para todos os cristãos (<a href=\"https://ref.ly/Col1:18\">Colossenses 1.18</a>). Ele é &quot;o senhor tanto dos mortos como dos vivos&quot; (<a href=\"https://ref.ly/Rom14:9\">Romanos 14.9</a>). Quando alguém morre, é natural lamentar. Mas também deve ser um momento para mostrar grande confiança em Deus. Aqueles que recebem as promessas de Deus têm esperança de que viverão depois da morte.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen2:15-Gen2:17\">Gênesis 2.15–17</a>; <a href=\"https://ref.ly/Gen3:19\">3.19</a>; <a href=\"https://ref.ly/Gen6:17\">6.17</a>; <a href=\"https://ref.ly/Gen9:5-Gen9:6\">9.5–6</a>; <a href=\"https://ref.ly/Gen49:29-Gen49:33\">49.29–33</a>; <a href=\"https://ref.ly/Exod21:12-Exod21:17\">Êxodo 21.12–17</a>, <a href=\"https://ref.ly/Exod21:28-Exod21:29\">28–29</a>; <a href=\"https://ref.ly/Exod23:7\">23.7</a>; <a href=\"https://ref.ly/Exod31:14-Exod31:15\">31.14–15</a>; <a href=\"https://ref.ly/Lev24:16\">Levítico 24.16</a>; <a href=\"https://ref.ly/Deut32:39\">Deuteronômio 32.39</a>; <a href=\"https://ref.ly/Job10:18-Job10:22\">Jó 10.18–22</a>; <a href=\"https://ref.ly/Job19:25-Job19:27\">19.25–27</a>; <a href=\"https://ref.ly/Ps90:1-Ps90:12\">Salmos 90.1–12</a>; <a href=\"https://ref.ly/Ps94:17\">94.17</a>; <a href=\"https://ref.ly/Prov14:32\">Provérbios 14.32</a>; <a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">Eclesiastes 12.1–7</a>; <a href=\"https://ref.ly/Isa25:6-Isa25:9\">Isaías 25.6–9</a>; <a href=\"https://ref.ly/Isa26:19\">26.19</a>; <a href=\"https://ref.ly/Isa40:6-Isa40:8\">40.6–8</a>; <a href=\"https://ref.ly/Dan12:2-Dan12:3\">Daniel 12.2–3</a>; <a href=\"https://ref.ly/Mark12:26-Mark12:27\">Marcos 12.26–27</a>; <a href=\"https://ref.ly/Rom5:12-Rom5:17\">Romanos 5.12–17</a>; <a href=\"https://ref.ly/1Cor15:20-1Cor15:26\">1 Coríntios 15.20–26</a>,<a href=\"https://ref.ly/1Cor15:51-1Cor15:58\">51–58</a>; <a href=\"https://ref.ly/Rev20:4-Rev20:6\">Apocalipse 20.4–6</a>,<a href=\"https://ref.ly/Rev20:11-Rev20:15\">11–15</a>; <a href=\"https://ref.ly/Rev21:3-Rev21:8\">21.3–8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002007",
+          "start_ref_usfm": "GEN 2:7",
+          "end_ref": "01002007",
+          "end_ref_usfm": "GEN 2:7"
+        },
+        {
+          "start_ref": "01003019",
+          "start_ref_usfm": "GEN 3:19",
+          "end_ref": "01003019",
+          "end_ref_usfm": "GEN 3:19"
+        },
+        {
+          "start_ref": "01006017",
+          "start_ref_usfm": "GEN 6:17",
+          "end_ref": "01006017",
+          "end_ref_usfm": "GEN 6:17"
+        },
+        {
+          "start_ref": "01009006",
+          "start_ref_usfm": "GEN 9:6",
+          "end_ref": "01009006",
+          "end_ref_usfm": "GEN 9:6"
+        },
+        {
+          "start_ref": "02021012",
+          "start_ref_usfm": "EXO 21:12",
+          "end_ref": "02021012",
+          "end_ref_usfm": "EXO 21:12"
+        },
+        {
+          "start_ref": "02023007",
+          "start_ref_usfm": "EXO 23:7",
+          "end_ref": "02023007",
+          "end_ref_usfm": "EXO 23:7"
+        },
+        {
+          "start_ref": "03024016",
+          "start_ref_usfm": "LEV 24:16",
+          "end_ref": "03024016",
+          "end_ref_usfm": "LEV 24:16"
+        },
+        {
+          "start_ref": "05032039",
+          "start_ref_usfm": "DEU 32:39",
+          "end_ref": "05032039",
+          "end_ref_usfm": "DEU 32:39"
+        },
+        {
+          "start_ref": "19027013",
+          "start_ref_usfm": "PSA 27:13",
+          "end_ref": "19027013",
+          "end_ref_usfm": "PSA 27:13"
+        },
+        {
+          "start_ref": "19094017",
+          "start_ref_usfm": "PSA 94:17",
+          "end_ref": "19094017",
+          "end_ref_usfm": "PSA 94:17"
+        },
+        {
+          "start_ref": "19104029",
+          "start_ref_usfm": "PSA 104:29",
+          "end_ref": "19104029",
+          "end_ref_usfm": "PSA 104:29"
+        },
+        {
+          "start_ref": "20014032",
+          "start_ref_usfm": "PRO 14:32",
+          "end_ref": "20014032",
+          "end_ref_usfm": "PRO 14:32"
+        },
+        {
+          "start_ref": "23026019",
+          "start_ref_usfm": "ISA 26:19",
+          "end_ref": "23026019",
+          "end_ref_usfm": "ISA 26:19"
+        },
+        {
+          "start_ref": "27012002",
+          "start_ref_usfm": "DAN 12:2",
+          "end_ref": "27012002",
+          "end_ref_usfm": "DAN 12:2"
+        },
+        {
+          "start_ref": "32002006",
+          "start_ref_usfm": "JON 2:6",
+          "end_ref": "32002006",
+          "end_ref_usfm": "JON 2:6"
+        },
+        {
+          "start_ref": "45005012",
+          "start_ref_usfm": "ROM 5:12",
+          "end_ref": "45005012",
+          "end_ref_usfm": "ROM 5:12"
+        },
+        {
+          "start_ref": "45014009",
+          "start_ref_usfm": "ROM 14:9",
+          "end_ref": "45014009",
+          "end_ref_usfm": "ROM 14:9"
+        },
+        {
+          "start_ref": "46015026",
+          "start_ref_usfm": "1CO 15:26",
+          "end_ref": "46015026",
+          "end_ref_usfm": "1CO 15:26"
+        },
+        {
+          "start_ref": "51001018",
+          "start_ref_usfm": "COL 1:18",
+          "end_ref": "51001018",
+          "end_ref_usfm": "COL 1:18"
+        },
+        {
+          "start_ref": "66021008",
+          "start_ref_usfm": "REV 21:8",
+          "end_ref": "66021008",
+          "end_ref_usfm": "REV 21:8"
+        },
+        {
+          "start_ref": "02021028",
+          "start_ref_usfm": "EXO 21:28",
+          "end_ref": "02021029",
+          "end_ref_usfm": "EXO 21:29"
+        },
+        {
+          "start_ref": "46015051",
+          "start_ref_usfm": "1CO 15:51",
+          "end_ref": "46015058",
+          "end_ref_usfm": "1CO 15:58"
+        },
+        {
+          "start_ref": "46015054",
+          "start_ref_usfm": "1CO 15:54",
+          "end_ref": "46015057",
+          "end_ref_usfm": "1CO 15:57"
+        },
+        {
+          "start_ref": "18010021",
+          "start_ref_usfm": "JOB 10:21",
+          "end_ref": "18010022",
+          "end_ref_usfm": "JOB 10:22"
+        },
+        {
+          "start_ref": "18019025",
+          "start_ref_usfm": "JOB 19:25",
+          "end_ref": "18019027",
+          "end_ref_usfm": "JOB 19:27"
+        },
+        {
+          "start_ref": "02021012",
+          "start_ref_usfm": "EXO 21:12",
+          "end_ref": "02021017",
+          "end_ref_usfm": "EXO 21:17"
+        },
+        {
+          "start_ref": "66020011",
+          "start_ref_usfm": "REV 20:11",
+          "end_ref": "66020015",
+          "end_ref_usfm": "REV 20:15"
+        },
+        {
+          "start_ref": "18010018",
+          "start_ref_usfm": "JOB 10:18",
+          "end_ref": "18010022",
+          "end_ref_usfm": "JOB 10:22"
+        },
+        {
+          "start_ref": "01002015",
+          "start_ref_usfm": "GEN 2:15",
+          "end_ref": "01002017",
+          "end_ref_usfm": "GEN 2:17"
+        },
+        {
+          "start_ref": "23040006",
+          "start_ref_usfm": "ISA 40:6",
+          "end_ref": "23040008",
+          "end_ref_usfm": "ISA 40:8"
+        },
+        {
+          "start_ref": "01009005",
+          "start_ref_usfm": "GEN 9:5",
+          "end_ref": "01009006",
+          "end_ref_usfm": "GEN 9:6"
+        },
+        {
+          "start_ref": "66020004",
+          "start_ref_usfm": "REV 20:4",
+          "end_ref": "66020006",
+          "end_ref_usfm": "REV 20:6"
+        },
+        {
+          "start_ref": "21012001",
+          "start_ref_usfm": "ECC 12:1",
+          "end_ref": "21012007",
+          "end_ref_usfm": "ECC 12:7"
+        },
+        {
+          "start_ref": "02031014",
+          "start_ref_usfm": "EXO 31:14",
+          "end_ref": "02031015",
+          "end_ref_usfm": "EXO 31:15"
+        },
+        {
+          "start_ref": "01049029",
+          "start_ref_usfm": "GEN 49:29",
+          "end_ref": "01049033",
+          "end_ref_usfm": "GEN 49:33"
+        },
+        {
+          "start_ref": "41012026",
+          "start_ref_usfm": "MRK 12:26",
+          "end_ref": "41012027",
+          "end_ref_usfm": "MRK 12:27"
+        },
+        {
+          "start_ref": "19090001",
+          "start_ref_usfm": "PSA 90:1",
+          "end_ref": "19090006",
+          "end_ref_usfm": "PSA 90:6"
+        },
+        {
+          "start_ref": "18004019",
+          "start_ref_usfm": "JOB 4:19",
+          "end_ref": "18004021",
+          "end_ref_usfm": "JOB 4:21"
+        },
+        {
+          "start_ref": "43010030",
+          "start_ref_usfm": "JHN 10:30",
+          "end_ref": "43010033",
+          "end_ref_usfm": "JHN 10:33"
+        },
+        {
+          "start_ref": "23025006",
+          "start_ref_usfm": "ISA 25:6",
+          "end_ref": "23025009",
+          "end_ref_usfm": "ISA 25:9"
+        },
+        {
+          "start_ref": "19090001",
+          "start_ref_usfm": "PSA 90:1",
+          "end_ref": "19090012",
+          "end_ref_usfm": "PSA 90:12"
+        },
+        {
+          "start_ref": "27012002",
+          "start_ref_usfm": "DAN 12:2",
+          "end_ref": "27012003",
+          "end_ref_usfm": "DAN 12:3"
+        },
+        {
+          "start_ref": "45005012",
+          "start_ref_usfm": "ROM 5:12",
+          "end_ref": "45005017",
+          "end_ref_usfm": "ROM 5:17"
+        },
+        {
+          "start_ref": "46015020",
+          "start_ref_usfm": "1CO 15:20",
+          "end_ref": "46015026",
+          "end_ref_usfm": "1CO 15:26"
+        },
+        {
+          "start_ref": "66021003",
+          "start_ref_usfm": "REV 21:3",
+          "end_ref": "66021008",
+          "end_ref_usfm": "REV 21:8"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 800323,
+    "reference_id": 203154,
+    "version": "1.0.1",
+    "title": "Mudança de ideia de Deus",
+    "media_type": "Text",
+    "index_reference": "mudança de ideia de deus",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>O Antigo Testamento descreve Deus 34 vezes como &quot;mudando de ideia&quot; ou &quot;arrependendo-se&quot; (a palavra hebraica <em>nakham</em>). O que isso significa? Deus cede, sente pena, experimenta tristeza ou lamenta?</p><p>Uma coisa é clara: Deus nunca se arrepende de pecado ou falha moral porque Ele é perfeito (veja <a href=\"https://ref.ly/1Sam15:29\">1 Samuel 15.29</a>; <a href=\"https://ref.ly/Num23:19\">Números 23.19</a>). Deus pode &quot;mudar de ideia&quot; sobre desastre ou julgamento que ele iniciou. Isso significa que Deus pode decidir alterar seus planos em resposta a:</p><ul><li><p>quando as pessoas oram com arrependimento (<a href=\"https://ref.ly/Jer18:7-Jer18:10\">Jeremias 18.7–10</a>; <a href=\"https://ref.ly/Joel2:14\">Joel 2.14</a>; <a href=\"https://ref.ly/Jonah3:9-Jonah3:10\">Jonas 3.9–10</a>);</p></li><li><p>quando um humano fala com Deus em nome de outros (<a href=\"https://ref.ly/Exod32:11-Exod32:14\">Êxodo 32.11–14</a>; <a href=\"https://ref.ly/Amos7:2-Amos7:6\">Amós 7.2–6</a>); ou</p></li><li><p>sem qualquer envolvimento humano claro (<a href=\"https://ref.ly/Judg2:18\">Juízes 2.18</a>; <a href=\"https://ref.ly/2Sam24:16\">2 Samuel 24.16</a>).</p></li></ul><p>Algumas vezes, Deus se arrepende de algo que já fez. Por exemplo, Deus se arrependeu de ter escolhido Saul como rei (<a href=\"https://ref.ly/1Sam15:11\">1 Samuel 15.11</a>,<a href=\"https://ref.ly/1Sam15:35\">35</a>; compare <a href=\"https://ref.ly/Gen6:6\">Gênesis 6.6</a>). Mas Deus não está admitindo que cometeu erros no passado. Ele está mostrando tristeza por vidas que tomaram um rumo errado.</p><p>Teólogos debatem até que ponto Deus, que é todo-sábio e todo-poderoso, pode &quot;mudar de ideia&quot;. Na Bíblia, quando parece que Deus muda de ideia, isso reflete uma perspectiva humana das ações de Deus. Qualquer mudança que Deus aparenta demonstrar é como os humanos experimentam Deus. Deus é constante em seu amor, misericórdia, fidelidade e vontade santa. O poder de Deus, sua natureza onisciente, presciência, sabedoria e santidade não mudam.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen6:6-Gen6:7\">Gênesis 6.6–7</a>; <a href=\"https://ref.ly/Exod32:11-Exod32:14\">Êxodo 32.11–14</a>; <a href=\"https://ref.ly/Num23:19\">Números 23.19</a>; <a href=\"https://ref.ly/Deut32:36\">Deuteronômio 32.36</a>; <a href=\"https://ref.ly/1Sam15:10-1Sam15:11\">1 Samuel 15.10–11</a>,<a href=\"https://ref.ly/1Sam15:29\">29</a>,<a href=\"https://ref.ly/1Sam15:35\">35</a>; <a href=\"https://ref.ly/2Sam24:15-2Sam24:16\">2 Samuel 24.15–16</a>; <a href=\"https://ref.ly/Jer4:28\">Jeremias 4.28</a>; <a href=\"https://ref.ly/Jer18:7-Jer18:10\">18.7–10</a>; <a href=\"https://ref.ly/Jer26:2-Jer26:19\">26.2–19</a>; <a href=\"https://ref.ly/Ezek24:14\">Ezequiel 24.14</a>; <a href=\"https://ref.ly/Joel2:13-Joel2:14\">Joel 2.13–14</a>; <a href=\"https://ref.ly/Amos7:2-Amos7:6\">Amós 7.2–6</a>; <a href=\"https://ref.ly/Jonah3:9-Jonah4:11\">Jonas 3.9–4.11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006006",
+          "start_ref_usfm": "GEN 6:6",
+          "end_ref": "01006006",
+          "end_ref_usfm": "GEN 6:6"
+        },
+        {
+          "start_ref": "04023019",
+          "start_ref_usfm": "NUM 23:19",
+          "end_ref": "04023019",
+          "end_ref_usfm": "NUM 23:19"
+        },
+        {
+          "start_ref": "05032036",
+          "start_ref_usfm": "DEU 32:36",
+          "end_ref": "05032036",
+          "end_ref_usfm": "DEU 32:36"
+        },
+        {
+          "start_ref": "07002018",
+          "start_ref_usfm": "JDG 2:18",
+          "end_ref": "07002018",
+          "end_ref_usfm": "JDG 2:18"
+        },
+        {
+          "start_ref": "09015011",
+          "start_ref_usfm": "1SA 15:11",
+          "end_ref": "09015011",
+          "end_ref_usfm": "1SA 15:11"
+        },
+        {
+          "start_ref": "09015029",
+          "start_ref_usfm": "1SA 15:29",
+          "end_ref": "09015029",
+          "end_ref_usfm": "1SA 15:29"
+        },
+        {
+          "start_ref": "09015035",
+          "start_ref_usfm": "1SA 15:35",
+          "end_ref": "09015035",
+          "end_ref_usfm": "1SA 15:35"
+        },
+        {
+          "start_ref": "10024016",
+          "start_ref_usfm": "2SA 24:16",
+          "end_ref": "10024016",
+          "end_ref_usfm": "2SA 24:16"
+        },
+        {
+          "start_ref": "24004028",
+          "start_ref_usfm": "JER 4:28",
+          "end_ref": "24004028",
+          "end_ref_usfm": "JER 4:28"
+        },
+        {
+          "start_ref": "26024014",
+          "start_ref_usfm": "EZK 24:14",
+          "end_ref": "26024014",
+          "end_ref_usfm": "EZK 24:14"
+        },
+        {
+          "start_ref": "29002014",
+          "start_ref_usfm": "JOL 2:14",
+          "end_ref": "29002014",
+          "end_ref_usfm": "JOL 2:14"
+        },
+        {
+          "start_ref": "10024015",
+          "start_ref_usfm": "2SA 24:15",
+          "end_ref": "10024016",
+          "end_ref_usfm": "2SA 24:16"
+        },
+        {
+          "start_ref": "01006006",
+          "start_ref_usfm": "GEN 6:6",
+          "end_ref": "01006007",
+          "end_ref_usfm": "GEN 6:7"
+        },
+        {
+          "start_ref": "24018007",
+          "start_ref_usfm": "JER 18:7",
+          "end_ref": "24018010",
+          "end_ref_usfm": "JER 18:10"
+        },
+        {
+          "start_ref": "29002013",
+          "start_ref_usfm": "JOL 2:13",
+          "end_ref": "29002014",
+          "end_ref_usfm": "JOL 2:14"
+        },
+        {
+          "start_ref": "09015010",
+          "start_ref_usfm": "1SA 15:10",
+          "end_ref": "09015011",
+          "end_ref_usfm": "1SA 15:11"
+        },
+        {
+          "start_ref": "32003009",
+          "start_ref_usfm": "JON 3:9",
+          "end_ref": "32003010",
+          "end_ref_usfm": "JON 3:10"
+        },
+        {
+          "start_ref": "02032011",
+          "start_ref_usfm": "EXO 32:11",
+          "end_ref": "02032014",
+          "end_ref_usfm": "EXO 32:14"
+        },
+        {
+          "start_ref": "30007002",
+          "start_ref_usfm": "AMO 7:2",
+          "end_ref": "30007006",
+          "end_ref_usfm": "AMO 7:6"
+        },
+        {
+          "start_ref": "24026002",
+          "start_ref_usfm": "JER 26:2",
+          "end_ref": "24026019",
+          "end_ref_usfm": "JER 26:19"
+        },
+        {
+          "start_ref": "32003009",
+          "start_ref_usfm": "JON 3:9",
+          "end_ref": "32004011",
+          "end_ref_usfm": "JON 4:11"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 800380,
+    "reference_id": 203211,
+    "version": "1.0.1",
+    "title": "Música no antigo Israel",
+    "media_type": "Text",
+    "index_reference": "música no antigo israel",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>As primeiras pessoas que se deslocavam de um lugar para outro (chamadas nômades) faziam música. O primeiro músico mencionado na Bíblia é &quot;Jubal&quot;, que tocava harpa e flauta (<a href=\"https://ref.ly/Gen4:21\">Gênesis 4.21</a>).</p><p>A música foi importante desde o início da adoração de Israel no tabernáculo. Em <a href=\"https://ref.ly/Exod28:34-Exod28:35\">Êxodo 28.34–35</a>, a túnica de Arão tinha sinos na bainha inferior que soavam quando ele entrava no lugar sagrado. As escrituras registram várias canções criadas pelo povo de Deus (por exemplo <a href=\"https://ref.ly/Exod15:1-Exod15:21\">Êxodo 15.1–21</a>; <a href=\"https://ref.ly/Deut31:30-Deut32:44\">Deuteronômio 31.30–32.44</a>; <a href=\"https://ref.ly/Judg5:1-Judg5:31\">Juízes 5.1–31</a>).</p><p>A primeira música litúrgica no Antigo Testamento aparece durante a transferência da Arca da Aliança. O rei Davi e os israelitas cantavam, tocavam instrumentos e dançavam para honrar o Senhor (<a href=\"https://ref.ly/2Sam6:5\">2 Samuel 6.5</a>). Davi é famoso por criar os instrumentos musicais usados no templo (<a href=\"https://ref.ly/2Chr7:6\">2 Crônicas 7.6</a>). No período após o exílio (quando o povo de Israel retornou do aprisionamento na Babilônia), os cantores da tribo de Levi eram descendentes de Asafe. Asafe foi o músico principal nomeado por Davi (<a href=\"https://ref.ly/Ezra2:41\">Esdras 2.41</a>; <a href=\"https://ref.ly/Neh7:44\">Neemias 7.44</a>; <a href=\"https://ref.ly/Neh11:22-Neh11:23\">11.22–23</a>). Em termos simples, a música de adoração de Israel e como era organizada começou durante o tempo de Davi.</p><p>As cerimônias formais no templo de Salomão eram diferentes do culto entusiasmado e espontâneo do tempo de Davi (<a href=\"https://ref.ly/2Chr7:1-2Chr7:6\">2 Crônicas 7.1–6</a>). Cantores e músicos da tribo de Levi eram escolhidos para o culto no templo (<a href=\"https://ref.ly/1Chr25:1\">1 Crônicas 25.1</a>,<a href=\"https://ref.ly/1Chr25:7\">7</a>). Esses músicos se revezavam participando dos serviços realizados nos dias de semana, sábados e dias santos especiais.</p><p><u>Passagens para estudo adicional</u></p><p><a href=\"https://ref.ly/Gen4:21\">Gênesis 4.21</a>; <a href=\"https://ref.ly/Exod28:34-Exod28:35\">Êxodo 28.34–35</a>; <a href=\"https://ref.ly/2Sam6:5\">2 Samuel 6.5</a>; <a href=\"https://ref.ly/2Chr7:6\">2 Crônicas 7.6</a>; <a href=\"https://ref.ly/Ps71:22-Ps71:23\">Salmos 71.22–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004021",
+          "start_ref_usfm": "GEN 4:21",
+          "end_ref": "01004021",
+          "end_ref_usfm": "GEN 4:21"
+        },
+        {
+          "start_ref": "10006005",
+          "start_ref_usfm": "2SA 6:5",
+          "end_ref": "10006005",
+          "end_ref_usfm": "2SA 6:5"
+        },
+        {
+          "start_ref": "13025001",
+          "start_ref_usfm": "1CH 25:1",
+          "end_ref": "13025001",
+          "end_ref_usfm": "1CH 25:1"
+        },
+        {
+          "start_ref": "13025007",
+          "start_ref_usfm": "1CH 25:7",
+          "end_ref": "13025007",
+          "end_ref_usfm": "1CH 25:7"
+        },
+        {
+          "start_ref": "14007006",
+          "start_ref_usfm": "2CH 7:6",
+          "end_ref": "14007006",
+          "end_ref_usfm": "2CH 7:6"
+        },
+        {
+          "start_ref": "15002041",
+          "start_ref_usfm": "EZR 2:41",
+          "end_ref": "15002041",
+          "end_ref_usfm": "EZR 2:41"
+        },
+        {
+          "start_ref": "16007044",
+          "start_ref_usfm": "NEH 7:44",
+          "end_ref": "16007044",
+          "end_ref_usfm": "NEH 7:44"
+        },
+        {
+          "start_ref": "07005001",
+          "start_ref_usfm": "JDG 5:1",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        },
+        {
+          "start_ref": "02015001",
+          "start_ref_usfm": "EXO 15:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        },
+        {
+          "start_ref": "02028034",
+          "start_ref_usfm": "EXO 28:34",
+          "end_ref": "02028035",
+          "end_ref_usfm": "EXO 28:35"
+        },
+        {
+          "start_ref": "16011022",
+          "start_ref_usfm": "NEH 11:22",
+          "end_ref": "16011023",
+          "end_ref_usfm": "NEH 11:23"
+        },
+        {
+          "start_ref": "05031030",
+          "start_ref_usfm": "DEU 31:30",
+          "end_ref": "05032044",
+          "end_ref_usfm": "DEU 32:44"
+        },
+        {
+          "start_ref": "14007001",
+          "start_ref_usfm": "2CH 7:1",
+          "end_ref": "14007006",
+          "end_ref_usfm": "2CH 7:6"
+        },
+        {
+          "start_ref": "19071022",
+          "start_ref_usfm": "PSA 71:22",
+          "end_ref": "19071023",
+          "end_ref_usfm": "PSA 71:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,1068 @@
+[
+  {
+    "content_id": 702202,
+    "reference_id": 203138,
+    "version": "1.0.1",
+    "title": "اللعنات والبركات",
+    "media_type": "Text",
+    "index_reference": "اللعنات والبركات",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>معظم نصوص المعاهدات أو العهود من الشرق الأدنى القديم تضمنت لعنات وبركات. كانت اللعنات تركز على أولئك الذين انتهكوا شروط العهد، بينما كانت البركات موجهة لأولئك الذين ظلوا أوفياء. يصح قول هذا بشكل خاص عن العهود المقطوعة بين الملك السيد والتابع (الملك العظيم - والملك الأصغر أو الشعب) مثل سفر التثنية (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"Deut_BookIntro_Filament\" data-resourceType=\"UNKNOWN\">مقدمة سفر التثنية</span>، &quot;الشكل الأدبي&quot;).</p><p>شرح سفر التثنية لشعب إسرائيل ما توقعه الله منهم. إذ تطلب العهد من إسرائيل أن يطيعوا الله. وقد وعد الإسرائيليون بالقيام بذلك (<a href=\"https://ref.ly/Exod19:8\">خروج 19:8</a>). يوضح القسم الخاص باللعنات والبركات كيف سيكافئ الله الطاعة ويعاقب على العصيان (<a href=\"https://ref.ly/Deut27:1-Deut29:1\">تثنية 27:1–29:1</a>).</p><p>يركز النص على اللعنات أكثر من البركات. قد يرجع السبب في ذلك إلى أن الناس يميلون إلى التركيز على الوعود أكثر من التحذيرات. في الغالب، يسهل فهم البركات غالبًا أكثر؛ لأنها تعد بالأمان في المستقبل، بينما تكون الدينونة أقل وضوحًا وتحتاج إلى وصف مفصل.</p><p>يؤكد الله على اللعنات لتسليط الضوء على عواقب الأفعال الخاطئة. والتحذيرات التي قدمها الرب يسوع بشأن الأحداث المستقبلية تتوافق مع هذه التحذيرات (<a href=\"https://ref.ly/Matt24:1-Matt25:46\">متى 24–25</a>).</p><p>يُظهر تاريخ إسرائيل كيف حقق الله وعوده بالبركات واللعنات. عندما التزم إسرائيل بعهدهم مع الله، باركهم. وعندما تمردوا، أدانهم. تم تلخيص تمرد إسرائيل في <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 ملوك 17:7–20</a>. عندما كسر الإسرائيليون الوصيتين الأولتين، انتهكوا العهد بأكمله (<a href=\"https://ref.ly/Deut5:7-Deut5:10\">تثنية 5:7–10</a>). فجلب تمردهم لعنات <a href=\"https://ref.ly/Deut28:1-Deut28:68\">تثنية 28</a> عليهم.</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Gen9:24-Gen9:27\">تكوين 9:24–27</a>; <a href=\"https://ref.ly/Lev26:3-Lev26:45\">لاويين 26:3–45</a>; <a href=\"https://ref.ly/Deut8:7-Deut8:20\">تثنية 8:7–20</a>; <a href=\"https://ref.ly/Deut11:29\">11:29</a>; <a href=\"https://ref.ly/Deut27:1-Deut29:1\">تثنية 27:1–29:1</a>; <a href=\"https://ref.ly/Josh8:33-Josh8:35\">يشوع 8:33–35</a>; <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2 ملوك 17:7–20</a>; <a href=\"https://ref.ly/2Chr36:17-2Chr36:21\">2 أخبار الأيام 36:17–21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019008",
+          "start_ref_usfm": "EXO 19:8",
+          "end_ref": "02019008",
+          "end_ref_usfm": "EXO 19:8"
+        },
+        {
+          "start_ref": "05011029",
+          "start_ref_usfm": "DEU 11:29",
+          "end_ref": "05011029",
+          "end_ref_usfm": "DEU 11:29"
+        },
+        {
+          "start_ref": "05028001",
+          "start_ref_usfm": "DEU 28:1",
+          "end_ref": "05028068",
+          "end_ref_usfm": "DEU 28:68"
+        },
+        {
+          "start_ref": "40024001",
+          "start_ref_usfm": "MAT 24:1",
+          "end_ref": "40025046",
+          "end_ref_usfm": "MAT 25:46"
+        },
+        {
+          "start_ref": "06008033",
+          "start_ref_usfm": "JOS 8:33",
+          "end_ref": "06008035",
+          "end_ref_usfm": "JOS 8:35"
+        },
+        {
+          "start_ref": "05027001",
+          "start_ref_usfm": "DEU 27:1",
+          "end_ref": "05029001",
+          "end_ref_usfm": "DEU 29:1"
+        },
+        {
+          "start_ref": "12017007",
+          "start_ref_usfm": "2KI 17:7",
+          "end_ref": "12017020",
+          "end_ref_usfm": "2KI 17:20"
+        },
+        {
+          "start_ref": "05005007",
+          "start_ref_usfm": "DEU 5:7",
+          "end_ref": "05005010",
+          "end_ref_usfm": "DEU 5:10"
+        },
+        {
+          "start_ref": "01009024",
+          "start_ref_usfm": "GEN 9:24",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "03026003",
+          "start_ref_usfm": "LEV 26:3",
+          "end_ref": "03026045",
+          "end_ref_usfm": "LEV 26:45"
+        },
+        {
+          "start_ref": "05008007",
+          "start_ref_usfm": "DEU 8:7",
+          "end_ref": "05008020",
+          "end_ref_usfm": "DEU 8:20"
+        },
+        {
+          "start_ref": "14036017",
+          "start_ref_usfm": "2CH 36:17",
+          "end_ref": "14036021",
+          "end_ref_usfm": "2CH 36:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702225,
+    "reference_id": 203161,
+    "version": "1.0.1",
+    "title": "الله أم الشيطان؟",
+    "media_type": "Text",
+    "index_reference": "الله أم الشيطان؟",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>مَن المسؤول عن التجارب والصعوبات؟ قد يبدو الأمر غريبًا، لكن الكتاب المقدس أحيانًا ينسبها إلى الله، وأحيانًا ينسبها إلى الشيطان، وأحيانًا إلى كليهما. كيف يمكن أن يكون هذا؟ لفهم ذلك، نحتاج أن ننظر إلى هذه المواقف من زوايا مختلفة.</p><p>يقدّم الكتاب المقدس قصة إحصاء الملك داود في سفرين مختلفين، ويصفان هذان السفران ما حدث بطرق مختلفة. في <a href=\"https://ref.ly/2Sam24:1\">صموئيل الثاني 24:1</a> نقرأ أن الله &quot;<span>أَهَاجَ عَلَيْهِمْ دَاوُدَ</span>&quot; ليُجري إحصاءً. أما في <a href=\"https://ref.ly/1Chr21:1\">1 أخبار الأيام 21:1</a>، فيقول إن &quot;وَقَفَ ٱلشَّيْطَانُ ضِدَّ إِسْرَائِيلَ، وَأَغْوَى دَاوُدَ لِيُحْصِيَ إِسْرَائِيلَ.&quot; يروي <a href=\"https://ref.ly/2Sam24:1-2Sam24:25\">2 صموئيل 24:1–25</a> القصة من منظور الله، حيث سمح الله بأفعال الشيطان ليُحقّق مقصده من خلالها.</p><p>هذا أمر شائع في الكتاب المقدس. نقرأ في <a href=\"https://ref.ly/Matt4:1\">متّى 4:1</a> أن الروح القدس اقتاد يسوع إلى البرية حيث سيجرّبه الشيطان. وهذا يُظهِر كيف يمكن أن يكون الله والشيطان مشاركَين في نفس الحدث، لكن لكلٍّ منهما قصد مختلف.</p><p>يُعد مثال أيوب من أبرز الأمثلة على المعاناة. كان الله قد أثنى على أيوب لكونه شخصًا أمينًا. ثم منح الشيطان الإذن لإلحاق معاناة كبيرة بأيوب (<a href=\"https://ref.ly/Job1:6-Job2:7\">أيوب 1:6–2:7</a>). وعلى الرغم من الصعوبات، ظل أيوب بارًا. قاوم محاولات الشيطان لجعله يلعن الله.</p><p>بالطريقة نفسها، تُعلِّمنا رسالة <a href=\"https://ref.ly/2Cor12:7\">كورنثوس الثانية 12:7</a> أن الله يمكن أن يرسل ضيقًا من خلال رسول من الشيطان. فعندما أشار بولس إلى &quot;الشوكة&quot;، استخدم فعلًا مبنيًّا للمجهول، ممّا يُظهِر أن الله هو الذي أعطاه هذه &quot;المعاناة&quot;. والطريقة التي وصف بها بولس هذه التجربة تُظهِر أن الله قد سمح بحدوث هذا الضيق، رغم أن هذه المعاناة أتت بواسطة رسول من الشيطان.</p><p>يحاول الشيطان بطرق مختلفة أن يؤذي ويُحبط الذين يتبعون الله. لكن الله هو المتحكِّم في كل شيء. والله لا يخلق الشر، لكنه أحيانًا يستخدم أفعال الآخرين الشريرة لتحقيق مقاصده الصالحة (<a href=\"https://ref.ly/Gen50:20\">تكوين 50:20</a>).</p><p><u>مقاطع إضافية للدراسة</u></p><p><a href=\"https://ref.ly/2Sam24:1-2Sam24:25\">2 صموئيل 24:1–25</a>; <a href=\"https://ref.ly/1Chr21:1-1Chr21:30\">1 أخبار الأيام 21:1–30</a>; <a href=\"https://ref.ly/Job1:8-Job2:10\">أيوب 1:8–2:10</a>; <a href=\"https://ref.ly/Matt4:1-Matt4:11\">متى 4:1–11</a>; <a href=\"https://ref.ly/Matt12:22-Matt12:37\">12:22–37</a>; <a href=\"https://ref.ly/Mark8:31-Mark8:33\">مرقس 8:31–33</a>; <a href=\"https://ref.ly/John13:21-John13:31\">يوحنا 13:21–31</a>; <a href=\"https://ref.ly/Rom8:28\">رومية 8:28</a>; <a href=\"https://ref.ly/1Cor5:1-1Cor5:5\">1 كورنثوس 5:1–5</a>; <a href=\"https://ref.ly/2Cor12:6-2Cor12:10\">2 كورنثوس 12:6–10</a>; <a href=\"https://ref.ly/Eph2:1-Eph2:7\">أفسس 2:1–7</a>; <a href=\"https://ref.ly/Rev20:1-Rev20:3\">رؤيا 20:1–3</a>, <a href=\"https://ref.ly/Rev20:7-Rev20:10\">7–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01050020",
+          "start_ref_usfm": "GEN 50:20",
+          "end_ref": "01050020",
+          "end_ref_usfm": "GEN 50:20"
+        },
+        {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024001",
+          "end_ref_usfm": "2SA 24:1"
+        },
+        {
+          "start_ref": "13021001",
+          "start_ref_usfm": "1CH 21:1",
+          "end_ref": "13021001",
+          "end_ref_usfm": "1CH 21:1"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004001",
+          "end_ref_usfm": "MAT 4:1"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "47012007",
+          "start_ref_usfm": "2CO 12:7",
+          "end_ref": "47012007",
+          "end_ref_usfm": "2CO 12:7"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024025",
+          "end_ref_usfm": "2SA 24:25"
+        },
+        {
+          "start_ref": "13021001",
+          "start_ref_usfm": "1CH 21:1",
+          "end_ref": "13021030",
+          "end_ref_usfm": "1CH 21:30"
+        },
+        {
+          "start_ref": "46005001",
+          "start_ref_usfm": "1CO 5:1",
+          "end_ref": "46005005",
+          "end_ref_usfm": "1CO 5:5"
+        },
+        {
+          "start_ref": "66020007",
+          "start_ref_usfm": "REV 20:7",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020003",
+          "end_ref_usfm": "REV 20:3"
+        },
+        {
+          "start_ref": "18001006",
+          "start_ref_usfm": "JOB 1:6",
+          "end_ref": "18002007",
+          "end_ref_usfm": "JOB 2:7"
+        },
+        {
+          "start_ref": "40012022",
+          "start_ref_usfm": "MAT 12:22",
+          "end_ref": "40012037",
+          "end_ref_usfm": "MAT 12:37"
+        },
+        {
+          "start_ref": "18001008",
+          "start_ref_usfm": "JOB 1:8",
+          "end_ref": "18002010",
+          "end_ref_usfm": "JOB 2:10"
+        },
+        {
+          "start_ref": "41008031",
+          "start_ref_usfm": "MRK 8:31",
+          "end_ref": "41008033",
+          "end_ref_usfm": "MRK 8:33"
+        },
+        {
+          "start_ref": "43013021",
+          "start_ref_usfm": "JHN 13:21",
+          "end_ref": "43013031",
+          "end_ref_usfm": "JHN 13:31"
+        },
+        {
+          "start_ref": "47012006",
+          "start_ref_usfm": "2CO 12:6",
+          "end_ref": "47012010",
+          "end_ref_usfm": "2CO 12:10"
+        },
+        {
+          "start_ref": "49002001",
+          "start_ref_usfm": "EPH 2:1",
+          "end_ref": "49002007",
+          "end_ref_usfm": "EPH 2:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702312,
+    "reference_id": 203248,
+    "version": "1.0.1",
+    "title": "الله يحمي خادمه",
+    "media_type": "Text",
+    "index_reference": "الله يحمي خادمه",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>عندما دعا الله النبي إرميا ليكون رسولًا له، وعد بحمايته. كانت هذه الحماية روحية، حيث منح الرب إرميا قوة داخلية &quot;مثل <span>مَدِينَة حَصِينَة</span>&quot; (<a href=\"https://ref.ly/Jer1:18\">إرميا 1:18</a>). كما كانت حماية الله له جسدية أيضًا : &quot;<span>فَيُحَارِبُونَكَ وَلَا يَقْدِرُونَ عَلَيْكَ</span>&quot; (<a href=\"https://ref.ly/Jer1:19\">1:19</a>).</p><p>في أثناء حكم الملك يوشيّا (من 640 إلى 609 قبل الميلاد)، كان إرميا يسكن آمنًا ولم يتعرض لأية تهديدات تُنذِرُ بالخطر على حياته. ولكن الأمور تغيرت عندما تولى يهوياقيم المُلك (من 609 إلى 598 قبل الميلاد). وسرعان ما أصبح الملك ومسؤولوه عدائيين، مما عرض حياة إرميا للخطر. ومع ذلك، وعد الرب بحمايته (انظر <a href=\"https://ref.ly/Jer11:18-Jer11:23\">إرميا 11:18–23</a>).</p><p>بدا أن هذا الوعد قد انكسر عندما اعتُقل <span>فَشْحُور </span>إرميا، وجلده، ووُضعه في المقطرة (<a href=\"https://ref.ly/Jer20:1-Jer20:2\">إرميا 20:1–2</a>). تشكك إرميا في الرب وكان سبب حيرته لأنه (حسب ظنّه) اعتقد أن الرب قد أضلّه أو خدعه. لكن سرعان ما استعاد إرميا ثقته بالرب (<a href=\"https://ref.ly/Jer20:7-Jer20:13\">20:7–13</a>). في بداية حكم يهوياقيم، اعتُقل إرميا، وقُدّم للمحاكمة (أصحاح <a href=\"https://ref.ly/Jer26:1-Jer26:24\">26</a>). قوّى الرب إرميا داخليًا، معطيًا إياه معونة ليبقى هادئًا.</p><p>إن بعض الشيوخ الذين خدموا تحت حكم الملك يوشيّا حموا إرميا. هؤلاء ذكّروا يوشيّا برد فعل الملك حزقيّا على الخطر القادم قبل قرن من الزمان. أنقذ <span>أَخِيقَامَ بْنِ شَافَان </span>حياة إرميا (<a href=\"https://ref.ly/Jer26:24\">إرميا 26:24</a>). واختبأ إرميا عندما حاول جنود يهوياقيم قتله. أبقاه الرب مختبئًا حتى بعد وفاة يهوياقيم (<a href=\"https://ref.ly/Jer36:19-Jer36:20\">36:19–20،</a> <a href=\"https://ref.ly/Jer36:26\">26</a>).</p><p>أما الملك الجديد، صدقيا فقد عامل إرميا بلطف كبير. ومع ذلك، تعرّض إرميا للخطر عدة مرات في أثناء الهجوم على أورشليم وحصارها. في إحدى المرات، ألقاه مسؤولو الملك في بئر موحل (صهريج). حمى الله إرميا إذ حثّ غريب يدعى <span>عَبْدَ مَلِكُ ٱلْكُوشِيُّ على </span>إنقاذه. ثم وضع صدقيا إرميا في (فِي دَارِ ٱلسِّجْن) الحجز التحفظي بغرض الحماية (<a href=\"https://ref.ly/Jer38:1-Jer38:28\">إرميا 38</a>).</p><p>نجا إرميا عندما استولى البابليون على أورشليم، مع أنّه كان على وشك أن يُؤخذ أسيرًا إلى بابل. لقد حثّ الله الجنرال البابلي على تحرير إرميا، وعرض عليه خيارًا: يمكنه الذَّهاب إلى بابل كإنسان حر أو البقاء مع <span>جَدَلْيَا بْنِ أَخِيقَامَ بْنِ شَافَان</span>، حاكم يهوذا الجديد (<a href=\"https://ref.ly/Jer39:11-Jer39:14\">إرميا 39:11–14؛</a> <a href=\"https://ref.ly/Jer40:1-Jer40:6\">40:1–6</a>). كما حمى الله إرميا من <span>يُوحَانَانَ بْنَ قَارِيح ورجاله</span>، الذين أجبروا إرميا و<span>بَارُوخُ بْنُ نِيرِيَّا </span>على الذَّهاب إلى مصر (<a href=\"https://ref.ly/Jer43:1-Jer43:7\">43:1–7</a>).</p><p>حفظ الله وعوده لإرميا، ويستمر في حفظ وعوده لجميع شعبه. ومع هذا فهو لا يعد دائمًا بحماية الجسد لمن يخدمونه (انظر <a href=\"https://ref.ly/2Cor6:4-2Cor6:5\">2 كورنثوس 6:4–5؛</a> <a href=\"https://ref.ly/2Tim2:10-2Tim2:13\">2 تيموثاوس 2:10–13؛</a> <a href=\"https://ref.ly/2Tim3:11-2Tim3:13\">3:11–13؛</a> <a href=\"https://ref.ly/1Pet2:21-1Pet2:23\">1 بطرس 2:21–23؛</a> <a href=\"https://ref.ly/1Pet3:14-1Pet3:17\">3:14–17؛</a> <a href=\"https://ref.ly/Rev14:12\">رؤيا 14:12</a>)، لكنه يعد بالخلاص الأبدي لأولئك الذين يؤمنون به (<a href=\"https://ref.ly/Jas1:12\">يعقوب 1:12؛</a> <a href=\"https://ref.ly/1Pet1:6-1Pet1:9\">1 بطرس 1:6–9؛</a> <a href=\"https://ref.ly/1Pet4:12-1Pet4:19\">4:12–19</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Gen20:3-Gen20:7\">تكوين 20:3–7؛</a> <a href=\"https://ref.ly/Gen31:24\">31:24؛</a> <a href=\"https://ref.ly/Num14:10-Num14:35\">العدد 14:10–35؛</a> <a href=\"https://ref.ly/2Kgs6:14-2Kgs6:20\">2 ملوك 6:14–20؛</a> <a href=\"https://ref.ly/Job1:9-Job1:11\">أيوب 1:9–11؛</a> <a href=\"https://ref.ly/Ps91:1-Ps91:16\">مزمور 91:1–16؛</a> <a href=\"https://ref.ly/Jer1:18-Jer1:19\">إرميا 1:18–19؛</a> <a href=\"https://ref.ly/Jer11:18-Jer11:23\">11:18–23؛</a> <a href=\"https://ref.ly/Jer20:1-Jer20:2\">20:1–2،</a> <a href=\"https://ref.ly/Jer20:7-Jer20:13\">7–13؛</a> <a href=\"https://ref.ly/Jer26:24\">26:24؛</a> <a href=\"https://ref.ly/Jer36:19-Jer36:20\">36:19–20،</a> <a href=\"https://ref.ly/Jer36:26\">26؛</a> <a href=\"https://ref.ly/Jer39:11-Jer39:14\">39:11–14؛</a> <a href=\"https://ref.ly/Matt2:13-Matt2:22\">متى 2:13–22؛</a> <a href=\"https://ref.ly/Matt10:28-Matt10:31\">10:28–31؛</a> <a href=\"https://ref.ly/John15:20\">يوحنا 15:20؛</a> <a href=\"https://ref.ly/Acts12:1-Acts12:11\">أعمال 12:1–11؛</a> <a href=\"https://ref.ly/2Cor6:4-2Cor6:5\">2كورنثوس 6:4–5؛</a> <a href=\"https://ref.ly/2Tim2:10-2Tim2:13\">2تيموثاوس 2:10–13؛</a> <a href=\"https://ref.ly/2Tim3:11-2Tim3:13\">3:11–13؛</a> <a href=\"https://ref.ly/Heb11:4-Heb11:37\">عبرانيين 11:4–37؛</a> <a href=\"https://ref.ly/Jas1:12\">يعقوب 1:12؛</a> <a href=\"https://ref.ly/1Pet1:6\">1بطرس 1:6؛</a> <a href=\"https://ref.ly/1Pet3:14-1Pet3:17\">3:14–17؛</a> <a href=\"https://ref.ly/1Pet4:12-1Pet4:19\">4:12–19؛</a> <a href=\"https://ref.ly/Rev14:12\">رؤيا 14:12.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031024",
+          "start_ref_usfm": "GEN 31:24",
+          "end_ref": "01031024",
+          "end_ref_usfm": "GEN 31:24"
+        },
+        {
+          "start_ref": "24001018",
+          "start_ref_usfm": "JER 1:18",
+          "end_ref": "24001018",
+          "end_ref_usfm": "JER 1:18"
+        },
+        {
+          "start_ref": "24001019",
+          "start_ref_usfm": "JER 1:19",
+          "end_ref": "24001019",
+          "end_ref_usfm": "JER 1:19"
+        },
+        {
+          "start_ref": "24026024",
+          "start_ref_usfm": "JER 26:24",
+          "end_ref": "24026024",
+          "end_ref_usfm": "JER 26:24"
+        },
+        {
+          "start_ref": "24036026",
+          "start_ref_usfm": "JER 36:26",
+          "end_ref": "24036026",
+          "end_ref_usfm": "JER 36:26"
+        },
+        {
+          "start_ref": "43015020",
+          "start_ref_usfm": "JHN 15:20",
+          "end_ref": "43015020",
+          "end_ref_usfm": "JHN 15:20"
+        },
+        {
+          "start_ref": "59001012",
+          "start_ref_usfm": "JAS 1:12",
+          "end_ref": "59001012",
+          "end_ref_usfm": "JAS 1:12"
+        },
+        {
+          "start_ref": "60001006",
+          "start_ref_usfm": "1PE 1:6",
+          "end_ref": "60001006",
+          "end_ref_usfm": "1PE 1:6"
+        },
+        {
+          "start_ref": "66014012",
+          "start_ref_usfm": "REV 14:12",
+          "end_ref": "66014012",
+          "end_ref_usfm": "REV 14:12"
+        },
+        {
+          "start_ref": "47006004",
+          "start_ref_usfm": "2CO 6:4",
+          "end_ref": "47006005",
+          "end_ref_usfm": "2CO 6:5"
+        },
+        {
+          "start_ref": "24043001",
+          "start_ref_usfm": "JER 43:1",
+          "end_ref": "24043007",
+          "end_ref_usfm": "JER 43:7"
+        },
+        {
+          "start_ref": "24026001",
+          "start_ref_usfm": "JER 26:1",
+          "end_ref": "24026024",
+          "end_ref_usfm": "JER 26:24"
+        },
+        {
+          "start_ref": "19091001",
+          "start_ref_usfm": "PSA 91:1",
+          "end_ref": "19091016",
+          "end_ref_usfm": "PSA 91:16"
+        },
+        {
+          "start_ref": "60004012",
+          "start_ref_usfm": "1PE 4:12",
+          "end_ref": "60004019",
+          "end_ref_usfm": "1PE 4:19"
+        },
+        {
+          "start_ref": "60003014",
+          "start_ref_usfm": "1PE 3:14",
+          "end_ref": "60003017",
+          "end_ref_usfm": "1PE 3:17"
+        },
+        {
+          "start_ref": "60002021",
+          "start_ref_usfm": "1PE 2:21",
+          "end_ref": "60002023",
+          "end_ref_usfm": "1PE 2:23"
+        },
+        {
+          "start_ref": "01020003",
+          "start_ref_usfm": "GEN 20:3",
+          "end_ref": "01020007",
+          "end_ref_usfm": "GEN 20:7"
+        },
+        {
+          "start_ref": "24011018",
+          "start_ref_usfm": "JER 11:18",
+          "end_ref": "24011023",
+          "end_ref_usfm": "JER 11:23"
+        },
+        {
+          "start_ref": "24020001",
+          "start_ref_usfm": "JER 20:1",
+          "end_ref": "24020002",
+          "end_ref_usfm": "JER 20:2"
+        },
+        {
+          "start_ref": "24036019",
+          "start_ref_usfm": "JER 36:19",
+          "end_ref": "24036020",
+          "end_ref_usfm": "JER 36:20"
+        },
+        {
+          "start_ref": "24039011",
+          "start_ref_usfm": "JER 39:11",
+          "end_ref": "24039014",
+          "end_ref_usfm": "JER 39:14"
+        },
+        {
+          "start_ref": "24040001",
+          "start_ref_usfm": "JER 40:1",
+          "end_ref": "24040006",
+          "end_ref_usfm": "JER 40:6"
+        },
+        {
+          "start_ref": "18001009",
+          "start_ref_usfm": "JOB 1:9",
+          "end_ref": "18001011",
+          "end_ref_usfm": "JOB 1:11"
+        },
+        {
+          "start_ref": "40010028",
+          "start_ref_usfm": "MAT 10:28",
+          "end_ref": "40010031",
+          "end_ref_usfm": "MAT 10:31"
+        },
+        {
+          "start_ref": "24038001",
+          "start_ref_usfm": "JER 38:1",
+          "end_ref": "24038028",
+          "end_ref_usfm": "JER 38:28"
+        },
+        {
+          "start_ref": "24020007",
+          "start_ref_usfm": "JER 20:7",
+          "end_ref": "24020013",
+          "end_ref_usfm": "JER 20:13"
+        },
+        {
+          "start_ref": "55002010",
+          "start_ref_usfm": "2TI 2:10",
+          "end_ref": "55002013",
+          "end_ref_usfm": "2TI 2:13"
+        },
+        {
+          "start_ref": "55003011",
+          "start_ref_usfm": "2TI 3:11",
+          "end_ref": "55003013",
+          "end_ref_usfm": "2TI 3:13"
+        },
+        {
+          "start_ref": "60001006",
+          "start_ref_usfm": "1PE 1:6",
+          "end_ref": "60001009",
+          "end_ref_usfm": "1PE 1:9"
+        },
+        {
+          "start_ref": "04014010",
+          "start_ref_usfm": "NUM 14:10",
+          "end_ref": "04014035",
+          "end_ref_usfm": "NUM 14:35"
+        },
+        {
+          "start_ref": "12006014",
+          "start_ref_usfm": "2KI 6:14",
+          "end_ref": "12006020",
+          "end_ref_usfm": "2KI 6:20"
+        },
+        {
+          "start_ref": "24001018",
+          "start_ref_usfm": "JER 1:18",
+          "end_ref": "24001019",
+          "end_ref_usfm": "JER 1:19"
+        },
+        {
+          "start_ref": "40002013",
+          "start_ref_usfm": "MAT 2:13",
+          "end_ref": "40002022",
+          "end_ref_usfm": "MAT 2:22"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012011",
+          "end_ref_usfm": "ACT 12:11"
+        },
+        {
+          "start_ref": "58011004",
+          "start_ref_usfm": "HEB 11:4",
+          "end_ref": "58011037",
+          "end_ref_usfm": "HEB 11:37"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702251,
+    "reference_id": 203187,
+    "version": "1.0.1",
+    "title": "الله يعمل من خلال الصلاة",
+    "media_type": "Text",
+    "index_reference": "الله يعمل من خلال الصلاة",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>الله لديه كل السلطان على جميع الخليقة، لكن رغبه قلبه في أن يشاركه الناس مخاوفهم بالصلاة. يقدم الكتاب المقدس أمثلة على استجابة الله لصلوات شعبه. إن الصلاة ضرورية لعيش حياة تقية وتقديم خدمة مسيحية فعّالة، فالصلاة تساعد الناس على إخضاع إرادتهم لله.</p><p>يروي سفر نحميا -هذا السفر القصير- قصة إنسان مكرس للصلاة. عندما رأى حالة أورشليم المتدهورة، صلى نحميا بقوة طيلة أربعة أشهر (انظر <a href=\"https://ref.ly/Neh1:1\">نحميا 1:1</a>; <a href=\"https://ref.ly/Neh2:1\">2:1</a>). تضمنت صلواته تمجيدًا لله على قوته ومحبته. واعترف نحميا بخطايا شعبه وطلب معونة من الله (<a href=\"https://ref.ly/Neh1:4-Neh1:11\">1:4–11؛</a> انظر أيضًا <a href=\"https://ref.ly/Ezra9:6-Ezra9:15\">عزرا 9:6–15؛</a> <a href=\"https://ref.ly/Dan9:4-Dan9:19\">دانيآل 9:4–19</a>). استندت صلاة نحميا لأورشليم إلى &quot;ٱلْحَافِظُ ٱلْعَهْد وَٱلرَّحْمَة لِمُحِبِّيه وَحَافِظِي وَصَايَاه&quot; (<a href=\"https://ref.ly/Neh1:5\">1:5</a>).</p><p>لم يلتزم بنو إسرائيل بوصايا الله وأوامره التي منحها لموسى (<a href=\"https://ref.ly/Neh1:7\">1:7</a>). وأسفر هذا العِصْيَان عن سبيهم مثلما سبق فحذّر الله من هذا. ومع ذلك، كان نحميا يؤمن إيمانًا راسخًا أن الله سيرّد الأمة إذا تاب الشعب (<a href=\"https://ref.ly/Neh1:8-Neh1:9\">1:8–9؛</a> انظر <a href=\"https://ref.ly/Deut4:25-Deut4:31\">تثنية 4:25–31؛</a> <a href=\"https://ref.ly/Deut30:1-Deut30:5\">30:1–5</a>).</p><p>منح الله نحميا فرصة للتحدث إلى الملك الفارسي بشأن العودة إلى أورشليم. صلّى نحميا لطلب الإرشاد (<a href=\"https://ref.ly/Neh2:4\">نحميا 2:4</a>)، حيث أدرك أن الله وحده قادر على تغيير إرادة الملك. تعامل نحميا فيمَا بعد مع التهديدات ضد بُناة سور أورشليم، فوضع حراس حول السور وشجّع الشعب على إكمال العمل. ومع ذلك، صلى أيضًا لطلب الحماية والقوة (<a href=\"https://ref.ly/Neh4:4-Neh4:5\">نحميا 4:4–5،</a> <a href=\"https://ref.ly/Neh4:9\">9؛</a> <a href=\"https://ref.ly/Neh6:9\">6:9،</a> <a href=\"https://ref.ly/Neh6:14\">14</a>). كان نحميا بحاجة إلى معونة  الله وبركته في ذلك الوقت، ولاحقًا أيضًا في أثناء تعامله مع أولئك الذين كانوا يسيئون التصرف. </p><p>عاد نحميا إلى أورشليم بعد زيارة قصيرة إلى فارس. علم أن بعض اليهود لم يقدموا عشورهم (<a href=\"https://ref.ly/Neh13:10-Neh13:12\">نحميا 13:10–12</a>). وبعضهم لم يلتزم بالسبت (<a href=\"https://ref.ly/Neh13:15-Neh13:16\">13:15–16</a>). وبعضهم تزوجوا من أجنبيات- أي غير يهوديات (<a href=\"https://ref.ly/Neh13:23-Neh13:24\">13:23–24</a>). وعندما واجههم بشأن أفعالهم، صلّى نحميا إلى الله ليظهر له الرحمة ويذكر له مساعيه (<a href=\"https://ref.ly/Neh13:14\">13:14،</a> <a href=\"https://ref.ly/Neh13:22\">22،</a> <a href=\"https://ref.ly/Neh13:31\">31</a>). وأدرك نحميا أنه ليس سوى قوة الله وحدها يمكنها أن تغيّر الشعب.</p><p>كان يسوع يعرف إرادة الآب تمام المعرفة، ومع ذلك كانت الصلاة في حياته هي أساس خدمته (انظر، على سبيل المثال، <a href=\"https://ref.ly/Luke5:16\">لوقا 5:16</a>؛ <a href=\"https://ref.ly/Luke6:12-Luke6:16\">6:12–16</a>؛ <a href=\"https://ref.ly/Luke9:18\">9:18</a>). وباتباع مثاله، هكذا أكثر المسيحيون الأولون من الصلاة، مؤمنين بقوتها (انظر، على سبيل المثال، <a href=\"https://ref.ly/Acts9:36-Acts9:41\">9:36–41</a>؛ <a href=\"https://ref.ly/Acts12:3-Acts12:11\">12:3–11</a>). كثيرًا ما يستجيب الله بقوة للصلوات. إن الله يرغب في أن يصلّي المؤمنون بيقين الإيمان والثقة متوقعين نيل استجابته (انظر <a href=\"https://ref.ly/Jas5:16-Jas5:18\">يعقوب 5:16–18</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Gen24:10-Gen24:20\">تكوين 24:10–20؛</a> <a href=\"https://ref.ly/Judg15:18-Judg15:20\">قضاة 15:18–20؛</a> <a href=\"https://ref.ly/Ezra9:6-Ezra9:15\">عزرا 9:6–15؛</a> <a href=\"https://ref.ly/Neh1:4-Neh1:11\">نحميا 1:4–11؛</a> <a href=\"https://ref.ly/Neh2:4-Neh2:5\">2:4–5؛</a> <a href=\"https://ref.ly/Neh4:4-Neh4:5\">4:4–5،</a> <a href=\"https://ref.ly/Neh4:9\">9؛</a> <a href=\"https://ref.ly/Ps18:1-Ps18:30\">مزامير 18:1–30؛</a> <a href=\"https://ref.ly/Ps22:4-Ps22:5\">22:4–5،</a> <a href=\"https://ref.ly/Ps22:24\">24؛</a> <a href=\"https://ref.ly/Ps30:2-Ps30:3\">30:2–3؛</a> <a href=\"https://ref.ly/Ps31:22\">31:22؛</a> <a href=\"https://ref.ly/Ps34:4\">34:4؛</a> <a href=\"https://ref.ly/Ps40:1-Ps40:2\">40:1–2؛</a> <a href=\"https://ref.ly/Ps81:7\">81:7؛</a> <a href=\"https://ref.ly/Ps106:1-Ps106:48\">106:1–48؛</a> <a href=\"https://ref.ly/Ps107:6-Ps107:7\">107:6–7،</a> <a href=\"https://ref.ly/Ps107:13-Ps107:14\">13–14؛</a> <a href=\"https://ref.ly/Ps116:1\">116:1؛</a> <a href=\"https://ref.ly/Ps118:5\">118:5؛</a> <a href=\"https://ref.ly/Dan9:4-Dan9:19\">دانيال 9:4–19؛</a> <a href=\"https://ref.ly/Jonah2:1-Jonah2:10\">يونان 2:1–10؛</a> <a href=\"https://ref.ly/Acts4:24-Acts4:31\">أعمال الرسل 4:24–31؛</a> <a href=\"https://ref.ly/Jas5:16-Jas5:18\">يعقوب 5:16–18.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        },
+        {
+          "start_ref": "16001005",
+          "start_ref_usfm": "NEH 1:5",
+          "end_ref": "16001005",
+          "end_ref_usfm": "NEH 1:5"
+        },
+        {
+          "start_ref": "16001007",
+          "start_ref_usfm": "NEH 1:7",
+          "end_ref": "16001007",
+          "end_ref_usfm": "NEH 1:7"
+        },
+        {
+          "start_ref": "16002001",
+          "start_ref_usfm": "NEH 2:1",
+          "end_ref": "16002001",
+          "end_ref_usfm": "NEH 2:1"
+        },
+        {
+          "start_ref": "16002004",
+          "start_ref_usfm": "NEH 2:4",
+          "end_ref": "16002004",
+          "end_ref_usfm": "NEH 2:4"
+        },
+        {
+          "start_ref": "16004009",
+          "start_ref_usfm": "NEH 4:9",
+          "end_ref": "16004009",
+          "end_ref_usfm": "NEH 4:9"
+        },
+        {
+          "start_ref": "16006009",
+          "start_ref_usfm": "NEH 6:9",
+          "end_ref": "16006009",
+          "end_ref_usfm": "NEH 6:9"
+        },
+        {
+          "start_ref": "16006014",
+          "start_ref_usfm": "NEH 6:14",
+          "end_ref": "16006014",
+          "end_ref_usfm": "NEH 6:14"
+        },
+        {
+          "start_ref": "16013014",
+          "start_ref_usfm": "NEH 13:14",
+          "end_ref": "16013014",
+          "end_ref_usfm": "NEH 13:14"
+        },
+        {
+          "start_ref": "16013022",
+          "start_ref_usfm": "NEH 13:22",
+          "end_ref": "16013022",
+          "end_ref_usfm": "NEH 13:22"
+        },
+        {
+          "start_ref": "16013031",
+          "start_ref_usfm": "NEH 13:31",
+          "end_ref": "16013031",
+          "end_ref_usfm": "NEH 13:31"
+        },
+        {
+          "start_ref": "19022024",
+          "start_ref_usfm": "PSA 22:24",
+          "end_ref": "19022024",
+          "end_ref_usfm": "PSA 22:24"
+        },
+        {
+          "start_ref": "19031022",
+          "start_ref_usfm": "PSA 31:22",
+          "end_ref": "19031022",
+          "end_ref_usfm": "PSA 31:22"
+        },
+        {
+          "start_ref": "19034004",
+          "start_ref_usfm": "PSA 34:4",
+          "end_ref": "19034004",
+          "end_ref_usfm": "PSA 34:4"
+        },
+        {
+          "start_ref": "19081007",
+          "start_ref_usfm": "PSA 81:7",
+          "end_ref": "19081007",
+          "end_ref_usfm": "PSA 81:7"
+        },
+        {
+          "start_ref": "19116001",
+          "start_ref_usfm": "PSA 116:1",
+          "end_ref": "19116001",
+          "end_ref_usfm": "PSA 116:1"
+        },
+        {
+          "start_ref": "19118005",
+          "start_ref_usfm": "PSA 118:5",
+          "end_ref": "19118005",
+          "end_ref_usfm": "PSA 118:5"
+        },
+        {
+          "start_ref": "42005016",
+          "start_ref_usfm": "LUK 5:16",
+          "end_ref": "42005016",
+          "end_ref_usfm": "LUK 5:16"
+        },
+        {
+          "start_ref": "42009018",
+          "start_ref_usfm": "LUK 9:18",
+          "end_ref": "42009018",
+          "end_ref_usfm": "LUK 9:18"
+        },
+        {
+          "start_ref": "42006012",
+          "start_ref_usfm": "LUK 6:12",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "27009004",
+          "start_ref_usfm": "DAN 9:4",
+          "end_ref": "27009019",
+          "end_ref_usfm": "DAN 9:19"
+        },
+        {
+          "start_ref": "16013023",
+          "start_ref_usfm": "NEH 13:23",
+          "end_ref": "16013024",
+          "end_ref_usfm": "NEH 13:24"
+        },
+        {
+          "start_ref": "44009036",
+          "start_ref_usfm": "ACT 9:36",
+          "end_ref": "44009041",
+          "end_ref_usfm": "ACT 9:41"
+        },
+        {
+          "start_ref": "19106001",
+          "start_ref_usfm": "PSA 106:1",
+          "end_ref": "19106048",
+          "end_ref_usfm": "PSA 106:48"
+        },
+        {
+          "start_ref": "19030002",
+          "start_ref_usfm": "PSA 30:2",
+          "end_ref": "19030003",
+          "end_ref_usfm": "PSA 30:3"
+        },
+        {
+          "start_ref": "16001004",
+          "start_ref_usfm": "NEH 1:4",
+          "end_ref": "16001011",
+          "end_ref_usfm": "NEH 1:11"
+        },
+        {
+          "start_ref": "16004004",
+          "start_ref_usfm": "NEH 4:4",
+          "end_ref": "16004005",
+          "end_ref_usfm": "NEH 4:5"
+        },
+        {
+          "start_ref": "15009006",
+          "start_ref_usfm": "EZR 9:6",
+          "end_ref": "15009015",
+          "end_ref_usfm": "EZR 9:15"
+        },
+        {
+          "start_ref": "16001008",
+          "start_ref_usfm": "NEH 1:8",
+          "end_ref": "16001009",
+          "end_ref_usfm": "NEH 1:9"
+        },
+        {
+          "start_ref": "16013010",
+          "start_ref_usfm": "NEH 13:10",
+          "end_ref": "16013012",
+          "end_ref_usfm": "NEH 13:12"
+        },
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013016",
+          "end_ref_usfm": "NEH 13:16"
+        },
+        {
+          "start_ref": "59005016",
+          "start_ref_usfm": "JAS 5:16",
+          "end_ref": "59005018",
+          "end_ref_usfm": "JAS 5:18"
+        },
+        {
+          "start_ref": "16002004",
+          "start_ref_usfm": "NEH 2:4",
+          "end_ref": "16002005",
+          "end_ref_usfm": "NEH 2:5"
+        },
+        {
+          "start_ref": "19022004",
+          "start_ref_usfm": "PSA 22:4",
+          "end_ref": "19022005",
+          "end_ref_usfm": "PSA 22:5"
+        },
+        {
+          "start_ref": "05004025",
+          "start_ref_usfm": "DEU 4:25",
+          "end_ref": "05004031",
+          "end_ref_usfm": "DEU 4:31"
+        },
+        {
+          "start_ref": "05030001",
+          "start_ref_usfm": "DEU 30:1",
+          "end_ref": "05030005",
+          "end_ref_usfm": "DEU 30:5"
+        },
+        {
+          "start_ref": "44012003",
+          "start_ref_usfm": "ACT 12:3",
+          "end_ref": "44012011",
+          "end_ref_usfm": "ACT 12:11"
+        },
+        {
+          "start_ref": "01024010",
+          "start_ref_usfm": "GEN 24:10",
+          "end_ref": "01024020",
+          "end_ref_usfm": "GEN 24:20"
+        },
+        {
+          "start_ref": "07015018",
+          "start_ref_usfm": "JDG 15:18",
+          "end_ref": "07015020",
+          "end_ref_usfm": "JDG 15:20"
+        },
+        {
+          "start_ref": "19018001",
+          "start_ref_usfm": "PSA 18:1",
+          "end_ref": "19018030",
+          "end_ref_usfm": "PSA 18:30"
+        },
+        {
+          "start_ref": "19040001",
+          "start_ref_usfm": "PSA 40:1",
+          "end_ref": "19040002",
+          "end_ref_usfm": "PSA 40:2"
+        },
+        {
+          "start_ref": "19107006",
+          "start_ref_usfm": "PSA 107:6",
+          "end_ref": "19107007",
+          "end_ref_usfm": "PSA 107:7"
+        },
+        {
+          "start_ref": "19107013",
+          "start_ref_usfm": "PSA 107:13",
+          "end_ref": "19107014",
+          "end_ref_usfm": "PSA 107:14"
+        },
+        {
+          "start_ref": "32002001",
+          "start_ref_usfm": "JON 2:1",
+          "end_ref": "32002010",
+          "end_ref_usfm": "JON 2:10"
+        },
+        {
+          "start_ref": "44004024",
+          "start_ref_usfm": "ACT 4:24",
+          "end_ref": "44004031",
+          "end_ref_usfm": "ACT 4:31"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702363,
+    "reference_id": 203299,
+    "version": "1.0.1",
+    "title": "الليلة الأخيرة ليسوع",
+    "media_type": "Text",
+    "index_reference": "الليلة الأخيرة ليسوع",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>عندما ذهب يسوع إلى أورشليم للاحتفال بعيد الفصح، كان يعلم أنها ليلته الأخيرة قبل موته. جاء إلى أورشليم لكي &quot;<span>يَتَأَلَّمَ كَثِيرًا، ...و</span>يُقتَل&quot; (<a href=\"https://ref.ly/Mark8:31\">مرقس 8:31</a>). أعد تلاميذه العشاء، لكنه كان بحاجة إلى إعدادهم لما هو قادم.</p><p>احتفل يسوع بعيد الفصح مع تلاميذه. وخلال هذا العشاء، أظهر لهم معنى الخدمة الحقيقية بغسله لأرجلهم (<a href=\"https://ref.ly/John13:1-John13:20\">يوحنّا 13:1–20</a>). قدم لهم تعاليمه الأخيرة، وأخبرهم عن مجيء الروح القدس، وصلّى من أجل أتباعه (<a href=\"https://ref.ly/John14:1-John17:26\">يوحنّا 14:1–17:26</a>). كما أسس يسوع العهد الجديد (<a href=\"https://ref.ly/Mark14:22-Mark14:24\">مرقس 14:22–24</a>). حيث حلّ هو نفسه محلّ حمل الفصح الأول، فصار يسوع فصحًا جديدًا، إذ أصبح جسده ودمه هو الذبيحة التي تُخلّص شعب الله من الدينونة، تمامًا كما فعل الحمل في الفصح الأول.</p><p>خلال عيد الفصح، ضرب الله جميع الأبكار من الذكور في مصر، ولكنه نجّى الأبكار في إسرائيل. والآن، كان يسوع سيصبح الذبيحة التي تُخلّص شعبه. وقد تنبأ الأنبياء بذلك ((على سبيل المثال، <a href=\"https://ref.ly/Zech12:10\">زكريّا 12:10</a>; <a href=\"https://ref.ly/Zech13:7\">13:7</a>). حذّر يسوع تلاميذه من أن هذا هو ما سيحدث قريبًا وأنهم سيتركونه (<a href=\"https://ref.ly/Mark14:27\">مرقس 14:27</a>). كما حذّرهم أن أحدهم سيخونه (<a href=\"https://ref.ly/Mark14:18\">مرقس 14:18</a>).</p><p>بعد العشاء، سار يسوع مع تلاميذه إلى بستان جثسيماني في جبل الزيتون. هناك، كان يسوع في حالة اضطراب شديد أثناء صلاته، وهو يَقبَل مشيئة الله (<a href=\"https://ref.ly/Mark14:26-Mark14:42\">مرقس 14:26–42</a>).</p><p>كان يهوذا هو التلميذ الذي خان يسوع. ووصل مع الجنود الذين قبضوا على يسوع (<a href=\"https://ref.ly/Mark14:43-Mark14:49\">مرقس 14:43–49</a>). فرّ تلاميذ يسوع (<a href=\"https://ref.ly/Mark14:50-Mark14:52\">مرقس 14:50–52</a>). ثم اقتادوا يسوع إلى بيت رئيس الكهنة لمحاكمته في الليل. خلال هذا الوقت، أنكر بطرس معرفته بيسوع ثلاث مرات (<a href=\"https://ref.ly/Mark14:53-Mark14:72\">مرقس 14:53–72</a>).</p><p>كان يسوع يعلم بالفعل ما سيحدث في ليلته الأخيرة، سواء الجيد أو السيئ. كل هذا حدث وفقًا لخطة الله. وكانت هذه الأحداث ضرورية لتحقيق ما تنبأت به الكتب المقدسة ولما سيحدث بعدها. وكان هذا يشمل موته وقيامته.</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Matt26:17-Matt26:56\">متى 26:17–56</a>; <a href=\"https://ref.ly/Mark14:12-Mark14:52\">مرقس 14:12–52</a>; <a href=\"https://ref.ly/Luke22:7-Luke22:46\">لوقا 22:7–46</a>; <a href=\"https://ref.ly/John13:1-John18:11\">يوحنا 13:1–18:11</a>; <a href=\"https://ref.ly/1Cor11:23-1Cor11:34\">1 كورنثوس 11:23–34</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "38012010",
+          "start_ref_usfm": "ZEC 12:10",
+          "end_ref": "38012010",
+          "end_ref_usfm": "ZEC 12:10"
+        },
+        {
+          "start_ref": "38013007",
+          "start_ref_usfm": "ZEC 13:7",
+          "end_ref": "38013007",
+          "end_ref_usfm": "ZEC 13:7"
+        },
+        {
+          "start_ref": "41008031",
+          "start_ref_usfm": "MRK 8:31",
+          "end_ref": "41008031",
+          "end_ref_usfm": "MRK 8:31"
+        },
+        {
+          "start_ref": "41014018",
+          "start_ref_usfm": "MRK 14:18",
+          "end_ref": "41014018",
+          "end_ref_usfm": "MRK 14:18"
+        },
+        {
+          "start_ref": "41014027",
+          "start_ref_usfm": "MRK 14:27",
+          "end_ref": "41014027",
+          "end_ref_usfm": "MRK 14:27"
+        },
+        {
+          "start_ref": "41014022",
+          "start_ref_usfm": "MRK 14:22",
+          "end_ref": "41014024",
+          "end_ref_usfm": "MRK 14:24"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43013020",
+          "end_ref_usfm": "JHN 13:20"
+        },
+        {
+          "start_ref": "42022007",
+          "start_ref_usfm": "LUK 22:7",
+          "end_ref": "42022046",
+          "end_ref_usfm": "LUK 22:46"
+        },
+        {
+          "start_ref": "43014001",
+          "start_ref_usfm": "JHN 14:1",
+          "end_ref": "43017026",
+          "end_ref_usfm": "JHN 17:26"
+        },
+        {
+          "start_ref": "41014026",
+          "start_ref_usfm": "MRK 14:26",
+          "end_ref": "41014042",
+          "end_ref_usfm": "MRK 14:42"
+        },
+        {
+          "start_ref": "41014043",
+          "start_ref_usfm": "MRK 14:43",
+          "end_ref": "41014049",
+          "end_ref_usfm": "MRK 14:49"
+        },
+        {
+          "start_ref": "41014050",
+          "start_ref_usfm": "MRK 14:50",
+          "end_ref": "41014052",
+          "end_ref_usfm": "MRK 14:52"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014072",
+          "end_ref_usfm": "MRK 14:72"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026056",
+          "end_ref_usfm": "MAT 26:56"
+        },
+        {
+          "start_ref": "41014012",
+          "start_ref_usfm": "MRK 14:12",
+          "end_ref": "41014052",
+          "end_ref_usfm": "MRK 14:52"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43018011",
+          "end_ref_usfm": "JHN 18:11"
+        },
+        {
+          "start_ref": "46011023",
+          "start_ref_usfm": "1CO 11:23",
+          "end_ref": "46011034",
+          "end_ref_usfm": "1CO 11:34"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702328,
+    "reference_id": 203264,
+    "version": "1.0.1",
+    "title": "لاهوت جغرافية إسرائيل",
+    "media_type": "Text",
+    "index_reference": "لاهوت جغرافية إسرائيل",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>يجمع تقسيم الأرض في <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">حزقيال 47:13–48:35</a> بين المُثل الروحية والرسالة العملية، ويعزز الموضوعات من الأجزاء السابقة من الرؤية (<a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">حزقيال 40–46</a>). تصور حزقيال النبي مستقبلًا مرتبطًا بالماضي بشكل وثيق، حيث ظلت أرض إسرائيل أرض الموعد الخاصة بآباء إسرائيل.</p><p>الخريطة في هذه الرؤية تختلف عن التقسيمات السابقة للأسباط في زمن يشوع. ففي رؤية حزقيال، يحصل كل سبط على جزء متساوٍ من الأرض. هذه الأجزاء تكون في شرائح تمتد من الشرق إلى الغرب، وتصطف إلى جانب بعضها البعض لتغطي الأرض بأكملها مع وجود الهيكل في مركزها. هذه الشرائح لا تتطابق مع الجغرافيا الفعلية للأرض، بل هي رمزية. الفكرة هي أن التنافسات والعداوات القديمة بين الأسباط ستختفي، حيث سيكون لكل سبط مكانة متساوية.</p><p>النظام الملكي (نظام الحكم بواسطة الملك المختار من الله) لا يُلغى في هذه الرؤية، بل يتحول. المدينة المدمرة المذكورة في الاصحاحات السابقة من سفر حزقيال تصبح مدينة مقدسة جديدة للوحدة والانسجام بين الأسباط. يجددها النهر المُعطي للحياة، جالبًا البركات من هيكل الله إلى كل جانب من جوانب حياة الناس.</p><p>تشجع الرؤية في <a href=\"https://ref.ly/Ezek40:1-Ezek48:35\">حزقيال 40–48</a> الناس على التوبة عن الخطايا الماضية، والالتزام بالأمانة في الأوقات الصعبة، والأمل في مستقبل أفضل من خلال قوة الله ونعمته. تُظهر الاصحاحات الأخيرة من سفر الرؤيا تحقيق هذه الرؤية في الرب يسوع (<a href=\"https://ref.ly/Rev21:1-Rev22:21\">الرؤيا 21–22</a>). لقد بدأ الرب يسوع بتحقيق الواقع الروحي الذي وصفه حزقيال النبي في سفره. إنها مدينة سماوية &quot;<span>ٱلَّتِي صَانِعُهَا وَبَارِئُهَا ٱللهُ</span>&quot; (<a href=\"https://ref.ly/Heb11:10\">العبرانيين 11:10</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Ezek40:1-Ezek46:24\">حزقيال ٤٠: ١–٤٦: ٢٤</a>; <a href=\"https://ref.ly/Ezek47:13-Ezek48:35\">٤٧: ١٣–٤٨: ٣٥</a>; <a href=\"https://ref.ly/Rev22:1-Rev22:2\">الرؤيا ٢٢: ١–٢</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "58011010",
+          "start_ref_usfm": "HEB 11:10",
+          "end_ref": "58011010",
+          "end_ref_usfm": "HEB 11:10"
+        },
+        {
+          "start_ref": "66021001",
+          "start_ref_usfm": "REV 21:1",
+          "end_ref": "66022021",
+          "end_ref_usfm": "REV 22:21"
+        },
+        {
+          "start_ref": "66022001",
+          "start_ref_usfm": "REV 22:1",
+          "end_ref": "66022002",
+          "end_ref_usfm": "REV 22:2"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26046024",
+          "end_ref_usfm": "EZK 46:24"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        },
+        {
+          "start_ref": "26047013",
+          "start_ref_usfm": "EZK 47:13",
+          "end_ref": "26048035",
+          "end_ref_usfm": "EZK 48:35"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 702361,
+    "reference_id": 203297,
+    "version": "1.0.1",
+    "title": "لقاءات مع يسوع",
+    "media_type": "Text",
+    "index_reference": "لقاءات مع يسوع",
+    "language": "arb",
+    "review_level": "None",
+    "content": "<p>إن معجزات يسوع وأمثاله (التي هي قصص رمزية ذات معانٍ خاصة) كثيرًا ما تبعد تركيزنا عن لقاءاته مع بعض الأشخاص، تلك اللقاءات التي غيَّرت حياتهم. وفي هذه اللقاءات، تعامل يسوع مع هؤلاء الأشخاص كما هم. فقد دعا الناس من كلِّ الخلفيات إلى قبوله قائدًا وصديقًا، وحثَّهم على أن يصيروا أتباعه ورسل ملكوته الأبدي.</p><p>لكن، يتطلب اتباع يسوع قرارًا. فإنه يمكن لتأثيرات العالم والغنى أن تلهينا عن خدمة الملكوت. واتباع يسوع معناه أن تترك شيئًا ما وراءك. والذين يتمسكون بالأمور الدنيوية عادةً ما ينتهي بهم الحال إلى رفض يسوع. وهذا القرار شكَّل تحديًا أمام كلِّ من التقى بيسوع في الأناجيل وسمع دعوته إلى اتباعه.</p><p>كان أندراوس صياد سمك في الجليل، وكان ينتظر مجيء المسيَّا (المختار من الله) ومجيء ملكوته. وقد اتبع يوحنا المعمدان أولًا، إلى أن وجَّهه يوحنا إلى يسوع. وبعد ذلك، اتبع أندراوس يسوع، ودعا آخرين أيضًا، ومنهم أخوه بطرس، إلى الانضمام إليه. انظر <a href=\"https://ref.ly/John1:29-John1:42\">يوحنا 1: 29–42</a>.</p><p>كذلك، انتظر سمعان وحنة زمانًا طويلاً ليريا المسيح الموعود به. وعندما رأيا الطفل يسوع، عرفا أنه المسيح، فباركا الله وقدَّما له الشكر على مجيئه وكذلك على الرجاء الذي أتى به. انظر <a href=\"https://ref.ly/Luke2:25-Luke2:38\">لوقا 2: 25–38</a>.</p><p>كان نثنائيل متشككًا عندما دُعي في البداية إلى الالتقاء بيسوع. لكن عندما أثبت له يسوع أنه يعرفه بالفعل، تغيَّر موقف نثنائيل، واتبع يسوع دون تردُّد. انظر <a href=\"https://ref.ly/John1:43-John1:51\">يوحنا 1: 43–51</a>.</p><p>اقترب رجل غني إلى يسوع وسأله كيف يمكن أن يرث الحياة الأبدية. أظهر هذا الرجل اتضاعًا، وكان قد أطاع بالفعل كل شرائع الله بتدقيق. وقد &quot;أحبَّه يسوع&quot;، لكنه أخبره بأنه يجب أن يبيع كلَّ ما له ويعطيه للفقراء، ثم يتبعه. لم يكن هذا الرجل مستعدًا للتخلِّي عن ثروته، فمضى حزينًا بعيدًا عن يسوع. انظر <a href=\"https://ref.ly/Mark10:17-Mark10:22\">مرقس 10: 17–22</a>.</p><p>كان متّى قد تخلَّى عن انتمائه اليهودي، وكان خائنًا لشعبه إذ كان يجمع الضرائب لصالح الرومان، مفضِّلًا حياة الثراء والترف. وعندما دعا يسوع متى إلى اتباعه، ترك متى حياته السابقة. وقبل أن يلازم يسوع، دعا أصدقاءه أيضًا إلى لقاء يسوع. انظر <a href=\"https://ref.ly/Matt9:9-Matt9:13\">متى 9:9–13</a>.</p><p>لم يصدق توما التلاميذ الآخرين عندما أخبروه بأن يسوع قد قام من الموت. وعندما ظهر يسوع لتوما، طلب منه أن يمس آثار جروحه. وعندئذ، خرَّ توما أمام يسوع وأعلن إيمانه به ربًّا وإلهًا. انظر <a href=\"https://ref.ly/John20:19-John20:29\">يوحنا 20:19–29</a>.</p><p>كانت مرثا منهمكة في إعداد الطعام ليسوع في بيتها، وانزعجت لأن أختها مريم كانت جالسةً تتعلَّم عند قدمي يسوع. فطلب يسوع من مرثا بلطف ألا تغضب، وأوضح لها أن مريم قد اختارت النصيب الأفضل باستماعها إلى تعليمه. ثم لاحقًا، تكلَّم يسوع مع مرثا ليصادق على إيمانها به للحياة الأبدية. انظر <a href=\"https://ref.ly/Luke10:38-Luke10:42\">لوقا 10: 38–42؛</a> <a href=\"https://ref.ly/John11:17-John11:27\">يوحنا 11: 17–27</a>.</p><p>طلب قائد مئة روماني من يسوع أن ينقذ غلامه الذي كان يحتضر. وأَعفَى هذا الرجل يسوع من دخول بيته الذي كان يُعتبر نجسًا من الناحية الطقسية، لأن هذا الرجل كان أمميًّا وليس يهوديًّا. آمن قائد المئة هذا بأن يسوع يستطيع أن يشفي فقط بكلمةٍ. أكرم يسوع إيمان هذا الرجل بأن شفى الغلام عن بُعد. كما أكَّد يسوع أن كثيرين من الأمم سيدخلون ملكوت السماوات بالإيمان به. انظر <a href=\"https://ref.ly/Matt8:5-Matt8:13\">متى 8: 5–13</a>.</p><p>أحضر رؤساء اليهود امرأة متهمة بالزنا إلى يسوع كي يحكم عليها. وكان الرجم هو العقوبة المتوقَّعة. لكن يسوع انحنى وظل يكتب بإصبعه على الأرض،  ثم قال إن من هو بلا خطية من المشتكين عليها فليرمها بأول حجر. وعندما غادروا جميعًا، قال يسوع للمرأة أن تذهب ولا تخطئ أيضًا. انظر <a href=\"https://ref.ly/John8:1-John8:11\">يوحنا 8: 1–11</a>.</p><p>كان نيقوديموس رئيسًا لليهود وفريسيًّا أيضًا، ولذلك، كان حريصًا على ألا يراه الناس مع يسوع، فزار يسوع ليلًا. تحدَّث يسوع مع نيقوديموس وتحدَّى معتقداته ومعرفته بالحقائق الروحية. ثم لاحقًا، دافع نيقوديموس عن يسوع في المجمع اليهودي (السنهدرين). وبعد صلب يسوع، ساعد نيقوديموس في دفن يسوع، الأمر الذي أظهر ولاءه. انظر <a href=\"https://ref.ly/John3:1-John3:21\">يوحنا 3: 1–21</a>؛ <a href=\"https://ref.ly/John7:50-John7:52\">7: 50–52</a>؛ <a href=\"https://ref.ly/John19:38-John19:42\">19: 38–42</a>.</p><p>ظن يعقوب ويوحنا أن ملكوت الله كان وشيكًا، ولذلك طلبا تولِّي مناصب بارزة في الملكوت. وهذا الطلب أثار استياء التلاميذ الآخرين. لكن يسوع أوضح بلطف أن القيادة الحقيقية تتعلق بالخدمة، وليس بالثروة أو النفوذ. وقد تعلَّم التلاميذ هذا الدرس لاحقًا من خلال اجتياز تجارب صعبة. انظر <a href=\"https://ref.ly/Mark10:35-Mark10:45\">مرقس 10: 35–45</a>؛ <a href=\"https://ref.ly/John13:1-John13:17\">يوحنا 13: 1–17</a>.</p><p>كان أهل الناصرة يعرفون يسوع فقط على أنه ابن يوسف، ولم يؤمنوا بأنه قد يكون هو المسيح. وشكُّهم هذا حدَّ بشكل كبير من معجزات يسوع بينهم، ودفعه غضبهم من ادعاءاته إلى المغادرة. انظر <a href=\"https://ref.ly/Luke4:14-Luke4:30\">لوقا 4: 14–30</a>.</p><p>كان رؤساء اليهود يتَّبعون شرائع تفصيلية تركِّز على السلوك الخارجي، لكنهم لم يُظهِروا المحبة بطرق أخرى أهم. وقد واجههم يسوع مرارًا بشأن هذا الأمر. لكن معظم هؤلاء الرؤساء رفضوا انتقاداته وسعوا إلى إيجاد طرق لإلحاق الأذى به. انظر <a href=\"https://ref.ly/Luke11:37-Luke11:54\">لوقا 11: 37–54؛</a> قارن <a href=\"https://ref.ly/Acts6:8-Acts8:1\">أعمال الرسل 6: 8–8:1؛</a> <a href=\"https://ref.ly/Acts9:1-Acts9:31\">9: 1–31</a>.</p><p>كان زكا يجمع الضرائب لصالح الرومان، وكان قد اغتنى عن طريق استغلال شعبه. وعندما أراد أن يرى يسوع، تسلق شجرة كي يراه من فوق رغم الزحام. لاحظ يسوع زكا، وزار بيته، ودعاه إلى تغيير حياته. وعندئذ، تاب زكا وردَّ الأموال لكلِّ الذين كان قد ظلمهم. انظر <a href=\"https://ref.ly/Luke19:1-Luke19:10\">لوقا 19: 1–10</a>.</p><p>كان اثنان من أتباع يسوع عائدَين إلى مسقط رأسهما في عمواس بعد موت يسوع. وفي الطريق، انضم إليهما يسوع القائم من بين الأموات، وأوضح لهما من الكتاب المقدس لماذا كان ينبغي أن يموت. لم يتعرَّف هذان التلميذان على يسوع إلى أن تناول الطعام معهما. وبعد ذلك، اختفى يسوع. فذهب التلميذان فرحَين ليخبرا التلاميذ بأن يسوع حيٌّ. انظر <a href=\"https://ref.ly/Luke24:13-Luke24:35\">لوقا 24:13–35</a>.</p><p>ذهبت امرأة سامرية سيئة السمعة إلى بئر يعقوب للحصول على الماء، ووجدت يسوع هناك، فعرض عليها يسوع &quot;ماء حيًّا&quot; وحياة جديدة. وقد أدهشها ذلك، لكنها آمنت به. ثم دعت آخرين إلى الالتقاء بالمسيح الذي كانوا ينتظرونه. انظر <a href=\"https://ref.ly/John4:1-John4:42\">يوحنا 4: 1–42</a>.</p><p>مارس رؤساء اليهود ضغطًا شديدًا على بيلاطس كي يأمر بقتل يسوع. كان بيلاطس يرى أن يسوع بريء، وحاول إطلاق سراحه. وسأل بيلاطس يسوع، &quot;ما هو الحق؟&quot; لكنه لم يدرك أن يسوع نفسه هو الحق. وفي النهاية، كي يحافظ بيلاطس على السلام مع رؤساء اليهود، أصدر أمرًا بصلب يسوع. انظر <a href=\"https://ref.ly/John18:28-John19:16\">يوحنا 18: 28–19:16</a>.</p><p>أنكر سمعان بطرس ثلاث مرات أنه كان يعرف يسوع. وبعدما قام يسوع من بين الأموات، سأل بطرس ثلاث مرات إن كان يحبه. وفي كلِّ مرة، كان بطرس يجيب يسوع بأنه يحبه. فأوصاه يسوع بأن يعتني بأتباعه (&quot;خرافه&quot; و&quot;غنمه&quot;). وبهذا، ردَّ يسوع بطرس إلى الإيمان المسيحي. انظر <a href=\"https://ref.ly/John21:1-John21:23\">يوحنا 21: 1–23</a>؛ انظر أيضًا <a href=\"https://ref.ly/Matt16:15-Matt16:19\">متى 16: 15–19</a>.</p><p><u>بعض النصوص الكتابية لمزيدٍ من الدراسة</u></p><p><a href=\"https://ref.ly/Matt8:5-Matt8:13\">متى 8: 5–13؛</a> <a href=\"https://ref.ly/Matt9:9-Matt9:13\">9: 9–13؛</a> <a href=\"https://ref.ly/Matt16:15-Matt16:19\">16: 15–19؛</a> <a href=\"https://ref.ly/Mark10:17-Mark10:22\">مرقس 10: 17–22،</a> <a href=\"https://ref.ly/Mark10:35-Mark10:45\">35–45؛</a> <a href=\"https://ref.ly/Luke2:25-Luke2:38\">لوقا 2: 25–38؛</a> <a href=\"https://ref.ly/Luke4:14-Luke4:30\">4: 14–30؛</a> <a href=\"https://ref.ly/Luke10:38-Luke10:42\">10: 38–42؛</a> <a href=\"https://ref.ly/Luke11:37-Luke11:54\">11: 37–54؛</a> <a href=\"https://ref.ly/Luke19:1-Luke19:10\">19: 1–10؛</a> <a href=\"https://ref.ly/Luke24:13-Luke24:35\">24: 13–35؛</a> <a href=\"https://ref.ly/John1:29-John1:42\">يوحنا 1: 29–42،</a> <a href=\"https://ref.ly/John1:43-John1:51\">43–51؛</a> <a href=\"https://ref.ly/John3:1-John3:21\">3: 1–21؛</a> <a href=\"https://ref.ly/John4:1-John4:42\">4: 1–42؛</a> <a href=\"https://ref.ly/John7:50-John7:52\">7: 50–52؛</a> <a href=\"https://ref.ly/John8:1-John8:11\">8: 1–11؛</a> <a href=\"https://ref.ly/John11:17-John11:27\">11: 17–27؛</a> <a href=\"https://ref.ly/John13:1-John13:17\">13: 1–17؛</a> <a href=\"https://ref.ly/John18:28-John19:16\">18: 28–19:16؛</a> <a href=\"https://ref.ly/John19:38-John19:42\">19: 38–42؛</a> <a href=\"https://ref.ly/John20:19-John20:29\">20: 19–29؛</a> <a href=\"https://ref.ly/John21:1-John21:23\">21: 1–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004014",
+          "start_ref_usfm": "LUK 4:14",
+          "end_ref": "42004030",
+          "end_ref_usfm": "LUK 4:30"
+        },
+        {
+          "start_ref": "40008005",
+          "start_ref_usfm": "MAT 8:5",
+          "end_ref": "40008013",
+          "end_ref_usfm": "MAT 8:13"
+        },
+        {
+          "start_ref": "43021001",
+          "start_ref_usfm": "JHN 21:1",
+          "end_ref": "43021023",
+          "end_ref_usfm": "JHN 21:23"
+        },
+        {
+          "start_ref": "41010035",
+          "start_ref_usfm": "MRK 10:35",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        },
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004042",
+          "end_ref_usfm": "JHN 4:42"
+        },
+        {
+          "start_ref": "42019001",
+          "start_ref_usfm": "LUK 19:1",
+          "end_ref": "42019010",
+          "end_ref_usfm": "LUK 19:10"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003021",
+          "end_ref_usfm": "JHN 3:21"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43013017",
+          "end_ref_usfm": "JHN 13:17"
+        },
+        {
+          "start_ref": "43019038",
+          "start_ref_usfm": "JHN 19:38",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009013",
+          "end_ref_usfm": "MAT 9:13"
+        },
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010042",
+          "end_ref_usfm": "LUK 10:42"
+        },
+        {
+          "start_ref": "41010017",
+          "start_ref_usfm": "MRK 10:17",
+          "end_ref": "41010022",
+          "end_ref_usfm": "MRK 10:22"
+        },
+        {
+          "start_ref": "43007050",
+          "start_ref_usfm": "JHN 7:50",
+          "end_ref": "43007052",
+          "end_ref_usfm": "JHN 7:52"
+        },
+        {
+          "start_ref": "42024013",
+          "start_ref_usfm": "LUK 24:13",
+          "end_ref": "42024035",
+          "end_ref_usfm": "LUK 24:35"
+        },
+        {
+          "start_ref": "43001043",
+          "start_ref_usfm": "JHN 1:43",
+          "end_ref": "43001051",
+          "end_ref_usfm": "JHN 1:51"
+        },
+        {
+          "start_ref": "43008001",
+          "start_ref_usfm": "JHN 8:1",
+          "end_ref": "43008011",
+          "end_ref_usfm": "JHN 8:11"
+        },
+        {
+          "start_ref": "42011037",
+          "start_ref_usfm": "LUK 11:37",
+          "end_ref": "42011054",
+          "end_ref_usfm": "LUK 11:54"
+        },
+        {
+          "start_ref": "44009001",
+          "start_ref_usfm": "ACT 9:1",
+          "end_ref": "44009031",
+          "end_ref_usfm": "ACT 9:31"
+        },
+        {
+          "start_ref": "43011017",
+          "start_ref_usfm": "JHN 11:17",
+          "end_ref": "43011027",
+          "end_ref_usfm": "JHN 11:27"
+        },
+        {
+          "start_ref": "42002025",
+          "start_ref_usfm": "LUK 2:25",
+          "end_ref": "42002038",
+          "end_ref_usfm": "LUK 2:38"
+        },
+        {
+          "start_ref": "43001029",
+          "start_ref_usfm": "JHN 1:29",
+          "end_ref": "43001042",
+          "end_ref_usfm": "JHN 1:42"
+        },
+        {
+          "start_ref": "43020019",
+          "start_ref_usfm": "JHN 20:19",
+          "end_ref": "43020029",
+          "end_ref_usfm": "JHN 20:29"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44008001",
+          "end_ref_usfm": "ACT 8:1"
+        },
+        {
+          "start_ref": "43018028",
+          "start_ref_usfm": "JHN 18:28",
+          "end_ref": "43019016",
+          "end_ref_usfm": "JHN 19:16"
+        },
+        {
+          "start_ref": "40016015",
+          "start_ref_usfm": "MAT 16:15",
+          "end_ref": "40016019",
+          "end_ref_usfm": "MAT 16:19"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
