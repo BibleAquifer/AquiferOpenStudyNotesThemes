@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Aquifer Open Study Notes (Themes)",
     "aquifer_name": "Study Notes - Themes (Tyndale)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Themes (Tyndale)",
     "short_name": "TSNT",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesThemes",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "ind",
     "localizations": [
       "eng",
@@ -50,7 +50,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:14:37.207764"
+      "dateCreated": "2025-11-17T09:32:15.713674"
     },
     "idAuthorities": {
       "aquifer": {
@@ -64,7 +64,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesThemes": {
-            "timestamp": "2025-11-06T13:14:37.207764"
+            "timestamp": "2025-11-17T09:32:15.713674"
           }
         }
       },
@@ -94,81 +94,119 @@
       }
     },
     "ingredients": {
-      "json/000001.content.json": {
+      "json/001.content.json": {
         "mimeType": "text/json",
-        "size": 6845
+        "size": 6874,
+        "scope": {
+          "a": [
+            "Aturan Hukum Kuno"
+          ]
+        }
       },
-      "json/000002.content.json": {
+      "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 16989
+        "size": 17018,
+        "scope": {
+          "i": [
+            "Iman dan Perbuatan Baik"
+          ]
+        }
       },
-      "json/000003.content.json": {
+      "json/003.content.json": {
         "mimeType": "text/json",
-        "size": 10266
+        "size": 15440,
+        "scope": {
+          "k": [
+            "Kepemimpinan Karismatik",
+            "Kutuk dan Berkat"
+          ]
+        }
       },
-      "json/000004.content.json": {
+      "json/004.content.json": {
         "mimeType": "text/json",
-        "size": 5119
+        "size": 4557,
+        "scope": {
+          "l": [
+            "Literatur Apokaliptik"
+          ]
+        }
       },
-      "json/000005.content.json": {
+      "json/005.content.json": {
         "mimeType": "text/json",
-        "size": 4528
+        "size": 7598,
+        "scope": {
+          "m": [
+            "Makan Bersama"
+          ]
+        }
       },
-      "json/000006.content.json": {
+      "json/006.content.json": {
         "mimeType": "text/json",
-        "size": 7569
+        "size": 27399,
+        "scope": {
+          "p": [
+            "Pengkhususan Total",
+            "Pengrusakan Total",
+            "Penyembuh yang Penuh Belas Kasihan"
+          ]
+        }
       },
-      "json/000007.content.json": {
-        "mimeType": "text/json",
-        "size": 11164
-      },
-      "json/000008.content.json": {
-        "mimeType": "text/json",
-        "size": 4541
-      },
-      "json/000009.content.json": {
-        "mimeType": "text/json",
-        "size": 11613
-      },
-      "md/000001.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4477
-      },
-      "md/000002.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7563
-      },
-      "md/000003.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5005
-      },
-      "md/000004.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3384
-      },
-      "md/000005.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4067
-      },
-      "md/000006.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4377
-      },
-      "md/000007.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5843
-      },
-      "md/000008.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1261
-      },
-      "md/000009.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4838
-      },
-      "pdf/000001.content.pdf": {
+      "pdf/001.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 386865
+        "size": 205046,
+        "scope": {
+          "a": [
+            "Aturan Hukum Kuno"
+          ]
+        }
+      },
+      "pdf/002.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 240209,
+        "scope": {
+          "i": [
+            "Iman dan Perbuatan Baik"
+          ]
+        }
+      },
+      "pdf/003.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 207100,
+        "scope": {
+          "k": [
+            "Kepemimpinan Karismatik",
+            "Kutuk dan Berkat"
+          ]
+        }
+      },
+      "pdf/004.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 180484,
+        "scope": {
+          "l": [
+            "Literatur Apokaliptik"
+          ]
+        }
+      },
+      "pdf/005.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 186835,
+        "scope": {
+          "m": [
+            "Makan Bersama"
+          ]
+        }
+      },
+      "pdf/006.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 254950,
+        "scope": {
+          "p": [
+            "Pengkhususan Total",
+            "Pengrusakan Total",
+            "Penyembuh yang Penuh Belas Kasihan"
+          ]
+        }
       }
     },
     "copyright": {
