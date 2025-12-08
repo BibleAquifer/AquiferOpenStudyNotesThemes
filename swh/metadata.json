@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesThemes",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "swh",
     "localizations": [
       "eng",
@@ -50,7 +50,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:17.141058"
+      "dateCreated": "2025-12-04T20:25:02.823652"
     },
     "idAuthorities": {
       "aquifer": {
@@ -64,7 +64,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesThemes": {
-            "timestamp": "2025-11-17T09:32:17.141058"
+            "timestamp": "2025-12-04T20:25:02.823652"
           }
         }
       },
@@ -601,512 +601,109 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 190792,
-        "scope": {
-          " ": [
-            "Sanduku la Agano"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5017
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 255405,
-        "scope": {
-          "\"": [
-            "\"Atakuja\"",
-            "\"Imani\" Katika Injili ya Yohana",
-            "\"Maneno ya \"Mimi Ndimi\" ya Yesu\""
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11398
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 533167,
-        "scope": {
-          "a": [
-            "Adhabu ya haki",
-            "Agano Jipya",
-            "Agano Jipya la Mungu",
-            "Agano la Mungu na Abrahamu",
-            "Agano la Mungu na Daudi",
-            "Agano la Mungu na Noa",
-            "Agano la Mungu na Wafalme wa Israeli",
-            "Agano Lililovunjika",
-            "Agano za Mungu",
-            "Ahadi ya Kutoka kwa Pili",
-            "Ahadi ya Maisha Mapya",
-            "Ahadi ya Mungu kwa Watu Wake",
-            "Ahadi ya Nasaba",
-            "Ardhi"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 58902
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 329645,
-        "scope": {
-          "b": [
-            "Babeli: Mgawanyiko wa Mataifa",
-            "Baraka",
-            "Baraka ya Kikuhani",
-            "Baraka za Yesu",
-            "Barua kwa Makanisa Saba",
-            "Bwana wa Mataifa"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20271
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 234883,
-        "scope": {
-          "c": [
-            "Chaguo la Maisha au Kifo",
-            "CHUKI YA KIKABILA"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6619
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 231526,
-        "scope": {
-          "d": [
-            "Dhambi Inaingia Ulimwenguni",
-            "Dini ya Wakanaani"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7604
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 223391,
-        "scope": {
-          "e": [
-            "Enzi ya Kale na enzi Mpya"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4686
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 253450,
-        "scope": {
-          "f": [
-            "Falme Nne za Dunia",
-            "Familia, Jamii, na Dhambi ya Ngono",
-            "Fasihi ya Apokaliptiki",
-            "Furaha ya Kikristo"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11240
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 240172,
-        "scope": {
-          "g": [
-            "Giza na Nuru"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10753
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 593416,
-        "scope": {
-          "h": [
-            "Haki kwa Imani",
-            "Haki ya Kijamii",
-            "Haki ya Kweli",
-            "Haki ya Mungu",
-            "Hasira",
-            "Hasira ya Mungu",
-            "Hatari za Dhambi",
-            "Hekalu Kuu",
-            "Hekima",
-            "Hekima ya Solomoni",
-            "Hema la Kukutania",
-            "Hesabu za Kifumbo",
-            "Hofu ya Bwana",
-            "Hukumu ya Mungu kwa Watu Wake",
-            "Huzuni ya Mungu juu ya Uasi wa Imani"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 67571
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 385664,
-        "scope": {
-          "i": [
-            "Ibada katika Yerusalemu",
-            "Ibada Safi",
-            "Ibada ya Hekalu",
-            "Imani na Matendo Mema",
-            "Imani ndogo",
-            "Ishara za Miujiza katika injili ya Yohana"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 27291
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 272862,
-        "scope": {
-          "j": [
-            "Jibu la Daudi kwa Viongozi Wasio na Urafiki",
-            "Jina la Mungu kwenye Hekalu Lake",
-            "Jiografia ya Israeli kama Theolojia",
-            "Jiwe Walilolikataa Waashi",
-            "Jumuiya Mpya"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 18596
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 1284891,
-        "scope": {
-          "k": [
-            "Kanisa",
-            "Kanisa kama hekalu la Mungu",
-            "Kanisa kama Mwili Hai na Mwenye Uhai",
-            "Kanuni za Sheria za Kale",
-            "Karamu ya Kimasihi",
-            "Kaya",
-            "Kazi na Ufadhili",
-            "Kazi ya Roho Mtakatifu",
-            "Kiburi na Unyenyekevu",
-            "Kifo",
-            "Kuamini Nguvu za Binadamu",
-            "Kuanguka kwa Utamaduni",
-            "Kuasiliana na Wafu",
-            "Kubaki katika Kristo",
-            "Kuelewa Ayubu",
-            "Kuelewa Maana ya Uhamisho",
-            "Kufurahia Zawadi za Mungu",
-            "Kuhubiri kwa Umati Mgumu",
-            "Kuishi kwa Kristo",
-            "Kuja kwa Bwana kama Hakimu",
-            "Kuja kwa Roho wa Mungu",
-            "Kuja kwa Ufalme wa Mungu",
-            "Kujitolea Kikamilifu",
-            "Kukamilika kwa Hekalu la Pili",
-            "Kukataa Haki",
-            "Kula Pamoja",
-            "Kumfuata Yesu",
-            "Kumilikiwa na Kristo",
-            "Kumjua Mungu",
-            "Kumshinda Shetani",
-            "Kumwamini Mungu katika Isaya",
-            "Kumwamini Mungu katika Zaburi",
-            "Kuogopa Watu",
-            "Kupaa kwa Yesu",
-            "Kupitisha Mamlaka na Wajibu kwa Kiongozi Mpya",
-            "Kurithi Ardhi",
-            "Kurudi kwa Bwana",
-            "Kurudi kwa Uwepo wa Mungu na Watu Wake",
-            "Kusema",
-            "Kushughulikia Migogoro",
-            "Kusudi la agano la Sinai",
-            "Kusudi la Hukumu",
-            "Kutafuta Bwana",
-            "Kuteseka katika Kumfuata Mungu",
-            "Kutoa Kikristo",
-            "Kutoelewana katika injili ya Yohana",
-            "Kutoka kama Historia",
-            "Kutokuwa na hatia kwa Ayubu",
-            "Kuvunja Utakatifu",
-            "Kuwabudu Malaika",
-            "Kuwapenda Wengine",
-            "Kuzaliwa kwa Kristo",
-            "Kwa Imani"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 193893
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 179508,
-        "scope": {
-          "l": [
-            "Laana na Baraka"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3206
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 1559167,
-        "scope": {
-          "m": [
-            "Maagizo ya Mungu",
-            "Mababu wa ukoo wa  Yesu",
-            "Mabadiliko ya Mawazo ya Mungu",
-            "Mabaki",
-            "Machafuko ya Kijamii katika Waamuzi",
-            "Madhabahu",
-            "Mafanikio ya Kweli",
-            "Maisha Baada ya Kifo",
-            "Maisha ya Kale na Maisha Mapya",
-            "Maji ya Uzima",
-            "Majukumu ya Wanawake katika Agano Jipya kanisa",
-            "Makusudi ya Mungu Yasiyochunguzika Katika Historia",
-            "Malaika",
-            "Malalamiko",
-            "Mambo ya Mwisho na Wathesalonike",
-            "Manabii katika 1 Wafalme",
-            "Manabii wa Uongo",
-            "Maombi ya Kisasi",
-            "Maono",
-            "Mapigo",
-            "Masihi",
-            "Maskini na Wahitaji katika Zaburi",
-            "Maswali na Shaka",
-            "Matajiri na Maskini katika injili ya Luka",
-            "Matendo ya Kinabii yenye ishara",
-            "Mateso",
-            "Mateso ya Kikristo",
-            "Mchungaji",
-            "Miaka Elfu (Millenia)",
-            "Miji ya Makimbilio",
-            "Mikutano na Yesu",
-            "Mioyo Migumu",
-            "Mipaka ya Sheria",
-            "Miujiza",
-            "Mkanganyiko wa Binadamu na Kusudi la Mungu",
-            "Mkate kutoka Mbinguni",
-            "Mkombozi wa Familia",
-            "Mkumbuke Yeye",
-            "Moyo katika Zaburi",
-            "Mpangilio Mpya",
-            "Mpango wa Mungu wa Kurejesha",
-            "Mpango wa Wokovu wa Mungu Uliounganishwa",
-            "Mpinga Kristo",
-            "Mponyaji Mwenye Huruma",
-            "Msaidizi Wetu",
-            "Msalaba na Pasaka",
-            "Mtakatifu wa Israeli",
-            "Mtumishi wa Mungu",
-            "Mtumishi- Kiongozi",
-            "Mungu Analinda Mtumishi Wake",
-            "Mungu Asiyejulikana",
-            "Mungu au Shetani?",
-            "Mungu Hufanya Kazi Kupitia Sala",
-            "Mungu kama Shujaa Mtakatifu",
-            "Muumba-Mfalme",
-            "Muundo wa Hekalu kama Picha ya Ukweli wa Mungu",
-            "Muziki katika Israeli ya Kale",
-            "Mwana wa Mtu",
-            "Mwana wa Mungu",
-            "Mwisho wa Maandiko Matakatifu"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 242415
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 540577,
-        "scope": {
-          "n": [
-            "Nabii Aliyeteseka",
-            "Nadhiri kwa Mungu",
-            "Nafasi ya Paulo na Mtume",
-            "Nchi ya Ahadi",
-            "Ndoa na Ngono",
-            "Ndoa ya Kibiblia",
-            "Ndoa za mseto na Talaka",
-            "Neema ya Mungu",
-            "Neno",
-            "Neno la Mungu",
-            "Neno la Mungu katika Kiini",
-            "Neno Lililoandikwa",
-            "Nini Kizuri",
-            "Njaa",
-            "Nyoka ya Shaba"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 57632
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 188083,
-        "scope": {
-          "o": [
-            "Ondoa Uovu"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4145
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 272370,
-        "scope": {
-          "p": [
-            "Pasaka",
-            "Pembe Ndogo",
-            "Pumziko la sabato ya Mungu",
-            "Purimu"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15266
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 198186,
-        "scope": {
-          "r": [
-            "Roho ya Sheria",
-            "Rushwa na Zawadi"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6338
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 612121,
-        "scope": {
-          "s": [
-            "Sabini ya Sabasaba",
-            "Safi, Najisi, na Mtakatifu",
-            "Sala za Yesu",
-            "Sayuni",
-            "Shekemu",
-            "Sherehe",
-            "Sheria Kali",
-            "Sheria na Roho",
-            "Sheria ya Hekalu kama Teolojia",
-            "Sheria ya Kibiblia",
-            "Sheria za Msingi",
-            "Sifa na Furaha katika Luka–Matendo",
-            "Siku Inakuja",
-            "Siku ya Bwana",
-            "Siri ya Habari Njema",
-            "Siri ya Masihi"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 68602
       },
-      "pdf/021.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 277193,
-        "scope": {
-          "t": [
-            "Tamthilia na Ufunuo",
-            "Tohara",
-            "Tohara katika Agano Jipya",
-            "Tumaini kwa Masihi",
-            "Tumaini Zaidi ya Hukumu"
-          ]
-        }
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19947
       },
-      "pdf/022.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 1479651,
-        "scope": {
-          "u": [
-            "Uaminifu wa Mungu kwa Watu Wake",
-            "Uasi na Upya",
-            "Uasi wa imani",
-            "Ubatizo",
-            "Ubora wa Mwana",
-            "Ufalme",
-            "Ufalme wa ahadi ya Mungu",
-            "ufufuo katika Agano la Kale",
-            "Ufufuo wa Wafu",
-            "Ufufuo wa Yesu",
-            "Ufunuo wa Asili",
-            "Ugumba",
-            "Uharibifu Kamili",
-            "Ujasiri wa Nehemia kwa Mungu",
-            "Ujenzi upya wa Yerusalemu",
-            "Ujinsia wa Binadamu",
-            "Ujumbe Dhidi ya Mataifa",
-            "Ujumbe wa Habari Njema",
-            "Ujumbe wa upatanisho",
-            "Ukandamizaji wa Watu wa Mungu",
-            "Ukomavu wa Kiroho",
-            "Ukuaji wa kanisa",
-            "Ukuu wa Kimungu na Wajibu wa Binadamu",
-            "Ukuu wa Mungu",
-            "Ulimwengu",
-            "Unafiki wa Kidini",
-            "Uongozi Wa kuezesha Wengine",
-            "Uongozi wenye Mvuto",
-            "Upatanisho",
-            "Upekee wa Mungu",
-            "Upendo katika Jamii ya Kristo",
-            "Upendo wa Agano la Mungu",
-            "Upendo wa Mungu kwa Israeli",
-            "Upya wa Kiroho katika Manabii wa Mwisho",
-            "Uraia katika Ufalme",
-            "Usafi na Utambulisho",
-            "Usalama na Utii",
-            "Ushauri kutoka kwa Wengine",
-            "Usiku wa Mwisho wa Yesu",
-            "Utajiri na Umaskini katika Fasihi ya Hekima",
-            "Utakatifu Kamili wa Mungu",
-            "Utakatifu kwa Uhusiano",
-            "Utakatifu na Usafi wa Kijinsia",
-            "Utakatifu wa Watu wa Mungu",
-            "Utambulisho wa Jamii",
-            "Utawala na Nguvu ya Mungu Juu ya Mataifa Yote",
-            "Utukufu wa Mungu",
-            "Utukufu wa Mungu na Watu Wake",
-            "Utumwa",
-            "Uumbaji",
-            "Uvamizi",
-            "Uvivu na Kazi Ngumu",
-            "Uvumilivu",
-            "Uvumulivu",
-            "Uvuvi katika Galilaya",
-            "Uwepo wa Mungu katika Zaburi",
-            "Uwepo wa Roho",
-            "Uwepo wa Roho Mtakatifu",
-            "Uwezeshaji wa Roho",
-            "Uzuri katika Asili",
-            "Uzushi wa Wakristo wa Mapema"
-          ]
-        }
+      "md/022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 234861
       },
-      "pdf/023.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 221916,
-        "scope": {
-          "v": [
-            "Viongozi wa kanisa",
-            "Vita Takatifu"
-          ]
-        }
+      "md/023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10151
       },
-      "pdf/024.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 457111,
-        "scope": {
-          "w": [
-            "Wajibu wa Jamii: Dhambi ya Akani",
-            "Wasifu wa Ufuasi wa Yohana",
-            "Wasiwasi kwa Maskini",
-            "Watoto na Wazazi",
-            "Wayahudi na Mataifa (Wasio Wayahudi)",
-            "Wenye Haki Wanateseka",
-            "Wimbo wa Kristo: Asili ya Kimungu ya Kristo",
-            "Wingu na Moto",
-            "Wokovu katika Isaya",
-            "Wokovu katika Zaburi"
-          ]
-        }
+      "md/024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 43833
       },
-      "pdf/025.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 280208,
-        "scope": {
-          "y": [
-            "Yerusalemu",
-            "Yesu na Shetani",
-            "Yote Ni \"Mvuke\""
-          ]
-        }
+      "md/025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14248
       },
-      "pdf/026.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 355798,
-        "scope": {
-          "z": [
-            "Zaburi ya Mateso",
-            "Zaburi za Hekima",
-            "Zaburi za Kifalme",
-            "Zaburi za Sifa",
-            "Zawadi ya Unabii",
-            "Zawadi ya Vifaa"
-          ]
-        }
+      "md/026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 26311
       }
     },
     "copyright": {

@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesThemes",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "por",
     "localizations": [
       "eng",
@@ -50,7 +50,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:15.779112"
+      "dateCreated": "2025-12-04T20:25:01.497956"
     },
     "idAuthorities": {
       "aquifer": {
@@ -64,7 +64,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesThemes": {
-            "timestamp": "2025-11-17T09:32:15.779112"
+            "timestamp": "2025-12-04T20:25:01.497956"
           }
         }
       },
@@ -569,480 +569,93 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 196885,
-        "scope": {
-          "“": [
-            "“Crença” no evangelho de João"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3735
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 213170,
-        "scope": {
-          "\"": [
-            "\"Ele Virá\""
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4185
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 1936380,
-        "scope": {
-          "a": [
-            "A adoração de anjos",
-            "A aliança de Deus com Abraão",
-            "A aliança de Deus com os reis de Israel",
-            "A arca da aliança",
-            "A bênção sacerdotal",
-            "A confiança de Neemias em Deus",
-            "A criação",
-            "A cruz e a Páscoa",
-            "A escolha da vida ou da morte",
-            "A fidelidade de Deus para com o seu povo",
-            "A geografia de Israel como teologia",
-            "A glória de Deus",
-            "A glória de Deus junto ao seu povo",
-            "A graça de Deus",
-            "A história do Êxodo",
-            "A Igreja",
-            "A Igreja como templo de Deus",
-            "A Igreja como um corpo vivo e ativo",
-            "A inocência de Jó",
-            "A ira de Deus",
-            "A lei e o Espírito",
-            "A mensagem da reconciliação",
-            "A mensagem das boas-novas",
-            "A noite final de Jesus",
-            "A nova aliança",
-            "A nova comunidade",
-            "A nova ordem",
-            "A nuvem e o fogo",
-            "A Palavra",
-            "A palavra de Deus no centro",
-            "A palavra escrita",
-            "A Páscoa",
-            "A pedra que os construtores rejeitaram",
-            "A presença de Deus nos Salmos",
-            "A presença do Espírito",
-            "A presença do Espírito Santo",
-            "A promessa da dinastia",
-            "A promessa de nova vida",
-            "A promessa de um segundo Êxodo",
-            "A razão do exílio",
-            "A ressurreição de Jesus",
-            "A ressurreição dos mortos",
-            "A sabedoria de Salomão",
-            "A santidade do povo de Deus",
-            "A serpente de bronze",
-            "A singularidade de Deus",
-            "A soberania de Deus",
-            "A superioridade do Filho",
-            "A terra",
-            "A tristeza de Deus sobre a apostasia",
-            "A vida antiga e a vida nova",
-            "A vinda do Espírito de Deus",
-            "A vinda do reino de Deus",
-            "A vinda do Senhor como juiz",
-            "Adoração em Jerusalém",
-            "Adoração no templo",
-            "Adoração pura",
-            "Água viva",
-            "Alegria cristã",
-            "Aliança de Deus com Davi",
-            "Aliança de Deus com Noé",
-            "Alianças de Deus",
-            "Altares",
-            "Amando os outros",
-            "Amor na comunidade de Cristo",
-            "Anjos",
-            "Antepassados de Jesus",
-            "Apostasia",
-            "Apostasia e renovação",
-            "Apreciando os presentes de Deus",
-            "As bênçãos de Jesus",
-            "As cidades de refúgio",
-            "As limitações da lei",
-            "As pragas",
-            "As últimas coisas e os tessalonicenses",
-            "Ascensão de Jesus",
-            "Atos de fala",
-            "Atos simbólicos proféticos"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 323190
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 316363,
-        "scope": {
-          "b": [
-            "Babel: A dispersão das nações",
-            "Batismo",
-            "Beleza na natureza",
-            "Bênção",
-            "Buscando o Senhor"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 21406
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 716296,
-        "scope": {
-          "c": [
-            "Caos social em Juízes",
-            "Capacitação espiritual",
-            "Cartas às sete igrejas",
-            "Casamento bíblico",
-            "Casamento e sexualidade",
-            "Casamento inter-racial e divórcio",
-            "Celebração",
-            "Chamando os mortos",
-            "Cidadania no Reino",
-            "Circuncisão",
-            "Circuncisão no Novo Testamento",
-            "Códigos de lei antigos",
-            "Comendo juntos",
-            "Compreendendo Jó",
-            "Compromisso de Deus com seu povo",
-            "Conclusão do Segundo Templo",
-            "Confiando em Deus em Isaías",
-            "Confiando em Deus nos Salmos",
-            "Confiando na força humana",
-            "Confusão humana e o propósito de Deus",
-            "Conhecendo Deus",
-            "Conselho de outros",
-            "Corações endurecidos",
-            "Crianças e pais"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 89414
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 404844,
-        "scope": {
-          "d": [
-            "Dedicação completa",
-            "Descanso sabático de Deus",
-            "Destruição completa",
-            "Deus age através da oração",
-            "Deus ou Satanás?",
-            "Deus protege o seu servo",
-            "Deus, o guerreiro santo",
-            "Dizeres \"Eu Sou\" de Jesus",
-            "Doação cristã"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 37274
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 358678,
-        "scope": {
-          "e": [
-            "Encontros com Jesus",
-            "Escravidão",
-            "Escuridão e luz",
-            "Esperança além do julgamento",
-            "Esperança pelo Messias",
-            "Expiação"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 34546
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 312197,
-        "scope": {
-          "f": [
-            "Falsos profetas",
-            "Família, comunidade e pecado sexual",
-            "Fé e boas obras",
-            "Fome"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19798
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 196427,
-        "scope": {
-          "g": [
-            "Guerra santa"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6129
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 229666,
-        "scope": {
-          "h": [
-            "Herdando a terra",
-            "Heresias cristãs primitivas",
-            "Hipocrisia religiosa"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12285
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 273662,
-        "scope": {
-          "i": [
-            "Identidade da comunidade",
-            "Infertilidade",
-            "Instruções de Deus",
-            "Invasão"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14176
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 461687,
-        "scope": {
-          "j": [
-            "Jerusalém",
-            "Jesus e Satanás",
-            "Judeus e gentios (Não-judeus)",
-            "Julgamento de Deus sobre seu povo",
-            "Justiça de Deus",
-            "Justiça social",
-            "Justiça verdadeira",
-            "Justificação pela fé"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 41428
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 426837,
-        "scope": {
-          "l": [
-            "Legalismo",
-            "Legislação do templo como Teologia",
-            "Lei bíblica",
-            "Leis básicas",
-            "Lembre-se dele",
-            "Lidando com conflito",
-            "Liderança carismática",
-            "Liderança que capacita",
-            "Líderes da Igreja",
-            "Limpo, impuro e sagrado",
-            "Literatura apocalíptica",
-            "Louvor e júbilo em Lucas–Atos"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 43758
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 383511,
-        "scope": {
-          "m": [
-            "Mal-entendido no evangelho de João",
-            "Maldições e bênçãos",
-            "Maturidade espiritual",
-            "Mensagens contra as nações",
-            "Milagres",
-            "Morte",
-            "Mudança de ideia de Deus",
-            "Música no antigo Israel"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 29397
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 302656,
-        "scope": {
-          "n": [
-            "Nome de Deus em seu templo",
-            "Nosso Advogado",
-            "Nova aliança de Deus",
-            "Números simbólicos"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17134
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 1512746,
-        "scope": {
-          "o": [
-            "O amor de Deus por Israel",
-            "O amor pactual de Deus",
-            "O anticristo",
-            "O banquete messiânico",
-            "O clímax das escrituras",
-            "O colapso da cultura",
-            "O compassivo curador",
-            "O coração nos Salmos",
-            "O crescimento da igreja",
-            "O Deus desconhecido",
-            "O Dia do Senhor",
-            "O Dia está chegando",
-            "O dom da profecia",
-            "O espírito da lei",
-            "O Filho de Deus",
-            "O Filho do Homem",
-            "O governo e poder de Deus sobre todas as nações",
-            "O hino de Cristo: a natureza divina de Cristo",
-            "O lar",
-            "O Messias",
-            "O mistério das boas-novas",
-            "O mundo",
-            "O nascimento de Cristo",
-            "O pacto rompido",
-            "O papel de Paulo como apóstolo",
-            "O pastor",
-            "O pecado entra no mundo",
-            "O pequeno chifre",
-            "O profeta sofredor",
-            "O propósito da aliança do Sinai",
-            "O propósito dos julgamentos",
-            "O que é bom",
-            "O redentor da família",
-            "O Rei-Criador",
-            "O remanescente",
-            "O retorno da presença de Deus com seu povo",
-            "O Santo de Israel",
-            "O santuário central",
-            "O segredo do Messias",
-            "O Senhor das nações",
-            "O servo líder",
-            "O tabernáculo",
-            "O teatro e o Apocalipse",
-            "O trabalho do Espírito Santo",
-            "O velho reino e o novo",
-            "Ódio étnico",
-            "Opressão do povo de Deus",
-            "Orações de Jesus",
-            "Orações por vingança",
-            "Orgulho e humildade",
-            "Os justos sofrem",
-            "Os mil anos (O Milênio)",
-            "Os perigos do pecado",
-            "Os pobres e necessitados nos Salmos",
-            "Os propósitos inescrutáveis de Deus na história",
-            "Os setenta conjuntos de sete"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 238330
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 662850,
-        "scope": {
-          "p": [
-            "Palavra de Deus",
-            "Pão do céu",
-            "Papéis das mulheres na igreja do Novo Testamento",
-            "Passando a autoridade e responsabilidade para um novo líder",
-            "Pela fé",
-            "Perfil de discipulado de João",
-            "Perguntas e dúvidas",
-            "Permanecendo em Cristo",
-            "Perseguição",
-            "Pertencer a Cristo",
-            "Pescando na Galileia",
-            "Plano de Deus para restaurar",
-            "Plano unificado de Salvação de Deus",
-            "Pouca fé",
-            "Pregando para uma multidão difícil",
-            "Preguiça e trabalho duro",
-            "Preocupação com os pobres",
-            "Profetas em 1 Reis",
-            "Projeto do templo como uma representação da verdade de Deus",
-            "Pureza e identidade",
-            "Purim"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 81228
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 214804,
-        "scope": {
-          "q": [
-            "Quatro impérios mundiais"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3482
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 553522,
-        "scope": {
-          "r": [
-            "Raiva",
-            "Realeza",
-            "Reclamações",
-            "Recompensa material",
-            "Reconstrução de Jerusalém",
-            "Reino prometido de Deus",
-            "Religião cananeia",
-            "Remover o mal",
-            "Renovação espiritual nos profetas menores",
-            "Renunciando aos direitos",
-            "Resistência",
-            "Responsabilidade da comunidade: O pecado de Acã",
-            "Resposta de Davi a líderes hostis",
-            "Ressurreição no Antigo Testamento",
-            "Retornando ao Senhor",
-            "Retribuição",
-            "Revelação natural",
-            "Ricos e pobres no evangelho de Lucas",
-            "Riqueza e pobreza na literatura de sabedoria"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 64626
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 757041,
-        "scope": {
-          "s": [
-            "Sabedoria",
-            "Salmos de lamento",
-            "Salmos de louvor",
-            "Salmos de sabedoria",
-            "Salmos reais",
-            "Salvação em Isaías",
-            "Salvação nos Salmos",
-            "Santidade absoluta de Deus",
-            "Santidade e pureza sexual",
-            "Santidade por relacionamento",
-            "Seguindo Jesus",
-            "Segurança e obediência",
-            "Servo de Deus",
-            "Sexualidade humana",
-            "Sião",
-            "Sinais miraculosos no evangelho de João",
-            "Siquém",
-            "Soberania divina e responsabilidade humana",
-            "Sofrendo ao seguir Deus",
-            "Sofrimento cristão",
-            "Suborno e presentes",
-            "Superando o Diabo"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 94047
       },
-      "pdf/021.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 280121,
-        "scope": {
-          "t": [
-            "Temendo pessoas",
-            "Temor do Senhor",
-            "Terra Prometida",
-            "Tolerância",
-            "Trabalho e patronato",
-            "Tudo é “Ilusão”"
-          ]
-        }
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 21784
       },
-      "pdf/022.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 378309,
-        "scope": {
-          "v": [
-            "Verdadeiro sucesso",
-            "Vida após a morte",
-            "Violação do sagrado",
-            "Visões",
-            "Vivendo por Cristo",
-            "Votos a Deus"
-          ]
-        }
+      "md/022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 26162
       }
     },
     "copyright": {
