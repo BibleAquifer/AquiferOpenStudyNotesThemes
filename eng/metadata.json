@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesThemes",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "eng",
     "localizations": [
       "arb",
@@ -50,7 +50,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:12.493098"
+      "dateCreated": "2025-12-04T20:24:57.994054"
     },
     "idAuthorities": {
       "aquifer": {
@@ -64,7 +64,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesThemes": {
-            "timestamp": "2025-11-17T09:32:12.493098"
+            "timestamp": "2025-12-04T20:24:57.994054"
           }
         }
       },
@@ -593,504 +593,105 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 255522,
-        "scope": {
-          "“": [
-            "“Belief” in the Gospel of John",
-            "“He Will Come”",
-            "“I Am” Sayings of Jesus"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10774
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 392113,
-        "scope": {
-          "a": [
-            "All Is “Vapor”",
-            "Altars",
-            "Ancestors of Jesus",
-            "Ancient Law Codes",
-            "Angels",
-            "Anger",
-            "Apocalyptic Literature",
-            "Apostasy",
-            "Apostasy and Renewal",
-            "Atonement"
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 40310
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 421569,
-        "scope": {
-          "b": [
-            "Babel: The Dispersion of Nations",
-            "Baptism",
-            "Basic Laws",
-            "Beauty in Nature",
-            "Belonging to Christ",
-            "Biblical Law",
-            "Biblical Marriage",
-            "Blessing",
-            "Bread from Heaven",
-            "Bribery and Gifts",
-            "By Faith"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 37871
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 600731,
-        "scope": {
-          "c": [
-            "Calling up the Dead",
-            "Canaanite Religion",
-            "Celebration",
-            "Charismatic Leadership",
-            "Children and Parents",
-            "Christian Giving",
-            "Christian Joy",
-            "Christian Suffering",
-            "Church Leaders",
-            "Circumcision",
-            "Circumcision in the New Testament",
-            "Citizenship in the Kingdom",
-            "Clean, Unclean, and Holy",
-            "Community Identity",
-            "Community Responsibility: Achan’s Sin",
-            "Compassionate Healer",
-            "Complaints",
-            "Complete Dedication",
-            "Complete Destruction",
-            "Completion of the Second Temple",
-            "Concern for the Poor",
-            "Counsel from Others",
-            "Curses and Blessings"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 81799
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 345391,
-        "scope": {
-          "d": [
-            "Darkness and Light",
-            "David's Response to Unfriendly Leaders",
-            "Dealing with Conflict",
-            "Death",
-            "Divine Sovereignty and Human Responsibility"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 31181
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 338436,
-        "scope": {
-          "e": [
-            "Early Christian Heresies",
-            "Eating Together",
-            "Empowering Leadership",
-            "Encounters with Jesus",
-            "Endurance",
-            "Enjoying God’s Gifts",
-            "Ethnic Hatred"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 30248
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 418983,
-        "scope": {
-          "f": [
-            "Faith and Good Deeds",
-            "False Prophets",
-            "Family, Community, and Sexual Sin",
-            "Famine",
-            "Fear of the Lord",
-            "Fearing People",
-            "Fishing in Galilee",
-            "Following Jesus",
-            "Four World Empires"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 37925
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 884772,
-        "scope": {
-          "g": [
-            "Giving up Rights",
-            "God as Holy Warrior",
-            "God or Satan?",
-            "God Protects His Servant",
-            "God Works through Prayer",
-            "God’s Absolute Holiness",
-            "God’s Anger",
-            "God’s Change of Mind",
-            "God’s Commitment to His People",
-            "God’s Covenant Love",
-            "God’s Covenant with Abraham",
-            "God’s Covenant with David",
-            "God’s Covenant with Israel’s Kings",
-            "God’s Covenant with Noah",
-            "God’s Covenants",
-            "God’s Faithfulness to His People",
-            "God’s Glory with His People",
-            "God’s Grief over Apostasy",
-            "God’s Inscrutable Purposes in History",
-            "God’s Instructions",
-            "God’s Judgment of His People",
-            "God’s Justice",
-            "God’s Love for Israel",
-            "God’s Name on His Temple",
-            "God’s New Covenant",
-            "God’s Plan to Restore",
-            "God’s Presence in the Psalms",
-            "God’s Promised Kingdom",
-            "God's Rule and Power Over All Nations",
-            "God’s Sabbath Rest",
-            "God’s Servant",
-            "God’s Unified Plan of Salvation",
-            "God’s Uniqueness",
-            "God’s Word",
-            "God's Word at the Center"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 137342
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 358720,
-        "scope": {
-          "h": [
-            "Hardened Hearts",
-            "Holiness and Sexual Purity",
-            "Holiness by Relationship",
-            "Holy War",
-            "Hope Beyond Judgment",
-            "Hope for the Messiah",
-            "Human Confusion and God’s Purpose",
-            "Human Sexuality"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 34181
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 241020,
-        "scope": {
-          "i": [
-            "Infertility",
-            "Inheriting the Land",
-            "Intermarriage and Divorce",
-            "Invasion",
-            "Israel’s Geography as Theology"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15512
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 397447,
-        "scope": {
-          "j": [
-            "Jerusalem",
-            "Jesus and Satan",
-            "Jesus’ Ascension",
-            "Jesus’ Final Night",
-            "Jesus’ Prayers",
-            "Jews and Gentiles (Non-Jews)",
-            "Job’s Innocence",
-            "John’s Profile of Discipleship"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 31869
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 197749,
-        "scope": {
-          "k": [
-            "Kingship",
-            "Knowing God"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5603
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 369477,
-        "scope": {
-          "l": [
-            "Laziness and Hard Work",
-            "Legalism",
-            "Letters to the Seven Churches",
-            "Life After Death",
-            "Little Faith",
-            "Living for Christ",
-            "Living Water",
-            "Love in the Community of Christ",
-            "Loving Others"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 25490
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 379868,
-        "scope": {
-          "m": [
-            "Making Sense of the Exile",
-            "Marriage and Sexuality",
-            "Material Reward",
-            "Messages Against the Nations",
-            "Miracles",
-            "Miraculous Signs in the Gospel of John",
-            "Misunderstanding in the Gospel of John",
-            "Music in Ancient Israel"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 28833
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 232129,
-        "scope": {
-          "n": [
-            "Natural Revelation",
-            "Nehemiah’s Confidence in God"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6853
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 232860,
-        "scope": {
-          "o": [
-            "Oppression of God’s People",
-            "Our Advocate",
-            "Overcoming the Devil"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11592
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 520739,
-        "scope": {
-          "p": [
-            "Passing On Authority and Responsibility to a New Leader",
-            "Paul’s Role as an Apostle",
-            "Persecution",
-            "Praise and Rejoicing in Luke–Acts",
-            "Praise Psalms",
-            "Prayers for Vengeance",
-            "Preaching to a Tough Crowd",
-            "Pride and Humility",
-            "Promised Land",
-            "Prophetic Sign Acts",
-            "Prophets in 1 Kings",
-            "Psalms of Suffering",
-            "Pure Worship",
-            "Purim",
-            "Purity and Identity"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 58827
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 227665,
-        "scope": {
-          "q": [
-            "Questions and Doubt"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4866
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 391246,
-        "scope": {
-          "r": [
-            "Rebuilding of Jerusalem",
-            "Religious Hypocrisy",
-            "Remaining in Christ",
-            "Remember Him",
-            "Remove the Evil",
-            "Resurrection in the Old Testament",
-            "Retribution",
-            "Returning to the Lord",
-            "Rich and Poor in the Gospel of Luke",
-            "Righteousness by Faith",
-            "Royal Psalms"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 34475
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 551326,
-        "scope": {
-          "s": [
-            "Salvation in Isaiah",
-            "Salvation in the Psalms",
-            "Security and Obedience",
-            "Seeking the Lord",
-            "Shechem",
-            "Sin Enters the World",
-            "Slavery",
-            "Social Chaos in Judges",
-            "Social Justice",
-            "Solomon’s Wisdom",
-            "Speaking",
-            "Spirit Empowerment",
-            "Spiritual Maturity",
-            "Spiritual Renewal in the Later Prophets",
-            "Suffering in Following God",
-            "Symbolic Numbers"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 62066
       },
-      "pdf/021.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 2136765,
-        "scope": {
-          "t": [
-            "Temple Design as a Picture of God's Truth",
-            "Temple Legislation as Theology",
-            "Temple Worship",
-            "The Antichrist",
-            "The Ark of the Covenant",
-            "The Birth of Christ",
-            "The Blessings of Jesus",
-            "The Broken Covenant",
-            "The Bronze Snake",
-            "The Central Sanctuary",
-            "The Choice of Life or Death",
-            "The Christ Hymn: Christ’s Divine Nature",
-            "The Church",
-            "The Church as a Living, Active Body",
-            "The Church as God’s Temple",
-            "The Cities of Refuge",
-            "The Climax of Scripture",
-            "The Cloud and Fire",
-            "The Collapse of Culture",
-            "The Coming of God’s Kingdom",
-            "The Coming of the Lord as Judge",
-            "The Coming of the Spirit of God",
-            "The Creation",
-            "The Creator-King",
-            "The Cross and Passover",
-            "The Dangers of Sin",
-            "The Day Is Coming",
-            "The Day of the Lord",
-            "The Exodus as History",
-            "The Family Redeemer",
-            "The Gift of Prophecy",
-            "The Glory of God",
-            "The Good News Message",
-            "The Grace of God",
-            "The Growth of the Church",
-            "The Heart in the Psalms",
-            "The Holiness of God’s People",
-            "The Holy One of Israel",
-            "The Holy Spirit’s Presence",
-            "The Holy Spirit’s Work",
-            "The Household",
-            "The Land",
-            "The Last Things and the Thessalonians",
-            "The Law and the Spirit",
-            "The Limitations of Law",
-            "The Little Horn",
-            "The Lord of Nations",
-            "The Message of Reconciliation",
-            "The Messiah",
-            "The Messianic Banquet",
-            "The Mystery of the Good News",
-            "The New Community",
-            "The New Covenant",
-            "The New Order",
-            "The Old Life and the New Life",
-            "The Old Realm and the New",
-            "The Passover",
-            "The Plagues",
-            "The Poor and Needy in the Psalms",
-            "The Priestly Blessing",
-            "The Promise of a Second Exodus",
-            "The Promise of Dynasty",
-            "The Promise of New Life",
-            "The Purpose of the Judgments",
-            "The Purpose of the Sinai Covenant",
-            "The Remnant",
-            "The Resurrection of Jesus",
-            "The Resurrection of the Dead",
-            "The Return of God’s Presence with His People",
-            "The Righteous Suffer",
-            "The Secret of the Messiah",
-            "The Servant-Leader",
-            "The Seventy Sets of Seven",
-            "The Shepherd",
-            "The Son of God",
-            "The Son of Man",
-            "The Sovereignty of God",
-            "The Spirit of the Law",
-            "The Spirit’s Presence",
-            "The Stone the Builders Rejected",
-            "The Suffering Prophet",
-            "The Superiority of the Son",
-            "The Tabernacle",
-            "The Theater and Revelation",
-            "The Thousand Years (The Millennium)",
-            "The Unknown God",
-            "The Word",
-            "The World",
-            "The Worship of Angels",
-            "The Written Word",
-            "Tolerance",
-            "True Justice",
-            "True Success",
-            "Trusting God in Isaiah",
-            "Trusting God in the Psalms",
-            "Trusting in Human Strength"
-          ]
-        }
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 390565
       },
-      "pdf/022.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 191011,
-        "scope": {
-          "u": [
-            "Understanding Job"
-          ]
-        }
+      "md/022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3654
       },
-      "pdf/023.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 258294,
-        "scope": {
-          "v": [
-            "Violation of the Sacred",
-            "Visions",
-            "Vows to God"
-          ]
-        }
+      "md/023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12874
       },
-      "pdf/024.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 374437,
-        "scope": {
-          "w": [
-            "Wealth and Poverty in the Wisdom Literature",
-            "What Is Good",
-            "Wisdom",
-            "Wisdom Psalms",
-            "Women’s Roles in the New Testament Church",
-            "Work and Patronage",
-            "Worship in Jerusalem"
-          ]
-        }
+      "md/024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 27232
       },
-      "pdf/025.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 203156,
-        "scope": {
-          "z": [
-            "Zion"
-          ]
-        }
+      "md/025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7134
       }
     },
     "copyright": {
