@@ -1,6 +1,6 @@
 [
   {
-    "content_id": 700420,
+    "content_id": "700420",
     "reference_id": 203357,
     "version": "1.0.1",
     "title": "舊生命與新生命",
@@ -82,7 +82,7 @@
     }
   },
   {
-    "content_id": 700400,
+    "content_id": "700400",
     "reference_id": 203337,
     "version": "1.0.1",
     "title": "舊與新的領域",
@@ -332,7 +332,7 @@
     }
   },
   {
-    "content_id": 700331,
+    "content_id": "700331",
     "reference_id": 203268,
     "version": "1.0.1",
     "title": "舊約中的復活",
