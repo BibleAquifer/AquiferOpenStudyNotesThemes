@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-01-05",
+"date_created": "2026-02-09",
 "language": "ind",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-01-05T09:40:32.753057"
+"dateCreated": "2026-02-09T15:01:55.591598"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-01-05T09:40:32.753057"
+"timestamp": "2026-02-09T15:01:55.591598"
 }
 }
 },
@@ -96,7 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 6874,
+"size": 6876,
 "scope": {
 "a": [
 "Aturan Hukum Kuno"
@@ -105,7 +105,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 17018,
+"size": 17020,
 "scope": {
 "i": [
 "Iman dan Perbuatan Baik"
@@ -114,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 15440,
+"size": 15444,
 "scope": {
 "k": [
 "Kepemimpinan Karismatik",
@@ -124,7 +124,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 4557,
+"size": 4559,
 "scope": {
 "l": [
 "Literatur Apokaliptik"
@@ -133,7 +133,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 7598,
+"size": 7600,
 "scope": {
 "m": [
 "Makan Bersama"
@@ -142,7 +142,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 27399,
+"size": 27405,
 "scope": {
 "p": [
 "Pengkhususan Total",
@@ -153,84 +153,75 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 4474
+"size": 4472
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 7560
+"size": 7559
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 7696
+"size": 7694
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 4064
+"size": 4063
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 4374
+"size": 4373
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 10559
+"size": 10555
+},
+"docx/001.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43888
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 205043,
-"scope": {
-"a": [
-"Aturan Hukum Kuno"
-]
-}
+"size": 196895
+},
+"docx/002.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44854
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 240201,
-"scope": {
-"i": [
-"Iman dan Perbuatan Baik"
-]
-}
+"size": 233535
+},
+"docx/003.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45118
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 207104,
-"scope": {
-"k": [
-"Kepemimpinan Karismatik",
-"Kutuk dan Berkat"
-]
-}
+"size": 205720
+},
+"docx/004.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43599
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 180468,
-"scope": {
-"l": [
-"Literatur Apokaliptik"
-]
-}
+"size": 179074
+},
+"docx/005.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43651
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 186830,
-"scope": {
-"m": [
-"Makan Bersama"
-]
-}
+"size": 182298
+},
+"docx/006.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46178
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 254951,
-"scope": {
-"p": [
-"Pengkhususan Total",
-"Pengrusakan Total",
-"Penyembuh yang Penuh Belas Kasihan"
-]
-}
+"size": 247970
 }
 },
 "copyright": {
@@ -250,7 +241,7 @@
 },
 "article_metadata": {
 "769381": {
-"content_id": 769381,
+"content_id": "769381",
 "reference_id": 203114,
 "index_reference": "aturan hukum kuno",
 "localizations": {
@@ -291,92 +282,50 @@
 }
 }
 },
-"769558": {
-"content_id": 769558,
-"reference_id": 203291,
-"index_reference": "iman dan perbuatan baik",
+"769394": {
+"content_id": "769394",
+"reference_id": 203127,
+"index_reference": "pengkhususan total",
 "localizations": {
 "eng": {
-"content_id": 500348,
+"content_id": 500184,
 "language": "eng",
-"title": "Faith and Good Deeds"
+"title": "Complete Dedication"
 },
 "arb": {
-"content_id": 702355,
+"content_id": 702191,
 "language": "arb",
-"title": "الإيمان والأعمال الصالحة"
+"title": "التكريس الكامل"
 },
 "fra": {
-"content_id": 708447,
+"content_id": 708417,
 "language": "fra",
-"title": "Foi et bonnes œuvres"
+"title": "Dévouer par interdit"
 },
 "hin": {
-"content_id": 709520,
+"content_id": 709356,
 "language": "hin",
-"title": "विश्वास और अच्छे कर्म"
+"title": "सम्पूर्ण समर्पण "
 },
 "por": {
-"content_id": 800460,
+"content_id": 800296,
 "language": "por",
-"title": "Fé e boas obras"
+"title": "Dedicação completa"
 },
 "swh": {
-"content_id": 765148,
+"content_id": 764984,
 "language": "swh",
-"title": "Imani na Matendo Mema"
+"title": "Kujitolea Kikamilifu"
 },
 "zht": {
-"content_id": 700354,
+"content_id": 700190,
 "language": "zht",
-"title": "信心與善行"
-}
-}
-},
-"769413": {
-"content_id": 769413,
-"reference_id": 203146,
-"index_reference": "kepemimpinan karismatik",
-"localizations": {
-"eng": {
-"content_id": 500203,
-"language": "eng",
-"title": "Charismatic Leadership"
-},
-"arb": {
-"content_id": 702210,
-"language": "arb",
-"title": "القيادة بالروح القدس"
-},
-"fra": {
-"content_id": 708422,
-"language": "fra",
-"title": "Les serviteurs appelés par l'Esprit"
-},
-"hin": {
-"content_id": 709375,
-"language": "hin",
-"title": "करिश्माई नेतृत्व"
-},
-"por": {
-"content_id": 800315,
-"language": "por",
-"title": "Liderança carismática"
-},
-"swh": {
-"content_id": 765003,
-"language": "swh",
-"title": "Uongozi wenye Mvuto"
-},
-"zht": {
-"content_id": 700209,
-"language": "zht",
-"title": "屬靈恩賜型領導"
+"title": "完全的獻上"
 }
 }
 },
 "769405": {
-"content_id": 769405,
+"content_id": "769405",
 "reference_id": 203138,
 "index_reference": "kutuk dan berkat",
 "localizations": {
@@ -417,8 +366,92 @@
 }
 }
 },
+"769413": {
+"content_id": "769413",
+"reference_id": 203146,
+"index_reference": "kepemimpinan karismatik",
+"localizations": {
+"eng": {
+"content_id": 500203,
+"language": "eng",
+"title": "Charismatic Leadership"
+},
+"arb": {
+"content_id": 702210,
+"language": "arb",
+"title": "القيادة بالروح القدس"
+},
+"fra": {
+"content_id": 708422,
+"language": "fra",
+"title": "Les serviteurs appelés par l'Esprit"
+},
+"hin": {
+"content_id": 709375,
+"language": "hin",
+"title": "करिश्माई नेतृत्व"
+},
+"por": {
+"content_id": 800315,
+"language": "por",
+"title": "Liderança carismática"
+},
+"swh": {
+"content_id": 765003,
+"language": "swh",
+"title": "Uongozi wenye Mvuto"
+},
+"zht": {
+"content_id": 700209,
+"language": "zht",
+"title": "屬靈恩賜型領導"
+}
+}
+},
+"769420": {
+"content_id": "769420",
+"reference_id": 203153,
+"index_reference": "pengrusakan total",
+"localizations": {
+"eng": {
+"content_id": 500210,
+"language": "eng",
+"title": "Complete Destruction"
+},
+"arb": {
+"content_id": 702217,
+"language": "arb",
+"title": "التحريم الكامل"
+},
+"fra": {
+"content_id": 708423,
+"language": "fra",
+"title": "Destruction complète"
+},
+"hin": {
+"content_id": 709382,
+"language": "hin",
+"title": "सम्पूर्ण विनाश "
+},
+"por": {
+"content_id": 800322,
+"language": "por",
+"title": "Destruição completa"
+},
+"swh": {
+"content_id": 765010,
+"language": "swh",
+"title": "Uharibifu Kamili"
+},
+"zht": {
+"content_id": 700216,
+"language": "zht",
+"title": "毀滅淨盡"
+}
+}
+},
 "769528": {
-"content_id": 769528,
+"content_id": "769528",
 "reference_id": 203261,
 "index_reference": "literatur apokaliptik",
 "localizations": {
@@ -460,7 +493,7 @@
 }
 },
 "769553": {
-"content_id": 769553,
+"content_id": "769553",
 "reference_id": 203286,
 "index_reference": "makan bersama",
 "localizations": {
@@ -506,92 +539,8 @@
 }
 }
 },
-"769394": {
-"content_id": 769394,
-"reference_id": 203127,
-"index_reference": "pengkhususan total",
-"localizations": {
-"eng": {
-"content_id": 500184,
-"language": "eng",
-"title": "Complete Dedication"
-},
-"arb": {
-"content_id": 702191,
-"language": "arb",
-"title": "التكريس الكامل"
-},
-"fra": {
-"content_id": 708417,
-"language": "fra",
-"title": "Dévouer par interdit"
-},
-"hin": {
-"content_id": 709356,
-"language": "hin",
-"title": "सम्पूर्ण समर्पण "
-},
-"por": {
-"content_id": 800296,
-"language": "por",
-"title": "Dedicação completa"
-},
-"swh": {
-"content_id": 764984,
-"language": "swh",
-"title": "Kujitolea Kikamilifu"
-},
-"zht": {
-"content_id": 700190,
-"language": "zht",
-"title": "完全的獻上"
-}
-}
-},
-"769420": {
-"content_id": 769420,
-"reference_id": 203153,
-"index_reference": "pengrusakan total",
-"localizations": {
-"eng": {
-"content_id": 500210,
-"language": "eng",
-"title": "Complete Destruction"
-},
-"arb": {
-"content_id": 702217,
-"language": "arb",
-"title": "التحريم الكامل"
-},
-"fra": {
-"content_id": 708423,
-"language": "fra",
-"title": "Destruction complète"
-},
-"hin": {
-"content_id": 709382,
-"language": "hin",
-"title": "सम्पूर्ण विनाश "
-},
-"por": {
-"content_id": 800322,
-"language": "por",
-"title": "Destruição completa"
-},
-"swh": {
-"content_id": 765010,
-"language": "swh",
-"title": "Uharibifu Kamili"
-},
-"zht": {
-"content_id": 700216,
-"language": "zht",
-"title": "毀滅淨盡"
-}
-}
-},
 "769554": {
-"content_id": 769554,
+"content_id": "769554",
 "reference_id": 203287,
 "index_reference": "penyembuh yang penuh belas kasihan",
 "localizations": {
@@ -629,6 +578,48 @@
 "content_id": 700350,
 "language": "zht",
 "title": "憐憫的醫治者"
+}
+}
+},
+"769558": {
+"content_id": "769558",
+"reference_id": 203291,
+"index_reference": "iman dan perbuatan baik",
+"localizations": {
+"eng": {
+"content_id": 500348,
+"language": "eng",
+"title": "Faith and Good Deeds"
+},
+"arb": {
+"content_id": 702355,
+"language": "arb",
+"title": "الإيمان والأعمال الصالحة"
+},
+"fra": {
+"content_id": 708447,
+"language": "fra",
+"title": "Foi et bonnes œuvres"
+},
+"hin": {
+"content_id": 709520,
+"language": "hin",
+"title": "विश्वास और अच्छे कर्म"
+},
+"por": {
+"content_id": 800460,
+"language": "por",
+"title": "Fé e boas obras"
+},
+"swh": {
+"content_id": 765148,
+"language": "swh",
+"title": "Imani na Matendo Mema"
+},
+"zht": {
+"content_id": 700354,
+"language": "zht",
+"title": "信心與善行"
 }
 }
 }
