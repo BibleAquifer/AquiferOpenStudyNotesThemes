@@ -2,7 +2,7 @@
   {
     "content_id": "500392",
     "reference_id": 203335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Natural Revelation",
     "media_type": "Text",
     "index_reference": "natural revelation",
@@ -60,13 +60,14 @@
           "end_ref_usfm": "ACT 17:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500248",
     "reference_id": 203191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nehemiah’s Confidence in God",
     "media_type": "Text",
     "index_reference": "nehemiah’s confidence in god",
@@ -304,7 +305,23 @@
           "end_ref_usfm": "PRO 3:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6254,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:LeanOn",
+          "type": "keyterm",
+          "preferred_label": "Trust",
+          "confidence": 0.5528,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

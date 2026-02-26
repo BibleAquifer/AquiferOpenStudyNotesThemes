@@ -2,7 +2,7 @@
   {
     "content_id": "500441",
     "reference_id": 203384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Early Christian Heresies",
     "media_type": "Text",
     "index_reference": "early christian heresies",
@@ -126,13 +126,22 @@
           "end_ref_usfm": "REV 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5245,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500343",
     "reference_id": 203286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eating Together",
     "media_type": "Text",
     "index_reference": "eating together",
@@ -268,13 +277,14 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500383",
     "reference_id": 203326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Empowering Leadership",
     "media_type": "Text",
     "index_reference": "empowering leadership",
@@ -406,13 +416,14 @@
           "label": "Acts 6:2-6",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "500354",
     "reference_id": 203297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Encounters with Jesus",
     "media_type": "Text",
     "index_reference": "encounters with jesus",
@@ -572,13 +583,22 @@
           "end_ref_usfm": "MAT 16:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5646,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500434",
     "reference_id": 203377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Endurance",
     "media_type": "Text",
     "index_reference": "endurance",
@@ -720,13 +740,14 @@
           "end_ref_usfm": "HEB 12:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500287",
     "reference_id": 203230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enjoying God’s Gifts",
     "media_type": "Text",
     "index_reference": "enjoying god’s gifts",
@@ -880,13 +901,22 @@
           "end_ref_usfm": "COL 2:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5476,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500249",
     "reference_id": 203192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ethnic Hatred",
     "media_type": "Text",
     "index_reference": "ethnic hatred",
@@ -1010,7 +1040,8 @@
           "end_ref_usfm": "EST 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

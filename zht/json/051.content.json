@@ -2,7 +2,7 @@
   {
     "content_id": "700350",
     "reference_id": 203287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "憐憫的醫治者",
     "media_type": "Text",
     "index_reference": "憐憫的醫治者",
@@ -252,7 +252,8 @@
           "end_ref_usfm": "LUK 15:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

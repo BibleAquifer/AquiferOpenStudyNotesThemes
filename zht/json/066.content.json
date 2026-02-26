@@ -2,7 +2,7 @@
   {
     "content_id": "700222",
     "reference_id": 203159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "慶賀",
     "media_type": "Text",
     "index_reference": "慶賀",
@@ -282,7 +282,8 @@
           "end_ref_usfm": "LUK 15:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "800403",
     "reference_id": 203234,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temendo pessoas",
     "media_type": "Text",
     "index_reference": "temendo pessoas",
@@ -186,13 +186,14 @@
           "end_ref_usfm": "ISA 51:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800388",
     "reference_id": 203219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temor do Senhor",
     "media_type": "Text",
     "index_reference": "temor do senhor",
@@ -340,13 +341,22 @@
           "end_ref_usfm": "ISA 11:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.7083,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800277",
     "reference_id": 203108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terra Prometida",
     "media_type": "Text",
     "index_reference": "terra prometida",
@@ -488,13 +498,14 @@
           "end_ref_usfm": "1KI 8:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800510",
     "reference_id": 203341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tolerância",
     "media_type": "Text",
     "index_reference": "tolerância",
@@ -606,13 +617,14 @@
           "end_ref_usfm": "COL 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800535",
     "reference_id": 203366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trabalho e patronato",
     "media_type": "Text",
     "index_reference": "trabalho e patronato",
@@ -688,13 +700,14 @@
           "end_ref_usfm": "2TH 3:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800398",
     "reference_id": 203229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tudo é “Ilusão”",
     "media_type": "Text",
     "index_reference": "tudo é “ilusão”",
@@ -788,7 +801,8 @@
           "end_ref_usfm": "JAS 4:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

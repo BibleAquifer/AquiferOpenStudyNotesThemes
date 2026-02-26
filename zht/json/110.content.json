@@ -2,7 +2,7 @@
   {
     "content_id": "700212",
     "reference_id": 203149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "至親買贖者",
     "media_type": "Text",
     "index_reference": "至親買贖者",
@@ -216,13 +216,14 @@
           "end_ref_usfm": "RUT 4:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700283",
     "reference_id": 203220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "智慧",
     "media_type": "Text",
     "index_reference": "智慧",
@@ -394,13 +395,22 @@
           "end_ref_usfm": "JAS 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Wisdom",
+          "type": "person",
+          "preferred_label": "Wisdom",
+          "confidence": 0.8752,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "700270",
     "reference_id": 203207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "智慧詩",
     "media_type": "Text",
     "index_reference": "智慧詩",
@@ -710,13 +720,14 @@
           "end_ref_usfm": "PSA 94:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700287",
     "reference_id": 203224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "智慧文學中的財富與貧窮",
     "media_type": "Text",
     "index_reference": "智慧文學中的財富與貧窮",
@@ -900,7 +911,8 @@
           "end_ref_usfm": "DEU 8:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

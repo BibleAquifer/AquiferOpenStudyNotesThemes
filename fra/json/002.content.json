@@ -2,7 +2,7 @@
   {
     "content_id": "734240",
     "reference_id": 203347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aimer son prochain",
     "media_type": "Text",
     "index_reference": "aimer son prochain",
@@ -180,13 +180,22 @@
           "end_ref_usfm": "1JN 3:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Love",
+          "type": "keyterm",
+          "preferred_label": "aimer",
+          "confidence": 0.7762,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734171",
     "reference_id": 203099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Alliance de Dieu avec Noé",
     "media_type": "Text",
     "index_reference": "alliance de dieu avec noé",
@@ -304,13 +313,22 @@
           "end_ref_usfm": "EZK 14:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "alliance",
+          "confidence": 0.6731,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708454",
     "reference_id": 203334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Anges",
     "media_type": "Text",
     "index_reference": "anges",
@@ -890,13 +908,22 @@
           "end_ref_usfm": "REV 22:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Angels",
+          "type": "group",
+          "preferred_label": "Angels",
+          "confidence": 0.5618,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708460",
     "reference_id": 203373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apostasie",
     "media_type": "Text",
     "index_reference": "apostasie",
@@ -1056,13 +1083,14 @@
           "end_ref_usfm": "ISA 66:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708427",
     "reference_id": 203182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apostasie et restauration",
     "media_type": "Text",
     "index_reference": "apostasie et restauration",
@@ -1222,13 +1250,14 @@
           "end_ref_usfm": "EZK 33:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708455",
     "reference_id": 203343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Appartenir à Christ",
     "media_type": "Text",
     "index_reference": "appartenir à christ",
@@ -1364,13 +1393,22 @@
           "end_ref_usfm": "1CO 7:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jésus",
+          "confidence": 0.5237,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708424",
     "reference_id": 203156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Appeler les morts",
     "media_type": "Text",
     "index_reference": "appeler les morts",
@@ -1500,13 +1538,14 @@
           "end_ref_usfm": "ISA 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708408",
     "reference_id": 203104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Autels",
     "media_type": "Text",
     "index_reference": "autels",
@@ -1702,7 +1741,8 @@
           "end_ref_usfm": "HEB 13:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

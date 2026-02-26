@@ -2,7 +2,7 @@
   {
     "content_id": "702352",
     "reference_id": 203288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يسوع والشيطان",
     "media_type": "Text",
     "index_reference": "يسوع والشيطان",
@@ -222,13 +222,14 @@
           "end_ref_usfm": "2CO 11:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702301",
     "reference_id": 203237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوم الرب",
     "media_type": "Text",
     "index_reference": "يوم الرب",
@@ -460,7 +461,8 @@
           "end_ref_usfm": "ISA 4:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

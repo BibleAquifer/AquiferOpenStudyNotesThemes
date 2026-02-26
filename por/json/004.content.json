@@ -2,7 +2,7 @@
   {
     "content_id": "800269",
     "reference_id": 203100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babel: A dispersão das nações",
     "media_type": "Text",
     "index_reference": "babel: a dispersão das nações",
@@ -72,13 +72,14 @@
           "end_ref_usfm": "ACT 2:47"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800492",
     "reference_id": 203323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Batismo",
     "media_type": "Text",
     "index_reference": "batismo",
@@ -484,13 +485,22 @@
           "end_ref_usfm": "1CO 1:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "batismo",
+          "confidence": 0.8116,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800401",
     "reference_id": 203232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beleza na natureza",
     "media_type": "Text",
     "index_reference": "beleza na natureza",
@@ -590,13 +600,14 @@
           "end_ref_usfm": "MAT 6:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800275",
     "reference_id": 203106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bênção",
     "media_type": "Text",
     "index_reference": "bênção",
@@ -900,13 +911,14 @@
           "end_ref_usfm": "1SA 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800341",
     "reference_id": 203172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Buscando o Senhor",
     "media_type": "Text",
     "index_reference": "buscando o senhor",
@@ -1054,7 +1066,16 @@
           "end_ref_usfm": "MAT 6:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.6532,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

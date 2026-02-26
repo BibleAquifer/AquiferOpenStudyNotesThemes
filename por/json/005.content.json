@@ -2,7 +2,7 @@
   {
     "content_id": "800317",
     "reference_id": 203148,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caos social em Juízes",
     "media_type": "Text",
     "index_reference": "caos social em juízes",
@@ -174,13 +174,14 @@
           "end_ref_usfm": "ROM 1:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800299",
     "reference_id": 203130,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Capacitação espiritual",
     "media_type": "Text",
     "index_reference": "capacitação espiritual",
@@ -478,13 +479,14 @@
           "end_ref_usfm": "PSA 143:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800554",
     "reference_id": 203385,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cartas às sete igrejas",
     "media_type": "Text",
     "index_reference": "cartas às sete igrejas",
@@ -506,13 +508,14 @@
           "end_ref_usfm": "REV 1:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800265",
     "reference_id": 203096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Casamento bíblico",
     "media_type": "Text",
     "index_reference": "casamento bíblico",
@@ -678,13 +681,14 @@
           "end_ref_usfm": "PSA 45:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800390",
     "reference_id": 203221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Casamento e sexualidade",
     "media_type": "Text",
     "index_reference": "casamento e sexualidade",
@@ -808,13 +812,14 @@
           "end_ref_usfm": "MAT 19:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800355",
     "reference_id": 203186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Casamento inter-racial e divórcio",
     "media_type": "Text",
     "index_reference": "casamento inter-racial e divórcio",
@@ -932,13 +937,14 @@
           "end_ref_usfm": "1CO 7:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800328",
     "reference_id": 203159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Celebração",
     "media_type": "Text",
     "index_reference": "celebração",
@@ -1218,13 +1224,14 @@
           "end_ref_usfm": "LUK 15:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800325",
     "reference_id": 203156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chamando os mortos",
     "media_type": "Text",
     "index_reference": "chamando os mortos",
@@ -1354,13 +1361,14 @@
           "end_ref_usfm": "ISA 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800453",
     "reference_id": 203284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cidadania no Reino",
     "media_type": "Text",
     "index_reference": "cidadania no reino",
@@ -1460,13 +1468,22 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "reino",
+          "confidence": 0.676,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800272",
     "reference_id": 203103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Circuncisão",
     "media_type": "Text",
     "index_reference": "circuncisão",
@@ -1758,13 +1775,22 @@
           "end_ref_usfm": "PHP 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Circumcision",
+          "type": "keyterm",
+          "preferred_label": "Circumcision",
+          "confidence": 0.6115,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800499",
     "reference_id": 203330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Circuncisão no Novo Testamento",
     "media_type": "Text",
     "index_reference": "circuncisão no novo testamento",
@@ -2008,13 +2034,22 @@
           "end_ref_usfm": "COL 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Circumcision",
+          "type": "keyterm",
+          "preferred_label": "Circumcision",
+          "confidence": 0.5008,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800283",
     "reference_id": 203114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Códigos de lei antigos",
     "media_type": "Text",
     "index_reference": "códigos de lei antigos",
@@ -2118,13 +2153,14 @@
           "label": "Levítico 1:1-7.38",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "800455",
     "reference_id": 203286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Comendo juntos",
     "media_type": "Text",
     "index_reference": "comendo juntos",
@@ -2260,13 +2296,14 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800369",
     "reference_id": 203200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Compreendendo Jó",
     "media_type": "Text",
     "index_reference": "compreendendo jó",
@@ -2390,13 +2427,22 @@
           "end_ref_usfm": "JOB 36:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Job",
+          "type": "person",
+          "preferred_label": "Jó",
+          "confidence": 0.64,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800447",
     "reference_id": 203278,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Compromisso de Deus com seu povo",
     "media_type": "Text",
     "index_reference": "compromisso de deus com seu povo",
@@ -2514,13 +2560,14 @@
           "end_ref_usfm": "JHN 14:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800354",
     "reference_id": 203185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Conclusão do Segundo Templo",
     "media_type": "Text",
     "index_reference": "conclusão do segundo templo",
@@ -2608,13 +2655,14 @@
           "end_ref_usfm": "ZEC 4:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800404",
     "reference_id": 203235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Confiando em Deus em Isaías",
     "media_type": "Text",
     "index_reference": "confiando em deus em isaías",
@@ -2738,13 +2786,14 @@
           "end_ref_usfm": "ISA 40:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800379",
     "reference_id": 203210,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Confiando em Deus nos Salmos",
     "media_type": "Text",
     "index_reference": "confiando em deus nos salmos",
@@ -3198,13 +3247,14 @@
           "end_ref_usfm": "PSA 40:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800348",
     "reference_id": 203179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Confiando na força humana",
     "media_type": "Text",
     "index_reference": "confiando na força humana",
@@ -3394,13 +3444,14 @@
           "end_ref_usfm": "MAT 10:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800443",
     "reference_id": 203274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Confusão humana e o propósito de Deus",
     "media_type": "Text",
     "index_reference": "confusão humana e o propósito de deus",
@@ -3542,13 +3593,14 @@
           "end_ref_usfm": "HAB 3:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800438",
     "reference_id": 203269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Conhecendo Deus",
     "media_type": "Text",
     "index_reference": "conhecendo deus",
@@ -3714,13 +3766,14 @@
           "end_ref_usfm": "HEB 8:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800366",
     "reference_id": 203197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Conselho de outros",
     "media_type": "Text",
     "index_reference": "conselho de outros",
@@ -3964,13 +4017,14 @@
           "end_ref_usfm": "PRO 15:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800280",
     "reference_id": 203111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Corações endurecidos",
     "media_type": "Text",
     "index_reference": "corações endurecidos",
@@ -4232,13 +4286,14 @@
           "end_ref_usfm": "HEB 3:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800395",
     "reference_id": 203226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Crianças e pais",
     "media_type": "Text",
     "index_reference": "crianças e pais",
@@ -4470,7 +4525,8 @@
           "end_ref_usfm": "PRO 4:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

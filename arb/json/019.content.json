@@ -2,7 +2,7 @@
   {
     "content_id": "702195",
     "reference_id": 203131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القائد الخادم",
     "media_type": "Text",
     "index_reference": "القائد الخادم",
@@ -204,13 +204,14 @@
           "end_ref_usfm": "1KI 12:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702187",
     "reference_id": 203123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القداسة بالعلاقة",
     "media_type": "Text",
     "index_reference": "القداسة بالعلاقة",
@@ -388,13 +389,14 @@
           "end_ref_usfm": "1JN 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702406",
     "reference_id": 203342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القداسة والنقاوة الجنسية",
     "media_type": "Text",
     "index_reference": "القداسة والنقاوة الجنسية",
@@ -590,13 +592,14 @@
           "end_ref_usfm": "COL 3:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702330",
     "reference_id": 203266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القَرْن الصَغِير",
     "media_type": "Text",
     "index_reference": "القَرْن الصَغِير",
@@ -780,13 +783,14 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702162",
     "reference_id": 203098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القصاص",
     "media_type": "Text",
     "index_reference": "القصاص",
@@ -1036,13 +1040,14 @@
           "end_ref_usfm": "ROM 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702282",
     "reference_id": 203218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القلب في المزامير",
     "media_type": "Text",
     "index_reference": "القلب في المزامير",
@@ -1538,13 +1543,14 @@
           "end_ref_usfm": "PSA 62:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702175",
     "reference_id": 203111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القلوب المُتقسّية",
     "media_type": "Text",
     "index_reference": "القلوب المُتقسّية",
@@ -1806,13 +1812,14 @@
           "end_ref_usfm": "HEB 3:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702210",
     "reference_id": 203146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القيادة بالروح القدس",
     "media_type": "Text",
     "index_reference": "القيادة بالروح القدس",
@@ -2014,13 +2021,14 @@
           "end_ref_usfm": "EPH 4:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702332",
     "reference_id": 203268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القيامة في العهد القديم",
     "media_type": "Text",
     "index_reference": "القيامة في العهد القديم",
@@ -2132,13 +2140,14 @@
           "end_ref_usfm": "MAT 27:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702434",
     "reference_id": 203370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قادة الكنيسة",
     "media_type": "Text",
     "index_reference": "قادة الكنيسة",
@@ -2304,13 +2313,14 @@
           "end_ref_usfm": "1TI 5:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702185",
     "reference_id": 203121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قداسة ٱلله المطلقة",
     "media_type": "Text",
     "index_reference": "قداسة ٱلله المطلقة",
@@ -2392,13 +2402,22 @@
           "end_ref_usfm": "1SA 2:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "ٱلرَّبِّ",
+          "confidence": 0.617,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "702445",
     "reference_id": 203381,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قداسة شعب الله",
     "media_type": "Text",
     "index_reference": "قداسة شعب الله",
@@ -2504,13 +2523,14 @@
           "end_ref_usfm": "REV 22:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702302",
     "reference_id": 203238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قدوس إسرائيل",
     "media_type": "Text",
     "index_reference": "قدوس إسرائيل",
@@ -2772,13 +2792,22 @@
           "end_ref_usfm": "JHN 6:69"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Israel",
+          "type": "place",
+          "preferred_label": "Israel",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "702178",
     "reference_id": 203114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قوانين العصور القديمة",
     "media_type": "Text",
     "index_reference": "قوانين العصور القديمة",
@@ -2882,13 +2911,14 @@
           "label": "لاويين 1:1-7: 38",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "702412",
     "reference_id": 203348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قيامة الأموات",
     "media_type": "Text",
     "index_reference": "قيامة الأموات",
@@ -3186,13 +3216,14 @@
           "end_ref_usfm": "REV 22:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702356",
     "reference_id": 203292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قيامة يسوع",
     "media_type": "Text",
     "index_reference": "قيامة يسوع",
@@ -3592,7 +3623,8 @@
           "end_ref_usfm": "REV 20:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

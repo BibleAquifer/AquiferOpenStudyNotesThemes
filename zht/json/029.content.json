@@ -2,7 +2,7 @@
   {
     "content_id": "700392",
     "reference_id": 203329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "好消息",
     "media_type": "Text",
     "index_reference": "好消息",
@@ -324,13 +324,22 @@
           "end_ref_usfm": "1PE 1:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "Good News",
+          "confidence": 0.9133,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "700425",
     "reference_id": 203362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "好消息的奧秘",
     "media_type": "Text",
     "index_reference": "好消息的奧秘",
@@ -442,7 +451,8 @@
           "end_ref_usfm": "COL 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "800532",
     "reference_id": 203363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Legalismo",
     "media_type": "Text",
     "index_reference": "legalismo",
@@ -54,13 +54,14 @@
           "end_ref_usfm": "MRK 7:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800432",
     "reference_id": 203263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Legislação do templo como Teologia",
     "media_type": "Text",
     "index_reference": "legislação do templo como teologia",
@@ -124,13 +125,14 @@
           "end_ref_usfm": "EZK 46:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800303",
     "reference_id": 203134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lei bíblica",
     "media_type": "Text",
     "index_reference": "lei bíblica",
@@ -314,13 +316,22 @@
           "end_ref_usfm": "GAL 3:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Law",
+          "type": "keyterm",
+          "preferred_label": "lei",
+          "confidence": 0.6689,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800414",
     "reference_id": 203245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Leis básicas",
     "media_type": "Text",
     "index_reference": "leis básicas",
@@ -474,13 +485,14 @@
           "end_ref_usfm": "MRK 12:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800400",
     "reference_id": 203231,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lembre-se dele",
     "media_type": "Text",
     "index_reference": "lembre-se dele",
@@ -532,13 +544,14 @@
           "end_ref_usfm": "1CO 3:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800358",
     "reference_id": 203189,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lidando com conflito",
     "media_type": "Text",
     "index_reference": "lidando com conflito",
@@ -854,13 +867,14 @@
           "end_ref_usfm": "2TI 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800315",
     "reference_id": 203146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Liderança carismática",
     "media_type": "Text",
     "index_reference": "liderança carismática",
@@ -1062,13 +1076,14 @@
           "end_ref_usfm": "EPH 4:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800495",
     "reference_id": 203326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Liderança que capacita",
     "media_type": "Text",
     "index_reference": "liderança que capacita",
@@ -1200,13 +1215,14 @@
           "label": "Atos 6.2-6",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "800539",
     "reference_id": 203370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Líderes da Igreja",
     "media_type": "Text",
     "index_reference": "líderes da igreja",
@@ -1372,13 +1388,14 @@
           "end_ref_usfm": "1TI 5:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800291",
     "reference_id": 203122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Limpo, impuro e sagrado",
     "media_type": "Text",
     "index_reference": "limpo, impuro e sagrado",
@@ -1550,13 +1567,22 @@
           "end_ref_usfm": "ACT 10:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Clean",
+          "type": "keyterm",
+          "preferred_label": "limpo",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800430",
     "reference_id": 203261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Literatura apocalíptica",
     "media_type": "Text",
     "index_reference": "literatura apocalíptica",
@@ -1596,13 +1622,14 @@
           "end_ref_usfm": "ISA 27:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800469",
     "reference_id": 203300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Louvor e júbilo em Lucas–Atos",
     "media_type": "Text",
     "index_reference": "louvor e júbilo em lucas–atos",
@@ -1786,7 +1813,8 @@
           "end_ref_usfm": "LUK 24:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "702453",
     "reference_id": 203389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الغرض من أحكام الله (الدينونة)",
     "media_type": "Text",
     "index_reference": "الغرض من أحكام الله (الدينونة)",
@@ -288,13 +288,14 @@
           "end_ref_usfm": "ROM 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702177",
     "reference_id": 203113,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الغرض من عهد سيناء",
     "media_type": "Text",
     "index_reference": "الغرض من عهد سيناء",
@@ -376,13 +377,14 @@
           "end_ref_usfm": "ROM 8:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702159",
     "reference_id": 203095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الغَرِيزَة الجِنْسِيَّة للإنسان",
     "media_type": "Text",
     "index_reference": "الغَرِيزَة الجِنْسِيَّة للإنسان",
@@ -580,13 +582,14 @@
           "label": "تكوين 4: 1",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "702287",
     "reference_id": 203223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الغضب",
     "media_type": "Text",
     "index_reference": "الغضب",
@@ -836,13 +839,14 @@
           "end_ref_usfm": "NAM 1:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702422",
     "reference_id": 203358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الغلبة على إبليس",
     "media_type": "Text",
     "index_reference": "الغلبة على إبليس",
@@ -1038,13 +1042,14 @@
           "end_ref_usfm": "REV 12:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702288",
     "reference_id": 203224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الغِنَى والفقر في أدب الحكمة",
     "media_type": "Text",
     "index_reference": "الغِنَى والفقر في أدب الحكمة",
@@ -1228,13 +1233,14 @@
           "end_ref_usfm": "DEU 8:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702310",
     "reference_id": 203246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غزو",
     "media_type": "Text",
     "index_reference": "غزو",
@@ -1292,13 +1298,14 @@
           "end_ref_usfm": "JER 19:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702276",
     "reference_id": 203212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غضب الله",
     "media_type": "Text",
     "index_reference": "غضب الله",
@@ -1602,7 +1609,8 @@
           "end_ref_usfm": "ROM 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

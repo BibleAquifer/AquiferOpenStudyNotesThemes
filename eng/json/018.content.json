@@ -2,7 +2,7 @@
   {
     "content_id": "500265",
     "reference_id": 203208,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Questions and Doubt",
     "media_type": "Text",
     "index_reference": "questions and doubt",
@@ -300,7 +300,8 @@
           "end_ref_usfm": "PSA 108:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

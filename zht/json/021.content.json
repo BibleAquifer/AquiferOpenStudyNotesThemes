@@ -2,7 +2,7 @@
   {
     "content_id": "700174",
     "reference_id": 203111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "剛硬的心",
     "media_type": "Text",
     "index_reference": "剛硬的心",
@@ -264,7 +264,8 @@
           "end_ref_usfm": "HEB 3:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700267",
     "reference_id": 203204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "苦難詩篇",
     "media_type": "Text",
     "index_reference": "苦難詩篇",
@@ -150,7 +150,8 @@
           "end_ref_usfm": "PSA 69:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

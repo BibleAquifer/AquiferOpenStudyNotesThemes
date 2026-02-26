@@ -2,7 +2,7 @@
   {
     "content_id": "764993",
     "reference_id": 203136,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ondoa Uovu",
     "media_type": "Text",
     "index_reference": "ondoa uovu",
@@ -174,7 +174,8 @@
           "end_ref_usfm": "ISA 1:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

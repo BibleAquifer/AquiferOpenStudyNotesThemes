@@ -2,7 +2,7 @@
   {
     "content_id": "765160",
     "reference_id": 203303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nabii Aliyeteseka",
     "media_type": "Text",
     "index_reference": "nabii aliyeteseka",
@@ -168,13 +168,14 @@
           "end_ref_usfm": "LUK 24:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765007",
     "reference_id": 203150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nadhiri kwa Mungu",
     "media_type": "Text",
     "index_reference": "nadhiri kwa mungu",
@@ -340,13 +341,14 @@
           "end_ref_usfm": "1SA 14:45"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765210",
     "reference_id": 203353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nafasi ya Paulo na Mtume",
     "media_type": "Text",
     "index_reference": "nafasi ya paulo na mtume",
@@ -572,13 +574,14 @@
           "end_ref_usfm": "1TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764965",
     "reference_id": 203108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nchi ya Ahadi",
     "media_type": "Text",
     "index_reference": "nchi ya ahadi",
@@ -720,13 +723,14 @@
           "end_ref_usfm": "1KI 8:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765078",
     "reference_id": 203221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ndoa na Ngono",
     "media_type": "Text",
     "index_reference": "ndoa na ngono",
@@ -850,13 +854,14 @@
           "end_ref_usfm": "MAT 19:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764953",
     "reference_id": 203096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ndoa ya Kibiblia",
     "media_type": "Text",
     "index_reference": "ndoa ya kibiblia",
@@ -1022,13 +1027,14 @@
           "end_ref_usfm": "PSA 45:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765043",
     "reference_id": 203186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ndoa za mseto na Talaka",
     "media_type": "Text",
     "index_reference": "ndoa za mseto na talaka",
@@ -1146,13 +1152,14 @@
           "end_ref_usfm": "1CO 7:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765189",
     "reference_id": 203332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neema ya Mungu",
     "media_type": "Text",
     "index_reference": "neema ya mungu",
@@ -1456,13 +1463,14 @@
           "end_ref_usfm": "1PE 5:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765166",
     "reference_id": 203309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neno",
     "media_type": "Text",
     "index_reference": "neno",
@@ -1532,13 +1540,14 @@
           "end_ref_usfm": "GEN 1:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765232",
     "reference_id": 203375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neno la Mungu",
     "media_type": "Text",
     "index_reference": "neno la mungu",
@@ -1740,13 +1749,22 @@
           "end_ref_usfm": "JHN 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "765047",
     "reference_id": 203190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neno la Mungu katika Kiini",
     "media_type": "Text",
     "index_reference": "neno la mungu katika kiini",
@@ -1924,13 +1942,14 @@
           "end_ref_usfm": "MAT 13:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765111",
     "reference_id": 203254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neno Lililoandikwa",
     "media_type": "Text",
     "index_reference": "neno lililoandikwa",
@@ -2192,13 +2211,14 @@
           "end_ref_usfm": "1JN 2:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765130",
     "reference_id": 203273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nini Kizuri",
     "media_type": "Text",
     "index_reference": "nini kizuri",
@@ -2448,13 +2468,14 @@
           "end_ref_usfm": "DEU 16:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764966",
     "reference_id": 203109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Njaa",
     "media_type": "Text",
     "index_reference": "njaa",
@@ -2770,13 +2791,14 @@
           "end_ref_usfm": "ACT 11:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764989",
     "reference_id": 203132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nyoka ya Shaba",
     "media_type": "Text",
     "index_reference": "nyoka ya shaba",
@@ -2870,7 +2892,8 @@
           "end_ref_usfm": "JHN 12:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

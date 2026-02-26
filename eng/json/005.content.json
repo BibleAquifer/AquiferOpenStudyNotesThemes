@@ -2,7 +2,7 @@
   {
     "content_id": "500272",
     "reference_id": 203215,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Darkness and Light",
     "media_type": "Text",
     "index_reference": "darkness and light",
@@ -690,13 +690,14 @@
           "end_ref_usfm": "1JN 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500215",
     "reference_id": 203158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "David's Response to Unfriendly Leaders",
     "media_type": "Text",
     "index_reference": "david's response to unfriendly leaders",
@@ -898,13 +899,22 @@
           "end_ref_usfm": "JER 36:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 0.7478,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500246",
     "reference_id": 203189,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dealing with Conflict",
     "media_type": "Text",
     "index_reference": "dealing with conflict",
@@ -1220,13 +1230,14 @@
           "end_ref_usfm": "2TI 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500164",
     "reference_id": 203107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Death",
     "media_type": "Text",
     "index_reference": "death",
@@ -1506,13 +1517,14 @@
           "end_ref_usfm": "REV 21:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500315",
     "reference_id": 203258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Divine Sovereignty and Human Responsibility",
     "media_type": "Text",
     "index_reference": "divine sovereignty and human responsibility",
@@ -1708,7 +1720,16 @@
           "end_ref_usfm": "JAS 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "Divine",
+          "confidence": 0.6032,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "709602",
     "reference_id": 203373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "धर्मत्याग",
     "media_type": "Text",
     "index_reference": "धर्मत्याग",
@@ -162,13 +162,14 @@
           "end_ref_usfm": "ISA 66:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709411",
     "reference_id": 203182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "धर्मत्याग और नवीनीकरण",
     "media_type": "Text",
     "index_reference": "धर्मत्याग और नवीनीकरण",
@@ -328,13 +329,14 @@
           "end_ref_usfm": "EZK 33:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709376",
     "reference_id": 203147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "धर्मत्याग पर परमेश्वर का शोक",
     "media_type": "Text",
     "index_reference": "धर्मत्याग पर परमेश्वर का शोक",
@@ -440,13 +442,14 @@
           "end_ref_usfm": "2CO 5:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709492",
     "reference_id": 203263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "धर्मविज्ञान के रूप में मन्दिर विधान",
     "media_type": "Text",
     "index_reference": "धर्मविज्ञान के रूप में मन्दिर विधान",
@@ -510,13 +513,14 @@
           "end_ref_usfm": "EZK 46:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709493",
     "reference_id": 203264,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "धर्मशास्त्र के रूप में इस्राएल का भूगोल",
     "media_type": "Text",
     "index_reference": "धर्मशास्त्र के रूप में इस्राएल का भूगोल",
@@ -562,13 +566,29 @@
           "end_ref_usfm": "EZK 48:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Tamar.2",
+          "type": "place",
+          "preferred_label": "तामार",
+          "confidence": 0.6026,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sibraim",
+          "type": "place",
+          "preferred_label": "सिब्रैम",
+          "confidence": 0.5248,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709425",
     "reference_id": 203196,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "धर्मी का दुःख",
     "media_type": "Text",
     "index_reference": "धर्मी का दुःख",
@@ -776,13 +796,22 @@
           "end_ref_usfm": "1PE 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Micah.6",
+          "type": "person",
+          "preferred_label": "मीका",
+          "confidence": 0.6013,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709462",
     "reference_id": 203233,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "धार्मिक पाखंड",
     "media_type": "Text",
     "index_reference": "धार्मिक पाखंड",
@@ -948,13 +977,14 @@
           "end_ref_usfm": "JAS 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709606",
     "reference_id": 203377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "धीरज",
     "media_type": "Text",
     "index_reference": "धीरज",
@@ -1096,7 +1126,8 @@
           "end_ref_usfm": "HEB 12:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

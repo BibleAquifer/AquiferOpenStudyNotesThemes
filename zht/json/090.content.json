@@ -2,7 +2,7 @@
   {
     "content_id": "700176",
     "reference_id": 203113,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "西奈山盟約的目的",
     "media_type": "Text",
     "index_reference": "西奈山盟約的目的",
@@ -84,13 +84,14 @@
           "end_ref_usfm": "ROM 8:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700272",
     "reference_id": 203209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "錫安",
     "media_type": "Text",
     "index_reference": "錫安",
@@ -628,13 +629,14 @@
           "end_ref_usfm": "ZEC 8:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700386",
     "reference_id": 203323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "洗禮",
     "media_type": "Text",
     "index_reference": "洗禮",
@@ -1040,13 +1042,14 @@
           "end_ref_usfm": "1CO 1:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700450",
     "reference_id": 203387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "戲劇與啟示錄",
     "media_type": "Text",
     "index_reference": "戲劇與啟示錄",
@@ -1092,7 +1095,8 @@
           "end_ref_usfm": "REV 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

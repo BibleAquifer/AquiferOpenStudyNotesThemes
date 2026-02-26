@@ -2,7 +2,7 @@
   {
     "content_id": "702296",
     "reference_id": 203232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جمال الطبيعة",
     "media_type": "Text",
     "index_reference": "جمال الطبيعة",
@@ -102,7 +102,8 @@
           "end_ref_usfm": "MAT 6:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

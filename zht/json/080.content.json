@@ -2,7 +2,7 @@
   {
     "content_id": "700204",
     "reference_id": 203141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "逃城",
     "media_type": "Text",
     "index_reference": "逃城",
@@ -120,7 +120,8 @@
           "end_ref_usfm": "HEB 10:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "500368",
     "reference_id": 203311,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "“Belief” in the Gospel of John",
     "media_type": "Text",
     "index_reference": "“belief” in the gospel of john",
@@ -198,13 +198,22 @@
           "end_ref_usfm": "JHN 20:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "Believe",
+          "confidence": 0.5613,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500422",
     "reference_id": 203365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "“He Will Come”",
     "media_type": "Text",
     "index_reference": "“he will come”",
@@ -310,13 +319,14 @@
           "end_ref_usfm": "2TH 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500373",
     "reference_id": 203316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "“I Am” Sayings of Jesus",
     "media_type": "Text",
     "index_reference": "“i am” sayings of jesus",
@@ -488,7 +498,16 @@
           "end_ref_usfm": "JHN 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

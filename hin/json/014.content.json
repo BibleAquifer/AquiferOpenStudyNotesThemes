@@ -2,7 +2,7 @@
   {
     "content_id": "709478",
     "reference_id": 203249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जातियों के प्रभु",
     "media_type": "Text",
     "index_reference": "जातियों के प्रभु",
@@ -102,13 +102,14 @@
           "end_ref_usfm": "DAN 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709488",
     "reference_id": 203259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जातियों के विरुद्ध सन्देश",
     "media_type": "Text",
     "index_reference": "जातियों के विरुद्ध सन्देश",
@@ -238,13 +239,43 @@
           "end_ref_usfm": "ROM 2:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Kir",
+          "type": "place",
+          "preferred_label": "कीर",
+          "confidence": 0.6038,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Kedar",
+          "type": "person",
+          "preferred_label": "केदार",
+          "confidence": 0.6022,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jazer",
+          "type": "place",
+          "preferred_label": "याजेर",
+          "confidence": 0.6016,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Kiriathaim",
+          "type": "place",
+          "preferred_label": "किर्यातैम",
+          "confidence": 0.5493,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709421",
     "reference_id": 203192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जातीय घृणा",
     "media_type": "Text",
     "index_reference": "जातीय घृणा",
@@ -368,13 +399,14 @@
           "end_ref_usfm": "EST 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709541",
     "reference_id": 203312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जीवन जल",
     "media_type": "Text",
     "index_reference": "जीवन जल",
@@ -456,13 +488,14 @@
           "end_ref_usfm": "JAS 3:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709479",
     "reference_id": 203250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जीवन या मृत्यु का चुनाव",
     "media_type": "Text",
     "index_reference": "जीवन या मृत्यु का चुनाव",
@@ -634,7 +667,8 @@
           "end_ref_usfm": "JER 27:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

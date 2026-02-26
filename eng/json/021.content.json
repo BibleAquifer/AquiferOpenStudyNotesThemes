@@ -2,7 +2,7 @@
   {
     "content_id": "500319",
     "reference_id": 203262,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temple Design as a Picture of God's Truth",
     "media_type": "Text",
     "index_reference": "temple design as a picture of god's truth",
@@ -108,13 +108,36 @@
           "end_ref_usfm": "HEB 10:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:HolyPlace",
+          "type": "place",
+          "preferred_label": "Holy Place",
+          "confidence": 0.6082,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Truth",
+          "type": "keyterm",
+          "preferred_label": "Truth",
+          "confidence": 0.6005,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5291,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500320",
     "reference_id": 203263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temple Legislation as Theology",
     "media_type": "Text",
     "index_reference": "temple legislation as theology",
@@ -178,13 +201,22 @@
           "end_ref_usfm": "EZK 46:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.5075,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500231",
     "reference_id": 203174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temple Worship",
     "media_type": "Text",
     "index_reference": "temple worship",
@@ -368,13 +400,22 @@
           "end_ref_usfm": "EZK 8:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.567,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500447",
     "reference_id": 203390,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Antichrist",
     "media_type": "Text",
     "index_reference": "the antichrist",
@@ -446,13 +487,14 @@
           "label": "Revelation 17:8",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "500208",
     "reference_id": 203151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Ark of the Covenant",
     "media_type": "Text",
     "index_reference": "the ark of the covenant",
@@ -606,13 +648,29 @@
           "end_ref_usfm": "2MA 2:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:ArkOfTheCovenant",
+          "type": "realia",
+          "preferred_label": "Ark of the Covenant",
+          "confidence": 0.7477,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:CovenantBox",
+          "type": "keyterm",
+          "preferred_label": "Covenant Box",
+          "confidence": 0.7436,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500378",
     "reference_id": 203321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Ascension of Jesus",
     "media_type": "Text",
     "index_reference": "the ascension of jesus",
@@ -814,13 +872,22 @@
           "end_ref_usfm": "ACT 7:56"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5529,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500358",
     "reference_id": 203301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Birth of Christ",
     "media_type": "Text",
     "index_reference": "the birth of christ",
@@ -848,13 +915,22 @@
           "end_ref_usfm": "LUK 2:40"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.6625,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500339",
     "reference_id": 203282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Blessings of Jesus",
     "media_type": "Text",
     "index_reference": "the blessings of jesus",
@@ -978,13 +1054,22 @@
           "end_ref_usfm": "PSA 1:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.6226,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500301",
     "reference_id": 203244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Broken Covenant",
     "media_type": "Text",
     "index_reference": "the broken covenant",
@@ -1108,13 +1193,29 @@
           "end_ref_usfm": "HOS 5:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 0.6205,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:CovenantBox",
+          "type": "keyterm",
+          "preferred_label": "Covenant Box",
+          "confidence": 0.5119,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500189",
     "reference_id": 203132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Bronze Snake",
     "media_type": "Text",
     "index_reference": "the bronze snake",
@@ -1208,13 +1309,14 @@
           "end_ref_usfm": "JHN 12:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500192",
     "reference_id": 203135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Central Sanctuary",
     "media_type": "Text",
     "index_reference": "the central sanctuary",
@@ -1392,13 +1494,29 @@
           "end_ref_usfm": "EXO 25:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Tabernacle",
+          "type": "realia",
+          "preferred_label": "Tabernacle",
+          "confidence": 0.624,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Temple",
+          "type": "realia",
+          "preferred_label": "Temple",
+          "confidence": 0.522,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500307",
     "reference_id": 203250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Choice of Life or Death",
     "media_type": "Text",
     "index_reference": "the choice of life or death",
@@ -1570,13 +1688,22 @@
           "end_ref_usfm": "JER 27:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Life",
+          "type": "keyterm",
+          "preferred_label": "Life",
+          "confidence": 0.6146,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500417",
     "reference_id": 203360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Christ Hymn: Christ’s Divine Nature",
     "media_type": "Text",
     "index_reference": "the christ hymn: christ’s divine nature",
@@ -1754,13 +1881,22 @@
           "end_ref_usfm": "HEB 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "Divine",
+          "confidence": 0.6052,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500413",
     "reference_id": 203356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Church",
     "media_type": "Text",
     "index_reference": "the church",
@@ -2106,13 +2242,22 @@
           "end_ref_usfm": "EPH 5:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 0.6566,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500403",
     "reference_id": 203346,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Church as a Living, Active Body",
     "media_type": "Text",
     "index_reference": "the church as a living, active body",
@@ -2218,13 +2363,22 @@
           "end_ref_usfm": "1CO 12:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Body.3",
+          "type": "keyterm",
+          "preferred_label": "Body",
+          "confidence": 0.5943,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500408",
     "reference_id": 203351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Church as God’s Temple",
     "media_type": "Text",
     "index_reference": "the church as god’s temple",
@@ -2468,13 +2622,29 @@
           "end_ref_usfm": "1PE 2:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5492,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.5287,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500198",
     "reference_id": 203141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Cities of Refuge",
     "media_type": "Text",
     "index_reference": "the cities of refuge",
@@ -2592,13 +2762,22 @@
           "end_ref_usfm": "HEB 10:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Refuge",
+          "type": "keyterm",
+          "preferred_label": "Refuge",
+          "confidence": 0.6367,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500364",
     "reference_id": 203307,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Climax of Scripture",
     "media_type": "Text",
     "index_reference": "the climax of scripture",
@@ -2692,13 +2871,14 @@
           "end_ref_usfm": "LUK 24:49"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500190",
     "reference_id": 203133,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Cloud and Fire",
     "media_type": "Text",
     "index_reference": "the cloud and fire",
@@ -3020,13 +3200,14 @@
           "end_ref_usfm": "REV 14:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500308",
     "reference_id": 203251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Collapse of Culture",
     "media_type": "Text",
     "index_reference": "the collapse of culture",
@@ -3156,13 +3337,14 @@
           "end_ref_usfm": "JER 28:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500350",
     "reference_id": 203293,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Coming of God’s Kingdom",
     "media_type": "Text",
     "index_reference": "the coming of god’s kingdom",
@@ -3484,13 +3666,29 @@
           "end_ref_usfm": "1CO 15:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "Kingdom",
+          "confidence": 0.637,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5399,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500437",
     "reference_id": 203380,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Coming of the Lord as Judge",
     "media_type": "Text",
     "index_reference": "the coming of the lord as judge",
@@ -3728,13 +3926,22 @@
           "end_ref_usfm": "JHN 5:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5628,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500365",
     "reference_id": 203308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Coming of the Spirit of God",
     "media_type": "Text",
     "index_reference": "the coming of the spirit of god",
@@ -3882,13 +4089,29 @@
           "end_ref_usfm": "LUK 2:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.74,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.61,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500151",
     "reference_id": 203094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Creation",
     "media_type": "Text",
     "index_reference": "the creation",
@@ -4030,13 +4253,14 @@
           "end_ref_usfm": "JER 10:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500271",
     "reference_id": 203214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Creator-King",
     "media_type": "Text",
     "index_reference": "the creator-king",
@@ -4220,13 +4444,14 @@
           "end_ref_usfm": "ISA 40:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500376",
     "reference_id": 203319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Cross and Passover",
     "media_type": "Text",
     "index_reference": "the cross and passover",
@@ -4416,13 +4641,29 @@
           "end_ref_usfm": "JHN 19:36"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Passover",
+          "type": "keyterm",
+          "preferred_label": "Passover",
+          "confidence": 0.6551,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Cross",
+          "type": "realia",
+          "preferred_label": "Cross",
+          "confidence": 0.613,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500227",
     "reference_id": 203170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Dangers of Sin",
     "media_type": "Text",
     "index_reference": "the dangers of sin",
@@ -4936,13 +5177,14 @@
           "end_ref_usfm": "JER 44:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500355",
     "reference_id": 203298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Day Is Coming",
     "media_type": "Text",
     "index_reference": "the day is coming",
@@ -5494,13 +5736,14 @@
           "label": "Mark",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "500294",
     "reference_id": 203237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Day of the Lord",
     "media_type": "Text",
     "index_reference": "the day of the lord",
@@ -5732,13 +5975,29 @@
           "end_ref_usfm": "ISA 4:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5981,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WorldOfTheDead",
+          "type": "keyterm",
+          "preferred_label": "World of the Dead",
+          "confidence": 0.5194,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500169",
     "reference_id": 203112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Exodus as History",
     "media_type": "Text",
     "index_reference": "the exodus as history",
@@ -5772,13 +6031,14 @@
           "end_ref_usfm": "ACT 7:56"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500206",
     "reference_id": 203149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Family Redeemer",
     "media_type": "Text",
     "index_reference": "the family redeemer",
@@ -5992,13 +6252,14 @@
           "end_ref_usfm": "RUT 4:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500390",
     "reference_id": 203333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Gift of Prophecy",
     "media_type": "Text",
     "index_reference": "the gift of prophecy",
@@ -6284,13 +6545,14 @@
           "end_ref_usfm": "EZK 13:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500172",
     "reference_id": 203115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Glory of God",
     "media_type": "Text",
     "index_reference": "the glory of god",
@@ -6552,13 +6814,29 @@
           "end_ref_usfm": "ISA 6:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Glory",
+          "type": "keyterm",
+          "preferred_label": "Glory",
+          "confidence": 0.8051,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.7269,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500386",
     "reference_id": 203329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Good News Message",
     "media_type": "Text",
     "index_reference": "the good news message",
@@ -6880,13 +7158,29 @@
           "end_ref_usfm": "1PE 1:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "Good News",
+          "confidence": 0.6533,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Word",
+          "type": "keyterm",
+          "preferred_label": "Word",
+          "confidence": 0.6083,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500389",
     "reference_id": 203332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Grace of God",
     "media_type": "Text",
     "index_reference": "the grace of god",
@@ -7190,13 +7484,36 @@
           "end_ref_usfm": "1PE 5:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Favor",
+          "type": "keyterm",
+          "preferred_label": "Favor",
+          "confidence": 0.7524,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6214,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Kindness",
+          "type": "keyterm",
+          "preferred_label": "Kindness",
+          "confidence": 0.6152,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500381",
     "reference_id": 203324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Growth of the Church",
     "media_type": "Text",
     "index_reference": "the growth of the church",
@@ -7452,13 +7769,14 @@
           "end_ref_usfm": "ACT 1:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500275",
     "reference_id": 203218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Heart in the Psalms",
     "media_type": "Text",
     "index_reference": "the heart in the psalms",
@@ -7954,13 +8272,14 @@
           "end_ref_usfm": "PSA 62:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500438",
     "reference_id": 203381,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Holiness of God’s People",
     "media_type": "Text",
     "index_reference": "the holiness of god’s people",
@@ -8066,13 +8385,22 @@
           "end_ref_usfm": "REV 22:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5919,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500295",
     "reference_id": 203238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Holy One of Israel",
     "media_type": "Text",
     "index_reference": "the holy one of israel",
@@ -8334,13 +8662,29 @@
           "end_ref_usfm": "JHN 6:69"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "Holy",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500379",
     "reference_id": 203322,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Holy Spirit’s Presence",
     "media_type": "Text",
     "index_reference": "the holy spirit’s presence",
@@ -8632,13 +8976,22 @@
           "end_ref_usfm": "ACT 10:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.6885,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500402",
     "reference_id": 203345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Holy Spirit’s Work",
     "media_type": "Text",
     "index_reference": "the holy spirit’s work",
@@ -8984,13 +9337,29 @@
           "end_ref_usfm": "1CO 14:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.7457,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Spirit.2",
+          "type": "keyterm",
+          "preferred_label": "Spirit",
+          "confidence": 0.6239,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500425",
     "reference_id": 203368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Household",
     "media_type": "Text",
     "index_reference": "the household",
@@ -9084,13 +9453,14 @@
           "end_ref_usfm": "1PE 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500223",
     "reference_id": 203166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Land",
     "media_type": "Text",
     "index_reference": "the land",
@@ -9310,13 +9680,14 @@
           "end_ref_usfm": "MAT 26:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500421",
     "reference_id": 203364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Last Things and the Thessalonians",
     "media_type": "Text",
     "index_reference": "the last things and the thessalonians",
@@ -9386,13 +9757,14 @@
           "end_ref_usfm": "1TH 5:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500412",
     "reference_id": 203355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Law and the Spirit",
     "media_type": "Text",
     "index_reference": "the law and the spirit",
@@ -9510,13 +9882,36 @@
           "end_ref_usfm": "HEB 12:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Law",
+          "type": "keyterm",
+          "preferred_label": "Law",
+          "confidence": 0.6962,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Spirit.2",
+          "type": "keyterm",
+          "preferred_label": "Spirit",
+          "confidence": 0.6154,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.5423,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500395",
     "reference_id": 203338,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Limitations of Law",
     "media_type": "Text",
     "index_reference": "the limitations of law",
@@ -9796,13 +10191,22 @@
           "end_ref_usfm": "HEB 10:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Law",
+          "type": "keyterm",
+          "preferred_label": "Law",
+          "confidence": 0.7346,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500323",
     "reference_id": 203266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Little Horn",
     "media_type": "Text",
     "index_reference": "the little horn",
@@ -9986,13 +10390,14 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500306",
     "reference_id": 203249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Lord of Nations",
     "media_type": "Text",
     "index_reference": "the lord of nations",
@@ -10092,13 +10497,22 @@
           "end_ref_usfm": "DAN 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6219,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500407",
     "reference_id": 203350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Message of Reconciliation",
     "media_type": "Text",
     "index_reference": "the message of reconciliation",
@@ -10240,13 +10654,14 @@
           "end_ref_usfm": "COL 1:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500346",
     "reference_id": 203289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Messiah",
     "media_type": "Text",
     "index_reference": "the messiah",
@@ -10496,13 +10911,22 @@
           "end_ref_usfm": "ACT 28:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.7121,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500362",
     "reference_id": 203305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Messianic Banquet",
     "media_type": "Text",
     "index_reference": "the messianic banquet",
@@ -10644,13 +11068,14 @@
           "end_ref_usfm": "LUK 14:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500419",
     "reference_id": 203362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Mystery of the Good News",
     "media_type": "Text",
     "index_reference": "the mystery of the good news",
@@ -10762,13 +11187,14 @@
           "end_ref_usfm": "COL 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500439",
     "reference_id": 203382,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The New Community",
     "media_type": "Text",
     "index_reference": "the new community",
@@ -10904,13 +11330,14 @@
           "end_ref_usfm": "REV 21:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500310",
     "reference_id": 203253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The New Covenant",
     "media_type": "Text",
     "index_reference": "the new covenant",
@@ -11076,13 +11503,29 @@
           "end_ref_usfm": "HEB 9:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 0.6351,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:ArkOfTheCovenant",
+          "type": "realia",
+          "preferred_label": "Ark of the Covenant",
+          "confidence": 0.5385,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500300",
     "reference_id": 203243,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The New Order",
     "media_type": "Text",
     "index_reference": "the new order",
@@ -11260,13 +11703,14 @@
           "end_ref_usfm": "2CO 3:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500414",
     "reference_id": 203357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Old Life and the New Life",
     "media_type": "Text",
     "index_reference": "the old life and the new life",
@@ -11342,13 +11786,14 @@
           "end_ref_usfm": "PHP 3:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500394",
     "reference_id": 203337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Old Realm and the New",
     "media_type": "Text",
     "index_reference": "the old realm and the new",
@@ -11592,13 +12037,14 @@
           "end_ref_usfm": "EPH 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500174",
     "reference_id": 203117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Passover",
     "media_type": "Text",
     "index_reference": "the passover",
@@ -11710,13 +12156,22 @@
           "end_ref_usfm": "DEU 16:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Passover",
+          "type": "keyterm",
+          "preferred_label": "Passover",
+          "confidence": 0.6828,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500173",
     "reference_id": 203116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Plagues",
     "media_type": "Text",
     "index_reference": "the plagues",
@@ -11900,13 +12355,14 @@
           "end_ref_usfm": "NUM 16:50"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500259",
     "reference_id": 203202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Poor and Needy in the Psalms",
     "media_type": "Text",
     "index_reference": "the poor and needy in the psalms",
@@ -12204,13 +12660,22 @@
           "end_ref_usfm": "PSA 82:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Poor",
+          "type": "keyterm",
+          "preferred_label": "Poor",
+          "confidence": 0.613,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500185",
     "reference_id": 203128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Priestly Blessing",
     "media_type": "Text",
     "index_reference": "the priestly blessing",
@@ -12450,13 +12915,14 @@
           "label": "Exodus 3:15",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "500298",
     "reference_id": 203241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Promise of a Second Exodus",
     "media_type": "Text",
     "index_reference": "the promise of a second exodus",
@@ -12646,13 +13112,14 @@
           "end_ref_usfm": "HEB 13:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500230",
     "reference_id": 203173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Promise of Dynasty",
     "media_type": "Text",
     "index_reference": "the promise of dynasty",
@@ -12758,13 +13225,14 @@
           "end_ref_usfm": "1CH 28:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500317",
     "reference_id": 203260,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Promise of New Life",
     "media_type": "Text",
     "index_reference": "the promise of new life",
@@ -12900,13 +13368,14 @@
           "end_ref_usfm": "EPH 6:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500446",
     "reference_id": 203389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Purpose of the Judgments",
     "media_type": "Text",
     "index_reference": "the purpose of the judgments",
@@ -13192,13 +13661,14 @@
           "end_ref_usfm": "ROM 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500170",
     "reference_id": 203113,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Purpose of the Sinai Covenant",
     "media_type": "Text",
     "index_reference": "the purpose of the sinai covenant",
@@ -13280,13 +13750,14 @@
           "end_ref_usfm": "ROM 8:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500293",
     "reference_id": 203236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Remnant",
     "media_type": "Text",
     "index_reference": "the remnant",
@@ -13500,13 +13971,14 @@
           "end_ref_usfm": "MIC 5:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500349",
     "reference_id": 203292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Resurrection of Jesus",
     "media_type": "Text",
     "index_reference": "the resurrection of jesus",
@@ -13906,13 +14378,29 @@
           "end_ref_usfm": "REV 20:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "Resurrection",
+          "confidence": 0.7384,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5941,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500405",
     "reference_id": 203348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Resurrection of the Dead",
     "media_type": "Text",
     "index_reference": "the resurrection of the dead",
@@ -14210,13 +14698,29 @@
           "end_ref_usfm": "REV 22:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "Resurrection",
+          "confidence": 0.694,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WorldOfTheDead",
+          "type": "keyterm",
+          "preferred_label": "World of the Dead",
+          "confidence": 0.5099,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500334",
     "reference_id": 203277,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Return of God’s Presence with His People",
     "media_type": "Text",
     "index_reference": "the return of god’s presence with his people",
@@ -14424,13 +14928,22 @@
           "end_ref_usfm": "ZEC 4:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6562,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500253",
     "reference_id": 203196,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Righteous Suffer",
     "media_type": "Text",
     "index_reference": "the righteous suffer",
@@ -14638,13 +15151,14 @@
           "end_ref_usfm": "1PE 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500351",
     "reference_id": 203294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Secret of the Messiah",
     "media_type": "Text",
     "index_reference": "the secret of the messiah",
@@ -14792,13 +15306,14 @@
           "end_ref_usfm": "MRK 9:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500188",
     "reference_id": 203131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Servant-Leader",
     "media_type": "Text",
     "index_reference": "the servant-leader",
@@ -15000,13 +15515,14 @@
           "end_ref_usfm": "1KI 12:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500324",
     "reference_id": 203267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Seventy Sets of Seven",
     "media_type": "Text",
     "index_reference": "the seventy sets of seven",
@@ -15238,13 +15754,14 @@
           "end_ref_usfm": "DAN 11:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500262",
     "reference_id": 203205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Shepherd",
     "media_type": "Text",
     "index_reference": "the shepherd",
@@ -15536,13 +16053,22 @@
           "end_ref_usfm": "ZEC 10:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "fauna:Flock",
+          "type": "fauna",
+          "preferred_label": "Flock",
+          "confidence": 0.5911,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500352",
     "reference_id": 203295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Son of God",
     "media_type": "Text",
     "index_reference": "the son of god",
@@ -16104,13 +16630,22 @@
           "end_ref_usfm": "HEB 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6041,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500342",
     "reference_id": 203285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Son of Man",
     "media_type": "Text",
     "index_reference": "the son of man",
@@ -16468,13 +17003,14 @@
           "end_ref_usfm": "JHN 3:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500396",
     "reference_id": 203339,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Sovereignty of God",
     "media_type": "Text",
     "index_reference": "the sovereignty of god",
@@ -16784,13 +17320,22 @@
           "end_ref_usfm": "ROM 9:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6234,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500240",
     "reference_id": 203183,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Spirit of the Law",
     "media_type": "Text",
     "index_reference": "the spirit of the law",
@@ -16878,13 +17423,14 @@
           "end_ref_usfm": "ROM 3:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500212",
     "reference_id": 203155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Spirit’s Presence",
     "media_type": "Text",
     "index_reference": "the spirit’s presence",
@@ -17116,13 +17662,22 @@
           "end_ref_usfm": "PSA 51:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.6414,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500347",
     "reference_id": 203290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Stone the Builders Rejected",
     "media_type": "Text",
     "index_reference": "the stone the builders rejected",
@@ -17516,13 +18071,14 @@
           "end_ref_usfm": "1PE 2:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500360",
     "reference_id": 203303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Suffering Prophet",
     "media_type": "Text",
     "index_reference": "the suffering prophet",
@@ -17688,13 +18244,14 @@
           "end_ref_usfm": "LUK 24:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500429",
     "reference_id": 203372,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Superiority of the Son",
     "media_type": "Text",
     "index_reference": "the superiority of the son",
@@ -17872,13 +18429,14 @@
           "end_ref_usfm": "HEB 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500175",
     "reference_id": 203118,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Tabernacle",
     "media_type": "Text",
     "index_reference": "the tabernacle",
@@ -17960,13 +18518,36 @@
           "end_ref_usfm": "2CH 7:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Tabernacle",
+          "type": "realia",
+          "preferred_label": "Tabernacle",
+          "confidence": 0.6083,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Frame",
+          "type": "realia",
+          "preferred_label": "Frame",
+          "confidence": 0.5556,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:LinenStrips",
+          "type": "realia",
+          "preferred_label": "Linen Strips",
+          "confidence": 0.5463,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500444",
     "reference_id": 203387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Theater and Revelation",
     "media_type": "Text",
     "index_reference": "the theater and revelation",
@@ -18012,13 +18593,14 @@
           "end_ref_usfm": "REV 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500449",
     "reference_id": 203392,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Thousand Years (The Millennium)",
     "media_type": "Text",
     "index_reference": "the thousand years (the millennium)",
@@ -18046,13 +18628,14 @@
           "end_ref_usfm": "REV 20:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500388",
     "reference_id": 203331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Unknown God",
     "media_type": "Text",
     "index_reference": "the unknown god",
@@ -18134,13 +18717,22 @@
           "end_ref_usfm": "COL 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500366",
     "reference_id": 203309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Word",
     "media_type": "Text",
     "index_reference": "the word",
@@ -18210,13 +18802,22 @@
           "end_ref_usfm": "GEN 1:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Word",
+          "type": "keyterm",
+          "preferred_label": "Word",
+          "confidence": 0.9352,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "500375",
     "reference_id": 203318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The World",
     "media_type": "Text",
     "index_reference": "the world",
@@ -18526,13 +19127,22 @@
           "end_ref_usfm": "1JN 4:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Worldly",
+          "type": "keyterm",
+          "preferred_label": "Worldly",
+          "confidence": 0.8144,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "500448",
     "reference_id": 203391,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Worship of Angels",
     "media_type": "Text",
     "index_reference": "the worship of angels",
@@ -18590,13 +19200,14 @@
           "end_ref_usfm": "LUK 2:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500311",
     "reference_id": 203254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Written Word",
     "media_type": "Text",
     "index_reference": "the written word",
@@ -18858,13 +19469,22 @@
           "end_ref_usfm": "1JN 2:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Scripture",
+          "type": "keyterm",
+          "preferred_label": "Written",
+          "confidence": 0.6075,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500398",
     "reference_id": 203341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tolerance",
     "media_type": "Text",
     "index_reference": "tolerance",
@@ -18976,13 +19596,14 @@
           "end_ref_usfm": "COL 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500194",
     "reference_id": 203137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "True Justice",
     "media_type": "Text",
     "index_reference": "true justice",
@@ -19154,13 +19775,14 @@
           "end_ref_usfm": "LUK 18:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500225",
     "reference_id": 203168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "True Success",
     "media_type": "Text",
     "index_reference": "true success",
@@ -19422,13 +20044,14 @@
           "end_ref_usfm": "1KI 14:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500292",
     "reference_id": 203235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trusting God in Isaiah",
     "media_type": "Text",
     "index_reference": "trusting god in isaiah",
@@ -19552,13 +20175,22 @@
           "end_ref_usfm": "ISA 40:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6255,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500267",
     "reference_id": 203210,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trusting God in the Psalms",
     "media_type": "Text",
     "index_reference": "trusting god in the psalms",
@@ -20012,13 +20644,22 @@
           "end_ref_usfm": "PSA 40:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.7032,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500236",
     "reference_id": 203179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trusting in Human Strength",
     "media_type": "Text",
     "index_reference": "trusting in human strength",
@@ -20208,7 +20849,8 @@
           "end_ref_usfm": "MAT 10:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

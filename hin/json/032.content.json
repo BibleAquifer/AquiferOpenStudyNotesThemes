@@ -2,7 +2,7 @@
   {
     "content_id": "709370",
     "reference_id": 203141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शरणनगर",
     "media_type": "Text",
     "index_reference": "शरणनगर",
@@ -120,13 +120,14 @@
           "end_ref_usfm": "HEB 10:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709430",
     "reference_id": 203201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शाही भजन",
     "media_type": "Text",
     "index_reference": "शाही भजन",
@@ -292,13 +293,14 @@
           "end_ref_usfm": "PSA 89:45"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709394",
     "reference_id": 203165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुद्ध आराधना",
     "media_type": "Text",
     "index_reference": "शुद्ध आराधना",
@@ -656,13 +658,14 @@
           "end_ref_usfm": "DEU 5:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709351",
     "reference_id": 203122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुद्ध, अशुद्ध और पवित्र",
     "media_type": "Text",
     "index_reference": "शुद्ध, अशुद्ध और पवित्र",
@@ -834,13 +837,14 @@
           "end_ref_usfm": "ACT 10:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709558",
     "reference_id": 203329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुभ समाचार संदेश",
     "media_type": "Text",
     "index_reference": "शुभ समाचार संदेश",
@@ -1162,13 +1166,22 @@
           "end_ref_usfm": "1PE 1:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "Good News",
+          "confidence": 0.8276,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "709372",
     "reference_id": 203143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शेकेम",
     "media_type": "Text",
     "index_reference": "शेकेम",
@@ -1256,13 +1269,36 @@
           "end_ref_usfm": "JDG 9:56"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "शेकेम",
+          "confidence": 0.674,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "शेकेम",
+          "confidence": 0.6301,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abimelech.2",
+          "type": "person",
+          "preferred_label": "अबीमेलेक",
+          "confidence": 0.5807,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709587",
     "reference_id": 203358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शैतान पर विजय पाना",
     "media_type": "Text",
     "index_reference": "शैतान पर विजय पाना",
@@ -1458,7 +1494,8 @@
           "end_ref_usfm": "REV 12:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

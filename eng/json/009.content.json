@@ -2,7 +2,7 @@
   {
     "content_id": "500168",
     "reference_id": 203111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hardened Hearts",
     "media_type": "Text",
     "index_reference": "hardened hearts",
@@ -264,13 +264,14 @@
           "end_ref_usfm": "HEB 3:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500399",
     "reference_id": 203342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holiness and Sexual Purity",
     "media_type": "Text",
     "index_reference": "holiness and sexual purity",
@@ -466,13 +467,14 @@
           "end_ref_usfm": "COL 3:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500180",
     "reference_id": 203123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holiness by Relationship",
     "media_type": "Text",
     "index_reference": "holiness by relationship",
@@ -650,13 +652,14 @@
           "end_ref_usfm": "1JN 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500197",
     "reference_id": 203140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holy War",
     "media_type": "Text",
     "index_reference": "holy war",
@@ -864,13 +867,22 @@
           "end_ref_usfm": "REV 20:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "Holy",
+          "confidence": 0.6101,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500309",
     "reference_id": 203252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hope Beyond Judgment",
     "media_type": "Text",
     "index_reference": "hope beyond judgment",
@@ -1018,13 +1030,14 @@
           "end_ref_usfm": "ISA 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500359",
     "reference_id": 203302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hope for the Messiah",
     "media_type": "Text",
     "index_reference": "hope for the messiah",
@@ -1142,13 +1155,22 @@
           "end_ref_usfm": "LUK 23:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.6966,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500331",
     "reference_id": 203274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Human Confusion and God’s Purpose",
     "media_type": "Text",
     "index_reference": "human confusion and god’s purpose",
@@ -1290,13 +1312,22 @@
           "end_ref_usfm": "HAB 3:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5711,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500152",
     "reference_id": 203095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Human Sexuality",
     "media_type": "Text",
     "index_reference": "human sexuality",
@@ -1494,7 +1525,8 @@
           "label": "Genesis 4:1",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

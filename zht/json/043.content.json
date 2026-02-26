@@ -2,7 +2,7 @@
   {
     "content_id": "700297",
     "reference_id": 203234,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "懼怕人",
     "media_type": "Text",
     "index_reference": "懼怕人",
@@ -186,7 +186,16 @@
           "end_ref_usfm": "ISA 51:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.8074,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

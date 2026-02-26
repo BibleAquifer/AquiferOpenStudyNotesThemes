@@ -2,7 +2,7 @@
   {
     "content_id": "500281",
     "reference_id": 203224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wealth and Poverty in the Wisdom Literature",
     "media_type": "Text",
     "index_reference": "wealth and poverty in the wisdom literature",
@@ -186,13 +186,14 @@
           "end_ref_usfm": "DEU 8:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500330",
     "reference_id": 203273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "What Is Good",
     "media_type": "Text",
     "index_reference": "what is good",
@@ -442,13 +443,14 @@
           "end_ref_usfm": "DEU 16:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500277",
     "reference_id": 203220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wisdom",
     "media_type": "Text",
     "index_reference": "wisdom",
@@ -620,13 +622,22 @@
           "end_ref_usfm": "JAS 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:SoundWisdom",
+          "type": "keyterm",
+          "preferred_label": "Sound Wisdom",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500264",
     "reference_id": 203207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wisdom Psalms",
     "media_type": "Text",
     "index_reference": "wisdom psalms",
@@ -936,13 +947,14 @@
           "end_ref_usfm": "PSA 94:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500424",
     "reference_id": 203367,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Women’s Roles in the New Testament Church",
     "media_type": "Text",
     "index_reference": "women’s roles in the new testament church",
@@ -1090,13 +1102,14 @@
           "end_ref_usfm": "GAL 3:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500423",
     "reference_id": 203366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Work and Patronage",
     "media_type": "Text",
     "index_reference": "work and patronage",
@@ -1172,13 +1185,14 @@
           "end_ref_usfm": "2TH 3:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500328",
     "reference_id": 203271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Worship in Jerusalem",
     "media_type": "Text",
     "index_reference": "worship in jerusalem",
@@ -1320,7 +1334,16 @@
           "end_ref_usfm": "AMO 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.5763,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

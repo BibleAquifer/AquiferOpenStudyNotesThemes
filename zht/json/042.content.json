@@ -2,7 +2,7 @@
   {
     "content_id": "700420",
     "reference_id": 203357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "舊生命與新生命",
     "media_type": "Text",
     "index_reference": "舊生命與新生命",
@@ -78,13 +78,14 @@
           "end_ref_usfm": "PHP 3:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700400",
     "reference_id": 203337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "舊與新的領域",
     "media_type": "Text",
     "index_reference": "舊與新的領域",
@@ -328,13 +329,14 @@
           "end_ref_usfm": "EPH 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700331",
     "reference_id": 203268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "舊約中的復活",
     "media_type": "Text",
     "index_reference": "舊約中的復活",
@@ -446,7 +448,8 @@
           "end_ref_usfm": "MAT 27:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700427",
     "reference_id": 203364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "末後之事與帖撒羅尼迦人",
     "media_type": "Text",
     "index_reference": "末後之事與帖撒羅尼迦人",
@@ -72,7 +72,8 @@
           "end_ref_usfm": "1TH 5:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

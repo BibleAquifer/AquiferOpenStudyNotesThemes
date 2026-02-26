@@ -2,7 +2,7 @@
   {
     "content_id": "734218",
     "reference_id": 203265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Quatre empires mondiaux",
     "media_type": "Text",
     "index_reference": "quatre empires mondiaux",
@@ -36,7 +36,8 @@
           "end_ref_usfm": "DAN 2:49"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

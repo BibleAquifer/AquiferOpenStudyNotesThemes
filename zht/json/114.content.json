@@ -2,7 +2,7 @@
   {
     "content_id": "700398",
     "reference_id": 203335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "自然啟示",
     "media_type": "Text",
     "index_reference": "自然啟示",
@@ -60,7 +60,8 @@
           "end_ref_usfm": "ACT 17:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

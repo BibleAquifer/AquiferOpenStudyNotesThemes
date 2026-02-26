@@ -2,7 +2,7 @@
   {
     "content_id": "764954",
     "reference_id": 203097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dhambi Inaingia Ulimwenguni",
     "media_type": "Text",
     "index_reference": "dhambi inaingia ulimwenguni",
@@ -192,13 +192,14 @@
           "end_ref_usfm": "GAL 5:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765014",
     "reference_id": 203157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dini ya Wakanaani",
     "media_type": "Text",
     "index_reference": "dini ya wakanaani",
@@ -238,7 +239,8 @@
           "end_ref_usfm": "2KI 3:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

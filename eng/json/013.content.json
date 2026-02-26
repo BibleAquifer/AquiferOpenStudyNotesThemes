@@ -2,7 +2,7 @@
   {
     "content_id": "500284",
     "reference_id": 203227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laziness and Hard Work",
     "media_type": "Text",
     "index_reference": "laziness and hard work",
@@ -252,13 +252,14 @@
           "end_ref_usfm": "2TH 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500420",
     "reference_id": 203363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Legalism",
     "media_type": "Text",
     "index_reference": "legalism",
@@ -310,13 +311,14 @@
           "end_ref_usfm": "MRK 7:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500442",
     "reference_id": 203385,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Letters to the Seven Churches",
     "media_type": "Text",
     "index_reference": "letters to the seven churches",
@@ -338,13 +340,14 @@
           "end_ref_usfm": "REV 1:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500255",
     "reference_id": 203198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Life After Death",
     "media_type": "Text",
     "index_reference": "life after death",
@@ -690,13 +693,14 @@
           "end_ref_usfm": "2KI 4:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500340",
     "reference_id": 203283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Little Faith",
     "media_type": "Text",
     "index_reference": "little faith",
@@ -778,13 +782,22 @@
           "end_ref_usfm": "JAS 1:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:HavingLittleFaith",
+          "type": "keyterm",
+          "preferred_label": "Having Little Faith",
+          "confidence": 0.669,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500416",
     "reference_id": 203359,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Living for Christ",
     "media_type": "Text",
     "index_reference": "living for christ",
@@ -878,13 +891,29 @@
           "end_ref_usfm": "COL 3:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.592,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:InChrist",
+          "type": "keyterm",
+          "preferred_label": "In Christ",
+          "confidence": 0.5361,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500369",
     "reference_id": 203312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Living Water",
     "media_type": "Text",
     "index_reference": "living water",
@@ -966,13 +995,14 @@
           "end_ref_usfm": "JAS 3:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500436",
     "reference_id": 203379,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Love in the Community of Christ",
     "media_type": "Text",
     "index_reference": "love in the community of christ",
@@ -1126,13 +1156,22 @@
           "end_ref_usfm": "2PE 1:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Love",
+          "type": "keyterm",
+          "preferred_label": "Love",
+          "confidence": 0.7559,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500404",
     "reference_id": 203347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Loving Others",
     "media_type": "Text",
     "index_reference": "loving others",
@@ -1310,7 +1349,16 @@
           "end_ref_usfm": "1JN 3:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Love",
+          "type": "keyterm",
+          "preferred_label": "Love",
+          "confidence": 0.5377,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700337",
     "reference_id": 203274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "人的困惑與神的旨意",
     "media_type": "Text",
     "index_reference": "人的困惑與神的旨意",
@@ -144,13 +144,14 @@
           "end_ref_usfm": "HAB 3:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700158",
     "reference_id": 203095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "人的性愛",
     "media_type": "Text",
     "index_reference": "人的性愛",
@@ -348,13 +349,14 @@
           "label": "創世記 4:1",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "700348",
     "reference_id": 203285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "人子",
     "media_type": "Text",
     "index_reference": "人子",
@@ -712,13 +714,22 @@
           "end_ref_usfm": "JHN 3:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:GenericMale",
+          "type": "person",
+          "preferred_label": "A Man",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "700440",
     "reference_id": 203377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "忍耐",
     "media_type": "Text",
     "index_reference": "忍耐",
@@ -860,13 +871,14 @@
           "end_ref_usfm": "HEB 12:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700332",
     "reference_id": 203269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "認識神",
     "media_type": "Text",
     "index_reference": "認識神",
@@ -1032,7 +1044,8 @@
           "end_ref_usfm": "HEB 8:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

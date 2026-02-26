@@ -2,7 +2,7 @@
   {
     "content_id": "500426",
     "reference_id": 203369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Passing On Authority and Responsibility to a New Leader",
     "media_type": "Text",
     "index_reference": "passing on authority and responsibility to a new leader",
@@ -174,13 +174,14 @@
           "end_ref_usfm": "2TI 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500410",
     "reference_id": 203353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paul’s Role as an Apostle",
     "media_type": "Text",
     "index_reference": "paul’s role as an apostle",
@@ -406,13 +407,14 @@
           "end_ref_usfm": "1TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500382",
     "reference_id": 203325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Persecution",
     "media_type": "Text",
     "index_reference": "persecution",
@@ -812,13 +814,14 @@
           "end_ref_usfm": "1PE 3:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500357",
     "reference_id": 203300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Praise and Rejoicing in Luke–Acts",
     "media_type": "Text",
     "index_reference": "praise and rejoicing in luke–acts",
@@ -1002,13 +1005,14 @@
           "end_ref_usfm": "LUK 24:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500273",
     "reference_id": 203216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Praise Psalms",
     "media_type": "Text",
     "index_reference": "praise psalms",
@@ -1144,13 +1148,14 @@
           "end_ref_usfm": "PSA 99:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500274",
     "reference_id": 203217,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prayers for Vengeance",
     "media_type": "Text",
     "index_reference": "prayers for vengeance",
@@ -1370,13 +1375,14 @@
           "end_ref_usfm": "ROM 11:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500337",
     "reference_id": 203280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Preaching to a Tough Crowd",
     "media_type": "Text",
     "index_reference": "preaching to a tough crowd",
@@ -1524,13 +1530,14 @@
           "end_ref_usfm": "JHN 10:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500285",
     "reference_id": 203228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pride and Humility",
     "media_type": "Text",
     "index_reference": "pride and humility",
@@ -1708,13 +1715,14 @@
           "end_ref_usfm": "2CH 26:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500165",
     "reference_id": 203108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Promised Land",
     "media_type": "Text",
     "index_reference": "promised land",
@@ -1856,13 +1864,22 @@
           "end_ref_usfm": "1KI 8:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaan",
+          "confidence": 0.6051,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500313",
     "reference_id": 203256,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophetic Sign Acts",
     "media_type": "Text",
     "index_reference": "prophetic sign acts",
@@ -2028,13 +2045,14 @@
           "end_ref_usfm": "1CO 11:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500226",
     "reference_id": 203169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophets in 1 Kings",
     "media_type": "Text",
     "index_reference": "prophets in 1 kings",
@@ -2188,13 +2206,14 @@
           "end_ref_usfm": "1KI 22:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500261",
     "reference_id": 203204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Psalms of Suffering",
     "media_type": "Text",
     "index_reference": "psalms of suffering",
@@ -2342,13 +2361,14 @@
           "end_ref_usfm": "PSA 69:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500222",
     "reference_id": 203165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pure Worship",
     "media_type": "Text",
     "index_reference": "pure worship",
@@ -2706,13 +2726,29 @@
           "end_ref_usfm": "DEU 5:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Pure",
+          "type": "keyterm",
+          "preferred_label": "Pure",
+          "confidence": 0.6128,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:BowDown",
+          "type": "keyterm",
+          "preferred_label": "Bow Down",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500250",
     "reference_id": 203193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Purim",
     "media_type": "Text",
     "index_reference": "purim",
@@ -2824,13 +2860,14 @@
           "end_ref_usfm": "ACT 17:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500241",
     "reference_id": 203184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Purity and Identity",
     "media_type": "Text",
     "index_reference": "purity and identity",
@@ -2990,7 +3027,8 @@
           "end_ref_usfm": "2TI 2:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

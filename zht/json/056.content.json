@@ -2,7 +2,7 @@
   {
     "content_id": "700352",
     "reference_id": 203289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "彌賽亞",
     "media_type": "Text",
     "index_reference": "彌賽亞",
@@ -252,13 +252,29 @@
           "end_ref_usfm": "ACT 28:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Maaziah",
+          "type": "person",
+          "preferred_label": "Maaziah",
+          "confidence": 0.8118,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maaziah.2",
+          "type": "person",
+          "preferred_label": "Maaziah",
+          "confidence": 0.8118,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "700357",
     "reference_id": 203294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "彌賽亞的秘密",
     "media_type": "Text",
     "index_reference": "彌賽亞的秘密",
@@ -406,13 +422,14 @@
           "end_ref_usfm": "MRK 9:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700368",
     "reference_id": 203305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "彌賽亞的筵席",
     "media_type": "Text",
     "index_reference": "彌賽亞的筵席",
@@ -554,7 +571,8 @@
           "end_ref_usfm": "LUK 14:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700268",
     "reference_id": 203205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "牧羊人",
     "media_type": "Text",
     "index_reference": "牧羊人",
@@ -294,7 +294,8 @@
           "end_ref_usfm": "ZEC 10:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

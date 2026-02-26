@@ -2,7 +2,7 @@
   {
     "content_id": "765061",
     "reference_id": 203204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zaburi ya Mateso",
     "media_type": "Text",
     "index_reference": "zaburi ya mateso",
@@ -150,13 +150,14 @@
           "end_ref_usfm": "PSA 69:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765064",
     "reference_id": 203207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zaburi za Hekima",
     "media_type": "Text",
     "index_reference": "zaburi za hekima",
@@ -466,13 +467,14 @@
           "end_ref_usfm": "PSA 94:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765058",
     "reference_id": 203201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zaburi za Kifalme",
     "media_type": "Text",
     "index_reference": "zaburi za kifalme",
@@ -638,13 +640,14 @@
           "end_ref_usfm": "PSA 89:45"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765073",
     "reference_id": 203216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zaburi za Sifa",
     "media_type": "Text",
     "index_reference": "zaburi za sifa",
@@ -780,13 +783,14 @@
           "end_ref_usfm": "PSA 99:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765190",
     "reference_id": 203333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zawadi ya Unabii",
     "media_type": "Text",
     "index_reference": "zawadi ya unabii",
@@ -1072,13 +1076,14 @@
           "end_ref_usfm": "EZK 13:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765052",
     "reference_id": 203195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zawadi ya Vifaa",
     "media_type": "Text",
     "index_reference": "zawadi ya vifaa",
@@ -1262,7 +1267,8 @@
           "end_ref_usfm": "LUK 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

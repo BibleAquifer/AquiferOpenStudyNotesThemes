@@ -2,7 +2,7 @@
   {
     "content_id": "800392",
     "reference_id": 203223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raiva",
     "media_type": "Text",
     "index_reference": "raiva",
@@ -252,13 +252,14 @@
           "end_ref_usfm": "NAM 1:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800321",
     "reference_id": 203152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Realeza",
     "media_type": "Text",
     "index_reference": "realeza",
@@ -388,13 +389,14 @@
           "end_ref_usfm": "MAT 22:46"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800363",
     "reference_id": 203194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reclamações",
     "media_type": "Text",
     "index_reference": "reclamações",
@@ -566,13 +568,14 @@
           "end_ref_usfm": "PHP 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800364",
     "reference_id": 203195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Recompensa material",
     "media_type": "Text",
     "index_reference": "recompensa material",
@@ -756,13 +759,14 @@
           "end_ref_usfm": "LUK 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800357",
     "reference_id": 203188,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reconstrução de Jerusalém",
     "media_type": "Text",
     "index_reference": "reconstrução de jerusalém",
@@ -886,13 +890,22 @@
           "end_ref_usfm": "REV 21:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalém",
+          "confidence": 0.5066,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800344",
     "reference_id": 203175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino prometido de Deus",
     "media_type": "Text",
     "index_reference": "reino prometido de deus",
@@ -1094,13 +1107,14 @@
           "end_ref_usfm": "REV 21:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800326",
     "reference_id": 203157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Religião cananeia",
     "media_type": "Text",
     "index_reference": "religião cananeia",
@@ -1140,13 +1154,14 @@
           "end_ref_usfm": "2KI 3:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800305",
     "reference_id": 203136,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Remover o mal",
     "media_type": "Text",
     "index_reference": "remover o mal",
@@ -1318,13 +1333,14 @@
           "end_ref_usfm": "ISA 1:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800444",
     "reference_id": 203275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Renovação espiritual nos profetas menores",
     "media_type": "Text",
     "index_reference": "renovação espiritual nos profetas menores",
@@ -1436,13 +1452,14 @@
           "end_ref_usfm": "HAG 1:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800513",
     "reference_id": 203344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Renunciando aos direitos",
     "media_type": "Text",
     "index_reference": "renunciando aos direitos",
@@ -1596,13 +1613,14 @@
           "end_ref_usfm": "2TI 2:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800546",
     "reference_id": 203377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Resistência",
     "media_type": "Text",
     "index_reference": "resistência",
@@ -1744,13 +1762,14 @@
           "end_ref_usfm": "HEB 12:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800311",
     "reference_id": 203142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Responsabilidade da comunidade: O pecado de Acã",
     "media_type": "Text",
     "index_reference": "responsabilidade da comunidade: o pecado de acã",
@@ -1862,13 +1881,22 @@
           "end_ref_usfm": "NEH 9:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Achan",
+          "type": "person",
+          "preferred_label": "Acã",
+          "confidence": 0.6132,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800327",
     "reference_id": 203158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Resposta de Davi a líderes hostis",
     "media_type": "Text",
     "index_reference": "resposta de davi a líderes hostis",
@@ -2070,13 +2098,22 @@
           "end_ref_usfm": "JER 36:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Davi",
+          "confidence": 0.7478,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800437",
     "reference_id": 203268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ressurreição no Antigo Testamento",
     "media_type": "Text",
     "index_reference": "ressurreição no antigo testamento",
@@ -2188,13 +2225,14 @@
           "end_ref_usfm": "MAT 27:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800445",
     "reference_id": 203276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Retornando ao Senhor",
     "media_type": "Text",
     "index_reference": "retornando ao senhor",
@@ -2300,13 +2338,22 @@
           "end_ref_usfm": "ACT 17:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800267",
     "reference_id": 203098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Retribuição",
     "media_type": "Text",
     "index_reference": "retribuição",
@@ -2556,13 +2603,14 @@
           "end_ref_usfm": "ROM 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800504",
     "reference_id": 203335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Revelação natural",
     "media_type": "Text",
     "index_reference": "revelação natural",
@@ -2620,13 +2668,14 @@
           "end_ref_usfm": "ACT 17:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800475",
     "reference_id": 203306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ricos e pobres no evangelho de Lucas",
     "media_type": "Text",
     "index_reference": "ricos e pobres no evangelho de lucas",
@@ -2708,13 +2757,14 @@
           "end_ref_usfm": "LUK 14:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800393",
     "reference_id": 203224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Riqueza e pobreza na literatura de sabedoria",
     "media_type": "Text",
     "index_reference": "riqueza e pobreza na literatura de sabedoria",
@@ -2898,7 +2948,8 @@
           "end_ref_usfm": "DEU 8:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

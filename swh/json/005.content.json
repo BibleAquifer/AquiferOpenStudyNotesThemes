@@ -2,7 +2,7 @@
   {
     "content_id": "765107",
     "reference_id": 203250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chaguo la Maisha au Kifo",
     "media_type": "Text",
     "index_reference": "chaguo la maisha au kifo",
@@ -174,13 +174,14 @@
           "end_ref_usfm": "JER 27:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765049",
     "reference_id": 203192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "CHUKI YA KIKABILA",
     "media_type": "Text",
     "index_reference": "chuki ya kikabila",
@@ -304,7 +305,8 @@
           "end_ref_usfm": "EST 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

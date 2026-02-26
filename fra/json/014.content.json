@@ -2,7 +2,7 @@
   {
     "content_id": "708462",
     "reference_id": 203378,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Par la foi",
     "media_type": "Text",
     "index_reference": "par la foi",
@@ -174,13 +174,22 @@
           "end_ref_usfm": "JAS 1:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "croire",
+          "confidence": 0.5894,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708436",
     "reference_id": 203226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Parents et enfants",
     "media_type": "Text",
     "index_reference": "parents et enfants",
@@ -412,13 +421,14 @@
           "end_ref_usfm": "PRO 4:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734233",
     "reference_id": 203320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pêche en Galilée",
     "media_type": "Text",
     "index_reference": "pêche en galilée",
@@ -518,13 +528,14 @@
           "end_ref_usfm": "LUK 5:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734225",
     "reference_id": 203283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Peu de foi",
     "media_type": "Text",
     "index_reference": "peu de foi",
@@ -606,13 +617,22 @@
           "end_ref_usfm": "JAS 1:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:HavingLittleFaith",
+          "type": "keyterm",
+          "preferred_label": "qui manque de foi",
+          "confidence": 0.5565,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708431",
     "reference_id": 203194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Plaintes",
     "media_type": "Text",
     "index_reference": "plaintes",
@@ -784,13 +804,14 @@
           "end_ref_usfm": "PHP 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734232",
     "reference_id": 203314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Profil de Jean en tant que disciple",
     "media_type": "Text",
     "index_reference": "profil de jean en tant que disciple",
@@ -1010,13 +1031,36 @@
           "end_ref_usfm": "1CO 3:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "Jean",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:GenericDisciple",
+          "type": "person",
+          "preferred_label": "A Disciple",
+          "confidence": 0.5552,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "trans. faire un disciple de",
+          "confidence": 0.5458,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708438",
     "reference_id": 203230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Profiter des dons de Dieu",
     "media_type": "Text",
     "index_reference": "profiter des dons de dieu",
@@ -1170,13 +1214,14 @@
           "end_ref_usfm": "COL 2:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708413",
     "reference_id": 203122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "pur, impur, et saint",
     "media_type": "Text",
     "index_reference": "pur, impur, et saint",
@@ -1348,13 +1393,29 @@
           "end_ref_usfm": "ACT 10:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "saint",
+          "confidence": 0.6213,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Clean",
+          "type": "keyterm",
+          "preferred_label": "pur",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "756854",
     "reference_id": 203193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Purim, Pourim",
     "media_type": "Text",
     "index_reference": "purim, pourim",
@@ -1466,7 +1527,8 @@
           "end_ref_usfm": "ACT 17:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700244",
     "reference_id": 203181,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "褻瀆",
     "media_type": "Text",
     "index_reference": "褻瀆",
@@ -114,7 +114,8 @@
           "end_ref_usfm": "LEV 24:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

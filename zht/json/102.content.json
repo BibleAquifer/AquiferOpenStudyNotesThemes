@@ -2,7 +2,7 @@
   {
     "content_id": "700180",
     "reference_id": 203117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "逾越節",
     "media_type": "Text",
     "index_reference": "逾越節",
@@ -114,13 +114,14 @@
           "end_ref_usfm": "DEU 16:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700299",
     "reference_id": 203236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "餘民",
     "media_type": "Text",
     "index_reference": "餘民",
@@ -334,13 +335,14 @@
           "end_ref_usfm": "MIC 5:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700186",
     "reference_id": 203123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "與神關係而來的聖潔",
     "media_type": "Text",
     "index_reference": "與神關係而來的聖潔",
@@ -518,13 +520,14 @@
           "end_ref_usfm": "1JN 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700360",
     "reference_id": 203297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "與耶穌相遇",
     "media_type": "Text",
     "index_reference": "與耶穌相遇",
@@ -684,13 +687,14 @@
           "end_ref_usfm": "MAT 16:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700396",
     "reference_id": 203333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "預言的恩賜",
     "media_type": "Text",
     "index_reference": "預言的恩賜",
@@ -976,7 +980,8 @@
           "end_ref_usfm": "EZK 13:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

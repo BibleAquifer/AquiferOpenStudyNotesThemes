@@ -2,7 +2,7 @@
   {
     "content_id": "700317",
     "reference_id": 203254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "書寫神話語",
     "media_type": "Text",
     "index_reference": "書寫神話語",
@@ -264,13 +264,14 @@
           "end_ref_usfm": "1JN 2:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700187",
     "reference_id": 203124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "贖罪",
     "media_type": "Text",
     "index_reference": "贖罪",
@@ -436,13 +437,14 @@
           "end_ref_usfm": "HEB 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700406",
     "reference_id": 203343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "屬乎基督",
     "media_type": "Text",
     "index_reference": "屬乎基督",
@@ -578,13 +580,14 @@
           "end_ref_usfm": "1CO 7:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700209",
     "reference_id": 203146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "屬靈恩賜型領導",
     "media_type": "Text",
     "index_reference": "屬靈恩賜型領導",
@@ -786,7 +789,8 @@
           "end_ref_usfm": "EPH 4:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

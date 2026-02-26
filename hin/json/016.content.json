@@ -2,7 +2,7 @@
   {
     "content_id": "709473",
     "reference_id": 203244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "टूटी हुई वाचा",
     "media_type": "Text",
     "index_reference": "टूटी हुई वाचा",
@@ -126,7 +126,8 @@
           "end_ref_usfm": "HOS 5:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

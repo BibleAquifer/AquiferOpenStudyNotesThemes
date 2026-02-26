@@ -2,7 +2,7 @@
   {
     "content_id": "708405",
     "reference_id": 203096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mariage biblique",
     "media_type": "Text",
     "index_reference": "mariage biblique",
@@ -168,13 +168,14 @@
           "end_ref_usfm": "PSA 45:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734216",
     "reference_id": 203259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Messages contre les nations",
     "media_type": "Text",
     "index_reference": "messages contre les nations",
@@ -304,13 +305,14 @@
           "end_ref_usfm": "ROM 2:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734235",
     "reference_id": 203327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miracles",
     "media_type": "Text",
     "index_reference": "miracles",
@@ -638,13 +640,14 @@
           "end_ref_usfm": "1JN 5:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708410",
     "reference_id": 203107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mort",
     "media_type": "Text",
     "index_reference": "mort",
@@ -924,7 +927,8 @@
           "end_ref_usfm": "REV 21:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

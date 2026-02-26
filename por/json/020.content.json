@@ -2,7 +2,7 @@
   {
     "content_id": "800389",
     "reference_id": 203220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sabedoria",
     "media_type": "Text",
     "index_reference": "sabedoria",
@@ -174,13 +174,22 @@
           "end_ref_usfm": "JAS 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Wisdom",
+          "type": "person",
+          "preferred_label": "Wisdom",
+          "confidence": 0.8687,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "800373",
     "reference_id": 203204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salmos de lamento",
     "media_type": "Text",
     "index_reference": "salmos de lamento",
@@ -328,13 +337,14 @@
           "end_ref_usfm": "PSA 69:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800385",
     "reference_id": 203216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salmos de louvor",
     "media_type": "Text",
     "index_reference": "salmos de louvor",
@@ -470,13 +480,14 @@
           "end_ref_usfm": "PSA 99:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800376",
     "reference_id": 203207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salmos de sabedoria",
     "media_type": "Text",
     "index_reference": "salmos de sabedoria",
@@ -786,13 +797,14 @@
           "end_ref_usfm": "PSA 94:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800370",
     "reference_id": 203201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salmos reais",
     "media_type": "Text",
     "index_reference": "salmos reais",
@@ -958,13 +970,14 @@
           "end_ref_usfm": "PSA 89:45"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800411",
     "reference_id": 203242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salvação em Isaías",
     "media_type": "Text",
     "index_reference": "salvação em isaías",
@@ -1106,13 +1119,22 @@
           "end_ref_usfm": "REV 7:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaías",
+          "confidence": 0.6048,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800372",
     "reference_id": 203203,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salvação nos Salmos",
     "media_type": "Text",
     "index_reference": "salvação nos salmos",
@@ -1506,13 +1528,14 @@
           "end_ref_usfm": "PSA 98:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800290",
     "reference_id": 203121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santidade absoluta de Deus",
     "media_type": "Text",
     "index_reference": "santidade absoluta de deus",
@@ -1594,13 +1617,22 @@
           "end_ref_usfm": "1SA 2:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.6755,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800511",
     "reference_id": 203342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santidade e pureza sexual",
     "media_type": "Text",
     "index_reference": "santidade e pureza sexual",
@@ -1796,13 +1828,14 @@
           "end_ref_usfm": "COL 3:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800292",
     "reference_id": 203123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santidade por relacionamento",
     "media_type": "Text",
     "index_reference": "santidade por relacionamento",
@@ -1980,13 +2013,14 @@
           "end_ref_usfm": "1JN 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800465",
     "reference_id": 203296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seguindo Jesus",
     "media_type": "Text",
     "index_reference": "seguindo jesus",
@@ -2416,13 +2450,29 @@
           "end_ref_usfm": "ROM 10:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Christ",
+          "type": "group",
+          "preferred_label": "Christians",
+          "confidence": 0.6017,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.529,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800555",
     "reference_id": 203386,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Segurança e obediência",
     "media_type": "Text",
     "index_reference": "segurança e obediência",
@@ -2732,13 +2782,14 @@
           "end_ref_usfm": "REV 3:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800409",
     "reference_id": 203240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Servo de Deus",
     "media_type": "Text",
     "index_reference": "servo de deus",
@@ -2982,13 +3033,14 @@
           "end_ref_usfm": "JER 33:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800264",
     "reference_id": 203095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sexualidade humana",
     "media_type": "Text",
     "index_reference": "sexualidade humana",
@@ -3186,13 +3238,14 @@
           "label": "Gênesis 4.1",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "800378",
     "reference_id": 203209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sião",
     "media_type": "Text",
     "index_reference": "sião",
@@ -3730,13 +3783,22 @@
           "end_ref_usfm": "ZEC 8:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalém",
+          "confidence": 0.7737,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800479",
     "reference_id": 203310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinais miraculosos no evangelho de João",
     "media_type": "Text",
     "index_reference": "sinais miraculosos no evangelho de joão",
@@ -4058,13 +4120,14 @@
           "end_ref_usfm": "EXO 4:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800312",
     "reference_id": 203143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siquém",
     "media_type": "Text",
     "index_reference": "siquém",
@@ -4152,13 +4215,29 @@
           "end_ref_usfm": "JDG 9:56"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "Siquém",
+          "confidence": 0.674,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Siquém",
+          "confidence": 0.6301,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800427",
     "reference_id": 203258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Soberania divina e responsabilidade humana",
     "media_type": "Text",
     "index_reference": "soberania divina e responsabilidade humana",
@@ -4354,13 +4433,14 @@
           "end_ref_usfm": "JAS 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800279",
     "reference_id": 203110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sofrendo ao seguir Deus",
     "media_type": "Text",
     "index_reference": "sofrendo ao seguir deus",
@@ -4526,13 +4606,14 @@
           "end_ref_usfm": "1PE 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800552",
     "reference_id": 203383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sofrimento cristão",
     "media_type": "Text",
     "index_reference": "sofrimento cristão",
@@ -4692,13 +4773,14 @@
           "end_ref_usfm": "JAS 5:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800394",
     "reference_id": 203225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Suborno e presentes",
     "media_type": "Text",
     "index_reference": "suborno e presentes",
@@ -4822,13 +4904,14 @@
           "end_ref_usfm": "ISA 33:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800527",
     "reference_id": 203358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Superando o Diabo",
     "media_type": "Text",
     "index_reference": "superando o diabo",
@@ -5024,7 +5107,8 @@
           "end_ref_usfm": "REV 12:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

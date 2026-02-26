@@ -2,7 +2,7 @@
   {
     "content_id": "765122",
     "reference_id": 203265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falme Nne za Dunia",
     "media_type": "Text",
     "index_reference": "falme nne za dunia",
@@ -36,13 +36,14 @@
           "end_ref_usfm": "DAN 2:49"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764982",
     "reference_id": 203125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Familia, Jamii, na Dhambi ya Ngono",
     "media_type": "Text",
     "index_reference": "familia, jamii, na dhambi ya ngono",
@@ -160,13 +161,14 @@
           "end_ref_usfm": "MAT 14:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765118",
     "reference_id": 203261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fasihi ya Apokaliptiki",
     "media_type": "Text",
     "index_reference": "fasihi ya apokaliptiki",
@@ -206,13 +208,14 @@
           "end_ref_usfm": "ISA 27:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765218",
     "reference_id": 203361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Furaha ya Kikristo",
     "media_type": "Text",
     "index_reference": "furaha ya kikristo",
@@ -282,7 +285,8 @@
           "end_ref_usfm": "JHN 16:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

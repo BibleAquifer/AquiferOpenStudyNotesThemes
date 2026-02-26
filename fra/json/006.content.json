@@ -2,7 +2,7 @@
   {
     "content_id": "708444",
     "reference_id": 203284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Être citoyen du royaume de Dieu",
     "media_type": "Text",
     "index_reference": "être citoyen du royaume de dieu",
@@ -102,13 +102,14 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708414",
     "reference_id": 203124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Expiation",
     "media_type": "Text",
     "index_reference": "expiation",
@@ -274,7 +275,16 @@
           "end_ref_usfm": "HEB 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Atonement",
+          "type": "keyterm",
+          "preferred_label": "expiation",
+          "confidence": 0.6117,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

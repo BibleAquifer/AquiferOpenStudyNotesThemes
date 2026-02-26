@@ -2,7 +2,7 @@
   {
     "content_id": "702292",
     "reference_id": 203228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكبرياء والتواضع",
     "media_type": "Text",
     "index_reference": "الكبرياء والتواضع",
@@ -180,13 +180,14 @@
           "end_ref_usfm": "2CH 26:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702256",
     "reference_id": 203192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكراهية العرقية",
     "media_type": "Text",
     "index_reference": "الكراهية العرقية",
@@ -310,13 +311,14 @@
           "end_ref_usfm": "EST 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702291",
     "reference_id": 203227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكسل والعمل الجاد",
     "media_type": "Text",
     "index_reference": "الكسل والعمل الجاد",
@@ -566,13 +568,14 @@
           "end_ref_usfm": "2TH 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702188",
     "reference_id": 203124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكفارة",
     "media_type": "Text",
     "index_reference": "الكفارة",
@@ -738,13 +741,14 @@
           "end_ref_usfm": "HEB 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702293",
     "reference_id": 203229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكل \"بخار\"",
     "media_type": "Text",
     "index_reference": "الكل \"بخار\"",
@@ -838,13 +842,14 @@
           "end_ref_usfm": "JAS 4:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702286",
     "reference_id": 203222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكلام",
     "media_type": "Text",
     "index_reference": "الكلام",
@@ -1028,13 +1033,14 @@
           "end_ref_usfm": "PRO 16:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702373",
     "reference_id": 203309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكلمة",
     "media_type": "Text",
     "index_reference": "الكلمة",
@@ -1104,13 +1110,14 @@
           "end_ref_usfm": "GEN 1:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702318",
     "reference_id": 203254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكلمة المكتوبة",
     "media_type": "Text",
     "index_reference": "الكلمة المكتوبة",
@@ -1372,13 +1379,14 @@
           "end_ref_usfm": "1JN 2:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702420",
     "reference_id": 203356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكنيسة",
     "media_type": "Text",
     "index_reference": "الكنيسة",
@@ -1724,13 +1732,29 @@
           "end_ref_usfm": "EPH 5:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 0.9365,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericChurch",
+          "type": "group",
+          "preferred_label": "The Church",
+          "confidence": 0.9127,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "702410",
     "reference_id": 203346,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكنيسة بصفتها جسد حي وفعال",
     "media_type": "Text",
     "index_reference": "الكنيسة بصفتها جسد حي وفعال",
@@ -1836,13 +1860,14 @@
           "end_ref_usfm": "1CO 12:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702415",
     "reference_id": 203351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكنيسة كهيكل ٱلله",
     "media_type": "Text",
     "index_reference": "الكنيسة كهيكل ٱلله",
@@ -2086,13 +2111,14 @@
           "end_ref_usfm": "1PE 2:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702439",
     "reference_id": 203375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كلمة الله",
     "media_type": "Text",
     "index_reference": "كلمة الله",
@@ -2294,7 +2320,16 @@
           "end_ref_usfm": "JHN 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.8192,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

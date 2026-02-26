@@ -2,7 +2,7 @@
   {
     "content_id": "765124",
     "reference_id": 203267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sabini ya Sabasaba",
     "media_type": "Text",
     "index_reference": "sabini ya sabasaba",
@@ -234,13 +234,14 @@
           "end_ref_usfm": "DAN 11:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764979",
     "reference_id": 203122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Safi, Najisi, na Mtakatifu",
     "media_type": "Text",
     "index_reference": "safi, najisi, na mtakatifu",
@@ -412,13 +413,14 @@
           "end_ref_usfm": "ACT 10:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765161",
     "reference_id": 203304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sala za Yesu",
     "media_type": "Text",
     "index_reference": "sala za yesu",
@@ -542,13 +544,14 @@
           "end_ref_usfm": "LUK 11:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765066",
     "reference_id": 203209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sayuni",
     "media_type": "Text",
     "index_reference": "sayuni",
@@ -1086,13 +1089,22 @@
           "end_ref_usfm": "ZEC 8:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalemu",
+          "confidence": 0.5802,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765000",
     "reference_id": 203143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shekemu",
     "media_type": "Text",
     "index_reference": "shekemu",
@@ -1180,13 +1192,29 @@
           "end_ref_usfm": "JDG 9:56"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "Shekemu",
+          "confidence": 0.674,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 0.6301,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765016",
     "reference_id": 203159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sherehe",
     "media_type": "Text",
     "index_reference": "sherehe",
@@ -1466,13 +1494,14 @@
           "end_ref_usfm": "LUK 15:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765220",
     "reference_id": 203363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria Kali",
     "media_type": "Text",
     "index_reference": "sheria kali",
@@ -1524,13 +1553,14 @@
           "end_ref_usfm": "MRK 7:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765212",
     "reference_id": 203355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria na Roho",
     "media_type": "Text",
     "index_reference": "sheria na roho",
@@ -1648,13 +1678,22 @@
           "end_ref_usfm": "HEB 12:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Roho",
+          "confidence": 0.5423,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765120",
     "reference_id": 203263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria ya Hekalu kama Teolojia",
     "media_type": "Text",
     "index_reference": "sheria ya hekalu kama teolojia",
@@ -1718,13 +1757,14 @@
           "end_ref_usfm": "EZK 46:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764991",
     "reference_id": 203134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria ya Kibiblia",
     "media_type": "Text",
     "index_reference": "sheria ya kibiblia",
@@ -1908,13 +1948,14 @@
           "end_ref_usfm": "GAL 3:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765102",
     "reference_id": 203245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria za Msingi",
     "media_type": "Text",
     "index_reference": "sheria za msingi",
@@ -2068,13 +2109,22 @@
           "end_ref_usfm": "MRK 12:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:FundamentalPrinciples",
+          "type": "keyterm",
+          "preferred_label": "Fundamental Principles",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "765157",
     "reference_id": 203300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sifa na Furaha katika Luka–Matendo",
     "media_type": "Text",
     "index_reference": "sifa na furaha katika luka–matendo",
@@ -2258,13 +2308,14 @@
           "end_ref_usfm": "LUK 24:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765155",
     "reference_id": 203298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku Inakuja",
     "media_type": "Text",
     "index_reference": "siku inakuja",
@@ -2816,13 +2867,14 @@
           "label": "Marko",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "765094",
     "reference_id": 203237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya Bwana",
     "media_type": "Text",
     "index_reference": "siku ya bwana",
@@ -3054,13 +3106,22 @@
           "end_ref_usfm": "ISA 4:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5981,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765219",
     "reference_id": 203362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siri ya Habari Njema",
     "media_type": "Text",
     "index_reference": "siri ya habari njema",
@@ -3172,13 +3233,14 @@
           "end_ref_usfm": "COL 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765151",
     "reference_id": 203294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siri ya Masihi",
     "media_type": "Text",
     "index_reference": "siri ya masihi",
@@ -3326,7 +3388,8 @@
           "end_ref_usfm": "MRK 9:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

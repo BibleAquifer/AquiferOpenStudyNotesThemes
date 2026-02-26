@@ -2,7 +2,7 @@
   {
     "content_id": "709367",
     "reference_id": 203138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "श्राप और आशीषें",
     "media_type": "Text",
     "index_reference": "श्राप और आशीषें",
@@ -84,7 +84,8 @@
           "end_ref_usfm": "2CH 36:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

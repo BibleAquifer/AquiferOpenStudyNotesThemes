@@ -2,7 +2,7 @@
   {
     "content_id": "800288",
     "reference_id": 203119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Identidade da comunidade",
     "media_type": "Text",
     "index_reference": "identidade da comunidade",
@@ -102,13 +102,14 @@
           "end_ref_usfm": "EXO 20:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800274",
     "reference_id": 203105,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Infertilidade",
     "media_type": "Text",
     "index_reference": "infertilidade",
@@ -346,13 +347,14 @@
           "end_ref_usfm": "HEB 11:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800289",
     "reference_id": 203120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Instruções de Deus",
     "media_type": "Text",
     "index_reference": "instruções de deus",
@@ -500,13 +502,14 @@
           "end_ref_usfm": "2TI 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800415",
     "reference_id": 203246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Invasão",
     "media_type": "Text",
     "index_reference": "invasão",
@@ -564,7 +567,8 @@
           "end_ref_usfm": "JER 19:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

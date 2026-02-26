@@ -2,7 +2,7 @@
   {
     "content_id": "764955",
     "reference_id": 203098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Adhabu ya haki",
     "media_type": "Text",
     "index_reference": "adhabu ya haki",
@@ -252,13 +252,14 @@
           "end_ref_usfm": "ROM 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765110",
     "reference_id": 203253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano Jipya",
     "media_type": "Text",
     "index_reference": "agano jipya",
@@ -424,13 +425,14 @@
           "end_ref_usfm": "HEB 9:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765206",
     "reference_id": 203349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano Jipya la Mungu",
     "media_type": "Text",
     "index_reference": "agano jipya la mungu",
@@ -644,13 +646,14 @@
           "end_ref_usfm": "HEB 9:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764959",
     "reference_id": 203102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano la Mungu na Abrahamu",
     "media_type": "Text",
     "index_reference": "agano la mungu na abrahamu",
@@ -912,13 +915,22 @@
           "end_ref_usfm": "ROM 11:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abrahamu",
+          "confidence": 0.7147,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765017",
     "reference_id": 203160,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano la Mungu na Daudi",
     "media_type": "Text",
     "index_reference": "agano la mungu na daudi",
@@ -1252,13 +1264,22 @@
           "end_ref_usfm": "MAT 21:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Daudi",
+          "confidence": 0.6431,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "764956",
     "reference_id": 203099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano la Mungu na Noa",
     "media_type": "Text",
     "index_reference": "agano la mungu na noa",
@@ -1376,13 +1397,14 @@
           "end_ref_usfm": "EZK 14:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765020",
     "reference_id": 203163,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano la Mungu na Wafalme wa Israeli",
     "media_type": "Text",
     "index_reference": "agano la mungu na wafalme wa israeli",
@@ -1626,13 +1648,22 @@
           "end_ref_usfm": "ACT 13:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israeli",
+          "confidence": 0.5195,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765101",
     "reference_id": 203244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano Lililovunjika",
     "media_type": "Text",
     "index_reference": "agano lililovunjika",
@@ -1756,13 +1787,14 @@
           "end_ref_usfm": "HOS 5:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764958",
     "reference_id": 203101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano za Mungu",
     "media_type": "Text",
     "index_reference": "agano za mungu",
@@ -2054,13 +2086,14 @@
           "end_ref_usfm": "EPH 2:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765098",
     "reference_id": 203241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahadi ya Kutoka kwa Pili",
     "media_type": "Text",
     "index_reference": "ahadi ya kutoka kwa pili ",
@@ -2250,13 +2283,14 @@
           "end_ref_usfm": "HEB 13:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765117",
     "reference_id": 203260,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahadi ya Maisha Mapya",
     "media_type": "Text",
     "index_reference": "ahadi ya maisha mapya",
@@ -2392,13 +2426,14 @@
           "end_ref_usfm": "EPH 6:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765135",
     "reference_id": 203278,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahadi ya Mungu kwa Watu Wake",
     "media_type": "Text",
     "index_reference": "ahadi ya mungu kwa watu wake",
@@ -2516,13 +2551,14 @@
           "end_ref_usfm": "JHN 14:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765030",
     "reference_id": 203173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahadi ya Nasaba",
     "media_type": "Text",
     "index_reference": "ahadi ya nasaba",
@@ -2628,13 +2664,14 @@
           "end_ref_usfm": "1CH 28:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765023",
     "reference_id": 203166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ardhi",
     "media_type": "Text",
     "index_reference": "ardhi",
@@ -2854,7 +2891,8 @@
           "end_ref_usfm": "MAT 26:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

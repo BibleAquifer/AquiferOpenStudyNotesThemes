@@ -2,7 +2,7 @@
   {
     "content_id": "702441",
     "reference_id": 203377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الثبات",
     "media_type": "Text",
     "index_reference": "الثبات",
@@ -144,13 +144,14 @@
           "end_ref_usfm": "HEB 12:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702381",
     "reference_id": 203317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الثبات في المسيح",
     "media_type": "Text",
     "index_reference": "الثبات في المسيح",
@@ -316,13 +317,14 @@
           "end_ref_usfm": "JOS 7:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702299",
     "reference_id": 203235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الثقة بالله في سفر إشعياء",
     "media_type": "Text",
     "index_reference": "الثقة بالله في سفر إشعياء",
@@ -446,13 +448,14 @@
           "end_ref_usfm": "ISA 40:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702274",
     "reference_id": 203210,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الثقة بالله في سفر المزامير",
     "media_type": "Text",
     "index_reference": "الثقة بالله في سفر المزامير",
@@ -906,13 +909,14 @@
           "end_ref_usfm": "PSA 40:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702243",
     "reference_id": 203179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الثقة في القوة البشرية",
     "media_type": "Text",
     "index_reference": "الثقة في القوة البشرية",
@@ -1102,13 +1106,14 @@
           "end_ref_usfm": "MAT 10:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702255",
     "reference_id": 203191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ثقة نحميا في ٱلله",
     "media_type": "Text",
     "index_reference": "ثقة نحميا في ٱلله",
@@ -1346,7 +1351,8 @@
           "end_ref_usfm": "PRO 3:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

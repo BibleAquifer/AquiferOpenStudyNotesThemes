@@ -2,7 +2,7 @@
   {
     "content_id": "700365",
     "reference_id": 203302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "對彌賽亞的盼望",
     "media_type": "Text",
     "index_reference": "對彌賽亞的盼望",
@@ -120,7 +120,8 @@
           "end_ref_usfm": "LUK 23:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

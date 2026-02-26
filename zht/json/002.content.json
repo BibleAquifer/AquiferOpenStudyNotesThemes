@@ -2,7 +2,7 @@
   {
     "content_id": "700410",
     "reference_id": 203347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "愛人",
     "media_type": "Text",
     "index_reference": "愛人",
@@ -180,7 +180,23 @@
           "end_ref_usfm": "1JN 3:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Love",
+          "type": "keyterm",
+          "preferred_label": "Love",
+          "confidence": 0.8356,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Beloved",
+          "type": "keyterm",
+          "preferred_label": "Beloved",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

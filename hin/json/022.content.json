@@ -2,7 +2,7 @@
   {
     "content_id": "709519",
     "reference_id": 203290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पत्थर जिसे राजमिस्त्रियों ने निकम्मा ठहराया",
     "media_type": "Text",
     "index_reference": "पत्थर जिसे राजमिस्त्रियों ने निकम्मा ठहराया",
@@ -396,13 +396,29 @@
           "end_ref_usfm": "1PE 2:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "योना",
+          "confidence": 0.6056,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tiberius",
+          "type": "person",
+          "preferred_label": "तिबिरियुस",
+          "confidence": 0.5502,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709477",
     "reference_id": 203248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर अपने सेवक की रक्षा करते हैं",
     "media_type": "Text",
     "index_reference": "परमेश्वर अपने सेवक की रक्षा करते हैं",
@@ -622,13 +638,14 @@
           "end_ref_usfm": "HEB 11:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709561",
     "reference_id": 203332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का अनुग्रह",
     "media_type": "Text",
     "index_reference": "परमेश्वर का अनुग्रह",
@@ -932,13 +949,14 @@
           "end_ref_usfm": "1PE 5:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709339",
     "reference_id": 203110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्‍वर का अनुसरण करते हुए कष्ट सहना",
     "media_type": "Text",
     "index_reference": "परमेश्‍वर का अनुसरण करते हुए कष्ट सहना",
@@ -1104,13 +1122,14 @@
           "end_ref_usfm": "1PE 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709400",
     "reference_id": 203171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का अपने लोगों के प्रति न्याय",
     "media_type": "Text",
     "index_reference": "परमेश्वर का अपने लोगों के प्रति न्याय",
@@ -1474,13 +1493,36 @@
           "end_ref_usfm": "JAS 2:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesse",
+          "type": "person",
+          "preferred_label": "यिशै",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah",
+          "type": "person",
+          "preferred_label": "हिल्किय्याह",
+          "confidence": 0.5273,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Laodicea",
+          "type": "place",
+          "preferred_label": "लौदीकिया",
+          "confidence": 0.5248,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709441",
     "reference_id": 203212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का क्रोध",
     "media_type": "Text",
     "index_reference": "परमेश्वर का क्रोध",
@@ -1784,13 +1826,14 @@
           "end_ref_usfm": "ROM 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709469",
     "reference_id": 203240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का दास (सेवक)",
     "media_type": "Text",
     "index_reference": "परमेश्वर का दास (सेवक)",
@@ -2034,13 +2077,14 @@
           "end_ref_usfm": "JER 33:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709405",
     "reference_id": 203176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का नाम उनके मन्दिर पर",
     "media_type": "Text",
     "index_reference": "परमेश्वर का नाम उनके मन्दिर पर",
@@ -2098,13 +2142,14 @@
           "end_ref_usfm": "2CH 6:42"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709468",
     "reference_id": 203239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का न्याय",
     "media_type": "Text",
     "index_reference": "परमेश्वर का न्याय",
@@ -2582,13 +2627,29 @@
           "end_ref_usfm": "LUK 1:75"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Greek",
+          "type": "group",
+          "preferred_label": "यूनानी",
+          "confidence": 0.6034,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesse",
+          "type": "person",
+          "preferred_label": "यिशै",
+          "confidence": 0.6017,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709524",
     "reference_id": 203295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का पुत्र",
     "media_type": "Text",
     "index_reference": "परमेश्वर का पुत्र",
@@ -3150,13 +3211,14 @@
           "end_ref_usfm": "HEB 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709604",
     "reference_id": 203375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का वचन",
     "media_type": "Text",
     "index_reference": "परमेश्वर का वचन",
@@ -3358,13 +3420,22 @@
           "end_ref_usfm": "JHN 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.8363,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "709368",
     "reference_id": 203139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का वाचा-प्रेम",
     "media_type": "Text",
     "index_reference": "परमेश्वर का वाचा-प्रेम",
@@ -3494,13 +3565,14 @@
           "end_ref_usfm": "1JN 4:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709404",
     "reference_id": 203175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर का वादा किया हुआ राज्य",
     "media_type": "Text",
     "index_reference": "परमेश्वर का वादा किया हुआ राज्य",
@@ -3702,13 +3774,22 @@
           "end_ref_usfm": "REV 21:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "यीशु",
+          "confidence": 0.6169,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709476",
     "reference_id": 203247,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की अद्वितीयता",
     "media_type": "Text",
     "index_reference": "परमेश्वर की अद्वितीयता",
@@ -3820,13 +3901,14 @@
           "end_ref_usfm": "ISA 44:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709565",
     "reference_id": 203336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की उद्धार की एकीकृत योजना",
     "media_type": "Text",
     "index_reference": "परमेश्वर की उद्धार की एकीकृत योजना",
@@ -4010,13 +4092,22 @@
           "end_ref_usfm": "1TI 2:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "यीशु",
+          "confidence": 0.6726,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709578",
     "reference_id": 203349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की नई वाचा",
     "media_type": "Text",
     "index_reference": "परमेश्वर की नई वाचा",
@@ -4230,13 +4321,22 @@
           "end_ref_usfm": "HEB 9:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Cush",
+          "type": "place",
+          "preferred_label": "कूश",
+          "confidence": 0.6012,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709406",
     "reference_id": 203177,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की पुनःस्थापना की योजना",
     "media_type": "Text",
     "index_reference": "परमेश्वर की पुनःस्थापना की योजना",
@@ -4384,13 +4484,29 @@
           "end_ref_usfm": "ROM 5:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shaphan",
+          "type": "person",
+          "preferred_label": "शापान",
+          "confidence": 0.6101,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Kish.3",
+          "type": "person",
+          "preferred_label": "कीश",
+          "confidence": 0.602,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709350",
     "reference_id": 203121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की पूर्ण पवित्रता",
     "media_type": "Text",
     "index_reference": "परमेश्वर की पूर्ण पवित्रता",
@@ -4472,13 +4588,22 @@
           "end_ref_usfm": "1SA 2:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "यहोवा",
+          "confidence": 0.563,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709344",
     "reference_id": 203115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की महिमा",
     "media_type": "Text",
     "index_reference": "परमेश्वर की महिमा",
@@ -4740,13 +4865,14 @@
           "end_ref_usfm": "ISA 6:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709330",
     "reference_id": 203101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की वाचाएँ",
     "media_type": "Text",
     "index_reference": "परमेश्वर की वाचाएँ",
@@ -5046,13 +5172,14 @@
           "label": "निर्गमन 20:1-23.33",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "709491",
     "reference_id": 203262,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की सच्चाई की तस्वीर के रूप में मन्दिर की बनावट",
     "media_type": "Text",
     "index_reference": "परमेश्वर की सच्चाई की तस्वीर के रूप में मन्दिर की बनावट",
@@ -5158,13 +5285,14 @@
           "end_ref_usfm": "HEB 10:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709568",
     "reference_id": 203339,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर की सम्प्रभुता",
     "media_type": "Text",
     "index_reference": "परमेश्वर की सम्प्रभुता",
@@ -5474,13 +5602,14 @@
           "end_ref_usfm": "ROM 9:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709537",
     "reference_id": 203308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के आत्मा का आगमन",
     "media_type": "Text",
     "index_reference": "परमेश्वर के आत्मा का आगमन",
@@ -5628,13 +5757,22 @@
           "end_ref_usfm": "LUK 2:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "पवित्र आत्मा",
+          "confidence": 0.551,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709459",
     "reference_id": 203230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के उपहारों का आनन्द लेना",
     "media_type": "Text",
     "index_reference": "परमेश्वर के उपहारों का आनन्द लेना",
@@ -5788,13 +5926,14 @@
           "end_ref_usfm": "COL 2:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709349",
     "reference_id": 203120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के निर्देश",
     "media_type": "Text",
     "index_reference": "परमेश्वर के निर्देश",
@@ -5942,13 +6081,29 @@
           "end_ref_usfm": "2TI 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gershon",
+          "type": "person",
+          "preferred_label": "गेर्शोन",
+          "confidence": 0.5308,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaphan",
+          "type": "person",
+          "preferred_label": "शापान",
+          "confidence": 0.5057,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709383",
     "reference_id": 203154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के मन का बदलाव",
     "media_type": "Text",
     "index_reference": "परमेश्वर के मन का बदलाव",
@@ -6084,13 +6239,14 @@
           "end_ref_usfm": "JON 4:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709522",
     "reference_id": 203293,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के राज्य का आगमन",
     "media_type": "Text",
     "index_reference": "परमेश्वर के राज्य का आगमन",
@@ -6412,13 +6568,22 @@
           "end_ref_usfm": "1CO 15:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "यीशु",
+          "confidence": 0.524,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709379",
     "reference_id": 203150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के लिए मन्नत",
     "media_type": "Text",
     "index_reference": "परमेश्वर के लिए मन्नत",
@@ -6584,13 +6749,14 @@
           "end_ref_usfm": "1SA 14:45"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709374",
     "reference_id": 203145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के लोगों का उत्पीड़न",
     "media_type": "Text",
     "index_reference": "परमेश्वर के लोगों का उत्पीड़न",
@@ -6726,13 +6892,14 @@
           "end_ref_usfm": "EZK 22:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709610",
     "reference_id": 203381,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के लोगों की पवित्रता",
     "media_type": "Text",
     "index_reference": "परमेश्वर के लोगों की पवित्रता",
@@ -6838,13 +7005,14 @@
           "end_ref_usfm": "REV 22:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709603",
     "reference_id": 203374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर के सब्त का विश्राम",
     "media_type": "Text",
     "index_reference": "परमेश्वर के सब्त का विश्राम",
@@ -7088,13 +7256,14 @@
           "end_ref_usfm": "ISA 54:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709498",
     "reference_id": 203269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर को जानना",
     "media_type": "Text",
     "index_reference": "परमेश्वर को जानना",
@@ -7260,13 +7429,14 @@
           "end_ref_usfm": "HEB 8:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709416",
     "reference_id": 203187,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर प्रार्थना के माध्यम से कार्य करते हैं",
     "media_type": "Text",
     "index_reference": "परमेश्वर प्रार्थना के माध्यम से कार्य करते हैं",
@@ -7546,13 +7716,22 @@
           "end_ref_usfm": "ACT 4:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "हेरोदेस",
+          "confidence": 0.5272,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709390",
     "reference_id": 203161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परमेश्वर या शैतान?",
     "media_type": "Text",
     "index_reference": "परमेश्वर या शैतान?",
@@ -7676,13 +7855,22 @@
           "end_ref_usfm": "EPH 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "शैतान",
+          "confidence": 0.6564,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709354",
     "reference_id": 203125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "परिवार, समाज, और यौन पाप",
     "media_type": "Text",
     "index_reference": "परिवार, समाज, और यौन पाप",
@@ -7800,13 +7988,14 @@
           "end_ref_usfm": "MAT 14:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709574",
     "reference_id": 203345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पवित्र आत्मा का कार्य",
     "media_type": "Text",
     "index_reference": "पवित्र आत्मा का कार्य",
@@ -8152,13 +8341,29 @@
           "end_ref_usfm": "1CO 14:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "पवित्र आत्मा",
+          "confidence": 0.7457,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Antioch",
+          "type": "place",
+          "preferred_label": "अन्ताकिया",
+          "confidence": 0.5008,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709551",
     "reference_id": 203322,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पवित्र आत्मा की उपस्थिति",
     "media_type": "Text",
     "index_reference": "पवित्र आत्मा की उपस्थिति",
@@ -8450,13 +8655,22 @@
           "end_ref_usfm": "ACT 10:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "पवित्र आत्मा",
+          "confidence": 0.6885,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709369",
     "reference_id": 203140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पवित्र युद्ध",
     "media_type": "Text",
     "index_reference": "पवित्र युद्ध",
@@ -8664,13 +8878,14 @@
           "end_ref_usfm": "REV 20:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709409",
     "reference_id": 203180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पवित्र योद्धा के रूप में परमेश्वर",
     "media_type": "Text",
     "index_reference": "पवित्र योद्धा के रूप में परमेश्वर",
@@ -8818,13 +9033,14 @@
           "end_ref_usfm": "2CO 10:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709413",
     "reference_id": 203184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पवित्रता और पहचान",
     "media_type": "Text",
     "index_reference": "पवित्रता और पहचान",
@@ -8984,13 +9200,14 @@
           "end_ref_usfm": "2TI 2:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709571",
     "reference_id": 203342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पवित्रता और लैंगिक शुद्धता",
     "media_type": "Text",
     "index_reference": "पवित्रता और लैंगिक शुद्धता",
@@ -9186,13 +9403,22 @@
           "end_ref_usfm": "COL 3:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "लूत",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709410",
     "reference_id": 203181,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पवित्रता का उल्लंघन",
     "media_type": "Text",
     "index_reference": "पवित्रता का उल्लंघन",
@@ -9304,13 +9530,14 @@
           "end_ref_usfm": "LEV 24:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709536",
     "reference_id": 203307,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पवित्रशास्त्र की पराकाष्ठा",
     "media_type": "Text",
     "index_reference": "पवित्रशास्त्र की पराकाष्ठा",
@@ -9404,13 +9631,14 @@
           "end_ref_usfm": "LUK 24:49"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709398",
     "reference_id": 203169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पहला राजाओं में भविष्यद्वक्ता",
     "media_type": "Text",
     "index_reference": "पहला राजाओं में भविष्यद्वक्ता",
@@ -9564,13 +9792,14 @@
           "end_ref_usfm": "1KI 22:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709399",
     "reference_id": 203170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पाप के खतरे",
     "media_type": "Text",
     "index_reference": "पाप के खतरे",
@@ -10084,13 +10313,14 @@
           "end_ref_usfm": "JER 44:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709361",
     "reference_id": 203132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पीतल का साँप",
     "media_type": "Text",
     "index_reference": "पीतल का साँप",
@@ -10184,13 +10414,14 @@
           "end_ref_usfm": "JHN 12:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709601",
     "reference_id": 203372,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पुत्र की श्रेष्ठता",
     "media_type": "Text",
     "index_reference": "पुत्र की श्रेष्ठता",
@@ -10368,13 +10599,14 @@
           "end_ref_usfm": "HEB 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709566",
     "reference_id": 203337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पुराना और नया राज",
     "media_type": "Text",
     "index_reference": "पुराना और नया राज",
@@ -10618,13 +10850,14 @@
           "end_ref_usfm": "EPH 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709586",
     "reference_id": 203357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पुराना जीवन और नया जीवन",
     "media_type": "Text",
     "index_reference": "पुराना जीवन और नया जीवन",
@@ -10700,13 +10933,14 @@
           "end_ref_usfm": "PHP 3:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709497",
     "reference_id": 203268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पुराने नियम में पुनरुत्थान",
     "media_type": "Text",
     "index_reference": "पुराने नियम में पुनरुत्थान",
@@ -10818,13 +11052,14 @@
           "end_ref_usfm": "MAT 27:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709422",
     "reference_id": 203193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पूरीम",
     "media_type": "Text",
     "index_reference": "पूरीम",
@@ -10936,13 +11171,22 @@
           "end_ref_usfm": "ACT 17:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Poratha",
+          "type": "person",
+          "preferred_label": "पोराता",
+          "confidence": 0.5159,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709582",
     "reference_id": 203353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पौलुस की भूमिका  एक प्रेरित",
     "media_type": "Text",
     "index_reference": "पौलुस की भूमिका  एक प्रेरित",
@@ -11168,7 +11412,16 @@
           "end_ref_usfm": "1TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Illyricum",
+          "type": "place",
+          "preferred_label": "इल्लुरिकुम",
+          "confidence": 0.5213,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

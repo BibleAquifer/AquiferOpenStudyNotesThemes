@@ -2,7 +2,7 @@
   {
     "content_id": "734189",
     "reference_id": 203162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jérusalem",
     "media_type": "Text",
     "index_reference": "jérusalem",
@@ -332,13 +332,22 @@
           "label": "2 Samuel 5.8",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jérusalem",
+          "confidence": 0.6758,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "734226",
     "reference_id": 203288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jésus et Satan",
     "media_type": "Text",
     "index_reference": "jésus et satan",
@@ -558,7 +567,16 @@
           "end_ref_usfm": "2CO 11:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satan",
+          "confidence": 0.7237,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

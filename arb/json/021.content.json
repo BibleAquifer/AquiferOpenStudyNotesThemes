@@ -2,7 +2,7 @@
   {
     "content_id": "702202",
     "reference_id": 203138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "اللعنات والبركات",
     "media_type": "Text",
     "index_reference": "اللعنات والبركات",
@@ -84,13 +84,14 @@
           "end_ref_usfm": "2CH 36:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702225",
     "reference_id": 203161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الله أم الشيطان؟",
     "media_type": "Text",
     "index_reference": "الله أم الشيطان؟",
@@ -214,13 +215,14 @@
           "end_ref_usfm": "EPH 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702312",
     "reference_id": 203248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الله يحمي خادمه",
     "media_type": "Text",
     "index_reference": "الله يحمي خادمه",
@@ -440,13 +442,14 @@
           "end_ref_usfm": "HEB 11:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702251",
     "reference_id": 203187,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الله يعمل من خلال الصلاة",
     "media_type": "Text",
     "index_reference": "الله يعمل من خلال الصلاة",
@@ -726,13 +729,14 @@
           "end_ref_usfm": "ACT 4:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702363",
     "reference_id": 203299,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الليلة الأخيرة ليسوع",
     "media_type": "Text",
     "index_reference": "الليلة الأخيرة ليسوع",
@@ -844,13 +848,14 @@
           "end_ref_usfm": "1CO 11:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702328",
     "reference_id": 203264,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لاهوت جغرافية إسرائيل",
     "media_type": "Text",
     "index_reference": "لاهوت جغرافية إسرائيل",
@@ -896,13 +901,14 @@
           "end_ref_usfm": "EZK 48:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702361",
     "reference_id": 203297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لقاءات مع يسوع",
     "media_type": "Text",
     "index_reference": "لقاءات مع يسوع",
@@ -1062,7 +1068,8 @@
           "end_ref_usfm": "MAT 16:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

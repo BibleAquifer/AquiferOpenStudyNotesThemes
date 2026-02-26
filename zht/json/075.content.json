@@ -2,7 +2,7 @@
   {
     "content_id": "700366",
     "reference_id": 203303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "受苦的先知",
     "media_type": "Text",
     "index_reference": "受苦的先知",
@@ -168,7 +168,8 @@
           "end_ref_usfm": "LUK 24:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

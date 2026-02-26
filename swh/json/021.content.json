@@ -2,7 +2,7 @@
   {
     "content_id": "765244",
     "reference_id": 203387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamthilia na Ufunuo",
     "media_type": "Text",
     "index_reference": "tamthilia na ufunuo",
@@ -48,13 +48,14 @@
           "end_ref_usfm": "REV 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764960",
     "reference_id": 203103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tohara",
     "media_type": "Text",
     "index_reference": "tohara",
@@ -346,13 +347,14 @@
           "end_ref_usfm": "PHP 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765187",
     "reference_id": 203330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tohara katika Agano Jipya",
     "media_type": "Text",
     "index_reference": "tohara katika agano jipya",
@@ -596,13 +598,14 @@
           "end_ref_usfm": "COL 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765159",
     "reference_id": 203302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tumaini kwa Masihi",
     "media_type": "Text",
     "index_reference": "tumaini kwa masihi",
@@ -720,13 +723,14 @@
           "end_ref_usfm": "LUK 23:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765109",
     "reference_id": 203252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tumaini Zaidi ya Hukumu",
     "media_type": "Text",
     "index_reference": "tumaini zaidi ya hukumu",
@@ -874,7 +878,8 @@
           "end_ref_usfm": "ISA 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

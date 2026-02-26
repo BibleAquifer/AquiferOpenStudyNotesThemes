@@ -2,7 +2,7 @@
   {
     "content_id": "800345",
     "reference_id": 203176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nome de Deus em seu templo",
     "media_type": "Text",
     "index_reference": "nome de deus em seu templo",
@@ -60,13 +60,22 @@
           "end_ref_usfm": "2CH 6:42"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5013,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800484",
     "reference_id": 203315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nosso Advogado",
     "media_type": "Text",
     "index_reference": "nosso advogado",
@@ -238,13 +247,14 @@
           "end_ref_usfm": "JHN 16:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800518",
     "reference_id": 203349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nova aliança de Deus",
     "media_type": "Text",
     "index_reference": "nova aliança de deus",
@@ -458,13 +468,14 @@
           "end_ref_usfm": "HEB 9:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800557",
     "reference_id": 203388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Números simbólicos",
     "media_type": "Text",
     "index_reference": "números simbólicos",
@@ -918,7 +929,8 @@
           "end_ref_usfm": "REV 21:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

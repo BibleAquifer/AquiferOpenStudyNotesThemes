@@ -2,7 +2,7 @@
   {
     "content_id": "764999",
     "reference_id": 203142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wajibu wa Jamii: Dhambi ya Akani",
     "media_type": "Text",
     "index_reference": "wajibu wa jamii: dhambi ya akani",
@@ -114,13 +114,22 @@
           "end_ref_usfm": "NEH 9:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Achan",
+          "type": "person",
+          "preferred_label": "Akani",
+          "confidence": 0.6132,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765171",
     "reference_id": 203314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wasifu wa Ufuasi wa Yohana",
     "media_type": "Text",
     "index_reference": "wasifu wa ufuasi wa yohana",
@@ -340,13 +349,22 @@
           "end_ref_usfm": "1CO 3:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "Yohana",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "764983",
     "reference_id": 203126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wasiwasi kwa Maskini",
     "media_type": "Text",
     "index_reference": "wasiwasi kwa maskini",
@@ -638,13 +656,14 @@
           "end_ref_usfm": "LUK 18:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765083",
     "reference_id": 203226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Watoto na Wazazi",
     "media_type": "Text",
     "index_reference": "watoto na wazazi",
@@ -876,13 +895,14 @@
           "end_ref_usfm": "PRO 4:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765197",
     "reference_id": 203340,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wayahudi na Mataifa (Wasio Wayahudi)",
     "media_type": "Text",
     "index_reference": "wayahudi na mataifa (wasio wayahudi)",
@@ -1144,13 +1164,14 @@
           "end_ref_usfm": "GAL 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765053",
     "reference_id": 203196,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wenye Haki Wanateseka",
     "media_type": "Text",
     "index_reference": "wenye haki wanateseka",
@@ -1358,13 +1379,14 @@
           "end_ref_usfm": "1PE 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765217",
     "reference_id": 203360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wimbo wa Kristo: Asili ya Kimungu ya Kristo",
     "media_type": "Text",
     "index_reference": "wimbo wa kristo: asili ya kimungu ya kristo",
@@ -1542,13 +1564,14 @@
           "end_ref_usfm": "HEB 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764990",
     "reference_id": 203133,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wingu na Moto",
     "media_type": "Text",
     "index_reference": "wingu na moto",
@@ -1870,13 +1893,14 @@
           "end_ref_usfm": "REV 14:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765099",
     "reference_id": 203242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wokovu katika Isaya",
     "media_type": "Text",
     "index_reference": "wokovu katika isaya",
@@ -2018,13 +2042,22 @@
           "end_ref_usfm": "REV 7:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaya",
+          "confidence": 0.6048,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765060",
     "reference_id": 203203,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wokovu katika Zaburi",
     "media_type": "Text",
     "index_reference": "wokovu katika zaburi",
@@ -2418,7 +2451,8 @@
           "end_ref_usfm": "PSA 98:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

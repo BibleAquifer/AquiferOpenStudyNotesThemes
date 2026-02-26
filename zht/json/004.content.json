@@ -2,7 +2,7 @@
   {
     "content_id": "700416",
     "reference_id": 203353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "保羅使徒的角色",
     "media_type": "Text",
     "index_reference": "保羅使徒的角色",
@@ -228,13 +228,14 @@
           "end_ref_usfm": "1TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700161",
     "reference_id": 203098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "報應",
     "media_type": "Text",
     "index_reference": "報應",
@@ -484,7 +485,8 @@
           "end_ref_usfm": "ROM 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

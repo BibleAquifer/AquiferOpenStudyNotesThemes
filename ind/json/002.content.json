@@ -2,7 +2,7 @@
   {
     "content_id": "769558",
     "reference_id": 203291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iman dan Perbuatan Baik",
     "media_type": "Text",
     "index_reference": "iman dan perbuatan baik",
@@ -348,7 +348,8 @@
           "end_ref_usfm": "REV 21:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

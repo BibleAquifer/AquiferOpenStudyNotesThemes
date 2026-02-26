@@ -2,7 +2,7 @@
   {
     "content_id": "500219",
     "reference_id": 203162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jerusalem",
     "media_type": "Text",
     "index_reference": "jerusalem",
@@ -332,13 +332,29 @@
           "label": "2 Samuel 5:8",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.6758,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:CityOfDavid",
+          "type": "place",
+          "preferred_label": "City of David",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "500345",
     "reference_id": 203288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jesus and Satan",
     "media_type": "Text",
     "index_reference": "jesus and satan",
@@ -558,13 +574,22 @@
           "end_ref_usfm": "2CO 11:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satan",
+          "confidence": 0.7237,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500356",
     "reference_id": 203299,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jesus’ Final Night",
     "media_type": "Text",
     "index_reference": "jesus’ final night",
@@ -676,13 +701,22 @@
           "end_ref_usfm": "1CO 11:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5171,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500361",
     "reference_id": 203304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jesus’ Prayers",
     "media_type": "Text",
     "index_reference": "jesus’ prayers",
@@ -806,13 +840,14 @@
           "end_ref_usfm": "LUK 11:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500397",
     "reference_id": 203340,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jews and Gentiles (Non-Jews)",
     "media_type": "Text",
     "index_reference": "jews and gentiles (non-jews)",
@@ -1080,13 +1115,29 @@
           "end_ref_usfm": "ROM 11:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.61,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "Gentiles",
+          "confidence": 0.5225,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500256",
     "reference_id": 203199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Job’s Innocence",
     "media_type": "Text",
     "index_reference": "job’s innocence",
@@ -1354,13 +1405,22 @@
           "end_ref_usfm": "JOB 9:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Job",
+          "type": "person",
+          "preferred_label": "Job",
+          "confidence": 0.6277,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500371",
     "reference_id": 203314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "John’s Profile of Discipleship",
     "media_type": "Text",
     "index_reference": "john’s profile of discipleship",
@@ -1580,7 +1640,16 @@
           "end_ref_usfm": "1CO 3:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

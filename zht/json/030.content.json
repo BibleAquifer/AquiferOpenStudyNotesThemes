@@ -2,7 +2,7 @@
   {
     "content_id": "700413",
     "reference_id": 203350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "和好的信息",
     "media_type": "Text",
     "index_reference": "和好的信息",
@@ -144,7 +144,8 @@
           "end_ref_usfm": "COL 1:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

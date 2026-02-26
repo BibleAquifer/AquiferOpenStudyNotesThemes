@@ -2,7 +2,7 @@
   {
     "content_id": "700182",
     "reference_id": 203119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "群體身分",
     "media_type": "Text",
     "index_reference": "群體身分",
@@ -102,13 +102,14 @@
           "end_ref_usfm": "EXO 20:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700205",
     "reference_id": 203142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "群體責任：亞干的罪",
     "media_type": "Text",
     "index_reference": "群體責任：亞干的罪",
@@ -220,7 +221,8 @@
           "end_ref_usfm": "NEH 9:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

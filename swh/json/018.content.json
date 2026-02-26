@@ -2,7 +2,7 @@
   {
     "content_id": "764974",
     "reference_id": 203117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pasaka",
     "media_type": "Text",
     "index_reference": "pasaka",
@@ -114,13 +114,22 @@
           "end_ref_usfm": "DEU 16:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Passover",
+          "type": "keyterm",
+          "preferred_label": "Passover",
+          "confidence": 0.896,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "765123",
     "reference_id": 203266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pembe Ndogo",
     "media_type": "Text",
     "index_reference": "pembe ndogo",
@@ -304,13 +313,14 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765231",
     "reference_id": 203374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pumziko la sabato ya Mungu",
     "media_type": "Text",
     "index_reference": "pumziko la sabato ya mungu",
@@ -554,13 +564,14 @@
           "end_ref_usfm": "ISA 54:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765050",
     "reference_id": 203193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Purimu",
     "media_type": "Text",
     "index_reference": "purimu",
@@ -672,7 +683,8 @@
           "end_ref_usfm": "ACT 17:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

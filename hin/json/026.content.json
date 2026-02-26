@@ -2,7 +2,7 @@
   {
     "content_id": "709432",
     "reference_id": 203203,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भजन संहिता में उद्धार",
     "media_type": "Text",
     "index_reference": "भजन संहिता में उद्धार",
@@ -396,13 +396,14 @@
           "end_ref_usfm": "PSA 98:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709431",
     "reference_id": 203202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भजन संहिता में दीन और दरिद्र",
     "media_type": "Text",
     "index_reference": "भजन संहिता में दीन और दरिद्र",
@@ -700,13 +701,14 @@
           "end_ref_usfm": "PSA 82:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709435",
     "reference_id": 203206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भजन संहिता में परमेश्वर की उपस्थिति",
     "media_type": "Text",
     "index_reference": "भजन संहिता में परमेश्वर की उपस्थिति",
@@ -950,13 +952,14 @@
           "end_ref_usfm": "PSA 80:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709439",
     "reference_id": 203210,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भजन संहिता में परमेश्वर पर भरोसा करना",
     "media_type": "Text",
     "index_reference": "भजन संहिता में परमेश्वर पर भरोसा करना",
@@ -1410,13 +1413,14 @@
           "end_ref_usfm": "PSA 40:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709447",
     "reference_id": 203218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भजन संहिता में हृदय",
     "media_type": "Text",
     "index_reference": "भजन संहिता में हृदय",
@@ -1912,13 +1916,14 @@
           "end_ref_usfm": "PSA 62:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709562",
     "reference_id": 203333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भविष्यद्वाणी का वरदान",
     "media_type": "Text",
     "index_reference": "भविष्यद्वाणी का वरदान",
@@ -2204,13 +2209,14 @@
           "end_ref_usfm": "EZK 13:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709385",
     "reference_id": 203156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भूत-सिद्धि",
     "media_type": "Text",
     "index_reference": "भूत-सिद्धि",
@@ -2340,13 +2346,14 @@
           "end_ref_usfm": "ISA 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709395",
     "reference_id": 203166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भूमि (देश)",
     "media_type": "Text",
     "index_reference": "भूमि (देश)",
@@ -2566,13 +2573,14 @@
           "end_ref_usfm": "MAT 26:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709373",
     "reference_id": 203144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भूमि पर उत्तराधिकार प्राप्त करना",
     "media_type": "Text",
     "index_reference": "भूमि पर उत्तराधिकार प्राप्त करना",
@@ -2654,13 +2662,50 @@
           "end_ref_usfm": "PSA 37:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Machir",
+          "type": "person",
+          "preferred_label": "माकीर",
+          "confidence": 0.6035,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Mephaath",
+          "type": "place",
+          "preferred_label": "मेपात",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Parah",
+          "type": "place",
+          "preferred_label": "पारा",
+          "confidence": 0.6012,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Rekem",
+          "type": "place",
+          "preferred_label": "रेकेम",
+          "confidence": 0.6012,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rekem",
+          "type": "person",
+          "preferred_label": "रेकेम",
+          "confidence": 0.6012,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709424",
     "reference_id": 203195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भौतिक पुरस्कार",
     "media_type": "Text",
     "index_reference": "भौतिक पुरस्कार",
@@ -2844,7 +2889,8 @@
           "end_ref_usfm": "LUK 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

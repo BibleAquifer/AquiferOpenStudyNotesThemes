@@ -2,7 +2,7 @@
   {
     "content_id": "709483",
     "reference_id": 203254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लिखित शब्द",
     "media_type": "Text",
     "index_reference": "लिखित शब्द",
@@ -264,13 +264,14 @@
           "end_ref_usfm": "1JN 2:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709535",
     "reference_id": 203306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लूका के सुसमाचार में धनवान और कंगाल",
     "media_type": "Text",
     "index_reference": "लूका के सुसमाचार में धनवान और कंगाल",
@@ -352,13 +353,22 @@
           "end_ref_usfm": "LUK 14:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lazarus",
+          "type": "person",
+          "preferred_label": "लाज़र",
+          "confidence": 0.51,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709529",
     "reference_id": 203300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लूका–प्रेरितों के काम में स्तुति और आनन्द",
     "media_type": "Text",
     "index_reference": "लूका–प्रेरितों के काम में स्तुति और आनन्द",
@@ -542,7 +552,8 @@
           "end_ref_usfm": "LUK 24:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

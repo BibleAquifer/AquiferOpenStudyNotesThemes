@@ -2,7 +2,7 @@
   {
     "content_id": "500286",
     "reference_id": 203229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "All Is “Vapor”",
     "media_type": "Text",
     "index_reference": "all is “vapor”",
@@ -96,13 +96,14 @@
           "end_ref_usfm": "JAS 4:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500161",
     "reference_id": 203104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Altars",
     "media_type": "Text",
     "index_reference": "altars",
@@ -298,13 +299,43 @@
           "end_ref_usfm": "HEB 13:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:StoneAltar",
+          "type": "realia",
+          "preferred_label": "Stone Altar",
+          "confidence": 0.669,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:TempleAltar",
+          "type": "realia",
+          "preferred_label": "Temple Altar",
+          "confidence": 0.519,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:TabernacleAltar",
+          "type": "realia",
+          "preferred_label": "Tabernacle Altar",
+          "confidence": 0.519,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Altar",
+          "type": "realia",
+          "preferred_label": "Altar",
+          "confidence": 0.519,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500338",
     "reference_id": 203281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ancestors of Jesus",
     "media_type": "Text",
     "index_reference": "ancestors of jesus",
@@ -350,13 +381,22 @@
           "end_ref_usfm": "MAT 11:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.6053,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500171",
     "reference_id": 203114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ancient Law Codes",
     "media_type": "Text",
     "index_reference": "ancient law codes",
@@ -460,13 +500,14 @@
           "label": "Leviticus 1:1-7:38",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "500391",
     "reference_id": 203334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Angels",
     "media_type": "Text",
     "index_reference": "angels",
@@ -1046,13 +1087,22 @@
           "end_ref_usfm": "REV 22:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Angels",
+          "type": "group",
+          "preferred_label": "Angels",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500280",
     "reference_id": 203223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Anger",
     "media_type": "Text",
     "index_reference": "anger",
@@ -1302,13 +1352,14 @@
           "end_ref_usfm": "NAM 1:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500318",
     "reference_id": 203261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apocalyptic Literature",
     "media_type": "Text",
     "index_reference": "apocalyptic literature",
@@ -1348,13 +1399,14 @@
           "end_ref_usfm": "ISA 27:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500430",
     "reference_id": 203373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apostasy",
     "media_type": "Text",
     "index_reference": "apostasy",
@@ -1514,13 +1566,14 @@
           "end_ref_usfm": "ISA 66:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500239",
     "reference_id": 203182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apostasy and Renewal",
     "media_type": "Text",
     "index_reference": "apostasy and renewal",
@@ -1680,13 +1733,14 @@
           "end_ref_usfm": "EZK 33:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500181",
     "reference_id": 203124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Atonement",
     "media_type": "Text",
     "index_reference": "atonement",
@@ -1852,7 +1906,16 @@
           "end_ref_usfm": "HEB 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Atonement",
+          "type": "keyterm",
+          "preferred_label": "Atonement",
+          "confidence": 0.6117,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

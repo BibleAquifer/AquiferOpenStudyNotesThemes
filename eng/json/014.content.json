@@ -2,7 +2,7 @@
   {
     "content_id": "500270",
     "reference_id": 203213,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Making Sense of the Exile",
     "media_type": "Text",
     "index_reference": "making sense of the exile",
@@ -222,13 +222,14 @@
           "end_ref_usfm": "ISA 52:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500278",
     "reference_id": 203221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marriage and Sexuality",
     "media_type": "Text",
     "index_reference": "marriage and sexuality",
@@ -352,13 +353,14 @@
           "end_ref_usfm": "MAT 19:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500252",
     "reference_id": 203195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Material Reward",
     "media_type": "Text",
     "index_reference": "material reward",
@@ -542,13 +544,14 @@
           "end_ref_usfm": "LUK 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500316",
     "reference_id": 203259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Messages Against the Nations",
     "media_type": "Text",
     "index_reference": "messages against the nations",
@@ -678,13 +681,14 @@
           "end_ref_usfm": "ROM 2:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500384",
     "reference_id": 203327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miracles",
     "media_type": "Text",
     "index_reference": "miracles",
@@ -1012,13 +1016,14 @@
           "end_ref_usfm": "1JN 5:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500367",
     "reference_id": 203310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miraculous Signs in the Gospel of John",
     "media_type": "Text",
     "index_reference": "miraculous signs in the gospel of john",
@@ -1340,13 +1345,22 @@
           "end_ref_usfm": "EXO 4:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:MiraculousSign",
+          "type": "keyterm",
+          "preferred_label": "Miraculous Sign",
+          "confidence": 0.5193,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500370",
     "reference_id": 203313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Misunderstanding in the Gospel of John",
     "media_type": "Text",
     "index_reference": "misunderstanding in the gospel of john",
@@ -1512,13 +1526,14 @@
           "end_ref_usfm": "JHN 1:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500268",
     "reference_id": 203211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Music in Ancient Israel",
     "media_type": "Text",
     "index_reference": "music in ancient israel",
@@ -1612,7 +1627,16 @@
           "end_ref_usfm": "PSA 71:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5091,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

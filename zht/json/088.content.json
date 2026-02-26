@@ -2,7 +2,7 @@
   {
     "content_id": "700378",
     "reference_id": 203315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "我們的保惠師",
     "media_type": "Text",
     "index_reference": "我們的保惠師",
@@ -174,7 +174,8 @@
           "end_ref_usfm": "JHN 16:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

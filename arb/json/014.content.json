@@ -2,7 +2,7 @@
   {
     "content_id": "702250",
     "reference_id": 203186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الطلاق والزاوج من غير المؤمنين",
     "media_type": "Text",
     "index_reference": "الطلاق والزاوج من غير المؤمنين",
@@ -120,13 +120,14 @@
           "end_ref_usfm": "1CO 7:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702186",
     "reference_id": 203122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "طاهر، نجس ، ومقدس",
     "media_type": "Text",
     "index_reference": "طاهر، نجس ، ومقدس",
@@ -298,13 +299,14 @@
           "end_ref_usfm": "ACT 10:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702236",
     "reference_id": 203172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "طلب الرب",
     "media_type": "Text",
     "index_reference": "طلب الرب",
@@ -452,7 +454,8 @@
           "end_ref_usfm": "MAT 6:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

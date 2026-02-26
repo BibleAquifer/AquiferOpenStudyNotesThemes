@@ -2,7 +2,7 @@
   {
     "content_id": "700417",
     "reference_id": 203354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "因信稱義",
     "media_type": "Text",
     "index_reference": "因信稱義",
@@ -84,13 +84,14 @@
           "end_ref_usfm": "ACT 11:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700441",
     "reference_id": 203378,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "因著信",
     "media_type": "Text",
     "index_reference": "因著信",
@@ -262,7 +263,8 @@
           "end_ref_usfm": "JAS 1:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

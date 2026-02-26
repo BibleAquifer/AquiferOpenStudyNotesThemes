@@ -2,7 +2,7 @@
   {
     "content_id": "700289",
     "reference_id": 203226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "兒女和父母",
     "media_type": "Text",
     "index_reference": "兒女和父母",
@@ -234,7 +234,16 @@
           "end_ref_usfm": "PRO 4:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Parents",
+          "type": "group",
+          "preferred_label": "Parents",
+          "confidence": 0.8132,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700290",
     "reference_id": 203227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "懶惰與勤勞工作",
     "media_type": "Text",
     "index_reference": "懶惰與勤勞工作",
@@ -252,7 +252,8 @@
           "end_ref_usfm": "2TH 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

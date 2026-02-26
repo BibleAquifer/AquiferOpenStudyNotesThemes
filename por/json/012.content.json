@@ -2,7 +2,7 @@
   {
     "content_id": "800331",
     "reference_id": 203162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jerusalém",
     "media_type": "Text",
     "index_reference": "jerusalém",
@@ -332,13 +332,22 @@
           "label": "2 Samuel 5.8",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalém",
+          "confidence": 0.6758,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "800457",
     "reference_id": 203288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jesus e Satanás",
     "media_type": "Text",
     "index_reference": "jesus e satanás",
@@ -558,13 +567,22 @@
           "end_ref_usfm": "2CO 11:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satanás",
+          "confidence": 0.7237,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800509",
     "reference_id": 203340,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judeus e gentios (Não-judeus)",
     "media_type": "Text",
     "index_reference": "judeus e gentios (não-judeus)",
@@ -826,13 +844,14 @@
           "end_ref_usfm": "GAL 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800340",
     "reference_id": 203171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Julgamento de Deus sobre seu povo",
     "media_type": "Text",
     "index_reference": "julgamento de deus sobre seu povo",
@@ -1196,13 +1215,14 @@
           "end_ref_usfm": "JAS 2:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800408",
     "reference_id": 203239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Justiça de Deus",
     "media_type": "Text",
     "index_reference": "justiça de deus",
@@ -1680,13 +1700,14 @@
           "end_ref_usfm": "LUK 1:75"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800439",
     "reference_id": 203270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Justiça social",
     "media_type": "Text",
     "index_reference": "justiça social",
@@ -1924,13 +1945,14 @@
           "end_ref_usfm": "AMO 5:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800306",
     "reference_id": 203137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Justiça verdadeira",
     "media_type": "Text",
     "index_reference": "justiça verdadeira",
@@ -2102,13 +2124,14 @@
           "end_ref_usfm": "LUK 18:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800523",
     "reference_id": 203354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Justificação pela fé",
     "media_type": "Text",
     "index_reference": "justificação pela fé",
@@ -2190,7 +2213,8 @@
           "end_ref_usfm": "ACT 11:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

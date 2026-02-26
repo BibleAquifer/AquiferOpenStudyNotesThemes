@@ -2,7 +2,7 @@
   {
     "content_id": "500401",
     "reference_id": 203344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Giving up Rights",
     "media_type": "Text",
     "index_reference": "giving up rights",
@@ -174,13 +174,14 @@
           "end_ref_usfm": "2TI 2:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500237",
     "reference_id": 203180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God as Holy Warrior",
     "media_type": "Text",
     "index_reference": "god as holy warrior",
@@ -328,13 +329,22 @@
           "end_ref_usfm": "2CO 10:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6199,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500218",
     "reference_id": 203161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God or Satan?",
     "media_type": "Text",
     "index_reference": "god or satan?",
@@ -458,13 +468,29 @@
           "end_ref_usfm": "EPH 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satan",
+          "confidence": 0.6564,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6164,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500305",
     "reference_id": 203248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God Protects His Servant",
     "media_type": "Text",
     "index_reference": "god protects his servant",
@@ -684,13 +710,29 @@
           "end_ref_usfm": "HEB 11:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 0.6017,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5951,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500244",
     "reference_id": 203187,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God Works through Prayer",
     "media_type": "Text",
     "index_reference": "god works through prayer",
@@ -970,13 +1012,22 @@
           "end_ref_usfm": "ACT 4:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6167,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500178",
     "reference_id": 203121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Absolute Holiness",
     "media_type": "Text",
     "index_reference": "god’s absolute holiness",
@@ -1058,13 +1109,22 @@
           "end_ref_usfm": "1SA 2:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.95,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500269",
     "reference_id": 203212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Anger",
     "media_type": "Text",
     "index_reference": "god’s anger",
@@ -1368,13 +1428,22 @@
           "end_ref_usfm": "ROM 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5766,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500211",
     "reference_id": 203154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Change of Mind",
     "media_type": "Text",
     "index_reference": "god’s change of mind",
@@ -1510,13 +1579,22 @@
           "end_ref_usfm": "JON 4:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.7347,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500335",
     "reference_id": 203278,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Commitment to His People",
     "media_type": "Text",
     "index_reference": "god’s commitment to his people",
@@ -1634,13 +1712,22 @@
           "end_ref_usfm": "JHN 14:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6278,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500196",
     "reference_id": 203139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Covenant Love",
     "media_type": "Text",
     "index_reference": "god’s covenant love",
@@ -1770,13 +1857,29 @@
           "end_ref_usfm": "1JN 4:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Love",
+          "type": "keyterm",
+          "preferred_label": "Love",
+          "confidence": 0.6345,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5741,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500159",
     "reference_id": 203102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Covenant with Abraham",
     "media_type": "Text",
     "index_reference": "god’s covenant with abraham",
@@ -2038,13 +2141,36 @@
           "end_ref_usfm": "ROM 11:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraham",
+          "confidence": 0.7147,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 0.6453,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.57,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500217",
     "reference_id": 203160,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Covenant with David",
     "media_type": "Text",
     "index_reference": "god’s covenant with david",
@@ -2378,13 +2504,36 @@
           "end_ref_usfm": "MAT 21:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 0.6431,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 0.6421,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5926,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500220",
     "reference_id": 203163,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Covenant with Israel’s Kings",
     "media_type": "Text",
     "index_reference": "god’s covenant with israel’s kings",
@@ -2628,13 +2777,29 @@
           "end_ref_usfm": "ACT 13:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5195,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500156",
     "reference_id": 203099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Covenant with Noah",
     "media_type": "Text",
     "index_reference": "god’s covenant with noah",
@@ -2752,13 +2917,36 @@
           "end_ref_usfm": "EZK 14:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 0.6731,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6462,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500158",
     "reference_id": 203101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Covenants",
     "media_type": "Text",
     "index_reference": "god’s covenants",
@@ -3058,13 +3246,29 @@
           "label": "Exodus 20:1-23.33",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5918,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 0.5148,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "500224",
     "reference_id": 203167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Faithfulness to His People",
     "media_type": "Text",
     "index_reference": "god’s faithfulness to his people",
@@ -3392,13 +3596,36 @@
           "end_ref_usfm": "REV 1:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.7765,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Moses",
+          "confidence": 0.6128,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Faithfulness",
+          "type": "keyterm",
+          "preferred_label": "Faithfulness",
+          "confidence": 0.6114,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500312",
     "reference_id": 203255,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Glory with His People",
     "media_type": "Text",
     "index_reference": "god’s glory with his people",
@@ -3588,13 +3815,29 @@
           "end_ref_usfm": "ISA 60:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Glory",
+          "type": "keyterm",
+          "preferred_label": "Glory",
+          "confidence": 0.6824,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6197,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500204",
     "reference_id": 203147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Grief over Apostasy",
     "media_type": "Text",
     "index_reference": "god’s grief over apostasy",
@@ -3700,13 +3943,22 @@
           "end_ref_usfm": "2CO 5:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500235",
     "reference_id": 203178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Inscrutable Purposes in History",
     "media_type": "Text",
     "index_reference": "god’s inscrutable purposes in history",
@@ -3788,13 +4040,22 @@
           "end_ref_usfm": "EPH 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5763,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500177",
     "reference_id": 203120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Instructions",
     "media_type": "Text",
     "index_reference": "god’s instructions",
@@ -3942,13 +4203,22 @@
           "end_ref_usfm": "2TI 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6027,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500228",
     "reference_id": 203171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Judgment of His People",
     "media_type": "Text",
     "index_reference": "god’s judgment of his people",
@@ -4312,13 +4582,29 @@
           "end_ref_usfm": "JAS 2:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "Judgment",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5838,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500296",
     "reference_id": 203239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Justice",
     "media_type": "Text",
     "index_reference": "god’s justice",
@@ -4802,13 +5088,22 @@
           "end_ref_usfm": "ISA 1:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5996,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500336",
     "reference_id": 203279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Love for Israel",
     "media_type": "Text",
     "index_reference": "god’s love for israel",
@@ -4950,13 +5245,29 @@
           "end_ref_usfm": "PSA 106:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5774,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5211,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500233",
     "reference_id": 203176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Name on His Temple",
     "media_type": "Text",
     "index_reference": "god’s name on his temple",
@@ -5014,13 +5325,36 @@
           "end_ref_usfm": "2CH 6:42"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.7533,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Moses",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.5767,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500406",
     "reference_id": 203349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s New Covenant",
     "media_type": "Text",
     "index_reference": "god’s new covenant",
@@ -5234,13 +5568,29 @@
           "end_ref_usfm": "HEB 9:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 0.6347,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6073,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500234",
     "reference_id": 203177,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Plan to Restore",
     "media_type": "Text",
     "index_reference": "god’s plan to restore",
@@ -5388,13 +5738,22 @@
           "end_ref_usfm": "ROM 5:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6751,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500263",
     "reference_id": 203206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Presence in the Psalms",
     "media_type": "Text",
     "index_reference": "god’s presence in the psalms",
@@ -5638,13 +5997,22 @@
           "end_ref_usfm": "PSA 80:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6254,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500232",
     "reference_id": 203175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Promised Kingdom",
     "media_type": "Text",
     "index_reference": "god’s promised kingdom",
@@ -5846,13 +6214,22 @@
           "end_ref_usfm": "REV 21:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5378,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500329",
     "reference_id": 203272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God's Rule and Power Over All Nations",
     "media_type": "Text",
     "index_reference": "god's rule and power over all nations",
@@ -6072,13 +6449,29 @@
           "end_ref_usfm": "ACT 17:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6777,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "Gentiles",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500431",
     "reference_id": 203374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Sabbath Rest",
     "media_type": "Text",
     "index_reference": "god’s sabbath rest",
@@ -6322,13 +6715,29 @@
           "end_ref_usfm": "ISA 54:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Sabbath",
+          "type": "keyterm",
+          "preferred_label": "Sabbath",
+          "confidence": 0.6807,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5748,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500297",
     "reference_id": 203240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Servant",
     "media_type": "Text",
     "index_reference": "god’s servant",
@@ -6572,13 +6981,22 @@
           "end_ref_usfm": "JER 33:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5984,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500393",
     "reference_id": 203336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Unified Plan of Salvation",
     "media_type": "Text",
     "index_reference": "god’s unified plan of salvation",
@@ -6762,13 +7180,29 @@
           "end_ref_usfm": "1TI 2:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Salvation",
+          "type": "keyterm",
+          "preferred_label": "Salvation",
+          "confidence": 0.6389,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5721,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500304",
     "reference_id": 203247,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Uniqueness",
     "media_type": "Text",
     "index_reference": "god’s uniqueness",
@@ -6880,13 +7314,22 @@
           "end_ref_usfm": "ISA 44:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5563,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500432",
     "reference_id": 203375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s Word",
     "media_type": "Text",
     "index_reference": "god’s word",
@@ -7088,13 +7531,22 @@
           "end_ref_usfm": "JHN 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6858,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500247",
     "reference_id": 203190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God's Word at the Center",
     "media_type": "Text",
     "index_reference": "god's word at the center",
@@ -7272,7 +7724,16 @@
           "end_ref_usfm": "MAT 13:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5689,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

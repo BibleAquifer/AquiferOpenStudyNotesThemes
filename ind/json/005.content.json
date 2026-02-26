@@ -2,7 +2,7 @@
   {
     "content_id": "769553",
     "reference_id": 203286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Makan Bersama",
     "media_type": "Text",
     "index_reference": "makan bersama",
@@ -138,7 +138,8 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]
