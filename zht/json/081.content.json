@@ -2,7 +2,7 @@
   {
     "content_id": "700347",
     "reference_id": 203284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天國的國民身份",
     "media_type": "Text",
     "index_reference": "天國的國民身份",
@@ -102,13 +102,14 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700324",
     "reference_id": 203261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天啟文學",
     "media_type": "Text",
     "index_reference": "天啟文學",
@@ -148,13 +149,14 @@
           "end_ref_usfm": "ISA 27:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700192",
     "reference_id": 203129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天上的糧食",
     "media_type": "Text",
     "index_reference": "天上的糧食",
@@ -284,13 +286,14 @@
           "end_ref_usfm": "1CO 10:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700397",
     "reference_id": 203334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天使",
     "media_type": "Text",
     "index_reference": "天使",
@@ -870,13 +873,29 @@
           "end_ref_usfm": "REV 22:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Angels",
+          "type": "group",
+          "preferred_label": "Angels",
+          "confidence": 0.849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Angel",
+          "type": "deity",
+          "preferred_label": "An Angel",
+          "confidence": 0.8085,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "700454",
     "reference_id": 203391,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天使的敬拜",
     "media_type": "Text",
     "index_reference": "天使的敬拜",
@@ -934,7 +953,8 @@
           "end_ref_usfm": "LUK 2:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

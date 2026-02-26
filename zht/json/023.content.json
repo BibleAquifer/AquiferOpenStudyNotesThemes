@@ -2,7 +2,7 @@
   {
     "content_id": "700448",
     "reference_id": 203385,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "給七個教會的書信",
     "media_type": "Text",
     "index_reference": "給七個教會的書信",
@@ -24,7 +24,8 @@
           "end_ref_usfm": "REV 1:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

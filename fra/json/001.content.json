@@ -2,7 +2,7 @@
   {
     "content_id": "708449",
     "reference_id": 203311,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "« Croire » dans l'Évangile de Jean",
     "media_type": "Text",
     "index_reference": "« croire » dans l'évangile de jean",
@@ -198,7 +198,16 @@
           "end_ref_usfm": "JHN 20:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "croire",
+          "confidence": 0.8313,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

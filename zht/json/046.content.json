@@ -2,7 +2,7 @@
   {
     "content_id": "700404",
     "reference_id": 203341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "寬容",
     "media_type": "Text",
     "index_reference": "寬容",
@@ -114,7 +114,8 @@
           "end_ref_usfm": "COL 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

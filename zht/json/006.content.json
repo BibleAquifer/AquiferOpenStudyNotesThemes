@@ -2,7 +2,7 @@
   {
     "content_id": "700388",
     "reference_id": 203325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "逼迫",
     "media_type": "Text",
     "index_reference": "逼迫",
@@ -402,7 +402,8 @@
           "end_ref_usfm": "1PE 3:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700201",
     "reference_id": 203138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "詛咒和祝福",
     "media_type": "Text",
     "index_reference": "詛咒和祝福",
@@ -84,7 +84,8 @@
           "end_ref_usfm": "2CH 36:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "718777",
     "reference_id": 203153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Полное уничтожение",
     "media_type": "Text",
     "index_reference": "полное уничтожение",
@@ -150,7 +150,8 @@
           "end_ref_usfm": "JOS 7:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

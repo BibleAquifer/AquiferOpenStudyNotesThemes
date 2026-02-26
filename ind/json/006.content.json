@@ -2,7 +2,7 @@
   {
     "content_id": "769394",
     "reference_id": 203127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pengkhususan Total",
     "media_type": "Text",
     "index_reference": "pengkhususan total",
@@ -210,13 +210,14 @@
           "end_ref_usfm": "1JN 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "769420",
     "reference_id": 203153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pengrusakan Total",
     "media_type": "Text",
     "index_reference": "pengrusakan total",
@@ -372,13 +373,14 @@
           "label": "Pengkhususan Total",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "769554",
     "reference_id": 203287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Penyembuh yang Penuh Belas Kasihan",
     "media_type": "Text",
     "index_reference": "penyembuh yang penuh belas kasihan",
@@ -628,7 +630,16 @@
           "end_ref_usfm": "LUK 15:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "belas kasihan",
+          "confidence": 0.6179,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "800313",
     "reference_id": 203144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herdando a terra",
     "media_type": "Text",
     "index_reference": "herdando a terra",
@@ -84,13 +84,14 @@
           "end_ref_usfm": "PSA 37:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800553",
     "reference_id": 203384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heresias cristãs primitivas",
     "media_type": "Text",
     "index_reference": "heresias cristãs primitivas",
@@ -214,13 +215,14 @@
           "end_ref_usfm": "REV 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800402",
     "reference_id": 203233,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hipocrisia religiosa",
     "media_type": "Text",
     "index_reference": "hipocrisia religiosa",
@@ -386,7 +388,16 @@
           "end_ref_usfm": "JAS 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Hypocrisy",
+          "type": "keyterm",
+          "preferred_label": "hipocrisia",
+          "confidence": 0.6053,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "709616",
     "reference_id": 203387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "रंगमच और प्रकाशन",
     "media_type": "Text",
     "index_reference": "रंगमच और प्रकाशन",
@@ -48,13 +48,14 @@
           "end_ref_usfm": "REV 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709402",
     "reference_id": 203173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "राज-वंश का वादा",
     "media_type": "Text",
     "index_reference": "राज-वंश का वादा",
@@ -160,13 +161,14 @@
           "end_ref_usfm": "1CH 28:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709381",
     "reference_id": 203152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "राजशाही",
     "media_type": "Text",
     "index_reference": "राजशाही",
@@ -296,13 +298,14 @@
           "end_ref_usfm": "MAT 22:46"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709513",
     "reference_id": 203284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "राज्य में नागरिकता",
     "media_type": "Text",
     "index_reference": "राज्य में नागरिकता",
@@ -402,7 +405,8 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

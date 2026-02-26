@@ -2,7 +2,7 @@
   {
     "content_id": "700429",
     "reference_id": 203366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "工作與恩惠文化",
     "media_type": "Text",
     "index_reference": "工作與恩惠文化",
@@ -78,7 +78,8 @@
           "end_ref_usfm": "2TH 3:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

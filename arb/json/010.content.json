@@ -2,7 +2,7 @@
   {
     "content_id": "702160",
     "reference_id": 203096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الزواج الكتابي",
     "media_type": "Text",
     "index_reference": "الزواج الكتابي",
@@ -168,13 +168,14 @@
           "end_ref_usfm": "PSA 45:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702285",
     "reference_id": 203221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الزواج والجنس",
     "media_type": "Text",
     "index_reference": "الزواج والجنس",
@@ -298,7 +299,8 @@
           "end_ref_usfm": "MAT 19:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

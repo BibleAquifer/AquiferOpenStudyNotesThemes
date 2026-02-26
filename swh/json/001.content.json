@@ -2,7 +2,7 @@
   {
     "content_id": "765008",
     "reference_id": 203151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sanduku la Agano",
     "media_type": "Text",
     "index_reference": " sanduku la agano",
@@ -156,7 +156,16 @@
           "end_ref_usfm": "2MA 2:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:CovenantBox",
+          "type": "keyterm",
+          "preferred_label": "Covenant Box",
+          "confidence": 0.8623,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

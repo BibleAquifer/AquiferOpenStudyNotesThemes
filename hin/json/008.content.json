@@ -2,7 +2,7 @@
   {
     "content_id": "709548",
     "reference_id": 203319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "क्रूस और फसह",
     "media_type": "Text",
     "index_reference": "क्रूस और फसह",
@@ -192,13 +192,22 @@
           "end_ref_usfm": "JHN 19:36"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "मिस्र",
+          "confidence": 0.5585,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709452",
     "reference_id": 203223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "क्रोध",
     "media_type": "Text",
     "index_reference": "क्रोध",
@@ -448,7 +457,16 @@
           "end_ref_usfm": "NAM 1:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rizia",
+          "type": "person",
+          "preferred_label": "रिस्या",
+          "confidence": 0.8813,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

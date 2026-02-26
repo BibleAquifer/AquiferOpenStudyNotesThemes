@@ -2,7 +2,7 @@
   {
     "content_id": "700169",
     "reference_id": 203106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "祝福",
     "media_type": "Text",
     "index_reference": "祝福",
@@ -306,7 +306,16 @@
           "end_ref_usfm": "1SA 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Bless",
+          "type": "keyterm",
+          "preferred_label": "Bless",
+          "confidence": 0.8108,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

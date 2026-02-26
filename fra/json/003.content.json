@@ -2,7 +2,7 @@
   {
     "content_id": "708406",
     "reference_id": 203100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babel : la dispersion des nations",
     "media_type": "Text",
     "index_reference": "babel : la dispersion des nations",
@@ -72,13 +72,14 @@
           "end_ref_usfm": "ACT 2:47"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708451",
     "reference_id": 203323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baptême",
     "media_type": "Text",
     "index_reference": "baptême",
@@ -484,13 +485,22 @@
           "end_ref_usfm": "1CO 1:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "baptême",
+          "confidence": 0.8116,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708409",
     "reference_id": 203106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bénédiction",
     "media_type": "Text",
     "index_reference": "bénédiction",
@@ -794,7 +804,16 @@
           "end_ref_usfm": "1SA 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:IntactState",
+          "type": "keyterm",
+          "preferred_label": "état intact",
+          "confidence": 0.5036,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "800482",
     "reference_id": 203313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mal-entendido no evangelho de João",
     "media_type": "Text",
     "index_reference": "mal-entendido no evangelho de joão",
@@ -168,13 +168,14 @@
           "end_ref_usfm": "JHN 1:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800307",
     "reference_id": 203138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maldições e bênçãos",
     "media_type": "Text",
     "index_reference": "maldições e bênçãos",
@@ -256,13 +257,14 @@
           "end_ref_usfm": "2CH 36:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800545",
     "reference_id": 203376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maturidade espiritual",
     "media_type": "Text",
     "index_reference": "maturidade espiritual",
@@ -356,13 +358,14 @@
           "end_ref_usfm": "HEB 12:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800428",
     "reference_id": 203259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mensagens contra as nações",
     "media_type": "Text",
     "index_reference": "mensagens contra as nações",
@@ -492,13 +495,14 @@
           "end_ref_usfm": "ROM 2:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800496",
     "reference_id": 203327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Milagres",
     "media_type": "Text",
     "index_reference": "milagres",
@@ -826,13 +830,14 @@
           "end_ref_usfm": "1JN 5:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800276",
     "reference_id": 203107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Morte",
     "media_type": "Text",
     "index_reference": "morte",
@@ -1112,13 +1117,14 @@
           "end_ref_usfm": "REV 21:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800323",
     "reference_id": 203154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mudança de ideia de Deus",
     "media_type": "Text",
     "index_reference": "mudança de ideia de deus",
@@ -1254,13 +1260,14 @@
           "end_ref_usfm": "JON 4:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800380",
     "reference_id": 203211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Música no antigo Israel",
     "media_type": "Text",
     "index_reference": "música no antigo israel",
@@ -1354,7 +1361,16 @@
           "end_ref_usfm": "PSA 71:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5091,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

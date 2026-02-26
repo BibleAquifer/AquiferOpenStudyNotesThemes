@@ -2,7 +2,7 @@
   {
     "content_id": "709407",
     "reference_id": 203178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इतिहास में परमेश्वर की अगम्य योजनाएँ",
     "media_type": "Text",
     "index_reference": "इतिहास में परमेश्वर की अगम्य योजनाएँ",
@@ -84,13 +84,14 @@
           "end_ref_usfm": "EPH 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709467",
     "reference_id": 203238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इस्राएल का पवित्र",
     "media_type": "Text",
     "index_reference": "इस्राएल का पवित्र",
@@ -352,13 +353,22 @@
           "end_ref_usfm": "JHN 6:69"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "इस्राएल",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709392",
     "reference_id": 203163,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इस्राएल के राजाओं के साथ परमेश्वर की वाचा",
     "media_type": "Text",
     "index_reference": "इस्राएल के राजाओं के साथ परमेश्वर की वाचा",
@@ -602,13 +612,36 @@
           "end_ref_usfm": "ACT 13:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Kish",
+          "type": "person",
+          "preferred_label": "कीश",
+          "confidence": 0.6021,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Shiloh",
+          "type": "group",
+          "preferred_label": "शीलोवासी",
+          "confidence": 0.5256,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "इस्राएल",
+          "confidence": 0.5195,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709508",
     "reference_id": 203279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इस्राएल के लिए परमेश्वर का प्रेम",
     "media_type": "Text",
     "index_reference": "इस्राएल के लिए परमेश्वर का प्रेम",
@@ -750,7 +783,23 @@
           "end_ref_usfm": "PSA 106:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "मिस्र",
+          "confidence": 0.5705,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "इस्राएल",
+          "confidence": 0.5211,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

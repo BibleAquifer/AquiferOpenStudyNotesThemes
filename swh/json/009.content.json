@@ -2,7 +2,7 @@
   {
     "content_id": "765072",
     "reference_id": 203215,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Giza na Nuru",
     "media_type": "Text",
     "index_reference": "giza na nuru",
@@ -690,7 +690,8 @@
           "end_ref_usfm": "1JN 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

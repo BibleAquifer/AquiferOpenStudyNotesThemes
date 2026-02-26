@@ -2,7 +2,7 @@
   {
     "content_id": "702351",
     "reference_id": 203287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الشافي المتحنن",
     "media_type": "Text",
     "index_reference": "الشافي المتحنن",
@@ -252,13 +252,14 @@
           "end_ref_usfm": "LUK 15:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702198",
     "reference_id": 203134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الشريعة الكتابية",
     "media_type": "Text",
     "index_reference": "الشريعة الكتابية",
@@ -442,13 +443,14 @@
           "end_ref_usfm": "GAL 3:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702184",
     "reference_id": 203120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "شرائع ٱلله",
     "media_type": "Text",
     "index_reference": "شرائع ٱلله",
@@ -596,13 +598,14 @@
           "end_ref_usfm": "2TI 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702258",
     "reference_id": 203194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "شكاوى",
     "media_type": "Text",
     "index_reference": "شكاوى",
@@ -774,13 +777,14 @@
           "end_ref_usfm": "PHP 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702207",
     "reference_id": 203143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "شكيم",
     "media_type": "Text",
     "index_reference": "شكيم",
@@ -868,7 +872,23 @@
           "end_ref_usfm": "JDG 9:56"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "شَكِيمَ",
+          "confidence": 0.584,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "شَكِيمَ",
+          "confidence": 0.5401,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

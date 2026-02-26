@@ -2,7 +2,7 @@
   {
     "content_id": "700177",
     "reference_id": 203114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "古代法典",
     "media_type": "Text",
     "index_reference": "古代法典",
@@ -106,13 +106,14 @@
           "label": "利未記 1:1-7.38",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "700274",
     "reference_id": 203211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "古代以色列的音樂",
     "media_type": "Text",
     "index_reference": "古代以色列的音樂",
@@ -206,7 +207,8 @@
           "end_ref_usfm": "PSA 71:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

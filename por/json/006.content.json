@@ -2,7 +2,7 @@
   {
     "content_id": "800296",
     "reference_id": 203127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dedicação completa",
     "media_type": "Text",
     "index_reference": "dedicação completa",
@@ -210,13 +210,14 @@
           "end_ref_usfm": "1JN 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800543",
     "reference_id": 203374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Descanso sabático de Deus",
     "media_type": "Text",
     "index_reference": "descanso sabático de deus",
@@ -460,13 +461,14 @@
           "end_ref_usfm": "ISA 54:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800322",
     "reference_id": 203153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Destruição completa",
     "media_type": "Text",
     "index_reference": "destruição completa",
@@ -622,13 +624,14 @@
           "label": "Dedicação completa",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "800356",
     "reference_id": 203187,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deus age através da oração",
     "media_type": "Text",
     "index_reference": "deus age através da oração",
@@ -908,13 +911,14 @@
           "end_ref_usfm": "ACT 4:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800330",
     "reference_id": 203161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deus ou Satanás?",
     "media_type": "Text",
     "index_reference": "deus ou satanás?",
@@ -1038,13 +1042,22 @@
           "end_ref_usfm": "EPH 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satanás",
+          "confidence": 0.6564,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800417",
     "reference_id": 203248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deus protege o seu servo",
     "media_type": "Text",
     "index_reference": "deus protege o seu servo",
@@ -1264,13 +1277,14 @@
           "end_ref_usfm": "HEB 11:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800349",
     "reference_id": 203180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deus, o guerreiro santo",
     "media_type": "Text",
     "index_reference": "deus, o guerreiro santo",
@@ -1418,13 +1432,14 @@
           "end_ref_usfm": "2CO 10:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800485",
     "reference_id": 203316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dizeres \"Eu Sou\" de Jesus",
     "media_type": "Text",
     "index_reference": "dizeres \"eu sou\" de jesus",
@@ -1596,13 +1611,22 @@
           "end_ref_usfm": "JHN 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800521",
     "reference_id": 203352,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Doação cristã",
     "media_type": "Text",
     "index_reference": "doação cristã",
@@ -1858,7 +1882,8 @@
           "end_ref_usfm": "PHP 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700194",
     "reference_id": 203131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "僕人領袖",
     "media_type": "Text",
     "index_reference": "僕人領袖",
@@ -204,13 +204,14 @@
           "end_ref_usfm": "1KI 12:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700256",
     "reference_id": 203193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "普珥節",
     "media_type": "Text",
     "index_reference": "普珥節",
@@ -322,7 +323,8 @@
           "end_ref_usfm": "ACT 17:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

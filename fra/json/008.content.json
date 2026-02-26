@@ -2,7 +2,7 @@
   {
     "content_id": "708429",
     "reference_id": 203189,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gérer les conflits",
     "media_type": "Text",
     "index_reference": "gérer les conflits",
@@ -318,7 +318,8 @@
           "end_ref_usfm": "2TI 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

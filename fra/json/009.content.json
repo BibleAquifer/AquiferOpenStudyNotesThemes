@@ -2,7 +2,7 @@
   {
     "content_id": "708464",
     "reference_id": 203384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérésies à l'époque de l'Église primitive",
     "media_type": "Text",
     "index_reference": "hérésies à l'époque de l'église primitive",
@@ -126,13 +126,14 @@
           "end_ref_usfm": "REV 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734183",
     "reference_id": 203144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hériter le pays",
     "media_type": "Text",
     "index_reference": "hériter le pays",
@@ -214,7 +215,8 @@
           "end_ref_usfm": "PSA 37:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

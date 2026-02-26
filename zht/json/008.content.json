@@ -2,7 +2,7 @@
   {
     "content_id": "700380",
     "reference_id": 203317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "常在基督裡",
     "media_type": "Text",
     "index_reference": "常在基督裡",
@@ -168,7 +168,8 @@
           "end_ref_usfm": "JOS 7:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "734242",
     "reference_id": 203359,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vivre pour Christ",
     "media_type": "Text",
     "index_reference": "vivre pour christ",
@@ -96,7 +96,23 @@
           "end_ref_usfm": "COL 3:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jésus",
+          "confidence": 0.592,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:InChrist",
+          "type": "keyterm",
+          "preferred_label": "en christ",
+          "confidence": 0.5361,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

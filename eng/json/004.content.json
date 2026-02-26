@@ -2,7 +2,7 @@
   {
     "content_id": "500213",
     "reference_id": 203156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Calling up the Dead",
     "media_type": "Text",
     "index_reference": "calling up the dead",
@@ -132,13 +132,14 @@
           "end_ref_usfm": "ISA 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500214",
     "reference_id": 203157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Canaanite Religion",
     "media_type": "Text",
     "index_reference": "canaanite religion",
@@ -178,13 +179,22 @@
           "end_ref_usfm": "2KI 3:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:TempleOfAnIdol",
+          "type": "realia",
+          "preferred_label": "Temple of an Idol",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500216",
     "reference_id": 203159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Celebration",
     "media_type": "Text",
     "index_reference": "celebration",
@@ -464,13 +474,14 @@
           "end_ref_usfm": "LUK 15:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500203",
     "reference_id": 203146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Charismatic Leadership",
     "media_type": "Text",
     "index_reference": "charismatic leadership",
@@ -672,13 +683,14 @@
           "end_ref_usfm": "EPH 4:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500283",
     "reference_id": 203226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Children and Parents",
     "media_type": "Text",
     "index_reference": "children and parents",
@@ -910,13 +922,14 @@
           "end_ref_usfm": "PRO 4:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500409",
     "reference_id": 203352,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Christian Giving",
     "media_type": "Text",
     "index_reference": "christian giving",
@@ -1172,13 +1185,22 @@
           "end_ref_usfm": "PHP 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5115,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500418",
     "reference_id": 203361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Christian Joy",
     "media_type": "Text",
     "index_reference": "christian joy",
@@ -1248,13 +1270,29 @@
           "end_ref_usfm": "JHN 16:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:CauseOfJoy",
+          "type": "keyterm",
+          "preferred_label": "Cause of Joy",
+          "confidence": 0.5374,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5071,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500440",
     "reference_id": 203383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Christian Suffering",
     "media_type": "Text",
     "index_reference": "christian suffering",
@@ -1414,13 +1452,22 @@
           "end_ref_usfm": "JAS 5:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500427",
     "reference_id": 203370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Church Leaders",
     "media_type": "Text",
     "index_reference": "church leaders",
@@ -1586,13 +1633,14 @@
           "end_ref_usfm": "1TI 5:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500160",
     "reference_id": 203103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Circumcision",
     "media_type": "Text",
     "index_reference": "circumcision",
@@ -1884,13 +1932,22 @@
           "end_ref_usfm": "PHP 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Circumcision",
+          "type": "keyterm",
+          "preferred_label": "Circumcision",
+          "confidence": 0.6925,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500387",
     "reference_id": 203330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Circumcision in the New Testament",
     "media_type": "Text",
     "index_reference": "circumcision in the new testament",
@@ -2134,13 +2191,22 @@
           "end_ref_usfm": "COL 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Circumcision",
+          "type": "keyterm",
+          "preferred_label": "Circumcision",
+          "confidence": 0.7303,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500341",
     "reference_id": 203284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Citizenship in the Kingdom",
     "media_type": "Text",
     "index_reference": "citizenship in the kingdom",
@@ -2240,13 +2306,22 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "Kingdom",
+          "confidence": 0.676,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500179",
     "reference_id": 203122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Clean, Unclean, and Holy",
     "media_type": "Text",
     "index_reference": "clean, unclean, and holy",
@@ -2418,13 +2493,36 @@
           "end_ref_usfm": "ACT 10:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Pure",
+          "type": "keyterm",
+          "preferred_label": "Pure",
+          "confidence": 0.6686,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "Holy",
+          "confidence": 0.6213,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Clean",
+          "type": "keyterm",
+          "preferred_label": "Clean",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500176",
     "reference_id": 203119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Community Identity",
     "media_type": "Text",
     "index_reference": "community identity",
@@ -2524,13 +2622,14 @@
           "end_ref_usfm": "EXO 20:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500199",
     "reference_id": 203142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Community Responsibility: Achan’s Sin",
     "media_type": "Text",
     "index_reference": "community responsibility: achan’s sin",
@@ -2642,13 +2741,29 @@
           "end_ref_usfm": "NEH 9:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Achan",
+          "type": "person",
+          "preferred_label": "Achan",
+          "confidence": 0.6132,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Sin",
+          "type": "keyterm",
+          "preferred_label": "To Sin",
+          "confidence": 0.5094,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500344",
     "reference_id": 203287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Compassionate Healer",
     "media_type": "Text",
     "index_reference": "compassionate healer",
@@ -2898,13 +3013,14 @@
           "end_ref_usfm": "LUK 15:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500251",
     "reference_id": 203194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Complaints",
     "media_type": "Text",
     "index_reference": "complaints",
@@ -3076,13 +3192,14 @@
           "end_ref_usfm": "PHP 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500184",
     "reference_id": 203127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Complete Dedication",
     "media_type": "Text",
     "index_reference": "complete dedication",
@@ -3290,13 +3407,14 @@
           "end_ref_usfm": "1JN 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500210",
     "reference_id": 203153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Complete Destruction",
     "media_type": "Text",
     "index_reference": "complete destruction",
@@ -3452,13 +3570,22 @@
           "label": "Complete Dedication",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:SomethingDevotedToGod",
+          "type": "keyterm",
+          "preferred_label": "Something Devoted to God",
+          "confidence": 0.5222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "500242",
     "reference_id": 203185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Completion of the Second Temple",
     "media_type": "Text",
     "index_reference": "completion of the second temple",
@@ -3546,13 +3673,22 @@
           "end_ref_usfm": "ZEC 4:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.5381,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500183",
     "reference_id": 203126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Concern for the Poor",
     "media_type": "Text",
     "index_reference": "concern for the poor",
@@ -3844,13 +3980,22 @@
           "end_ref_usfm": "LUK 18:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Poor",
+          "type": "keyterm",
+          "preferred_label": "Poor",
+          "confidence": 0.6021,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500254",
     "reference_id": 203197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Counsel from Others",
     "media_type": "Text",
     "index_reference": "counsel from others",
@@ -4094,13 +4239,22 @@
           "end_ref_usfm": "PRO 15:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Counsel",
+          "type": "keyterm",
+          "preferred_label": "Counsel",
+          "confidence": 0.6213,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500195",
     "reference_id": 203138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Curses and Blessings",
     "media_type": "Text",
     "index_reference": "curses and blessings",
@@ -4182,7 +4336,8 @@
           "end_ref_usfm": "2CH 36:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

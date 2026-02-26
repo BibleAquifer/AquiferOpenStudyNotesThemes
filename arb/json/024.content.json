@@ -2,7 +2,7 @@
   {
     "content_id": "702448",
     "reference_id": 203384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الهرطقات المسيحية المبكرة",
     "media_type": "Text",
     "index_reference": "الهرطقات المسيحية المبكرة",
@@ -126,13 +126,14 @@
           "end_ref_usfm": "REV 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702183",
     "reference_id": 203119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الهوية المجتمعية",
     "media_type": "Text",
     "index_reference": "الهوية المجتمعية",
@@ -232,7 +233,8 @@
           "end_ref_usfm": "EXO 20:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

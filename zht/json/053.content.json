@@ -2,7 +2,7 @@
   {
     "content_id": "700218",
     "reference_id": 203155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "靈的同在",
     "media_type": "Text",
     "index_reference": "靈的同在",
@@ -234,13 +234,14 @@
           "end_ref_usfm": "PSA 51:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700439",
     "reference_id": 203376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "靈命成熟",
     "media_type": "Text",
     "index_reference": "靈命成熟",
@@ -334,7 +335,8 @@
           "end_ref_usfm": "HEB 12:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

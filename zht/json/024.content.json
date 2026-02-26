@@ -2,7 +2,7 @@
   {
     "content_id": "700173",
     "reference_id": 203110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "跟隨神所帶來的苦難",
     "media_type": "Text",
     "index_reference": "跟隨神所帶來的苦難",
@@ -168,13 +168,14 @@
           "end_ref_usfm": "1PE 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700359",
     "reference_id": 203296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "跟隨耶穌",
     "media_type": "Text",
     "index_reference": "跟隨耶穌",
@@ -604,7 +605,8 @@
           "end_ref_usfm": "ROM 10:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

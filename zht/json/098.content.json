@@ -2,7 +2,7 @@
   {
     "content_id": "700292",
     "reference_id": 203229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "一切都是「煙霧」",
     "media_type": "Text",
     "index_reference": "一切都是「煙霧」",
@@ -96,13 +96,14 @@
           "end_ref_usfm": "JAS 4:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700349",
     "reference_id": 203286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "一同吃飯",
     "media_type": "Text",
     "index_reference": "一同吃飯",
@@ -238,13 +239,14 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700242",
     "reference_id": 203179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "依賴人的力量",
     "media_type": "Text",
     "index_reference": "依賴人的力量",
@@ -434,13 +436,14 @@
           "end_ref_usfm": "MAT 10:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700305",
     "reference_id": 203242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以賽亞書中的救恩",
     "media_type": "Text",
     "index_reference": "以賽亞書中的救恩",
@@ -582,13 +585,14 @@
           "end_ref_usfm": "REV 7:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700298",
     "reference_id": 203235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以賽亞書中的信靠神",
     "media_type": "Text",
     "index_reference": "以賽亞書中的信靠神",
@@ -712,13 +716,14 @@
           "end_ref_usfm": "ISA 40:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700327",
     "reference_id": 203264,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以色列地理中的神學意義",
     "media_type": "Text",
     "index_reference": "以色列地理中的神學意義",
@@ -764,13 +769,14 @@
           "end_ref_usfm": "EZK 48:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700301",
     "reference_id": 203238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以色列的聖者",
     "media_type": "Text",
     "index_reference": "以色列的聖者",
@@ -1032,13 +1038,14 @@
           "end_ref_usfm": "JHN 6:69"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700253",
     "reference_id": 203190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以神的話語為中心",
     "media_type": "Text",
     "index_reference": "以神的話語為中心",
@@ -1216,13 +1223,14 @@
           "end_ref_usfm": "MAT 13:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700391",
     "reference_id": 203328,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "異象",
     "media_type": "Text",
     "index_reference": "異象",
@@ -1460,13 +1468,14 @@
           "label": "加拉太書 1:8-9",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "700259",
     "reference_id": 203196,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "義人受苦",
     "media_type": "Text",
     "index_reference": "義人受苦",
@@ -1674,7 +1683,8 @@
           "end_ref_usfm": "1PE 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

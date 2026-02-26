@@ -2,7 +2,7 @@
   {
     "content_id": "700157",
     "reference_id": 203094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "創造",
     "media_type": "Text",
     "index_reference": "創造",
@@ -144,13 +144,14 @@
           "end_ref_usfm": "JER 10:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700277",
     "reference_id": 203214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "創造萬有的王",
     "media_type": "Text",
     "index_reference": "創造萬有的王",
@@ -334,7 +335,8 @@
           "end_ref_usfm": "ISA 40:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

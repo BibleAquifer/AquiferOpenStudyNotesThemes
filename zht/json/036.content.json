@@ -2,7 +2,7 @@
   {
     "content_id": "700308",
     "reference_id": 203245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "基本律法",
     "media_type": "Text",
     "index_reference": "基本律法",
@@ -156,13 +156,14 @@
           "end_ref_usfm": "MRK 12:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700364",
     "reference_id": 203301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "基督的降生",
     "media_type": "Text",
     "index_reference": "基督的降生",
@@ -190,13 +191,14 @@
           "end_ref_usfm": "LUK 2:40"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700423",
     "reference_id": 203360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "基督頌：基督的神性",
     "media_type": "Text",
     "index_reference": "基督頌：基督的神性",
@@ -374,13 +376,14 @@
           "end_ref_usfm": "HEB 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700415",
     "reference_id": 203352,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "基督徒的奉獻",
     "media_type": "Text",
     "index_reference": "基督徒的奉獻",
@@ -636,13 +639,14 @@
           "end_ref_usfm": "PHP 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700446",
     "reference_id": 203383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "基督徒的苦難",
     "media_type": "Text",
     "index_reference": "基督徒的苦難",
@@ -802,13 +806,14 @@
           "end_ref_usfm": "JAS 5:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700424",
     "reference_id": 203361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "基督徒的喜樂",
     "media_type": "Text",
     "index_reference": "基督徒的喜樂",
@@ -878,13 +883,14 @@
           "end_ref_usfm": "JHN 16:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700172",
     "reference_id": 203109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "饑荒",
     "media_type": "Text",
     "index_reference": "饑荒",
@@ -1200,13 +1206,14 @@
           "end_ref_usfm": "ACT 11:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700294",
     "reference_id": 203231,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "記念神",
     "media_type": "Text",
     "index_reference": "記念神",
@@ -1258,13 +1265,14 @@
           "end_ref_usfm": "1CO 3:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700191",
     "reference_id": 203128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "祭司的祝福",
     "media_type": "Text",
     "index_reference": "祭司的祝福",
@@ -1504,13 +1512,14 @@
           "label": "出埃及記 3:15",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "700167",
     "reference_id": 203104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "祭壇",
     "media_type": "Text",
     "index_reference": "祭壇",
@@ -1706,7 +1715,8 @@
           "end_ref_usfm": "HEB 13:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

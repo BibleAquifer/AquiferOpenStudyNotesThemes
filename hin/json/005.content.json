@@ -2,7 +2,7 @@
   {
     "content_id": "709487",
     "reference_id": 203258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ईश्वरीय संप्रभुता और मनुष्य की जिम्मेदारी",
     "media_type": "Text",
     "index_reference": "ईश्वरीय संप्रभुता और मनुष्य की जिम्मेदारी",
@@ -198,7 +198,8 @@
           "end_ref_usfm": "JAS 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

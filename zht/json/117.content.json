@@ -2,7 +2,7 @@
   {
     "content_id": "700233",
     "reference_id": 203170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "罪的危險",
     "media_type": "Text",
     "index_reference": "罪的危險",
@@ -516,13 +516,14 @@
           "end_ref_usfm": "JER 44:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700160",
     "reference_id": 203097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "罪進入世界",
     "media_type": "Text",
     "index_reference": "罪進入世界",
@@ -712,7 +713,8 @@
           "end_ref_usfm": "GAL 5:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

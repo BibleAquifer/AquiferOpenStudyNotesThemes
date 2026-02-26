@@ -2,7 +2,7 @@
   {
     "content_id": "700216",
     "reference_id": 203153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "毀滅淨盡",
     "media_type": "Text",
     "index_reference": "毀滅淨盡",
@@ -158,13 +158,22 @@
           "label": "完全的獻上",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Destroy",
+          "type": "keyterm",
+          "preferred_label": "Destroy",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
     "content_id": "700181",
     "reference_id": 203118,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "會幕",
     "media_type": "Text",
     "index_reference": "會幕",
@@ -246,13 +255,14 @@
           "end_ref_usfm": "2CH 7:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700288",
     "reference_id": 203225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "賄賂和禮物",
     "media_type": "Text",
     "index_reference": "賄賂和禮物",
@@ -376,7 +386,8 @@
           "end_ref_usfm": "ISA 33:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

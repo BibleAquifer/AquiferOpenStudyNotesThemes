@@ -2,7 +2,7 @@
   {
     "content_id": "764957",
     "reference_id": 203100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babeli: Mgawanyiko wa Mataifa",
     "media_type": "Text",
     "index_reference": "babeli: mgawanyiko wa mataifa",
@@ -72,13 +72,14 @@
           "end_ref_usfm": "ACT 2:47"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764963",
     "reference_id": 203106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baraka",
     "media_type": "Text",
     "index_reference": "baraka",
@@ -382,13 +383,29 @@
           "end_ref_usfm": "1SA 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barak",
+          "type": "person",
+          "preferred_label": "Baraka",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BeracahValley",
+          "type": "place",
+          "preferred_label": "Baraka",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "764985",
     "reference_id": 203128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baraka ya Kikuhani",
     "media_type": "Text",
     "index_reference": "baraka ya kikuhani",
@@ -620,13 +637,14 @@
           "end_ref_usfm": "1TH 5:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765139",
     "reference_id": 203282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baraka za Yesu",
     "media_type": "Text",
     "index_reference": "baraka za yesu",
@@ -750,13 +768,22 @@
           "end_ref_usfm": "PSA 1:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesu",
+          "confidence": 0.6226,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765242",
     "reference_id": 203385,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barua kwa Makanisa Saba",
     "media_type": "Text",
     "index_reference": "barua kwa makanisa saba",
@@ -778,13 +805,14 @@
           "end_ref_usfm": "REV 1:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765106",
     "reference_id": 203249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bwana wa Mataifa",
     "media_type": "Text",
     "index_reference": "bwana wa mataifa",
@@ -884,7 +912,16 @@
           "end_ref_usfm": "DAN 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.6219,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

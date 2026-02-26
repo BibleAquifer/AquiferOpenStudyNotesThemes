@@ -2,7 +2,7 @@
   {
     "content_id": "700319",
     "reference_id": 203256,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "先知性的象徵行動",
     "media_type": "Text",
     "index_reference": "先知性的象徵行動",
@@ -168,7 +168,8 @@
           "end_ref_usfm": "1CO 11:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

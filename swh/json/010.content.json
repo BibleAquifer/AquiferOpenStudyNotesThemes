@@ -2,7 +2,7 @@
   {
     "content_id": "765211",
     "reference_id": 203354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haki kwa Imani",
     "media_type": "Text",
     "index_reference": "haki kwa imani",
@@ -84,13 +84,14 @@
           "end_ref_usfm": "ACT 11:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765127",
     "reference_id": 203270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haki ya Kijamii",
     "media_type": "Text",
     "index_reference": "haki ya kijamii",
@@ -328,13 +329,14 @@
           "end_ref_usfm": "AMO 5:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764994",
     "reference_id": 203137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haki ya Kweli",
     "media_type": "Text",
     "index_reference": "haki ya kweli",
@@ -506,13 +508,14 @@
           "end_ref_usfm": "LUK 18:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765096",
     "reference_id": 203239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haki ya Mungu",
     "media_type": "Text",
     "index_reference": "haki ya mungu",
@@ -990,13 +993,14 @@
           "end_ref_usfm": "LUK 1:75"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765080",
     "reference_id": 203223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hasira",
     "media_type": "Text",
     "index_reference": "hasira",
@@ -1246,13 +1250,14 @@
           "end_ref_usfm": "NAM 1:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765069",
     "reference_id": 203212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hasira ya Mungu",
     "media_type": "Text",
     "index_reference": "hasira ya mungu",
@@ -1556,13 +1561,14 @@
           "end_ref_usfm": "ROM 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765027",
     "reference_id": 203170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hatari za Dhambi",
     "media_type": "Text",
     "index_reference": "hatari za dhambi",
@@ -2076,13 +2082,14 @@
           "end_ref_usfm": "JER 44:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764992",
     "reference_id": 203135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hekalu Kuu",
     "media_type": "Text",
     "index_reference": "hekalu kuu",
@@ -2260,13 +2267,14 @@
           "end_ref_usfm": "EXO 25:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765077",
     "reference_id": 203220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hekima",
     "media_type": "Text",
     "index_reference": "hekima",
@@ -2438,13 +2446,14 @@
           "end_ref_usfm": "JAS 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765021",
     "reference_id": 203164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hekima ya Solomoni",
     "media_type": "Text",
     "index_reference": "hekima ya solomoni",
@@ -2652,13 +2661,14 @@
           "end_ref_usfm": "1KI 5:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "764975",
     "reference_id": 203118,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hema la Kukutania",
     "media_type": "Text",
     "index_reference": "hema la kukutania",
@@ -2740,13 +2750,14 @@
           "end_ref_usfm": "2CH 7:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765245",
     "reference_id": 203388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hesabu za Kifumbo",
     "media_type": "Text",
     "index_reference": "hesabu za kifumbo",
@@ -3200,13 +3211,14 @@
           "end_ref_usfm": "REV 21:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765076",
     "reference_id": 203219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hofu ya Bwana",
     "media_type": "Text",
     "index_reference": "hofu ya bwana",
@@ -3354,13 +3366,22 @@
           "end_ref_usfm": "ISA 11:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.7083,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765028",
     "reference_id": 203171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hukumu ya Mungu kwa Watu Wake",
     "media_type": "Text",
     "index_reference": "hukumu ya mungu kwa watu wake",
@@ -3724,13 +3745,14 @@
           "end_ref_usfm": "JAS 2:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765004",
     "reference_id": 203147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Huzuni ya Mungu juu ya Uasi wa Imani",
     "media_type": "Text",
     "index_reference": "huzuni ya mungu juu ya uasi wa imani",
@@ -3836,7 +3858,8 @@
           "end_ref_usfm": "2CO 5:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

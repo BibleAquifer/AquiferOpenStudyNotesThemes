@@ -2,7 +2,7 @@
   {
     "content_id": "709418",
     "reference_id": 203189,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "संघर्ष से निपटना",
     "media_type": "Text",
     "index_reference": "संघर्ष से निपटना",
@@ -318,13 +318,14 @@
           "end_ref_usfm": "2TI 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709352",
     "reference_id": 203123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "संबंध द्वारा पवित्रता",
     "media_type": "Text",
     "index_reference": "संबंध द्वारा पवित्रता",
@@ -502,13 +503,14 @@
           "end_ref_usfm": "1JN 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709547",
     "reference_id": 203318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "संसार",
     "media_type": "Text",
     "index_reference": "संसार",
@@ -818,13 +820,14 @@
           "end_ref_usfm": "1JN 4:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709326",
     "reference_id": 203097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "संसार में पाप का प्रवेश",
     "media_type": "Text",
     "index_reference": "संसार में पाप का प्रवेश",
@@ -1014,13 +1017,14 @@
           "end_ref_usfm": "GAL 5:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709480",
     "reference_id": 203251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "संस्कृति का पतन",
     "media_type": "Text",
     "index_reference": "संस्कृति का पतन",
@@ -1150,13 +1154,14 @@
           "end_ref_usfm": "JER 28:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709366",
     "reference_id": 203137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सच्चा न्याय",
     "media_type": "Text",
     "index_reference": "सच्चा न्याय",
@@ -1328,13 +1333,14 @@
           "end_ref_usfm": "LUK 18:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709397",
     "reference_id": 203168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सच्ची सफलता",
     "media_type": "Text",
     "index_reference": "सच्ची सफलता",
@@ -1596,13 +1602,14 @@
           "end_ref_usfm": "1KI 14:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709554",
     "reference_id": 203325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सताव",
     "media_type": "Text",
     "index_reference": "सताव",
@@ -2002,13 +2009,14 @@
           "end_ref_usfm": "1PE 3:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709458",
     "reference_id": 203229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सब कुछ \"वाष्प\" है।",
     "media_type": "Text",
     "index_reference": "सब कुछ \"वाष्प\" है।",
@@ -2102,13 +2110,14 @@
           "end_ref_usfm": "JAS 4:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709501",
     "reference_id": 203272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सभी राष्ट्रों पर परमेश्वर का शासन और सामर्थ्य",
     "media_type": "Text",
     "index_reference": "सभी राष्ट्रों पर परमेश्वर का शासन और सामर्थ्य",
@@ -2328,13 +2337,14 @@
           "end_ref_usfm": "ACT 17:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709348",
     "reference_id": 203119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "समुदाय की पहचान",
     "media_type": "Text",
     "index_reference": "समुदाय की पहचान",
@@ -2434,13 +2444,14 @@
           "end_ref_usfm": "EXO 20:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709382",
     "reference_id": 203153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सम्पूर्ण विनाश",
     "media_type": "Text",
     "index_reference": "सम्पूर्ण विनाश",
@@ -2596,13 +2607,14 @@
           "label": "सम्पूर्ण समर्पण ",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "709356",
     "reference_id": 203127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सम्पूर्ण समर्पण",
     "media_type": "Text",
     "index_reference": "सम्पूर्ण समर्पण",
@@ -2810,13 +2822,14 @@
           "end_ref_usfm": "1JN 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709555",
     "reference_id": 203326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सशक्त नेतृत्व",
     "media_type": "Text",
     "index_reference": "सशक्त नेतृत्व",
@@ -2948,13 +2961,14 @@
           "label": "प्रेरितों के काम 6:2-6",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "709570",
     "reference_id": 203341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सहनशीलता",
     "media_type": "Text",
     "index_reference": "सहनशीलता",
@@ -3066,13 +3080,14 @@
           "end_ref_usfm": "COL 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709614",
     "reference_id": 203385,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सात कलीसियाओं को पत्र",
     "media_type": "Text",
     "index_reference": "सात कलीसियाओं को पत्र",
@@ -3094,13 +3109,14 @@
           "end_ref_usfm": "REV 1:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709496",
     "reference_id": 203267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सात के सत्तर समूह",
     "media_type": "Text",
     "index_reference": "सात के सत्तर समूह",
@@ -3332,13 +3348,14 @@
           "end_ref_usfm": "DAN 11:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709499",
     "reference_id": 203270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सामाजिक न्याय",
     "media_type": "Text",
     "index_reference": "सामाजिक न्याय",
@@ -3576,13 +3593,14 @@
           "end_ref_usfm": "AMO 5:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709371",
     "reference_id": 203142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सामुदायिक ज़िम्मेदारी: आकान का पाप",
     "media_type": "Text",
     "index_reference": "सामुदायिक ज़िम्मेदारी: आकान का पाप",
@@ -3694,13 +3712,22 @@
           "end_ref_usfm": "NEH 9:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Achan",
+          "type": "person",
+          "preferred_label": "आकान",
+          "confidence": 0.6132,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709515",
     "reference_id": 203286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सामूहिक भोज",
     "media_type": "Text",
     "index_reference": "सामूहिक भोज",
@@ -3836,13 +3863,14 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709438",
     "reference_id": 203209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सिय्योन",
     "media_type": "Text",
     "index_reference": "सिय्योन",
@@ -4380,13 +4408,22 @@
           "end_ref_usfm": "ZEC 8:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "यरूशलेम",
+          "confidence": 0.6117,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709342",
     "reference_id": 203113,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सीनै वाचा का उद्देश्य",
     "media_type": "Text",
     "index_reference": "सीनै वाचा का उद्देश्य",
@@ -4468,13 +4505,22 @@
           "end_ref_usfm": "ROM 8:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "यीशु",
+          "confidence": 0.5039,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709615",
     "reference_id": 203386,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सुरक्षा और आज्ञाकारिता",
     "media_type": "Text",
     "index_reference": "सुरक्षा और आज्ञाकारिता",
@@ -4784,13 +4830,14 @@
           "end_ref_usfm": "REV 3:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709393",
     "reference_id": 203164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सुलैमान की बुद्धिमत्ता",
     "media_type": "Text",
     "index_reference": "सुलैमान की बुद्धिमत्ता",
@@ -4998,13 +5045,71 @@
           "end_ref_usfm": "1KI 5:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "सुलैमान",
+          "confidence": 0.6955,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baana",
+          "type": "person",
+          "preferred_label": "बाना",
+          "confidence": 0.6015,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Socoh.3",
+          "type": "place",
+          "preferred_label": "सोको",
+          "confidence": 0.6015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baana.2",
+          "type": "person",
+          "preferred_label": "बाना",
+          "confidence": 0.6015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ben-deker",
+          "type": "person",
+          "preferred_label": "बेन्देकेर",
+          "confidence": 0.5475,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hesed",
+          "type": "person",
+          "preferred_label": "बेन्हेसेद",
+          "confidence": 0.5475,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ben-hesed",
+          "type": "person",
+          "preferred_label": "बेन्हेसेद",
+          "confidence": 0.5475,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shaalbim",
+          "type": "place",
+          "preferred_label": "शाल्बीम",
+          "confidence": 0.525,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709591",
     "reference_id": 203362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सुसमाचार का रहस्य",
     "media_type": "Text",
     "index_reference": "सुसमाचार का रहस्य",
@@ -5116,13 +5221,14 @@
           "end_ref_usfm": "COL 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709323",
     "reference_id": 203094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सृष्टि",
     "media_type": "Text",
     "index_reference": "सृष्टि",
@@ -5264,13 +5370,14 @@
           "end_ref_usfm": "JER 10:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709443",
     "reference_id": 203214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सृष्टिकर्ता-राजा",
     "media_type": "Text",
     "index_reference": "सृष्टिकर्ता-राजा",
@@ -5454,7 +5561,8 @@
           "end_ref_usfm": "ISA 40:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

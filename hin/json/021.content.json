@@ -2,7 +2,7 @@
   {
     "content_id": "709618",
     "reference_id": 203389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्याय का उद्देश्य",
     "media_type": "Text",
     "index_reference": "न्याय का उद्देश्य",
@@ -288,13 +288,14 @@
           "end_ref_usfm": "ROM 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709481",
     "reference_id": 203252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्याय से परे आशा",
     "media_type": "Text",
     "index_reference": "न्याय से परे आशा",
@@ -442,13 +443,14 @@
           "end_ref_usfm": "ISA 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709377",
     "reference_id": 203148,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्यायियों में सामाजिक अराजकता",
     "media_type": "Text",
     "index_reference": "न्यायियों में सामाजिक अराजकता",
@@ -620,13 +622,29 @@
           "end_ref_usfm": "ROM 1:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Micah.3",
+          "type": "person",
+          "preferred_label": "मीका",
+          "confidence": 0.6255,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Benjamin",
+          "type": "group",
+          "preferred_label": "बिन्यामीन",
+          "confidence": 0.5785,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709609",
     "reference_id": 203380,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्यायी के रूप में प्रभु का आगमन",
     "media_type": "Text",
     "index_reference": "न्यायी के रूप में प्रभु का आगमन",
@@ -864,7 +882,8 @@
           "end_ref_usfm": "JHN 5:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

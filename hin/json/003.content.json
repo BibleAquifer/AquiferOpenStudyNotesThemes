@@ -2,7 +2,7 @@
   {
     "content_id": "709384",
     "reference_id": 203155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आत्मा की उपस्थिति",
     "media_type": "Text",
     "index_reference": "आत्मा की उपस्थिति",
@@ -234,13 +234,22 @@
           "end_ref_usfm": "PSA 51:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "पवित्र आत्मा",
+          "confidence": 0.5154,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709359",
     "reference_id": 203130,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आत्मा-सशक्तिकरण",
     "media_type": "Text",
     "index_reference": "आत्मा-सशक्तिकरण",
@@ -538,13 +547,22 @@
           "end_ref_usfm": "PSA 143:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "पवित्र आत्मा",
+          "confidence": 0.5266,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "709605",
     "reference_id": 203376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आत्मिक परिपक्वता",
     "media_type": "Text",
     "index_reference": "आत्मिक परिपक्वता",
@@ -638,13 +656,14 @@
           "end_ref_usfm": "HEB 12:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709456",
     "reference_id": 203227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आलस्य और परिश्रम",
     "media_type": "Text",
     "index_reference": "आलस्य और परिश्रम",
@@ -894,13 +913,14 @@
           "end_ref_usfm": "2TH 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709335",
     "reference_id": 203106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आशीष",
     "media_type": "Text",
     "index_reference": "आशीष",
@@ -1204,7 +1224,8 @@
           "end_ref_usfm": "1SA 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

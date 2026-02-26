@@ -2,7 +2,7 @@
   {
     "content_id": "700232",
     "reference_id": 203169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "列王紀上的先知",
     "media_type": "Text",
     "index_reference": "列王紀上的先知",
@@ -156,7 +156,8 @@
           "end_ref_usfm": "1KI 22:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700329",
     "reference_id": 203266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "小角",
     "media_type": "Text",
     "index_reference": "小角",
@@ -186,13 +186,14 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700346",
     "reference_id": 203283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "小信",
     "media_type": "Text",
     "index_reference": "小信",
@@ -274,7 +275,8 @@
           "end_ref_usfm": "JAS 1:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

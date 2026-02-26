@@ -2,7 +2,7 @@
   {
     "content_id": "700261",
     "reference_id": 203198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "死後的生命",
     "media_type": "Text",
     "index_reference": "死後的生命",
@@ -348,13 +348,14 @@
           "end_ref_usfm": "2KI 4:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700411",
     "reference_id": 203348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "死人復活",
     "media_type": "Text",
     "index_reference": "死人復活",
@@ -652,13 +653,14 @@
           "end_ref_usfm": "REV 22:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700170",
     "reference_id": 203107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "死亡",
     "media_type": "Text",
     "index_reference": "死亡",
@@ -938,13 +940,14 @@
           "end_ref_usfm": "REV 21:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700328",
     "reference_id": 203265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "四個世界的帝國",
     "media_type": "Text",
     "index_reference": "四個世界的帝國",
@@ -978,7 +981,8 @@
           "end_ref_usfm": "DAN 2:49"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700375",
     "reference_id": 203312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "活水",
     "media_type": "Text",
     "index_reference": "活水",
@@ -84,7 +84,8 @@
           "end_ref_usfm": "JAS 3:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700257",
     "reference_id": 203194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "發怨言",
     "media_type": "Text",
     "index_reference": "發怨言",
@@ -174,7 +174,8 @@
           "end_ref_usfm": "PHP 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

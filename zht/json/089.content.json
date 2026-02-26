@@ -2,7 +2,7 @@
   {
     "content_id": "700258",
     "reference_id": 203195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "物質上的賞賜",
     "media_type": "Text",
     "index_reference": "物質上的賞賜",
@@ -186,7 +186,8 @@
           "end_ref_usfm": "LUK 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

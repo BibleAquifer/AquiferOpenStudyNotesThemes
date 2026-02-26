@@ -2,7 +2,7 @@
   {
     "content_id": "700229",
     "reference_id": 203166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "土地",
     "media_type": "Text",
     "index_reference": "土地",
@@ -222,7 +222,8 @@
           "end_ref_usfm": "MAT 26:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "769413",
     "reference_id": 203146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kepemimpinan Karismatik",
     "media_type": "Text",
     "index_reference": "kepemimpinan karismatik",
@@ -204,13 +204,14 @@
           "end_ref_usfm": "EPH 4:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "769405",
     "reference_id": 203138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kutuk dan Berkat",
     "media_type": "Text",
     "index_reference": "kutuk dan berkat",
@@ -292,7 +293,16 @@
           "end_ref_usfm": "2CH 36:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Curse",
+          "type": "keyterm",
+          "preferred_label": "kutuk",
+          "confidence": 0.6242,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

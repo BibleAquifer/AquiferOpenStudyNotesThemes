@@ -2,7 +2,7 @@
   {
     "content_id": "700190",
     "reference_id": 203127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "完全的獻上",
     "media_type": "Text",
     "index_reference": "完全的獻上",
@@ -210,13 +210,14 @@
           "end_ref_usfm": "1JN 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700312",
     "reference_id": 203249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "萬主之主",
     "media_type": "Text",
     "index_reference": "萬主之主",
@@ -316,7 +317,8 @@
           "end_ref_usfm": "DAN 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

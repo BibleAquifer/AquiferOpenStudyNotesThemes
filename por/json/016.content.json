@@ -2,7 +2,7 @@
   {
     "content_id": "800448",
     "reference_id": 203279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O amor de Deus por Israel",
     "media_type": "Text",
     "index_reference": "o amor de deus por israel",
@@ -144,13 +144,22 @@
           "end_ref_usfm": "PSA 106:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5211,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800308",
     "reference_id": 203139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O amor pactual de Deus",
     "media_type": "Text",
     "index_reference": "o amor pactual de deus",
@@ -280,13 +289,14 @@
           "end_ref_usfm": "1JN 4:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800559",
     "reference_id": 203390,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O anticristo",
     "media_type": "Text",
     "index_reference": "o anticristo",
@@ -358,13 +368,14 @@
           "label": "Apocalipse 17.8",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "800474",
     "reference_id": 203305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O banquete messiânico",
     "media_type": "Text",
     "index_reference": "o banquete messiânico",
@@ -506,13 +517,14 @@
           "end_ref_usfm": "LUK 14:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800476",
     "reference_id": 203307,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O clímax das escrituras",
     "media_type": "Text",
     "index_reference": "o clímax das escrituras",
@@ -606,13 +618,14 @@
           "end_ref_usfm": "LUK 24:49"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800420",
     "reference_id": 203251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O colapso da cultura",
     "media_type": "Text",
     "index_reference": "o colapso da cultura",
@@ -742,13 +755,14 @@
           "end_ref_usfm": "JER 28:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800456",
     "reference_id": 203287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O compassivo curador",
     "media_type": "Text",
     "index_reference": "o compassivo curador",
@@ -998,13 +1012,14 @@
           "end_ref_usfm": "LUK 15:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800387",
     "reference_id": 203218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O coração nos Salmos",
     "media_type": "Text",
     "index_reference": "o coração nos salmos",
@@ -1500,13 +1515,14 @@
           "end_ref_usfm": "PSA 62:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800493",
     "reference_id": 203324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O crescimento da igreja",
     "media_type": "Text",
     "index_reference": "o crescimento da igreja",
@@ -1762,13 +1778,14 @@
           "end_ref_usfm": "ACT 1:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800500",
     "reference_id": 203331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Deus desconhecido",
     "media_type": "Text",
     "index_reference": "o deus desconhecido",
@@ -1850,13 +1867,14 @@
           "end_ref_usfm": "COL 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800406",
     "reference_id": 203237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Dia do Senhor",
     "media_type": "Text",
     "index_reference": "o dia do senhor",
@@ -2088,13 +2106,22 @@
           "end_ref_usfm": "ISA 4:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5981,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800467",
     "reference_id": 203298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Dia está chegando",
     "media_type": "Text",
     "index_reference": "o dia está chegando",
@@ -2646,13 +2673,14 @@
           "label": "Mark",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "800502",
     "reference_id": 203333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O dom da profecia",
     "media_type": "Text",
     "index_reference": "o dom da profecia",
@@ -2938,13 +2966,14 @@
           "end_ref_usfm": "EZK 13:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800352",
     "reference_id": 203183,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O espírito da lei",
     "media_type": "Text",
     "index_reference": "o espírito da lei",
@@ -3032,13 +3061,14 @@
           "end_ref_usfm": "ROM 3:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800464",
     "reference_id": 203295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Filho de Deus",
     "media_type": "Text",
     "index_reference": "o filho de deus",
@@ -3600,13 +3630,14 @@
           "end_ref_usfm": "HEB 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800454",
     "reference_id": 203285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Filho do Homem",
     "media_type": "Text",
     "index_reference": "o filho do homem",
@@ -3964,13 +3995,14 @@
           "end_ref_usfm": "JHN 3:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800441",
     "reference_id": 203272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O governo e poder de Deus sobre todas as nações",
     "media_type": "Text",
     "index_reference": "o governo e poder de deus sobre todas as nações",
@@ -4190,13 +4222,14 @@
           "end_ref_usfm": "ACT 17:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800529",
     "reference_id": 203360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O hino de Cristo: a natureza divina de Cristo",
     "media_type": "Text",
     "index_reference": "o hino de cristo: a natureza divina de cristo",
@@ -4374,13 +4407,14 @@
           "end_ref_usfm": "HEB 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800537",
     "reference_id": 203368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O lar",
     "media_type": "Text",
     "index_reference": "o lar",
@@ -4474,13 +4508,14 @@
           "end_ref_usfm": "1PE 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800458",
     "reference_id": 203289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Messias",
     "media_type": "Text",
     "index_reference": "o messias",
@@ -4730,13 +4765,22 @@
           "end_ref_usfm": "ACT 28:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5996,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800531",
     "reference_id": 203362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O mistério das boas-novas",
     "media_type": "Text",
     "index_reference": "o mistério das boas-novas",
@@ -4848,13 +4892,14 @@
           "end_ref_usfm": "COL 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800487",
     "reference_id": 203318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O mundo",
     "media_type": "Text",
     "index_reference": "o mundo",
@@ -5164,13 +5209,14 @@
           "end_ref_usfm": "1JN 4:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800470",
     "reference_id": 203301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O nascimento de Cristo",
     "media_type": "Text",
     "index_reference": "o nascimento de cristo",
@@ -5198,13 +5244,14 @@
           "end_ref_usfm": "LUK 2:40"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800413",
     "reference_id": 203244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O pacto rompido",
     "media_type": "Text",
     "index_reference": "o pacto rompido",
@@ -5328,13 +5375,14 @@
           "end_ref_usfm": "HOS 5:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800522",
     "reference_id": 203353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O papel de Paulo como apóstolo",
     "media_type": "Text",
     "index_reference": "o papel de paulo como apóstolo",
@@ -5560,13 +5608,14 @@
           "end_ref_usfm": "1TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800374",
     "reference_id": 203205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O pastor",
     "media_type": "Text",
     "index_reference": "o pastor",
@@ -5858,13 +5907,14 @@
           "end_ref_usfm": "ZEC 10:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800266",
     "reference_id": 203097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O pecado entra no mundo",
     "media_type": "Text",
     "index_reference": "o pecado entra no mundo",
@@ -6054,13 +6104,14 @@
           "end_ref_usfm": "GAL 5:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800435",
     "reference_id": 203266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O pequeno chifre",
     "media_type": "Text",
     "index_reference": "o pequeno chifre",
@@ -6244,13 +6295,14 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800472",
     "reference_id": 203303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O profeta sofredor",
     "media_type": "Text",
     "index_reference": "o profeta sofredor",
@@ -6416,13 +6468,14 @@
           "end_ref_usfm": "LUK 24:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800282",
     "reference_id": 203113,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O propósito da aliança do Sinai",
     "media_type": "Text",
     "index_reference": "o propósito da aliança do sinai",
@@ -6504,13 +6557,14 @@
           "end_ref_usfm": "ROM 8:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800558",
     "reference_id": 203389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O propósito dos julgamentos",
     "media_type": "Text",
     "index_reference": "o propósito dos julgamentos",
@@ -6796,13 +6850,14 @@
           "end_ref_usfm": "ROM 2:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800442",
     "reference_id": 203273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O que é bom",
     "media_type": "Text",
     "index_reference": "o que é bom",
@@ -7052,13 +7107,14 @@
           "end_ref_usfm": "DEU 16:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800318",
     "reference_id": 203149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O redentor da família",
     "media_type": "Text",
     "index_reference": "o redentor da família",
@@ -7272,13 +7328,14 @@
           "end_ref_usfm": "RUT 4:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800383",
     "reference_id": 203214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Rei-Criador",
     "media_type": "Text",
     "index_reference": "o rei-criador",
@@ -7462,13 +7519,14 @@
           "end_ref_usfm": "ISA 40:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800405",
     "reference_id": 203236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O remanescente",
     "media_type": "Text",
     "index_reference": "o remanescente",
@@ -7682,13 +7740,14 @@
           "end_ref_usfm": "MIC 5:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800446",
     "reference_id": 203277,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O retorno da presença de Deus com seu povo",
     "media_type": "Text",
     "index_reference": "o retorno da presença de deus com seu povo",
@@ -7896,13 +7955,14 @@
           "end_ref_usfm": "ZEC 4:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800407",
     "reference_id": 203238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Santo de Israel",
     "media_type": "Text",
     "index_reference": "o santo de israel",
@@ -8164,13 +8224,22 @@
           "end_ref_usfm": "JHN 6:69"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800304",
     "reference_id": 203135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O santuário central",
     "media_type": "Text",
     "index_reference": "o santuário central",
@@ -8348,13 +8417,14 @@
           "end_ref_usfm": "EXO 25:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800463",
     "reference_id": 203294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O segredo do Messias",
     "media_type": "Text",
     "index_reference": "o segredo do messias",
@@ -8502,13 +8572,14 @@
           "end_ref_usfm": "MRK 9:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800418",
     "reference_id": 203249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O Senhor das nações",
     "media_type": "Text",
     "index_reference": "o senhor das nações",
@@ -8608,13 +8679,22 @@
           "end_ref_usfm": "DAN 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.6219,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800300",
     "reference_id": 203131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O servo líder",
     "media_type": "Text",
     "index_reference": "o servo líder",
@@ -8816,13 +8896,14 @@
           "end_ref_usfm": "1KI 12:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800287",
     "reference_id": 203118,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O tabernáculo",
     "media_type": "Text",
     "index_reference": "o tabernáculo",
@@ -8904,13 +8985,14 @@
           "end_ref_usfm": "2CH 7:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800556",
     "reference_id": 203387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O teatro e o Apocalipse",
     "media_type": "Text",
     "index_reference": "o teatro e o apocalipse",
@@ -8956,13 +9038,14 @@
           "end_ref_usfm": "REV 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800514",
     "reference_id": 203345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O trabalho do Espírito Santo",
     "media_type": "Text",
     "index_reference": "o trabalho do espírito santo",
@@ -9308,13 +9391,22 @@
           "end_ref_usfm": "1CO 14:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.5072,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800506",
     "reference_id": 203337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "O velho reino e o novo",
     "media_type": "Text",
     "index_reference": "o velho reino e o novo",
@@ -9558,13 +9650,22 @@
           "end_ref_usfm": "EPH 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "reino",
+          "confidence": 0.6351,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800361",
     "reference_id": 203192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ódio étnico",
     "media_type": "Text",
     "index_reference": "ódio étnico",
@@ -9688,13 +9789,14 @@
           "end_ref_usfm": "EST 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800314",
     "reference_id": 203145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Opressão do povo de Deus",
     "media_type": "Text",
     "index_reference": "opressão do povo de deus",
@@ -9830,13 +9932,14 @@
           "end_ref_usfm": "EZK 22:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800473",
     "reference_id": 203304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orações de Jesus",
     "media_type": "Text",
     "index_reference": "orações de jesus",
@@ -9960,13 +10063,14 @@
           "end_ref_usfm": "LUK 11:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800386",
     "reference_id": 203217,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orações por vingança",
     "media_type": "Text",
     "index_reference": "orações por vingança",
@@ -10186,13 +10290,14 @@
           "end_ref_usfm": "ROM 11:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800397",
     "reference_id": 203228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orgulho e humildade",
     "media_type": "Text",
     "index_reference": "orgulho e humildade",
@@ -10370,13 +10475,14 @@
           "end_ref_usfm": "2CH 26:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800365",
     "reference_id": 203196,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Os justos sofrem",
     "media_type": "Text",
     "index_reference": "os justos sofrem",
@@ -10584,13 +10690,14 @@
           "end_ref_usfm": "1PE 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800561",
     "reference_id": 203392,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Os mil anos (O Milênio)",
     "media_type": "Text",
     "index_reference": "os mil anos (o milênio)",
@@ -10618,13 +10725,14 @@
           "end_ref_usfm": "REV 20:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800339",
     "reference_id": 203170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Os perigos do pecado",
     "media_type": "Text",
     "index_reference": "os perigos do pecado",
@@ -11138,13 +11246,14 @@
           "end_ref_usfm": "JER 44:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800371",
     "reference_id": 203202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Os pobres e necessitados nos Salmos",
     "media_type": "Text",
     "index_reference": "os pobres e necessitados nos salmos",
@@ -11442,13 +11551,14 @@
           "end_ref_usfm": "PSA 82:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800347",
     "reference_id": 203178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Os propósitos inescrutáveis de Deus na história",
     "media_type": "Text",
     "index_reference": "os propósitos inescrutáveis de deus na história",
@@ -11530,13 +11640,14 @@
           "end_ref_usfm": "EPH 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800436",
     "reference_id": 203267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Os setenta conjuntos de sete",
     "media_type": "Text",
     "index_reference": "os setenta conjuntos de sete",
@@ -11768,7 +11879,8 @@
           "end_ref_usfm": "DAN 11:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

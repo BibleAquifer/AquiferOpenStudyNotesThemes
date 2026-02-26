@@ -2,7 +2,7 @@
   {
     "content_id": "500209",
     "reference_id": 203152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kingship",
     "media_type": "Text",
     "index_reference": "kingship",
@@ -132,13 +132,14 @@
           "end_ref_usfm": "MAT 22:46"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500326",
     "reference_id": 203269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Knowing God",
     "media_type": "Text",
     "index_reference": "knowing god",
@@ -304,7 +305,16 @@
           "end_ref_usfm": "HEB 8:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.7138,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

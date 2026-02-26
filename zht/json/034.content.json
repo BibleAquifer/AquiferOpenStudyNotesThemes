@@ -2,7 +2,7 @@
   {
     "content_id": "700284",
     "reference_id": 203221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "婚姻和性",
     "media_type": "Text",
     "index_reference": "婚姻和性",
@@ -126,7 +126,8 @@
           "end_ref_usfm": "MAT 19:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

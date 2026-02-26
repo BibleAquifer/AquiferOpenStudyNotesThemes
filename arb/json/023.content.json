@@ -2,7 +2,7 @@
   {
     "content_id": "702309",
     "reference_id": 203245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الناموس الأساسيّ",
     "media_type": "Text",
     "index_reference": "الناموس الأساسيّ",
@@ -156,13 +156,14 @@
           "end_ref_usfm": "MRK 12:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702419",
     "reference_id": 203355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الناموس والروح",
     "media_type": "Text",
     "index_reference": "الناموس والروح",
@@ -280,13 +281,14 @@
           "end_ref_usfm": "HEB 12:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702427",
     "reference_id": 203363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الناموسية",
     "media_type": "Text",
     "index_reference": "الناموسية",
@@ -338,13 +340,14 @@
           "end_ref_usfm": "MRK 7:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702367",
     "reference_id": 203303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النبي المُتألم",
     "media_type": "Text",
     "index_reference": "النبي المُتألم",
@@ -510,13 +513,14 @@
           "end_ref_usfm": "LUK 24:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702232",
     "reference_id": 203168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النجاح الحقيقي",
     "media_type": "Text",
     "index_reference": "النجاح الحقيقي",
@@ -778,13 +782,14 @@
           "end_ref_usfm": "1KI 14:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702214",
     "reference_id": 203150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النذور لله",
     "media_type": "Text",
     "index_reference": "النذور لله",
@@ -950,13 +955,14 @@
           "end_ref_usfm": "1SA 14:45"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702440",
     "reference_id": 203376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النضج الروحي",
     "media_type": "Text",
     "index_reference": "النضج الروحي",
@@ -1050,13 +1056,14 @@
           "end_ref_usfm": "HEB 12:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702307",
     "reference_id": 203243,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النظام الجديد",
     "media_type": "Text",
     "index_reference": "النظام الجديد",
@@ -1234,13 +1241,14 @@
           "end_ref_usfm": "2CO 3:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702248",
     "reference_id": 203184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النقاء والهويّة",
     "media_type": "Text",
     "index_reference": "النقاء والهويّة",
@@ -1400,13 +1408,14 @@
           "end_ref_usfm": "2TI 2:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702396",
     "reference_id": 203332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نعمة ٱلله",
     "media_type": "Text",
     "index_reference": "نعمة ٱلله",
@@ -1710,13 +1719,14 @@
           "end_ref_usfm": "1PE 5:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702388",
     "reference_id": 203324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نمو الكنيسة",
     "media_type": "Text",
     "index_reference": "نمو الكنيسة",
@@ -1972,7 +1982,8 @@
           "end_ref_usfm": "ACT 1:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

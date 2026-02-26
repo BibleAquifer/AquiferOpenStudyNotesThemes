@@ -2,7 +2,7 @@
   {
     "content_id": "700330",
     "reference_id": 203267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "七十個七",
     "media_type": "Text",
     "index_reference": "七十個七",
@@ -234,7 +234,8 @@
           "end_ref_usfm": "DAN 11:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

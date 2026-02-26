@@ -2,7 +2,7 @@
   {
     "content_id": "709594",
     "reference_id": 203365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "\"वह आएगा\"",
     "media_type": "Text",
     "index_reference": "\"वह आएगा\"",
@@ -108,13 +108,14 @@
           "end_ref_usfm": "2TH 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709538",
     "reference_id": 203309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "वचन",
     "media_type": "Text",
     "index_reference": "वचन",
@@ -184,13 +185,14 @@
           "end_ref_usfm": "GEN 1:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709380",
     "reference_id": 203151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "वाचा का सन्दूक",
     "media_type": "Text",
     "index_reference": "वाचा का सन्दूक",
@@ -344,13 +346,14 @@
           "end_ref_usfm": "2MA 2:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709345",
     "reference_id": 203116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "विपत्तियाँ",
     "media_type": "Text",
     "index_reference": "विपत्तियाँ",
@@ -534,13 +537,14 @@
           "end_ref_usfm": "NUM 16:50"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709450",
     "reference_id": 203221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "विवाह और यौनसम्बन्ध",
     "media_type": "Text",
     "index_reference": "विवाह और यौनसम्बन्ध",
@@ -664,13 +668,14 @@
           "end_ref_usfm": "MAT 19:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709520",
     "reference_id": 203291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "विश्वास और अच्छे कर्म",
     "media_type": "Text",
     "index_reference": "विश्वास और अच्छे कर्म",
@@ -1016,13 +1021,14 @@
           "end_ref_usfm": "REV 21:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709607",
     "reference_id": 203378,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "विश्वास के द्वारा",
     "media_type": "Text",
     "index_reference": "विश्वास के द्वारा",
@@ -1194,13 +1200,14 @@
           "end_ref_usfm": "JAS 1:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709583",
     "reference_id": 203354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "विश्वास द्वारा धार्मिकता",
     "media_type": "Text",
     "index_reference": "विश्वास द्वारा धार्मिकता",
@@ -1282,13 +1289,14 @@
           "end_ref_usfm": "ACT 11:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709333",
     "reference_id": 203104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "वेदी",
     "media_type": "Text",
     "index_reference": "वेदी",
@@ -1484,7 +1492,8 @@
           "end_ref_usfm": "HEB 13:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

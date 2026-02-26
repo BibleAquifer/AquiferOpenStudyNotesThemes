@@ -2,7 +2,7 @@
   {
     "content_id": "700428",
     "reference_id": 203365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "「祂必再來」",
     "media_type": "Text",
     "index_reference": "「祂必再來」",
@@ -108,7 +108,8 @@
           "end_ref_usfm": "2TH 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

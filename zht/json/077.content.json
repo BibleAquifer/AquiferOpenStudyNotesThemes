@@ -2,7 +2,7 @@
   {
     "content_id": "700285",
     "reference_id": 203222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "說話",
     "media_type": "Text",
     "index_reference": "說話",
@@ -186,7 +186,8 @@
           "end_ref_usfm": "PRO 16:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

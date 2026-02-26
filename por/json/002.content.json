@@ -2,7 +2,7 @@
   {
     "content_id": "800534",
     "reference_id": 203365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "\"Ele Virá\"",
     "media_type": "Text",
     "index_reference": "\"ele virá\"",
@@ -108,7 +108,8 @@
           "end_ref_usfm": "2TH 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

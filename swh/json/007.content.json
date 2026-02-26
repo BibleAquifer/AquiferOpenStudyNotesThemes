@@ -2,7 +2,7 @@
   {
     "content_id": "765194",
     "reference_id": 203337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enzi ya Kale na enzi Mpya",
     "media_type": "Text",
     "index_reference": "enzi ya kale na enzi mpya",
@@ -246,7 +246,8 @@
           "end_ref_usfm": "EPH 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

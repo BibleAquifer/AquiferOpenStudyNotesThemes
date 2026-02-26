@@ -2,7 +2,7 @@
   {
     "content_id": "500157",
     "reference_id": 203100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babel: The Dispersion of Nations",
     "media_type": "Text",
     "index_reference": "babel: the dispersion of nations",
@@ -72,13 +72,14 @@
           "end_ref_usfm": "ACT 2:47"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500380",
     "reference_id": 203323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baptism",
     "media_type": "Text",
     "index_reference": "baptism",
@@ -484,13 +485,22 @@
           "end_ref_usfm": "1CO 1:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "Baptism",
+          "confidence": 0.8116,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500302",
     "reference_id": 203245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Basic Laws",
     "media_type": "Text",
     "index_reference": "basic laws",
@@ -644,13 +654,22 @@
           "end_ref_usfm": "MRK 12:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:FundamentalPrinciples",
+          "type": "keyterm",
+          "preferred_label": "Fundamental Principles",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "500289",
     "reference_id": 203232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beauty in Nature",
     "media_type": "Text",
     "index_reference": "beauty in nature",
@@ -750,13 +769,14 @@
           "end_ref_usfm": "MAT 6:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500400",
     "reference_id": 203343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Belonging to Christ",
     "media_type": "Text",
     "index_reference": "belonging to christ",
@@ -892,13 +912,22 @@
           "end_ref_usfm": "1CO 7:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5237,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500191",
     "reference_id": 203134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Biblical Law",
     "media_type": "Text",
     "index_reference": "biblical law",
@@ -1082,13 +1111,22 @@
           "end_ref_usfm": "GAL 3:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Law",
+          "type": "keyterm",
+          "preferred_label": "Law",
+          "confidence": 0.6689,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500153",
     "reference_id": 203096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Biblical Marriage",
     "media_type": "Text",
     "index_reference": "biblical marriage",
@@ -1254,13 +1292,14 @@
           "end_ref_usfm": "PSA 45:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500163",
     "reference_id": 203106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Blessing",
     "media_type": "Text",
     "index_reference": "blessing",
@@ -1564,13 +1603,22 @@
           "end_ref_usfm": "1SA 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Bless",
+          "type": "keyterm",
+          "preferred_label": "Bless",
+          "confidence": 0.5632,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500186",
     "reference_id": 203129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bread from Heaven",
     "media_type": "Text",
     "index_reference": "bread from heaven",
@@ -1700,13 +1748,14 @@
           "end_ref_usfm": "1CO 10:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500282",
     "reference_id": 203225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bribery and Gifts",
     "media_type": "Text",
     "index_reference": "bribery and gifts",
@@ -1830,13 +1879,14 @@
           "end_ref_usfm": "ISA 33:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500435",
     "reference_id": 203378,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "By Faith",
     "media_type": "Text",
     "index_reference": "by faith",
@@ -2008,7 +2058,16 @@
           "end_ref_usfm": "JAS 1:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "Believe",
+          "confidence": 0.5984,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "500257",
     "reference_id": 203200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Understanding Job",
     "media_type": "Text",
     "index_reference": "understanding job",
@@ -126,7 +126,16 @@
           "end_ref_usfm": "JOB 36:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Job",
+          "type": "person",
+          "preferred_label": "Job",
+          "confidence": 0.64,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

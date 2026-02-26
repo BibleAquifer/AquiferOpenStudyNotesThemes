@@ -2,7 +2,7 @@
   {
     "content_id": "500202",
     "reference_id": 203145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Oppression of God’s People",
     "media_type": "Text",
     "index_reference": "oppression of god’s people",
@@ -138,13 +138,22 @@
           "end_ref_usfm": "EZK 22:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5943,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500372",
     "reference_id": 203315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Our Advocate",
     "media_type": "Text",
     "index_reference": "our advocate",
@@ -316,13 +325,22 @@
           "end_ref_usfm": "JHN 16:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.6264,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500415",
     "reference_id": 203358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Overcoming the Devil",
     "media_type": "Text",
     "index_reference": "overcoming the devil",
@@ -518,7 +536,8 @@
           "end_ref_usfm": "REV 12:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

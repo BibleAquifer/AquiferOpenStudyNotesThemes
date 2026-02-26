@@ -2,7 +2,7 @@
   {
     "content_id": "765128",
     "reference_id": 203271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ibada katika Yerusalemu",
     "media_type": "Text",
     "index_reference": "ibada katika yerusalemu",
@@ -144,13 +144,22 @@
           "end_ref_usfm": "AMO 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalemu",
+          "confidence": 0.5763,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765022",
     "reference_id": 203165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ibada Safi",
     "media_type": "Text",
     "index_reference": "ibada safi",
@@ -508,13 +517,14 @@
           "end_ref_usfm": "DEU 5:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765031",
     "reference_id": 203174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ibada ya Hekalu",
     "media_type": "Text",
     "index_reference": "ibada ya hekalu",
@@ -698,13 +708,14 @@
           "end_ref_usfm": "EZK 8:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765148",
     "reference_id": 203291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imani na Matendo Mema",
     "media_type": "Text",
     "index_reference": "imani na matendo mema",
@@ -1050,13 +1061,14 @@
           "end_ref_usfm": "REV 21:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765140",
     "reference_id": 203283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imani ndogo",
     "media_type": "Text",
     "index_reference": "imani ndogo ",
@@ -1138,13 +1150,22 @@
           "end_ref_usfm": "JAS 1:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:HavingLittleFaith",
+          "type": "keyterm",
+          "preferred_label": "Having Little Faith",
+          "confidence": 0.8332,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "765167",
     "reference_id": 203310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ishara za Miujiza katika injili ya Yohana",
     "media_type": "Text",
     "index_reference": "ishara za miujiza katika injili ya yohana",
@@ -1466,7 +1487,8 @@
           "end_ref_usfm": "EXO 4:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "700276",
     "reference_id": 203213,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "理解被擄",
     "media_type": "Text",
     "index_reference": "理解被擄",
@@ -222,13 +222,14 @@
           "end_ref_usfm": "ISA 52:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700175",
     "reference_id": 203112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "歷史中的出埃及",
     "media_type": "Text",
     "index_reference": "歷史中的出埃及",
@@ -262,7 +263,8 @@
           "end_ref_usfm": "ACT 7:56"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

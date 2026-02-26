@@ -2,7 +2,7 @@
   {
     "content_id": "800480",
     "reference_id": 203311,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "“Crença” no evangelho de João",
     "media_type": "Text",
     "index_reference": "“crença” no evangelho de joão",
@@ -198,7 +198,23 @@
           "end_ref_usfm": "JHN 20:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noé",
+          "confidence": 0.6031,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "crer",
+          "confidence": 0.5118,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

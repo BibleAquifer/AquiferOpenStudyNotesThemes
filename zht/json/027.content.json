@@ -2,7 +2,7 @@
   {
     "content_id": "700189",
     "reference_id": 203126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "關心窮人",
     "media_type": "Text",
     "index_reference": "關心窮人",
@@ -294,7 +294,8 @@
           "end_ref_usfm": "LUK 18:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

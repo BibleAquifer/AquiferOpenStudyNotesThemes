@@ -2,7 +2,7 @@
   {
     "content_id": "765019",
     "reference_id": 203162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yerusalemu",
     "media_type": "Text",
     "index_reference": "yerusalemu",
@@ -324,13 +324,22 @@
           "end_ref_usfm": "GAL 4:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalemu",
+          "confidence": 0.6758,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765145",
     "reference_id": 203288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yesu na Shetani",
     "media_type": "Text",
     "index_reference": "yesu na shetani",
@@ -550,13 +559,22 @@
           "end_ref_usfm": "2CO 11:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Shetani",
+          "confidence": 0.7237,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765086",
     "reference_id": 203229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yote Ni \"Mvuke\"",
     "media_type": "Text",
     "index_reference": "yote ni \"mvuke\"",
@@ -650,7 +668,8 @@
           "end_ref_usfm": "JAS 4:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

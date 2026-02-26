@@ -2,7 +2,7 @@
   {
     "content_id": "500348",
     "reference_id": 203291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faith and Good Deeds",
     "media_type": "Text",
     "index_reference": "faith and good deeds",
@@ -348,13 +348,22 @@
           "end_ref_usfm": "REV 21:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Good",
+          "type": "keyterm",
+          "preferred_label": "Good",
+          "confidence": 0.6148,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500314",
     "reference_id": 203257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "False Prophets",
     "media_type": "Text",
     "index_reference": "false prophets",
@@ -502,13 +511,22 @@
           "end_ref_usfm": "2TI 4:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Speak",
+          "type": "keyterm",
+          "preferred_label": "Speak as a Prophet",
+          "confidence": 0.5181,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500182",
     "reference_id": 203125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Family, Community, and Sexual Sin",
     "media_type": "Text",
     "index_reference": "family, community, and sexual sin",
@@ -626,13 +644,14 @@
           "end_ref_usfm": "MAT 14:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500166",
     "reference_id": 203109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Famine",
     "media_type": "Text",
     "index_reference": "famine",
@@ -948,13 +967,14 @@
           "end_ref_usfm": "ACT 11:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500276",
     "reference_id": 203219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fear of the Lord",
     "media_type": "Text",
     "index_reference": "fear of the lord",
@@ -1102,13 +1122,36 @@
           "end_ref_usfm": "ISA 11:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.7125,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.7083,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.525,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500291",
     "reference_id": 203234,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fearing People",
     "media_type": "Text",
     "index_reference": "fearing people",
@@ -1292,13 +1335,14 @@
           "end_ref_usfm": "ISA 51:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500377",
     "reference_id": 203320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fishing in Galilee",
     "media_type": "Text",
     "index_reference": "fishing in galilee",
@@ -1398,13 +1442,14 @@
           "end_ref_usfm": "LUK 5:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500353",
     "reference_id": 203296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Following Jesus",
     "media_type": "Text",
     "index_reference": "following jesus",
@@ -1834,13 +1879,29 @@
           "end_ref_usfm": "ROM 10:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Christ",
+          "type": "group",
+          "preferred_label": "Christians",
+          "confidence": 0.6017,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.529,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500322",
     "reference_id": 203265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Four World Empires",
     "media_type": "Text",
     "index_reference": "four world empires",
@@ -1874,7 +1935,8 @@
           "end_ref_usfm": "DAN 2:49"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

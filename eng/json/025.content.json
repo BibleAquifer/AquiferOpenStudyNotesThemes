@@ -2,7 +2,7 @@
   {
     "content_id": "500266",
     "reference_id": 203209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zion",
     "media_type": "Text",
     "index_reference": "zion",
@@ -540,7 +540,16 @@
           "end_ref_usfm": "ZEC 8:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.8367,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

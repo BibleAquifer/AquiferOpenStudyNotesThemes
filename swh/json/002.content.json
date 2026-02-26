@@ -2,7 +2,7 @@
   {
     "content_id": "765222",
     "reference_id": 203365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "\"Atakuja\"",
     "media_type": "Text",
     "index_reference": "\"atakuja\"",
@@ -108,13 +108,14 @@
           "end_ref_usfm": "2TH 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765168",
     "reference_id": 203311,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "\"Imani\" Katika Injili ya Yohana",
     "media_type": "Text",
     "index_reference": "\"imani\" katika injili ya yohana",
@@ -310,13 +311,14 @@
           "end_ref_usfm": "JHN 20:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765173",
     "reference_id": 203316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "\"Maneno ya \"Mimi Ndimi\" ya Yesu\"",
     "media_type": "Text",
     "index_reference": "\"maneno ya \"mimi ndimi\" ya yesu\"",
@@ -488,7 +490,16 @@
           "end_ref_usfm": "JHN 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesu",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

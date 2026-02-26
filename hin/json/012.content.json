@@ -2,7 +2,7 @@
   {
     "content_id": "709556",
     "reference_id": 203327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "चमत्कार",
     "media_type": "Text",
     "index_reference": "चमत्कार",
@@ -330,13 +330,14 @@
           "end_ref_usfm": "1JN 5:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "709434",
     "reference_id": 203205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "चरवाहा",
     "media_type": "Text",
     "index_reference": "चरवाहा",
@@ -628,13 +629,22 @@
           "end_ref_usfm": "ZEC 10:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shethar",
+          "type": "person",
+          "preferred_label": "शेतार",
+          "confidence": 0.8289,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "709494",
     "reference_id": 203265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "चार विश्व साम्राज्य",
     "media_type": "Text",
     "index_reference": "चार विश्व साम्राज्य",
@@ -668,7 +678,8 @@
           "end_ref_usfm": "DAN 2:49"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

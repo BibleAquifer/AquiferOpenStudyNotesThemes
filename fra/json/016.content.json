@@ -2,7 +2,7 @@
   {
     "content_id": "734186",
     "reference_id": 203158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Réaction de David à son roi injuste (Saül)",
     "media_type": "Text",
     "index_reference": "réaction de david à son roi injuste (saül)",
@@ -204,13 +204,22 @@
           "end_ref_usfm": "JER 36:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 0.7478,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708425",
     "reference_id": 203157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Religion cananéenne",
     "media_type": "Text",
     "index_reference": "religion cananéenne",
@@ -250,13 +259,14 @@
           "end_ref_usfm": "2KI 3:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708448",
     "reference_id": 203297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rencontres avec Jésus",
     "media_type": "Text",
     "index_reference": "rencontres avec jésus",
@@ -416,13 +426,22 @@
           "end_ref_usfm": "MAT 16:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jésus",
+          "confidence": 0.5646,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734239",
     "reference_id": 203344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Renoncer à ses droits",
     "media_type": "Text",
     "index_reference": "renoncer à ses droits",
@@ -594,13 +613,14 @@
           "end_ref_usfm": "2TI 2:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734244",
     "reference_id": 203374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Repos du sabbat de Dieu",
     "media_type": "Text",
     "index_reference": "repos du sabbat de dieu",
@@ -844,13 +864,22 @@
           "end_ref_usfm": "ISA 54:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Sabbath",
+          "type": "keyterm",
+          "preferred_label": "sabbat",
+          "confidence": 0.6807,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708452",
     "reference_id": 203326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Responsabiliser le ministère",
     "media_type": "Text",
     "index_reference": "responsabiliser le ministère",
@@ -982,7 +1011,8 @@
           "label": "Actes 6.2-6",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

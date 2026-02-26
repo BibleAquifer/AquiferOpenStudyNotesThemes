@@ -2,7 +2,7 @@
   {
     "content_id": "700282",
     "reference_id": 203219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "敬畏耶和華",
     "media_type": "Text",
     "index_reference": "敬畏耶和華",
@@ -150,7 +150,8 @@
           "end_ref_usfm": "ISA 11:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

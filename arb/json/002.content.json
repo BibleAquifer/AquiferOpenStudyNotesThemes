@@ -2,7 +2,7 @@
   {
     "content_id": "702429",
     "reference_id": 203365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "\"سيأتي\"",
     "media_type": "Text",
     "index_reference": "\"سيأتي\"",
@@ -108,13 +108,14 @@
           "end_ref_usfm": "2TH 2:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702331",
     "reference_id": 203267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "السبعون أسبوعًا",
     "media_type": "Text",
     "index_reference": "السبعون أسبوعًا",
@@ -346,13 +347,14 @@
           "end_ref_usfm": "DAN 11:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702322",
     "reference_id": 203258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "السيادة الإلهية والمسؤولية البشرية",
     "media_type": "Text",
     "index_reference": "السيادة الإلهية والمسؤولية البشرية",
@@ -548,13 +550,14 @@
           "end_ref_usfm": "JAS 4:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702426",
     "reference_id": 203362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سر الأخبار السارة",
     "media_type": "Text",
     "index_reference": "سر الأخبار السارة",
@@ -666,13 +669,14 @@
           "end_ref_usfm": "COL 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702358",
     "reference_id": 203294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سر المسيّا",
     "media_type": "Text",
     "index_reference": "سر المسيّا",
@@ -820,13 +824,14 @@
           "end_ref_usfm": "MRK 9:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702199",
     "reference_id": 203135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سُكنى الله مع شعبه",
     "media_type": "Text",
     "index_reference": "سُكنى الله مع شعبه",
@@ -1004,13 +1009,14 @@
           "end_ref_usfm": "EXO 25:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702345",
     "reference_id": 203281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سلسلة نسب يسوع",
     "media_type": "Text",
     "index_reference": "سلسلة نسب يسوع",
@@ -1056,13 +1062,14 @@
           "end_ref_usfm": "MAT 11:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702436",
     "reference_id": 203372,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سمو وعظمة الابن فوق الجميع",
     "media_type": "Text",
     "index_reference": "سمو وعظمة الابن فوق الجميع",
@@ -1240,13 +1247,14 @@
           "end_ref_usfm": "HEB 1:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702377",
     "reference_id": 203313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سوء الفهم في إنجيل يوحنا",
     "media_type": "Text",
     "index_reference": "سوء الفهم في إنجيل يوحنا",
@@ -1412,13 +1420,14 @@
           "end_ref_usfm": "JHN 1:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702403",
     "reference_id": 203339,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سيادة الله",
     "media_type": "Text",
     "index_reference": "سيادة الله",
@@ -1728,7 +1737,8 @@
           "end_ref_usfm": "ROM 9:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

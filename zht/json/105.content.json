@@ -2,7 +2,7 @@
   {
     "content_id": "700442",
     "reference_id": 203379,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "在基督裡的群體中彼此相愛",
     "media_type": "Text",
     "index_reference": "在基督裡的群體中彼此相愛",
@@ -156,13 +156,14 @@
           "end_ref_usfm": "2PE 1:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700334",
     "reference_id": 203271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "在耶路撒冷敬拜",
     "media_type": "Text",
     "index_reference": "在耶路撒冷敬拜",
@@ -304,7 +305,8 @@
           "end_ref_usfm": "AMO 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

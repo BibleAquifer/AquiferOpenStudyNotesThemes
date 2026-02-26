@@ -2,7 +2,7 @@
   {
     "content_id": "765015",
     "reference_id": 203158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jibu la Daudi kwa Viongozi Wasio na Urafiki",
     "media_type": "Text",
     "index_reference": "jibu la daudi kwa viongozi wasio na urafiki",
@@ -204,13 +204,22 @@
           "end_ref_usfm": "JER 36:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Daudi",
+          "confidence": 0.7478,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "765033",
     "reference_id": 203176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jina la Mungu kwenye Hekalu Lake",
     "media_type": "Text",
     "index_reference": "jina la mungu kwenye hekalu lake",
@@ -268,13 +277,14 @@
           "end_ref_usfm": "2CH 6:42"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765121",
     "reference_id": 203264,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jiografia ya Israeli kama Theolojia",
     "media_type": "Text",
     "index_reference": "jiografia ya israeli kama theolojia",
@@ -320,13 +330,14 @@
           "end_ref_usfm": "EZK 48:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765147",
     "reference_id": 203290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jiwe Walilolikataa Waashi",
     "media_type": "Text",
     "index_reference": "jiwe walilolikataa waashi",
@@ -720,13 +731,14 @@
           "end_ref_usfm": "1PE 2:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "765239",
     "reference_id": 203382,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jumuiya Mpya",
     "media_type": "Text",
     "index_reference": "jumuiya mpya",
@@ -862,7 +874,8 @@
           "end_ref_usfm": "REV 21:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

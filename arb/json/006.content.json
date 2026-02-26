@@ -2,7 +2,7 @@
   {
     "content_id": "702354",
     "reference_id": 203290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الحجر الذي رفضه البناؤون",
     "media_type": "Text",
     "index_reference": "الحجر الذي رفضه البناؤون",
@@ -396,13 +396,14 @@
           "end_ref_usfm": "1PE 2:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702284",
     "reference_id": 203220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الحكمة",
     "media_type": "Text",
     "index_reference": "الحكمة",
@@ -574,13 +575,22 @@
           "end_ref_usfm": "JAS 3:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Wisdom",
+          "type": "person",
+          "preferred_label": "Wisdom",
+          "confidence": 0.8993,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "702421",
     "reference_id": 203357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الحياة القديمة والحياة الجديدة",
     "media_type": "Text",
     "index_reference": "الحياة القديمة والحياة الجديدة",
@@ -656,13 +666,14 @@
           "end_ref_usfm": "PHP 3:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702262",
     "reference_id": 203198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الحياة بعد الموت",
     "media_type": "Text",
     "index_reference": "الحياة بعد الموت",
@@ -1008,13 +1019,14 @@
           "end_ref_usfm": "2KI 4:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702196",
     "reference_id": 203132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الحيّة النحاسية",
     "media_type": "Text",
     "index_reference": "الحيّة النحاسية",
@@ -1108,13 +1120,14 @@
           "end_ref_usfm": "JHN 12:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702402",
     "reference_id": 203338,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حدود الناموس",
     "media_type": "Text",
     "index_reference": "حدود الناموس",
@@ -1394,13 +1407,14 @@
           "end_ref_usfm": "HEB 10:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702204",
     "reference_id": 203140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حرب مُقدَّسة",
     "media_type": "Text",
     "index_reference": "حرب مُقدَّسة",
@@ -1608,13 +1622,14 @@
           "end_ref_usfm": "REV 20:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702211",
     "reference_id": 203147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حزن ٱلله على الردة",
     "media_type": "Text",
     "index_reference": "حزن ٱلله على الردة",
@@ -1720,13 +1735,14 @@
           "end_ref_usfm": "2CO 5:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702219",
     "reference_id": 203155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حضور الروح القدس",
     "media_type": "Text",
     "index_reference": "حضور الروح القدس",
@@ -1958,13 +1974,14 @@
           "end_ref_usfm": "PSA 51:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702386",
     "reference_id": 203322,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حضور الرّوح القدس",
     "media_type": "Text",
     "index_reference": "حضور الرّوح القدس",
@@ -2256,13 +2273,14 @@
           "end_ref_usfm": "ACT 10:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702270",
     "reference_id": 203206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حضور ٱلله في المزامير",
     "media_type": "Text",
     "index_reference": "حضور ٱلله في المزامير",
@@ -2506,13 +2524,14 @@
           "end_ref_usfm": "PSA 80:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702336",
     "reference_id": 203272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حكم ٱلله وسلطانه على جميع الأمم",
     "media_type": "Text",
     "index_reference": "حكم ٱلله وسلطانه على جميع الأمم",
@@ -2732,13 +2751,14 @@
           "end_ref_usfm": "ACT 17:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702228",
     "reference_id": 203164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حكمة سليمان",
     "media_type": "Text",
     "index_reference": "حكمة سليمان",
@@ -2946,13 +2966,14 @@
           "end_ref_usfm": "1KI 5:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702372",
     "reference_id": 203308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "حلول الروح القدس",
     "media_type": "Text",
     "index_reference": "حلول الروح القدس",
@@ -3100,7 +3121,8 @@
           "end_ref_usfm": "LUK 2:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

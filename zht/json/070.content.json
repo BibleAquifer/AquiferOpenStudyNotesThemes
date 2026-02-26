@@ -2,7 +2,7 @@
   {
     "content_id": "700309",
     "reference_id": 203246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "入侵",
     "media_type": "Text",
     "index_reference": "入侵",
@@ -60,7 +60,8 @@
           "end_ref_usfm": "JER 19:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

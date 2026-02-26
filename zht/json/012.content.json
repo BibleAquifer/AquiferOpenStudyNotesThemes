@@ -2,7 +2,7 @@
   {
     "content_id": "700228",
     "reference_id": 203165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "純正的敬拜",
     "media_type": "Text",
     "index_reference": "純正的敬拜",
@@ -360,7 +360,8 @@
           "end_ref_usfm": "DEU 5:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

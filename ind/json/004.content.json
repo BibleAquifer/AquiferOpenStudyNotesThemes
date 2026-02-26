@@ -2,7 +2,7 @@
   {
     "content_id": "769528",
     "reference_id": 203261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Literatur Apokaliptik",
     "media_type": "Text",
     "index_reference": "literatur apokaliptik",
@@ -42,7 +42,8 @@
           "end_ref_usfm": "ISA 27:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "708423",
     "reference_id": 203153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Destruction complète",
     "media_type": "Text",
     "index_reference": "destruction complète",
@@ -158,13 +158,29 @@
           "label": "Dévouer par interdit",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:SomethingDevotedToGod",
+          "type": "keyterm",
+          "preferred_label": "objet qui doit être détruit",
+          "confidence": 0.5312,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Proscribe.2",
+          "type": "keyterm",
+          "preferred_label": "consacrer",
+          "confidence": 0.5005,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "708417",
     "reference_id": 203127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dévouer par interdit",
     "media_type": "Text",
     "index_reference": "dévouer par interdit",
@@ -372,13 +388,14 @@
           "end_ref_usfm": "1JN 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734197",
     "reference_id": 203180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu en tant que guerrier saint",
     "media_type": "Text",
     "index_reference": "dieu en tant que guerrier saint",
@@ -526,13 +543,14 @@
           "end_ref_usfm": "2CO 10:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734199",
     "reference_id": 203187,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu et la prière",
     "media_type": "Text",
     "index_reference": "dieu et la prière",
@@ -812,13 +830,14 @@
           "end_ref_usfm": "ACT 4:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734188",
     "reference_id": 203161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu ou Satan ?",
     "media_type": "Text",
     "index_reference": "dieu ou satan ?",
@@ -942,13 +961,22 @@
           "end_ref_usfm": "EPH 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satan",
+          "confidence": 0.6564,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734213",
     "reference_id": 203248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu protège son serviteur",
     "media_type": "Text",
     "index_reference": "dieu protège son serviteur",
@@ -1168,13 +1196,14 @@
           "end_ref_usfm": "HEB 11:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734185",
     "reference_id": 203154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu se repent-il ?",
     "media_type": "Text",
     "index_reference": "dieu se repent-il ?",
@@ -1310,13 +1339,22 @@
           "end_ref_usfm": "JON 4:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.5097,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "708459",
     "reference_id": 203370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dirigeants de l'Église",
     "media_type": "Text",
     "index_reference": "dirigeants de l'église",
@@ -1482,13 +1520,14 @@
           "end_ref_usfm": "1TI 5:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708432",
     "reference_id": 203197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Donner et recevoir des conseils",
     "media_type": "Text",
     "index_reference": "donner et recevoir des conseils",
@@ -1732,7 +1771,16 @@
           "end_ref_usfm": "PRO 15:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Guidance",
+          "type": "keyterm",
+          "preferred_label": "conseils",
+          "confidence": 0.6077,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

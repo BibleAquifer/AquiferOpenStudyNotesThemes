@@ -2,7 +2,7 @@
   {
     "content_id": "700447",
     "reference_id": 203384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "初期基督教的異端",
     "media_type": "Text",
     "index_reference": "初期基督教的異端",
@@ -126,13 +126,14 @@
           "end_ref_usfm": "REV 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700199",
     "reference_id": 203136,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "除去罪惡",
     "media_type": "Text",
     "index_reference": "除去罪惡",
@@ -304,13 +305,14 @@
           "end_ref_usfm": "ISA 1:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700252",
     "reference_id": 203189,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "處理衝突",
     "media_type": "Text",
     "index_reference": "處理衝突",
@@ -626,7 +628,8 @@
           "end_ref_usfm": "2TI 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

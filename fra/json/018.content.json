@@ -2,7 +2,7 @@
   {
     "content_id": "708433",
     "reference_id": 203215,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ténèbres et lumière",
     "media_type": "Text",
     "index_reference": "ténèbres et lumière",
@@ -690,13 +690,14 @@
           "end_ref_usfm": "1JN 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "708437",
     "reference_id": 203229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tout est « vanité »",
     "media_type": "Text",
     "index_reference": "tout est « vanité »",
@@ -790,7 +791,8 @@
           "end_ref_usfm": "JAS 4:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

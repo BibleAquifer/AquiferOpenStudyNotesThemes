@@ -2,7 +2,7 @@
   {
     "content_id": "700361",
     "reference_id": 203298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "來臨中的那日",
     "media_type": "Text",
     "index_reference": "來臨中的那日",
@@ -554,13 +554,14 @@
           "label": "馬可福音",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "700260",
     "reference_id": 203197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "來自他人的勸告",
     "media_type": "Text",
     "index_reference": "來自他人的勸告",
@@ -804,7 +805,8 @@
           "end_ref_usfm": "PRO 15:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "702170",
     "reference_id": 203106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "البركة",
     "media_type": "Text",
     "index_reference": "البركة",
@@ -306,13 +306,14 @@
           "end_ref_usfm": "1SA 2:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702192",
     "reference_id": 203128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "البركة الكهنوتية",
     "media_type": "Text",
     "index_reference": "البركة الكهنوتية",
@@ -552,13 +553,14 @@
           "label": "الخروج 3: 15",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "702300",
     "reference_id": 203236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "البقيّة",
     "media_type": "Text",
     "index_reference": "البقيّة",
@@ -772,13 +774,14 @@
           "end_ref_usfm": "MIC 5:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702164",
     "reference_id": 203100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بابل: شتات الأمم",
     "media_type": "Text",
     "index_reference": "بابل: شتات الأمم",
@@ -848,13 +851,14 @@
           "end_ref_usfm": "ACT 2:47"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702263",
     "reference_id": 203199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "براءة أيّوب",
     "media_type": "Text",
     "index_reference": "براءة أيّوب",
@@ -1122,7 +1126,8 @@
           "end_ref_usfm": "JOB 9:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

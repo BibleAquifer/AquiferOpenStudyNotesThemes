@@ -2,7 +2,7 @@
   {
     "content_id": "709486",
     "reference_id": 203257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "झूठे भविष्यद्वक्ता",
     "media_type": "Text",
     "index_reference": "झूठे भविष्यद्वक्ता",
@@ -150,7 +150,8 @@
           "end_ref_usfm": "2TI 4:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

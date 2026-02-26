@@ -2,7 +2,7 @@
   {
     "content_id": "702180",
     "reference_id": 203116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الضربات",
     "media_type": "Text",
     "index_reference": "الضربات",
@@ -186,13 +186,14 @@
           "end_ref_usfm": "NUM 16:50"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702454",
     "reference_id": 203390,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ضد المسيح",
     "media_type": "Text",
     "index_reference": "ضد المسيح",
@@ -264,7 +265,8 @@
           "label": "رؤيا 17: 8",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

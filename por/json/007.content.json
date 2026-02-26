@@ -2,7 +2,7 @@
   {
     "content_id": "800466",
     "reference_id": 203297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Encontros com Jesus",
     "media_type": "Text",
     "index_reference": "encontros com jesus",
@@ -162,13 +162,22 @@
           "end_ref_usfm": "MAT 16:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5646,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "800540",
     "reference_id": 203371,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Escravidão",
     "media_type": "Text",
     "index_reference": "escravidão",
@@ -226,13 +235,14 @@
           "end_ref_usfm": "PHM 1:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800384",
     "reference_id": 203215,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Escuridão e luz",
     "media_type": "Text",
     "index_reference": "escuridão e luz",
@@ -920,13 +930,14 @@
           "end_ref_usfm": "1JN 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800421",
     "reference_id": 203252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esperança além do julgamento",
     "media_type": "Text",
     "index_reference": "esperança além do julgamento",
@@ -1074,13 +1085,14 @@
           "end_ref_usfm": "ISA 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800471",
     "reference_id": 203302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esperança pelo Messias",
     "media_type": "Text",
     "index_reference": "esperança pelo messias",
@@ -1198,13 +1210,14 @@
           "end_ref_usfm": "LUK 23:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "800293",
     "reference_id": 203124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Expiação",
     "media_type": "Text",
     "index_reference": "expiação",
@@ -1370,7 +1383,8 @@
           "end_ref_usfm": "HEB 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "702305",
     "reference_id": 203241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الوعد بالخروج الثاني",
     "media_type": "Text",
     "index_reference": "الوعد بالخروج الثاني",
@@ -192,13 +192,14 @@
           "end_ref_usfm": "HEB 13:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702237",
     "reference_id": 203173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الوعد بالنسل المَلَكي",
     "media_type": "Text",
     "index_reference": "الوعد بالنسل المَلَكي",
@@ -304,13 +305,14 @@
           "end_ref_usfm": "1CH 28:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702344",
     "reference_id": 203280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الوعظ لجمهور صعب",
     "media_type": "Text",
     "index_reference": "الوعظ لجمهور صعب",
@@ -458,13 +460,14 @@
           "end_ref_usfm": "JHN 10:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702213",
     "reference_id": 203149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الوليّ (الفادي العائلي)",
     "media_type": "Text",
     "index_reference": "الوليّ (الفادي العائلي)",
@@ -678,13 +681,14 @@
           "end_ref_usfm": "RUT 4:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702369",
     "reference_id": 203305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الوليمة المسيّانية",
     "media_type": "Text",
     "index_reference": "الوليمة المسيّانية",
@@ -826,13 +830,14 @@
           "end_ref_usfm": "LUK 14:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "702324",
     "reference_id": 203260,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وعد الحياة الجديدة",
     "media_type": "Text",
     "index_reference": "وعد الحياة الجديدة",
@@ -968,7 +973,8 @@
           "end_ref_usfm": "EPH 6:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

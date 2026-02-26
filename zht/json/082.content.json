@@ -2,7 +2,7 @@
   {
     "content_id": "700249",
     "reference_id": 203186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "通婚與休妻",
     "media_type": "Text",
     "index_reference": "通婚與休妻",
@@ -120,13 +120,14 @@
           "end_ref_usfm": "1CO 7:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "700195",
     "reference_id": 203132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "銅蛇",
     "media_type": "Text",
     "index_reference": "銅蛇",
@@ -220,7 +221,8 @@
           "end_ref_usfm": "JHN 12:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

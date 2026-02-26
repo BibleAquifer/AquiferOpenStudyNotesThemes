@@ -2,7 +2,7 @@
   {
     "content_id": "500245",
     "reference_id": 203188,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebuilding of Jerusalem",
     "media_type": "Text",
     "index_reference": "rebuilding of jerusalem",
@@ -126,13 +126,22 @@
           "end_ref_usfm": "REV 21:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.5066,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500290",
     "reference_id": 203233,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Religious Hypocrisy",
     "media_type": "Text",
     "index_reference": "religious hypocrisy",
@@ -298,13 +307,22 @@
           "end_ref_usfm": "JAS 1:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Hypocrisy",
+          "type": "keyterm",
+          "preferred_label": "Hypocrisy",
+          "confidence": 0.6053,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500374",
     "reference_id": 203317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Remaining in Christ",
     "media_type": "Text",
     "index_reference": "remaining in christ",
@@ -470,13 +488,14 @@
           "end_ref_usfm": "JOS 7:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500288",
     "reference_id": 203231,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Remember Him",
     "media_type": "Text",
     "index_reference": "remember him",
@@ -528,13 +547,14 @@
           "end_ref_usfm": "1CO 3:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500193",
     "reference_id": 203136,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Remove the Evil",
     "media_type": "Text",
     "index_reference": "remove the evil",
@@ -706,13 +726,14 @@
           "end_ref_usfm": "ISA 1:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500325",
     "reference_id": 203268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Resurrection in the Old Testament",
     "media_type": "Text",
     "index_reference": "resurrection in the old testament",
@@ -824,13 +845,22 @@
           "end_ref_usfm": "MAT 27:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "Resurrection",
+          "confidence": 0.6677,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500155",
     "reference_id": 203098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Retribution",
     "media_type": "Text",
     "index_reference": "retribution",
@@ -1080,13 +1110,22 @@
           "end_ref_usfm": "ROM 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Punishment",
+          "type": "keyterm",
+          "preferred_label": "Punishment",
+          "confidence": 0.8724,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "500333",
     "reference_id": 203276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Returning to the Lord",
     "media_type": "Text",
     "index_reference": "returning to the lord",
@@ -1192,13 +1231,22 @@
           "end_ref_usfm": "ACT 17:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500363",
     "reference_id": 203306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rich and Poor in the Gospel of Luke",
     "media_type": "Text",
     "index_reference": "rich and poor in the gospel of luke",
@@ -1280,13 +1328,14 @@
           "end_ref_usfm": "LUK 14:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500411",
     "reference_id": 203354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Righteousness by Faith",
     "media_type": "Text",
     "index_reference": "righteousness by faith",
@@ -1368,13 +1417,14 @@
           "end_ref_usfm": "ACT 11:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500258",
     "reference_id": 203201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royal Psalms",
     "media_type": "Text",
     "index_reference": "royal psalms",
@@ -1540,7 +1590,8 @@
           "end_ref_usfm": "PSA 89:45"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]
