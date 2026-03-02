@@ -1,1159 +1,1159 @@
 [
-  {
-    "content_id": "702425",
-    "reference_id": 203361,
-    "version": "1.0.2",
-    "title": "الفرح المسيحي",
-    "media_type": "Text",
-    "index_reference": "الفرح المسيحي",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>في الساعات الأخيرة من حياته، أراد يسوع أن يمتلئ تلاميذه بفرحه (انظر <a href=\"https://ref.ly/John15:11\">يوحنا 15:11</a>; <a href=\"https://ref.ly/John16:20-John16:24\">16:20–24</a>). الفرح هو موضوع شائع في العديد من رسائل الرسول بولس، وخاصة في رسالة فيلبي. كان بولس يشجّع المسيحيين على الفرح، خاصة الذين يعانون من الاضطهاد، مثل مؤمني فيلبي وتسالونيكي (<a href=\"https://ref.ly/Phil3:1\">فيلبي 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 تسالونيكي 5:16</a>).</p><p>السعادة التي تعتمد على الظروف الخارجية هي مؤقتة، لكن الفرح المسيحي مختلف. فهو يأتي من العلاقة مع الرب، ويستمر حتى في أوقات الألم والموت. الفرح ينبع من الثقة بأن الله يستخدم كل الأمور لخير المؤمن في النهاية (انظر <a href=\"https://ref.ly/Rom5:3-Rom5:4\">رومية 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>).</p><p>ويجد المسيحيون الفرح أيضًا في الحضور الفعّال لروح الله في قلوبهم (انظر <a href=\"https://ref.ly/Gal5:22\">غلاطية 5:22</a>). والسر الحقيقي لحياة مليئة بالفرح يكمن في الامتلاء بالروح القدوس &quot;أ<span>مْتَلِئُوا بِٱلرُّوحِ</span>&quot; (انظر <a href=\"https://ref.ly/Eph5:18\">أفسس 5:18</a>). العلاقة مع الله الحي هي التي تشكل أفكار وردود أفعال المسيحيين، وليس الظروف الخارجية.</p><p><u>مقاطع إضافية للدراسة</u></p><p><a href=\"https://ref.ly/John15:11\">يوحنا 15:11</a>; <a href=\"https://ref.ly/John16:24\">16:24</a>; <a href=\"https://ref.ly/Rom5:3-Rom5:4\">رومية 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>; <a href=\"https://ref.ly/Gal5:22\">غلاطية 5:22</a>; <a href=\"https://ref.ly/Eph5:18\">أفسس 5:18</a>; <a href=\"https://ref.ly/Phil3:1\">فيلبي 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 تسالونيكي 5:16</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "43015011",
-          "start_ref_usfm": "JHN 15:11",
-          "end_ref": "43015011",
-          "end_ref_usfm": "JHN 15:11"
-        },
-        {
-          "start_ref": "43016024",
-          "start_ref_usfm": "JHN 16:24",
-          "end_ref": "43016024",
-          "end_ref_usfm": "JHN 16:24"
-        },
-        {
-          "start_ref": "45008028",
-          "start_ref_usfm": "ROM 8:28",
-          "end_ref": "45008028",
-          "end_ref_usfm": "ROM 8:28"
-        },
-        {
-          "start_ref": "48005022",
-          "start_ref_usfm": "GAL 5:22",
-          "end_ref": "48005022",
-          "end_ref_usfm": "GAL 5:22"
-        },
-        {
-          "start_ref": "49005018",
-          "start_ref_usfm": "EPH 5:18",
-          "end_ref": "49005018",
-          "end_ref_usfm": "EPH 5:18"
-        },
-        {
-          "start_ref": "50003001",
-          "start_ref_usfm": "PHP 3:1",
-          "end_ref": "50003001",
-          "end_ref_usfm": "PHP 3:1"
-        },
-        {
-          "start_ref": "50004004",
-          "start_ref_usfm": "PHP 4:4",
-          "end_ref": "50004004",
-          "end_ref_usfm": "PHP 4:4"
-        },
-        {
-          "start_ref": "52005016",
-          "start_ref_usfm": "1TH 5:16",
-          "end_ref": "52005016",
-          "end_ref_usfm": "1TH 5:16"
-        },
-        {
-          "start_ref": "45005003",
-          "start_ref_usfm": "ROM 5:3",
-          "end_ref": "45005004",
-          "end_ref_usfm": "ROM 5:4"
-        },
-        {
-          "start_ref": "43016020",
-          "start_ref_usfm": "JHN 16:20",
-          "end_ref": "43016024",
-          "end_ref_usfm": "JHN 16:24"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "702181",
-    "reference_id": 203117,
-    "version": "1.0.2",
-    "title": "الفصح",
-    "media_type": "Text",
-    "index_reference": "الفصح",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>لقد أصبح عيد الفصح جزءًا مركزيًا من الممارسة الدينية للشعب الإسرائيلي. كان يتم الاحتفال في هذا العيد بإنقاذ الله للعبرانيين من مصر وحمايته لهم من الضربة المُهلكة الأخيرة. أراد الله أن يحتفل الشعب بهذا العيد كل عام وفقًا للتعليمات الواردة في سفر الخروج (<a href=\"https://ref.ly/Exod12:1-Exod12:27\">الخروج 12:1–27</a>). كان عيد الفصح تذكيرًا للأجيال القادمة بأعمال الله الخلاصية. وقد شارك جميع الناس في العيد، حيث يتناولون خبزًا فطيرًا، غير مختمِر، فقط، كما فعلوا عندما غادروا مصر بسرعة.</p><p>في الفصح الأول، قدّموا خروفًا ذبيحة لإنقاذ الابن البكر من كل عائلة إسرائيلية (<a href=\"https://ref.ly/Exod12:12-Exod12:13\">خروج 12:12–13</a>, <a href=\"https://ref.ly/Exod12:23\">23</a>). ويمثّل عيد الفصح إمكانية النجاة والهروب من الموت فقط من خلال ذبيحة تحلّ محلّنا. كان عيد الفصح حدثًا مهمًا في تاريخ بني إسرائيل. ومع ذلك، فإن الخروج من عبودية مصر لم يحلّ المشكلة العالمية للموت الناتج عن الخطية (<a href=\"https://ref.ly/1Cor15:56\">1 كورنثوس 15:56</a>).</p><p>وبعد سنوات عديدة، وأثناء احتفال عيد الفصح، قدّم يسوع المسيح حياته باذلًا إياها &quot;<span>فِدْيَةً عَنْ كَثِيرِينَ</span>&quot; (<a href=\"https://ref.ly/Matt20:28\">متّى 20:28</a>؛ <a href=\"https://ref.ly/Mark10:45\">مرقس 10:45</a>). لقد صار هو  &quot;<span>حَمَلُ ٱللهِ ٱلَّذِي يَرْفَعُ خَطِيَّةَ ٱلْعَالَمِ!</span>&quot; (<a href=\"https://ref.ly/John1:29\">يوحنّا 1:29</a>). وأثناء تناوله العشاء الأخير مع تلاميذه، شرح يسوع المعنى الرمزي للخمر الذي شاركوه: &quot;<span>هَذَا هُوَ دَمِي ٱلَّذِي لِلْعَهْدِ ٱلْجَدِيدِ ٱلَّذِي يُسْفَكُ مِنْ أَجْلِ كَثِيرِينَ لِمَغْفِرَةِ ٱلْخَطَايَا.</span>&quot; (<a href=\"https://ref.ly/Matt26:28\">متّى 26:28</a>). لقد كان يسوع يُمثّل فصحًا جديدًا ويبدأه. وبذبيحته، هزم يسوع الخطية والموت بشكل كامل ونهائي (انظر أيضًا <a href=\"https://ref.ly/Isa25:7-Isa25:8\">إشعياء 25:7–8</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Exod12:1-Exod12:51\">خروج 12:1–51</a>; <a href=\"https://ref.ly/Lev23:4-Lev23:8\">لاويين 23:4–8</a>; <a href=\"https://ref.ly/Num9:1-Num9:14\">عدد 9:1–14</a>; <a href=\"https://ref.ly/Num28:16-Num28:25\">عدد 28:16–25</a>; <a href=\"https://ref.ly/Deut16:1-Deut16:7\">تثنية 16:1–7</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:30\">متّى 26:17–30</a>; <a href=\"https://ref.ly/Luke22:15-Luke22:20\">لوقا 22:15–20</a>; <a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1 كورنثوس 5:6–8</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "02012023",
-          "start_ref_usfm": "EXO 12:23",
-          "end_ref": "02012023",
-          "end_ref_usfm": "EXO 12:23"
-        },
-        {
-          "start_ref": "40020028",
-          "start_ref_usfm": "MAT 20:28",
-          "end_ref": "40020028",
-          "end_ref_usfm": "MAT 20:28"
-        },
-        {
-          "start_ref": "40026028",
-          "start_ref_usfm": "MAT 26:28",
-          "end_ref": "40026028",
-          "end_ref_usfm": "MAT 26:28"
-        },
-        {
-          "start_ref": "41010045",
-          "start_ref_usfm": "MRK 10:45",
-          "end_ref": "41010045",
-          "end_ref_usfm": "MRK 10:45"
-        },
-        {
-          "start_ref": "43001029",
-          "start_ref_usfm": "JHN 1:29",
-          "end_ref": "43001029",
-          "end_ref_usfm": "JHN 1:29"
-        },
-        {
-          "start_ref": "46015056",
-          "start_ref_usfm": "1CO 15:56",
-          "end_ref": "46015056",
-          "end_ref_usfm": "1CO 15:56"
-        },
-        {
-          "start_ref": "42022015",
-          "start_ref_usfm": "LUK 22:15",
-          "end_ref": "42022020",
-          "end_ref_usfm": "LUK 22:20"
-        },
-        {
-          "start_ref": "46005006",
-          "start_ref_usfm": "1CO 5:6",
-          "end_ref": "46005008",
-          "end_ref_usfm": "1CO 5:8"
-        },
-        {
-          "start_ref": "02012001",
-          "start_ref_usfm": "EXO 12:1",
-          "end_ref": "02012051",
-          "end_ref_usfm": "EXO 12:51"
-        },
-        {
-          "start_ref": "40026017",
-          "start_ref_usfm": "MAT 26:17",
-          "end_ref": "40026030",
-          "end_ref_usfm": "MAT 26:30"
-        },
-        {
-          "start_ref": "04028016",
-          "start_ref_usfm": "NUM 28:16",
-          "end_ref": "04028025",
-          "end_ref_usfm": "NUM 28:25"
-        },
-        {
-          "start_ref": "04009001",
-          "start_ref_usfm": "NUM 9:1",
-          "end_ref": "04009014",
-          "end_ref_usfm": "NUM 9:14"
-        },
-        {
-          "start_ref": "02012001",
-          "start_ref_usfm": "EXO 12:1",
-          "end_ref": "02012027",
-          "end_ref_usfm": "EXO 12:27"
-        },
-        {
-          "start_ref": "02012012",
-          "start_ref_usfm": "EXO 12:12",
-          "end_ref": "02012013",
-          "end_ref_usfm": "EXO 12:13"
-        },
-        {
-          "start_ref": "23025007",
-          "start_ref_usfm": "ISA 25:7",
-          "end_ref": "23025008",
-          "end_ref_usfm": "ISA 25:8"
-        },
-        {
-          "start_ref": "03023004",
-          "start_ref_usfm": "LEV 23:4",
-          "end_ref": "03023008",
-          "end_ref_usfm": "LEV 23:8"
-        },
-        {
-          "start_ref": "05016001",
-          "start_ref_usfm": "DEU 16:1",
-          "end_ref": "05016007",
-          "end_ref_usfm": "DEU 16:7"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "702266",
-    "reference_id": 203202,
-    "version": "1.0.2",
-    "title": "الفقراء والمحتاجون في سفر المزامير",
-    "media_type": "Text",
-    "index_reference": "الفقراء والمحتاجون في سفر المزامير",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>على مدار الكتاب المقدس، يدعم الله الفقراء والمحتاجين. غالبًا ما يتعرض هؤلاء الأشخاص للاضطهاد وسوء المعاملة من قبل المجتمع أو الأفراد الجشعين. يذكر سفر المزامير مرارًا وتكرارًا معاناة المظلومين واهتمام الله بهم. يمكن للفقراء والمحتاجين أن يجدوا ملجأ في الرب في ضيقهم (انظر <a href=\"https://ref.ly/Ps76:9\">مزامير 76:9</a>; <a href=\"https://ref.ly/Ps107:4-Ps107:9\">107:4–9</a>). يمكنهم أن يصرخوا إليه؛ لأنه وعد بالعناية بهم (انظر <a href=\"https://ref.ly/Ps25:16-Ps25:18\">25:16–18</a>; <a href=\"https://ref.ly/Ps70:1-Ps70:5\">70:1–5</a>; <a href=\"https://ref.ly/Ps74:19\">74:19</a>). يمكنهم الوثوق به وانتظاره برجاء ليحقق العدالة (<a href=\"https://ref.ly/Ps18:1-Ps18:50\">18:1–50</a>; <a href=\"https://ref.ly/Ps70:5\">70:5</a>).</p><p>قد يمر العديد من الناس بتجارب الحياة المؤلمة (<a href=\"https://ref.ly/Ps88:15\">مزامير 88:13–15</a>; <a href=\"https://ref.ly/Ps90:15\">90:15</a>; انظر <a href=\"https://ref.ly/Ps102:1-Ps102:28\">102:1–28</a>). يمكن أن يكون الضيق وسيلة للتأديب الذي يعلم البر (<a href=\"https://ref.ly/Ps119:71\">119:71</a>, <a href=\"https://ref.ly/Ps119:75\">75</a>). بغض النظر عن المدة أو الشدة أو السبب، فإن الرب يسمع صرخ المسكين، كما توضح العديد من المزامير (<a href=\"https://ref.ly/Ps10:17-Ps10:18\">10:17–18</a>; <a href=\"https://ref.ly/Ps12:5\">12:5</a>; <a href=\"https://ref.ly/Ps22:24\">22:24</a>; <a href=\"https://ref.ly/Ps35:10\">35:10</a>; <a href=\"https://ref.ly/Ps109:31\">109:31</a>; <a href=\"https://ref.ly/Ps113:5-Ps113:7\">113:5–7</a>; <a href=\"https://ref.ly/Ps140:12\">140:12</a>). في النهاية، سيشبع الله الفقراء وسيفرح الأتقياء (انظر <a href=\"https://ref.ly/Ps22:26\">22:26</a>; <a href=\"https://ref.ly/Ps132:15\">132:15</a>; <a href=\"https://ref.ly/Ps34:1-Ps34:2\">34:1–2</a>; <a href=\"https://ref.ly/Ps69:32\">69:32</a>).</p><p>اختار الله الملوك من نسل داود لتحقيق العدالة لشعبه المتألم (<a href=\"https://ref.ly/Ps72:2\">مزمور 72:2</a>, <a href=\"https://ref.ly/Ps72:4\">4</a>, <a href=\"https://ref.ly/Ps72:12\">12</a>)، لكنهم لم يفلحوا في ذلك. أما الرب يسوع، الملك المسيح، فإنه يدرك صراعاتنا البشرية (<a href=\"https://ref.ly/Isa53:4\">إشعياء 53:4</a>, <a href=\"https://ref.ly/Isa53:7\">7</a>). وقد جاء لمساندة الفقراء والمضطهدين (<a href=\"https://ref.ly/Luke4:17-Luke4:21\">لوقا 4:17–21</a>; انظر <a href=\"https://ref.ly/Isa61:1-Isa61:3\">إشعياء 61:1–3</a>). هو الرجاء لمن يدركون حاجتهم إليه ومن يشتهون البر (<a href=\"https://ref.ly/Matt5:3-Matt5:12\">متى 5:3–12</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Ps9:18\">مزمور 9:18</a>; <a href=\"https://ref.ly/Ps10:1-Ps10:18\">10:1–18</a>; <a href=\"https://ref.ly/Ps12:5\">12:5</a>; <a href=\"https://ref.ly/Ps22:1-Ps22:31\">22:1–31</a>; <a href=\"https://ref.ly/Ps34:1-Ps34:22\">34:1–22</a>; <a href=\"https://ref.ly/Ps35:10\">35:10</a>; <a href=\"https://ref.ly/Ps37:14\">37:14</a>; <a href=\"https://ref.ly/Ps40:17\">40:17</a>; <a href=\"https://ref.ly/Ps41:1\">41:1</a>; <a href=\"https://ref.ly/Ps49:2\">49:2</a>; <a href=\"https://ref.ly/Ps68:10\">68:10</a>; <a href=\"https://ref.ly/Ps69:33\">69:33</a>; <a href=\"https://ref.ly/Ps70:5\">70:5</a>; <a href=\"https://ref.ly/Ps72:2-Ps72:4\">72:2–4</a>, <a href=\"https://ref.ly/Ps72:12-Ps72:13\">12–13</a>; <a href=\"https://ref.ly/Ps74:21\">74:21</a>; <a href=\"https://ref.ly/Ps82:3-Ps82:4\">82:3–4</a>; <a href=\"https://ref.ly/Ps107:41\">107:41</a>; <a href=\"https://ref.ly/Ps109:16\">109:16</a>, <a href=\"https://ref.ly/Ps109:22\">22</a>, <a href=\"https://ref.ly/Ps109:31\">31</a>; <a href=\"https://ref.ly/Ps132:15\">132:15</a>; <a href=\"https://ref.ly/Ps140:12\">140:12</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "19009018",
-          "start_ref_usfm": "PSA 9:18",
-          "end_ref": "19009018",
-          "end_ref_usfm": "PSA 9:18"
-        },
-        {
-          "start_ref": "19012005",
-          "start_ref_usfm": "PSA 12:5",
-          "end_ref": "19012005",
-          "end_ref_usfm": "PSA 12:5"
-        },
-        {
-          "start_ref": "19022024",
-          "start_ref_usfm": "PSA 22:24",
-          "end_ref": "19022024",
-          "end_ref_usfm": "PSA 22:24"
-        },
-        {
-          "start_ref": "19022026",
-          "start_ref_usfm": "PSA 22:26",
-          "end_ref": "19022026",
-          "end_ref_usfm": "PSA 22:26"
-        },
-        {
-          "start_ref": "19035010",
-          "start_ref_usfm": "PSA 35:10",
-          "end_ref": "19035010",
-          "end_ref_usfm": "PSA 35:10"
-        },
-        {
-          "start_ref": "19037014",
-          "start_ref_usfm": "PSA 37:14",
-          "end_ref": "19037014",
-          "end_ref_usfm": "PSA 37:14"
-        },
-        {
-          "start_ref": "19040017",
-          "start_ref_usfm": "PSA 40:17",
-          "end_ref": "19040017",
-          "end_ref_usfm": "PSA 40:17"
-        },
-        {
-          "start_ref": "19041001",
-          "start_ref_usfm": "PSA 41:1",
-          "end_ref": "19041001",
-          "end_ref_usfm": "PSA 41:1"
-        },
-        {
-          "start_ref": "19049002",
-          "start_ref_usfm": "PSA 49:2",
-          "end_ref": "19049002",
-          "end_ref_usfm": "PSA 49:2"
-        },
-        {
-          "start_ref": "19068010",
-          "start_ref_usfm": "PSA 68:10",
-          "end_ref": "19068010",
-          "end_ref_usfm": "PSA 68:10"
-        },
-        {
-          "start_ref": "19069032",
-          "start_ref_usfm": "PSA 69:32",
-          "end_ref": "19069032",
-          "end_ref_usfm": "PSA 69:32"
-        },
-        {
-          "start_ref": "19069033",
-          "start_ref_usfm": "PSA 69:33",
-          "end_ref": "19069033",
-          "end_ref_usfm": "PSA 69:33"
-        },
-        {
-          "start_ref": "19070005",
-          "start_ref_usfm": "PSA 70:5",
-          "end_ref": "19070005",
-          "end_ref_usfm": "PSA 70:5"
-        },
-        {
-          "start_ref": "19072002",
-          "start_ref_usfm": "PSA 72:2",
-          "end_ref": "19072002",
-          "end_ref_usfm": "PSA 72:2"
-        },
-        {
-          "start_ref": "19072004",
-          "start_ref_usfm": "PSA 72:4",
-          "end_ref": "19072004",
-          "end_ref_usfm": "PSA 72:4"
-        },
-        {
-          "start_ref": "19072012",
-          "start_ref_usfm": "PSA 72:12",
-          "end_ref": "19072012",
-          "end_ref_usfm": "PSA 72:12"
-        },
-        {
-          "start_ref": "19074019",
-          "start_ref_usfm": "PSA 74:19",
-          "end_ref": "19074019",
-          "end_ref_usfm": "PSA 74:19"
-        },
-        {
-          "start_ref": "19074021",
-          "start_ref_usfm": "PSA 74:21",
-          "end_ref": "19074021",
-          "end_ref_usfm": "PSA 74:21"
-        },
-        {
-          "start_ref": "19076009",
-          "start_ref_usfm": "PSA 76:9",
-          "end_ref": "19076009",
-          "end_ref_usfm": "PSA 76:9"
-        },
-        {
-          "start_ref": "19088015",
-          "start_ref_usfm": "PSA 88:15",
-          "end_ref": "19088015",
-          "end_ref_usfm": "PSA 88:15"
-        },
-        {
-          "start_ref": "19090015",
-          "start_ref_usfm": "PSA 90:15",
-          "end_ref": "19090015",
-          "end_ref_usfm": "PSA 90:15"
-        },
-        {
-          "start_ref": "19107041",
-          "start_ref_usfm": "PSA 107:41",
-          "end_ref": "19107041",
-          "end_ref_usfm": "PSA 107:41"
-        },
-        {
-          "start_ref": "19109016",
-          "start_ref_usfm": "PSA 109:16",
-          "end_ref": "19109016",
-          "end_ref_usfm": "PSA 109:16"
-        },
-        {
-          "start_ref": "19109022",
-          "start_ref_usfm": "PSA 109:22",
-          "end_ref": "19109022",
-          "end_ref_usfm": "PSA 109:22"
-        },
-        {
-          "start_ref": "19109031",
-          "start_ref_usfm": "PSA 109:31",
-          "end_ref": "19109031",
-          "end_ref_usfm": "PSA 109:31"
-        },
-        {
-          "start_ref": "19119071",
-          "start_ref_usfm": "PSA 119:71",
-          "end_ref": "19119071",
-          "end_ref_usfm": "PSA 119:71"
-        },
-        {
-          "start_ref": "19119075",
-          "start_ref_usfm": "PSA 119:75",
-          "end_ref": "19119075",
-          "end_ref_usfm": "PSA 119:75"
-        },
-        {
-          "start_ref": "19132015",
-          "start_ref_usfm": "PSA 132:15",
-          "end_ref": "19132015",
-          "end_ref_usfm": "PSA 132:15"
-        },
-        {
-          "start_ref": "19140012",
-          "start_ref_usfm": "PSA 140:12",
-          "end_ref": "19140012",
-          "end_ref_usfm": "PSA 140:12"
-        },
-        {
-          "start_ref": "23053004",
-          "start_ref_usfm": "ISA 53:4",
-          "end_ref": "23053004",
-          "end_ref_usfm": "ISA 53:4"
-        },
-        {
-          "start_ref": "23053007",
-          "start_ref_usfm": "ISA 53:7",
-          "end_ref": "23053007",
-          "end_ref_usfm": "ISA 53:7"
-        },
-        {
-          "start_ref": "19010001",
-          "start_ref_usfm": "PSA 10:1",
-          "end_ref": "19010018",
-          "end_ref_usfm": "PSA 10:18"
-        },
-        {
-          "start_ref": "19034001",
-          "start_ref_usfm": "PSA 34:1",
-          "end_ref": "19034022",
-          "end_ref_usfm": "PSA 34:22"
-        },
-        {
-          "start_ref": "19022001",
-          "start_ref_usfm": "PSA 22:1",
-          "end_ref": "19022031",
-          "end_ref_usfm": "PSA 22:31"
-        },
-        {
-          "start_ref": "40005003",
-          "start_ref_usfm": "MAT 5:3",
-          "end_ref": "40005012",
-          "end_ref_usfm": "MAT 5:12"
-        },
-        {
-          "start_ref": "19018001",
-          "start_ref_usfm": "PSA 18:1",
-          "end_ref": "19018050",
-          "end_ref_usfm": "PSA 18:50"
-        },
-        {
-          "start_ref": "19070001",
-          "start_ref_usfm": "PSA 70:1",
-          "end_ref": "19070005",
-          "end_ref_usfm": "PSA 70:5"
-        },
-        {
-          "start_ref": "19102001",
-          "start_ref_usfm": "PSA 102:1",
-          "end_ref": "19102028",
-          "end_ref_usfm": "PSA 102:28"
-        },
-        {
-          "start_ref": "23061001",
-          "start_ref_usfm": "ISA 61:1",
-          "end_ref": "23061003",
-          "end_ref_usfm": "ISA 61:3"
-        },
-        {
-          "start_ref": "19010017",
-          "start_ref_usfm": "PSA 10:17",
-          "end_ref": "19010018",
-          "end_ref_usfm": "PSA 10:18"
-        },
-        {
-          "start_ref": "19107004",
-          "start_ref_usfm": "PSA 107:4",
-          "end_ref": "19107009",
-          "end_ref_usfm": "PSA 107:9"
-        },
-        {
-          "start_ref": "19025016",
-          "start_ref_usfm": "PSA 25:16",
-          "end_ref": "19025018",
-          "end_ref_usfm": "PSA 25:18"
-        },
-        {
-          "start_ref": "19113005",
-          "start_ref_usfm": "PSA 113:5",
-          "end_ref": "19113007",
-          "end_ref_usfm": "PSA 113:7"
-        },
-        {
-          "start_ref": "19034001",
-          "start_ref_usfm": "PSA 34:1",
-          "end_ref": "19034002",
-          "end_ref_usfm": "PSA 34:2"
-        },
-        {
-          "start_ref": "42004017",
-          "start_ref_usfm": "LUK 4:17",
-          "end_ref": "42004021",
-          "end_ref_usfm": "LUK 4:21"
-        },
-        {
-          "start_ref": "19072002",
-          "start_ref_usfm": "PSA 72:2",
-          "end_ref": "19072004",
-          "end_ref_usfm": "PSA 72:4"
-        },
-        {
-          "start_ref": "19072012",
-          "start_ref_usfm": "PSA 72:12",
-          "end_ref": "19072013",
-          "end_ref_usfm": "PSA 72:13"
-        },
-        {
-          "start_ref": "19082003",
-          "start_ref_usfm": "PSA 82:3",
-          "end_ref": "19082004",
-          "end_ref_usfm": "PSA 82:4"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "702257",
-    "reference_id": 203193,
-    "version": "1.0.2",
-    "title": "الفوريم",
-    "media_type": "Text",
-    "index_reference": "الفوريم",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>عيد الفوريم هو العيد الوحيد في العهد القديم الذي لم يُؤسَّس في زمن موسى. واسمه مشتق من كلمة تعني &quot;القرعة&quot; أو &quot;النرد&quot; (بالعبرية: <em>بوريم</em> <em>Purim</em>، بالأكادية <em>بورو</em> <em>puru</em>). في العصور القديمة، كان الناس يلقون القرعة لمعرفة ما إذا كان الله يوافق على أمرٍ ما؛ فإن كان الرقم جيّد، اعتُبر ذلك علامة للموافقة، وإن كان الرقم سيّئ، اعتُبر ذلك علامة رفض.</p><p>بالقرب من قاعة عرش الملك في شوشن بفارس، اكتشف علماء الآثار جسمًا صغيرًا رباعي الأوجه، عليه أرقام على كل جانب. وقد عُثر على نرد مشابه يحمل كلمة <em>بورو pur</em> ويرجع تاريخه إلى القرن التاسع قبل الميلاد. وفي سفر أستير، استخدم المنجّمون الفُرس <em>الفوريم</em> لتحديد أفضل وقت للهجوم على اليهود (<a href=\"https://ref.ly/Esth3:7\">أستير 3:7</a>).</p><p>في ٧ مارس من عام ٤٧٣ ق.م، أنقذ الله شعبه من موت محتَّم، في مشهد يُشبه إلى حدٍّ كبير خلاصهم من مصر في عيد الفصح. ولهذا أسَّسا مردخاي وأستير احتفالًا سنويًّا ليُذكِّر الأجيال القادمة بخلاص وإنقاذ الله (<a href=\"https://ref.ly/Esth9:28\">أستير 9:28</a>).  وفيما بعد، أصبح عيد الفوريم يُحتفل به على نطاق واسع بين اليهود (انظر ٢ مكابيين ١٥: ٣٦؛ يوسيفوس، <em>آثار اليهود</em> 11. 6. 13؛ وربما هو ما ورد في <a href=\"https://ref.ly/John5:1\">يوحنّا 5:1</a>).</p><p>عندما أنقذ الله شعبه المختار، تحوّل اليوم الذي كان مخصصًا لهلاك اليهود إلى يوم انتصارهم على أعدائهم، وتبِع ذلك احتفال وفرح. وحتى اليوم، يصوم اليهود ويُصلّون تذكّرًا لصوم الملكة أستير قبل أن تتقدّم بشجاعة لمقابلة الملك. ويأتي هذا الصوم مباشرة قبل عيد الفوريم، الذي يُحتفل به في اليوم الرابع عشر من شهر آذار (في فبراير أو مارس).</p><p>خلال عيد الفوريم المُفرِح، يقرأ اليهود قصة أستير، ويُطلقون الصيحات الاستهجانية ضد هامان، ويهتفون فرحًا لمردخاي. كما يتشاركون الوجبات الخاصة، ويتبادلون هدايا الطعام مع الأصدقاء، ويُقدّمون عطايا للمحتاجين. ويُجسّد عيد الفوريم كيفية حماية الله لشعبه من الأذى، ويُظهِر كيف يظل الله يعتني بشعبه ويلاحظهم عبر التاريخ (انظر أيضًا <a href=\"https://ref.ly/Gen45:5\">تكوين 45:5</a>; <a href=\"https://ref.ly/Ps91:1-Ps91:16\">مزمور 91</a>; <a href=\"https://ref.ly/Prov16:9\">أمثال 16:9</a>, <a href=\"https://ref.ly/Prov16:33\">33</a>; <a href=\"https://ref.ly/Dan2:21\">دانيآل 2:21</a>; <a href=\"https://ref.ly/Acts1:6-Acts1:7\">أعمال 1:6–7</a>; <a href=\"https://ref.ly/Acts2:22-Acts2:23\">2:22–23</a>; <a href=\"https://ref.ly/Acts4:28-Acts4:30\">4:28–30</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:27\">17:24–27</a>; <a href=\"https://ref.ly/Rom8:28\">رومية 8:28</a>; <a href=\"https://ref.ly/1Pet3:12\">1 بطرس 3:12</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Esth9:1-Esth9:32\">أستير 9:1–32</a>; <a href=\"https://ref.ly/Ps37:23\">المزامير 37:23</a>; <a href=\"https://ref.ly/Ps91:1-Ps91:16\">91:1–16</a>; <a href=\"https://ref.ly/Prov16:9\">الأمثال 16:9</a>, <a href=\"https://ref.ly/Prov16:33\">33</a>; <a href=\"https://ref.ly/Rom8:28\">رومية 8:28</a>; <a href=\"https://ref.ly/1Pet3:12\">1 بطرس 3:12</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01045005",
-          "start_ref_usfm": "GEN 45:5",
-          "end_ref": "01045005",
-          "end_ref_usfm": "GEN 45:5"
-        },
-        {
-          "start_ref": "17003007",
-          "start_ref_usfm": "EST 3:7",
-          "end_ref": "17003007",
-          "end_ref_usfm": "EST 3:7"
-        },
-        {
-          "start_ref": "17009028",
-          "start_ref_usfm": "EST 9:28",
-          "end_ref": "17009028",
-          "end_ref_usfm": "EST 9:28"
-        },
-        {
-          "start_ref": "19037023",
-          "start_ref_usfm": "PSA 37:23",
-          "end_ref": "19037023",
-          "end_ref_usfm": "PSA 37:23"
-        },
-        {
-          "start_ref": "20016009",
-          "start_ref_usfm": "PRO 16:9",
-          "end_ref": "20016009",
-          "end_ref_usfm": "PRO 16:9"
-        },
-        {
-          "start_ref": "20016033",
-          "start_ref_usfm": "PRO 16:33",
-          "end_ref": "20016033",
-          "end_ref_usfm": "PRO 16:33"
-        },
-        {
-          "start_ref": "27002021",
-          "start_ref_usfm": "DAN 2:21",
-          "end_ref": "27002021",
-          "end_ref_usfm": "DAN 2:21"
-        },
-        {
-          "start_ref": "43005001",
-          "start_ref_usfm": "JHN 5:1",
-          "end_ref": "43005001",
-          "end_ref_usfm": "JHN 5:1"
-        },
-        {
-          "start_ref": "45008028",
-          "start_ref_usfm": "ROM 8:28",
-          "end_ref": "45008028",
-          "end_ref_usfm": "ROM 8:28"
-        },
-        {
-          "start_ref": "60003012",
-          "start_ref_usfm": "1PE 3:12",
-          "end_ref": "60003012",
-          "end_ref_usfm": "1PE 3:12"
-        },
-        {
-          "start_ref": "17009001",
-          "start_ref_usfm": "EST 9:1",
-          "end_ref": "17009032",
-          "end_ref_usfm": "EST 9:32"
-        },
-        {
-          "start_ref": "19091001",
-          "start_ref_usfm": "PSA 91:1",
-          "end_ref": "19091016",
-          "end_ref_usfm": "PSA 91:16"
-        },
-        {
-          "start_ref": "17009001",
-          "start_ref_usfm": "EST 9:1",
-          "end_ref": "17009017",
-          "end_ref_usfm": "EST 9:17"
-        },
-        {
-          "start_ref": "44001006",
-          "start_ref_usfm": "ACT 1:6",
-          "end_ref": "44001007",
-          "end_ref_usfm": "ACT 1:7"
-        },
-        {
-          "start_ref": "44002022",
-          "start_ref_usfm": "ACT 2:22",
-          "end_ref": "44002023",
-          "end_ref_usfm": "ACT 2:23"
-        },
-        {
-          "start_ref": "44004028",
-          "start_ref_usfm": "ACT 4:28",
-          "end_ref": "44004030",
-          "end_ref_usfm": "ACT 4:30"
-        },
-        {
-          "start_ref": "44017024",
-          "start_ref_usfm": "ACT 17:24",
-          "end_ref": "44017027",
-          "end_ref_usfm": "ACT 17:27"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "702212",
-    "reference_id": 203148,
-    "version": "1.0.2",
-    "title": "الفوضى الاجتماعية في سفر القضاة",
-    "media_type": "Text",
-    "index_reference": "الفوضى الاجتماعية في سفر القضاة",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>يؤكد سفر القضاة على الإنقاذ الإلهي من خلال أبطال. ولكن السفر يوضح أيضًا المشاكل التي واجهها الشعب في ذلك الوقت. لقد تراجع الالتزام الشخصي تجاه الله، بينما تفاقمت المشاكل الاجتماعية. ويظهر ذلك بشكل خاص في الإصحاح <a href=\"https://ref.ly/Judg5:1-Judg5:31\">5</a> (على سبيل المثال، <a href=\"https://ref.ly/Judg5:6-Judg5:8\">5:6–8</a>).</p><p>وتبرز ثلاث قضايا رئيسية:</p><ol><li><p>واجهت الأسباط صعوبة في العمل معًا، حتى في مواجهة عدو مشترك (انظر مثلًا قصتَي جدعون ويفتاح؛ الإصحاحين <a href=\"https://ref.ly/Judg8:1-Judg8:35\">8</a>، <a href=\"https://ref.ly/Judg12:1-Judg12:15\">12</a>). وتُظهِر الصراعات داخل كل سبط وبين الأسباط المختلفة عدم طاعة عهدهم مع الله.</p></li><li><p>يُظهر السفر أيضًا انهيار المجتمع المدني. فأبيمالك يقتل أبناء جدعون، ويفتاح يُظهِر وكأنه يُضحّي بابنته، وشمشون يسعى للانتقام من الفلسطينيين. هذه الأحداث تُسلّط الضوء على الفساد الأخلاقي وفقدان الروح الاجتماعية في ذلك الزمان.</p></li><li><p>كان التخلّي عن الإيمان اليهودي أمرًا شائعًا في تلك الأيام. فقد كان بنو إسرائيل كثيرًا ما &quot;<span>يَعْمَلُونَ ٱلشَّرَّ فِي عَيْنَيِ ٱلرَّبِّ</span>&quot;، وكان هذا يرتبط غالبًا بعبادة الأوثان (<a href=\"https://ref.ly/Judg2:11-Judg2:13\">القضاة 2:11–13</a>; <a href=\"https://ref.ly/Judg3:7\">3:7</a>; <a href=\"https://ref.ly/Judg10:6\">10:6</a>). إن المذبح المُكرَّس للبعل وسارية عشتاروث في بلدة جدعون &quot;عفرة&quot; دليلًا واضحًا على تركهم للرب (<a href=\"https://ref.ly/Judg6:25-Judg6:30\">6:25–30</a>). وهذا يُشبه ما حدث لاحقًا عندما صنع جدعون أفودًا من الذهب، فصار موضع عبادة، فعاد الشعب لعبادة البعل بعد موت جدعون (<a href=\"https://ref.ly/Judg8:27\">8:27, 3</a><a href=\"https://ref.ly/Judg8:33-Judg8:35\">3–35</a>). كما أن زواج شمشون من امرأة فلسطنية كان أيضًا مخالفًا لوصايا العهد (انظر <a href=\"https://ref.ly/Deut7:1-Deut7:4\">تثنية 7:1–4</a>).</p></li></ol><p>تبلغ الفوضى الاجتماعية ذروتها في الفصول الأخيرة من سفر القضاة (<a href=\"https://ref.ly/Judg17:1-Judg21:25\">القضاة 17–21</a>). إذ تَجمع قصة ميخا واللاوي وأسباط دان بين الانحراف الديني والهجمات العشوائية والسرقة والعنف  (الاصحاحان <a href=\"https://ref.ly/Judg17:1-Judg18:31\">17–18</a>). أما الجزء الأخير من السفر، فيروي حربًا أهلية مأساوية تُظهِر فقدانًا تامًا للأدب الاجتماعي  (الاصحاحات <a href=\"https://ref.ly/Judg19:1-Judg21:25\">19–21</a>).</p><p>لقد كادت المشاكل الزوجية، وانعدام الضيافة، والاغتصاب، والقتل أن تقضي على سبط بنيامين (الأصحاحات <a href=\"https://ref.ly/Judg19:1-Judg19:30\">قضاة 19</a> و<a href=\"https://ref.ly/Judg20:1-Judg20:48\">20</a>). ولم ينجُ هذا السبط إلا لأن بني إسرائيل دمّروا مدينة تاريخية هي يابيش جلعاد، ثم أجروا طقسًا شكليًا زائفًا يسمح لبنيامين بأخذ العذارى كزوجات (<a href=\"https://ref.ly/Judg21:6-Judg21:23\">21:6–23</a>). وليس من المستغرب أن يُختَتم السفر بهذه العبارة المؤلمة: &quot;<span>فِي تِلْكَ ٱلْأَيَّامِ لَمْ يَكُنْ مَلِكٌ فِي إِسْرَائِيلَ. كُلُّ وَاحِدٍ عَمِلَ مَا حَسُنَ فِي عَيْنَيْهِ.</span>&quot; (<a href=\"https://ref.ly/Judg21:25\">21:25</a>). </p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Judg5:6-Judg5:8\">قضاة 5:6–8</a>; <a href=\"https://ref.ly/Judg6:25-Judg6:27\">6:25–27</a>; <a href=\"https://ref.ly/Judg8:1-Judg8:35\">8:1–35</a>; <a href=\"https://ref.ly/Judg12:1-Judg12:15\">12:1–15</a>; <a href=\"https://ref.ly/Judg17:1-Judg21:25\">17:1–21:25</a>; <a href=\"https://ref.ly/Ps11:2-Ps11:7\">مزامير 11:2–7</a>; <a href=\"https://ref.ly/Prov28:2-Prov28:3\">أمثال 28:2–3</a>; <a href=\"https://ref.ly/Jer5:7-Jer5:9\">إرميا 5:7–9</a>; <a href=\"https://ref.ly/Jer12:1-Jer12:17\">12:1–17</a>; <a href=\"https://ref.ly/Mic3:9-Mic3:12\">ميخا 3:9–12</a>; <a href=\"https://ref.ly/Mic7:2-Mic7:7\">7:2–7</a>; <a href=\"https://ref.ly/Rom1:21-Rom1:32\">رومية 1:21–32</a>; <a href=\"https://ref.ly/Gal5:19-Gal5:23\">غلاطية 5:19–23</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "07003007",
-          "start_ref_usfm": "JDG 3:7",
-          "end_ref": "07003007",
-          "end_ref_usfm": "JDG 3:7"
-        },
-        {
-          "start_ref": "07008027",
-          "start_ref_usfm": "JDG 8:27",
-          "end_ref": "07008027",
-          "end_ref_usfm": "JDG 8:27"
-        },
-        {
-          "start_ref": "07010006",
-          "start_ref_usfm": "JDG 10:6",
-          "end_ref": "07010006",
-          "end_ref_usfm": "JDG 10:6"
-        },
-        {
-          "start_ref": "07021025",
-          "start_ref_usfm": "JDG 21:25",
-          "end_ref": "07021025",
-          "end_ref_usfm": "JDG 21:25"
-        },
-        {
-          "start_ref": "05007001",
-          "start_ref_usfm": "DEU 7:1",
-          "end_ref": "05007004",
-          "end_ref_usfm": "DEU 7:4"
-        },
-        {
-          "start_ref": "07019001",
-          "start_ref_usfm": "JDG 19:1",
-          "end_ref": "07019030",
-          "end_ref_usfm": "JDG 19:30"
-        },
-        {
-          "start_ref": "07005001",
-          "start_ref_usfm": "JDG 5:1",
-          "end_ref": "07005031",
-          "end_ref_usfm": "JDG 5:31"
-        },
-        {
-          "start_ref": "48005019",
-          "start_ref_usfm": "GAL 5:19",
-          "end_ref": "48005023",
-          "end_ref_usfm": "GAL 5:23"
-        },
-        {
-          "start_ref": "07019001",
-          "start_ref_usfm": "JDG 19:1",
-          "end_ref": "07021025",
-          "end_ref_usfm": "JDG 21:25"
-        },
-        {
-          "start_ref": "07017001",
-          "start_ref_usfm": "JDG 17:1",
-          "end_ref": "07018031",
-          "end_ref_usfm": "JDG 18:31"
-        },
-        {
-          "start_ref": "07017001",
-          "start_ref_usfm": "JDG 17:1",
-          "end_ref": "07021025",
-          "end_ref_usfm": "JDG 21:25"
-        },
-        {
-          "start_ref": "07002011",
-          "start_ref_usfm": "JDG 2:11",
-          "end_ref": "07002013",
-          "end_ref_usfm": "JDG 2:13"
-        },
-        {
-          "start_ref": "07005006",
-          "start_ref_usfm": "JDG 5:6",
-          "end_ref": "07005008",
-          "end_ref_usfm": "JDG 5:8"
-        },
-        {
-          "start_ref": "07008033",
-          "start_ref_usfm": "JDG 8:33",
-          "end_ref": "07008035",
-          "end_ref_usfm": "JDG 8:35"
-        },
-        {
-          "start_ref": "33003009",
-          "start_ref_usfm": "MIC 3:9",
-          "end_ref": "33003012",
-          "end_ref_usfm": "MIC 3:12"
-        },
-        {
-          "start_ref": "24005007",
-          "start_ref_usfm": "JER 5:7",
-          "end_ref": "24005009",
-          "end_ref_usfm": "JER 5:9"
-        },
-        {
-          "start_ref": "07008001",
-          "start_ref_usfm": "JDG 8:1",
-          "end_ref": "07008035",
-          "end_ref_usfm": "JDG 8:35"
-        },
-        {
-          "start_ref": "07012001",
-          "start_ref_usfm": "JDG 12:1",
-          "end_ref": "07012015",
-          "end_ref_usfm": "JDG 12:15"
-        },
-        {
-          "start_ref": "07006025",
-          "start_ref_usfm": "JDG 6:25",
-          "end_ref": "07006030",
-          "end_ref_usfm": "JDG 6:30"
-        },
-        {
-          "start_ref": "07020001",
-          "start_ref_usfm": "JDG 20:1",
-          "end_ref": "07020048",
-          "end_ref_usfm": "JDG 20:48"
-        },
-        {
-          "start_ref": "07021006",
-          "start_ref_usfm": "JDG 21:6",
-          "end_ref": "07021023",
-          "end_ref_usfm": "JDG 21:23"
-        },
-        {
-          "start_ref": "07006025",
-          "start_ref_usfm": "JDG 6:25",
-          "end_ref": "07006027",
-          "end_ref_usfm": "JDG 6:27"
-        },
-        {
-          "start_ref": "19011002",
-          "start_ref_usfm": "PSA 11:2",
-          "end_ref": "19011007",
-          "end_ref_usfm": "PSA 11:7"
-        },
-        {
-          "start_ref": "20028002",
-          "start_ref_usfm": "PRO 28:2",
-          "end_ref": "20028003",
-          "end_ref_usfm": "PRO 28:3"
-        },
-        {
-          "start_ref": "24012001",
-          "start_ref_usfm": "JER 12:1",
-          "end_ref": "24012017",
-          "end_ref_usfm": "JER 12:17"
-        },
-        {
-          "start_ref": "33007002",
-          "start_ref_usfm": "MIC 7:2",
-          "end_ref": "33007007",
-          "end_ref_usfm": "MIC 7:7"
-        },
-        {
-          "start_ref": "45001021",
-          "start_ref_usfm": "ROM 1:21",
-          "end_ref": "45001032",
-          "end_ref_usfm": "ROM 1:32"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "702277",
-    "reference_id": 203213,
-    "version": "1.0.2",
-    "title": "فهم السبي",
-    "media_type": "Text",
-    "index_reference": "فهم السبي",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>إن الملوك وشعب إسرائيل عصوا الله مرارًا وتكرارًا وفشلوا في الحفاظ على عهدهم معه. ونتيجة لذلك، أعلن الله أنه سيجلب عليهم لعنات العهد (انظر <a href=\"https://ref.ly/Deut28:15-Deut28:68\">تثنية 28:15–68</a>; قارن <a href=\"https://ref.ly/Jer4:13\">إرميا 4:13</a>; <a href=\"https://ref.ly/Amos5:11\">عاموس 5:11</a>; <a href=\"https://ref.ly/Mic6:14-Mic6:15\">ميخا 6:14–15</a>). أرسل الله جيوش الآشوريين والبابليين لتنفيذ هذا العقاب، فذهب العديد من الإسرائيليين إلى السبي (انظر <a href=\"https://ref.ly/2Kgs24:1-2Kgs25:21\">2 ملوك 24:1–25:21</a>) وأُجبروا على مغادرة أرضهم.</p><p>ترك السبي أثرًا عميقًا في العديد من المزامير، وظهر ذلك في الصور والمواضيع التي تناولتها.</p><p>في <a href=\"https://ref.ly/Ps89:1-Ps89:52\">مزمور 89</a>، يعبّر المرنم عن الحزن والألم والارتباك الذي شعر به شعب إسرائيل أثناء وجودهم في السبي من خلال الأسئلة التالية:</p><ul><li><p>هل تخلّى الله عن نسل داود الملكي (<a href=\"https://ref.ly/Ps89:38-Ps89:39\">89:38–39</a>)؟</p></li><li><p>إلى متى سيستمر غضب الله (<a href=\"https://ref.ly/Ps89:46\">مزمور 89:46</a>)؟</p></li><li><p>هل يدرك الله ضعف الإنسان (<a href=\"https://ref.ly/Ps89:47-Ps89:48\">89:47–48</a>)؟</p></li><li><p>هل الله أمين لطبيعته (<a href=\"https://ref.ly/Ps89:49\">89:49</a>)؟</p></li><li><p>هل يُعتبر الله عادلاً بعدم الانتقام لشعبه (<a href=\"https://ref.ly/Ps89:50-Ps89:51\">89:50–51</a>)؟</p></li></ul><p>خلال فترة السبي وما بعدها، راودت شعب الله أسئلة كثيرة. شكّك بعضهم في قدرة الله على أن يحكم الأحداث. وبدلًا من تجاهل هذه التساؤلات، يتأمل القارئ الحكيم فيها ويفحص الإجابات من خلال الكتاب المقدس.</p><p>جاء الجواب النهائي من خلال الرب يسوع المسيح (انظر <a href=\"https://ref.ly/Isa52:1-Isa54:17\">إشعياء 52–54</a>; <a href=\"https://ref.ly/Luke1:46-Luke1:55\">لوقا 1:46–55</a>, <a href=\"https://ref.ly/Luke1:67-Luke1:79\">67–79</a>; <a href=\"https://ref.ly/Luke4:18-Luke4:19\">4:18–19</a>; <a href=\"https://ref.ly/Rom6:6\">رومية 6:6</a>, <a href=\"https://ref.ly/Rom6:16-Rom6:23\">16–23</a>; <a href=\"https://ref.ly/Heb12:22-Heb12:24\">عبرانيين 12:22–24</a>). ومع ذلك، ومع ذلك، فإن الذين عاشوا في زمن السبي لم يستطيعوا إلا أن يتخيّلوا المستقبل المشرق جزئيًا. لقد طرحوا أسئلة صعبة، وعاشوا دون إجابات واضحة.</p><p><u>مقاطع لمزيد من الدراسة </u></p><p><a href=\"https://ref.ly/Lev26:27-Lev26:45\">لاويين ٢٦: ٢٧–٤٥</a>; <a href=\"https://ref.ly/Deut28:36-Deut28:37\">تثنية ٢٨: ٣٦–٣٧</a>, <a href=\"https://ref.ly/Deut28:63-Deut28:68\">٦٣–٦٨</a>; <a href=\"https://ref.ly/Deut30:1-Deut30:5\">٣٠: ١–٥</a>; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">٢ ملوك ١٧: ٥–٢٣</a>; <a href=\"https://ref.ly/2Kgs24:1-2Kgs25:21\">٢٤: ١–٢٥: ٢١</a>; <a href=\"https://ref.ly/Ezra5:12\">عزرا ٥: ١٢</a>; <a href=\"https://ref.ly/Ps89:1-Ps89:52\">مزامير ٨٩</a>; <a href=\"https://ref.ly/Ps107:1-Ps107:43\">١٠٧</a>; <a href=\"https://ref.ly/Ps126:1-Ps126:6\">١٢٦</a>; <a href=\"https://ref.ly/Isa5:13\">إشعياء ٥: ١٣</a>; <a href=\"https://ref.ly/Isa27:13\">٢٧: ١٣</a>; <a href=\"https://ref.ly/Isa52:1-Isa52:12\">٥٢: ١–١٢</a>; <a href=\"https://ref.ly/Isa59:10\">٥٩: ١٠</a>; <a href=\"https://ref.ly/Jer2:37\">إرميا ٢: ٣٧</a>; <a href=\"https://ref.ly/Jer3:18\">٣: ١٨</a>; <a href=\"https://ref.ly/Jer4:13\">٤: ١٣</a>; <a href=\"https://ref.ly/Ezek6:9\">حزقيال ٦: ٩</a>; <a href=\"https://ref.ly/Ezek20:41\">٢٠: ٤١</a>; <a href=\"https://ref.ly/Ezek37:1-Ezek37:14\">٣٧: ١–١٤</a>; <a href=\"https://ref.ly/Amos5:11\">عاموس ٥: ١١</a>; <a href=\"https://ref.ly/Mic6:14-Mic6:15\">ميخا ٦: ١٤–١٥</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "15005012",
-          "start_ref_usfm": "EZR 5:12",
-          "end_ref": "15005012",
-          "end_ref_usfm": "EZR 5:12"
-        },
-        {
-          "start_ref": "19089046",
-          "start_ref_usfm": "PSA 89:46",
-          "end_ref": "19089046",
-          "end_ref_usfm": "PSA 89:46"
-        },
-        {
-          "start_ref": "19089049",
-          "start_ref_usfm": "PSA 89:49",
-          "end_ref": "19089049",
-          "end_ref_usfm": "PSA 89:49"
-        },
-        {
-          "start_ref": "23005013",
-          "start_ref_usfm": "ISA 5:13",
-          "end_ref": "23005013",
-          "end_ref_usfm": "ISA 5:13"
-        },
-        {
-          "start_ref": "23027013",
-          "start_ref_usfm": "ISA 27:13",
-          "end_ref": "23027013",
-          "end_ref_usfm": "ISA 27:13"
-        },
-        {
-          "start_ref": "23059010",
-          "start_ref_usfm": "ISA 59:10",
-          "end_ref": "23059010",
-          "end_ref_usfm": "ISA 59:10"
-        },
-        {
-          "start_ref": "24002037",
-          "start_ref_usfm": "JER 2:37",
-          "end_ref": "24002037",
-          "end_ref_usfm": "JER 2:37"
-        },
-        {
-          "start_ref": "24003018",
-          "start_ref_usfm": "JER 3:18",
-          "end_ref": "24003018",
-          "end_ref_usfm": "JER 3:18"
-        },
-        {
-          "start_ref": "24004013",
-          "start_ref_usfm": "JER 4:13",
-          "end_ref": "24004013",
-          "end_ref_usfm": "JER 4:13"
-        },
-        {
-          "start_ref": "26006009",
-          "start_ref_usfm": "EZK 6:9",
-          "end_ref": "26006009",
-          "end_ref_usfm": "EZK 6:9"
-        },
-        {
-          "start_ref": "26020041",
-          "start_ref_usfm": "EZK 20:41",
-          "end_ref": "26020041",
-          "end_ref_usfm": "EZK 20:41"
-        },
-        {
-          "start_ref": "30005011",
-          "start_ref_usfm": "AMO 5:11",
-          "end_ref": "30005011",
-          "end_ref_usfm": "AMO 5:11"
-        },
-        {
-          "start_ref": "45006006",
-          "start_ref_usfm": "ROM 6:6",
-          "end_ref": "45006006",
-          "end_ref_usfm": "ROM 6:6"
-        },
-        {
-          "start_ref": "42004018",
-          "start_ref_usfm": "LUK 4:18",
-          "end_ref": "42004019",
-          "end_ref_usfm": "LUK 4:19"
-        },
-        {
-          "start_ref": "05028015",
-          "start_ref_usfm": "DEU 28:15",
-          "end_ref": "05028068",
-          "end_ref_usfm": "DEU 28:68"
-        },
-        {
-          "start_ref": "12024001",
-          "start_ref_usfm": "2KI 24:1",
-          "end_ref": "12025021",
-          "end_ref_usfm": "2KI 25:21"
-        },
-        {
-          "start_ref": "26037001",
-          "start_ref_usfm": "EZK 37:1",
-          "end_ref": "26037014",
-          "end_ref_usfm": "EZK 37:14"
-        },
-        {
-          "start_ref": "19089001",
-          "start_ref_usfm": "PSA 89:1",
-          "end_ref": "19089052",
-          "end_ref_usfm": "PSA 89:52"
-        },
-        {
-          "start_ref": "42001067",
-          "start_ref_usfm": "LUK 1:67",
-          "end_ref": "42001079",
-          "end_ref_usfm": "LUK 1:79"
-        },
-        {
-          "start_ref": "42001046",
-          "start_ref_usfm": "LUK 1:46",
-          "end_ref": "42001055",
-          "end_ref_usfm": "LUK 1:55"
-        },
-        {
-          "start_ref": "19107001",
-          "start_ref_usfm": "PSA 107:1",
-          "end_ref": "19107043",
-          "end_ref_usfm": "PSA 107:43"
-        },
-        {
-          "start_ref": "19126001",
-          "start_ref_usfm": "PSA 126:1",
-          "end_ref": "19126006",
-          "end_ref_usfm": "PSA 126:6"
-        },
-        {
-          "start_ref": "58012022",
-          "start_ref_usfm": "HEB 12:22",
-          "end_ref": "58012024",
-          "end_ref_usfm": "HEB 12:24"
-        },
-        {
-          "start_ref": "19089050",
-          "start_ref_usfm": "PSA 89:50",
-          "end_ref": "19089051",
-          "end_ref_usfm": "PSA 89:51"
-        },
-        {
-          "start_ref": "12017005",
-          "start_ref_usfm": "2KI 17:5",
-          "end_ref": "12017023",
-          "end_ref_usfm": "2KI 17:23"
-        },
-        {
-          "start_ref": "05030001",
-          "start_ref_usfm": "DEU 30:1",
-          "end_ref": "05030005",
-          "end_ref_usfm": "DEU 30:5"
-        },
-        {
-          "start_ref": "33006014",
-          "start_ref_usfm": "MIC 6:14",
-          "end_ref": "33006015",
-          "end_ref_usfm": "MIC 6:15"
-        },
-        {
-          "start_ref": "19089038",
-          "start_ref_usfm": "PSA 89:38",
-          "end_ref": "19089039",
-          "end_ref_usfm": "PSA 89:39"
-        },
-        {
-          "start_ref": "19089047",
-          "start_ref_usfm": "PSA 89:47",
-          "end_ref": "19089048",
-          "end_ref_usfm": "PSA 89:48"
-        },
-        {
-          "start_ref": "23052001",
-          "start_ref_usfm": "ISA 52:1",
-          "end_ref": "23054017",
-          "end_ref_usfm": "ISA 54:17"
-        },
-        {
-          "start_ref": "45006016",
-          "start_ref_usfm": "ROM 6:16",
-          "end_ref": "45006023",
-          "end_ref_usfm": "ROM 6:23"
-        },
-        {
-          "start_ref": "03026027",
-          "start_ref_usfm": "LEV 26:27",
-          "end_ref": "03026045",
-          "end_ref_usfm": "LEV 26:45"
-        },
-        {
-          "start_ref": "05028036",
-          "start_ref_usfm": "DEU 28:36",
-          "end_ref": "05028037",
-          "end_ref_usfm": "DEU 28:37"
-        },
-        {
-          "start_ref": "05028063",
-          "start_ref_usfm": "DEU 28:63",
-          "end_ref": "05028068",
-          "end_ref_usfm": "DEU 28:68"
-        },
-        {
-          "start_ref": "23052001",
-          "start_ref_usfm": "ISA 52:1",
-          "end_ref": "23052012",
-          "end_ref_usfm": "ISA 52:12"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "702264",
-    "reference_id": 203200,
-    "version": "1.0.2",
-    "title": "فهم أيّوب",
-    "media_type": "Text",
-    "index_reference": "فهم أيّوب",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>تُقدم قصة أيوب صراع وشدّ بين الجوانب الجيدة والسيئة من شخصيته. إذ يٌفتَتَح السفر بالتأكيد بكل وضوح على استقامة أيوب (<a href=\"https://ref.ly/Job1:1\">أيوب 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>). ولكن لاحقاً، يسأل الله أيوب أسئلة مباشرة: &quot;مَ<span>نْ هَذَا ٱلَّذِي يُظْلِمُ ٱلْقَضَاءَ بِكَلَامٍ بِلَا مَعْرِفَةٍ</span>؟&quot; (<a href=\"https://ref.ly/Job38:2\">38:2</a>). &quot;<span>لَعَلَّكَ تُنَاقِضُ حُكْمِي، تَسْتَذْنِبُنِي لِكَيْ تَتَبَرَّرَ أَنْتَ؟</span>&quot; (<a href=\"https://ref.ly/Job40:8\">40:8</a>).</p><p>يعتقد بعض المفسرين أن أيوب كان يُكثر الكلام ويخلط بين عمل الله وعمل الشيطان. ويذهب بعض المفسرين المعاصرين إلى لوم أيوب على معاناته، متفقين مع أصدقائه. بينما يتبنّى آخرون مثل أليفاز وأليهو (<a href=\"https://ref.ly/Job5:17-Job5:27\">5:17–27</a>; <a href=\"https://ref.ly/Job33:15-Job33:33\">33:15–33</a>; <a href=\"https://ref.ly/Job36:7-Job36:17\">36:7–17</a>). هم يقولون إن معاناة أيوب هي تأديب مُحِب من الله. فحتى المؤمنين المخلصين لله يواجهون مثل هذا التأديب (<a href=\"https://ref.ly/Heb12:6-Heb12:12\">العبرانيين 12:6–12</a>; انظر <a href=\"https://ref.ly/Prov3:11-Prov3:12\">الأمثال 3:11–12</a>). لكن هذه الفكرة تتناقض مع الإعلان الافتتاحي للسفر والخاص بأيوب.</p><p>عانى أيوب لأن الله أراد أن يُظهر للشيطان أن أيوب كان أمينًا ومخلصًا. لقد كان لله دائمًا نظرة إيجابية لحياة أيوب (<a href=\"https://ref.ly/Job1:1\">أيوب 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>; <a href=\"https://ref.ly/Job42:7\">42:7</a>). وتستمر هذه الفكرة في العهد الجديد، حيث يُعتبر أيوب مثالًا للصبر الذي ينبغي أن نقتدي به (<a href=\"https://ref.ly/Jas5:11\">يعقوب 5:11</a>).</p><p>وتُعتبر ردود فعل أيوب طبيعية، فهو لم يبقَ ثابتًا طوال الوقت، فقد أثّرت عليه تجاربه، ولم يتحدَّ معاناته بتجاهل أو كأنها لا يمكن أن تؤثر عليه، بل تفاعل معها كما يفعل أي إنسان.</p><p>يشعر أيوب بالغضب، ويحتج، ويشتكي، ويتأرجح بين الثقة واليأس، لكنه لا يفقد الرجاء أبدًا، ولا يلعن الله، ولا يعترف كذبًا بالذنب في محاولة للتأثير على الله ليرفع معاناته، وعلى الرغم من أنه لا يستطيع فهم وضعه، إلا أنه يعلم أن إجابات تساؤلاته هي عند الله (<a href=\"https://ref.ly/Job19:25-Job19:27\">أيوب 19:25–27</a>).</p><p><u>مقاطع لمزيد من الدراسة </u></p><p><a href=\"https://ref.ly/Job1:1\">أيوب 1:1</a>، <a href=\"https://ref.ly/Job1:8\">8</a>؛ <a href=\"https://ref.ly/Job2:3\">2:3</a>؛ <a href=\"https://ref.ly/Job5:17-Job5:18\">5:17–18</a>؛ <a href=\"https://ref.ly/Job19:25-Job19:27\">19:25–27</a>؛ <a href=\"https://ref.ly/Job33:15-Job33:28\">33:15–28</a>؛ <a href=\"https://ref.ly/Job36:8-Job36:15\">36:8–15</a>؛ <a href=\"https://ref.ly/Job38:2\">38:2</a>؛ <a href=\"https://ref.ly/Job40:8\">40:8</a>؛ <a href=\"https://ref.ly/Job42:7\">42:7</a>؛ <a href=\"https://ref.ly/Prov3:11\">الأمثال 3:11</a>؛ <a href=\"https://ref.ly/Heb12:7\">العبرانيين 12:7</a>، <a href=\"https://ref.ly/Heb12:10\">10</a>؛ <a href=\"https://ref.ly/Jas5:11\">يعقوب 5:11</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "18001001",
-          "start_ref_usfm": "JOB 1:1",
-          "end_ref": "18001001",
-          "end_ref_usfm": "JOB 1:1"
-        },
-        {
-          "start_ref": "18001008",
-          "start_ref_usfm": "JOB 1:8",
-          "end_ref": "18001008",
-          "end_ref_usfm": "JOB 1:8"
-        },
-        {
-          "start_ref": "18002003",
-          "start_ref_usfm": "JOB 2:3",
-          "end_ref": "18002003",
-          "end_ref_usfm": "JOB 2:3"
-        },
-        {
-          "start_ref": "18038002",
-          "start_ref_usfm": "JOB 38:2",
-          "end_ref": "18038002",
-          "end_ref_usfm": "JOB 38:2"
-        },
-        {
-          "start_ref": "18040008",
-          "start_ref_usfm": "JOB 40:8",
-          "end_ref": "18040008",
-          "end_ref_usfm": "JOB 40:8"
-        },
-        {
-          "start_ref": "18042007",
-          "start_ref_usfm": "JOB 42:7",
-          "end_ref": "18042007",
-          "end_ref_usfm": "JOB 42:7"
-        },
-        {
-          "start_ref": "20003011",
-          "start_ref_usfm": "PRO 3:11",
-          "end_ref": "20003011",
-          "end_ref_usfm": "PRO 3:11"
-        },
-        {
-          "start_ref": "58012007",
-          "start_ref_usfm": "HEB 12:7",
-          "end_ref": "58012007",
-          "end_ref_usfm": "HEB 12:7"
-        },
-        {
-          "start_ref": "58012010",
-          "start_ref_usfm": "HEB 12:10",
-          "end_ref": "58012010",
-          "end_ref_usfm": "HEB 12:10"
-        },
-        {
-          "start_ref": "59005011",
-          "start_ref_usfm": "JAS 5:11",
-          "end_ref": "59005011",
-          "end_ref_usfm": "JAS 5:11"
-        },
-        {
-          "start_ref": "18019025",
-          "start_ref_usfm": "JOB 19:25",
-          "end_ref": "18019027",
-          "end_ref_usfm": "JOB 19:27"
-        },
-        {
-          "start_ref": "20003011",
-          "start_ref_usfm": "PRO 3:11",
-          "end_ref": "20003012",
-          "end_ref_usfm": "PRO 3:12"
-        },
-        {
-          "start_ref": "18005017",
-          "start_ref_usfm": "JOB 5:17",
-          "end_ref": "18005027",
-          "end_ref_usfm": "JOB 5:27"
-        },
-        {
-          "start_ref": "18033015",
-          "start_ref_usfm": "JOB 33:15",
-          "end_ref": "18033033",
-          "end_ref_usfm": "JOB 33:33"
-        },
-        {
-          "start_ref": "18036007",
-          "start_ref_usfm": "JOB 36:7",
-          "end_ref": "18036017",
-          "end_ref_usfm": "JOB 36:17"
-        },
-        {
-          "start_ref": "58012006",
-          "start_ref_usfm": "HEB 12:6",
-          "end_ref": "58012012",
-          "end_ref_usfm": "HEB 12:12"
-        },
-        {
-          "start_ref": "18005017",
-          "start_ref_usfm": "JOB 5:17",
-          "end_ref": "18005018",
-          "end_ref_usfm": "JOB 5:18"
-        },
-        {
-          "start_ref": "18033015",
-          "start_ref_usfm": "JOB 33:15",
-          "end_ref": "18033028",
-          "end_ref_usfm": "JOB 33:28"
-        },
-        {
-          "start_ref": "18036008",
-          "start_ref_usfm": "JOB 36:8",
-          "end_ref": "18036015",
-          "end_ref_usfm": "JOB 36:15"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  }
+{
+"content_id": "702425",
+"reference_id": 203361,
+"version": "1.0.2",
+"title": "الفرح المسيحي",
+"media_type": "Text",
+"index_reference": "الفرح المسيحي",
+"language": "arb",
+"review_level": "None",
+"content": "<p>في الساعات الأخيرة من حياته، أراد يسوع أن يمتلئ تلاميذه بفرحه (انظر <a href=\"https://ref.ly/John15:11\">يوحنا 15:11</a>; <a href=\"https://ref.ly/John16:20-John16:24\">16:20–24</a>). الفرح هو موضوع شائع في العديد من رسائل الرسول بولس، وخاصة في رسالة فيلبي. كان بولس يشجّع المسيحيين على الفرح، خاصة الذين يعانون من الاضطهاد، مثل مؤمني فيلبي وتسالونيكي (<a href=\"https://ref.ly/Phil3:1\">فيلبي 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 تسالونيكي 5:16</a>).</p><p>السعادة التي تعتمد على الظروف الخارجية هي مؤقتة، لكن الفرح المسيحي مختلف. فهو يأتي من العلاقة مع الرب، ويستمر حتى في أوقات الألم والموت. الفرح ينبع من الثقة بأن الله يستخدم كل الأمور لخير المؤمن في النهاية (انظر <a href=\"https://ref.ly/Rom5:3-Rom5:4\">رومية 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>).</p><p>ويجد المسيحيون الفرح أيضًا في الحضور الفعّال لروح الله في قلوبهم (انظر <a href=\"https://ref.ly/Gal5:22\">غلاطية 5:22</a>). والسر الحقيقي لحياة مليئة بالفرح يكمن في الامتلاء بالروح القدوس &quot;أ<span>مْتَلِئُوا بِٱلرُّوحِ</span>&quot; (انظر <a href=\"https://ref.ly/Eph5:18\">أفسس 5:18</a>). العلاقة مع الله الحي هي التي تشكل أفكار وردود أفعال المسيحيين، وليس الظروف الخارجية.</p><p><u>مقاطع إضافية للدراسة</u></p><p><a href=\"https://ref.ly/John15:11\">يوحنا 15:11</a>; <a href=\"https://ref.ly/John16:24\">16:24</a>; <a href=\"https://ref.ly/Rom5:3-Rom5:4\">رومية 5:3–4</a>; <a href=\"https://ref.ly/Rom8:28\">8:28</a>; <a href=\"https://ref.ly/Gal5:22\">غلاطية 5:22</a>; <a href=\"https://ref.ly/Eph5:18\">أفسس 5:18</a>; <a href=\"https://ref.ly/Phil3:1\">فيلبي 3:1</a>; <a href=\"https://ref.ly/Phil4:4\">4:4</a>; <a href=\"https://ref.ly/1Thess5:16\">1 تسالونيكي 5:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43015011",
+"start_ref_usfm": "JHN 15:11",
+"end_ref": "43015011",
+"end_ref_usfm": "JHN 15:11"
+},
+{
+"start_ref": "43016024",
+"start_ref_usfm": "JHN 16:24",
+"end_ref": "43016024",
+"end_ref_usfm": "JHN 16:24"
+},
+{
+"start_ref": "45008028",
+"start_ref_usfm": "ROM 8:28",
+"end_ref": "45008028",
+"end_ref_usfm": "ROM 8:28"
+},
+{
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005022",
+"end_ref_usfm": "GAL 5:22"
+},
+{
+"start_ref": "49005018",
+"start_ref_usfm": "EPH 5:18",
+"end_ref": "49005018",
+"end_ref_usfm": "EPH 5:18"
+},
+{
+"start_ref": "50003001",
+"start_ref_usfm": "PHP 3:1",
+"end_ref": "50003001",
+"end_ref_usfm": "PHP 3:1"
+},
+{
+"start_ref": "50004004",
+"start_ref_usfm": "PHP 4:4",
+"end_ref": "50004004",
+"end_ref_usfm": "PHP 4:4"
+},
+{
+"start_ref": "52005016",
+"start_ref_usfm": "1TH 5:16",
+"end_ref": "52005016",
+"end_ref_usfm": "1TH 5:16"
+},
+{
+"start_ref": "45005003",
+"start_ref_usfm": "ROM 5:3",
+"end_ref": "45005004",
+"end_ref_usfm": "ROM 5:4"
+},
+{
+"start_ref": "43016020",
+"start_ref_usfm": "JHN 16:20",
+"end_ref": "43016024",
+"end_ref_usfm": "JHN 16:24"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "702181",
+"reference_id": 203117,
+"version": "1.0.2",
+"title": "الفصح",
+"media_type": "Text",
+"index_reference": "الفصح",
+"language": "arb",
+"review_level": "None",
+"content": "<p>لقد أصبح عيد الفصح جزءًا مركزيًا من الممارسة الدينية للشعب الإسرائيلي. كان يتم الاحتفال في هذا العيد بإنقاذ الله للعبرانيين من مصر وحمايته لهم من الضربة المُهلكة الأخيرة. أراد الله أن يحتفل الشعب بهذا العيد كل عام وفقًا للتعليمات الواردة في سفر الخروج (<a href=\"https://ref.ly/Exod12:1-Exod12:27\">الخروج 12:1–27</a>). كان عيد الفصح تذكيرًا للأجيال القادمة بأعمال الله الخلاصية. وقد شارك جميع الناس في العيد، حيث يتناولون خبزًا فطيرًا، غير مختمِر، فقط، كما فعلوا عندما غادروا مصر بسرعة.</p><p>في الفصح الأول، قدّموا خروفًا ذبيحة لإنقاذ الابن البكر من كل عائلة إسرائيلية (<a href=\"https://ref.ly/Exod12:12-Exod12:13\">خروج 12:12–13</a>, <a href=\"https://ref.ly/Exod12:23\">23</a>). ويمثّل عيد الفصح إمكانية النجاة والهروب من الموت فقط من خلال ذبيحة تحلّ محلّنا. كان عيد الفصح حدثًا مهمًا في تاريخ بني إسرائيل. ومع ذلك، فإن الخروج من عبودية مصر لم يحلّ المشكلة العالمية للموت الناتج عن الخطية (<a href=\"https://ref.ly/1Cor15:56\">1 كورنثوس 15:56</a>).</p><p>وبعد سنوات عديدة، وأثناء احتفال عيد الفصح، قدّم يسوع المسيح حياته باذلًا إياها &quot;<span>فِدْيَةً عَنْ كَثِيرِينَ</span>&quot; (<a href=\"https://ref.ly/Matt20:28\">متّى 20:28</a>؛ <a href=\"https://ref.ly/Mark10:45\">مرقس 10:45</a>). لقد صار هو  &quot;<span>حَمَلُ ٱللهِ ٱلَّذِي يَرْفَعُ خَطِيَّةَ ٱلْعَالَمِ!</span>&quot; (<a href=\"https://ref.ly/John1:29\">يوحنّا 1:29</a>). وأثناء تناوله العشاء الأخير مع تلاميذه، شرح يسوع المعنى الرمزي للخمر الذي شاركوه: &quot;<span>هَذَا هُوَ دَمِي ٱلَّذِي لِلْعَهْدِ ٱلْجَدِيدِ ٱلَّذِي يُسْفَكُ مِنْ أَجْلِ كَثِيرِينَ لِمَغْفِرَةِ ٱلْخَطَايَا.</span>&quot; (<a href=\"https://ref.ly/Matt26:28\">متّى 26:28</a>). لقد كان يسوع يُمثّل فصحًا جديدًا ويبدأه. وبذبيحته، هزم يسوع الخطية والموت بشكل كامل ونهائي (انظر أيضًا <a href=\"https://ref.ly/Isa25:7-Isa25:8\">إشعياء 25:7–8</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Exod12:1-Exod12:51\">خروج 12:1–51</a>; <a href=\"https://ref.ly/Lev23:4-Lev23:8\">لاويين 23:4–8</a>; <a href=\"https://ref.ly/Num9:1-Num9:14\">عدد 9:1–14</a>; <a href=\"https://ref.ly/Num28:16-Num28:25\">عدد 28:16–25</a>; <a href=\"https://ref.ly/Deut16:1-Deut16:7\">تثنية 16:1–7</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:30\">متّى 26:17–30</a>; <a href=\"https://ref.ly/Luke22:15-Luke22:20\">لوقا 22:15–20</a>; <a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1 كورنثوس 5:6–8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012023",
+"start_ref_usfm": "EXO 12:23",
+"end_ref": "02012023",
+"end_ref_usfm": "EXO 12:23"
+},
+{
+"start_ref": "40020028",
+"start_ref_usfm": "MAT 20:28",
+"end_ref": "40020028",
+"end_ref_usfm": "MAT 20:28"
+},
+{
+"start_ref": "40026028",
+"start_ref_usfm": "MAT 26:28",
+"end_ref": "40026028",
+"end_ref_usfm": "MAT 26:28"
+},
+{
+"start_ref": "41010045",
+"start_ref_usfm": "MRK 10:45",
+"end_ref": "41010045",
+"end_ref_usfm": "MRK 10:45"
+},
+{
+"start_ref": "43001029",
+"start_ref_usfm": "JHN 1:29",
+"end_ref": "43001029",
+"end_ref_usfm": "JHN 1:29"
+},
+{
+"start_ref": "46015056",
+"start_ref_usfm": "1CO 15:56",
+"end_ref": "46015056",
+"end_ref_usfm": "1CO 15:56"
+},
+{
+"start_ref": "42022015",
+"start_ref_usfm": "LUK 22:15",
+"end_ref": "42022020",
+"end_ref_usfm": "LUK 22:20"
+},
+{
+"start_ref": "46005006",
+"start_ref_usfm": "1CO 5:6",
+"end_ref": "46005008",
+"end_ref_usfm": "1CO 5:8"
+},
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012051",
+"end_ref_usfm": "EXO 12:51"
+},
+{
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026030",
+"end_ref_usfm": "MAT 26:30"
+},
+{
+"start_ref": "04028016",
+"start_ref_usfm": "NUM 28:16",
+"end_ref": "04028025",
+"end_ref_usfm": "NUM 28:25"
+},
+{
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012027",
+"end_ref_usfm": "EXO 12:27"
+},
+{
+"start_ref": "02012012",
+"start_ref_usfm": "EXO 12:12",
+"end_ref": "02012013",
+"end_ref_usfm": "EXO 12:13"
+},
+{
+"start_ref": "23025007",
+"start_ref_usfm": "ISA 25:7",
+"end_ref": "23025008",
+"end_ref_usfm": "ISA 25:8"
+},
+{
+"start_ref": "03023004",
+"start_ref_usfm": "LEV 23:4",
+"end_ref": "03023008",
+"end_ref_usfm": "LEV 23:8"
+},
+{
+"start_ref": "05016001",
+"start_ref_usfm": "DEU 16:1",
+"end_ref": "05016007",
+"end_ref_usfm": "DEU 16:7"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "702266",
+"reference_id": 203202,
+"version": "1.0.2",
+"title": "الفقراء والمحتاجون في سفر المزامير",
+"media_type": "Text",
+"index_reference": "الفقراء والمحتاجون في سفر المزامير",
+"language": "arb",
+"review_level": "None",
+"content": "<p>على مدار الكتاب المقدس، يدعم الله الفقراء والمحتاجين. غالبًا ما يتعرض هؤلاء الأشخاص للاضطهاد وسوء المعاملة من قبل المجتمع أو الأفراد الجشعين. يذكر سفر المزامير مرارًا وتكرارًا معاناة المظلومين واهتمام الله بهم. يمكن للفقراء والمحتاجين أن يجدوا ملجأ في الرب في ضيقهم (انظر <a href=\"https://ref.ly/Ps76:9\">مزامير 76:9</a>; <a href=\"https://ref.ly/Ps107:4-Ps107:9\">107:4–9</a>). يمكنهم أن يصرخوا إليه؛ لأنه وعد بالعناية بهم (انظر <a href=\"https://ref.ly/Ps25:16-Ps25:18\">25:16–18</a>; <a href=\"https://ref.ly/Ps70:1-Ps70:5\">70:1–5</a>; <a href=\"https://ref.ly/Ps74:19\">74:19</a>). يمكنهم الوثوق به وانتظاره برجاء ليحقق العدالة (<a href=\"https://ref.ly/Ps18:1-Ps18:50\">18:1–50</a>; <a href=\"https://ref.ly/Ps70:5\">70:5</a>).</p><p>قد يمر العديد من الناس بتجارب الحياة المؤلمة (<a href=\"https://ref.ly/Ps88:15\">مزامير 88:13–15</a>; <a href=\"https://ref.ly/Ps90:15\">90:15</a>; انظر <a href=\"https://ref.ly/Ps102:1-Ps102:28\">102:1–28</a>). يمكن أن يكون الضيق وسيلة للتأديب الذي يعلم البر (<a href=\"https://ref.ly/Ps119:71\">119:71</a>, <a href=\"https://ref.ly/Ps119:75\">75</a>). بغض النظر عن المدة أو الشدة أو السبب، فإن الرب يسمع صرخ المسكين، كما توضح العديد من المزامير (<a href=\"https://ref.ly/Ps10:17-Ps10:18\">10:17–18</a>; <a href=\"https://ref.ly/Ps12:5\">12:5</a>; <a href=\"https://ref.ly/Ps22:24\">22:24</a>; <a href=\"https://ref.ly/Ps35:10\">35:10</a>; <a href=\"https://ref.ly/Ps109:31\">109:31</a>; <a href=\"https://ref.ly/Ps113:5-Ps113:7\">113:5–7</a>; <a href=\"https://ref.ly/Ps140:12\">140:12</a>). في النهاية، سيشبع الله الفقراء وسيفرح الأتقياء (انظر <a href=\"https://ref.ly/Ps22:26\">22:26</a>; <a href=\"https://ref.ly/Ps132:15\">132:15</a>; <a href=\"https://ref.ly/Ps34:1-Ps34:2\">34:1–2</a>; <a href=\"https://ref.ly/Ps69:32\">69:32</a>).</p><p>اختار الله الملوك من نسل داود لتحقيق العدالة لشعبه المتألم (<a href=\"https://ref.ly/Ps72:2\">مزمور 72:2</a>, <a href=\"https://ref.ly/Ps72:4\">4</a>, <a href=\"https://ref.ly/Ps72:12\">12</a>)، لكنهم لم يفلحوا في ذلك. أما الرب يسوع، الملك المسيح، فإنه يدرك صراعاتنا البشرية (<a href=\"https://ref.ly/Isa53:4\">إشعياء 53:4</a>, <a href=\"https://ref.ly/Isa53:7\">7</a>). وقد جاء لمساندة الفقراء والمضطهدين (<a href=\"https://ref.ly/Luke4:17-Luke4:21\">لوقا 4:17–21</a>; انظر <a href=\"https://ref.ly/Isa61:1-Isa61:3\">إشعياء 61:1–3</a>). هو الرجاء لمن يدركون حاجتهم إليه ومن يشتهون البر (<a href=\"https://ref.ly/Matt5:3-Matt5:12\">متى 5:3–12</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Ps9:18\">مزمور 9:18</a>; <a href=\"https://ref.ly/Ps10:1-Ps10:18\">10:1–18</a>; <a href=\"https://ref.ly/Ps12:5\">12:5</a>; <a href=\"https://ref.ly/Ps22:1-Ps22:31\">22:1–31</a>; <a href=\"https://ref.ly/Ps34:1-Ps34:22\">34:1–22</a>; <a href=\"https://ref.ly/Ps35:10\">35:10</a>; <a href=\"https://ref.ly/Ps37:14\">37:14</a>; <a href=\"https://ref.ly/Ps40:17\">40:17</a>; <a href=\"https://ref.ly/Ps41:1\">41:1</a>; <a href=\"https://ref.ly/Ps49:2\">49:2</a>; <a href=\"https://ref.ly/Ps68:10\">68:10</a>; <a href=\"https://ref.ly/Ps69:33\">69:33</a>; <a href=\"https://ref.ly/Ps70:5\">70:5</a>; <a href=\"https://ref.ly/Ps72:2-Ps72:4\">72:2–4</a>, <a href=\"https://ref.ly/Ps72:12-Ps72:13\">12–13</a>; <a href=\"https://ref.ly/Ps74:21\">74:21</a>; <a href=\"https://ref.ly/Ps82:3-Ps82:4\">82:3–4</a>; <a href=\"https://ref.ly/Ps107:41\">107:41</a>; <a href=\"https://ref.ly/Ps109:16\">109:16</a>, <a href=\"https://ref.ly/Ps109:22\">22</a>, <a href=\"https://ref.ly/Ps109:31\">31</a>; <a href=\"https://ref.ly/Ps132:15\">132:15</a>; <a href=\"https://ref.ly/Ps140:12\">140:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19009018",
+"start_ref_usfm": "PSA 9:18",
+"end_ref": "19009018",
+"end_ref_usfm": "PSA 9:18"
+},
+{
+"start_ref": "19012005",
+"start_ref_usfm": "PSA 12:5",
+"end_ref": "19012005",
+"end_ref_usfm": "PSA 12:5"
+},
+{
+"start_ref": "19022024",
+"start_ref_usfm": "PSA 22:24",
+"end_ref": "19022024",
+"end_ref_usfm": "PSA 22:24"
+},
+{
+"start_ref": "19022026",
+"start_ref_usfm": "PSA 22:26",
+"end_ref": "19022026",
+"end_ref_usfm": "PSA 22:26"
+},
+{
+"start_ref": "19035010",
+"start_ref_usfm": "PSA 35:10",
+"end_ref": "19035010",
+"end_ref_usfm": "PSA 35:10"
+},
+{
+"start_ref": "19037014",
+"start_ref_usfm": "PSA 37:14",
+"end_ref": "19037014",
+"end_ref_usfm": "PSA 37:14"
+},
+{
+"start_ref": "19040017",
+"start_ref_usfm": "PSA 40:17",
+"end_ref": "19040017",
+"end_ref_usfm": "PSA 40:17"
+},
+{
+"start_ref": "19041001",
+"start_ref_usfm": "PSA 41:1",
+"end_ref": "19041001",
+"end_ref_usfm": "PSA 41:1"
+},
+{
+"start_ref": "19049002",
+"start_ref_usfm": "PSA 49:2",
+"end_ref": "19049002",
+"end_ref_usfm": "PSA 49:2"
+},
+{
+"start_ref": "19068010",
+"start_ref_usfm": "PSA 68:10",
+"end_ref": "19068010",
+"end_ref_usfm": "PSA 68:10"
+},
+{
+"start_ref": "19069032",
+"start_ref_usfm": "PSA 69:32",
+"end_ref": "19069032",
+"end_ref_usfm": "PSA 69:32"
+},
+{
+"start_ref": "19069033",
+"start_ref_usfm": "PSA 69:33",
+"end_ref": "19069033",
+"end_ref_usfm": "PSA 69:33"
+},
+{
+"start_ref": "19070005",
+"start_ref_usfm": "PSA 70:5",
+"end_ref": "19070005",
+"end_ref_usfm": "PSA 70:5"
+},
+{
+"start_ref": "19072002",
+"start_ref_usfm": "PSA 72:2",
+"end_ref": "19072002",
+"end_ref_usfm": "PSA 72:2"
+},
+{
+"start_ref": "19072004",
+"start_ref_usfm": "PSA 72:4",
+"end_ref": "19072004",
+"end_ref_usfm": "PSA 72:4"
+},
+{
+"start_ref": "19072012",
+"start_ref_usfm": "PSA 72:12",
+"end_ref": "19072012",
+"end_ref_usfm": "PSA 72:12"
+},
+{
+"start_ref": "19074019",
+"start_ref_usfm": "PSA 74:19",
+"end_ref": "19074019",
+"end_ref_usfm": "PSA 74:19"
+},
+{
+"start_ref": "19074021",
+"start_ref_usfm": "PSA 74:21",
+"end_ref": "19074021",
+"end_ref_usfm": "PSA 74:21"
+},
+{
+"start_ref": "19076009",
+"start_ref_usfm": "PSA 76:9",
+"end_ref": "19076009",
+"end_ref_usfm": "PSA 76:9"
+},
+{
+"start_ref": "19088015",
+"start_ref_usfm": "PSA 88:15",
+"end_ref": "19088015",
+"end_ref_usfm": "PSA 88:15"
+},
+{
+"start_ref": "19090015",
+"start_ref_usfm": "PSA 90:15",
+"end_ref": "19090015",
+"end_ref_usfm": "PSA 90:15"
+},
+{
+"start_ref": "19107041",
+"start_ref_usfm": "PSA 107:41",
+"end_ref": "19107041",
+"end_ref_usfm": "PSA 107:41"
+},
+{
+"start_ref": "19109016",
+"start_ref_usfm": "PSA 109:16",
+"end_ref": "19109016",
+"end_ref_usfm": "PSA 109:16"
+},
+{
+"start_ref": "19109022",
+"start_ref_usfm": "PSA 109:22",
+"end_ref": "19109022",
+"end_ref_usfm": "PSA 109:22"
+},
+{
+"start_ref": "19109031",
+"start_ref_usfm": "PSA 109:31",
+"end_ref": "19109031",
+"end_ref_usfm": "PSA 109:31"
+},
+{
+"start_ref": "19119071",
+"start_ref_usfm": "PSA 119:71",
+"end_ref": "19119071",
+"end_ref_usfm": "PSA 119:71"
+},
+{
+"start_ref": "19119075",
+"start_ref_usfm": "PSA 119:75",
+"end_ref": "19119075",
+"end_ref_usfm": "PSA 119:75"
+},
+{
+"start_ref": "19132015",
+"start_ref_usfm": "PSA 132:15",
+"end_ref": "19132015",
+"end_ref_usfm": "PSA 132:15"
+},
+{
+"start_ref": "19140012",
+"start_ref_usfm": "PSA 140:12",
+"end_ref": "19140012",
+"end_ref_usfm": "PSA 140:12"
+},
+{
+"start_ref": "23053004",
+"start_ref_usfm": "ISA 53:4",
+"end_ref": "23053004",
+"end_ref_usfm": "ISA 53:4"
+},
+{
+"start_ref": "23053007",
+"start_ref_usfm": "ISA 53:7",
+"end_ref": "23053007",
+"end_ref_usfm": "ISA 53:7"
+},
+{
+"start_ref": "19010001",
+"start_ref_usfm": "PSA 10:1",
+"end_ref": "19010018",
+"end_ref_usfm": "PSA 10:18"
+},
+{
+"start_ref": "19034001",
+"start_ref_usfm": "PSA 34:1",
+"end_ref": "19034022",
+"end_ref_usfm": "PSA 34:22"
+},
+{
+"start_ref": "19022001",
+"start_ref_usfm": "PSA 22:1",
+"end_ref": "19022031",
+"end_ref_usfm": "PSA 22:31"
+},
+{
+"start_ref": "40005003",
+"start_ref_usfm": "MAT 5:3",
+"end_ref": "40005012",
+"end_ref_usfm": "MAT 5:12"
+},
+{
+"start_ref": "19018001",
+"start_ref_usfm": "PSA 18:1",
+"end_ref": "19018050",
+"end_ref_usfm": "PSA 18:50"
+},
+{
+"start_ref": "19070001",
+"start_ref_usfm": "PSA 70:1",
+"end_ref": "19070005",
+"end_ref_usfm": "PSA 70:5"
+},
+{
+"start_ref": "19102001",
+"start_ref_usfm": "PSA 102:1",
+"end_ref": "19102028",
+"end_ref_usfm": "PSA 102:28"
+},
+{
+"start_ref": "23061001",
+"start_ref_usfm": "ISA 61:1",
+"end_ref": "23061003",
+"end_ref_usfm": "ISA 61:3"
+},
+{
+"start_ref": "19010017",
+"start_ref_usfm": "PSA 10:17",
+"end_ref": "19010018",
+"end_ref_usfm": "PSA 10:18"
+},
+{
+"start_ref": "19107004",
+"start_ref_usfm": "PSA 107:4",
+"end_ref": "19107009",
+"end_ref_usfm": "PSA 107:9"
+},
+{
+"start_ref": "19025016",
+"start_ref_usfm": "PSA 25:16",
+"end_ref": "19025018",
+"end_ref_usfm": "PSA 25:18"
+},
+{
+"start_ref": "19113005",
+"start_ref_usfm": "PSA 113:5",
+"end_ref": "19113007",
+"end_ref_usfm": "PSA 113:7"
+},
+{
+"start_ref": "19034001",
+"start_ref_usfm": "PSA 34:1",
+"end_ref": "19034002",
+"end_ref_usfm": "PSA 34:2"
+},
+{
+"start_ref": "42004017",
+"start_ref_usfm": "LUK 4:17",
+"end_ref": "42004021",
+"end_ref_usfm": "LUK 4:21"
+},
+{
+"start_ref": "19072002",
+"start_ref_usfm": "PSA 72:2",
+"end_ref": "19072004",
+"end_ref_usfm": "PSA 72:4"
+},
+{
+"start_ref": "19072012",
+"start_ref_usfm": "PSA 72:12",
+"end_ref": "19072013",
+"end_ref_usfm": "PSA 72:13"
+},
+{
+"start_ref": "19082003",
+"start_ref_usfm": "PSA 82:3",
+"end_ref": "19082004",
+"end_ref_usfm": "PSA 82:4"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "702257",
+"reference_id": 203193,
+"version": "1.0.2",
+"title": "الفوريم",
+"media_type": "Text",
+"index_reference": "الفوريم",
+"language": "arb",
+"review_level": "None",
+"content": "<p>عيد الفوريم هو العيد الوحيد في العهد القديم الذي لم يُؤسَّس في زمن موسى. واسمه مشتق من كلمة تعني &quot;القرعة&quot; أو &quot;النرد&quot; (بالعبرية: <em>بوريم</em> <em>Purim</em>، بالأكادية <em>بورو</em> <em>puru</em>). في العصور القديمة، كان الناس يلقون القرعة لمعرفة ما إذا كان الله يوافق على أمرٍ ما؛ فإن كان الرقم جيّد، اعتُبر ذلك علامة للموافقة، وإن كان الرقم سيّئ، اعتُبر ذلك علامة رفض.</p><p>بالقرب من قاعة عرش الملك في شوشن بفارس، اكتشف علماء الآثار جسمًا صغيرًا رباعي الأوجه، عليه أرقام على كل جانب. وقد عُثر على نرد مشابه يحمل كلمة <em>بورو pur</em> ويرجع تاريخه إلى القرن التاسع قبل الميلاد. وفي سفر أستير، استخدم المنجّمون الفُرس <em>الفوريم</em> لتحديد أفضل وقت للهجوم على اليهود (<a href=\"https://ref.ly/Esth3:7\">أستير 3:7</a>).</p><p>في ٧ مارس من عام ٤٧٣ ق.م، أنقذ الله شعبه من موت محتَّم، في مشهد يُشبه إلى حدٍّ كبير خلاصهم من مصر في عيد الفصح. ولهذا أسَّسا مردخاي وأستير احتفالًا سنويًّا ليُذكِّر الأجيال القادمة بخلاص وإنقاذ الله (<a href=\"https://ref.ly/Esth9:28\">أستير 9:28</a>).  وفيما بعد، أصبح عيد الفوريم يُحتفل به على نطاق واسع بين اليهود (انظر ٢ مكابيين ١٥: ٣٦؛ يوسيفوس، <em>آثار اليهود</em> 11. 6. 13؛ وربما هو ما ورد في <a href=\"https://ref.ly/John5:1\">يوحنّا 5:1</a>).</p><p>عندما أنقذ الله شعبه المختار، تحوّل اليوم الذي كان مخصصًا لهلاك اليهود إلى يوم انتصارهم على أعدائهم، وتبِع ذلك احتفال وفرح. وحتى اليوم، يصوم اليهود ويُصلّون تذكّرًا لصوم الملكة أستير قبل أن تتقدّم بشجاعة لمقابلة الملك. ويأتي هذا الصوم مباشرة قبل عيد الفوريم، الذي يُحتفل به في اليوم الرابع عشر من شهر آذار (في فبراير أو مارس).</p><p>خلال عيد الفوريم المُفرِح، يقرأ اليهود قصة أستير، ويُطلقون الصيحات الاستهجانية ضد هامان، ويهتفون فرحًا لمردخاي. كما يتشاركون الوجبات الخاصة، ويتبادلون هدايا الطعام مع الأصدقاء، ويُقدّمون عطايا للمحتاجين. ويُجسّد عيد الفوريم كيفية حماية الله لشعبه من الأذى، ويُظهِر كيف يظل الله يعتني بشعبه ويلاحظهم عبر التاريخ (انظر أيضًا <a href=\"https://ref.ly/Gen45:5\">تكوين 45:5</a>; <a href=\"https://ref.ly/Ps91:1-Ps91:16\">مزمور 91</a>; <a href=\"https://ref.ly/Prov16:9\">أمثال 16:9</a>, <a href=\"https://ref.ly/Prov16:33\">33</a>; <a href=\"https://ref.ly/Dan2:21\">دانيآل 2:21</a>; <a href=\"https://ref.ly/Acts1:6-Acts1:7\">أعمال 1:6–7</a>; <a href=\"https://ref.ly/Acts2:22-Acts2:23\">2:22–23</a>; <a href=\"https://ref.ly/Acts4:28-Acts4:30\">4:28–30</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:27\">17:24–27</a>; <a href=\"https://ref.ly/Rom8:28\">رومية 8:28</a>; <a href=\"https://ref.ly/1Pet3:12\">1 بطرس 3:12</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Esth9:1-Esth9:32\">أستير 9:1–32</a>; <a href=\"https://ref.ly/Ps37:23\">المزامير 37:23</a>; <a href=\"https://ref.ly/Ps91:1-Ps91:16\">91:1–16</a>; <a href=\"https://ref.ly/Prov16:9\">الأمثال 16:9</a>, <a href=\"https://ref.ly/Prov16:33\">33</a>; <a href=\"https://ref.ly/Rom8:28\">رومية 8:28</a>; <a href=\"https://ref.ly/1Pet3:12\">1 بطرس 3:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01045005",
+"start_ref_usfm": "GEN 45:5",
+"end_ref": "01045005",
+"end_ref_usfm": "GEN 45:5"
+},
+{
+"start_ref": "17003007",
+"start_ref_usfm": "EST 3:7",
+"end_ref": "17003007",
+"end_ref_usfm": "EST 3:7"
+},
+{
+"start_ref": "17009028",
+"start_ref_usfm": "EST 9:28",
+"end_ref": "17009028",
+"end_ref_usfm": "EST 9:28"
+},
+{
+"start_ref": "19037023",
+"start_ref_usfm": "PSA 37:23",
+"end_ref": "19037023",
+"end_ref_usfm": "PSA 37:23"
+},
+{
+"start_ref": "20016009",
+"start_ref_usfm": "PRO 16:9",
+"end_ref": "20016009",
+"end_ref_usfm": "PRO 16:9"
+},
+{
+"start_ref": "20016033",
+"start_ref_usfm": "PRO 16:33",
+"end_ref": "20016033",
+"end_ref_usfm": "PRO 16:33"
+},
+{
+"start_ref": "27002021",
+"start_ref_usfm": "DAN 2:21",
+"end_ref": "27002021",
+"end_ref_usfm": "DAN 2:21"
+},
+{
+"start_ref": "43005001",
+"start_ref_usfm": "JHN 5:1",
+"end_ref": "43005001",
+"end_ref_usfm": "JHN 5:1"
+},
+{
+"start_ref": "45008028",
+"start_ref_usfm": "ROM 8:28",
+"end_ref": "45008028",
+"end_ref_usfm": "ROM 8:28"
+},
+{
+"start_ref": "60003012",
+"start_ref_usfm": "1PE 3:12",
+"end_ref": "60003012",
+"end_ref_usfm": "1PE 3:12"
+},
+{
+"start_ref": "17009001",
+"start_ref_usfm": "EST 9:1",
+"end_ref": "17009032",
+"end_ref_usfm": "EST 9:32"
+},
+{
+"start_ref": "19091001",
+"start_ref_usfm": "PSA 91:1",
+"end_ref": "19091016",
+"end_ref_usfm": "PSA 91:16"
+},
+{
+"start_ref": "17009001",
+"start_ref_usfm": "EST 9:1",
+"end_ref": "17009017",
+"end_ref_usfm": "EST 9:17"
+},
+{
+"start_ref": "44001006",
+"start_ref_usfm": "ACT 1:6",
+"end_ref": "44001007",
+"end_ref_usfm": "ACT 1:7"
+},
+{
+"start_ref": "44002022",
+"start_ref_usfm": "ACT 2:22",
+"end_ref": "44002023",
+"end_ref_usfm": "ACT 2:23"
+},
+{
+"start_ref": "44004028",
+"start_ref_usfm": "ACT 4:28",
+"end_ref": "44004030",
+"end_ref_usfm": "ACT 4:30"
+},
+{
+"start_ref": "44017024",
+"start_ref_usfm": "ACT 17:24",
+"end_ref": "44017027",
+"end_ref_usfm": "ACT 17:27"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "702212",
+"reference_id": 203148,
+"version": "1.0.2",
+"title": "الفوضى الاجتماعية في سفر القضاة",
+"media_type": "Text",
+"index_reference": "الفوضى الاجتماعية في سفر القضاة",
+"language": "arb",
+"review_level": "None",
+"content": "<p>يؤكد سفر القضاة على الإنقاذ الإلهي من خلال أبطال. ولكن السفر يوضح أيضًا المشاكل التي واجهها الشعب في ذلك الوقت. لقد تراجع الالتزام الشخصي تجاه الله، بينما تفاقمت المشاكل الاجتماعية. ويظهر ذلك بشكل خاص في الإصحاح <a href=\"https://ref.ly/Judg5:1-Judg5:31\">5</a> (على سبيل المثال، <a href=\"https://ref.ly/Judg5:6-Judg5:8\">5:6–8</a>).</p><p>وتبرز ثلاث قضايا رئيسية:</p><ol><li><p>واجهت الأسباط صعوبة في العمل معًا، حتى في مواجهة عدو مشترك (انظر مثلًا قصتَي جدعون ويفتاح؛ الإصحاحين <a href=\"https://ref.ly/Judg8:1-Judg8:35\">8</a>، <a href=\"https://ref.ly/Judg12:1-Judg12:15\">12</a>). وتُظهِر الصراعات داخل كل سبط وبين الأسباط المختلفة عدم طاعة عهدهم مع الله.</p></li><li><p>يُظهر السفر أيضًا انهيار المجتمع المدني. فأبيمالك يقتل أبناء جدعون، ويفتاح يُظهِر وكأنه يُضحّي بابنته، وشمشون يسعى للانتقام من الفلسطينيين. هذه الأحداث تُسلّط الضوء على الفساد الأخلاقي وفقدان الروح الاجتماعية في ذلك الزمان.</p></li><li><p>كان التخلّي عن الإيمان اليهودي أمرًا شائعًا في تلك الأيام. فقد كان بنو إسرائيل كثيرًا ما &quot;<span>يَعْمَلُونَ ٱلشَّرَّ فِي عَيْنَيِ ٱلرَّبِّ</span>&quot;، وكان هذا يرتبط غالبًا بعبادة الأوثان (<a href=\"https://ref.ly/Judg2:11-Judg2:13\">القضاة 2:11–13</a>; <a href=\"https://ref.ly/Judg3:7\">3:7</a>; <a href=\"https://ref.ly/Judg10:6\">10:6</a>). إن المذبح المُكرَّس للبعل وسارية عشتاروث في بلدة جدعون &quot;عفرة&quot; دليلًا واضحًا على تركهم للرب (<a href=\"https://ref.ly/Judg6:25-Judg6:30\">6:25–30</a>). وهذا يُشبه ما حدث لاحقًا عندما صنع جدعون أفودًا من الذهب، فصار موضع عبادة، فعاد الشعب لعبادة البعل بعد موت جدعون (<a href=\"https://ref.ly/Judg8:27\">8:27, 3</a><a href=\"https://ref.ly/Judg8:33-Judg8:35\">3–35</a>). كما أن زواج شمشون من امرأة فلسطنية كان أيضًا مخالفًا لوصايا العهد (انظر <a href=\"https://ref.ly/Deut7:1-Deut7:4\">تثنية 7:1–4</a>).</p></li></ol><p>تبلغ الفوضى الاجتماعية ذروتها في الفصول الأخيرة من سفر القضاة (<a href=\"https://ref.ly/Judg17:1-Judg21:25\">القضاة 17–21</a>). إذ تَجمع قصة ميخا واللاوي وأسباط دان بين الانحراف الديني والهجمات العشوائية والسرقة والعنف  (الاصحاحان <a href=\"https://ref.ly/Judg17:1-Judg18:31\">17–18</a>). أما الجزء الأخير من السفر، فيروي حربًا أهلية مأساوية تُظهِر فقدانًا تامًا للأدب الاجتماعي  (الاصحاحات <a href=\"https://ref.ly/Judg19:1-Judg21:25\">19–21</a>).</p><p>لقد كادت المشاكل الزوجية، وانعدام الضيافة، والاغتصاب، والقتل أن تقضي على سبط بنيامين (الأصحاحات <a href=\"https://ref.ly/Judg19:1-Judg19:30\">قضاة 19</a> و<a href=\"https://ref.ly/Judg20:1-Judg20:48\">20</a>). ولم ينجُ هذا السبط إلا لأن بني إسرائيل دمّروا مدينة تاريخية هي يابيش جلعاد، ثم أجروا طقسًا شكليًا زائفًا يسمح لبنيامين بأخذ العذارى كزوجات (<a href=\"https://ref.ly/Judg21:6-Judg21:23\">21:6–23</a>). وليس من المستغرب أن يُختَتم السفر بهذه العبارة المؤلمة: &quot;<span>فِي تِلْكَ ٱلْأَيَّامِ لَمْ يَكُنْ مَلِكٌ فِي إِسْرَائِيلَ. كُلُّ وَاحِدٍ عَمِلَ مَا حَسُنَ فِي عَيْنَيْهِ.</span>&quot; (<a href=\"https://ref.ly/Judg21:25\">21:25</a>). </p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Judg5:6-Judg5:8\">قضاة 5:6–8</a>; <a href=\"https://ref.ly/Judg6:25-Judg6:27\">6:25–27</a>; <a href=\"https://ref.ly/Judg8:1-Judg8:35\">8:1–35</a>; <a href=\"https://ref.ly/Judg12:1-Judg12:15\">12:1–15</a>; <a href=\"https://ref.ly/Judg17:1-Judg21:25\">17:1–21:25</a>; <a href=\"https://ref.ly/Ps11:2-Ps11:7\">مزامير 11:2–7</a>; <a href=\"https://ref.ly/Prov28:2-Prov28:3\">أمثال 28:2–3</a>; <a href=\"https://ref.ly/Jer5:7-Jer5:9\">إرميا 5:7–9</a>; <a href=\"https://ref.ly/Jer12:1-Jer12:17\">12:1–17</a>; <a href=\"https://ref.ly/Mic3:9-Mic3:12\">ميخا 3:9–12</a>; <a href=\"https://ref.ly/Mic7:2-Mic7:7\">7:2–7</a>; <a href=\"https://ref.ly/Rom1:21-Rom1:32\">رومية 1:21–32</a>; <a href=\"https://ref.ly/Gal5:19-Gal5:23\">غلاطية 5:19–23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07003007",
+"start_ref_usfm": "JDG 3:7",
+"end_ref": "07003007",
+"end_ref_usfm": "JDG 3:7"
+},
+{
+"start_ref": "07008027",
+"start_ref_usfm": "JDG 8:27",
+"end_ref": "07008027",
+"end_ref_usfm": "JDG 8:27"
+},
+{
+"start_ref": "07010006",
+"start_ref_usfm": "JDG 10:6",
+"end_ref": "07010006",
+"end_ref_usfm": "JDG 10:6"
+},
+{
+"start_ref": "07021025",
+"start_ref_usfm": "JDG 21:25",
+"end_ref": "07021025",
+"end_ref_usfm": "JDG 21:25"
+},
+{
+"start_ref": "05007001",
+"start_ref_usfm": "DEU 7:1",
+"end_ref": "05007004",
+"end_ref_usfm": "DEU 7:4"
+},
+{
+"start_ref": "07019001",
+"start_ref_usfm": "JDG 19:1",
+"end_ref": "07019030",
+"end_ref_usfm": "JDG 19:30"
+},
+{
+"start_ref": "07005001",
+"start_ref_usfm": "JDG 5:1",
+"end_ref": "07005031",
+"end_ref_usfm": "JDG 5:31"
+},
+{
+"start_ref": "48005019",
+"start_ref_usfm": "GAL 5:19",
+"end_ref": "48005023",
+"end_ref_usfm": "GAL 5:23"
+},
+{
+"start_ref": "07019001",
+"start_ref_usfm": "JDG 19:1",
+"end_ref": "07021025",
+"end_ref_usfm": "JDG 21:25"
+},
+{
+"start_ref": "07017001",
+"start_ref_usfm": "JDG 17:1",
+"end_ref": "07018031",
+"end_ref_usfm": "JDG 18:31"
+},
+{
+"start_ref": "07017001",
+"start_ref_usfm": "JDG 17:1",
+"end_ref": "07021025",
+"end_ref_usfm": "JDG 21:25"
+},
+{
+"start_ref": "07002011",
+"start_ref_usfm": "JDG 2:11",
+"end_ref": "07002013",
+"end_ref_usfm": "JDG 2:13"
+},
+{
+"start_ref": "07005006",
+"start_ref_usfm": "JDG 5:6",
+"end_ref": "07005008",
+"end_ref_usfm": "JDG 5:8"
+},
+{
+"start_ref": "07008033",
+"start_ref_usfm": "JDG 8:33",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "33003009",
+"start_ref_usfm": "MIC 3:9",
+"end_ref": "33003012",
+"end_ref_usfm": "MIC 3:12"
+},
+{
+"start_ref": "24005007",
+"start_ref_usfm": "JER 5:7",
+"end_ref": "24005009",
+"end_ref_usfm": "JER 5:9"
+},
+{
+"start_ref": "07008001",
+"start_ref_usfm": "JDG 8:1",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "07012001",
+"start_ref_usfm": "JDG 12:1",
+"end_ref": "07012015",
+"end_ref_usfm": "JDG 12:15"
+},
+{
+"start_ref": "07006025",
+"start_ref_usfm": "JDG 6:25",
+"end_ref": "07006030",
+"end_ref_usfm": "JDG 6:30"
+},
+{
+"start_ref": "07020001",
+"start_ref_usfm": "JDG 20:1",
+"end_ref": "07020048",
+"end_ref_usfm": "JDG 20:48"
+},
+{
+"start_ref": "07021006",
+"start_ref_usfm": "JDG 21:6",
+"end_ref": "07021023",
+"end_ref_usfm": "JDG 21:23"
+},
+{
+"start_ref": "07006025",
+"start_ref_usfm": "JDG 6:25",
+"end_ref": "07006027",
+"end_ref_usfm": "JDG 6:27"
+},
+{
+"start_ref": "19011002",
+"start_ref_usfm": "PSA 11:2",
+"end_ref": "19011007",
+"end_ref_usfm": "PSA 11:7"
+},
+{
+"start_ref": "20028002",
+"start_ref_usfm": "PRO 28:2",
+"end_ref": "20028003",
+"end_ref_usfm": "PRO 28:3"
+},
+{
+"start_ref": "24012001",
+"start_ref_usfm": "JER 12:1",
+"end_ref": "24012017",
+"end_ref_usfm": "JER 12:17"
+},
+{
+"start_ref": "33007002",
+"start_ref_usfm": "MIC 7:2",
+"end_ref": "33007007",
+"end_ref_usfm": "MIC 7:7"
+},
+{
+"start_ref": "45001021",
+"start_ref_usfm": "ROM 1:21",
+"end_ref": "45001032",
+"end_ref_usfm": "ROM 1:32"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "702277",
+"reference_id": 203213,
+"version": "1.0.2",
+"title": "فهم السبي",
+"media_type": "Text",
+"index_reference": "فهم السبي",
+"language": "arb",
+"review_level": "None",
+"content": "<p>إن الملوك وشعب إسرائيل عصوا الله مرارًا وتكرارًا وفشلوا في الحفاظ على عهدهم معه. ونتيجة لذلك، أعلن الله أنه سيجلب عليهم لعنات العهد (انظر <a href=\"https://ref.ly/Deut28:15-Deut28:68\">تثنية 28:15–68</a>; قارن <a href=\"https://ref.ly/Jer4:13\">إرميا 4:13</a>; <a href=\"https://ref.ly/Amos5:11\">عاموس 5:11</a>; <a href=\"https://ref.ly/Mic6:14-Mic6:15\">ميخا 6:14–15</a>). أرسل الله جيوش الآشوريين والبابليين لتنفيذ هذا العقاب، فذهب العديد من الإسرائيليين إلى السبي (انظر <a href=\"https://ref.ly/2Kgs24:1-2Kgs25:21\">2 ملوك 24:1–25:21</a>) وأُجبروا على مغادرة أرضهم.</p><p>ترك السبي أثرًا عميقًا في العديد من المزامير، وظهر ذلك في الصور والمواضيع التي تناولتها.</p><p>في <a href=\"https://ref.ly/Ps89:1-Ps89:52\">مزمور 89</a>، يعبّر المرنم عن الحزن والألم والارتباك الذي شعر به شعب إسرائيل أثناء وجودهم في السبي من خلال الأسئلة التالية:</p><ul><li><p>هل تخلّى الله عن نسل داود الملكي (<a href=\"https://ref.ly/Ps89:38-Ps89:39\">89:38–39</a>)؟</p></li><li><p>إلى متى سيستمر غضب الله (<a href=\"https://ref.ly/Ps89:46\">مزمور 89:46</a>)؟</p></li><li><p>هل يدرك الله ضعف الإنسان (<a href=\"https://ref.ly/Ps89:47-Ps89:48\">89:47–48</a>)؟</p></li><li><p>هل الله أمين لطبيعته (<a href=\"https://ref.ly/Ps89:49\">89:49</a>)؟</p></li><li><p>هل يُعتبر الله عادلاً بعدم الانتقام لشعبه (<a href=\"https://ref.ly/Ps89:50-Ps89:51\">89:50–51</a>)؟</p></li></ul><p>خلال فترة السبي وما بعدها، راودت شعب الله أسئلة كثيرة. شكّك بعضهم في قدرة الله على أن يحكم الأحداث. وبدلًا من تجاهل هذه التساؤلات، يتأمل القارئ الحكيم فيها ويفحص الإجابات من خلال الكتاب المقدس.</p><p>جاء الجواب النهائي من خلال الرب يسوع المسيح (انظر <a href=\"https://ref.ly/Isa52:1-Isa54:17\">إشعياء 52–54</a>; <a href=\"https://ref.ly/Luke1:46-Luke1:55\">لوقا 1:46–55</a>, <a href=\"https://ref.ly/Luke1:67-Luke1:79\">67–79</a>; <a href=\"https://ref.ly/Luke4:18-Luke4:19\">4:18–19</a>; <a href=\"https://ref.ly/Rom6:6\">رومية 6:6</a>, <a href=\"https://ref.ly/Rom6:16-Rom6:23\">16–23</a>; <a href=\"https://ref.ly/Heb12:22-Heb12:24\">عبرانيين 12:22–24</a>). ومع ذلك، ومع ذلك، فإن الذين عاشوا في زمن السبي لم يستطيعوا إلا أن يتخيّلوا المستقبل المشرق جزئيًا. لقد طرحوا أسئلة صعبة، وعاشوا دون إجابات واضحة.</p><p><u>مقاطع لمزيد من الدراسة </u></p><p><a href=\"https://ref.ly/Lev26:27-Lev26:45\">لاويين ٢٦: ٢٧–٤٥</a>; <a href=\"https://ref.ly/Deut28:36-Deut28:37\">تثنية ٢٨: ٣٦–٣٧</a>, <a href=\"https://ref.ly/Deut28:63-Deut28:68\">٦٣–٦٨</a>; <a href=\"https://ref.ly/Deut30:1-Deut30:5\">٣٠: ١–٥</a>; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">٢ ملوك ١٧: ٥–٢٣</a>; <a href=\"https://ref.ly/2Kgs24:1-2Kgs25:21\">٢٤: ١–٢٥: ٢١</a>; <a href=\"https://ref.ly/Ezra5:12\">عزرا ٥: ١٢</a>; <a href=\"https://ref.ly/Ps89:1-Ps89:52\">مزامير ٨٩</a>; <a href=\"https://ref.ly/Ps107:1-Ps107:43\">١٠٧</a>; <a href=\"https://ref.ly/Ps126:1-Ps126:6\">١٢٦</a>; <a href=\"https://ref.ly/Isa5:13\">إشعياء ٥: ١٣</a>; <a href=\"https://ref.ly/Isa27:13\">٢٧: ١٣</a>; <a href=\"https://ref.ly/Isa52:1-Isa52:12\">٥٢: ١–١٢</a>; <a href=\"https://ref.ly/Isa59:10\">٥٩: ١٠</a>; <a href=\"https://ref.ly/Jer2:37\">إرميا ٢: ٣٧</a>; <a href=\"https://ref.ly/Jer3:18\">٣: ١٨</a>; <a href=\"https://ref.ly/Jer4:13\">٤: ١٣</a>; <a href=\"https://ref.ly/Ezek6:9\">حزقيال ٦: ٩</a>; <a href=\"https://ref.ly/Ezek20:41\">٢٠: ٤١</a>; <a href=\"https://ref.ly/Ezek37:1-Ezek37:14\">٣٧: ١–١٤</a>; <a href=\"https://ref.ly/Amos5:11\">عاموس ٥: ١١</a>; <a href=\"https://ref.ly/Mic6:14-Mic6:15\">ميخا ٦: ١٤–١٥</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15005012",
+"start_ref_usfm": "EZR 5:12",
+"end_ref": "15005012",
+"end_ref_usfm": "EZR 5:12"
+},
+{
+"start_ref": "19089046",
+"start_ref_usfm": "PSA 89:46",
+"end_ref": "19089046",
+"end_ref_usfm": "PSA 89:46"
+},
+{
+"start_ref": "19089049",
+"start_ref_usfm": "PSA 89:49",
+"end_ref": "19089049",
+"end_ref_usfm": "PSA 89:49"
+},
+{
+"start_ref": "23005013",
+"start_ref_usfm": "ISA 5:13",
+"end_ref": "23005013",
+"end_ref_usfm": "ISA 5:13"
+},
+{
+"start_ref": "23027013",
+"start_ref_usfm": "ISA 27:13",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
+},
+{
+"start_ref": "23059010",
+"start_ref_usfm": "ISA 59:10",
+"end_ref": "23059010",
+"end_ref_usfm": "ISA 59:10"
+},
+{
+"start_ref": "24002037",
+"start_ref_usfm": "JER 2:37",
+"end_ref": "24002037",
+"end_ref_usfm": "JER 2:37"
+},
+{
+"start_ref": "24003018",
+"start_ref_usfm": "JER 3:18",
+"end_ref": "24003018",
+"end_ref_usfm": "JER 3:18"
+},
+{
+"start_ref": "24004013",
+"start_ref_usfm": "JER 4:13",
+"end_ref": "24004013",
+"end_ref_usfm": "JER 4:13"
+},
+{
+"start_ref": "26006009",
+"start_ref_usfm": "EZK 6:9",
+"end_ref": "26006009",
+"end_ref_usfm": "EZK 6:9"
+},
+{
+"start_ref": "26020041",
+"start_ref_usfm": "EZK 20:41",
+"end_ref": "26020041",
+"end_ref_usfm": "EZK 20:41"
+},
+{
+"start_ref": "30005011",
+"start_ref_usfm": "AMO 5:11",
+"end_ref": "30005011",
+"end_ref_usfm": "AMO 5:11"
+},
+{
+"start_ref": "45006006",
+"start_ref_usfm": "ROM 6:6",
+"end_ref": "45006006",
+"end_ref_usfm": "ROM 6:6"
+},
+{
+"start_ref": "42004018",
+"start_ref_usfm": "LUK 4:18",
+"end_ref": "42004019",
+"end_ref_usfm": "LUK 4:19"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028068",
+"end_ref_usfm": "DEU 28:68"
+},
+{
+"start_ref": "12024001",
+"start_ref_usfm": "2KI 24:1",
+"end_ref": "12025021",
+"end_ref_usfm": "2KI 25:21"
+},
+{
+"start_ref": "26037001",
+"start_ref_usfm": "EZK 37:1",
+"end_ref": "26037014",
+"end_ref_usfm": "EZK 37:14"
+},
+{
+"start_ref": "19089001",
+"start_ref_usfm": "PSA 89:1",
+"end_ref": "19089052",
+"end_ref_usfm": "PSA 89:52"
+},
+{
+"start_ref": "42001067",
+"start_ref_usfm": "LUK 1:67",
+"end_ref": "42001079",
+"end_ref_usfm": "LUK 1:79"
+},
+{
+"start_ref": "42001046",
+"start_ref_usfm": "LUK 1:46",
+"end_ref": "42001055",
+"end_ref_usfm": "LUK 1:55"
+},
+{
+"start_ref": "19107001",
+"start_ref_usfm": "PSA 107:1",
+"end_ref": "19107043",
+"end_ref_usfm": "PSA 107:43"
+},
+{
+"start_ref": "19126001",
+"start_ref_usfm": "PSA 126:1",
+"end_ref": "19126006",
+"end_ref_usfm": "PSA 126:6"
+},
+{
+"start_ref": "58012022",
+"start_ref_usfm": "HEB 12:22",
+"end_ref": "58012024",
+"end_ref_usfm": "HEB 12:24"
+},
+{
+"start_ref": "19089050",
+"start_ref_usfm": "PSA 89:50",
+"end_ref": "19089051",
+"end_ref_usfm": "PSA 89:51"
+},
+{
+"start_ref": "12017005",
+"start_ref_usfm": "2KI 17:5",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "05030001",
+"start_ref_usfm": "DEU 30:1",
+"end_ref": "05030005",
+"end_ref_usfm": "DEU 30:5"
+},
+{
+"start_ref": "33006014",
+"start_ref_usfm": "MIC 6:14",
+"end_ref": "33006015",
+"end_ref_usfm": "MIC 6:15"
+},
+{
+"start_ref": "19089038",
+"start_ref_usfm": "PSA 89:38",
+"end_ref": "19089039",
+"end_ref_usfm": "PSA 89:39"
+},
+{
+"start_ref": "19089047",
+"start_ref_usfm": "PSA 89:47",
+"end_ref": "19089048",
+"end_ref_usfm": "PSA 89:48"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23054017",
+"end_ref_usfm": "ISA 54:17"
+},
+{
+"start_ref": "45006016",
+"start_ref_usfm": "ROM 6:16",
+"end_ref": "45006023",
+"end_ref_usfm": "ROM 6:23"
+},
+{
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026045",
+"end_ref_usfm": "LEV 26:45"
+},
+{
+"start_ref": "05028036",
+"start_ref_usfm": "DEU 28:36",
+"end_ref": "05028037",
+"end_ref_usfm": "DEU 28:37"
+},
+{
+"start_ref": "05028063",
+"start_ref_usfm": "DEU 28:63",
+"end_ref": "05028068",
+"end_ref_usfm": "DEU 28:68"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "702264",
+"reference_id": 203200,
+"version": "1.0.2",
+"title": "فهم أيّوب",
+"media_type": "Text",
+"index_reference": "فهم أيّوب",
+"language": "arb",
+"review_level": "None",
+"content": "<p>تُقدم قصة أيوب صراع وشدّ بين الجوانب الجيدة والسيئة من شخصيته. إذ يٌفتَتَح السفر بالتأكيد بكل وضوح على استقامة أيوب (<a href=\"https://ref.ly/Job1:1\">أيوب 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>). ولكن لاحقاً، يسأل الله أيوب أسئلة مباشرة: &quot;مَ<span>نْ هَذَا ٱلَّذِي يُظْلِمُ ٱلْقَضَاءَ بِكَلَامٍ بِلَا مَعْرِفَةٍ</span>؟&quot; (<a href=\"https://ref.ly/Job38:2\">38:2</a>). &quot;<span>لَعَلَّكَ تُنَاقِضُ حُكْمِي، تَسْتَذْنِبُنِي لِكَيْ تَتَبَرَّرَ أَنْتَ؟</span>&quot; (<a href=\"https://ref.ly/Job40:8\">40:8</a>).</p><p>يعتقد بعض المفسرين أن أيوب كان يُكثر الكلام ويخلط بين عمل الله وعمل الشيطان. ويذهب بعض المفسرين المعاصرين إلى لوم أيوب على معاناته، متفقين مع أصدقائه. بينما يتبنّى آخرون مثل أليفاز وأليهو (<a href=\"https://ref.ly/Job5:17-Job5:27\">5:17–27</a>; <a href=\"https://ref.ly/Job33:15-Job33:33\">33:15–33</a>; <a href=\"https://ref.ly/Job36:7-Job36:17\">36:7–17</a>). هم يقولون إن معاناة أيوب هي تأديب مُحِب من الله. فحتى المؤمنين المخلصين لله يواجهون مثل هذا التأديب (<a href=\"https://ref.ly/Heb12:6-Heb12:12\">العبرانيين 12:6–12</a>; انظر <a href=\"https://ref.ly/Prov3:11-Prov3:12\">الأمثال 3:11–12</a>). لكن هذه الفكرة تتناقض مع الإعلان الافتتاحي للسفر والخاص بأيوب.</p><p>عانى أيوب لأن الله أراد أن يُظهر للشيطان أن أيوب كان أمينًا ومخلصًا. لقد كان لله دائمًا نظرة إيجابية لحياة أيوب (<a href=\"https://ref.ly/Job1:1\">أيوب 1:1</a>, <a href=\"https://ref.ly/Job1:8\">8</a>; <a href=\"https://ref.ly/Job2:3\">2:3</a>; <a href=\"https://ref.ly/Job42:7\">42:7</a>). وتستمر هذه الفكرة في العهد الجديد، حيث يُعتبر أيوب مثالًا للصبر الذي ينبغي أن نقتدي به (<a href=\"https://ref.ly/Jas5:11\">يعقوب 5:11</a>).</p><p>وتُعتبر ردود فعل أيوب طبيعية، فهو لم يبقَ ثابتًا طوال الوقت، فقد أثّرت عليه تجاربه، ولم يتحدَّ معاناته بتجاهل أو كأنها لا يمكن أن تؤثر عليه، بل تفاعل معها كما يفعل أي إنسان.</p><p>يشعر أيوب بالغضب، ويحتج، ويشتكي، ويتأرجح بين الثقة واليأس، لكنه لا يفقد الرجاء أبدًا، ولا يلعن الله، ولا يعترف كذبًا بالذنب في محاولة للتأثير على الله ليرفع معاناته، وعلى الرغم من أنه لا يستطيع فهم وضعه، إلا أنه يعلم أن إجابات تساؤلاته هي عند الله (<a href=\"https://ref.ly/Job19:25-Job19:27\">أيوب 19:25–27</a>).</p><p><u>مقاطع لمزيد من الدراسة </u></p><p><a href=\"https://ref.ly/Job1:1\">أيوب 1:1</a>، <a href=\"https://ref.ly/Job1:8\">8</a>؛ <a href=\"https://ref.ly/Job2:3\">2:3</a>؛ <a href=\"https://ref.ly/Job5:17-Job5:18\">5:17–18</a>؛ <a href=\"https://ref.ly/Job19:25-Job19:27\">19:25–27</a>؛ <a href=\"https://ref.ly/Job33:15-Job33:28\">33:15–28</a>؛ <a href=\"https://ref.ly/Job36:8-Job36:15\">36:8–15</a>؛ <a href=\"https://ref.ly/Job38:2\">38:2</a>؛ <a href=\"https://ref.ly/Job40:8\">40:8</a>؛ <a href=\"https://ref.ly/Job42:7\">42:7</a>؛ <a href=\"https://ref.ly/Prov3:11\">الأمثال 3:11</a>؛ <a href=\"https://ref.ly/Heb12:7\">العبرانيين 12:7</a>، <a href=\"https://ref.ly/Heb12:10\">10</a>؛ <a href=\"https://ref.ly/Jas5:11\">يعقوب 5:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18001001",
+"start_ref_usfm": "JOB 1:1",
+"end_ref": "18001001",
+"end_ref_usfm": "JOB 1:1"
+},
+{
+"start_ref": "18001008",
+"start_ref_usfm": "JOB 1:8",
+"end_ref": "18001008",
+"end_ref_usfm": "JOB 1:8"
+},
+{
+"start_ref": "18002003",
+"start_ref_usfm": "JOB 2:3",
+"end_ref": "18002003",
+"end_ref_usfm": "JOB 2:3"
+},
+{
+"start_ref": "18038002",
+"start_ref_usfm": "JOB 38:2",
+"end_ref": "18038002",
+"end_ref_usfm": "JOB 38:2"
+},
+{
+"start_ref": "18040008",
+"start_ref_usfm": "JOB 40:8",
+"end_ref": "18040008",
+"end_ref_usfm": "JOB 40:8"
+},
+{
+"start_ref": "18042007",
+"start_ref_usfm": "JOB 42:7",
+"end_ref": "18042007",
+"end_ref_usfm": "JOB 42:7"
+},
+{
+"start_ref": "20003011",
+"start_ref_usfm": "PRO 3:11",
+"end_ref": "20003011",
+"end_ref_usfm": "PRO 3:11"
+},
+{
+"start_ref": "58012007",
+"start_ref_usfm": "HEB 12:7",
+"end_ref": "58012007",
+"end_ref_usfm": "HEB 12:7"
+},
+{
+"start_ref": "58012010",
+"start_ref_usfm": "HEB 12:10",
+"end_ref": "58012010",
+"end_ref_usfm": "HEB 12:10"
+},
+{
+"start_ref": "59005011",
+"start_ref_usfm": "JAS 5:11",
+"end_ref": "59005011",
+"end_ref_usfm": "JAS 5:11"
+},
+{
+"start_ref": "18019025",
+"start_ref_usfm": "JOB 19:25",
+"end_ref": "18019027",
+"end_ref_usfm": "JOB 19:27"
+},
+{
+"start_ref": "20003011",
+"start_ref_usfm": "PRO 3:11",
+"end_ref": "20003012",
+"end_ref_usfm": "PRO 3:12"
+},
+{
+"start_ref": "18005017",
+"start_ref_usfm": "JOB 5:17",
+"end_ref": "18005027",
+"end_ref_usfm": "JOB 5:27"
+},
+{
+"start_ref": "18033015",
+"start_ref_usfm": "JOB 33:15",
+"end_ref": "18033033",
+"end_ref_usfm": "JOB 33:33"
+},
+{
+"start_ref": "18036007",
+"start_ref_usfm": "JOB 36:7",
+"end_ref": "18036017",
+"end_ref_usfm": "JOB 36:17"
+},
+{
+"start_ref": "58012006",
+"start_ref_usfm": "HEB 12:6",
+"end_ref": "58012012",
+"end_ref_usfm": "HEB 12:12"
+},
+{
+"start_ref": "18005017",
+"start_ref_usfm": "JOB 5:17",
+"end_ref": "18005018",
+"end_ref_usfm": "JOB 5:18"
+},
+{
+"start_ref": "18033015",
+"start_ref_usfm": "JOB 33:15",
+"end_ref": "18033028",
+"end_ref_usfm": "JOB 33:28"
+},
+{
+"start_ref": "18036008",
+"start_ref_usfm": "JOB 36:8",
+"end_ref": "18036015",
+"end_ref_usfm": "JOB 36:15"
+}
+],
+"resource": [],
+"acai": []
+}
+}
 ]

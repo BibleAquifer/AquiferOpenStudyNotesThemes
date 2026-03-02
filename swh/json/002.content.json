@@ -1,505 +1,497 @@
 [
-  {
-    "content_id": "765222",
-    "reference_id": 203365,
-    "version": "1.0.2",
-    "title": "\"Atakuja\"",
-    "media_type": "Text",
-    "index_reference": "\"atakuja\"",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p> Yesu aliwaahidi wafuasi wake kwamba angerudi kuwaleta wawe naye milele (<a href=\"https://ref.ly/John14:1-John14:3\">Yohana 14:1–3</a>). Mara tu baada ya Yesu kupaa mbinguni, mitume walipokea ujumbe kwamba angerudi siku moja (<a href=\"https://ref.ly/Acts1:9-Acts1:11\">Matendo 1:9–11</a>). Katika maono yaliyoelezwa katika kitabu cha Ufunuo, Yohana anasikia Yesu akiahidi kurudi tena (<a href=\"https://ref.ly/Rev22:6-Rev22:20\">Ufunuo 22:6–20</a>).</p><p>Ukamilisho wa mwisho wa kila kitu, &quot;Siku ya Bwana&quot; (<a href=\"https://ref.ly/2Thess2:2\">2 Wathesalonike 2:2</a>), utakuja kwa mshangao, &quot;kama mwizi usiku&quot; (<a href=\"https://ref.ly/1Thess5:2\">1 Wathesalonike 5:2</a>). Yesu alisema &quot;ni Baba pekee&quot; anayejua siku hiyo itakapokuwa (<a href=\"https://ref.ly/Matt24:36\">Mathayo 24:36</a>; <a href=\"https://ref.ly/Acts1:6-Acts1:7\">Matendo 1:6–7</a>). Sasa ni wakati wa kuwa na matumaini na kujiamini, si kubahatisha. Wakristo hawapaswi kuweka tarehe na nyakati za mwisho.</p><p>Wakati Biblia inafundisha kuhusu matukio ya baadaye (kile kitakachotokea mwishoni mwa wakati), inatupa mambo mawili muhimu: tumaini wakati wa nyakati ngumu na hekima ya jinsi ya kuishi sasa. Mafundisho ya Biblia kuhusu nyakati za mwisho, pia huitwa eskatolojia (uchunguzi wa kile kitakachotokea baadaye), hutusaidia kuzingatia kuishi kwa uaminifu leo. Badala ya kuwa na wasiwasi kuhusu hasa lini matukio haya yatatokea, tunapaswa kuzingatia jinsi tunavyoishi sasa.</p><p>Mtume Paulo anaelezea matukio kama &quot;uasi&quot; na kuonekana kwa &quot;mtu wa uasi&quot; yatakayotokea kabla ya &quot;Siku ya Bwana&quot; (<a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Wathesalonike 2:1–12</a>). Hata hivyo, yeye haingii katika maelezo ya kina. Badala yake, anawakumbusha wasikilizaji wake kuhusu matukio haya ili kupinga mafundisho ya uongo na kuwatia moyo Wakristo wanaoteseka kwa ajili ya imani (<a href=\"https://ref.ly/2Thess1:3-2Thess1:10\">2 Wathesalonike 1:3–10</a>; <a href=\"https://ref.ly/2Thess2:5\">2:5</a>).</p><p>Kristo atakaporudi, atafanya yafuatayo:</p><ul><li><p>atashinda wapinzani wa habari njema kuhusu Yesu (injili)</p></li><li><p>ataokoa Wakristo wanaoteseka (<a href=\"https://ref.ly/2Thess1:7-2Thess1:10\">2 Wathesalonike 1:7–10</a>)</p></li><li><p>atawakusanya wafuasi wake ili wawe pamoja naye milele (<a href=\"https://ref.ly/1Thess4:13-1Thess4:17\">1 Wathesalonike 4:13–17</a>)</p></li></ul><p>Tukio hili la baadaye linahitaji jibu sasa. Wale wanaokubali habari njema na kuishi kwa ajili ya Mungu wanaweza kuwa na uhakika wa wokovu. Wale wanaomkataa Mungu watapata maangamizi ya milele. Uchaguzi na mwito wa Mungu kwa Wakristo ni tumaini na faraja yao (<a href=\"https://ref.ly/2Thess2:13-2Thess2:14\">2 Wathesalonike 2:13–14</a>). Wanaweza kubaki imara sasa wanapoitazama siku zijazo (<a href=\"https://ref.ly/2Thess2:14-2Thess2:15\">2:14–15</a>). Wana uhakika wa matokeo wakati atakaporudi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt25:1-Matt25:46\">Mathayo 25:1–46</a>; <a href=\"https://ref.ly/Acts1:6-Acts1:7\">Matendo 1:6–7</a>; <a href=\"https://ref.ly/1Thess4:13-1Thess5:11\">1 Wathesalonike 4:13–5:11</a>; <a href=\"https://ref.ly/2Thess1:7-2Thess1:10\">2 Wathesalonike 1:7–10</a>; <a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Wathesalonike 2:1–12</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40024036",
-          "start_ref_usfm": "MAT 24:36",
-          "end_ref": "40024036",
-          "end_ref_usfm": "MAT 24:36"
-        },
-        {
-          "start_ref": "52005002",
-          "start_ref_usfm": "1TH 5:2",
-          "end_ref": "52005002",
-          "end_ref_usfm": "1TH 5:2"
-        },
-        {
-          "start_ref": "53002002",
-          "start_ref_usfm": "2TH 2:2",
-          "end_ref": "53002002",
-          "end_ref_usfm": "2TH 2:2"
-        },
-        {
-          "start_ref": "53002005",
-          "start_ref_usfm": "2TH 2:5",
-          "end_ref": "53002005",
-          "end_ref_usfm": "2TH 2:5"
-        },
-        {
-          "start_ref": "44001009",
-          "start_ref_usfm": "ACT 1:9",
-          "end_ref": "44001011",
-          "end_ref_usfm": "ACT 1:11"
-        },
-        {
-          "start_ref": "52004013",
-          "start_ref_usfm": "1TH 4:13",
-          "end_ref": "52004017",
-          "end_ref_usfm": "1TH 4:17"
-        },
-        {
-          "start_ref": "53002013",
-          "start_ref_usfm": "2TH 2:13",
-          "end_ref": "53002014",
-          "end_ref_usfm": "2TH 2:14"
-        },
-        {
-          "start_ref": "40025001",
-          "start_ref_usfm": "MAT 25:1",
-          "end_ref": "40025046",
-          "end_ref_usfm": "MAT 25:46"
-        },
-        {
-          "start_ref": "43014001",
-          "start_ref_usfm": "JHN 14:1",
-          "end_ref": "43014003",
-          "end_ref_usfm": "JHN 14:3"
-        },
-        {
-          "start_ref": "53002001",
-          "start_ref_usfm": "2TH 2:1",
-          "end_ref": "53002012",
-          "end_ref_usfm": "2TH 2:12"
-        },
-        {
-          "start_ref": "53001003",
-          "start_ref_usfm": "2TH 1:3",
-          "end_ref": "53001010",
-          "end_ref_usfm": "2TH 1:10"
-        },
-        {
-          "start_ref": "52004013",
-          "start_ref_usfm": "1TH 4:13",
-          "end_ref": "52005011",
-          "end_ref_usfm": "1TH 5:11"
-        },
-        {
-          "start_ref": "44001006",
-          "start_ref_usfm": "ACT 1:6",
-          "end_ref": "44001007",
-          "end_ref_usfm": "ACT 1:7"
-        },
-        {
-          "start_ref": "53001007",
-          "start_ref_usfm": "2TH 1:7",
-          "end_ref": "53001010",
-          "end_ref_usfm": "2TH 1:10"
-        },
-        {
-          "start_ref": "66022006",
-          "start_ref_usfm": "REV 22:6",
-          "end_ref": "66022020",
-          "end_ref_usfm": "REV 22:20"
-        },
-        {
-          "start_ref": "53002014",
-          "start_ref_usfm": "2TH 2:14",
-          "end_ref": "53002015",
-          "end_ref_usfm": "2TH 2:15"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "765168",
-    "reference_id": 203311,
-    "version": "1.0.2",
-    "title": "\"Imani\" Katika Injili ya Yohana",
-    "media_type": "Text",
-    "index_reference": "\"imani\" katika injili ya yohana",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Mada ya &quot;imani&quot; ni ya msingi katika injili ya Yohana. Yohana hatumii neno <em>imani</em> inayopatikana mara nyingi katika Agano Jipya (kwa mfano, tazama <a href=\"https://ref.ly/Matt8:8-Matt8:10\">Mathayo 8:8–10</a>; <a href=\"https://ref.ly/Mark11:22\">Marko 11:22</a>; <a href=\"https://ref.ly/Acts20:21\">Matendo 20:21</a>; <a href=\"https://ref.ly/Rom1:17\">Warumi 1:17</a>; <a href=\"https://ref.ly/Rom3:27-Rom3:31\">3:27–31</a>; <a href=\"https://ref.ly/Rom4:3-Rom4:5\">4:3–5</a>; <a href=\"https://ref.ly/Heb11:1-Heb11:39\">Waebrania 11:1–39</a>; <a href=\"https://ref.ly/Jas2:14-Jas2:24\">Yakobo 2:14–24</a>; <a href=\"https://ref.ly/1Pet1:5-1Pet1:7\">1 Petro 1:5–7</a>). Yohana anapendelea kutumia kitenzi <em>amini</em> (&quot;amini&quot; au &quot;kuwa mwaminifu&quot;) kuonyesha kwamba imani siyo tu imani isiyobadilika, bali ni &quot;hai&quot; na inahitaji vitendo. Katika injili ya Yohana, “kuamini” katika Yesu ni alama ya wanafunzi wote wa kweli.</p><p>Kwenye injili ya Yohana, kitenzi kilichotafsiriwa kama &quot;amini&quot; mara nyingi hufuatwa na kihusishi cha Kigiriki <em>eis</em>, ambacho kinamaanisha &quot;ndani ya.&quot; Mchanganyiko huu ni wa kipekee katika matumizi ya Kigiriki cha kale. Kwa Yohana, kuamini au imani siyo tu hali, bali ni uwekezaji kwa Yesu. Imani inamaanisha kukubali Yesu ni nani na anavyodai kuwa.</p><p>Imani pia inahusisha kujitolea kukubali mwaliko wake wa kumtumaini ili kubadilisha jinsi mtu anavyoishi. Imani ni kazi ambayo Mungu anataka kutoka kwetu (<a href=\"https://ref.ly/John6:29\">Yohana 6:29</a>). Tunaonyesha imani kwa kufuata mafundisho ya Yesu, kumpenda, na kutii amri zake (<a href=\"https://ref.ly/John8:31\">Yohana 8:31</a>; <a href=\"https://ref.ly/John15:1-John15:17\">15:1–17</a>; tazama <a href=\"https://ref.ly/1John5:10\">1 Yohana 5:10</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen15:6\">Mwanzo 15:6</a>; <a href=\"https://ref.ly/Isa28:16\">Isaya 28:16</a>; <a href=\"https://ref.ly/Mark1:15\">Marko 1:15</a>; <a href=\"https://ref.ly/Mark9:23-Mark9:24\">Marko 9:23–24</a>; <a href=\"https://ref.ly/John1:12-John1:13\">Yohana 1:12–13</a>; <a href=\"https://ref.ly/John3:10-John3:18\">Yohana 3:10–18</a>; <a href=\"https://ref.ly/John5:24\">Yohana 5:24</a>; <a href=\"https://ref.ly/John6:35-John6:36\">Yohana 6:35–36</a>; <a href=\"https://ref.ly/John7:38\">Yohana 7:38</a>; <a href=\"https://ref.ly/John9:35-John9:38\">Yohana 9:35–38</a>; <a href=\"https://ref.ly/John11:25-John11:27\">Yohana 11:25–27</a>; <a href=\"https://ref.ly/John12:37\">Yohana 12:37</a>; <a href=\"https://ref.ly/John20:25-John20:31\">Yohana 20:25–31</a>; <a href=\"https://ref.ly/Acts10:43\">Matendo 10:43</a>; <a href=\"https://ref.ly/Acts13:39\">Matendo 13:39</a>; <a href=\"https://ref.ly/Rom1:16\">Warumi 1:16</a>; <a href=\"https://ref.ly/Rom10:9-Rom10:10\">Warumi 10:9–10</a>; <a href=\"https://ref.ly/Heb4:3\">Waebrania 4:3</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01015006",
-          "start_ref_usfm": "GEN 15:6",
-          "end_ref": "01015006",
-          "end_ref_usfm": "GEN 15:6"
-        },
-        {
-          "start_ref": "23028016",
-          "start_ref_usfm": "ISA 28:16",
-          "end_ref": "23028016",
-          "end_ref_usfm": "ISA 28:16"
-        },
-        {
-          "start_ref": "41001015",
-          "start_ref_usfm": "MRK 1:15",
-          "end_ref": "41001015",
-          "end_ref_usfm": "MRK 1:15"
-        },
-        {
-          "start_ref": "41011022",
-          "start_ref_usfm": "MRK 11:22",
-          "end_ref": "41011022",
-          "end_ref_usfm": "MRK 11:22"
-        },
-        {
-          "start_ref": "43005024",
-          "start_ref_usfm": "JHN 5:24",
-          "end_ref": "43005024",
-          "end_ref_usfm": "JHN 5:24"
-        },
-        {
-          "start_ref": "43006029",
-          "start_ref_usfm": "JHN 6:29",
-          "end_ref": "43006029",
-          "end_ref_usfm": "JHN 6:29"
-        },
-        {
-          "start_ref": "43007038",
-          "start_ref_usfm": "JHN 7:38",
-          "end_ref": "43007038",
-          "end_ref_usfm": "JHN 7:38"
-        },
-        {
-          "start_ref": "43008031",
-          "start_ref_usfm": "JHN 8:31",
-          "end_ref": "43008031",
-          "end_ref_usfm": "JHN 8:31"
-        },
-        {
-          "start_ref": "43012037",
-          "start_ref_usfm": "JHN 12:37",
-          "end_ref": "43012037",
-          "end_ref_usfm": "JHN 12:37"
-        },
-        {
-          "start_ref": "44010043",
-          "start_ref_usfm": "ACT 10:43",
-          "end_ref": "44010043",
-          "end_ref_usfm": "ACT 10:43"
-        },
-        {
-          "start_ref": "44013039",
-          "start_ref_usfm": "ACT 13:39",
-          "end_ref": "44013039",
-          "end_ref_usfm": "ACT 13:39"
-        },
-        {
-          "start_ref": "44020021",
-          "start_ref_usfm": "ACT 20:21",
-          "end_ref": "44020021",
-          "end_ref_usfm": "ACT 20:21"
-        },
-        {
-          "start_ref": "45001016",
-          "start_ref_usfm": "ROM 1:16",
-          "end_ref": "45001016",
-          "end_ref_usfm": "ROM 1:16"
-        },
-        {
-          "start_ref": "45001017",
-          "start_ref_usfm": "ROM 1:17",
-          "end_ref": "45001017",
-          "end_ref_usfm": "ROM 1:17"
-        },
-        {
-          "start_ref": "58004003",
-          "start_ref_usfm": "HEB 4:3",
-          "end_ref": "58004003",
-          "end_ref_usfm": "HEB 4:3"
-        },
-        {
-          "start_ref": "62005010",
-          "start_ref_usfm": "1JN 5:10",
-          "end_ref": "62005010",
-          "end_ref_usfm": "1JN 5:10"
-        },
-        {
-          "start_ref": "45010009",
-          "start_ref_usfm": "ROM 10:9",
-          "end_ref": "45010010",
-          "end_ref_usfm": "ROM 10:10"
-        },
-        {
-          "start_ref": "43015001",
-          "start_ref_usfm": "JHN 15:1",
-          "end_ref": "43015017",
-          "end_ref_usfm": "JHN 15:17"
-        },
-        {
-          "start_ref": "43009035",
-          "start_ref_usfm": "JHN 9:35",
-          "end_ref": "43009038",
-          "end_ref_usfm": "JHN 9:38"
-        },
-        {
-          "start_ref": "43001012",
-          "start_ref_usfm": "JHN 1:12",
-          "end_ref": "43001013",
-          "end_ref_usfm": "JHN 1:13"
-        },
-        {
-          "start_ref": "40008008",
-          "start_ref_usfm": "MAT 8:8",
-          "end_ref": "40008010",
-          "end_ref_usfm": "MAT 8:10"
-        },
-        {
-          "start_ref": "41009023",
-          "start_ref_usfm": "MRK 9:23",
-          "end_ref": "41009024",
-          "end_ref_usfm": "MRK 9:24"
-        },
-        {
-          "start_ref": "45003027",
-          "start_ref_usfm": "ROM 3:27",
-          "end_ref": "45003031",
-          "end_ref_usfm": "ROM 3:31"
-        },
-        {
-          "start_ref": "45004003",
-          "start_ref_usfm": "ROM 4:3",
-          "end_ref": "45004005",
-          "end_ref_usfm": "ROM 4:5"
-        },
-        {
-          "start_ref": "58011001",
-          "start_ref_usfm": "HEB 11:1",
-          "end_ref": "58011039",
-          "end_ref_usfm": "HEB 11:39"
-        },
-        {
-          "start_ref": "59002014",
-          "start_ref_usfm": "JAS 2:14",
-          "end_ref": "59002024",
-          "end_ref_usfm": "JAS 2:24"
-        },
-        {
-          "start_ref": "60001005",
-          "start_ref_usfm": "1PE 1:5",
-          "end_ref": "60001007",
-          "end_ref_usfm": "1PE 1:7"
-        },
-        {
-          "start_ref": "43003010",
-          "start_ref_usfm": "JHN 3:10",
-          "end_ref": "43003018",
-          "end_ref_usfm": "JHN 3:18"
-        },
-        {
-          "start_ref": "43006035",
-          "start_ref_usfm": "JHN 6:35",
-          "end_ref": "43006036",
-          "end_ref_usfm": "JHN 6:36"
-        },
-        {
-          "start_ref": "43011025",
-          "start_ref_usfm": "JHN 11:25",
-          "end_ref": "43011027",
-          "end_ref_usfm": "JHN 11:27"
-        },
-        {
-          "start_ref": "43020025",
-          "start_ref_usfm": "JHN 20:25",
-          "end_ref": "43020031",
-          "end_ref_usfm": "JHN 20:31"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "765173",
-    "reference_id": 203316,
-    "version": "1.0.2",
-    "title": "\"Maneno ya \"Mimi Ndimi\" ya Yesu\"",
-    "media_type": "Text",
-    "index_reference": "\"maneno ya \"mimi ndimi\" ya yesu\"",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Kwenye Injili ya Yohana, Yesu mara nyingi hutumia kifungu &quot;Mimi ndimi&quot; (kwa Kigiriki, kifungu ni <em>egō eimi</em>). Wakati mwingine, Yesu hutumia kifungu hiki kujieleza. Kwa mfano, Yesu alisema, &quot;Mimi ndimi mkate wa uzima.&quot; Injili ya Yohana ina kauli saba ambapo Yesu anasema &quot;Mimi ndimi&quot; ikifuatiwa na maelezo ya yeye mwenyewe (<a href=\"https://ref.ly/John6:35\">Yohana 6:35</a>; <a href=\"https://ref.ly/John8:12\">8:12</a>; <a href=\"https://ref.ly/John10:9\">10:9</a>, <a href=\"https://ref.ly/John10:11\">11</a>; <a href=\"https://ref.ly/John11:25\">11:25</a>; <a href=\"https://ref.ly/John14:6\">14:6</a>; <a href=\"https://ref.ly/John15:1\">15:1</a>).</p><p>Ni muhimu kutambua kwamba Kigiriki hakihitaji kiwakilishi &quot;mimi&quot; (<em>egō</em>) katika sentensi hizi. Hivyo, kutumia kiwakilishi kunasisitiza utambulisho wa mzungumzaji. Mfano mwingine ni katika Mahubiri ya Mlimani katika injili ya Mathayo. Yesu anasema, &quot;Mmesikia kwamba ilisemwa … lakini <em>mimi</em> [<em>egō</em>] nawaambia&quot; (tazama <a href=\"https://ref.ly/Matt5:22\">Mathayo 5:22</a>, <a href=\"https://ref.ly/Matt5:28\">28</a>, <a href=\"https://ref.ly/Matt5:32\">32</a>, <a href=\"https://ref.ly/Matt5:34\">34</a>, <a href=\"https://ref.ly/Matt5:39\">39</a>, <a href=\"https://ref.ly/Matt5:44\">44</a>, na vifungu vingine). Kujumuisha kiwakilishi cha kibinafsi kunasisitiza tofauti kati ya mafundisho ya Yesu na yale ya Mose. Msemo huu unasisitiza mamlaka ya kipekee ya Yesu.</p><p>Mara nyingine, Yesu alitumia kifungu &quot;Mimi ni&quot; kwa njia isiyo ya kawaida kisarufi, bila chochote kinachofuata. Kwa mfano, Yesu alisema, &quot;Kabla Abrahamu hajazaliwa, Mimi ndmi&quot; (<a href=\"https://ref.ly/John8:58\">Yohana 8:58</a>). <em>Kabla ya Abrahamu, Yesu alikuwa nani?</em> (linganisha <a href=\"https://ref.ly/John8:28\">8:28</a>, <a href=\"https://ref.ly/John8:59\">59</a>; <a href=\"https://ref.ly/John13:19\">13:19</a>).</p><p>Wakati Wayahudi walitafsiri Agano la Kale kwa Kigiriki, katika Kutoka 3:14 jina la Mungu &quot;MIMI NIKO AMBAYE NIKO&quot; likawa egō eimi ho ōn (&quot;Mimi ndimi niliyeko&quot;). Katika maeneo mengine, hasa katika Isaya (43:25; 51:12; 52:6), Agano la Kale la Kigiriki linatumia egō eimi (“mimi ni”) kama njia ya pekee ambayo Mungu anazungumza juu yake mwenyewe. Katika mistari mingine mingi, tafsiri ya Kigiriki inatumia kurios (“Bwana”) kwa ajili ya jina la Mungu. Wayahudi fulani walielewa maneno ya Yesu “mimi ndiye” kuwa madai ya jina la Mungu, kama vile Yohana 8:58, ambapo walijaribu kumpiga kwa mawe. Lakini katika sehemu nyinginezo, kama vile Yohana 8:24 , hawakutenda hivyo na kumwuliza tu, “Wewe ni nani?” Maelezo bora kuhusu usemi huu wa ajabu yanatoka katika Agano la Kale. Wakati Mose alipokutana na Bwana kwenye Mlima Sinai, alitaka kujua jina la Mungu (<a href=\"https://ref.ly/Exod3:6\">Kutoka 3:6</a>, <a href=\"https://ref.ly/Exod3:13-Exod3:14\">13–14</a>). Mungu alimwambia kwamba jina lake ni &quot;YHWH,&quot; herufi nne za Kiebrania zinazoweza kuashiria uwepo. Wakati Wayahudi walipotafsiri Agano la Kale katika Kigiriki, jina hili la Mungu likawa <em>egō eimi</em>, ambalo lina maana ya &quot;Mimi Ndimi&quot; kwa msisitizo. Agano la Kale la Kigiriki (Septuagint) liliendelea kutumia jina hili (tazama <a href=\"https://ref.ly/Isa43:25\">Isaya 43:25</a>; <a href=\"https://ref.ly/Isa51:12\">51:12</a>; <a href=\"https://ref.ly/Isa52:6\">52:6</a>). Mtu yeyote Myahudi anayefahamu Agano la Kale angeelewa Yesu alimaanisha nini kwa kutumia kifungu kinachoashiria jina la Mungu &quot;Mimi Ndimi.&quot;</p><p>Yesu si tu mwakilishi wa Mungu. Kauli za &quot;Mimi Ndimi&quot; zinaonyesha asili ya kiungu ya Yesu, zikionyesha kuwa anaweza kufanya kazi, kuzungumza, na kutenda kwa niaba ya Baba. Yeye si mwanadamu tu; yeye ni Neno<em> </em>la Mungu ambaye alifanyika mwanadamu (<a href=\"https://ref.ly/John1:1\">Yohana 1:1</a>). Sauti yake ni sauti ya Baba, na maisha yake yanafunua maisha ya Mungu katika mwili wa kibinadamu. Usemi &quot;Mimi Ndimi&quot; unaeleza kwa nguvu Yesu ni nani.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/John6:35\">Yohana 6:35</a>, <a href=\"https://ref.ly/John6:48\">48</a>; <a href=\"https://ref.ly/John8:12\">8:12</a>, <a href=\"https://ref.ly/John8:58\">58</a>; <a href=\"https://ref.ly/John9:5\">9:5; </a><a href=\"https://ref.ly/John10:7-John10:14\">10:7–14</a>; <a href=\"https://ref.ly/John11:25\">11:25</a>; <a href=\"https://ref.ly/John14:6\">14:6</a>; <a href=\"https://ref.ly/John15:1\">15:1</a>, <a href=\"https://ref.ly/John15:5\">5</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "02003006",
-          "start_ref_usfm": "EXO 3:6",
-          "end_ref": "02003006",
-          "end_ref_usfm": "EXO 3:6"
-        },
-        {
-          "start_ref": "02003014",
-          "start_ref_usfm": "EXO 3:14",
-          "end_ref": "02003014",
-          "end_ref_usfm": "EXO 3:14"
-        },
-        {
-          "start_ref": "23043025",
-          "start_ref_usfm": "ISA 43:25",
-          "end_ref": "23043025",
-          "end_ref_usfm": "ISA 43:25"
-        },
-        {
-          "start_ref": "23051012",
-          "start_ref_usfm": "ISA 51:12",
-          "end_ref": "23051012",
-          "end_ref_usfm": "ISA 51:12"
-        },
-        {
-          "start_ref": "23052006",
-          "start_ref_usfm": "ISA 52:6",
-          "end_ref": "23052006",
-          "end_ref_usfm": "ISA 52:6"
-        },
-        {
-          "start_ref": "40005022",
-          "start_ref_usfm": "MAT 5:22",
-          "end_ref": "40005022",
-          "end_ref_usfm": "MAT 5:22"
-        },
-        {
-          "start_ref": "40005028",
-          "start_ref_usfm": "MAT 5:28",
-          "end_ref": "40005028",
-          "end_ref_usfm": "MAT 5:28"
-        },
-        {
-          "start_ref": "40005032",
-          "start_ref_usfm": "MAT 5:32",
-          "end_ref": "40005032",
-          "end_ref_usfm": "MAT 5:32"
-        },
-        {
-          "start_ref": "40005034",
-          "start_ref_usfm": "MAT 5:34",
-          "end_ref": "40005034",
-          "end_ref_usfm": "MAT 5:34"
-        },
-        {
-          "start_ref": "40005039",
-          "start_ref_usfm": "MAT 5:39",
-          "end_ref": "40005039",
-          "end_ref_usfm": "MAT 5:39"
-        },
-        {
-          "start_ref": "40005044",
-          "start_ref_usfm": "MAT 5:44",
-          "end_ref": "40005044",
-          "end_ref_usfm": "MAT 5:44"
-        },
-        {
-          "start_ref": "43006035",
-          "start_ref_usfm": "JHN 6:35",
-          "end_ref": "43006035",
-          "end_ref_usfm": "JHN 6:35"
-        },
-        {
-          "start_ref": "43006048",
-          "start_ref_usfm": "JHN 6:48",
-          "end_ref": "43006048",
-          "end_ref_usfm": "JHN 6:48"
-        },
-        {
-          "start_ref": "43008012",
-          "start_ref_usfm": "JHN 8:12",
-          "end_ref": "43008012",
-          "end_ref_usfm": "JHN 8:12"
-        },
-        {
-          "start_ref": "43008028",
-          "start_ref_usfm": "JHN 8:28",
-          "end_ref": "43008028",
-          "end_ref_usfm": "JHN 8:28"
-        },
-        {
-          "start_ref": "43008058",
-          "start_ref_usfm": "JHN 8:58",
-          "end_ref": "43008058",
-          "end_ref_usfm": "JHN 8:58"
-        },
-        {
-          "start_ref": "43008059",
-          "start_ref_usfm": "JHN 8:59",
-          "end_ref": "43008059",
-          "end_ref_usfm": "JHN 8:59"
-        },
-        {
-          "start_ref": "43009005",
-          "start_ref_usfm": "JHN 9:5",
-          "end_ref": "43009005",
-          "end_ref_usfm": "JHN 9:5"
-        },
-        {
-          "start_ref": "43010009",
-          "start_ref_usfm": "JHN 10:9",
-          "end_ref": "43010009",
-          "end_ref_usfm": "JHN 10:9"
-        },
-        {
-          "start_ref": "43010011",
-          "start_ref_usfm": "JHN 10:11",
-          "end_ref": "43010011",
-          "end_ref_usfm": "JHN 10:11"
-        },
-        {
-          "start_ref": "43011025",
-          "start_ref_usfm": "JHN 11:25",
-          "end_ref": "43011025",
-          "end_ref_usfm": "JHN 11:25"
-        },
-        {
-          "start_ref": "43013019",
-          "start_ref_usfm": "JHN 13:19",
-          "end_ref": "43013019",
-          "end_ref_usfm": "JHN 13:19"
-        },
-        {
-          "start_ref": "43014006",
-          "start_ref_usfm": "JHN 14:6",
-          "end_ref": "43014006",
-          "end_ref_usfm": "JHN 14:6"
-        },
-        {
-          "start_ref": "43015001",
-          "start_ref_usfm": "JHN 15:1",
-          "end_ref": "43015001",
-          "end_ref_usfm": "JHN 15:1"
-        },
-        {
-          "start_ref": "43015005",
-          "start_ref_usfm": "JHN 15:5",
-          "end_ref": "43015005",
-          "end_ref_usfm": "JHN 15:5"
-        },
-        {
-          "start_ref": "02003013",
-          "start_ref_usfm": "EXO 3:13",
-          "end_ref": "02003014",
-          "end_ref_usfm": "EXO 3:14"
-        },
-        {
-          "start_ref": "43010007",
-          "start_ref_usfm": "JHN 10:7",
-          "end_ref": "43010014",
-          "end_ref_usfm": "JHN 10:14"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Jesus.2",
-          "type": "person",
-          "preferred_label": "Yesu",
-          "confidence": 0.55,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "765222",
+"reference_id": 203365,
+"version": "1.0.2",
+"title": "\"Atakuja\"",
+"media_type": "Text",
+"index_reference": "\"atakuja\"",
+"language": "swh",
+"review_level": "None",
+"content": "<p> Yesu aliwaahidi wafuasi wake kwamba angerudi kuwaleta wawe naye milele (<a href=\"https://ref.ly/John14:1-John14:3\">Yohana 14:1–3</a>). Mara tu baada ya Yesu kupaa mbinguni, mitume walipokea ujumbe kwamba angerudi siku moja (<a href=\"https://ref.ly/Acts1:9-Acts1:11\">Matendo 1:9–11</a>). Katika maono yaliyoelezwa katika kitabu cha Ufunuo, Yohana anasikia Yesu akiahidi kurudi tena (<a href=\"https://ref.ly/Rev22:6-Rev22:20\">Ufunuo 22:6–20</a>).</p><p>Ukamilisho wa mwisho wa kila kitu, &quot;Siku ya Bwana&quot; (<a href=\"https://ref.ly/2Thess2:2\">2 Wathesalonike 2:2</a>), utakuja kwa mshangao, &quot;kama mwizi usiku&quot; (<a href=\"https://ref.ly/1Thess5:2\">1 Wathesalonike 5:2</a>). Yesu alisema &quot;ni Baba pekee&quot; anayejua siku hiyo itakapokuwa (<a href=\"https://ref.ly/Matt24:36\">Mathayo 24:36</a>; <a href=\"https://ref.ly/Acts1:6-Acts1:7\">Matendo 1:6–7</a>). Sasa ni wakati wa kuwa na matumaini na kujiamini, si kubahatisha. Wakristo hawapaswi kuweka tarehe na nyakati za mwisho.</p><p>Wakati Biblia inafundisha kuhusu matukio ya baadaye (kile kitakachotokea mwishoni mwa wakati), inatupa mambo mawili muhimu: tumaini wakati wa nyakati ngumu na hekima ya jinsi ya kuishi sasa. Mafundisho ya Biblia kuhusu nyakati za mwisho, pia huitwa eskatolojia (uchunguzi wa kile kitakachotokea baadaye), hutusaidia kuzingatia kuishi kwa uaminifu leo. Badala ya kuwa na wasiwasi kuhusu hasa lini matukio haya yatatokea, tunapaswa kuzingatia jinsi tunavyoishi sasa.</p><p>Mtume Paulo anaelezea matukio kama &quot;uasi&quot; na kuonekana kwa &quot;mtu wa uasi&quot; yatakayotokea kabla ya &quot;Siku ya Bwana&quot; (<a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Wathesalonike 2:1–12</a>). Hata hivyo, yeye haingii katika maelezo ya kina. Badala yake, anawakumbusha wasikilizaji wake kuhusu matukio haya ili kupinga mafundisho ya uongo na kuwatia moyo Wakristo wanaoteseka kwa ajili ya imani (<a href=\"https://ref.ly/2Thess1:3-2Thess1:10\">2 Wathesalonike 1:3–10</a>; <a href=\"https://ref.ly/2Thess2:5\">2:5</a>).</p><p>Kristo atakaporudi, atafanya yafuatayo:</p><ul><li><p>atashinda wapinzani wa habari njema kuhusu Yesu (injili)</p></li><li><p>ataokoa Wakristo wanaoteseka (<a href=\"https://ref.ly/2Thess1:7-2Thess1:10\">2 Wathesalonike 1:7–10</a>)</p></li><li><p>atawakusanya wafuasi wake ili wawe pamoja naye milele (<a href=\"https://ref.ly/1Thess4:13-1Thess4:17\">1 Wathesalonike 4:13–17</a>)</p></li></ul><p>Tukio hili la baadaye linahitaji jibu sasa. Wale wanaokubali habari njema na kuishi kwa ajili ya Mungu wanaweza kuwa na uhakika wa wokovu. Wale wanaomkataa Mungu watapata maangamizi ya milele. Uchaguzi na mwito wa Mungu kwa Wakristo ni tumaini na faraja yao (<a href=\"https://ref.ly/2Thess2:13-2Thess2:14\">2 Wathesalonike 2:13–14</a>). Wanaweza kubaki imara sasa wanapoitazama siku zijazo (<a href=\"https://ref.ly/2Thess2:14-2Thess2:15\">2:14–15</a>). Wana uhakika wa matokeo wakati atakaporudi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt25:1-Matt25:46\">Mathayo 25:1–46</a>; <a href=\"https://ref.ly/Acts1:6-Acts1:7\">Matendo 1:6–7</a>; <a href=\"https://ref.ly/1Thess4:13-1Thess5:11\">1 Wathesalonike 4:13–5:11</a>; <a href=\"https://ref.ly/2Thess1:7-2Thess1:10\">2 Wathesalonike 1:7–10</a>; <a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">2 Wathesalonike 2:1–12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40024036",
+"start_ref_usfm": "MAT 24:36",
+"end_ref": "40024036",
+"end_ref_usfm": "MAT 24:36"
+},
+{
+"start_ref": "52005002",
+"start_ref_usfm": "1TH 5:2",
+"end_ref": "52005002",
+"end_ref_usfm": "1TH 5:2"
+},
+{
+"start_ref": "53002002",
+"start_ref_usfm": "2TH 2:2",
+"end_ref": "53002002",
+"end_ref_usfm": "2TH 2:2"
+},
+{
+"start_ref": "53002005",
+"start_ref_usfm": "2TH 2:5",
+"end_ref": "53002005",
+"end_ref_usfm": "2TH 2:5"
+},
+{
+"start_ref": "44001009",
+"start_ref_usfm": "ACT 1:9",
+"end_ref": "44001011",
+"end_ref_usfm": "ACT 1:11"
+},
+{
+"start_ref": "52004013",
+"start_ref_usfm": "1TH 4:13",
+"end_ref": "52004017",
+"end_ref_usfm": "1TH 4:17"
+},
+{
+"start_ref": "53002013",
+"start_ref_usfm": "2TH 2:13",
+"end_ref": "53002014",
+"end_ref_usfm": "2TH 2:14"
+},
+{
+"start_ref": "40025001",
+"start_ref_usfm": "MAT 25:1",
+"end_ref": "40025046",
+"end_ref_usfm": "MAT 25:46"
+},
+{
+"start_ref": "43014001",
+"start_ref_usfm": "JHN 14:1",
+"end_ref": "43014003",
+"end_ref_usfm": "JHN 14:3"
+},
+{
+"start_ref": "53002001",
+"start_ref_usfm": "2TH 2:1",
+"end_ref": "53002012",
+"end_ref_usfm": "2TH 2:12"
+},
+{
+"start_ref": "53001003",
+"start_ref_usfm": "2TH 1:3",
+"end_ref": "53001010",
+"end_ref_usfm": "2TH 1:10"
+},
+{
+"start_ref": "52004013",
+"start_ref_usfm": "1TH 4:13",
+"end_ref": "52005011",
+"end_ref_usfm": "1TH 5:11"
+},
+{
+"start_ref": "44001006",
+"start_ref_usfm": "ACT 1:6",
+"end_ref": "44001007",
+"end_ref_usfm": "ACT 1:7"
+},
+{
+"start_ref": "53001007",
+"start_ref_usfm": "2TH 1:7",
+"end_ref": "53001010",
+"end_ref_usfm": "2TH 1:10"
+},
+{
+"start_ref": "66022006",
+"start_ref_usfm": "REV 22:6",
+"end_ref": "66022020",
+"end_ref_usfm": "REV 22:20"
+},
+{
+"start_ref": "53002014",
+"start_ref_usfm": "2TH 2:14",
+"end_ref": "53002015",
+"end_ref_usfm": "2TH 2:15"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "765168",
+"reference_id": 203311,
+"version": "1.0.2",
+"title": "\"Imani\" Katika Injili ya Yohana",
+"media_type": "Text",
+"index_reference": "\"imani\" katika injili ya yohana",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Mada ya &quot;imani&quot; ni ya msingi katika injili ya Yohana. Yohana hatumii neno <em>imani</em> inayopatikana mara nyingi katika Agano Jipya (kwa mfano, tazama <a href=\"https://ref.ly/Matt8:8-Matt8:10\">Mathayo 8:8–10</a>; <a href=\"https://ref.ly/Mark11:22\">Marko 11:22</a>; <a href=\"https://ref.ly/Acts20:21\">Matendo 20:21</a>; <a href=\"https://ref.ly/Rom1:17\">Warumi 1:17</a>; <a href=\"https://ref.ly/Rom3:27-Rom3:31\">3:27–31</a>; <a href=\"https://ref.ly/Rom4:3-Rom4:5\">4:3–5</a>; <a href=\"https://ref.ly/Heb11:1-Heb11:39\">Waebrania 11:1–39</a>; <a href=\"https://ref.ly/Jas2:14-Jas2:24\">Yakobo 2:14–24</a>; <a href=\"https://ref.ly/1Pet1:5-1Pet1:7\">1 Petro 1:5–7</a>). Yohana anapendelea kutumia kitenzi <em>amini</em> (&quot;amini&quot; au &quot;kuwa mwaminifu&quot;) kuonyesha kwamba imani siyo tu imani isiyobadilika, bali ni &quot;hai&quot; na inahitaji vitendo. Katika injili ya Yohana, “kuamini” katika Yesu ni alama ya wanafunzi wote wa kweli.</p><p>Kwenye injili ya Yohana, kitenzi kilichotafsiriwa kama &quot;amini&quot; mara nyingi hufuatwa na kihusishi cha Kigiriki <em>eis</em>, ambacho kinamaanisha &quot;ndani ya.&quot; Mchanganyiko huu ni wa kipekee katika matumizi ya Kigiriki cha kale. Kwa Yohana, kuamini au imani siyo tu hali, bali ni uwekezaji kwa Yesu. Imani inamaanisha kukubali Yesu ni nani na anavyodai kuwa.</p><p>Imani pia inahusisha kujitolea kukubali mwaliko wake wa kumtumaini ili kubadilisha jinsi mtu anavyoishi. Imani ni kazi ambayo Mungu anataka kutoka kwetu (<a href=\"https://ref.ly/John6:29\">Yohana 6:29</a>). Tunaonyesha imani kwa kufuata mafundisho ya Yesu, kumpenda, na kutii amri zake (<a href=\"https://ref.ly/John8:31\">Yohana 8:31</a>; <a href=\"https://ref.ly/John15:1-John15:17\">15:1–17</a>; tazama <a href=\"https://ref.ly/1John5:10\">1 Yohana 5:10</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen15:6\">Mwanzo 15:6</a>; <a href=\"https://ref.ly/Isa28:16\">Isaya 28:16</a>; <a href=\"https://ref.ly/Mark1:15\">Marko 1:15</a>; <a href=\"https://ref.ly/Mark9:23-Mark9:24\">Marko 9:23–24</a>; <a href=\"https://ref.ly/John1:12-John1:13\">Yohana 1:12–13</a>; <a href=\"https://ref.ly/John3:10-John3:18\">Yohana 3:10–18</a>; <a href=\"https://ref.ly/John5:24\">Yohana 5:24</a>; <a href=\"https://ref.ly/John6:35-John6:36\">Yohana 6:35–36</a>; <a href=\"https://ref.ly/John7:38\">Yohana 7:38</a>; <a href=\"https://ref.ly/John9:35-John9:38\">Yohana 9:35–38</a>; <a href=\"https://ref.ly/John11:25-John11:27\">Yohana 11:25–27</a>; <a href=\"https://ref.ly/John12:37\">Yohana 12:37</a>; <a href=\"https://ref.ly/John20:25-John20:31\">Yohana 20:25–31</a>; <a href=\"https://ref.ly/Acts10:43\">Matendo 10:43</a>; <a href=\"https://ref.ly/Acts13:39\">Matendo 13:39</a>; <a href=\"https://ref.ly/Rom1:16\">Warumi 1:16</a>; <a href=\"https://ref.ly/Rom10:9-Rom10:10\">Warumi 10:9–10</a>; <a href=\"https://ref.ly/Heb4:3\">Waebrania 4:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01015006",
+"start_ref_usfm": "GEN 15:6",
+"end_ref": "01015006",
+"end_ref_usfm": "GEN 15:6"
+},
+{
+"start_ref": "23028016",
+"start_ref_usfm": "ISA 28:16",
+"end_ref": "23028016",
+"end_ref_usfm": "ISA 28:16"
+},
+{
+"start_ref": "41001015",
+"start_ref_usfm": "MRK 1:15",
+"end_ref": "41001015",
+"end_ref_usfm": "MRK 1:15"
+},
+{
+"start_ref": "41011022",
+"start_ref_usfm": "MRK 11:22",
+"end_ref": "41011022",
+"end_ref_usfm": "MRK 11:22"
+},
+{
+"start_ref": "43005024",
+"start_ref_usfm": "JHN 5:24",
+"end_ref": "43005024",
+"end_ref_usfm": "JHN 5:24"
+},
+{
+"start_ref": "43006029",
+"start_ref_usfm": "JHN 6:29",
+"end_ref": "43006029",
+"end_ref_usfm": "JHN 6:29"
+},
+{
+"start_ref": "43007038",
+"start_ref_usfm": "JHN 7:38",
+"end_ref": "43007038",
+"end_ref_usfm": "JHN 7:38"
+},
+{
+"start_ref": "43008031",
+"start_ref_usfm": "JHN 8:31",
+"end_ref": "43008031",
+"end_ref_usfm": "JHN 8:31"
+},
+{
+"start_ref": "43012037",
+"start_ref_usfm": "JHN 12:37",
+"end_ref": "43012037",
+"end_ref_usfm": "JHN 12:37"
+},
+{
+"start_ref": "44010043",
+"start_ref_usfm": "ACT 10:43",
+"end_ref": "44010043",
+"end_ref_usfm": "ACT 10:43"
+},
+{
+"start_ref": "44013039",
+"start_ref_usfm": "ACT 13:39",
+"end_ref": "44013039",
+"end_ref_usfm": "ACT 13:39"
+},
+{
+"start_ref": "44020021",
+"start_ref_usfm": "ACT 20:21",
+"end_ref": "44020021",
+"end_ref_usfm": "ACT 20:21"
+},
+{
+"start_ref": "45001016",
+"start_ref_usfm": "ROM 1:16",
+"end_ref": "45001016",
+"end_ref_usfm": "ROM 1:16"
+},
+{
+"start_ref": "45001017",
+"start_ref_usfm": "ROM 1:17",
+"end_ref": "45001017",
+"end_ref_usfm": "ROM 1:17"
+},
+{
+"start_ref": "58004003",
+"start_ref_usfm": "HEB 4:3",
+"end_ref": "58004003",
+"end_ref_usfm": "HEB 4:3"
+},
+{
+"start_ref": "62005010",
+"start_ref_usfm": "1JN 5:10",
+"end_ref": "62005010",
+"end_ref_usfm": "1JN 5:10"
+},
+{
+"start_ref": "45010009",
+"start_ref_usfm": "ROM 10:9",
+"end_ref": "45010010",
+"end_ref_usfm": "ROM 10:10"
+},
+{
+"start_ref": "43015001",
+"start_ref_usfm": "JHN 15:1",
+"end_ref": "43015017",
+"end_ref_usfm": "JHN 15:17"
+},
+{
+"start_ref": "43009035",
+"start_ref_usfm": "JHN 9:35",
+"end_ref": "43009038",
+"end_ref_usfm": "JHN 9:38"
+},
+{
+"start_ref": "43001012",
+"start_ref_usfm": "JHN 1:12",
+"end_ref": "43001013",
+"end_ref_usfm": "JHN 1:13"
+},
+{
+"start_ref": "40008008",
+"start_ref_usfm": "MAT 8:8",
+"end_ref": "40008010",
+"end_ref_usfm": "MAT 8:10"
+},
+{
+"start_ref": "41009023",
+"start_ref_usfm": "MRK 9:23",
+"end_ref": "41009024",
+"end_ref_usfm": "MRK 9:24"
+},
+{
+"start_ref": "45003027",
+"start_ref_usfm": "ROM 3:27",
+"end_ref": "45003031",
+"end_ref_usfm": "ROM 3:31"
+},
+{
+"start_ref": "45004003",
+"start_ref_usfm": "ROM 4:3",
+"end_ref": "45004005",
+"end_ref_usfm": "ROM 4:5"
+},
+{
+"start_ref": "58011001",
+"start_ref_usfm": "HEB 11:1",
+"end_ref": "58011039",
+"end_ref_usfm": "HEB 11:39"
+},
+{
+"start_ref": "59002014",
+"start_ref_usfm": "JAS 2:14",
+"end_ref": "59002024",
+"end_ref_usfm": "JAS 2:24"
+},
+{
+"start_ref": "60001005",
+"start_ref_usfm": "1PE 1:5",
+"end_ref": "60001007",
+"end_ref_usfm": "1PE 1:7"
+},
+{
+"start_ref": "43003010",
+"start_ref_usfm": "JHN 3:10",
+"end_ref": "43003018",
+"end_ref_usfm": "JHN 3:18"
+},
+{
+"start_ref": "43006035",
+"start_ref_usfm": "JHN 6:35",
+"end_ref": "43006036",
+"end_ref_usfm": "JHN 6:36"
+},
+{
+"start_ref": "43011025",
+"start_ref_usfm": "JHN 11:25",
+"end_ref": "43011027",
+"end_ref_usfm": "JHN 11:27"
+},
+{
+"start_ref": "43020025",
+"start_ref_usfm": "JHN 20:25",
+"end_ref": "43020031",
+"end_ref_usfm": "JHN 20:31"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "765173",
+"reference_id": 203316,
+"version": "1.0.2",
+"title": "\"Maneno ya \"Mimi Ndimi\" ya Yesu\"",
+"media_type": "Text",
+"index_reference": "\"maneno ya \"mimi ndimi\" ya yesu\"",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Kwenye Injili ya Yohana, Yesu mara nyingi hutumia kifungu &quot;Mimi ndimi&quot; (kwa Kigiriki, kifungu ni <em>egō eimi</em>). Wakati mwingine, Yesu hutumia kifungu hiki kujieleza. Kwa mfano, Yesu alisema, &quot;Mimi ndimi mkate wa uzima.&quot; Injili ya Yohana ina kauli saba ambapo Yesu anasema &quot;Mimi ndimi&quot; ikifuatiwa na maelezo ya yeye mwenyewe (<a href=\"https://ref.ly/John6:35\">Yohana 6:35</a>; <a href=\"https://ref.ly/John8:12\">8:12</a>; <a href=\"https://ref.ly/John10:9\">10:9</a>, <a href=\"https://ref.ly/John10:11\">11</a>; <a href=\"https://ref.ly/John11:25\">11:25</a>; <a href=\"https://ref.ly/John14:6\">14:6</a>; <a href=\"https://ref.ly/John15:1\">15:1</a>).</p><p>Ni muhimu kutambua kwamba Kigiriki hakihitaji kiwakilishi &quot;mimi&quot; (<em>egō</em>) katika sentensi hizi. Hivyo, kutumia kiwakilishi kunasisitiza utambulisho wa mzungumzaji. Mfano mwingine ni katika Mahubiri ya Mlimani katika injili ya Mathayo. Yesu anasema, &quot;Mmesikia kwamba ilisemwa … lakini <em>mimi</em> [<em>egō</em>] nawaambia&quot; (tazama <a href=\"https://ref.ly/Matt5:22\">Mathayo 5:22</a>, <a href=\"https://ref.ly/Matt5:28\">28</a>, <a href=\"https://ref.ly/Matt5:32\">32</a>, <a href=\"https://ref.ly/Matt5:34\">34</a>, <a href=\"https://ref.ly/Matt5:39\">39</a>, <a href=\"https://ref.ly/Matt5:44\">44</a>, na vifungu vingine). Kujumuisha kiwakilishi cha kibinafsi kunasisitiza tofauti kati ya mafundisho ya Yesu na yale ya Mose. Msemo huu unasisitiza mamlaka ya kipekee ya Yesu.</p><p>Mara nyingine, Yesu alitumia kifungu &quot;Mimi ni&quot; kwa njia isiyo ya kawaida kisarufi, bila chochote kinachofuata. Kwa mfano, Yesu alisema, &quot;Kabla Abrahamu hajazaliwa, Mimi ndmi&quot; (<a href=\"https://ref.ly/John8:58\">Yohana 8:58</a>). <em>Kabla ya Abrahamu, Yesu alikuwa nani?</em> (linganisha <a href=\"https://ref.ly/John8:28\">8:28</a>, <a href=\"https://ref.ly/John8:59\">59</a>; <a href=\"https://ref.ly/John13:19\">13:19</a>).</p><p>Wakati Wayahudi walitafsiri Agano la Kale kwa Kigiriki, katika Kutoka 3:14 jina la Mungu &quot;MIMI NIKO AMBAYE NIKO&quot; likawa egō eimi ho ōn (&quot;Mimi ndimi niliyeko&quot;). Katika maeneo mengine, hasa katika Isaya (43:25; 51:12; 52:6), Agano la Kale la Kigiriki linatumia egō eimi (“mimi ni”) kama njia ya pekee ambayo Mungu anazungumza juu yake mwenyewe. Katika mistari mingine mingi, tafsiri ya Kigiriki inatumia kurios (“Bwana”) kwa ajili ya jina la Mungu. Wayahudi fulani walielewa maneno ya Yesu “mimi ndiye” kuwa madai ya jina la Mungu, kama vile Yohana 8:58, ambapo walijaribu kumpiga kwa mawe. Lakini katika sehemu nyinginezo, kama vile Yohana 8:24 , hawakutenda hivyo na kumwuliza tu, “Wewe ni nani?” Maelezo bora kuhusu usemi huu wa ajabu yanatoka katika Agano la Kale. Wakati Mose alipokutana na Bwana kwenye Mlima Sinai, alitaka kujua jina la Mungu (<a href=\"https://ref.ly/Exod3:6\">Kutoka 3:6</a>, <a href=\"https://ref.ly/Exod3:13-Exod3:14\">13–14</a>). Mungu alimwambia kwamba jina lake ni &quot;YHWH,&quot; herufi nne za Kiebrania zinazoweza kuashiria uwepo. Wakati Wayahudi walipotafsiri Agano la Kale katika Kigiriki, jina hili la Mungu likawa <em>egō eimi</em>, ambalo lina maana ya &quot;Mimi Ndimi&quot; kwa msisitizo. Agano la Kale la Kigiriki (Septuagint) liliendelea kutumia jina hili (tazama <a href=\"https://ref.ly/Isa43:25\">Isaya 43:25</a>; <a href=\"https://ref.ly/Isa51:12\">51:12</a>; <a href=\"https://ref.ly/Isa52:6\">52:6</a>). Mtu yeyote Myahudi anayefahamu Agano la Kale angeelewa Yesu alimaanisha nini kwa kutumia kifungu kinachoashiria jina la Mungu &quot;Mimi Ndimi.&quot;</p><p>Yesu si tu mwakilishi wa Mungu. Kauli za &quot;Mimi Ndimi&quot; zinaonyesha asili ya kiungu ya Yesu, zikionyesha kuwa anaweza kufanya kazi, kuzungumza, na kutenda kwa niaba ya Baba. Yeye si mwanadamu tu; yeye ni Neno<em> </em>la Mungu ambaye alifanyika mwanadamu (<a href=\"https://ref.ly/John1:1\">Yohana 1:1</a>). Sauti yake ni sauti ya Baba, na maisha yake yanafunua maisha ya Mungu katika mwili wa kibinadamu. Usemi &quot;Mimi Ndimi&quot; unaeleza kwa nguvu Yesu ni nani.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/John6:35\">Yohana 6:35</a>, <a href=\"https://ref.ly/John6:48\">48</a>; <a href=\"https://ref.ly/John8:12\">8:12</a>, <a href=\"https://ref.ly/John8:58\">58</a>; <a href=\"https://ref.ly/John9:5\">9:5; </a><a href=\"https://ref.ly/John10:7-John10:14\">10:7–14</a>; <a href=\"https://ref.ly/John11:25\">11:25</a>; <a href=\"https://ref.ly/John14:6\">14:6</a>; <a href=\"https://ref.ly/John15:1\">15:1</a>, <a href=\"https://ref.ly/John15:5\">5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02003006",
+"start_ref_usfm": "EXO 3:6",
+"end_ref": "02003006",
+"end_ref_usfm": "EXO 3:6"
+},
+{
+"start_ref": "02003014",
+"start_ref_usfm": "EXO 3:14",
+"end_ref": "02003014",
+"end_ref_usfm": "EXO 3:14"
+},
+{
+"start_ref": "23043025",
+"start_ref_usfm": "ISA 43:25",
+"end_ref": "23043025",
+"end_ref_usfm": "ISA 43:25"
+},
+{
+"start_ref": "23051012",
+"start_ref_usfm": "ISA 51:12",
+"end_ref": "23051012",
+"end_ref_usfm": "ISA 51:12"
+},
+{
+"start_ref": "23052006",
+"start_ref_usfm": "ISA 52:6",
+"end_ref": "23052006",
+"end_ref_usfm": "ISA 52:6"
+},
+{
+"start_ref": "40005022",
+"start_ref_usfm": "MAT 5:22",
+"end_ref": "40005022",
+"end_ref_usfm": "MAT 5:22"
+},
+{
+"start_ref": "40005028",
+"start_ref_usfm": "MAT 5:28",
+"end_ref": "40005028",
+"end_ref_usfm": "MAT 5:28"
+},
+{
+"start_ref": "40005032",
+"start_ref_usfm": "MAT 5:32",
+"end_ref": "40005032",
+"end_ref_usfm": "MAT 5:32"
+},
+{
+"start_ref": "40005034",
+"start_ref_usfm": "MAT 5:34",
+"end_ref": "40005034",
+"end_ref_usfm": "MAT 5:34"
+},
+{
+"start_ref": "40005039",
+"start_ref_usfm": "MAT 5:39",
+"end_ref": "40005039",
+"end_ref_usfm": "MAT 5:39"
+},
+{
+"start_ref": "40005044",
+"start_ref_usfm": "MAT 5:44",
+"end_ref": "40005044",
+"end_ref_usfm": "MAT 5:44"
+},
+{
+"start_ref": "43006035",
+"start_ref_usfm": "JHN 6:35",
+"end_ref": "43006035",
+"end_ref_usfm": "JHN 6:35"
+},
+{
+"start_ref": "43006048",
+"start_ref_usfm": "JHN 6:48",
+"end_ref": "43006048",
+"end_ref_usfm": "JHN 6:48"
+},
+{
+"start_ref": "43008012",
+"start_ref_usfm": "JHN 8:12",
+"end_ref": "43008012",
+"end_ref_usfm": "JHN 8:12"
+},
+{
+"start_ref": "43008028",
+"start_ref_usfm": "JHN 8:28",
+"end_ref": "43008028",
+"end_ref_usfm": "JHN 8:28"
+},
+{
+"start_ref": "43008058",
+"start_ref_usfm": "JHN 8:58",
+"end_ref": "43008058",
+"end_ref_usfm": "JHN 8:58"
+},
+{
+"start_ref": "43008059",
+"start_ref_usfm": "JHN 8:59",
+"end_ref": "43008059",
+"end_ref_usfm": "JHN 8:59"
+},
+{
+"start_ref": "43009005",
+"start_ref_usfm": "JHN 9:5",
+"end_ref": "43009005",
+"end_ref_usfm": "JHN 9:5"
+},
+{
+"start_ref": "43010009",
+"start_ref_usfm": "JHN 10:9",
+"end_ref": "43010009",
+"end_ref_usfm": "JHN 10:9"
+},
+{
+"start_ref": "43010011",
+"start_ref_usfm": "JHN 10:11",
+"end_ref": "43010011",
+"end_ref_usfm": "JHN 10:11"
+},
+{
+"start_ref": "43011025",
+"start_ref_usfm": "JHN 11:25",
+"end_ref": "43011025",
+"end_ref_usfm": "JHN 11:25"
+},
+{
+"start_ref": "43013019",
+"start_ref_usfm": "JHN 13:19",
+"end_ref": "43013019",
+"end_ref_usfm": "JHN 13:19"
+},
+{
+"start_ref": "43014006",
+"start_ref_usfm": "JHN 14:6",
+"end_ref": "43014006",
+"end_ref_usfm": "JHN 14:6"
+},
+{
+"start_ref": "43015001",
+"start_ref_usfm": "JHN 15:1",
+"end_ref": "43015001",
+"end_ref_usfm": "JHN 15:1"
+},
+{
+"start_ref": "43015005",
+"start_ref_usfm": "JHN 15:5",
+"end_ref": "43015005",
+"end_ref_usfm": "JHN 15:5"
+},
+{
+"start_ref": "02003013",
+"start_ref_usfm": "EXO 3:13",
+"end_ref": "02003014",
+"end_ref_usfm": "EXO 3:14"
+},
+{
+"start_ref": "43010007",
+"start_ref_usfm": "JHN 10:7",
+"end_ref": "43010014",
+"end_ref_usfm": "JHN 10:14"
+}
+],
+"resource": [],
+"acai": []
+}
+}
 ]

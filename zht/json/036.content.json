@@ -1,1722 +1,1722 @@
 [
-  {
-    "content_id": "700308",
-    "reference_id": 203245,
-    "version": "1.0.2",
-    "title": "基本律法",
-    "media_type": "Text",
-    "index_reference": "基本律法",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>在聖經中，獨一的真神是至高的權柄。神的律法包括正面與負面的命令。兩條主要的律法總結了所有正面的命令：</p><ul><li><p>「你要盡心、盡性、盡力愛耶和華－你的神」（<a href=\"https://ref.ly/Deut6:5\">申6:5</a>；<a href=\"https://ref.ly/Matt22:37\">太22:37</a>；<a href=\"https://ref.ly/Mark12:30\">可12:30</a>；<a href=\"https://ref.ly/Luke10:27\">路10:27</a>）。</p></li><li><p>「要愛人如己」（<a href=\"https://ref.ly/Lev19:18\">利19:18</a>；<a href=\"https://ref.ly/Matt19:19\">太19:19</a>；<a href=\"https://ref.ly/Mark12:31\">可12:31</a>；<a href=\"https://ref.ly/Luke10:27\">路10:27</a>）。</p></li></ul><p>我們可以在十誡中的正面命令裡看到這兩條律法的具體展現（<a href=\"https://ref.ly/Exod20:2-Exod20:17\">出20:2–17</a>；<a href=\"https://ref.ly/Deut5:6-Deut5:21\">申5:6–21</a>）：</p><ul><li><p>「當記念安息日」</p></li><li><p>「當孝敬父母」</p></li></ul><p>另一方面，負面的命令則劃分了善與惡之間的界線。十誡中的頭兩條是關鍵：</p><ul><li><p>「除了我以外，你不可有別的神」（<a href=\"https://ref.ly/Exod20:3\">出20:3</a>）。</p></li><li><p>「不可為自己雕刻偶像……不可跪拜那些像，也不可事奉它」（<a href=\"https://ref.ly/Exod20:4-Exod20:5\">出20:4–5</a>）。</p></li></ul><p>這些被禁止的行為違背了愛神的根本命令。</p><p>先知書顯明，神根據這些律法審判以色列人的行為。無論是哪個時代、哪個地方的君王、群體或個人，神也都會按照同樣的標準審判他們。違背這些核心誡命的人，就是拒絕獨一的真神。他們最終必將面對神的審判，並承受罪人當受的災難。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Exod20:2-Exod20:17\">出20:2–17；</a><a href=\"https://ref.ly/Lev19:18\">利19:18；</a><a href=\"https://ref.ly/Deut5:6-Deut5:21\">申5:6–21</a>，<a href=\"https://ref.ly/Deut6:5\">6:5；</a><a href=\"https://ref.ly/Jer2:7-Jer2:13\">耶2:7–13</a>，<a href=\"https://ref.ly/Jer3:8-Jer3:11\">3:8–11</a>，<a href=\"https://ref.ly/Jer5:1-Jer5:9\">5:1–9</a>，<a href=\"https://ref.ly/Jer6:10-Jer6:21\">6:10–21</a>，<a href=\"https://ref.ly/Jer7:16-Jer7:29\">7:16–29</a>，<a href=\"https://ref.ly/Jer8:9-Jer8:13\">8:9–13</a>，<a href=\"https://ref.ly/Jer11:6-Jer11:14\">11:6–14</a>，<a href=\"https://ref.ly/Jer17:1-Jer17:4\">17:1–4</a>，<a href=\"https://ref.ly/Jer22:1-Jer22:9\">22:1–9</a>，<a href=\"https://ref.ly/Jer23:10-Jer23:12\">23:10–12</a>，<a href=\"https://ref.ly/Jer34:8-Jer34:20\">34:8–20；</a><a href=\"https://ref.ly/Matt19:19\">太19:19</a>，<a href=\"https://ref.ly/Matt22:37\">22:37；</a><a href=\"https://ref.ly/Mark12:30-Mark12:31\">可12:30–31；</a><a href=\"https://ref.ly/Luke10:27\">路10:27；</a><a href=\"https://ref.ly/1Cor13:13\">林前13:13</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "02020003",
-          "start_ref_usfm": "EXO 20:3",
-          "end_ref": "02020003",
-          "end_ref_usfm": "EXO 20:3"
-        },
-        {
-          "start_ref": "03019018",
-          "start_ref_usfm": "LEV 19:18",
-          "end_ref": "03019018",
-          "end_ref_usfm": "LEV 19:18"
-        },
-        {
-          "start_ref": "05006005",
-          "start_ref_usfm": "DEU 6:5",
-          "end_ref": "05006005",
-          "end_ref_usfm": "DEU 6:5"
-        },
-        {
-          "start_ref": "40019019",
-          "start_ref_usfm": "MAT 19:19",
-          "end_ref": "40019019",
-          "end_ref_usfm": "MAT 19:19"
-        },
-        {
-          "start_ref": "40022037",
-          "start_ref_usfm": "MAT 22:37",
-          "end_ref": "40022037",
-          "end_ref_usfm": "MAT 22:37"
-        },
-        {
-          "start_ref": "41012030",
-          "start_ref_usfm": "MRK 12:30",
-          "end_ref": "41012030",
-          "end_ref_usfm": "MRK 12:30"
-        },
-        {
-          "start_ref": "41012031",
-          "start_ref_usfm": "MRK 12:31",
-          "end_ref": "41012031",
-          "end_ref_usfm": "MRK 12:31"
-        },
-        {
-          "start_ref": "42010027",
-          "start_ref_usfm": "LUK 10:27",
-          "end_ref": "42010027",
-          "end_ref_usfm": "LUK 10:27"
-        },
-        {
-          "start_ref": "46013013",
-          "start_ref_usfm": "1CO 13:13",
-          "end_ref": "46013013",
-          "end_ref_usfm": "1CO 13:13"
-        },
-        {
-          "start_ref": "02020002",
-          "start_ref_usfm": "EXO 20:2",
-          "end_ref": "02020017",
-          "end_ref_usfm": "EXO 20:17"
-        },
-        {
-          "start_ref": "05005006",
-          "start_ref_usfm": "DEU 5:6",
-          "end_ref": "05005021",
-          "end_ref_usfm": "DEU 5:21"
-        },
-        {
-          "start_ref": "02020004",
-          "start_ref_usfm": "EXO 20:4",
-          "end_ref": "02020005",
-          "end_ref_usfm": "EXO 20:5"
-        },
-        {
-          "start_ref": "24022001",
-          "start_ref_usfm": "JER 22:1",
-          "end_ref": "24022009",
-          "end_ref_usfm": "JER 22:9"
-        },
-        {
-          "start_ref": "24017001",
-          "start_ref_usfm": "JER 17:1",
-          "end_ref": "24017004",
-          "end_ref_usfm": "JER 17:4"
-        },
-        {
-          "start_ref": "24002007",
-          "start_ref_usfm": "JER 2:7",
-          "end_ref": "24002013",
-          "end_ref_usfm": "JER 2:13"
-        },
-        {
-          "start_ref": "24003008",
-          "start_ref_usfm": "JER 3:8",
-          "end_ref": "24003011",
-          "end_ref_usfm": "JER 3:11"
-        },
-        {
-          "start_ref": "24005001",
-          "start_ref_usfm": "JER 5:1",
-          "end_ref": "24005009",
-          "end_ref_usfm": "JER 5:9"
-        },
-        {
-          "start_ref": "24006010",
-          "start_ref_usfm": "JER 6:10",
-          "end_ref": "24006021",
-          "end_ref_usfm": "JER 6:21"
-        },
-        {
-          "start_ref": "24007016",
-          "start_ref_usfm": "JER 7:16",
-          "end_ref": "24007029",
-          "end_ref_usfm": "JER 7:29"
-        },
-        {
-          "start_ref": "24008009",
-          "start_ref_usfm": "JER 8:9",
-          "end_ref": "24008013",
-          "end_ref_usfm": "JER 8:13"
-        },
-        {
-          "start_ref": "24011006",
-          "start_ref_usfm": "JER 11:6",
-          "end_ref": "24011014",
-          "end_ref_usfm": "JER 11:14"
-        },
-        {
-          "start_ref": "24023010",
-          "start_ref_usfm": "JER 23:10",
-          "end_ref": "24023012",
-          "end_ref_usfm": "JER 23:12"
-        },
-        {
-          "start_ref": "24034008",
-          "start_ref_usfm": "JER 34:8",
-          "end_ref": "24034020",
-          "end_ref_usfm": "JER 34:20"
-        },
-        {
-          "start_ref": "41012030",
-          "start_ref_usfm": "MRK 12:30",
-          "end_ref": "41012031",
-          "end_ref_usfm": "MRK 12:31"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700364",
-    "reference_id": 203301,
-    "version": "1.0.2",
-    "title": "基督的降生",
-    "media_type": "Text",
-    "index_reference": "基督的降生",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>耶穌降生的故事展現出，祂卑微的處境與祂的神性之間鮮明的對比（<a href=\"https://ref.ly/Matt1:18-Matt2:12\">太1:18–2:12</a>；<a href=\"https://ref.ly/Luke1:44-Luke1:47\">路2:1–20</a>）。</p><p><span>一方面，我們看到</span>祂的誕生極其卑微<span>。</span>一對貧窮的夫婦為了配合當時統治的羅馬帝國進行的人口普查（政府要求當時全境居民登記），從加利利跋涉至祖先的故鄉伯利恆。這段旅程漫長而艱難。他們抵達時，找不到容身之處，只能在牲畜所棲的地方暫住。</p><p>整個情景透露出貧窮、被拒絕，與人們的漠視<span>。耶穌出生時，消息沒有傳達給重要的王或富人，反而是傳給附近田野看守羊群的牧羊人。</span></p><p><span>然而，</span>在這樣卑微的場景中，卻傳遞出滿有榮耀與權能的信息<span>。那個被放在飼料槽（馬槽）裡的嬰孩，正是彌賽亞，人們期待已久的大衛王後裔。祂將以勝利姿態統治以色列民，祂的國度永無窮盡。</span></p><p>祂正是先知所預言的那位。整個歷史都指向在衪裡面，<span>這個最重要的時刻</span>。一群來自東方的博士遠道而來敬拜祂；一大隊天使滿有能力從天而降，宣告祂的降生。</p><p>這些對比預示耶穌將來成就的工作。在耶穌裡，以色列的神和全地的主親自來到人間，探訪並拯救祂的子民。神從天而降，進入人們日常的生活與處境之中。福音書多次記載，耶穌特別關懷卑微的人、貧窮的人、被拒絕的人和罪人。祂來拯救那些自知需要祂的人，他們以喜樂與歡欣的心領受救恩的信息。</p><p>卑微與偉大的對比，也延伸到耶穌的使命。惡人拒絕祂，並將祂處死。然而，神藉著耶穌的復活，證明了祂的義，並使祂升到神的右邊。</p><p>如今，祂坐在寶座上，作為主和彌賽亞掌權。祂從那裡差遣聖靈帶領並引導祂的教會。藉著祂的生命、死亡、復活、升天進入榮耀，耶穌帶來罪的赦免，並<span>賜下永\b生給所有以信心的生活回應衪的人</span>。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Matt1:18-Matt2:12\">太1:18–2:12</a>；<a href=\"https://ref.ly/Luke2:1-Luke2:40\">路2:1–20</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42001044",
-          "start_ref_usfm": "LUK 1:44",
-          "end_ref": "42001047",
-          "end_ref_usfm": "LUK 1:47"
-        },
-        {
-          "start_ref": "40001018",
-          "start_ref_usfm": "MAT 1:18",
-          "end_ref": "40002012",
-          "end_ref_usfm": "MAT 2:12"
-        },
-        {
-          "start_ref": "42002001",
-          "start_ref_usfm": "LUK 2:1",
-          "end_ref": "42002040",
-          "end_ref_usfm": "LUK 2:40"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700423",
-    "reference_id": 203360,
-    "version": "1.0.2",
-    "title": "基督頌：基督的神性",
-    "media_type": "Text",
-    "index_reference": "基督頌：基督的神性",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p><a href=\"https://ref.ly/Phil2:6-Phil2:11\">腓立比書二章6至11節</a>這段經文，通常被稱為基督頌（Christ Hymn），反映早期信徒對耶穌基督的信念。從這首頌歌可以看出，早期信徒相信耶穌在道成肉身之前已經存在，並且擁有神的本性（另見<a href=\"https://ref.ly/Col1:15-Col1:20\">西1:15–20</a>，<a href=\"https://ref.ly/Col2:9\">2:9</a>；參<a href=\"https://ref.ly/John1:1-John1:2\">約1:1–2</a>；<a href=\"https://ref.ly/Heb1:1-Heb1:3\">來1:1–3</a>）。</p><p>這首頌歌教導我們，基督不僅是另一位<span>人類先知</span>。祂從<span>太</span>初就與父神同在，並且是神藉以創造<span>萬有</span>的那位。作為神的兒子，<span>耶穌與神同享衪的本性</span>。</p><p>耶穌宣稱自己具有神性，這一點在當時引發祂與宗教領袖之間的重大爭議。當耶穌聲稱與神同等時，他們指控祂褻瀆（即說了羞辱神的話）神（<a href=\"https://ref.ly/John5:16-John5:18\">約5:16–18</a>，<a href=\"https://ref.ly/John8:54-John8:59\">8:54–59</a>，<a href=\"https://ref.ly/John10:30-John10:39\">10:30–39</a>）。</p><p>同時，這首頌歌教導我們，耶穌基督以極大的謙卑來到世上。<span>那位</span>無限的（祂是永恆的，不受時間限制）神，在耶穌基督裡取了<span>人的樣式</span>，進入人類歷史（<a href=\"https://ref.ly/Phil2:7\">腓2:7</a>；見<a href=\"https://ref.ly/Col1:15\">西1:15</a>；<a href=\"https://ref.ly/John1:10-John1:14\">約1:10–14</a>；<a href=\"https://ref.ly/Heb2:14\">來2:14</a>，<a href=\"https://ref.ly/Heb2:17\">17</a>）。耶穌基督這位榮耀的萬有創造者，為了人類的罪捨身而死，成就赦罪，使人得以與神和好（<a href=\"https://ref.ly/Phil2:8\">腓2:8</a>；見<a href=\"https://ref.ly/John3:14-John3:17\">約3:14–17</a>；<a href=\"https://ref.ly/Rom5:9-Rom5:10\">羅5:9–10</a>；<a href=\"https://ref.ly/Col1:20\">西1:20</a>、<a href=\"https://ref.ly/Col1:22\">22</a>，<a href=\"https://ref.ly/Col2:13-Col2:14\">2:13–14</a>；<a href=\"https://ref.ly/Heb1:3\">來1:3</a>，<a href=\"https://ref.ly/Heb10:9-Heb10:14\">10:9–14</a>）。聖經早已預言這一切（見<a href=\"https://ref.ly/Isa53:3-Isa53:12\">賽53:3–12</a>）。</p><p>這首頌歌宣告，神已使耶穌從死裡復活，並將天上至高的尊榮賜給祂（<a href=\"https://ref.ly/Phil2:9\">腓2:9</a>）。神也將「主」的稱號給予耶穌（<a href=\"https://ref.ly/Phil2:11\">腓2:11</a>；參<a href=\"https://ref.ly/Col1:18\">西1:18</a>）。有一天，一切創造都要在祂面前屈膝，承認祂是萬有的主（<a href=\"https://ref.ly/Phil2:9-Phil2:11\">腓2:9–11</a>）。祂配得那只有神才配得的敬拜（見<a href=\"https://ref.ly/Rev5:8-Rev5:14\">啟5:8–14</a>）。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Isa53:3-Isa53:12\">賽53:3–12</a>；<a href=\"https://ref.ly/John1:1-John1:2\">約1:1–2</a>、<a href=\"https://ref.ly/John1:10-John1:14\">10–14</a>，<a href=\"https://ref.ly/John3:14-John3:17\">3:14–17</a>；<a href=\"https://ref.ly/Rom5:9-Rom5:10\">羅5:9–10</a>；<a href=\"https://ref.ly/Phil2:6-Phil2:11\">腓2:6–11</a>；<a href=\"https://ref.ly/Col1:15-Col1:22\">西1:15–22</a>，<a href=\"https://ref.ly/Col2:9\">2:9</a>、<a href=\"https://ref.ly/Col2:13-Col2:14\">13–14</a>；<a href=\"https://ref.ly/Heb1:1-Heb1:3\">來1:1–3</a>，<a href=\"https://ref.ly/Heb2:14\">2:14</a>、<a href=\"https://ref.ly/Heb2:17\">17</a>，<a href=\"https://ref.ly/Heb10:9-Heb10:14\">10:9–14</a>；<a href=\"https://ref.ly/Rev5:8-Rev5:14\">啟5:8–14</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "50002007",
-          "start_ref_usfm": "PHP 2:7",
-          "end_ref": "50002007",
-          "end_ref_usfm": "PHP 2:7"
-        },
-        {
-          "start_ref": "50002008",
-          "start_ref_usfm": "PHP 2:8",
-          "end_ref": "50002008",
-          "end_ref_usfm": "PHP 2:8"
-        },
-        {
-          "start_ref": "50002009",
-          "start_ref_usfm": "PHP 2:9",
-          "end_ref": "50002009",
-          "end_ref_usfm": "PHP 2:9"
-        },
-        {
-          "start_ref": "50002011",
-          "start_ref_usfm": "PHP 2:11",
-          "end_ref": "50002011",
-          "end_ref_usfm": "PHP 2:11"
-        },
-        {
-          "start_ref": "51001015",
-          "start_ref_usfm": "COL 1:15",
-          "end_ref": "51001015",
-          "end_ref_usfm": "COL 1:15"
-        },
-        {
-          "start_ref": "51001018",
-          "start_ref_usfm": "COL 1:18",
-          "end_ref": "51001018",
-          "end_ref_usfm": "COL 1:18"
-        },
-        {
-          "start_ref": "51001020",
-          "start_ref_usfm": "COL 1:20",
-          "end_ref": "51001020",
-          "end_ref_usfm": "COL 1:20"
-        },
-        {
-          "start_ref": "51001022",
-          "start_ref_usfm": "COL 1:22",
-          "end_ref": "51001022",
-          "end_ref_usfm": "COL 1:22"
-        },
-        {
-          "start_ref": "51002009",
-          "start_ref_usfm": "COL 2:9",
-          "end_ref": "51002009",
-          "end_ref_usfm": "COL 2:9"
-        },
-        {
-          "start_ref": "58001003",
-          "start_ref_usfm": "HEB 1:3",
-          "end_ref": "58001003",
-          "end_ref_usfm": "HEB 1:3"
-        },
-        {
-          "start_ref": "58002014",
-          "start_ref_usfm": "HEB 2:14",
-          "end_ref": "58002014",
-          "end_ref_usfm": "HEB 2:14"
-        },
-        {
-          "start_ref": "58002017",
-          "start_ref_usfm": "HEB 2:17",
-          "end_ref": "58002017",
-          "end_ref_usfm": "HEB 2:17"
-        },
-        {
-          "start_ref": "50002009",
-          "start_ref_usfm": "PHP 2:9",
-          "end_ref": "50002011",
-          "end_ref_usfm": "PHP 2:11"
-        },
-        {
-          "start_ref": "51001015",
-          "start_ref_usfm": "COL 1:15",
-          "end_ref": "51001020",
-          "end_ref_usfm": "COL 1:20"
-        },
-        {
-          "start_ref": "50002006",
-          "start_ref_usfm": "PHP 2:6",
-          "end_ref": "50002011",
-          "end_ref_usfm": "PHP 2:11"
-        },
-        {
-          "start_ref": "43001001",
-          "start_ref_usfm": "JHN 1:1",
-          "end_ref": "43001002",
-          "end_ref_usfm": "JHN 1:2"
-        },
-        {
-          "start_ref": "51001015",
-          "start_ref_usfm": "COL 1:15",
-          "end_ref": "51001022",
-          "end_ref_usfm": "COL 1:22"
-        },
-        {
-          "start_ref": "58001001",
-          "start_ref_usfm": "HEB 1:1",
-          "end_ref": "58001003",
-          "end_ref_usfm": "HEB 1:3"
-        },
-        {
-          "start_ref": "23053003",
-          "start_ref_usfm": "ISA 53:3",
-          "end_ref": "23053012",
-          "end_ref_usfm": "ISA 53:12"
-        },
-        {
-          "start_ref": "66005008",
-          "start_ref_usfm": "REV 5:8",
-          "end_ref": "66005014",
-          "end_ref_usfm": "REV 5:14"
-        },
-        {
-          "start_ref": "43005016",
-          "start_ref_usfm": "JHN 5:16",
-          "end_ref": "43005018",
-          "end_ref_usfm": "JHN 5:18"
-        },
-        {
-          "start_ref": "43008054",
-          "start_ref_usfm": "JHN 8:54",
-          "end_ref": "43008059",
-          "end_ref_usfm": "JHN 8:59"
-        },
-        {
-          "start_ref": "43010030",
-          "start_ref_usfm": "JHN 10:30",
-          "end_ref": "43010039",
-          "end_ref_usfm": "JHN 10:39"
-        },
-        {
-          "start_ref": "43001010",
-          "start_ref_usfm": "JHN 1:10",
-          "end_ref": "43001014",
-          "end_ref_usfm": "JHN 1:14"
-        },
-        {
-          "start_ref": "43003014",
-          "start_ref_usfm": "JHN 3:14",
-          "end_ref": "43003017",
-          "end_ref_usfm": "JHN 3:17"
-        },
-        {
-          "start_ref": "45005009",
-          "start_ref_usfm": "ROM 5:9",
-          "end_ref": "45005010",
-          "end_ref_usfm": "ROM 5:10"
-        },
-        {
-          "start_ref": "51002013",
-          "start_ref_usfm": "COL 2:13",
-          "end_ref": "51002014",
-          "end_ref_usfm": "COL 2:14"
-        },
-        {
-          "start_ref": "58010009",
-          "start_ref_usfm": "HEB 10:9",
-          "end_ref": "58010014",
-          "end_ref_usfm": "HEB 10:14"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700415",
-    "reference_id": 203352,
-    "version": "1.0.2",
-    "title": "基督徒的奉獻",
-    "media_type": "Text",
-    "index_reference": "基督徒的奉獻",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>慷慨的基督徒奉獻展現出真正的恩典。我們從「我們主耶穌基督」身上看見了這點，「他本來富足，卻為你們成了貧窮，叫你們因他的貧窮，可以成為富足」（<a href=\"https://ref.ly/2Cor8:9\">林後8:9</a>；<a href=\"https://ref.ly/Phil2:5-Phil2:8\">腓2:5–8</a>）。我們在救恩中白白領受了祂的恩典，因此甘心樂意地奉獻，作為對那「說不盡的恩賜」的回應（<a href=\"https://ref.ly/2Cor9:15\">林後9:15</a>）。</p><p>耶穌教導說，慷慨是跟隨祂的人所應有的表現（<a href=\"https://ref.ly/Matt25:34-Matt25:36\">太25:34–36</a>）。祂強調人的動機與態度，而不僅僅是奉獻的數目（<a href=\"https://ref.ly/Mark12:41-Mark12:44\">可12:41–44</a>）。</p><p>在哥林多後書中，使徒保羅強調奉獻的教導。他勸勉哥林多的教會，要慷慨地供應有需要的人，特別是耶路撒冷貧窮的猶太信徒（<a href=\"https://ref.ly/2Cor8:6-2Cor8:7\">林後8:6–7，</a><a href=\"https://ref.ly/2Cor9:1-2Cor9:5\">9:1–5</a>）。這樣的慷慨表明外邦基督徒與耶路撒冷的猶太基督徒同屬一個「身體」。</p><p>以下是保羅關於基督徒奉獻的重點教導：</p><ol><li><p>我們的奉獻應當甘心樂意（<a href=\"https://ref.ly/2Cor8:12\">林後8:12</a>，<a href=\"https://ref.ly/2Cor9:7\">9:7</a>）。保羅強調奉獻的動機，因為奉獻背後的原因才是最重要的。</p></li><li><p>真正的奉獻會帶來喜樂，而不是勉強的捐獻（<a href=\"https://ref.ly/2Cor9:5\">林後9:5</a>）。當我們把財物給予他人，就如農夫撒種時帶著盼望與喜樂，因他知道將來會有收成（<a href=\"https://ref.ly/2Cor9:6-2Cor9:10\">9:6–10</a>）。同樣地，與有需要的人分享，也會帶來喜樂（<a href=\"https://ref.ly/2Cor9:1-2Cor9:2\">9:1–2</a>）。</p></li><li><p>基督徒的奉獻應當慷慨，甚至帶著犧牲的精神，正如馬其頓信徒的榜樣（<a href=\"https://ref.ly/2Cor8:1-2Cor8:5\">林後8:1–5</a>）。</p></li><li><p>處理金錢奉獻需有誠信、正直與謹慎的態度。保羅特別小心地保護那些負責收奉獻的同工，使他們不被人懷疑（<a href=\"https://ref.ly/2Cor8:20-2Cor8:21\">林後8:20–21</a>）。凡管理教會捐獻的人，應當具備良好的聲譽與責任感。</p></li></ol><p>基督徒的生活應表現出對有需要的人的慷慨關懷。保羅教導信徒要討神的喜悅，而不是為自己活（<a href=\"https://ref.ly/2Cor5:15\">林後5:15</a>）。信徒當活在基督的帶領之下，被祂的愛所激勵（<a href=\"https://ref.ly/2Cor5:14\">5:14</a>）。我們可以透過慷慨的奉獻，具體地彰顯祂的愛。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Exod25:2\">出25:2</a>，<a href=\"https://ref.ly/Exod35:5\">35:5；</a><a href=\"https://ref.ly/Lev25:35\">利25:35；</a><a href=\"https://ref.ly/Deut15:7-Deut15:11\">申15:7–11</a>，<a href=\"https://ref.ly/Deut16:17\">16:17；</a><a href=\"https://ref.ly/1Chr29:9\">代上29:9；</a><a href=\"https://ref.ly/Prov3:9-Prov3:10\">箴3:9–10</a>，<a href=\"https://ref.ly/Prov11:24-Prov11:26\">11:24–26</a>，<a href=\"https://ref.ly/Prov21:13\">21:13</a>，<a href=\"https://ref.ly/Prov28:27\">28:27；</a><a href=\"https://ref.ly/Mal3:8\">瑪3:8；</a><a href=\"https://ref.ly/Matt5:42\">太5:42</a>，<a href=\"https://ref.ly/Matt6:3-Matt6:4\">6:3–4</a>，<a href=\"https://ref.ly/Matt10:8\">10:8</a>，<a href=\"https://ref.ly/Matt19:21\">19:21；</a><a href=\"https://ref.ly/Luke6:38\">路6:38</a>，<a href=\"https://ref.ly/Luke11:41\">11:41</a>，<a href=\"https://ref.ly/Luke12:33-Luke12:34\">12:33–34</a>，<a href=\"https://ref.ly/Luke18:22\">18:22；</a><a href=\"https://ref.ly/Acts11:29\">徒11:29</a>，<a href=\"https://ref.ly/1Cor13:3\">林前13:3</a>，<a href=\"https://ref.ly/1Cor16:2-1Cor16:3\">16:2–3；</a><a href=\"https://ref.ly/2Cor5:17-2Cor5:18\">林後5:17–18；</a><a href=\"https://ref.ly/2Cor8:1-2Cor9:15\">林後8:1–9:15；</a><a href=\"https://ref.ly/Phil2:3-Phil2:11\">腓2:3–11</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "02025002",
-          "start_ref_usfm": "EXO 25:2",
-          "end_ref": "02025002",
-          "end_ref_usfm": "EXO 25:2"
-        },
-        {
-          "start_ref": "02035005",
-          "start_ref_usfm": "EXO 35:5",
-          "end_ref": "02035005",
-          "end_ref_usfm": "EXO 35:5"
-        },
-        {
-          "start_ref": "03025035",
-          "start_ref_usfm": "LEV 25:35",
-          "end_ref": "03025035",
-          "end_ref_usfm": "LEV 25:35"
-        },
-        {
-          "start_ref": "05016017",
-          "start_ref_usfm": "DEU 16:17",
-          "end_ref": "05016017",
-          "end_ref_usfm": "DEU 16:17"
-        },
-        {
-          "start_ref": "13029009",
-          "start_ref_usfm": "1CH 29:9",
-          "end_ref": "13029009",
-          "end_ref_usfm": "1CH 29:9"
-        },
-        {
-          "start_ref": "20021013",
-          "start_ref_usfm": "PRO 21:13",
-          "end_ref": "20021013",
-          "end_ref_usfm": "PRO 21:13"
-        },
-        {
-          "start_ref": "20028027",
-          "start_ref_usfm": "PRO 28:27",
-          "end_ref": "20028027",
-          "end_ref_usfm": "PRO 28:27"
-        },
-        {
-          "start_ref": "39003008",
-          "start_ref_usfm": "MAL 3:8",
-          "end_ref": "39003008",
-          "end_ref_usfm": "MAL 3:8"
-        },
-        {
-          "start_ref": "40005042",
-          "start_ref_usfm": "MAT 5:42",
-          "end_ref": "40005042",
-          "end_ref_usfm": "MAT 5:42"
-        },
-        {
-          "start_ref": "40010008",
-          "start_ref_usfm": "MAT 10:8",
-          "end_ref": "40010008",
-          "end_ref_usfm": "MAT 10:8"
-        },
-        {
-          "start_ref": "40019021",
-          "start_ref_usfm": "MAT 19:21",
-          "end_ref": "40019021",
-          "end_ref_usfm": "MAT 19:21"
-        },
-        {
-          "start_ref": "42006038",
-          "start_ref_usfm": "LUK 6:38",
-          "end_ref": "42006038",
-          "end_ref_usfm": "LUK 6:38"
-        },
-        {
-          "start_ref": "42011041",
-          "start_ref_usfm": "LUK 11:41",
-          "end_ref": "42011041",
-          "end_ref_usfm": "LUK 11:41"
-        },
-        {
-          "start_ref": "42018022",
-          "start_ref_usfm": "LUK 18:22",
-          "end_ref": "42018022",
-          "end_ref_usfm": "LUK 18:22"
-        },
-        {
-          "start_ref": "44011029",
-          "start_ref_usfm": "ACT 11:29",
-          "end_ref": "44011029",
-          "end_ref_usfm": "ACT 11:29"
-        },
-        {
-          "start_ref": "46013003",
-          "start_ref_usfm": "1CO 13:3",
-          "end_ref": "46013003",
-          "end_ref_usfm": "1CO 13:3"
-        },
-        {
-          "start_ref": "47005014",
-          "start_ref_usfm": "2CO 5:14",
-          "end_ref": "47005014",
-          "end_ref_usfm": "2CO 5:14"
-        },
-        {
-          "start_ref": "47005015",
-          "start_ref_usfm": "2CO 5:15",
-          "end_ref": "47005015",
-          "end_ref_usfm": "2CO 5:15"
-        },
-        {
-          "start_ref": "47008009",
-          "start_ref_usfm": "2CO 8:9",
-          "end_ref": "47008009",
-          "end_ref_usfm": "2CO 8:9"
-        },
-        {
-          "start_ref": "47008012",
-          "start_ref_usfm": "2CO 8:12",
-          "end_ref": "47008012",
-          "end_ref_usfm": "2CO 8:12"
-        },
-        {
-          "start_ref": "47009005",
-          "start_ref_usfm": "2CO 9:5",
-          "end_ref": "47009005",
-          "end_ref_usfm": "2CO 9:5"
-        },
-        {
-          "start_ref": "47009007",
-          "start_ref_usfm": "2CO 9:7",
-          "end_ref": "47009007",
-          "end_ref_usfm": "2CO 9:7"
-        },
-        {
-          "start_ref": "47009015",
-          "start_ref_usfm": "2CO 9:15",
-          "end_ref": "47009015",
-          "end_ref_usfm": "2CO 9:15"
-        },
-        {
-          "start_ref": "05015007",
-          "start_ref_usfm": "DEU 15:7",
-          "end_ref": "05015011",
-          "end_ref_usfm": "DEU 15:11"
-        },
-        {
-          "start_ref": "47008001",
-          "start_ref_usfm": "2CO 8:1",
-          "end_ref": "47008005",
-          "end_ref_usfm": "2CO 8:5"
-        },
-        {
-          "start_ref": "47008001",
-          "start_ref_usfm": "2CO 8:1",
-          "end_ref": "47009015",
-          "end_ref_usfm": "2CO 9:15"
-        },
-        {
-          "start_ref": "47009001",
-          "start_ref_usfm": "2CO 9:1",
-          "end_ref": "47009005",
-          "end_ref_usfm": "2CO 9:5"
-        },
-        {
-          "start_ref": "50002005",
-          "start_ref_usfm": "PHP 2:5",
-          "end_ref": "50002008",
-          "end_ref_usfm": "PHP 2:8"
-        },
-        {
-          "start_ref": "20003009",
-          "start_ref_usfm": "PRO 3:9",
-          "end_ref": "20003010",
-          "end_ref_usfm": "PRO 3:10"
-        },
-        {
-          "start_ref": "41012041",
-          "start_ref_usfm": "MRK 12:41",
-          "end_ref": "41012044",
-          "end_ref_usfm": "MRK 12:44"
-        },
-        {
-          "start_ref": "20011024",
-          "start_ref_usfm": "PRO 11:24",
-          "end_ref": "20011026",
-          "end_ref_usfm": "PRO 11:26"
-        },
-        {
-          "start_ref": "40006003",
-          "start_ref_usfm": "MAT 6:3",
-          "end_ref": "40006004",
-          "end_ref_usfm": "MAT 6:4"
-        },
-        {
-          "start_ref": "47009006",
-          "start_ref_usfm": "2CO 9:6",
-          "end_ref": "47009010",
-          "end_ref_usfm": "2CO 9:10"
-        },
-        {
-          "start_ref": "40025034",
-          "start_ref_usfm": "MAT 25:34",
-          "end_ref": "40025036",
-          "end_ref_usfm": "MAT 25:36"
-        },
-        {
-          "start_ref": "47008006",
-          "start_ref_usfm": "2CO 8:6",
-          "end_ref": "47008007",
-          "end_ref_usfm": "2CO 8:7"
-        },
-        {
-          "start_ref": "47009001",
-          "start_ref_usfm": "2CO 9:1",
-          "end_ref": "47009002",
-          "end_ref_usfm": "2CO 9:2"
-        },
-        {
-          "start_ref": "47008020",
-          "start_ref_usfm": "2CO 8:20",
-          "end_ref": "47008021",
-          "end_ref_usfm": "2CO 8:21"
-        },
-        {
-          "start_ref": "42012033",
-          "start_ref_usfm": "LUK 12:33",
-          "end_ref": "42012034",
-          "end_ref_usfm": "LUK 12:34"
-        },
-        {
-          "start_ref": "46016002",
-          "start_ref_usfm": "1CO 16:2",
-          "end_ref": "46016003",
-          "end_ref_usfm": "1CO 16:3"
-        },
-        {
-          "start_ref": "47005017",
-          "start_ref_usfm": "2CO 5:17",
-          "end_ref": "47005018",
-          "end_ref_usfm": "2CO 5:18"
-        },
-        {
-          "start_ref": "50002003",
-          "start_ref_usfm": "PHP 2:3",
-          "end_ref": "50002011",
-          "end_ref_usfm": "PHP 2:11"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700446",
-    "reference_id": 203383,
-    "version": "1.0.2",
-    "title": "基督徒的苦難",
-    "media_type": "Text",
-    "index_reference": "基督徒的苦難",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>當我們遭遇苦難時，不應該感到驚訝（<a href=\"https://ref.ly/1Pet4:12\">彼前4:12</a>）。那些因順從神而活出與世人不同生活方式的基督徒，理當預期會遭遇來自社會的敵意。我們當預備面對譏笑、惡待、無端指控，甚至暴力攻擊。</p><p>神在我們的苦難中有祂的旨意。苦難使我們更深與基督聯合，祂在得榮耀之前也曾受苦（<a href=\"https://ref.ly/1Pet4:13\">彼前4:13</a>；另見<a href=\"https://ref.ly/Rom8:17\">羅8:17</a>）。當我們與基督一同受苦，也必與祂一同得榮耀。</p><p>彼得前書特別強調基督徒的受苦，尤其是那些因信仰而遭受不公平逼迫的人。這些苦難的主題，在<a href=\"https://ref.ly/1Pet4:12-1Pet4:19\">四章12至19節</a>中有非常清楚的闡述。</p><p>當我們遭遇苦難時，應當立志行善（<a href=\"https://ref.ly/1Pet4:19\">彼前4:19</a>）。困難往往會成為人犯罪的藉口，但我們在艱難中仍要活出好榜樣，以愛心對待他人。困境中仍以愛回應敵人，便是向他人見證基督信仰的大好機會。當我們以仁愛與恩慈回應傷害我們的人時，旁人可能會因此對我們的信仰產生興趣。</p><p>在遭遇患難時，我們要記得這是出於「神的旨意」，並且祂是「信實的」（<a href=\"https://ref.ly/1Pet4:19\">彼前4:19</a>）。祂掌管生命中的一切環境與遭遇，因此我們無需懼怕任何苦難，彷彿這些遭遇超出神的掌權或旨意。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Isa48:10\">賽48:10，</a><a href=\"https://ref.ly/Isa52:13-Isa53:12\">52:13–53:12，</a><a href=\"https://ref.ly/Isa63:7-Isa63:9\">63:7–9</a>；<a href=\"https://ref.ly/Mark10:35-Mark10:40\">可10:35–40</a>；<a href=\"https://ref.ly/Acts5:41\">徒5:41，</a><a href=\"https://ref.ly/Acts9:16\">9:16，</a><a href=\"https://ref.ly/Acts14:22\">14:22</a>；<a href=\"https://ref.ly/Rom8:17-Rom8:23\">羅8:17–23</a>；<a href=\"https://ref.ly/2Cor1:5-2Cor1:7\">林後1:5–7，</a><a href=\"https://ref.ly/2Cor4:10\">4:10，</a><a href=\"https://ref.ly/2Cor12:10\">12:10</a>；<a href=\"https://ref.ly/Phil1:29\">腓1:29</a>；<a href=\"https://ref.ly/Col1:24\">西1:24</a>；<a href=\"https://ref.ly/1Thess2:14\">帖前2:14</a>；<a href=\"https://ref.ly/2Thess1:5\">帖後1:5</a>；<a href=\"https://ref.ly/2Tim3:12\">提後3:12</a>；<a href=\"https://ref.ly/Heb2:9-Heb2:10\">來2:9–10，</a><a href=\"https://ref.ly/Heb5:8\">5:8，</a><a href=\"https://ref.ly/Heb13:12\">13:12</a>；<a href=\"https://ref.ly/Jas5:11-Jas5:13\">雅5:11–13</a>；<a href=\"https://ref.ly/1Pet4:12-1Pet4:19\">彼前4:12–19</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "23048010",
-          "start_ref_usfm": "ISA 48:10",
-          "end_ref": "23048010",
-          "end_ref_usfm": "ISA 48:10"
-        },
-        {
-          "start_ref": "44005041",
-          "start_ref_usfm": "ACT 5:41",
-          "end_ref": "44005041",
-          "end_ref_usfm": "ACT 5:41"
-        },
-        {
-          "start_ref": "44009016",
-          "start_ref_usfm": "ACT 9:16",
-          "end_ref": "44009016",
-          "end_ref_usfm": "ACT 9:16"
-        },
-        {
-          "start_ref": "44014022",
-          "start_ref_usfm": "ACT 14:22",
-          "end_ref": "44014022",
-          "end_ref_usfm": "ACT 14:22"
-        },
-        {
-          "start_ref": "45008017",
-          "start_ref_usfm": "ROM 8:17",
-          "end_ref": "45008017",
-          "end_ref_usfm": "ROM 8:17"
-        },
-        {
-          "start_ref": "47004010",
-          "start_ref_usfm": "2CO 4:10",
-          "end_ref": "47004010",
-          "end_ref_usfm": "2CO 4:10"
-        },
-        {
-          "start_ref": "47012010",
-          "start_ref_usfm": "2CO 12:10",
-          "end_ref": "47012010",
-          "end_ref_usfm": "2CO 12:10"
-        },
-        {
-          "start_ref": "50001029",
-          "start_ref_usfm": "PHP 1:29",
-          "end_ref": "50001029",
-          "end_ref_usfm": "PHP 1:29"
-        },
-        {
-          "start_ref": "51001024",
-          "start_ref_usfm": "COL 1:24",
-          "end_ref": "51001024",
-          "end_ref_usfm": "COL 1:24"
-        },
-        {
-          "start_ref": "52002014",
-          "start_ref_usfm": "1TH 2:14",
-          "end_ref": "52002014",
-          "end_ref_usfm": "1TH 2:14"
-        },
-        {
-          "start_ref": "53001005",
-          "start_ref_usfm": "2TH 1:5",
-          "end_ref": "53001005",
-          "end_ref_usfm": "2TH 1:5"
-        },
-        {
-          "start_ref": "55003012",
-          "start_ref_usfm": "2TI 3:12",
-          "end_ref": "55003012",
-          "end_ref_usfm": "2TI 3:12"
-        },
-        {
-          "start_ref": "58005008",
-          "start_ref_usfm": "HEB 5:8",
-          "end_ref": "58005008",
-          "end_ref_usfm": "HEB 5:8"
-        },
-        {
-          "start_ref": "58013012",
-          "start_ref_usfm": "HEB 13:12",
-          "end_ref": "58013012",
-          "end_ref_usfm": "HEB 13:12"
-        },
-        {
-          "start_ref": "60004012",
-          "start_ref_usfm": "1PE 4:12",
-          "end_ref": "60004012",
-          "end_ref_usfm": "1PE 4:12"
-        },
-        {
-          "start_ref": "60004013",
-          "start_ref_usfm": "1PE 4:13",
-          "end_ref": "60004013",
-          "end_ref_usfm": "1PE 4:13"
-        },
-        {
-          "start_ref": "60004019",
-          "start_ref_usfm": "1PE 4:19",
-          "end_ref": "60004019",
-          "end_ref_usfm": "1PE 4:19"
-        },
-        {
-          "start_ref": "45008017",
-          "start_ref_usfm": "ROM 8:17",
-          "end_ref": "45008023",
-          "end_ref_usfm": "ROM 8:23"
-        },
-        {
-          "start_ref": "23052013",
-          "start_ref_usfm": "ISA 52:13",
-          "end_ref": "23053012",
-          "end_ref_usfm": "ISA 53:12"
-        },
-        {
-          "start_ref": "41010035",
-          "start_ref_usfm": "MRK 10:35",
-          "end_ref": "41010040",
-          "end_ref_usfm": "MRK 10:40"
-        },
-        {
-          "start_ref": "60004012",
-          "start_ref_usfm": "1PE 4:12",
-          "end_ref": "60004019",
-          "end_ref_usfm": "1PE 4:19"
-        },
-        {
-          "start_ref": "23063007",
-          "start_ref_usfm": "ISA 63:7",
-          "end_ref": "23063009",
-          "end_ref_usfm": "ISA 63:9"
-        },
-        {
-          "start_ref": "47001005",
-          "start_ref_usfm": "2CO 1:5",
-          "end_ref": "47001007",
-          "end_ref_usfm": "2CO 1:7"
-        },
-        {
-          "start_ref": "58002009",
-          "start_ref_usfm": "HEB 2:9",
-          "end_ref": "58002010",
-          "end_ref_usfm": "HEB 2:10"
-        },
-        {
-          "start_ref": "59005011",
-          "start_ref_usfm": "JAS 5:11",
-          "end_ref": "59005013",
-          "end_ref_usfm": "JAS 5:13"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700424",
-    "reference_id": 203361,
-    "version": "1.0.2",
-    "title": "基督徒的喜樂",
-    "media_type": "Text",
-    "index_reference": "基督徒的喜樂",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>在耶穌生命的最後時刻，祂渴望門徒滿有祂的喜樂（見<a href=\"https://ref.ly/John15:11\">約15:11，</a><a href=\"https://ref.ly/John16:20-John16:24\">16:20–24</a>）。喜樂是使徒保羅書信中常見的主題，特別是在腓立比書中更是核心信息之一。保羅時常勉勵基督徒要常常喜樂，特別是那些正面對逼迫的信徒，如腓立比和帖撒羅尼迦教會的信徒（<a href=\"https://ref.ly/Phil3:1\">腓3:1，</a><a href=\"https://ref.ly/Phil4:4\">4:4</a>；<a href=\"https://ref.ly/1Thess5:16\">帖前5:16</a>）。</p><p>表面的快樂往往取決於外在環境，但基督徒的喜樂則不同。這種喜樂源自與主的關係，即使在痛苦或死亡當中也能堅定不變。這是因為信徒深知，無論發生甚麼事，神都會使萬事互相效力，為愛祂的人帶來最終的益處（見<a href=\"https://ref.ly/Rom5:3-Rom5:4\">羅5:3–4，</a><a href=\"https://ref.ly/Rom8:28\">8:28</a>）。</p><p>基督徒的喜樂也來自聖靈在心中真實的同在與運行（見<a href=\"https://ref.ly/Gal5:22\">加5:22</a>）。喜樂生命的真正秘訣在於「被聖靈充滿」（見<a href=\"https://ref.ly/Eph5:18\">弗5:18</a>）。基督徒的態度乃是由他與永活真神的關係所塑造，而不是被外在環境所決定的。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/John15:11\">約15:11</a>，<a href=\"https://ref.ly/John16:24\">16:24；</a><a href=\"https://ref.ly/Rom5:3-Rom5:4\">羅5:3–4</a>，<a href=\"https://ref.ly/Rom8:28\">8:28；</a><a href=\"https://ref.ly/Gal5:22\">加5:22；</a><a href=\"https://ref.ly/Eph5:18\">弗5:18；</a><a href=\"https://ref.ly/Phil3:1\">腓3:1</a>，<a href=\"https://ref.ly/Phil4:4\">4:4；</a><a href=\"https://ref.ly/1Thess5:16\">帖前5:16</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "43015011",
-          "start_ref_usfm": "JHN 15:11",
-          "end_ref": "43015011",
-          "end_ref_usfm": "JHN 15:11"
-        },
-        {
-          "start_ref": "43016024",
-          "start_ref_usfm": "JHN 16:24",
-          "end_ref": "43016024",
-          "end_ref_usfm": "JHN 16:24"
-        },
-        {
-          "start_ref": "45008028",
-          "start_ref_usfm": "ROM 8:28",
-          "end_ref": "45008028",
-          "end_ref_usfm": "ROM 8:28"
-        },
-        {
-          "start_ref": "48005022",
-          "start_ref_usfm": "GAL 5:22",
-          "end_ref": "48005022",
-          "end_ref_usfm": "GAL 5:22"
-        },
-        {
-          "start_ref": "49005018",
-          "start_ref_usfm": "EPH 5:18",
-          "end_ref": "49005018",
-          "end_ref_usfm": "EPH 5:18"
-        },
-        {
-          "start_ref": "50003001",
-          "start_ref_usfm": "PHP 3:1",
-          "end_ref": "50003001",
-          "end_ref_usfm": "PHP 3:1"
-        },
-        {
-          "start_ref": "50004004",
-          "start_ref_usfm": "PHP 4:4",
-          "end_ref": "50004004",
-          "end_ref_usfm": "PHP 4:4"
-        },
-        {
-          "start_ref": "52005016",
-          "start_ref_usfm": "1TH 5:16",
-          "end_ref": "52005016",
-          "end_ref_usfm": "1TH 5:16"
-        },
-        {
-          "start_ref": "45005003",
-          "start_ref_usfm": "ROM 5:3",
-          "end_ref": "45005004",
-          "end_ref_usfm": "ROM 5:4"
-        },
-        {
-          "start_ref": "43016020",
-          "start_ref_usfm": "JHN 16:20",
-          "end_ref": "43016024",
-          "end_ref_usfm": "JHN 16:24"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700172",
-    "reference_id": 203109,
-    "version": "1.0.2",
-    "title": "饑荒",
-    "media_type": "Text",
-    "index_reference": "饑荒",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>饑荒在族長亞伯拉罕與以撒的生命早期就曾經發生（<a href=\"https://ref.ly/Gen12:10\">創12:10，</a><a href=\"https://ref.ly/Gen26:1\">26:1</a>）。當族長雅各的家族遭遇饑荒時，神早已預備他的兒子約瑟在埃及，使神的百姓得以度過這場危機（<a href=\"https://ref.ly/Gen41:56-Gen42:5\">41:56–42:5，</a><a href=\"https://ref.ly/Gen45:5\">45:5、</a><a href=\"https://ref.ly/Gen45:7\">7</a>）。那場饑荒極其嚴重，但在古代世界中，饑荒卻是相當常見的（見<a href=\"https://ref.ly/Ruth1:1\">得1:1</a>；<a href=\"https://ref.ly/2Sam21:1\">撒下21:1</a>；<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:2\">王上18:1–2</a>；<a href=\"https://ref.ly/Hag1:1-Hag1:11\">該1:1–11</a>；<a href=\"https://ref.ly/Acts11:28\">徒11:28</a>）。</p><p>在以農業為主的社會中，饑荒是極大的災難。乾旱、農作物失收，或是遭圍城等情況，都可能引發饑荒（<a href=\"https://ref.ly/2Kgs25:1-2Kgs25:30\">王下25:1–30</a>）。饑荒常伴隨疾病或戰爭，對社會各階層造成衝擊（<a href=\"https://ref.ly/Jer14:12\">耶14:12</a>），甚至連牲畜也受到波及（<a href=\"https://ref.ly/Joel1:20\">珥1:20</a>）。由於人們依賴雨水生產糧食，有些人會儲藏糧食以備饑荒之需（<a href=\"https://ref.ly/Gen41:33-Gen41:36\">創41:33–36，</a><a href=\"https://ref.ly/Gen47:23-Gen47:24\">47:23–24</a>；見<a href=\"https://ref.ly/1Chr26:15\">代上26:15</a>；<a href=\"https://ref.ly/2Chr31:11\">代下31:11</a>；<a href=\"https://ref.ly/Neh10:37-Neh10:39\">尼10:37–39</a>）。</p><p>糧食不足時，常會引發許多災難（<a href=\"https://ref.ly/Gen12:10\">創12:10，</a><a href=\"https://ref.ly/Gen26:1\">26:1</a>；<a href=\"https://ref.ly/2Kgs6:24-2Kgs6:29\">王下6:24–29</a>；<a href=\"https://ref.ly/Neh5:1-Neh5:3\">尼5:1–3</a>；<a href=\"https://ref.ly/Jer19:9\">耶19:9</a>；<a href=\"https://ref.ly/Lam2:20-Lam2:21\">哀2:20–21，</a><a href=\"https://ref.ly/Lam4:8-Lam4:10\">4:8–10</a>）。</p><ul><li><p>糧價飛漲。</p></li><li><p>人彼此偷竊。</p></li><li><p>窮人遭受不公待遇。</p></li><li><p>農地無法出產作物。</p></li><li><p>人們被迫離家尋找糧食。</p></li><li><p>在最嚴重的情況下，人甚至會為了生存而吃人肉。</p></li></ul><p>有時，人們會將饑荒視為神對以色列人的審判（<a href=\"https://ref.ly/Lev26:14-Lev26:20\">利26:14–20</a>；<a href=\"https://ref.ly/Deut11:16-Deut11:17\">申11:16–17，</a><a href=\"https://ref.ly/Deut28:33\">28:33</a>；<a href=\"https://ref.ly/Jer29:17-Jer29:18\">耶29:17–18</a>）。因此，對神保持忠心是極其重要的（<a href=\"https://ref.ly/Ps33:18-Ps33:19\">詩33:18–19，</a><a href=\"https://ref.ly/Ps37:19\">37:19</a>）。神對民族的祝福，也包括從饑荒中得保護（<a href=\"https://ref.ly/Ezek34:29\">結34:29，</a><a href=\"https://ref.ly/Ezek36:29-Ezek36:30\">36:29–30</a>）。</p><p>耶穌在曠野受試探的時候，也經歷了一場類似以色列人所面對的饑荒。祂選擇不為自己將石頭變為食物（<a href=\"https://ref.ly/Matt4:1-Matt4:4\">太4:1–4</a>；另見<a href=\"https://ref.ly/Deut8:3\">申8:3</a>）。祂勝過魔鬼的試探，顯示出人在缺乏食物和飢餓時，可以學習謙卑與信靠神的供應。耶穌曾餵飽五千人，表明祂是「生命的糧」，是神「天上來的真糧」（<a href=\"https://ref.ly/John6:32-John6:35\">約6:32–35</a>）。</p><p>然而，那些群眾跟隨祂，更多是為了得吃的，而非真正認識祂是誰（<a href=\"https://ref.ly/John6:26-John6:27\">約6:26–27</a>）。耶穌並不否認肉體的需要，但祂更強調人靈裡的飢渴（<a href=\"https://ref.ly/Luke6:21\">路6:21</a>；<a href=\"https://ref.ly/John4:34\">約4:34</a>）。吃飯既是團契的場景，也是團契的象徵（<a href=\"https://ref.ly/Gen43:34\">創43:34</a>；<a href=\"https://ref.ly/Luke22:15-Luke22:16\">路22:15–16</a>；<a href=\"https://ref.ly/Rev19:9\">啟19:9</a>）。在天上，再也不會有飢餓（<a href=\"https://ref.ly/Rev7:16\">啟7:16</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen12:10\">創12:10</a>，<a href=\"https://ref.ly/Gen26:1\">26:1</a>，<a href=\"https://ref.ly/Gen41:33-Gen41:36\">41:33–36</a>、<a href=\"https://ref.ly/Gen41:56-Gen41:57\">56–57</a>，<a href=\"https://ref.ly/Gen45:6-Gen45:7\">45:6–7</a>；<a href=\"https://ref.ly/Lev26:19-Lev26:20\">利26:19–20</a>；<a href=\"https://ref.ly/Deut8:3\">申8:3</a>，<a href=\"https://ref.ly/Deut11:16-Deut11:17\">11:16–17</a>；<a href=\"https://ref.ly/Ruth1:1\">得1:1</a>；<a href=\"https://ref.ly/2Sam21:1\">撒下21:1</a>；<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:2\">王上18:1–2</a>；<a href=\"https://ref.ly/2Kgs8:1-2Kgs8:2\">王下8:1–2</a>；<a href=\"https://ref.ly/Jer14:11-Jer14:16\">耶14:11–16</a>；<a href=\"https://ref.ly/Ezek34:29-Ezek34:31\">結34:29–31</a>，<a href=\"https://ref.ly/Ezek36:28-Ezek36:32\">36:28–32</a>；<a href=\"https://ref.ly/Joel1:1-Joel1:20\">珥1:1–20</a>；<a href=\"https://ref.ly/Amos8:11-Amos8:14\">摩8:11–14</a>；<a href=\"https://ref.ly/Hag1:1-Hag1:11\">該1:1–11</a>；<a href=\"https://ref.ly/Luke6:21\">路6:21</a>；<a href=\"https://ref.ly/John6:32-John6:35\">約6:32–35</a>；<a href=\"https://ref.ly/Acts11:28-Acts11:30\">徒11:28–30</a>；<a href=\"https://ref.ly/Rev7:16\">啟7:16</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01012010",
-          "start_ref_usfm": "GEN 12:10",
-          "end_ref": "01012010",
-          "end_ref_usfm": "GEN 12:10"
-        },
-        {
-          "start_ref": "01026001",
-          "start_ref_usfm": "GEN 26:1",
-          "end_ref": "01026001",
-          "end_ref_usfm": "GEN 26:1"
-        },
-        {
-          "start_ref": "01043034",
-          "start_ref_usfm": "GEN 43:34",
-          "end_ref": "01043034",
-          "end_ref_usfm": "GEN 43:34"
-        },
-        {
-          "start_ref": "01045005",
-          "start_ref_usfm": "GEN 45:5",
-          "end_ref": "01045005",
-          "end_ref_usfm": "GEN 45:5"
-        },
-        {
-          "start_ref": "01045007",
-          "start_ref_usfm": "GEN 45:7",
-          "end_ref": "01045007",
-          "end_ref_usfm": "GEN 45:7"
-        },
-        {
-          "start_ref": "05008003",
-          "start_ref_usfm": "DEU 8:3",
-          "end_ref": "05008003",
-          "end_ref_usfm": "DEU 8:3"
-        },
-        {
-          "start_ref": "05028033",
-          "start_ref_usfm": "DEU 28:33",
-          "end_ref": "05028033",
-          "end_ref_usfm": "DEU 28:33"
-        },
-        {
-          "start_ref": "08001001",
-          "start_ref_usfm": "RUT 1:1",
-          "end_ref": "08001001",
-          "end_ref_usfm": "RUT 1:1"
-        },
-        {
-          "start_ref": "10021001",
-          "start_ref_usfm": "2SA 21:1",
-          "end_ref": "10021001",
-          "end_ref_usfm": "2SA 21:1"
-        },
-        {
-          "start_ref": "13026015",
-          "start_ref_usfm": "1CH 26:15",
-          "end_ref": "13026015",
-          "end_ref_usfm": "1CH 26:15"
-        },
-        {
-          "start_ref": "14031011",
-          "start_ref_usfm": "2CH 31:11",
-          "end_ref": "14031011",
-          "end_ref_usfm": "2CH 31:11"
-        },
-        {
-          "start_ref": "19037019",
-          "start_ref_usfm": "PSA 37:19",
-          "end_ref": "19037019",
-          "end_ref_usfm": "PSA 37:19"
-        },
-        {
-          "start_ref": "24014012",
-          "start_ref_usfm": "JER 14:12",
-          "end_ref": "24014012",
-          "end_ref_usfm": "JER 14:12"
-        },
-        {
-          "start_ref": "24019009",
-          "start_ref_usfm": "JER 19:9",
-          "end_ref": "24019009",
-          "end_ref_usfm": "JER 19:9"
-        },
-        {
-          "start_ref": "26034029",
-          "start_ref_usfm": "EZK 34:29",
-          "end_ref": "26034029",
-          "end_ref_usfm": "EZK 34:29"
-        },
-        {
-          "start_ref": "29001020",
-          "start_ref_usfm": "JOL 1:20",
-          "end_ref": "29001020",
-          "end_ref_usfm": "JOL 1:20"
-        },
-        {
-          "start_ref": "42006021",
-          "start_ref_usfm": "LUK 6:21",
-          "end_ref": "42006021",
-          "end_ref_usfm": "LUK 6:21"
-        },
-        {
-          "start_ref": "43004034",
-          "start_ref_usfm": "JHN 4:34",
-          "end_ref": "43004034",
-          "end_ref_usfm": "JHN 4:34"
-        },
-        {
-          "start_ref": "44011028",
-          "start_ref_usfm": "ACT 11:28",
-          "end_ref": "44011028",
-          "end_ref_usfm": "ACT 11:28"
-        },
-        {
-          "start_ref": "66007016",
-          "start_ref_usfm": "REV 7:16",
-          "end_ref": "66007016",
-          "end_ref_usfm": "REV 7:16"
-        },
-        {
-          "start_ref": "66019009",
-          "start_ref_usfm": "REV 19:9",
-          "end_ref": "66019009",
-          "end_ref_usfm": "REV 19:9"
-        },
-        {
-          "start_ref": "12025001",
-          "start_ref_usfm": "2KI 25:1",
-          "end_ref": "12025030",
-          "end_ref_usfm": "2KI 25:30"
-        },
-        {
-          "start_ref": "16010037",
-          "start_ref_usfm": "NEH 10:37",
-          "end_ref": "16010039",
-          "end_ref_usfm": "NEH 10:39"
-        },
-        {
-          "start_ref": "37001001",
-          "start_ref_usfm": "HAG 1:1",
-          "end_ref": "37001011",
-          "end_ref_usfm": "HAG 1:11"
-        },
-        {
-          "start_ref": "01045006",
-          "start_ref_usfm": "GEN 45:6",
-          "end_ref": "01045007",
-          "end_ref_usfm": "GEN 45:7"
-        },
-        {
-          "start_ref": "30008011",
-          "start_ref_usfm": "AMO 8:11",
-          "end_ref": "30008014",
-          "end_ref_usfm": "AMO 8:14"
-        },
-        {
-          "start_ref": "01041033",
-          "start_ref_usfm": "GEN 41:33",
-          "end_ref": "01041036",
-          "end_ref_usfm": "GEN 41:36"
-        },
-        {
-          "start_ref": "03026019",
-          "start_ref_usfm": "LEV 26:19",
-          "end_ref": "03026020",
-          "end_ref_usfm": "LEV 26:20"
-        },
-        {
-          "start_ref": "11018001",
-          "start_ref_usfm": "1KI 18:1",
-          "end_ref": "11018002",
-          "end_ref_usfm": "1KI 18:2"
-        },
-        {
-          "start_ref": "29001001",
-          "start_ref_usfm": "JOL 1:1",
-          "end_ref": "29001020",
-          "end_ref_usfm": "JOL 1:20"
-        },
-        {
-          "start_ref": "12008001",
-          "start_ref_usfm": "2KI 8:1",
-          "end_ref": "12008002",
-          "end_ref_usfm": "2KI 8:2"
-        },
-        {
-          "start_ref": "01041056",
-          "start_ref_usfm": "GEN 41:56",
-          "end_ref": "01042005",
-          "end_ref_usfm": "GEN 42:5"
-        },
-        {
-          "start_ref": "01047023",
-          "start_ref_usfm": "GEN 47:23",
-          "end_ref": "01047024",
-          "end_ref_usfm": "GEN 47:24"
-        },
-        {
-          "start_ref": "12006024",
-          "start_ref_usfm": "2KI 6:24",
-          "end_ref": "12006029",
-          "end_ref_usfm": "2KI 6:29"
-        },
-        {
-          "start_ref": "16005001",
-          "start_ref_usfm": "NEH 5:1",
-          "end_ref": "16005003",
-          "end_ref_usfm": "NEH 5:3"
-        },
-        {
-          "start_ref": "25002020",
-          "start_ref_usfm": "LAM 2:20",
-          "end_ref": "25002021",
-          "end_ref_usfm": "LAM 2:21"
-        },
-        {
-          "start_ref": "25004008",
-          "start_ref_usfm": "LAM 4:8",
-          "end_ref": "25004010",
-          "end_ref_usfm": "LAM 4:10"
-        },
-        {
-          "start_ref": "03026014",
-          "start_ref_usfm": "LEV 26:14",
-          "end_ref": "03026020",
-          "end_ref_usfm": "LEV 26:20"
-        },
-        {
-          "start_ref": "05011016",
-          "start_ref_usfm": "DEU 11:16",
-          "end_ref": "05011017",
-          "end_ref_usfm": "DEU 11:17"
-        },
-        {
-          "start_ref": "24029017",
-          "start_ref_usfm": "JER 29:17",
-          "end_ref": "24029018",
-          "end_ref_usfm": "JER 29:18"
-        },
-        {
-          "start_ref": "19033018",
-          "start_ref_usfm": "PSA 33:18",
-          "end_ref": "19033019",
-          "end_ref_usfm": "PSA 33:19"
-        },
-        {
-          "start_ref": "26036029",
-          "start_ref_usfm": "EZK 36:29",
-          "end_ref": "26036030",
-          "end_ref_usfm": "EZK 36:30"
-        },
-        {
-          "start_ref": "40004001",
-          "start_ref_usfm": "MAT 4:1",
-          "end_ref": "40004004",
-          "end_ref_usfm": "MAT 4:4"
-        },
-        {
-          "start_ref": "43006032",
-          "start_ref_usfm": "JHN 6:32",
-          "end_ref": "43006035",
-          "end_ref_usfm": "JHN 6:35"
-        },
-        {
-          "start_ref": "43006026",
-          "start_ref_usfm": "JHN 6:26",
-          "end_ref": "43006027",
-          "end_ref_usfm": "JHN 6:27"
-        },
-        {
-          "start_ref": "42022015",
-          "start_ref_usfm": "LUK 22:15",
-          "end_ref": "42022016",
-          "end_ref_usfm": "LUK 22:16"
-        },
-        {
-          "start_ref": "01041056",
-          "start_ref_usfm": "GEN 41:56",
-          "end_ref": "01041057",
-          "end_ref_usfm": "GEN 41:57"
-        },
-        {
-          "start_ref": "24014011",
-          "start_ref_usfm": "JER 14:11",
-          "end_ref": "24014016",
-          "end_ref_usfm": "JER 14:16"
-        },
-        {
-          "start_ref": "26034029",
-          "start_ref_usfm": "EZK 34:29",
-          "end_ref": "26034031",
-          "end_ref_usfm": "EZK 34:31"
-        },
-        {
-          "start_ref": "26036028",
-          "start_ref_usfm": "EZK 36:28",
-          "end_ref": "26036032",
-          "end_ref_usfm": "EZK 36:32"
-        },
-        {
-          "start_ref": "44011028",
-          "start_ref_usfm": "ACT 11:28",
-          "end_ref": "44011030",
-          "end_ref_usfm": "ACT 11:30"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700294",
-    "reference_id": 203231,
-    "version": "1.0.2",
-    "title": "記念神",
-    "media_type": "Text",
-    "index_reference": "記念神",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>神拯救以色列人脫離埃及的奴役，並使他們成為衪的子民。然而，神也知道他們將來會忘記祂（<a href=\"https://ref.ly/Deut31:16-Deut31:21\">申31:16–21</a>）。摩西曾警告那些即將進入應許之地的百姓，要常常記得耶和華為他們所行的一切事（<a href=\"https://ref.ly/Deut8:1-Deut8:20\">申8:1–20</a>）。但以色列人最終仍忘記了神，結果被擄到外邦，失去了神所賜給他們的土地（見<a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">王下17:5–23</a>；另見<a href=\"https://ref.ly/Jer2:32\">耶2:32</a>）。</p><p>傳道書中的傳道者，強調記念主的重要性。傳道者在書中不斷反思，人生中許多事物都是短暫、虛空的。他最後呼籲讀者要記念那位永恆的神（<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">傳12:1–7</a>）。青春不會長存，衰老與死亡是所有人都必經的過程。</p><p>因此，傳道者勸勉人要在年少之時，就專心歸向神，免得為時已晚。因為世人所行的每一件事，都必須向神交帳（<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">傳12:13–14</a>）。我們今生的生活，應當以神未來的審判為指引。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Deut8:1-Deut8:20\">申8:1–20</a>；<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">傳12:1–7</a>、<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">13–14</a>；<a href=\"https://ref.ly/1Cor3:12-1Cor3:14\">林前3:12–14</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "24002032",
-          "start_ref_usfm": "JER 2:32",
-          "end_ref": "24002032",
-          "end_ref_usfm": "JER 2:32"
-        },
-        {
-          "start_ref": "05008001",
-          "start_ref_usfm": "DEU 8:1",
-          "end_ref": "05008020",
-          "end_ref_usfm": "DEU 8:20"
-        },
-        {
-          "start_ref": "21012013",
-          "start_ref_usfm": "ECC 12:13",
-          "end_ref": "21012014",
-          "end_ref_usfm": "ECC 12:14"
-        },
-        {
-          "start_ref": "21012001",
-          "start_ref_usfm": "ECC 12:1",
-          "end_ref": "21012007",
-          "end_ref_usfm": "ECC 12:7"
-        },
-        {
-          "start_ref": "12017005",
-          "start_ref_usfm": "2KI 17:5",
-          "end_ref": "12017023",
-          "end_ref_usfm": "2KI 17:23"
-        },
-        {
-          "start_ref": "05031016",
-          "start_ref_usfm": "DEU 31:16",
-          "end_ref": "05031021",
-          "end_ref_usfm": "DEU 31:21"
-        },
-        {
-          "start_ref": "46003012",
-          "start_ref_usfm": "1CO 3:12",
-          "end_ref": "46003014",
-          "end_ref_usfm": "1CO 3:14"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700191",
-    "reference_id": 203128,
-    "version": "1.0.2",
-    "title": "祭司的祝福",
-    "media_type": "Text",
-    "index_reference": "祭司的祝福",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>祭司的祝福是希伯來聖經中十分著名且受人喜愛的段落（<a href=\"https://ref.ly/Num6:22-Num6:27\">民6:22–27</a>）。幾世紀來，敬拜神的人在這段言簡意賅的字句中得著安慰。這段著名的經文既簡單又獨特。</p><p>祭司的祝福在每個祈求中，藉由重複祂的名字來呼求主施恩惠（「主」的意思是<strong>耶和華（雅巍）</strong>；見<span data-bnType=\"resourceReference\" data-resourceId=\"10445\" data-resourceType=\"TyndaleStudyNotes\">研讀註釋，出3:15</span>）。每個祈求都重複神的名字，提醒祂的子民在生活中，記得祂的看顧和角色。這個祝福強調神與祂的子民之間緊密的聯繫，並幫助他們記住祝福來自何處。</p><p>許多舊約段落談到來自神和人的祝福（例如<a href=\"https://ref.ly/Gen12:1-Gen12:3\">創12:1–3</a>，<a href=\"https://ref.ly/Gen27:1-Gen27:40\">27:1–40</a>；<a href=\"https://ref.ly/Deut7:12-Deut7:15\">申7:12–15</a>，<a href=\"https://ref.ly/Deut28:1-Deut28:14\">28:1–14</a>）。在他們準備離開西奈山時，以色列人需要神的祝福、祂的幫助和恩惠。現代讀者通常用一般概念來理解祝福，但曠野中的以色列人理解的祝福，是食物、水、健康、孩子、免受敵人侵害以及定居在應許之地。整本民數記中，神供應以色列人的實際需求。</p><p>通過亞倫和他兒子，即祭司的話語，主祝福以色列（<a href=\"https://ref.ly/Num6:22-Num6:23\">民6:22–23</a>）。除了他們在會幕（後來是聖殿）的工作外，祭司在以色列人的生活中扮演關鍵角色。例如祭司協助確保地上的公正（<a href=\"https://ref.ly/Deut17:8-Deut17:12\">申17:8–12</a>）。他們遵照<a href=\"https://ref.ly/Deut17:18-Deut17:20\">申命記十七章18至20節</a>中的原則，協助君王履行職責。祭司以利安慰哈拿，並指導年少的撒母耳靈性成長（<a href=\"https://ref.ly/1Sam1:1-1Sam3:21\">撒上1:1–3:21</a>）。祭司和利未人積極教導以色列人屬靈的知識（例如見<a href=\"https://ref.ly/Deut33:9-Deut33:10\">申33:9–10</a>；<a href=\"https://ref.ly/Neh8:9-Neh8:12\">尼8:9–12</a>；<a href=\"https://ref.ly/Mal2:5-Mal2:9\">瑪2:5–9</a>）。</p><p>一項重大考古發現，強調這個古老祭司祝福的重要性。1980年，考古學家在耶路撒冷舊城西南方特夫欣嫩的一個岩石墓穴中，發現了兩卷小的銀軸。學者將這些物品（護身符）的年代推定為公元前六百年代末期或五百年代初期。經過漫長而謹慎的過程，他們展開這些脆弱的卷軸，找到來自<a href=\"https://ref.ly/Num6:24-Num6:26\">民數記六章24至26節</a>的祝福，與希伯來聖經的文本非常吻合。</p><p>在古代，人們有時會將這些卷軸作為象徵物（護身符）來佩戴，類似於經文匣或「<span>經文護符匣</span>」、「禱告盒」（見<a href=\"https://ref.ly/Deut6:8\">申6:8</a>；<a href=\"https://ref.ly/Matt23:5\">太23:5</a>）。這些小卷軸發現於耶路撒冷，是最早期的聖經抄本，包括最早提及耶和華（雅巍），即神在舊約聖經中的名字。這些考古發現顯示出這段簡短經文持久的吸引力。</p><p>許多新約書信以對讀者的祝福作結。這種祝福類似於民數記中祭司的祝福（例如，<a href=\"https://ref.ly/2Cor13:14\">林後13:14</a>；<a href=\"https://ref.ly/Heb13:20-Heb13:21\">來13:20–21</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen1:28\">創1:28</a>，<a href=\"https://ref.ly/Gen9:1\">9:1</a>、<a href=\"https://ref.ly/Gen9:26-Gen9:27\">26–27</a>，<a href=\"https://ref.ly/Gen12:1-Gen12:3\">12:1–3</a>，<a href=\"https://ref.ly/Gen14:19-Gen14:20\">14:19–20</a>，<a href=\"https://ref.ly/Gen28:1-Gen28:4\">28:1–4</a>，<a href=\"https://ref.ly/Gen48:15-Gen48:20\">48:15–20</a>，<a href=\"https://ref.ly/Gen49:25-Gen49:26\">49:25–26</a>；<a href=\"https://ref.ly/Lev9:22\">利9:22</a>，<a href=\"https://ref.ly/Num6:22-Num6:27\">民6:22–27</a>，<a href=\"https://ref.ly/Num24:1-Num24:9\">24:1–9</a>；<a href=\"https://ref.ly/Deut10:8\">申10:8</a>，<a href=\"https://ref.ly/Deut33:11-Deut33:29\">33:11–29</a>；<a href=\"https://ref.ly/1Sam2:20\">撒上2:20</a>；<a href=\"https://ref.ly/1Kgs8:55-1Kgs8:65\">王上8:55–65</a>；<a href=\"https://ref.ly/2Chr30:27\">代下30:27</a>；<a href=\"https://ref.ly/Ps115:12-Ps115:15\">詩115:12–15</a>，<a href=\"https://ref.ly/Ps128:1-Ps128:6\">128:1–6</a>；<a href=\"https://ref.ly/Matt5:3-Matt5:11\">太5:3–11</a>；<a href=\"https://ref.ly/Luke11:27-Luke11:28\">路11:27–28</a>；<a href=\"https://ref.ly/2Cor13:14\">林後13:14</a>；<a href=\"https://ref.ly/Eph6:23\">弗6:23</a>；<a href=\"https://ref.ly/1Thess5:23-1Thess5:24\">帖前5:23–24</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01001028",
-          "start_ref_usfm": "GEN 1:28",
-          "end_ref": "01001028",
-          "end_ref_usfm": "GEN 1:28"
-        },
-        {
-          "start_ref": "01009001",
-          "start_ref_usfm": "GEN 9:1",
-          "end_ref": "01009001",
-          "end_ref_usfm": "GEN 9:1"
-        },
-        {
-          "start_ref": "03009022",
-          "start_ref_usfm": "LEV 9:22",
-          "end_ref": "03009022",
-          "end_ref_usfm": "LEV 9:22"
-        },
-        {
-          "start_ref": "05006008",
-          "start_ref_usfm": "DEU 6:8",
-          "end_ref": "05006008",
-          "end_ref_usfm": "DEU 6:8"
-        },
-        {
-          "start_ref": "05010008",
-          "start_ref_usfm": "DEU 10:8",
-          "end_ref": "05010008",
-          "end_ref_usfm": "DEU 10:8"
-        },
-        {
-          "start_ref": "09002020",
-          "start_ref_usfm": "1SA 2:20",
-          "end_ref": "09002020",
-          "end_ref_usfm": "1SA 2:20"
-        },
-        {
-          "start_ref": "14030027",
-          "start_ref_usfm": "2CH 30:27",
-          "end_ref": "14030027",
-          "end_ref_usfm": "2CH 30:27"
-        },
-        {
-          "start_ref": "40023005",
-          "start_ref_usfm": "MAT 23:5",
-          "end_ref": "40023005",
-          "end_ref_usfm": "MAT 23:5"
-        },
-        {
-          "start_ref": "47013014",
-          "start_ref_usfm": "2CO 13:14",
-          "end_ref": "47013014",
-          "end_ref_usfm": "2CO 13:14"
-        },
-        {
-          "start_ref": "49006023",
-          "start_ref_usfm": "EPH 6:23",
-          "end_ref": "49006023",
-          "end_ref_usfm": "EPH 6:23"
-        },
-        {
-          "start_ref": "01012001",
-          "start_ref_usfm": "GEN 12:1",
-          "end_ref": "01012003",
-          "end_ref_usfm": "GEN 12:3"
-        },
-        {
-          "start_ref": "58013020",
-          "start_ref_usfm": "HEB 13:20",
-          "end_ref": "58013021",
-          "end_ref_usfm": "HEB 13:21"
-        },
-        {
-          "start_ref": "04006022",
-          "start_ref_usfm": "NUM 6:22",
-          "end_ref": "04006027",
-          "end_ref_usfm": "NUM 6:27"
-        },
-        {
-          "start_ref": "05017008",
-          "start_ref_usfm": "DEU 17:8",
-          "end_ref": "05017012",
-          "end_ref_usfm": "DEU 17:12"
-        },
-        {
-          "start_ref": "19128001",
-          "start_ref_usfm": "PSA 128:1",
-          "end_ref": "19128006",
-          "end_ref_usfm": "PSA 128:6"
-        },
-        {
-          "start_ref": "01009026",
-          "start_ref_usfm": "GEN 9:26",
-          "end_ref": "01009027",
-          "end_ref_usfm": "GEN 9:27"
-        },
-        {
-          "start_ref": "05033009",
-          "start_ref_usfm": "DEU 33:9",
-          "end_ref": "05033010",
-          "end_ref_usfm": "DEU 33:10"
-        },
-        {
-          "start_ref": "09001001",
-          "start_ref_usfm": "1SA 1:1",
-          "end_ref": "09003021",
-          "end_ref_usfm": "1SA 3:21"
-        },
-        {
-          "start_ref": "01014019",
-          "start_ref_usfm": "GEN 14:19",
-          "end_ref": "01014020",
-          "end_ref_usfm": "GEN 14:20"
-        },
-        {
-          "start_ref": "01027001",
-          "start_ref_usfm": "GEN 27:1",
-          "end_ref": "01027040",
-          "end_ref_usfm": "GEN 27:40"
-        },
-        {
-          "start_ref": "04006024",
-          "start_ref_usfm": "NUM 6:24",
-          "end_ref": "04006026",
-          "end_ref_usfm": "NUM 6:26"
-        },
-        {
-          "start_ref": "05007012",
-          "start_ref_usfm": "DEU 7:12",
-          "end_ref": "05007015",
-          "end_ref_usfm": "DEU 7:15"
-        },
-        {
-          "start_ref": "01028001",
-          "start_ref_usfm": "GEN 28:1",
-          "end_ref": "01028004",
-          "end_ref_usfm": "GEN 28:4"
-        },
-        {
-          "start_ref": "05028001",
-          "start_ref_usfm": "DEU 28:1",
-          "end_ref": "05028014",
-          "end_ref_usfm": "DEU 28:14"
-        },
-        {
-          "start_ref": "05017018",
-          "start_ref_usfm": "DEU 17:18",
-          "end_ref": "05017020",
-          "end_ref_usfm": "DEU 17:20"
-        },
-        {
-          "start_ref": "04006022",
-          "start_ref_usfm": "NUM 6:22",
-          "end_ref": "04006023",
-          "end_ref_usfm": "NUM 6:23"
-        },
-        {
-          "start_ref": "16008009",
-          "start_ref_usfm": "NEH 8:9",
-          "end_ref": "16008012",
-          "end_ref_usfm": "NEH 8:12"
-        },
-        {
-          "start_ref": "39002005",
-          "start_ref_usfm": "MAL 2:5",
-          "end_ref": "39002009",
-          "end_ref_usfm": "MAL 2:9"
-        },
-        {
-          "start_ref": "01048015",
-          "start_ref_usfm": "GEN 48:15",
-          "end_ref": "01048020",
-          "end_ref_usfm": "GEN 48:20"
-        },
-        {
-          "start_ref": "01049025",
-          "start_ref_usfm": "GEN 49:25",
-          "end_ref": "01049026",
-          "end_ref_usfm": "GEN 49:26"
-        },
-        {
-          "start_ref": "04024001",
-          "start_ref_usfm": "NUM 24:1",
-          "end_ref": "04024009",
-          "end_ref_usfm": "NUM 24:9"
-        },
-        {
-          "start_ref": "05033011",
-          "start_ref_usfm": "DEU 33:11",
-          "end_ref": "05033029",
-          "end_ref_usfm": "DEU 33:29"
-        },
-        {
-          "start_ref": "11008055",
-          "start_ref_usfm": "1KI 8:55",
-          "end_ref": "11008065",
-          "end_ref_usfm": "1KI 8:65"
-        },
-        {
-          "start_ref": "19115012",
-          "start_ref_usfm": "PSA 115:12",
-          "end_ref": "19115015",
-          "end_ref_usfm": "PSA 115:15"
-        },
-        {
-          "start_ref": "40005003",
-          "start_ref_usfm": "MAT 5:3",
-          "end_ref": "40005011",
-          "end_ref_usfm": "MAT 5:11"
-        },
-        {
-          "start_ref": "42011027",
-          "start_ref_usfm": "LUK 11:27",
-          "end_ref": "42011028",
-          "end_ref_usfm": "LUK 11:28"
-        },
-        {
-          "start_ref": "52005023",
-          "start_ref_usfm": "1TH 5:23",
-          "end_ref": "52005024",
-          "end_ref_usfm": "1TH 5:24"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 10445,
-          "content_id": 234286,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "出埃及記 3:15",
-          "language": "zht"
-        }
-      ],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700167",
-    "reference_id": 203104,
-    "version": "1.0.2",
-    "title": "祭壇",
-    "media_type": "Text",
-    "index_reference": "祭壇",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>聖經中第一次提到祭壇是挪亞在洪水之後為耶和華築了一座壇（<a href=\"https://ref.ly/Gen8:20-Gen8:21\">創8:20–21</a>），其實在更早之前，該隱與亞伯也曾向神獻上供物（<a href=\"https://ref.ly/Gen4:3-Gen4:5\">創4:3–5</a>）。族長們也建造了許多祭壇（見<a href=\"https://ref.ly/Gen12:7-Gen12:8\">創12:7–8，</a><a href=\"https://ref.ly/Gen13:4\">13:4、</a><a href=\"https://ref.ly/Gen13:18\">18，</a><a href=\"https://ref.ly/Gen22:9\">22:9，</a><a href=\"https://ref.ly/Gen26:25\">26:25，</a><a href=\"https://ref.ly/Gen33:20\">33:20，</a><a href=\"https://ref.ly/Gen35:1\">35:1、</a><a href=\"https://ref.ly/Gen35:14-Gen35:15\">14–15</a>）。這些祭壇標誌著神顯現的聖潔之地，以及他們在應許之地上宣告屬靈產業的記號，這些地點涵蓋北方（示劍）和南方（別是巴）。</p><p>這些祭壇的材質有石頭、泥土、磚塊，或以金屬和木頭製成。壇面平坦，如同桌子，以便焚燒的煙霧往上直升。祭壇可以用來作為紀念碑，也可以是獻祭的場所，是舊約時代與古代世界中最常見的敬拜象徵。</p><p>祭壇通常設於高台上，有斜坡或階梯通往壇上，將祭物放置在高處，是象徵著向天獻上。許多祭壇的四拐角上有四個角，標示出神聖的區域，是神與人相遇之處（見<a href=\"https://ref.ly/Exod27:2\">出27:2</a>）。透過獻祭與焚燒祭物，所獻上的祭物從可見的世界轉移至不可見的世界。</p><p>耶穌在自己身上結合了大祭司、贖罪羔羊與祭壇的多重象徵角色（見<a href=\"https://ref.ly/Heb4:14-Heb4:15\">來4:14–15，</a><a href=\"https://ref.ly/Heb7:24\">7:24、</a><a href=\"https://ref.ly/Heb7:27\">27，</a><a href=\"https://ref.ly/Heb9:14\">9:14、</a><a href=\"https://ref.ly/Heb9:26\">26，</a><a href=\"https://ref.ly/Heb10:10\">10:10，</a><a href=\"https://ref.ly/Heb13:10\">13:10、</a><a href=\"https://ref.ly/Heb13:12\">12</a>）。祂曾提及殉道者的血，並以此預言自己的犧牲（見<a href=\"https://ref.ly/Matt23:35\">太23:35</a>；<a href=\"https://ref.ly/Luke11:50-Luke11:51\">路11:50–51</a>）。祂被釘死在十字架上，就是在那「祭壇」上所獻的最終之祭。因此，在啟示錄中，那位坐在寶座上作王的「羔羊」，使聖殿與祭壇成為不再需要的存在（<a href=\"https://ref.ly/Rev21:22\">啟21:22</a>）。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Gen8:20-Gen8:21\">創8:20–21</a>，<a href=\"https://ref.ly/Gen12:7-Gen12:8\">12:7–8</a>，<a href=\"https://ref.ly/Gen22:9-Gen22:14\">22:9–14</a>，<a href=\"https://ref.ly/Gen33:20\">33:20；</a><a href=\"https://ref.ly/Exod20:24-Exod20:26\">出20:24–26；</a><a href=\"https://ref.ly/Josh22:10-Josh22:34\">書22:10–34；</a><a href=\"https://ref.ly/1Kgs18:20-1Kgs18:40\">王上18:20–40；</a><a href=\"https://ref.ly/Hos8:11-Hos8:13\">何8:11–13；</a><a href=\"https://ref.ly/Matt5:23-Matt5:24\">太5:23–24；</a><a href=\"https://ref.ly/Heb13:10-Heb13:14\">來13:10–14；</a><a href=\"https://ref.ly/Rev6:9\">啟6:9</a>，<a href=\"https://ref.ly/Rev8:3-Rev8:5\">8:3–5</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01013004",
-          "start_ref_usfm": "GEN 13:4",
-          "end_ref": "01013004",
-          "end_ref_usfm": "GEN 13:4"
-        },
-        {
-          "start_ref": "01013018",
-          "start_ref_usfm": "GEN 13:18",
-          "end_ref": "01013018",
-          "end_ref_usfm": "GEN 13:18"
-        },
-        {
-          "start_ref": "01022009",
-          "start_ref_usfm": "GEN 22:9",
-          "end_ref": "01022009",
-          "end_ref_usfm": "GEN 22:9"
-        },
-        {
-          "start_ref": "01026025",
-          "start_ref_usfm": "GEN 26:25",
-          "end_ref": "01026025",
-          "end_ref_usfm": "GEN 26:25"
-        },
-        {
-          "start_ref": "01033020",
-          "start_ref_usfm": "GEN 33:20",
-          "end_ref": "01033020",
-          "end_ref_usfm": "GEN 33:20"
-        },
-        {
-          "start_ref": "01035001",
-          "start_ref_usfm": "GEN 35:1",
-          "end_ref": "01035001",
-          "end_ref_usfm": "GEN 35:1"
-        },
-        {
-          "start_ref": "02027002",
-          "start_ref_usfm": "EXO 27:2",
-          "end_ref": "02027002",
-          "end_ref_usfm": "EXO 27:2"
-        },
-        {
-          "start_ref": "40023035",
-          "start_ref_usfm": "MAT 23:35",
-          "end_ref": "40023035",
-          "end_ref_usfm": "MAT 23:35"
-        },
-        {
-          "start_ref": "58007024",
-          "start_ref_usfm": "HEB 7:24",
-          "end_ref": "58007024",
-          "end_ref_usfm": "HEB 7:24"
-        },
-        {
-          "start_ref": "58007027",
-          "start_ref_usfm": "HEB 7:27",
-          "end_ref": "58007027",
-          "end_ref_usfm": "HEB 7:27"
-        },
-        {
-          "start_ref": "58009014",
-          "start_ref_usfm": "HEB 9:14",
-          "end_ref": "58009014",
-          "end_ref_usfm": "HEB 9:14"
-        },
-        {
-          "start_ref": "58009026",
-          "start_ref_usfm": "HEB 9:26",
-          "end_ref": "58009026",
-          "end_ref_usfm": "HEB 9:26"
-        },
-        {
-          "start_ref": "58010010",
-          "start_ref_usfm": "HEB 10:10",
-          "end_ref": "58010010",
-          "end_ref_usfm": "HEB 10:10"
-        },
-        {
-          "start_ref": "58013010",
-          "start_ref_usfm": "HEB 13:10",
-          "end_ref": "58013010",
-          "end_ref_usfm": "HEB 13:10"
-        },
-        {
-          "start_ref": "58013012",
-          "start_ref_usfm": "HEB 13:12",
-          "end_ref": "58013012",
-          "end_ref_usfm": "HEB 13:12"
-        },
-        {
-          "start_ref": "66006009",
-          "start_ref_usfm": "REV 6:9",
-          "end_ref": "66006009",
-          "end_ref_usfm": "REV 6:9"
-        },
-        {
-          "start_ref": "66021022",
-          "start_ref_usfm": "REV 21:22",
-          "end_ref": "66021022",
-          "end_ref_usfm": "REV 21:22"
-        },
-        {
-          "start_ref": "02020024",
-          "start_ref_usfm": "EXO 20:24",
-          "end_ref": "02020026",
-          "end_ref_usfm": "EXO 20:26"
-        },
-        {
-          "start_ref": "40005023",
-          "start_ref_usfm": "MAT 5:23",
-          "end_ref": "40005024",
-          "end_ref_usfm": "MAT 5:24"
-        },
-        {
-          "start_ref": "06022010",
-          "start_ref_usfm": "JOS 22:10",
-          "end_ref": "06022034",
-          "end_ref_usfm": "JOS 22:34"
-        },
-        {
-          "start_ref": "66008003",
-          "start_ref_usfm": "REV 8:3",
-          "end_ref": "66008005",
-          "end_ref_usfm": "REV 8:5"
-        },
-        {
-          "start_ref": "01004003",
-          "start_ref_usfm": "GEN 4:3",
-          "end_ref": "01004005",
-          "end_ref_usfm": "GEN 4:5"
-        },
-        {
-          "start_ref": "01035014",
-          "start_ref_usfm": "GEN 35:14",
-          "end_ref": "01035015",
-          "end_ref_usfm": "GEN 35:15"
-        },
-        {
-          "start_ref": "01008020",
-          "start_ref_usfm": "GEN 8:20",
-          "end_ref": "01008021",
-          "end_ref_usfm": "GEN 8:21"
-        },
-        {
-          "start_ref": "01012007",
-          "start_ref_usfm": "GEN 12:7",
-          "end_ref": "01012008",
-          "end_ref_usfm": "GEN 12:8"
-        },
-        {
-          "start_ref": "58004014",
-          "start_ref_usfm": "HEB 4:14",
-          "end_ref": "58004015",
-          "end_ref_usfm": "HEB 4:15"
-        },
-        {
-          "start_ref": "42011050",
-          "start_ref_usfm": "LUK 11:50",
-          "end_ref": "42011051",
-          "end_ref_usfm": "LUK 11:51"
-        },
-        {
-          "start_ref": "01022009",
-          "start_ref_usfm": "GEN 22:9",
-          "end_ref": "01022014",
-          "end_ref_usfm": "GEN 22:14"
-        },
-        {
-          "start_ref": "11018020",
-          "start_ref_usfm": "1KI 18:20",
-          "end_ref": "11018040",
-          "end_ref_usfm": "1KI 18:40"
-        },
-        {
-          "start_ref": "28008011",
-          "start_ref_usfm": "HOS 8:11",
-          "end_ref": "28008013",
-          "end_ref_usfm": "HOS 8:13"
-        },
-        {
-          "start_ref": "58013010",
-          "start_ref_usfm": "HEB 13:10",
-          "end_ref": "58013014",
-          "end_ref_usfm": "HEB 13:14"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  }
+{
+"content_id": "700308",
+"reference_id": 203245,
+"version": "1.0.2",
+"title": "基本律法",
+"media_type": "Text",
+"index_reference": "基本律法",
+"language": "zht",
+"review_level": "None",
+"content": "<p>在聖經中，獨一的真神是至高的權柄。神的律法包括正面與負面的命令。兩條主要的律法總結了所有正面的命令：</p><ul><li><p>「你要盡心、盡性、盡力愛耶和華－你的神」（<a href=\"https://ref.ly/Deut6:5\">申6:5</a>；<a href=\"https://ref.ly/Matt22:37\">太22:37</a>；<a href=\"https://ref.ly/Mark12:30\">可12:30</a>；<a href=\"https://ref.ly/Luke10:27\">路10:27</a>）。</p></li><li><p>「要愛人如己」（<a href=\"https://ref.ly/Lev19:18\">利19:18</a>；<a href=\"https://ref.ly/Matt19:19\">太19:19</a>；<a href=\"https://ref.ly/Mark12:31\">可12:31</a>；<a href=\"https://ref.ly/Luke10:27\">路10:27</a>）。</p></li></ul><p>我們可以在十誡中的正面命令裡看到這兩條律法的具體展現（<a href=\"https://ref.ly/Exod20:2-Exod20:17\">出20:2–17</a>；<a href=\"https://ref.ly/Deut5:6-Deut5:21\">申5:6–21</a>）：</p><ul><li><p>「當記念安息日」</p></li><li><p>「當孝敬父母」</p></li></ul><p>另一方面，負面的命令則劃分了善與惡之間的界線。十誡中的頭兩條是關鍵：</p><ul><li><p>「除了我以外，你不可有別的神」（<a href=\"https://ref.ly/Exod20:3\">出20:3</a>）。</p></li><li><p>「不可為自己雕刻偶像……不可跪拜那些像，也不可事奉它」（<a href=\"https://ref.ly/Exod20:4-Exod20:5\">出20:4–5</a>）。</p></li></ul><p>這些被禁止的行為違背了愛神的根本命令。</p><p>先知書顯明，神根據這些律法審判以色列人的行為。無論是哪個時代、哪個地方的君王、群體或個人，神也都會按照同樣的標準審判他們。違背這些核心誡命的人，就是拒絕獨一的真神。他們最終必將面對神的審判，並承受罪人當受的災難。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Exod20:2-Exod20:17\">出20:2–17；</a><a href=\"https://ref.ly/Lev19:18\">利19:18；</a><a href=\"https://ref.ly/Deut5:6-Deut5:21\">申5:6–21</a>，<a href=\"https://ref.ly/Deut6:5\">6:5；</a><a href=\"https://ref.ly/Jer2:7-Jer2:13\">耶2:7–13</a>，<a href=\"https://ref.ly/Jer3:8-Jer3:11\">3:8–11</a>，<a href=\"https://ref.ly/Jer5:1-Jer5:9\">5:1–9</a>，<a href=\"https://ref.ly/Jer6:10-Jer6:21\">6:10–21</a>，<a href=\"https://ref.ly/Jer7:16-Jer7:29\">7:16–29</a>，<a href=\"https://ref.ly/Jer8:9-Jer8:13\">8:9–13</a>，<a href=\"https://ref.ly/Jer11:6-Jer11:14\">11:6–14</a>，<a href=\"https://ref.ly/Jer17:1-Jer17:4\">17:1–4</a>，<a href=\"https://ref.ly/Jer22:1-Jer22:9\">22:1–9</a>，<a href=\"https://ref.ly/Jer23:10-Jer23:12\">23:10–12</a>，<a href=\"https://ref.ly/Jer34:8-Jer34:20\">34:8–20；</a><a href=\"https://ref.ly/Matt19:19\">太19:19</a>，<a href=\"https://ref.ly/Matt22:37\">22:37；</a><a href=\"https://ref.ly/Mark12:30-Mark12:31\">可12:30–31；</a><a href=\"https://ref.ly/Luke10:27\">路10:27；</a><a href=\"https://ref.ly/1Cor13:13\">林前13:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02020003",
+"start_ref_usfm": "EXO 20:3",
+"end_ref": "02020003",
+"end_ref_usfm": "EXO 20:3"
+},
+{
+"start_ref": "03019018",
+"start_ref_usfm": "LEV 19:18",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
+},
+{
+"start_ref": "05006005",
+"start_ref_usfm": "DEU 6:5",
+"end_ref": "05006005",
+"end_ref_usfm": "DEU 6:5"
+},
+{
+"start_ref": "40019019",
+"start_ref_usfm": "MAT 19:19",
+"end_ref": "40019019",
+"end_ref_usfm": "MAT 19:19"
+},
+{
+"start_ref": "40022037",
+"start_ref_usfm": "MAT 22:37",
+"end_ref": "40022037",
+"end_ref_usfm": "MAT 22:37"
+},
+{
+"start_ref": "41012030",
+"start_ref_usfm": "MRK 12:30",
+"end_ref": "41012030",
+"end_ref_usfm": "MRK 12:30"
+},
+{
+"start_ref": "41012031",
+"start_ref_usfm": "MRK 12:31",
+"end_ref": "41012031",
+"end_ref_usfm": "MRK 12:31"
+},
+{
+"start_ref": "42010027",
+"start_ref_usfm": "LUK 10:27",
+"end_ref": "42010027",
+"end_ref_usfm": "LUK 10:27"
+},
+{
+"start_ref": "46013013",
+"start_ref_usfm": "1CO 13:13",
+"end_ref": "46013013",
+"end_ref_usfm": "1CO 13:13"
+},
+{
+"start_ref": "02020002",
+"start_ref_usfm": "EXO 20:2",
+"end_ref": "02020017",
+"end_ref_usfm": "EXO 20:17"
+},
+{
+"start_ref": "05005006",
+"start_ref_usfm": "DEU 5:6",
+"end_ref": "05005021",
+"end_ref_usfm": "DEU 5:21"
+},
+{
+"start_ref": "02020004",
+"start_ref_usfm": "EXO 20:4",
+"end_ref": "02020005",
+"end_ref_usfm": "EXO 20:5"
+},
+{
+"start_ref": "24022001",
+"start_ref_usfm": "JER 22:1",
+"end_ref": "24022009",
+"end_ref_usfm": "JER 22:9"
+},
+{
+"start_ref": "24017001",
+"start_ref_usfm": "JER 17:1",
+"end_ref": "24017004",
+"end_ref_usfm": "JER 17:4"
+},
+{
+"start_ref": "24002007",
+"start_ref_usfm": "JER 2:7",
+"end_ref": "24002013",
+"end_ref_usfm": "JER 2:13"
+},
+{
+"start_ref": "24003008",
+"start_ref_usfm": "JER 3:8",
+"end_ref": "24003011",
+"end_ref_usfm": "JER 3:11"
+},
+{
+"start_ref": "24005001",
+"start_ref_usfm": "JER 5:1",
+"end_ref": "24005009",
+"end_ref_usfm": "JER 5:9"
+},
+{
+"start_ref": "24006010",
+"start_ref_usfm": "JER 6:10",
+"end_ref": "24006021",
+"end_ref_usfm": "JER 6:21"
+},
+{
+"start_ref": "24007016",
+"start_ref_usfm": "JER 7:16",
+"end_ref": "24007029",
+"end_ref_usfm": "JER 7:29"
+},
+{
+"start_ref": "24008009",
+"start_ref_usfm": "JER 8:9",
+"end_ref": "24008013",
+"end_ref_usfm": "JER 8:13"
+},
+{
+"start_ref": "24011006",
+"start_ref_usfm": "JER 11:6",
+"end_ref": "24011014",
+"end_ref_usfm": "JER 11:14"
+},
+{
+"start_ref": "24023010",
+"start_ref_usfm": "JER 23:10",
+"end_ref": "24023012",
+"end_ref_usfm": "JER 23:12"
+},
+{
+"start_ref": "24034008",
+"start_ref_usfm": "JER 34:8",
+"end_ref": "24034020",
+"end_ref_usfm": "JER 34:20"
+},
+{
+"start_ref": "41012030",
+"start_ref_usfm": "MRK 12:30",
+"end_ref": "41012031",
+"end_ref_usfm": "MRK 12:31"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700364",
+"reference_id": 203301,
+"version": "1.0.2",
+"title": "基督的降生",
+"media_type": "Text",
+"index_reference": "基督的降生",
+"language": "zht",
+"review_level": "None",
+"content": "<p>耶穌降生的故事展現出，祂卑微的處境與祂的神性之間鮮明的對比（<a href=\"https://ref.ly/Matt1:18-Matt2:12\">太1:18–2:12</a>；<a href=\"https://ref.ly/Luke1:44-Luke1:47\">路2:1–20</a>）。</p><p><span>一方面，我們看到</span>祂的誕生極其卑微<span>。</span>一對貧窮的夫婦為了配合當時統治的羅馬帝國進行的人口普查（政府要求當時全境居民登記），從加利利跋涉至祖先的故鄉伯利恆。這段旅程漫長而艱難。他們抵達時，找不到容身之處，只能在牲畜所棲的地方暫住。</p><p>整個情景透露出貧窮、被拒絕，與人們的漠視<span>。耶穌出生時，消息沒有傳達給重要的王或富人，反而是傳給附近田野看守羊群的牧羊人。</span></p><p><span>然而，</span>在這樣卑微的場景中，卻傳遞出滿有榮耀與權能的信息<span>。那個被放在飼料槽（馬槽）裡的嬰孩，正是彌賽亞，人們期待已久的大衛王後裔。祂將以勝利姿態統治以色列民，祂的國度永無窮盡。</span></p><p>祂正是先知所預言的那位。整個歷史都指向在衪裡面，<span>這個最重要的時刻</span>。一群來自東方的博士遠道而來敬拜祂；一大隊天使滿有能力從天而降，宣告祂的降生。</p><p>這些對比預示耶穌將來成就的工作。在耶穌裡，以色列的神和全地的主親自來到人間，探訪並拯救祂的子民。神從天而降，進入人們日常的生活與處境之中。福音書多次記載，耶穌特別關懷卑微的人、貧窮的人、被拒絕的人和罪人。祂來拯救那些自知需要祂的人，他們以喜樂與歡欣的心領受救恩的信息。</p><p>卑微與偉大的對比，也延伸到耶穌的使命。惡人拒絕祂，並將祂處死。然而，神藉著耶穌的復活，證明了祂的義，並使祂升到神的右邊。</p><p>如今，祂坐在寶座上，作為主和彌賽亞掌權。祂從那裡差遣聖靈帶領並引導祂的教會。藉著祂的生命、死亡、復活、升天進入榮耀，耶穌帶來罪的赦免，並<span>賜下永\b生給所有以信心的生活回應衪的人</span>。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Matt1:18-Matt2:12\">太1:18–2:12</a>；<a href=\"https://ref.ly/Luke2:1-Luke2:40\">路2:1–20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42001044",
+"start_ref_usfm": "LUK 1:44",
+"end_ref": "42001047",
+"end_ref_usfm": "LUK 1:47"
+},
+{
+"start_ref": "40001018",
+"start_ref_usfm": "MAT 1:18",
+"end_ref": "40002012",
+"end_ref_usfm": "MAT 2:12"
+},
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002040",
+"end_ref_usfm": "LUK 2:40"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700423",
+"reference_id": 203360,
+"version": "1.0.2",
+"title": "基督頌：基督的神性",
+"media_type": "Text",
+"index_reference": "基督頌：基督的神性",
+"language": "zht",
+"review_level": "None",
+"content": "<p><a href=\"https://ref.ly/Phil2:6-Phil2:11\">腓立比書二章6至11節</a>這段經文，通常被稱為基督頌（Christ Hymn），反映早期信徒對耶穌基督的信念。從這首頌歌可以看出，早期信徒相信耶穌在道成肉身之前已經存在，並且擁有神的本性（另見<a href=\"https://ref.ly/Col1:15-Col1:20\">西1:15–20</a>，<a href=\"https://ref.ly/Col2:9\">2:9</a>；參<a href=\"https://ref.ly/John1:1-John1:2\">約1:1–2</a>；<a href=\"https://ref.ly/Heb1:1-Heb1:3\">來1:1–3</a>）。</p><p>這首頌歌教導我們，基督不僅是另一位<span>人類先知</span>。祂從<span>太</span>初就與父神同在，並且是神藉以創造<span>萬有</span>的那位。作為神的兒子，<span>耶穌與神同享衪的本性</span>。</p><p>耶穌宣稱自己具有神性，這一點在當時引發祂與宗教領袖之間的重大爭議。當耶穌聲稱與神同等時，他們指控祂褻瀆（即說了羞辱神的話）神（<a href=\"https://ref.ly/John5:16-John5:18\">約5:16–18</a>，<a href=\"https://ref.ly/John8:54-John8:59\">8:54–59</a>，<a href=\"https://ref.ly/John10:30-John10:39\">10:30–39</a>）。</p><p>同時，這首頌歌教導我們，耶穌基督以極大的謙卑來到世上。<span>那位</span>無限的（祂是永恆的，不受時間限制）神，在耶穌基督裡取了<span>人的樣式</span>，進入人類歷史（<a href=\"https://ref.ly/Phil2:7\">腓2:7</a>；見<a href=\"https://ref.ly/Col1:15\">西1:15</a>；<a href=\"https://ref.ly/John1:10-John1:14\">約1:10–14</a>；<a href=\"https://ref.ly/Heb2:14\">來2:14</a>，<a href=\"https://ref.ly/Heb2:17\">17</a>）。耶穌基督這位榮耀的萬有創造者，為了人類的罪捨身而死，成就赦罪，使人得以與神和好（<a href=\"https://ref.ly/Phil2:8\">腓2:8</a>；見<a href=\"https://ref.ly/John3:14-John3:17\">約3:14–17</a>；<a href=\"https://ref.ly/Rom5:9-Rom5:10\">羅5:9–10</a>；<a href=\"https://ref.ly/Col1:20\">西1:20</a>、<a href=\"https://ref.ly/Col1:22\">22</a>，<a href=\"https://ref.ly/Col2:13-Col2:14\">2:13–14</a>；<a href=\"https://ref.ly/Heb1:3\">來1:3</a>，<a href=\"https://ref.ly/Heb10:9-Heb10:14\">10:9–14</a>）。聖經早已預言這一切（見<a href=\"https://ref.ly/Isa53:3-Isa53:12\">賽53:3–12</a>）。</p><p>這首頌歌宣告，神已使耶穌從死裡復活，並將天上至高的尊榮賜給祂（<a href=\"https://ref.ly/Phil2:9\">腓2:9</a>）。神也將「主」的稱號給予耶穌（<a href=\"https://ref.ly/Phil2:11\">腓2:11</a>；參<a href=\"https://ref.ly/Col1:18\">西1:18</a>）。有一天，一切創造都要在祂面前屈膝，承認祂是萬有的主（<a href=\"https://ref.ly/Phil2:9-Phil2:11\">腓2:9–11</a>）。祂配得那只有神才配得的敬拜（見<a href=\"https://ref.ly/Rev5:8-Rev5:14\">啟5:8–14</a>）。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Isa53:3-Isa53:12\">賽53:3–12</a>；<a href=\"https://ref.ly/John1:1-John1:2\">約1:1–2</a>、<a href=\"https://ref.ly/John1:10-John1:14\">10–14</a>，<a href=\"https://ref.ly/John3:14-John3:17\">3:14–17</a>；<a href=\"https://ref.ly/Rom5:9-Rom5:10\">羅5:9–10</a>；<a href=\"https://ref.ly/Phil2:6-Phil2:11\">腓2:6–11</a>；<a href=\"https://ref.ly/Col1:15-Col1:22\">西1:15–22</a>，<a href=\"https://ref.ly/Col2:9\">2:9</a>、<a href=\"https://ref.ly/Col2:13-Col2:14\">13–14</a>；<a href=\"https://ref.ly/Heb1:1-Heb1:3\">來1:1–3</a>，<a href=\"https://ref.ly/Heb2:14\">2:14</a>、<a href=\"https://ref.ly/Heb2:17\">17</a>，<a href=\"https://ref.ly/Heb10:9-Heb10:14\">10:9–14</a>；<a href=\"https://ref.ly/Rev5:8-Rev5:14\">啟5:8–14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "50002007",
+"start_ref_usfm": "PHP 2:7",
+"end_ref": "50002007",
+"end_ref_usfm": "PHP 2:7"
+},
+{
+"start_ref": "50002008",
+"start_ref_usfm": "PHP 2:8",
+"end_ref": "50002008",
+"end_ref_usfm": "PHP 2:8"
+},
+{
+"start_ref": "50002009",
+"start_ref_usfm": "PHP 2:9",
+"end_ref": "50002009",
+"end_ref_usfm": "PHP 2:9"
+},
+{
+"start_ref": "50002011",
+"start_ref_usfm": "PHP 2:11",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
+},
+{
+"start_ref": "51001015",
+"start_ref_usfm": "COL 1:15",
+"end_ref": "51001015",
+"end_ref_usfm": "COL 1:15"
+},
+{
+"start_ref": "51001018",
+"start_ref_usfm": "COL 1:18",
+"end_ref": "51001018",
+"end_ref_usfm": "COL 1:18"
+},
+{
+"start_ref": "51001020",
+"start_ref_usfm": "COL 1:20",
+"end_ref": "51001020",
+"end_ref_usfm": "COL 1:20"
+},
+{
+"start_ref": "51001022",
+"start_ref_usfm": "COL 1:22",
+"end_ref": "51001022",
+"end_ref_usfm": "COL 1:22"
+},
+{
+"start_ref": "51002009",
+"start_ref_usfm": "COL 2:9",
+"end_ref": "51002009",
+"end_ref_usfm": "COL 2:9"
+},
+{
+"start_ref": "58001003",
+"start_ref_usfm": "HEB 1:3",
+"end_ref": "58001003",
+"end_ref_usfm": "HEB 1:3"
+},
+{
+"start_ref": "58002014",
+"start_ref_usfm": "HEB 2:14",
+"end_ref": "58002014",
+"end_ref_usfm": "HEB 2:14"
+},
+{
+"start_ref": "58002017",
+"start_ref_usfm": "HEB 2:17",
+"end_ref": "58002017",
+"end_ref_usfm": "HEB 2:17"
+},
+{
+"start_ref": "50002009",
+"start_ref_usfm": "PHP 2:9",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
+},
+{
+"start_ref": "51001015",
+"start_ref_usfm": "COL 1:15",
+"end_ref": "51001020",
+"end_ref_usfm": "COL 1:20"
+},
+{
+"start_ref": "50002006",
+"start_ref_usfm": "PHP 2:6",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
+},
+{
+"start_ref": "43001001",
+"start_ref_usfm": "JHN 1:1",
+"end_ref": "43001002",
+"end_ref_usfm": "JHN 1:2"
+},
+{
+"start_ref": "51001015",
+"start_ref_usfm": "COL 1:15",
+"end_ref": "51001022",
+"end_ref_usfm": "COL 1:22"
+},
+{
+"start_ref": "58001001",
+"start_ref_usfm": "HEB 1:1",
+"end_ref": "58001003",
+"end_ref_usfm": "HEB 1:3"
+},
+{
+"start_ref": "23053003",
+"start_ref_usfm": "ISA 53:3",
+"end_ref": "23053012",
+"end_ref_usfm": "ISA 53:12"
+},
+{
+"start_ref": "66005008",
+"start_ref_usfm": "REV 5:8",
+"end_ref": "66005014",
+"end_ref_usfm": "REV 5:14"
+},
+{
+"start_ref": "43005016",
+"start_ref_usfm": "JHN 5:16",
+"end_ref": "43005018",
+"end_ref_usfm": "JHN 5:18"
+},
+{
+"start_ref": "43008054",
+"start_ref_usfm": "JHN 8:54",
+"end_ref": "43008059",
+"end_ref_usfm": "JHN 8:59"
+},
+{
+"start_ref": "43010030",
+"start_ref_usfm": "JHN 10:30",
+"end_ref": "43010039",
+"end_ref_usfm": "JHN 10:39"
+},
+{
+"start_ref": "43001010",
+"start_ref_usfm": "JHN 1:10",
+"end_ref": "43001014",
+"end_ref_usfm": "JHN 1:14"
+},
+{
+"start_ref": "43003014",
+"start_ref_usfm": "JHN 3:14",
+"end_ref": "43003017",
+"end_ref_usfm": "JHN 3:17"
+},
+{
+"start_ref": "45005009",
+"start_ref_usfm": "ROM 5:9",
+"end_ref": "45005010",
+"end_ref_usfm": "ROM 5:10"
+},
+{
+"start_ref": "51002013",
+"start_ref_usfm": "COL 2:13",
+"end_ref": "51002014",
+"end_ref_usfm": "COL 2:14"
+},
+{
+"start_ref": "58010009",
+"start_ref_usfm": "HEB 10:9",
+"end_ref": "58010014",
+"end_ref_usfm": "HEB 10:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700415",
+"reference_id": 203352,
+"version": "1.0.2",
+"title": "基督徒的奉獻",
+"media_type": "Text",
+"index_reference": "基督徒的奉獻",
+"language": "zht",
+"review_level": "None",
+"content": "<p>慷慨的基督徒奉獻展現出真正的恩典。我們從「我們主耶穌基督」身上看見了這點，「他本來富足，卻為你們成了貧窮，叫你們因他的貧窮，可以成為富足」（<a href=\"https://ref.ly/2Cor8:9\">林後8:9</a>；<a href=\"https://ref.ly/Phil2:5-Phil2:8\">腓2:5–8</a>）。我們在救恩中白白領受了祂的恩典，因此甘心樂意地奉獻，作為對那「說不盡的恩賜」的回應（<a href=\"https://ref.ly/2Cor9:15\">林後9:15</a>）。</p><p>耶穌教導說，慷慨是跟隨祂的人所應有的表現（<a href=\"https://ref.ly/Matt25:34-Matt25:36\">太25:34–36</a>）。祂強調人的動機與態度，而不僅僅是奉獻的數目（<a href=\"https://ref.ly/Mark12:41-Mark12:44\">可12:41–44</a>）。</p><p>在哥林多後書中，使徒保羅強調奉獻的教導。他勸勉哥林多的教會，要慷慨地供應有需要的人，特別是耶路撒冷貧窮的猶太信徒（<a href=\"https://ref.ly/2Cor8:6-2Cor8:7\">林後8:6–7，</a><a href=\"https://ref.ly/2Cor9:1-2Cor9:5\">9:1–5</a>）。這樣的慷慨表明外邦基督徒與耶路撒冷的猶太基督徒同屬一個「身體」。</p><p>以下是保羅關於基督徒奉獻的重點教導：</p><ol><li><p>我們的奉獻應當甘心樂意（<a href=\"https://ref.ly/2Cor8:12\">林後8:12</a>，<a href=\"https://ref.ly/2Cor9:7\">9:7</a>）。保羅強調奉獻的動機，因為奉獻背後的原因才是最重要的。</p></li><li><p>真正的奉獻會帶來喜樂，而不是勉強的捐獻（<a href=\"https://ref.ly/2Cor9:5\">林後9:5</a>）。當我們把財物給予他人，就如農夫撒種時帶著盼望與喜樂，因他知道將來會有收成（<a href=\"https://ref.ly/2Cor9:6-2Cor9:10\">9:6–10</a>）。同樣地，與有需要的人分享，也會帶來喜樂（<a href=\"https://ref.ly/2Cor9:1-2Cor9:2\">9:1–2</a>）。</p></li><li><p>基督徒的奉獻應當慷慨，甚至帶著犧牲的精神，正如馬其頓信徒的榜樣（<a href=\"https://ref.ly/2Cor8:1-2Cor8:5\">林後8:1–5</a>）。</p></li><li><p>處理金錢奉獻需有誠信、正直與謹慎的態度。保羅特別小心地保護那些負責收奉獻的同工，使他們不被人懷疑（<a href=\"https://ref.ly/2Cor8:20-2Cor8:21\">林後8:20–21</a>）。凡管理教會捐獻的人，應當具備良好的聲譽與責任感。</p></li></ol><p>基督徒的生活應表現出對有需要的人的慷慨關懷。保羅教導信徒要討神的喜悅，而不是為自己活（<a href=\"https://ref.ly/2Cor5:15\">林後5:15</a>）。信徒當活在基督的帶領之下，被祂的愛所激勵（<a href=\"https://ref.ly/2Cor5:14\">5:14</a>）。我們可以透過慷慨的奉獻，具體地彰顯祂的愛。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Exod25:2\">出25:2</a>，<a href=\"https://ref.ly/Exod35:5\">35:5；</a><a href=\"https://ref.ly/Lev25:35\">利25:35；</a><a href=\"https://ref.ly/Deut15:7-Deut15:11\">申15:7–11</a>，<a href=\"https://ref.ly/Deut16:17\">16:17；</a><a href=\"https://ref.ly/1Chr29:9\">代上29:9；</a><a href=\"https://ref.ly/Prov3:9-Prov3:10\">箴3:9–10</a>，<a href=\"https://ref.ly/Prov11:24-Prov11:26\">11:24–26</a>，<a href=\"https://ref.ly/Prov21:13\">21:13</a>，<a href=\"https://ref.ly/Prov28:27\">28:27；</a><a href=\"https://ref.ly/Mal3:8\">瑪3:8；</a><a href=\"https://ref.ly/Matt5:42\">太5:42</a>，<a href=\"https://ref.ly/Matt6:3-Matt6:4\">6:3–4</a>，<a href=\"https://ref.ly/Matt10:8\">10:8</a>，<a href=\"https://ref.ly/Matt19:21\">19:21；</a><a href=\"https://ref.ly/Luke6:38\">路6:38</a>，<a href=\"https://ref.ly/Luke11:41\">11:41</a>，<a href=\"https://ref.ly/Luke12:33-Luke12:34\">12:33–34</a>，<a href=\"https://ref.ly/Luke18:22\">18:22；</a><a href=\"https://ref.ly/Acts11:29\">徒11:29</a>，<a href=\"https://ref.ly/1Cor13:3\">林前13:3</a>，<a href=\"https://ref.ly/1Cor16:2-1Cor16:3\">16:2–3；</a><a href=\"https://ref.ly/2Cor5:17-2Cor5:18\">林後5:17–18；</a><a href=\"https://ref.ly/2Cor8:1-2Cor9:15\">林後8:1–9:15；</a><a href=\"https://ref.ly/Phil2:3-Phil2:11\">腓2:3–11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025002",
+"start_ref_usfm": "EXO 25:2",
+"end_ref": "02025002",
+"end_ref_usfm": "EXO 25:2"
+},
+{
+"start_ref": "02035005",
+"start_ref_usfm": "EXO 35:5",
+"end_ref": "02035005",
+"end_ref_usfm": "EXO 35:5"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025035",
+"end_ref_usfm": "LEV 25:35"
+},
+{
+"start_ref": "05016017",
+"start_ref_usfm": "DEU 16:17",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "13029009",
+"start_ref_usfm": "1CH 29:9",
+"end_ref": "13029009",
+"end_ref_usfm": "1CH 29:9"
+},
+{
+"start_ref": "20021013",
+"start_ref_usfm": "PRO 21:13",
+"end_ref": "20021013",
+"end_ref_usfm": "PRO 21:13"
+},
+{
+"start_ref": "20028027",
+"start_ref_usfm": "PRO 28:27",
+"end_ref": "20028027",
+"end_ref_usfm": "PRO 28:27"
+},
+{
+"start_ref": "39003008",
+"start_ref_usfm": "MAL 3:8",
+"end_ref": "39003008",
+"end_ref_usfm": "MAL 3:8"
+},
+{
+"start_ref": "40005042",
+"start_ref_usfm": "MAT 5:42",
+"end_ref": "40005042",
+"end_ref_usfm": "MAT 5:42"
+},
+{
+"start_ref": "40010008",
+"start_ref_usfm": "MAT 10:8",
+"end_ref": "40010008",
+"end_ref_usfm": "MAT 10:8"
+},
+{
+"start_ref": "40019021",
+"start_ref_usfm": "MAT 19:21",
+"end_ref": "40019021",
+"end_ref_usfm": "MAT 19:21"
+},
+{
+"start_ref": "42006038",
+"start_ref_usfm": "LUK 6:38",
+"end_ref": "42006038",
+"end_ref_usfm": "LUK 6:38"
+},
+{
+"start_ref": "42011041",
+"start_ref_usfm": "LUK 11:41",
+"end_ref": "42011041",
+"end_ref_usfm": "LUK 11:41"
+},
+{
+"start_ref": "42018022",
+"start_ref_usfm": "LUK 18:22",
+"end_ref": "42018022",
+"end_ref_usfm": "LUK 18:22"
+},
+{
+"start_ref": "44011029",
+"start_ref_usfm": "ACT 11:29",
+"end_ref": "44011029",
+"end_ref_usfm": "ACT 11:29"
+},
+{
+"start_ref": "46013003",
+"start_ref_usfm": "1CO 13:3",
+"end_ref": "46013003",
+"end_ref_usfm": "1CO 13:3"
+},
+{
+"start_ref": "47005014",
+"start_ref_usfm": "2CO 5:14",
+"end_ref": "47005014",
+"end_ref_usfm": "2CO 5:14"
+},
+{
+"start_ref": "47005015",
+"start_ref_usfm": "2CO 5:15",
+"end_ref": "47005015",
+"end_ref_usfm": "2CO 5:15"
+},
+{
+"start_ref": "47008009",
+"start_ref_usfm": "2CO 8:9",
+"end_ref": "47008009",
+"end_ref_usfm": "2CO 8:9"
+},
+{
+"start_ref": "47008012",
+"start_ref_usfm": "2CO 8:12",
+"end_ref": "47008012",
+"end_ref_usfm": "2CO 8:12"
+},
+{
+"start_ref": "47009005",
+"start_ref_usfm": "2CO 9:5",
+"end_ref": "47009005",
+"end_ref_usfm": "2CO 9:5"
+},
+{
+"start_ref": "47009007",
+"start_ref_usfm": "2CO 9:7",
+"end_ref": "47009007",
+"end_ref_usfm": "2CO 9:7"
+},
+{
+"start_ref": "47009015",
+"start_ref_usfm": "2CO 9:15",
+"end_ref": "47009015",
+"end_ref_usfm": "2CO 9:15"
+},
+{
+"start_ref": "05015007",
+"start_ref_usfm": "DEU 15:7",
+"end_ref": "05015011",
+"end_ref_usfm": "DEU 15:11"
+},
+{
+"start_ref": "47008001",
+"start_ref_usfm": "2CO 8:1",
+"end_ref": "47008005",
+"end_ref_usfm": "2CO 8:5"
+},
+{
+"start_ref": "47008001",
+"start_ref_usfm": "2CO 8:1",
+"end_ref": "47009015",
+"end_ref_usfm": "2CO 9:15"
+},
+{
+"start_ref": "47009001",
+"start_ref_usfm": "2CO 9:1",
+"end_ref": "47009005",
+"end_ref_usfm": "2CO 9:5"
+},
+{
+"start_ref": "50002005",
+"start_ref_usfm": "PHP 2:5",
+"end_ref": "50002008",
+"end_ref_usfm": "PHP 2:8"
+},
+{
+"start_ref": "20003009",
+"start_ref_usfm": "PRO 3:9",
+"end_ref": "20003010",
+"end_ref_usfm": "PRO 3:10"
+},
+{
+"start_ref": "41012041",
+"start_ref_usfm": "MRK 12:41",
+"end_ref": "41012044",
+"end_ref_usfm": "MRK 12:44"
+},
+{
+"start_ref": "20011024",
+"start_ref_usfm": "PRO 11:24",
+"end_ref": "20011026",
+"end_ref_usfm": "PRO 11:26"
+},
+{
+"start_ref": "40006003",
+"start_ref_usfm": "MAT 6:3",
+"end_ref": "40006004",
+"end_ref_usfm": "MAT 6:4"
+},
+{
+"start_ref": "47009006",
+"start_ref_usfm": "2CO 9:6",
+"end_ref": "47009010",
+"end_ref_usfm": "2CO 9:10"
+},
+{
+"start_ref": "40025034",
+"start_ref_usfm": "MAT 25:34",
+"end_ref": "40025036",
+"end_ref_usfm": "MAT 25:36"
+},
+{
+"start_ref": "47008006",
+"start_ref_usfm": "2CO 8:6",
+"end_ref": "47008007",
+"end_ref_usfm": "2CO 8:7"
+},
+{
+"start_ref": "47009001",
+"start_ref_usfm": "2CO 9:1",
+"end_ref": "47009002",
+"end_ref_usfm": "2CO 9:2"
+},
+{
+"start_ref": "47008020",
+"start_ref_usfm": "2CO 8:20",
+"end_ref": "47008021",
+"end_ref_usfm": "2CO 8:21"
+},
+{
+"start_ref": "42012033",
+"start_ref_usfm": "LUK 12:33",
+"end_ref": "42012034",
+"end_ref_usfm": "LUK 12:34"
+},
+{
+"start_ref": "46016002",
+"start_ref_usfm": "1CO 16:2",
+"end_ref": "46016003",
+"end_ref_usfm": "1CO 16:3"
+},
+{
+"start_ref": "47005017",
+"start_ref_usfm": "2CO 5:17",
+"end_ref": "47005018",
+"end_ref_usfm": "2CO 5:18"
+},
+{
+"start_ref": "50002003",
+"start_ref_usfm": "PHP 2:3",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700446",
+"reference_id": 203383,
+"version": "1.0.2",
+"title": "基督徒的苦難",
+"media_type": "Text",
+"index_reference": "基督徒的苦難",
+"language": "zht",
+"review_level": "None",
+"content": "<p>當我們遭遇苦難時，不應該感到驚訝（<a href=\"https://ref.ly/1Pet4:12\">彼前4:12</a>）。那些因順從神而活出與世人不同生活方式的基督徒，理當預期會遭遇來自社會的敵意。我們當預備面對譏笑、惡待、無端指控，甚至暴力攻擊。</p><p>神在我們的苦難中有祂的旨意。苦難使我們更深與基督聯合，祂在得榮耀之前也曾受苦（<a href=\"https://ref.ly/1Pet4:13\">彼前4:13</a>；另見<a href=\"https://ref.ly/Rom8:17\">羅8:17</a>）。當我們與基督一同受苦，也必與祂一同得榮耀。</p><p>彼得前書特別強調基督徒的受苦，尤其是那些因信仰而遭受不公平逼迫的人。這些苦難的主題，在<a href=\"https://ref.ly/1Pet4:12-1Pet4:19\">四章12至19節</a>中有非常清楚的闡述。</p><p>當我們遭遇苦難時，應當立志行善（<a href=\"https://ref.ly/1Pet4:19\">彼前4:19</a>）。困難往往會成為人犯罪的藉口，但我們在艱難中仍要活出好榜樣，以愛心對待他人。困境中仍以愛回應敵人，便是向他人見證基督信仰的大好機會。當我們以仁愛與恩慈回應傷害我們的人時，旁人可能會因此對我們的信仰產生興趣。</p><p>在遭遇患難時，我們要記得這是出於「神的旨意」，並且祂是「信實的」（<a href=\"https://ref.ly/1Pet4:19\">彼前4:19</a>）。祂掌管生命中的一切環境與遭遇，因此我們無需懼怕任何苦難，彷彿這些遭遇超出神的掌權或旨意。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Isa48:10\">賽48:10，</a><a href=\"https://ref.ly/Isa52:13-Isa53:12\">52:13–53:12，</a><a href=\"https://ref.ly/Isa63:7-Isa63:9\">63:7–9</a>；<a href=\"https://ref.ly/Mark10:35-Mark10:40\">可10:35–40</a>；<a href=\"https://ref.ly/Acts5:41\">徒5:41，</a><a href=\"https://ref.ly/Acts9:16\">9:16，</a><a href=\"https://ref.ly/Acts14:22\">14:22</a>；<a href=\"https://ref.ly/Rom8:17-Rom8:23\">羅8:17–23</a>；<a href=\"https://ref.ly/2Cor1:5-2Cor1:7\">林後1:5–7，</a><a href=\"https://ref.ly/2Cor4:10\">4:10，</a><a href=\"https://ref.ly/2Cor12:10\">12:10</a>；<a href=\"https://ref.ly/Phil1:29\">腓1:29</a>；<a href=\"https://ref.ly/Col1:24\">西1:24</a>；<a href=\"https://ref.ly/1Thess2:14\">帖前2:14</a>；<a href=\"https://ref.ly/2Thess1:5\">帖後1:5</a>；<a href=\"https://ref.ly/2Tim3:12\">提後3:12</a>；<a href=\"https://ref.ly/Heb2:9-Heb2:10\">來2:9–10，</a><a href=\"https://ref.ly/Heb5:8\">5:8，</a><a href=\"https://ref.ly/Heb13:12\">13:12</a>；<a href=\"https://ref.ly/Jas5:11-Jas5:13\">雅5:11–13</a>；<a href=\"https://ref.ly/1Pet4:12-1Pet4:19\">彼前4:12–19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23048010",
+"start_ref_usfm": "ISA 48:10",
+"end_ref": "23048010",
+"end_ref_usfm": "ISA 48:10"
+},
+{
+"start_ref": "44005041",
+"start_ref_usfm": "ACT 5:41",
+"end_ref": "44005041",
+"end_ref_usfm": "ACT 5:41"
+},
+{
+"start_ref": "44009016",
+"start_ref_usfm": "ACT 9:16",
+"end_ref": "44009016",
+"end_ref_usfm": "ACT 9:16"
+},
+{
+"start_ref": "44014022",
+"start_ref_usfm": "ACT 14:22",
+"end_ref": "44014022",
+"end_ref_usfm": "ACT 14:22"
+},
+{
+"start_ref": "45008017",
+"start_ref_usfm": "ROM 8:17",
+"end_ref": "45008017",
+"end_ref_usfm": "ROM 8:17"
+},
+{
+"start_ref": "47004010",
+"start_ref_usfm": "2CO 4:10",
+"end_ref": "47004010",
+"end_ref_usfm": "2CO 4:10"
+},
+{
+"start_ref": "47012010",
+"start_ref_usfm": "2CO 12:10",
+"end_ref": "47012010",
+"end_ref_usfm": "2CO 12:10"
+},
+{
+"start_ref": "50001029",
+"start_ref_usfm": "PHP 1:29",
+"end_ref": "50001029",
+"end_ref_usfm": "PHP 1:29"
+},
+{
+"start_ref": "51001024",
+"start_ref_usfm": "COL 1:24",
+"end_ref": "51001024",
+"end_ref_usfm": "COL 1:24"
+},
+{
+"start_ref": "52002014",
+"start_ref_usfm": "1TH 2:14",
+"end_ref": "52002014",
+"end_ref_usfm": "1TH 2:14"
+},
+{
+"start_ref": "53001005",
+"start_ref_usfm": "2TH 1:5",
+"end_ref": "53001005",
+"end_ref_usfm": "2TH 1:5"
+},
+{
+"start_ref": "55003012",
+"start_ref_usfm": "2TI 3:12",
+"end_ref": "55003012",
+"end_ref_usfm": "2TI 3:12"
+},
+{
+"start_ref": "58005008",
+"start_ref_usfm": "HEB 5:8",
+"end_ref": "58005008",
+"end_ref_usfm": "HEB 5:8"
+},
+{
+"start_ref": "58013012",
+"start_ref_usfm": "HEB 13:12",
+"end_ref": "58013012",
+"end_ref_usfm": "HEB 13:12"
+},
+{
+"start_ref": "60004012",
+"start_ref_usfm": "1PE 4:12",
+"end_ref": "60004012",
+"end_ref_usfm": "1PE 4:12"
+},
+{
+"start_ref": "60004013",
+"start_ref_usfm": "1PE 4:13",
+"end_ref": "60004013",
+"end_ref_usfm": "1PE 4:13"
+},
+{
+"start_ref": "60004019",
+"start_ref_usfm": "1PE 4:19",
+"end_ref": "60004019",
+"end_ref_usfm": "1PE 4:19"
+},
+{
+"start_ref": "45008017",
+"start_ref_usfm": "ROM 8:17",
+"end_ref": "45008023",
+"end_ref_usfm": "ROM 8:23"
+},
+{
+"start_ref": "23052013",
+"start_ref_usfm": "ISA 52:13",
+"end_ref": "23053012",
+"end_ref_usfm": "ISA 53:12"
+},
+{
+"start_ref": "41010035",
+"start_ref_usfm": "MRK 10:35",
+"end_ref": "41010040",
+"end_ref_usfm": "MRK 10:40"
+},
+{
+"start_ref": "60004012",
+"start_ref_usfm": "1PE 4:12",
+"end_ref": "60004019",
+"end_ref_usfm": "1PE 4:19"
+},
+{
+"start_ref": "23063007",
+"start_ref_usfm": "ISA 63:7",
+"end_ref": "23063009",
+"end_ref_usfm": "ISA 63:9"
+},
+{
+"start_ref": "47001005",
+"start_ref_usfm": "2CO 1:5",
+"end_ref": "47001007",
+"end_ref_usfm": "2CO 1:7"
+},
+{
+"start_ref": "58002009",
+"start_ref_usfm": "HEB 2:9",
+"end_ref": "58002010",
+"end_ref_usfm": "HEB 2:10"
+},
+{
+"start_ref": "59005011",
+"start_ref_usfm": "JAS 5:11",
+"end_ref": "59005013",
+"end_ref_usfm": "JAS 5:13"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700424",
+"reference_id": 203361,
+"version": "1.0.2",
+"title": "基督徒的喜樂",
+"media_type": "Text",
+"index_reference": "基督徒的喜樂",
+"language": "zht",
+"review_level": "None",
+"content": "<p>在耶穌生命的最後時刻，祂渴望門徒滿有祂的喜樂（見<a href=\"https://ref.ly/John15:11\">約15:11，</a><a href=\"https://ref.ly/John16:20-John16:24\">16:20–24</a>）。喜樂是使徒保羅書信中常見的主題，特別是在腓立比書中更是核心信息之一。保羅時常勉勵基督徒要常常喜樂，特別是那些正面對逼迫的信徒，如腓立比和帖撒羅尼迦教會的信徒（<a href=\"https://ref.ly/Phil3:1\">腓3:1，</a><a href=\"https://ref.ly/Phil4:4\">4:4</a>；<a href=\"https://ref.ly/1Thess5:16\">帖前5:16</a>）。</p><p>表面的快樂往往取決於外在環境，但基督徒的喜樂則不同。這種喜樂源自與主的關係，即使在痛苦或死亡當中也能堅定不變。這是因為信徒深知，無論發生甚麼事，神都會使萬事互相效力，為愛祂的人帶來最終的益處（見<a href=\"https://ref.ly/Rom5:3-Rom5:4\">羅5:3–4，</a><a href=\"https://ref.ly/Rom8:28\">8:28</a>）。</p><p>基督徒的喜樂也來自聖靈在心中真實的同在與運行（見<a href=\"https://ref.ly/Gal5:22\">加5:22</a>）。喜樂生命的真正秘訣在於「被聖靈充滿」（見<a href=\"https://ref.ly/Eph5:18\">弗5:18</a>）。基督徒的態度乃是由他與永活真神的關係所塑造，而不是被外在環境所決定的。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/John15:11\">約15:11</a>，<a href=\"https://ref.ly/John16:24\">16:24；</a><a href=\"https://ref.ly/Rom5:3-Rom5:4\">羅5:3–4</a>，<a href=\"https://ref.ly/Rom8:28\">8:28；</a><a href=\"https://ref.ly/Gal5:22\">加5:22；</a><a href=\"https://ref.ly/Eph5:18\">弗5:18；</a><a href=\"https://ref.ly/Phil3:1\">腓3:1</a>，<a href=\"https://ref.ly/Phil4:4\">4:4；</a><a href=\"https://ref.ly/1Thess5:16\">帖前5:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43015011",
+"start_ref_usfm": "JHN 15:11",
+"end_ref": "43015011",
+"end_ref_usfm": "JHN 15:11"
+},
+{
+"start_ref": "43016024",
+"start_ref_usfm": "JHN 16:24",
+"end_ref": "43016024",
+"end_ref_usfm": "JHN 16:24"
+},
+{
+"start_ref": "45008028",
+"start_ref_usfm": "ROM 8:28",
+"end_ref": "45008028",
+"end_ref_usfm": "ROM 8:28"
+},
+{
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005022",
+"end_ref_usfm": "GAL 5:22"
+},
+{
+"start_ref": "49005018",
+"start_ref_usfm": "EPH 5:18",
+"end_ref": "49005018",
+"end_ref_usfm": "EPH 5:18"
+},
+{
+"start_ref": "50003001",
+"start_ref_usfm": "PHP 3:1",
+"end_ref": "50003001",
+"end_ref_usfm": "PHP 3:1"
+},
+{
+"start_ref": "50004004",
+"start_ref_usfm": "PHP 4:4",
+"end_ref": "50004004",
+"end_ref_usfm": "PHP 4:4"
+},
+{
+"start_ref": "52005016",
+"start_ref_usfm": "1TH 5:16",
+"end_ref": "52005016",
+"end_ref_usfm": "1TH 5:16"
+},
+{
+"start_ref": "45005003",
+"start_ref_usfm": "ROM 5:3",
+"end_ref": "45005004",
+"end_ref_usfm": "ROM 5:4"
+},
+{
+"start_ref": "43016020",
+"start_ref_usfm": "JHN 16:20",
+"end_ref": "43016024",
+"end_ref_usfm": "JHN 16:24"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700172",
+"reference_id": 203109,
+"version": "1.0.2",
+"title": "饑荒",
+"media_type": "Text",
+"index_reference": "饑荒",
+"language": "zht",
+"review_level": "None",
+"content": "<p>饑荒在族長亞伯拉罕與以撒的生命早期就曾經發生（<a href=\"https://ref.ly/Gen12:10\">創12:10，</a><a href=\"https://ref.ly/Gen26:1\">26:1</a>）。當族長雅各的家族遭遇饑荒時，神早已預備他的兒子約瑟在埃及，使神的百姓得以度過這場危機（<a href=\"https://ref.ly/Gen41:56-Gen42:5\">41:56–42:5，</a><a href=\"https://ref.ly/Gen45:5\">45:5、</a><a href=\"https://ref.ly/Gen45:7\">7</a>）。那場饑荒極其嚴重，但在古代世界中，饑荒卻是相當常見的（見<a href=\"https://ref.ly/Ruth1:1\">得1:1</a>；<a href=\"https://ref.ly/2Sam21:1\">撒下21:1</a>；<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:2\">王上18:1–2</a>；<a href=\"https://ref.ly/Hag1:1-Hag1:11\">該1:1–11</a>；<a href=\"https://ref.ly/Acts11:28\">徒11:28</a>）。</p><p>在以農業為主的社會中，饑荒是極大的災難。乾旱、農作物失收，或是遭圍城等情況，都可能引發饑荒（<a href=\"https://ref.ly/2Kgs25:1-2Kgs25:30\">王下25:1–30</a>）。饑荒常伴隨疾病或戰爭，對社會各階層造成衝擊（<a href=\"https://ref.ly/Jer14:12\">耶14:12</a>），甚至連牲畜也受到波及（<a href=\"https://ref.ly/Joel1:20\">珥1:20</a>）。由於人們依賴雨水生產糧食，有些人會儲藏糧食以備饑荒之需（<a href=\"https://ref.ly/Gen41:33-Gen41:36\">創41:33–36，</a><a href=\"https://ref.ly/Gen47:23-Gen47:24\">47:23–24</a>；見<a href=\"https://ref.ly/1Chr26:15\">代上26:15</a>；<a href=\"https://ref.ly/2Chr31:11\">代下31:11</a>；<a href=\"https://ref.ly/Neh10:37-Neh10:39\">尼10:37–39</a>）。</p><p>糧食不足時，常會引發許多災難（<a href=\"https://ref.ly/Gen12:10\">創12:10，</a><a href=\"https://ref.ly/Gen26:1\">26:1</a>；<a href=\"https://ref.ly/2Kgs6:24-2Kgs6:29\">王下6:24–29</a>；<a href=\"https://ref.ly/Neh5:1-Neh5:3\">尼5:1–3</a>；<a href=\"https://ref.ly/Jer19:9\">耶19:9</a>；<a href=\"https://ref.ly/Lam2:20-Lam2:21\">哀2:20–21，</a><a href=\"https://ref.ly/Lam4:8-Lam4:10\">4:8–10</a>）。</p><ul><li><p>糧價飛漲。</p></li><li><p>人彼此偷竊。</p></li><li><p>窮人遭受不公待遇。</p></li><li><p>農地無法出產作物。</p></li><li><p>人們被迫離家尋找糧食。</p></li><li><p>在最嚴重的情況下，人甚至會為了生存而吃人肉。</p></li></ul><p>有時，人們會將饑荒視為神對以色列人的審判（<a href=\"https://ref.ly/Lev26:14-Lev26:20\">利26:14–20</a>；<a href=\"https://ref.ly/Deut11:16-Deut11:17\">申11:16–17，</a><a href=\"https://ref.ly/Deut28:33\">28:33</a>；<a href=\"https://ref.ly/Jer29:17-Jer29:18\">耶29:17–18</a>）。因此，對神保持忠心是極其重要的（<a href=\"https://ref.ly/Ps33:18-Ps33:19\">詩33:18–19，</a><a href=\"https://ref.ly/Ps37:19\">37:19</a>）。神對民族的祝福，也包括從饑荒中得保護（<a href=\"https://ref.ly/Ezek34:29\">結34:29，</a><a href=\"https://ref.ly/Ezek36:29-Ezek36:30\">36:29–30</a>）。</p><p>耶穌在曠野受試探的時候，也經歷了一場類似以色列人所面對的饑荒。祂選擇不為自己將石頭變為食物（<a href=\"https://ref.ly/Matt4:1-Matt4:4\">太4:1–4</a>；另見<a href=\"https://ref.ly/Deut8:3\">申8:3</a>）。祂勝過魔鬼的試探，顯示出人在缺乏食物和飢餓時，可以學習謙卑與信靠神的供應。耶穌曾餵飽五千人，表明祂是「生命的糧」，是神「天上來的真糧」（<a href=\"https://ref.ly/John6:32-John6:35\">約6:32–35</a>）。</p><p>然而，那些群眾跟隨祂，更多是為了得吃的，而非真正認識祂是誰（<a href=\"https://ref.ly/John6:26-John6:27\">約6:26–27</a>）。耶穌並不否認肉體的需要，但祂更強調人靈裡的飢渴（<a href=\"https://ref.ly/Luke6:21\">路6:21</a>；<a href=\"https://ref.ly/John4:34\">約4:34</a>）。吃飯既是團契的場景，也是團契的象徵（<a href=\"https://ref.ly/Gen43:34\">創43:34</a>；<a href=\"https://ref.ly/Luke22:15-Luke22:16\">路22:15–16</a>；<a href=\"https://ref.ly/Rev19:9\">啟19:9</a>）。在天上，再也不會有飢餓（<a href=\"https://ref.ly/Rev7:16\">啟7:16</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen12:10\">創12:10</a>，<a href=\"https://ref.ly/Gen26:1\">26:1</a>，<a href=\"https://ref.ly/Gen41:33-Gen41:36\">41:33–36</a>、<a href=\"https://ref.ly/Gen41:56-Gen41:57\">56–57</a>，<a href=\"https://ref.ly/Gen45:6-Gen45:7\">45:6–7</a>；<a href=\"https://ref.ly/Lev26:19-Lev26:20\">利26:19–20</a>；<a href=\"https://ref.ly/Deut8:3\">申8:3</a>，<a href=\"https://ref.ly/Deut11:16-Deut11:17\">11:16–17</a>；<a href=\"https://ref.ly/Ruth1:1\">得1:1</a>；<a href=\"https://ref.ly/2Sam21:1\">撒下21:1</a>；<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:2\">王上18:1–2</a>；<a href=\"https://ref.ly/2Kgs8:1-2Kgs8:2\">王下8:1–2</a>；<a href=\"https://ref.ly/Jer14:11-Jer14:16\">耶14:11–16</a>；<a href=\"https://ref.ly/Ezek34:29-Ezek34:31\">結34:29–31</a>，<a href=\"https://ref.ly/Ezek36:28-Ezek36:32\">36:28–32</a>；<a href=\"https://ref.ly/Joel1:1-Joel1:20\">珥1:1–20</a>；<a href=\"https://ref.ly/Amos8:11-Amos8:14\">摩8:11–14</a>；<a href=\"https://ref.ly/Hag1:1-Hag1:11\">該1:1–11</a>；<a href=\"https://ref.ly/Luke6:21\">路6:21</a>；<a href=\"https://ref.ly/John6:32-John6:35\">約6:32–35</a>；<a href=\"https://ref.ly/Acts11:28-Acts11:30\">徒11:28–30</a>；<a href=\"https://ref.ly/Rev7:16\">啟7:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01012010",
+"start_ref_usfm": "GEN 12:10",
+"end_ref": "01012010",
+"end_ref_usfm": "GEN 12:10"
+},
+{
+"start_ref": "01026001",
+"start_ref_usfm": "GEN 26:1",
+"end_ref": "01026001",
+"end_ref_usfm": "GEN 26:1"
+},
+{
+"start_ref": "01043034",
+"start_ref_usfm": "GEN 43:34",
+"end_ref": "01043034",
+"end_ref_usfm": "GEN 43:34"
+},
+{
+"start_ref": "01045005",
+"start_ref_usfm": "GEN 45:5",
+"end_ref": "01045005",
+"end_ref_usfm": "GEN 45:5"
+},
+{
+"start_ref": "01045007",
+"start_ref_usfm": "GEN 45:7",
+"end_ref": "01045007",
+"end_ref_usfm": "GEN 45:7"
+},
+{
+"start_ref": "05008003",
+"start_ref_usfm": "DEU 8:3",
+"end_ref": "05008003",
+"end_ref_usfm": "DEU 8:3"
+},
+{
+"start_ref": "05028033",
+"start_ref_usfm": "DEU 28:33",
+"end_ref": "05028033",
+"end_ref_usfm": "DEU 28:33"
+},
+{
+"start_ref": "08001001",
+"start_ref_usfm": "RUT 1:1",
+"end_ref": "08001001",
+"end_ref_usfm": "RUT 1:1"
+},
+{
+"start_ref": "10021001",
+"start_ref_usfm": "2SA 21:1",
+"end_ref": "10021001",
+"end_ref_usfm": "2SA 21:1"
+},
+{
+"start_ref": "13026015",
+"start_ref_usfm": "1CH 26:15",
+"end_ref": "13026015",
+"end_ref_usfm": "1CH 26:15"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031011",
+"end_ref_usfm": "2CH 31:11"
+},
+{
+"start_ref": "19037019",
+"start_ref_usfm": "PSA 37:19",
+"end_ref": "19037019",
+"end_ref_usfm": "PSA 37:19"
+},
+{
+"start_ref": "24014012",
+"start_ref_usfm": "JER 14:12",
+"end_ref": "24014012",
+"end_ref_usfm": "JER 14:12"
+},
+{
+"start_ref": "24019009",
+"start_ref_usfm": "JER 19:9",
+"end_ref": "24019009",
+"end_ref_usfm": "JER 19:9"
+},
+{
+"start_ref": "26034029",
+"start_ref_usfm": "EZK 34:29",
+"end_ref": "26034029",
+"end_ref_usfm": "EZK 34:29"
+},
+{
+"start_ref": "29001020",
+"start_ref_usfm": "JOL 1:20",
+"end_ref": "29001020",
+"end_ref_usfm": "JOL 1:20"
+},
+{
+"start_ref": "42006021",
+"start_ref_usfm": "LUK 6:21",
+"end_ref": "42006021",
+"end_ref_usfm": "LUK 6:21"
+},
+{
+"start_ref": "43004034",
+"start_ref_usfm": "JHN 4:34",
+"end_ref": "43004034",
+"end_ref_usfm": "JHN 4:34"
+},
+{
+"start_ref": "44011028",
+"start_ref_usfm": "ACT 11:28",
+"end_ref": "44011028",
+"end_ref_usfm": "ACT 11:28"
+},
+{
+"start_ref": "66007016",
+"start_ref_usfm": "REV 7:16",
+"end_ref": "66007016",
+"end_ref_usfm": "REV 7:16"
+},
+{
+"start_ref": "66019009",
+"start_ref_usfm": "REV 19:9",
+"end_ref": "66019009",
+"end_ref_usfm": "REV 19:9"
+},
+{
+"start_ref": "12025001",
+"start_ref_usfm": "2KI 25:1",
+"end_ref": "12025030",
+"end_ref_usfm": "2KI 25:30"
+},
+{
+"start_ref": "16010037",
+"start_ref_usfm": "NEH 10:37",
+"end_ref": "16010039",
+"end_ref_usfm": "NEH 10:39"
+},
+{
+"start_ref": "37001001",
+"start_ref_usfm": "HAG 1:1",
+"end_ref": "37001011",
+"end_ref_usfm": "HAG 1:11"
+},
+{
+"start_ref": "01045006",
+"start_ref_usfm": "GEN 45:6",
+"end_ref": "01045007",
+"end_ref_usfm": "GEN 45:7"
+},
+{
+"start_ref": "30008011",
+"start_ref_usfm": "AMO 8:11",
+"end_ref": "30008014",
+"end_ref_usfm": "AMO 8:14"
+},
+{
+"start_ref": "01041033",
+"start_ref_usfm": "GEN 41:33",
+"end_ref": "01041036",
+"end_ref_usfm": "GEN 41:36"
+},
+{
+"start_ref": "03026019",
+"start_ref_usfm": "LEV 26:19",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "11018001",
+"start_ref_usfm": "1KI 18:1",
+"end_ref": "11018002",
+"end_ref_usfm": "1KI 18:2"
+},
+{
+"start_ref": "29001001",
+"start_ref_usfm": "JOL 1:1",
+"end_ref": "29001020",
+"end_ref_usfm": "JOL 1:20"
+},
+{
+"start_ref": "12008001",
+"start_ref_usfm": "2KI 8:1",
+"end_ref": "12008002",
+"end_ref_usfm": "2KI 8:2"
+},
+{
+"start_ref": "01041056",
+"start_ref_usfm": "GEN 41:56",
+"end_ref": "01042005",
+"end_ref_usfm": "GEN 42:5"
+},
+{
+"start_ref": "01047023",
+"start_ref_usfm": "GEN 47:23",
+"end_ref": "01047024",
+"end_ref_usfm": "GEN 47:24"
+},
+{
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12006029",
+"end_ref_usfm": "2KI 6:29"
+},
+{
+"start_ref": "16005001",
+"start_ref_usfm": "NEH 5:1",
+"end_ref": "16005003",
+"end_ref_usfm": "NEH 5:3"
+},
+{
+"start_ref": "25002020",
+"start_ref_usfm": "LAM 2:20",
+"end_ref": "25002021",
+"end_ref_usfm": "LAM 2:21"
+},
+{
+"start_ref": "25004008",
+"start_ref_usfm": "LAM 4:8",
+"end_ref": "25004010",
+"end_ref_usfm": "LAM 4:10"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "05011016",
+"start_ref_usfm": "DEU 11:16",
+"end_ref": "05011017",
+"end_ref_usfm": "DEU 11:17"
+},
+{
+"start_ref": "24029017",
+"start_ref_usfm": "JER 29:17",
+"end_ref": "24029018",
+"end_ref_usfm": "JER 29:18"
+},
+{
+"start_ref": "19033018",
+"start_ref_usfm": "PSA 33:18",
+"end_ref": "19033019",
+"end_ref_usfm": "PSA 33:19"
+},
+{
+"start_ref": "26036029",
+"start_ref_usfm": "EZK 36:29",
+"end_ref": "26036030",
+"end_ref_usfm": "EZK 36:30"
+},
+{
+"start_ref": "40004001",
+"start_ref_usfm": "MAT 4:1",
+"end_ref": "40004004",
+"end_ref_usfm": "MAT 4:4"
+},
+{
+"start_ref": "43006032",
+"start_ref_usfm": "JHN 6:32",
+"end_ref": "43006035",
+"end_ref_usfm": "JHN 6:35"
+},
+{
+"start_ref": "43006026",
+"start_ref_usfm": "JHN 6:26",
+"end_ref": "43006027",
+"end_ref_usfm": "JHN 6:27"
+},
+{
+"start_ref": "42022015",
+"start_ref_usfm": "LUK 22:15",
+"end_ref": "42022016",
+"end_ref_usfm": "LUK 22:16"
+},
+{
+"start_ref": "01041056",
+"start_ref_usfm": "GEN 41:56",
+"end_ref": "01041057",
+"end_ref_usfm": "GEN 41:57"
+},
+{
+"start_ref": "24014011",
+"start_ref_usfm": "JER 14:11",
+"end_ref": "24014016",
+"end_ref_usfm": "JER 14:16"
+},
+{
+"start_ref": "26034029",
+"start_ref_usfm": "EZK 34:29",
+"end_ref": "26034031",
+"end_ref_usfm": "EZK 34:31"
+},
+{
+"start_ref": "26036028",
+"start_ref_usfm": "EZK 36:28",
+"end_ref": "26036032",
+"end_ref_usfm": "EZK 36:32"
+},
+{
+"start_ref": "44011028",
+"start_ref_usfm": "ACT 11:28",
+"end_ref": "44011030",
+"end_ref_usfm": "ACT 11:30"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700294",
+"reference_id": 203231,
+"version": "1.0.2",
+"title": "記念神",
+"media_type": "Text",
+"index_reference": "記念神",
+"language": "zht",
+"review_level": "None",
+"content": "<p>神拯救以色列人脫離埃及的奴役，並使他們成為衪的子民。然而，神也知道他們將來會忘記祂（<a href=\"https://ref.ly/Deut31:16-Deut31:21\">申31:16–21</a>）。摩西曾警告那些即將進入應許之地的百姓，要常常記得耶和華為他們所行的一切事（<a href=\"https://ref.ly/Deut8:1-Deut8:20\">申8:1–20</a>）。但以色列人最終仍忘記了神，結果被擄到外邦，失去了神所賜給他們的土地（見<a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">王下17:5–23</a>；另見<a href=\"https://ref.ly/Jer2:32\">耶2:32</a>）。</p><p>傳道書中的傳道者，強調記念主的重要性。傳道者在書中不斷反思，人生中許多事物都是短暫、虛空的。他最後呼籲讀者要記念那位永恆的神（<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">傳12:1–7</a>）。青春不會長存，衰老與死亡是所有人都必經的過程。</p><p>因此，傳道者勸勉人要在年少之時，就專心歸向神，免得為時已晚。因為世人所行的每一件事，都必須向神交帳（<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">傳12:13–14</a>）。我們今生的生活，應當以神未來的審判為指引。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Deut8:1-Deut8:20\">申8:1–20</a>；<a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">傳12:1–7</a>、<a href=\"https://ref.ly/Eccl12:13-Eccl12:14\">13–14</a>；<a href=\"https://ref.ly/1Cor3:12-1Cor3:14\">林前3:12–14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24002032",
+"start_ref_usfm": "JER 2:32",
+"end_ref": "24002032",
+"end_ref_usfm": "JER 2:32"
+},
+{
+"start_ref": "05008001",
+"start_ref_usfm": "DEU 8:1",
+"end_ref": "05008020",
+"end_ref_usfm": "DEU 8:20"
+},
+{
+"start_ref": "21012013",
+"start_ref_usfm": "ECC 12:13",
+"end_ref": "21012014",
+"end_ref_usfm": "ECC 12:14"
+},
+{
+"start_ref": "21012001",
+"start_ref_usfm": "ECC 12:1",
+"end_ref": "21012007",
+"end_ref_usfm": "ECC 12:7"
+},
+{
+"start_ref": "12017005",
+"start_ref_usfm": "2KI 17:5",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "05031016",
+"start_ref_usfm": "DEU 31:16",
+"end_ref": "05031021",
+"end_ref_usfm": "DEU 31:21"
+},
+{
+"start_ref": "46003012",
+"start_ref_usfm": "1CO 3:12",
+"end_ref": "46003014",
+"end_ref_usfm": "1CO 3:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700191",
+"reference_id": 203128,
+"version": "1.0.2",
+"title": "祭司的祝福",
+"media_type": "Text",
+"index_reference": "祭司的祝福",
+"language": "zht",
+"review_level": "None",
+"content": "<p>祭司的祝福是希伯來聖經中十分著名且受人喜愛的段落（<a href=\"https://ref.ly/Num6:22-Num6:27\">民6:22–27</a>）。幾世紀來，敬拜神的人在這段言簡意賅的字句中得著安慰。這段著名的經文既簡單又獨特。</p><p>祭司的祝福在每個祈求中，藉由重複祂的名字來呼求主施恩惠（「主」的意思是<strong>耶和華（雅巍）</strong>；見<span data-bnType=\"resourceReference\" data-resourceId=\"10445\" data-resourceType=\"TyndaleStudyNotes\">研讀註釋，出3:15</span>）。每個祈求都重複神的名字，提醒祂的子民在生活中，記得祂的看顧和角色。這個祝福強調神與祂的子民之間緊密的聯繫，並幫助他們記住祝福來自何處。</p><p>許多舊約段落談到來自神和人的祝福（例如<a href=\"https://ref.ly/Gen12:1-Gen12:3\">創12:1–3</a>，<a href=\"https://ref.ly/Gen27:1-Gen27:40\">27:1–40</a>；<a href=\"https://ref.ly/Deut7:12-Deut7:15\">申7:12–15</a>，<a href=\"https://ref.ly/Deut28:1-Deut28:14\">28:1–14</a>）。在他們準備離開西奈山時，以色列人需要神的祝福、祂的幫助和恩惠。現代讀者通常用一般概念來理解祝福，但曠野中的以色列人理解的祝福，是食物、水、健康、孩子、免受敵人侵害以及定居在應許之地。整本民數記中，神供應以色列人的實際需求。</p><p>通過亞倫和他兒子，即祭司的話語，主祝福以色列（<a href=\"https://ref.ly/Num6:22-Num6:23\">民6:22–23</a>）。除了他們在會幕（後來是聖殿）的工作外，祭司在以色列人的生活中扮演關鍵角色。例如祭司協助確保地上的公正（<a href=\"https://ref.ly/Deut17:8-Deut17:12\">申17:8–12</a>）。他們遵照<a href=\"https://ref.ly/Deut17:18-Deut17:20\">申命記十七章18至20節</a>中的原則，協助君王履行職責。祭司以利安慰哈拿，並指導年少的撒母耳靈性成長（<a href=\"https://ref.ly/1Sam1:1-1Sam3:21\">撒上1:1–3:21</a>）。祭司和利未人積極教導以色列人屬靈的知識（例如見<a href=\"https://ref.ly/Deut33:9-Deut33:10\">申33:9–10</a>；<a href=\"https://ref.ly/Neh8:9-Neh8:12\">尼8:9–12</a>；<a href=\"https://ref.ly/Mal2:5-Mal2:9\">瑪2:5–9</a>）。</p><p>一項重大考古發現，強調這個古老祭司祝福的重要性。1980年，考古學家在耶路撒冷舊城西南方特夫欣嫩的一個岩石墓穴中，發現了兩卷小的銀軸。學者將這些物品（護身符）的年代推定為公元前六百年代末期或五百年代初期。經過漫長而謹慎的過程，他們展開這些脆弱的卷軸，找到來自<a href=\"https://ref.ly/Num6:24-Num6:26\">民數記六章24至26節</a>的祝福，與希伯來聖經的文本非常吻合。</p><p>在古代，人們有時會將這些卷軸作為象徵物（護身符）來佩戴，類似於經文匣或「<span>經文護符匣</span>」、「禱告盒」（見<a href=\"https://ref.ly/Deut6:8\">申6:8</a>；<a href=\"https://ref.ly/Matt23:5\">太23:5</a>）。這些小卷軸發現於耶路撒冷，是最早期的聖經抄本，包括最早提及耶和華（雅巍），即神在舊約聖經中的名字。這些考古發現顯示出這段簡短經文持久的吸引力。</p><p>許多新約書信以對讀者的祝福作結。這種祝福類似於民數記中祭司的祝福（例如，<a href=\"https://ref.ly/2Cor13:14\">林後13:14</a>；<a href=\"https://ref.ly/Heb13:20-Heb13:21\">來13:20–21</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen1:28\">創1:28</a>，<a href=\"https://ref.ly/Gen9:1\">9:1</a>、<a href=\"https://ref.ly/Gen9:26-Gen9:27\">26–27</a>，<a href=\"https://ref.ly/Gen12:1-Gen12:3\">12:1–3</a>，<a href=\"https://ref.ly/Gen14:19-Gen14:20\">14:19–20</a>，<a href=\"https://ref.ly/Gen28:1-Gen28:4\">28:1–4</a>，<a href=\"https://ref.ly/Gen48:15-Gen48:20\">48:15–20</a>，<a href=\"https://ref.ly/Gen49:25-Gen49:26\">49:25–26</a>；<a href=\"https://ref.ly/Lev9:22\">利9:22</a>，<a href=\"https://ref.ly/Num6:22-Num6:27\">民6:22–27</a>，<a href=\"https://ref.ly/Num24:1-Num24:9\">24:1–9</a>；<a href=\"https://ref.ly/Deut10:8\">申10:8</a>，<a href=\"https://ref.ly/Deut33:11-Deut33:29\">33:11–29</a>；<a href=\"https://ref.ly/1Sam2:20\">撒上2:20</a>；<a href=\"https://ref.ly/1Kgs8:55-1Kgs8:65\">王上8:55–65</a>；<a href=\"https://ref.ly/2Chr30:27\">代下30:27</a>；<a href=\"https://ref.ly/Ps115:12-Ps115:15\">詩115:12–15</a>，<a href=\"https://ref.ly/Ps128:1-Ps128:6\">128:1–6</a>；<a href=\"https://ref.ly/Matt5:3-Matt5:11\">太5:3–11</a>；<a href=\"https://ref.ly/Luke11:27-Luke11:28\">路11:27–28</a>；<a href=\"https://ref.ly/2Cor13:14\">林後13:14</a>；<a href=\"https://ref.ly/Eph6:23\">弗6:23</a>；<a href=\"https://ref.ly/1Thess5:23-1Thess5:24\">帖前5:23–24</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001028",
+"start_ref_usfm": "GEN 1:28",
+"end_ref": "01001028",
+"end_ref_usfm": "GEN 1:28"
+},
+{
+"start_ref": "01009001",
+"start_ref_usfm": "GEN 9:1",
+"end_ref": "01009001",
+"end_ref_usfm": "GEN 9:1"
+},
+{
+"start_ref": "03009022",
+"start_ref_usfm": "LEV 9:22",
+"end_ref": "03009022",
+"end_ref_usfm": "LEV 9:22"
+},
+{
+"start_ref": "05006008",
+"start_ref_usfm": "DEU 6:8",
+"end_ref": "05006008",
+"end_ref_usfm": "DEU 6:8"
+},
+{
+"start_ref": "05010008",
+"start_ref_usfm": "DEU 10:8",
+"end_ref": "05010008",
+"end_ref_usfm": "DEU 10:8"
+},
+{
+"start_ref": "09002020",
+"start_ref_usfm": "1SA 2:20",
+"end_ref": "09002020",
+"end_ref_usfm": "1SA 2:20"
+},
+{
+"start_ref": "14030027",
+"start_ref_usfm": "2CH 30:27",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
+},
+{
+"start_ref": "40023005",
+"start_ref_usfm": "MAT 23:5",
+"end_ref": "40023005",
+"end_ref_usfm": "MAT 23:5"
+},
+{
+"start_ref": "47013014",
+"start_ref_usfm": "2CO 13:14",
+"end_ref": "47013014",
+"end_ref_usfm": "2CO 13:14"
+},
+{
+"start_ref": "49006023",
+"start_ref_usfm": "EPH 6:23",
+"end_ref": "49006023",
+"end_ref_usfm": "EPH 6:23"
+},
+{
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01012003",
+"end_ref_usfm": "GEN 12:3"
+},
+{
+"start_ref": "58013020",
+"start_ref_usfm": "HEB 13:20",
+"end_ref": "58013021",
+"end_ref_usfm": "HEB 13:21"
+},
+{
+"start_ref": "04006022",
+"start_ref_usfm": "NUM 6:22",
+"end_ref": "04006027",
+"end_ref_usfm": "NUM 6:27"
+},
+{
+"start_ref": "05017008",
+"start_ref_usfm": "DEU 17:8",
+"end_ref": "05017012",
+"end_ref_usfm": "DEU 17:12"
+},
+{
+"start_ref": "19128001",
+"start_ref_usfm": "PSA 128:1",
+"end_ref": "19128006",
+"end_ref_usfm": "PSA 128:6"
+},
+{
+"start_ref": "01009026",
+"start_ref_usfm": "GEN 9:26",
+"end_ref": "01009027",
+"end_ref_usfm": "GEN 9:27"
+},
+{
+"start_ref": "05033009",
+"start_ref_usfm": "DEU 33:9",
+"end_ref": "05033010",
+"end_ref_usfm": "DEU 33:10"
+},
+{
+"start_ref": "09001001",
+"start_ref_usfm": "1SA 1:1",
+"end_ref": "09003021",
+"end_ref_usfm": "1SA 3:21"
+},
+{
+"start_ref": "01014019",
+"start_ref_usfm": "GEN 14:19",
+"end_ref": "01014020",
+"end_ref_usfm": "GEN 14:20"
+},
+{
+"start_ref": "01027001",
+"start_ref_usfm": "GEN 27:1",
+"end_ref": "01027040",
+"end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "04006024",
+"start_ref_usfm": "NUM 6:24",
+"end_ref": "04006026",
+"end_ref_usfm": "NUM 6:26"
+},
+{
+"start_ref": "05007012",
+"start_ref_usfm": "DEU 7:12",
+"end_ref": "05007015",
+"end_ref_usfm": "DEU 7:15"
+},
+{
+"start_ref": "01028001",
+"start_ref_usfm": "GEN 28:1",
+"end_ref": "01028004",
+"end_ref_usfm": "GEN 28:4"
+},
+{
+"start_ref": "05028001",
+"start_ref_usfm": "DEU 28:1",
+"end_ref": "05028014",
+"end_ref_usfm": "DEU 28:14"
+},
+{
+"start_ref": "05017018",
+"start_ref_usfm": "DEU 17:18",
+"end_ref": "05017020",
+"end_ref_usfm": "DEU 17:20"
+},
+{
+"start_ref": "04006022",
+"start_ref_usfm": "NUM 6:22",
+"end_ref": "04006023",
+"end_ref_usfm": "NUM 6:23"
+},
+{
+"start_ref": "16008009",
+"start_ref_usfm": "NEH 8:9",
+"end_ref": "16008012",
+"end_ref_usfm": "NEH 8:12"
+},
+{
+"start_ref": "39002005",
+"start_ref_usfm": "MAL 2:5",
+"end_ref": "39002009",
+"end_ref_usfm": "MAL 2:9"
+},
+{
+"start_ref": "01048015",
+"start_ref_usfm": "GEN 48:15",
+"end_ref": "01048020",
+"end_ref_usfm": "GEN 48:20"
+},
+{
+"start_ref": "01049025",
+"start_ref_usfm": "GEN 49:25",
+"end_ref": "01049026",
+"end_ref_usfm": "GEN 49:26"
+},
+{
+"start_ref": "04024001",
+"start_ref_usfm": "NUM 24:1",
+"end_ref": "04024009",
+"end_ref_usfm": "NUM 24:9"
+},
+{
+"start_ref": "05033011",
+"start_ref_usfm": "DEU 33:11",
+"end_ref": "05033029",
+"end_ref_usfm": "DEU 33:29"
+},
+{
+"start_ref": "11008055",
+"start_ref_usfm": "1KI 8:55",
+"end_ref": "11008065",
+"end_ref_usfm": "1KI 8:65"
+},
+{
+"start_ref": "19115012",
+"start_ref_usfm": "PSA 115:12",
+"end_ref": "19115015",
+"end_ref_usfm": "PSA 115:15"
+},
+{
+"start_ref": "40005003",
+"start_ref_usfm": "MAT 5:3",
+"end_ref": "40005011",
+"end_ref_usfm": "MAT 5:11"
+},
+{
+"start_ref": "42011027",
+"start_ref_usfm": "LUK 11:27",
+"end_ref": "42011028",
+"end_ref_usfm": "LUK 11:28"
+},
+{
+"start_ref": "52005023",
+"start_ref_usfm": "1TH 5:23",
+"end_ref": "52005024",
+"end_ref_usfm": "1TH 5:24"
+}
+],
+"resource": [
+{
+"reference_id": 10445,
+"content_id": 234286,
+"resource_code": "TyndaleStudyNotes",
+"label": "出埃及記 3:15",
+"language": "zht"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "700167",
+"reference_id": 203104,
+"version": "1.0.2",
+"title": "祭壇",
+"media_type": "Text",
+"index_reference": "祭壇",
+"language": "zht",
+"review_level": "None",
+"content": "<p>聖經中第一次提到祭壇是挪亞在洪水之後為耶和華築了一座壇（<a href=\"https://ref.ly/Gen8:20-Gen8:21\">創8:20–21</a>），其實在更早之前，該隱與亞伯也曾向神獻上供物（<a href=\"https://ref.ly/Gen4:3-Gen4:5\">創4:3–5</a>）。族長們也建造了許多祭壇（見<a href=\"https://ref.ly/Gen12:7-Gen12:8\">創12:7–8，</a><a href=\"https://ref.ly/Gen13:4\">13:4、</a><a href=\"https://ref.ly/Gen13:18\">18，</a><a href=\"https://ref.ly/Gen22:9\">22:9，</a><a href=\"https://ref.ly/Gen26:25\">26:25，</a><a href=\"https://ref.ly/Gen33:20\">33:20，</a><a href=\"https://ref.ly/Gen35:1\">35:1、</a><a href=\"https://ref.ly/Gen35:14-Gen35:15\">14–15</a>）。這些祭壇標誌著神顯現的聖潔之地，以及他們在應許之地上宣告屬靈產業的記號，這些地點涵蓋北方（示劍）和南方（別是巴）。</p><p>這些祭壇的材質有石頭、泥土、磚塊，或以金屬和木頭製成。壇面平坦，如同桌子，以便焚燒的煙霧往上直升。祭壇可以用來作為紀念碑，也可以是獻祭的場所，是舊約時代與古代世界中最常見的敬拜象徵。</p><p>祭壇通常設於高台上，有斜坡或階梯通往壇上，將祭物放置在高處，是象徵著向天獻上。許多祭壇的四拐角上有四個角，標示出神聖的區域，是神與人相遇之處（見<a href=\"https://ref.ly/Exod27:2\">出27:2</a>）。透過獻祭與焚燒祭物，所獻上的祭物從可見的世界轉移至不可見的世界。</p><p>耶穌在自己身上結合了大祭司、贖罪羔羊與祭壇的多重象徵角色（見<a href=\"https://ref.ly/Heb4:14-Heb4:15\">來4:14–15，</a><a href=\"https://ref.ly/Heb7:24\">7:24、</a><a href=\"https://ref.ly/Heb7:27\">27，</a><a href=\"https://ref.ly/Heb9:14\">9:14、</a><a href=\"https://ref.ly/Heb9:26\">26，</a><a href=\"https://ref.ly/Heb10:10\">10:10，</a><a href=\"https://ref.ly/Heb13:10\">13:10、</a><a href=\"https://ref.ly/Heb13:12\">12</a>）。祂曾提及殉道者的血，並以此預言自己的犧牲（見<a href=\"https://ref.ly/Matt23:35\">太23:35</a>；<a href=\"https://ref.ly/Luke11:50-Luke11:51\">路11:50–51</a>）。祂被釘死在十字架上，就是在那「祭壇」上所獻的最終之祭。因此，在啟示錄中，那位坐在寶座上作王的「羔羊」，使聖殿與祭壇成為不再需要的存在（<a href=\"https://ref.ly/Rev21:22\">啟21:22</a>）。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Gen8:20-Gen8:21\">創8:20–21</a>，<a href=\"https://ref.ly/Gen12:7-Gen12:8\">12:7–8</a>，<a href=\"https://ref.ly/Gen22:9-Gen22:14\">22:9–14</a>，<a href=\"https://ref.ly/Gen33:20\">33:20；</a><a href=\"https://ref.ly/Exod20:24-Exod20:26\">出20:24–26；</a><a href=\"https://ref.ly/Josh22:10-Josh22:34\">書22:10–34；</a><a href=\"https://ref.ly/1Kgs18:20-1Kgs18:40\">王上18:20–40；</a><a href=\"https://ref.ly/Hos8:11-Hos8:13\">何8:11–13；</a><a href=\"https://ref.ly/Matt5:23-Matt5:24\">太5:23–24；</a><a href=\"https://ref.ly/Heb13:10-Heb13:14\">來13:10–14；</a><a href=\"https://ref.ly/Rev6:9\">啟6:9</a>，<a href=\"https://ref.ly/Rev8:3-Rev8:5\">8:3–5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01013004",
+"start_ref_usfm": "GEN 13:4",
+"end_ref": "01013004",
+"end_ref_usfm": "GEN 13:4"
+},
+{
+"start_ref": "01013018",
+"start_ref_usfm": "GEN 13:18",
+"end_ref": "01013018",
+"end_ref_usfm": "GEN 13:18"
+},
+{
+"start_ref": "01022009",
+"start_ref_usfm": "GEN 22:9",
+"end_ref": "01022009",
+"end_ref_usfm": "GEN 22:9"
+},
+{
+"start_ref": "01026025",
+"start_ref_usfm": "GEN 26:25",
+"end_ref": "01026025",
+"end_ref_usfm": "GEN 26:25"
+},
+{
+"start_ref": "01033020",
+"start_ref_usfm": "GEN 33:20",
+"end_ref": "01033020",
+"end_ref_usfm": "GEN 33:20"
+},
+{
+"start_ref": "01035001",
+"start_ref_usfm": "GEN 35:1",
+"end_ref": "01035001",
+"end_ref_usfm": "GEN 35:1"
+},
+{
+"start_ref": "02027002",
+"start_ref_usfm": "EXO 27:2",
+"end_ref": "02027002",
+"end_ref_usfm": "EXO 27:2"
+},
+{
+"start_ref": "40023035",
+"start_ref_usfm": "MAT 23:35",
+"end_ref": "40023035",
+"end_ref_usfm": "MAT 23:35"
+},
+{
+"start_ref": "58007024",
+"start_ref_usfm": "HEB 7:24",
+"end_ref": "58007024",
+"end_ref_usfm": "HEB 7:24"
+},
+{
+"start_ref": "58007027",
+"start_ref_usfm": "HEB 7:27",
+"end_ref": "58007027",
+"end_ref_usfm": "HEB 7:27"
+},
+{
+"start_ref": "58009014",
+"start_ref_usfm": "HEB 9:14",
+"end_ref": "58009014",
+"end_ref_usfm": "HEB 9:14"
+},
+{
+"start_ref": "58009026",
+"start_ref_usfm": "HEB 9:26",
+"end_ref": "58009026",
+"end_ref_usfm": "HEB 9:26"
+},
+{
+"start_ref": "58010010",
+"start_ref_usfm": "HEB 10:10",
+"end_ref": "58010010",
+"end_ref_usfm": "HEB 10:10"
+},
+{
+"start_ref": "58013010",
+"start_ref_usfm": "HEB 13:10",
+"end_ref": "58013010",
+"end_ref_usfm": "HEB 13:10"
+},
+{
+"start_ref": "58013012",
+"start_ref_usfm": "HEB 13:12",
+"end_ref": "58013012",
+"end_ref_usfm": "HEB 13:12"
+},
+{
+"start_ref": "66006009",
+"start_ref_usfm": "REV 6:9",
+"end_ref": "66006009",
+"end_ref_usfm": "REV 6:9"
+},
+{
+"start_ref": "66021022",
+"start_ref_usfm": "REV 21:22",
+"end_ref": "66021022",
+"end_ref_usfm": "REV 21:22"
+},
+{
+"start_ref": "02020024",
+"start_ref_usfm": "EXO 20:24",
+"end_ref": "02020026",
+"end_ref_usfm": "EXO 20:26"
+},
+{
+"start_ref": "40005023",
+"start_ref_usfm": "MAT 5:23",
+"end_ref": "40005024",
+"end_ref_usfm": "MAT 5:24"
+},
+{
+"start_ref": "06022010",
+"start_ref_usfm": "JOS 22:10",
+"end_ref": "06022034",
+"end_ref_usfm": "JOS 22:34"
+},
+{
+"start_ref": "66008003",
+"start_ref_usfm": "REV 8:3",
+"end_ref": "66008005",
+"end_ref_usfm": "REV 8:5"
+},
+{
+"start_ref": "01004003",
+"start_ref_usfm": "GEN 4:3",
+"end_ref": "01004005",
+"end_ref_usfm": "GEN 4:5"
+},
+{
+"start_ref": "01035014",
+"start_ref_usfm": "GEN 35:14",
+"end_ref": "01035015",
+"end_ref_usfm": "GEN 35:15"
+},
+{
+"start_ref": "01008020",
+"start_ref_usfm": "GEN 8:20",
+"end_ref": "01008021",
+"end_ref_usfm": "GEN 8:21"
+},
+{
+"start_ref": "01012007",
+"start_ref_usfm": "GEN 12:7",
+"end_ref": "01012008",
+"end_ref_usfm": "GEN 12:8"
+},
+{
+"start_ref": "58004014",
+"start_ref_usfm": "HEB 4:14",
+"end_ref": "58004015",
+"end_ref_usfm": "HEB 4:15"
+},
+{
+"start_ref": "42011050",
+"start_ref_usfm": "LUK 11:50",
+"end_ref": "42011051",
+"end_ref_usfm": "LUK 11:51"
+},
+{
+"start_ref": "01022009",
+"start_ref_usfm": "GEN 22:9",
+"end_ref": "01022014",
+"end_ref_usfm": "GEN 22:14"
+},
+{
+"start_ref": "11018020",
+"start_ref_usfm": "1KI 18:20",
+"end_ref": "11018040",
+"end_ref_usfm": "1KI 18:40"
+},
+{
+"start_ref": "28008011",
+"start_ref_usfm": "HOS 8:11",
+"end_ref": "28008013",
+"end_ref_usfm": "HOS 8:13"
+},
+{
+"start_ref": "58013010",
+"start_ref_usfm": "HEB 13:10",
+"end_ref": "58013014",
+"end_ref_usfm": "HEB 13:14"
+}
+],
+"resource": [],
+"acai": []
+}
+}
 ]

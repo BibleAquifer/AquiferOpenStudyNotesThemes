@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-02-25",
+"date_created": "2026-02-27",
 "language": "zht",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-25T21:41:14.155674"
+"dateCreated": "2026-02-27T17:23:58.644248"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-02-25T21:41:14.155674"
+"timestamp": "2026-02-27T17:23:58.644248"
 }
 }
 },
@@ -96,7 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 6221,
+"size": 5259,
 "scope": {
 "「": [
 "「祂必再來」"
@@ -105,7 +105,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 8014,
+"size": 6380,
 "scope": {
 "ai": [
 "愛人"
@@ -114,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 3605,
+"size": 2979,
 "scope": {
 "ba": [
 "巴別：萬國的分散"
@@ -123,7 +123,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 22241,
+"size": 17853,
 "scope": {
 "bao": [
 "保羅使徒的角色",
@@ -133,7 +133,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 17019,
+"size": 14087,
 "scope": {
 "bei": [
 "背道",
@@ -143,7 +143,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 17513,
+"size": 13807,
 "scope": {
 "bi": [
 "逼迫"
@@ -152,7 +152,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 11088,
+"size": 8894,
 "scope": {
 "bu": [
 "不能生育"
@@ -161,7 +161,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 7288,
+"size": 5766,
 "scope": {
 "chang": [
 "常在基督裡"
@@ -170,7 +170,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 4542,
+"size": 3804,
 "scope": {
 "cheng": [
 "承受地土"
@@ -179,7 +179,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 32421,
+"size": 26791,
 "scope": {
 "chu": [
 "初期基督教的異端",
@@ -190,7 +190,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 16143,
+"size": 13155,
 "scope": {
 "chuang": [
 "創造",
@@ -200,7 +200,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 16184,
+"size": 12870,
 "scope": {
 "chun": [
 "純正的敬拜"
@@ -209,7 +209,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 15311,
+"size": 12547,
 "scope": {
 "da": [
 "大衛面對敵意領袖的回應",
@@ -219,7 +219,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 3909,
+"size": 3283,
 "scope": {
 "dao": [
 "道"
@@ -228,7 +228,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 17421,
+"size": 14239,
 "scope": {
 "di": [
 "敵基督",
@@ -239,7 +239,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 6766,
+"size": 5692,
 "scope": {
 "dui": [
 "對彌賽亞的盼望"
@@ -248,7 +248,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 10369,
+"size": 8231,
 "scope": {
 "er": [
 "兒女和父母"
@@ -257,7 +257,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 7842,
+"size": 6264,
 "scope": {
 "fa": [
 "發怨言"
@@ -266,7 +266,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 7202,
+"size": 5792,
 "scope": {
 "fang": [
 "放棄權利"
@@ -275,7 +275,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 10421,
+"size": 8115,
 "scope": {
 "fen": [
 "忿怒"
@@ -284,7 +284,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 12008,
+"size": 9590,
 "scope": {
 "gang": [
 "剛硬的心"
@@ -293,7 +293,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 13370,
+"size": 10672,
 "scope": {
 "ge": [
 "割禮"
@@ -302,7 +302,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 2034,
+"size": 1856,
 "scope": {
 "gei": [
 "給七個教會的書信"
@@ -311,7 +311,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 26839,
+"size": 21331,
 "scope": {
 "gen": [
 "跟隨神所帶來的苦難",
@@ -321,7 +321,7 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 4861,
+"size": 4179,
 "scope": {
 "gong": [
 "工作與恩惠文化"
@@ -330,7 +330,7 @@
 },
 "json/026.content.json": {
 "mimeType": "text/json",
-"size": 11775,
+"size": 9983,
 "scope": {
 "gu": [
 "古代法典",
@@ -340,7 +340,7 @@
 },
 "json/027.content.json": {
 "mimeType": "text/json",
-"size": 13814,
+"size": 11116,
 "scope": {
 "guan": [
 "關心窮人"
@@ -349,7 +349,7 @@
 },
 "json/028.content.json": {
 "mimeType": "text/json",
-"size": 5703,
+"size": 4741,
 "scope": {
 "gui": [
 "歸向耶和華"
@@ -358,7 +358,7 @@
 },
 "json/029.content.json": {
 "mimeType": "text/json",
-"size": 20228,
+"size": 16232,
 "scope": {
 "hao": [
 "好消息",
@@ -368,7 +368,7 @@
 },
 "json/030.content.json": {
 "mimeType": "text/json",
-"size": 7321,
+"size": 6023,
 "scope": {
 "he": [
 "和好的信息"
@@ -377,7 +377,7 @@
 },
 "json/031.content.json": {
 "mimeType": "text/json",
-"size": 29759,
+"size": 23365,
 "scope": {
 "hei": [
 "黑暗和光"
@@ -386,7 +386,7 @@
 },
 "json/032.content.json": {
 "mimeType": "text/json",
-"size": 5411,
+"size": 4393,
 "scope": {
 "hou": [
 "後期先知書中的靈性更新"
@@ -395,7 +395,7 @@
 },
 "json/033.content.json": {
 "mimeType": "text/json",
-"size": 16337,
+"size": 13043,
 "scope": {
 "hui": [
 "毀滅淨盡",
@@ -406,7 +406,7 @@
 },
 "json/034.content.json": {
 "mimeType": "text/json",
-"size": 6469,
+"size": 5339,
 "scope": {
 "hun": [
 "婚姻和性"
@@ -415,7 +415,7 @@
 },
 "json/035.content.json": {
 "mimeType": "text/json",
-"size": 4514,
+"size": 3776,
 "scope": {
 "huo": [
 "活水"
@@ -424,7 +424,7 @@
 },
 "json/036.content.json": {
 "mimeType": "text/json",
-"size": 81145,
+"size": 66021,
 "scope": {
 "ji": [
 "基本律法",
@@ -442,7 +442,7 @@
 },
 "json/037.content.json": {
 "mimeType": "text/json",
-"size": 29656,
+"size": 25126,
 "scope": {
 "jia": [
 "加利利的打魚生活",
@@ -455,7 +455,7 @@
 },
 "json/038.content.json": {
 "mimeType": "text/json",
-"size": 24669,
+"size": 19441,
 "scope": {
 "jiang": [
 "將權柄和責任交付新的領袖",
@@ -465,7 +465,7 @@
 },
 "json/039.content.json": {
 "mimeType": "text/json",
-"size": 63426,
+"size": 51494,
 "scope": {
 "jiao": [
 "驕傲與謙卑",
@@ -479,7 +479,7 @@
 },
 "json/040.content.json": {
 "mimeType": "text/json",
-"size": 8044,
+"size": 6466,
 "scope": {
 "jie": [
 "潔淨、不潔淨與聖潔"
@@ -488,7 +488,7 @@
 },
 "json/041.content.json": {
 "mimeType": "text/json",
-"size": 7187,
+"size": 5833,
 "scope": {
 "jing": [
 "敬畏耶和華"
@@ -497,7 +497,7 @@
 },
 "json/042.content.json": {
 "mimeType": "text/json",
-"size": 21039,
+"size": 17089,
 "scope": {
 "jiu": [
 "舊生命與新生命",
@@ -508,7 +508,7 @@
 },
 "json/043.content.json": {
 "mimeType": "text/json",
-"size": 8525,
+"size": 6835,
 "scope": {
 "ju": [
 "懼怕人"
@@ -517,7 +517,7 @@
 },
 "json/044.content.json": {
 "mimeType": "text/json",
-"size": 9562,
+"size": 8040,
 "scope": {
 "jun": [
 "君王詩篇"
@@ -526,7 +526,7 @@
 },
 "json/045.content.json": {
 "mimeType": "text/json",
-"size": 6972,
+"size": 5618,
 "scope": {
 "ku": [
 "苦難詩篇"
@@ -535,7 +535,7 @@
 },
 "json/046.content.json": {
 "mimeType": "text/json",
-"size": 6018,
+"size": 5000,
 "scope": {
 "kuan": [
 "寬容"
@@ -544,7 +544,7 @@
 },
 "json/047.content.json": {
 "mimeType": "text/json",
-"size": 35653,
+"size": 28281,
 "scope": {
 "lai": [
 "來臨中的那日",
@@ -554,7 +554,7 @@
 },
 "json/048.content.json": {
 "mimeType": "text/json",
-"size": 11116,
+"size": 8810,
 "scope": {
 "lan": [
 "懶惰與勤勞工作"
@@ -563,7 +563,7 @@
 },
 "json/049.content.json": {
 "mimeType": "text/json",
-"size": 6641,
+"size": 5511,
 "scope": {
 "liao": [
 "了解約伯"
@@ -572,7 +572,7 @@
 },
 "json/050.content.json": {
 "mimeType": "text/json",
-"size": 13133,
+"size": 10817,
 "scope": {
 "li": [
 "理解被擄",
@@ -582,7 +582,7 @@
 },
 "json/051.content.json": {
 "mimeType": "text/json",
-"size": 11375,
+"size": 9069,
 "scope": {
 "lian": [
 "憐憫的醫治者"
@@ -591,7 +591,7 @@
 },
 "json/052.content.json": {
 "mimeType": "text/json",
-"size": 7914,
+"size": 6504,
 "scope": {
 "lie": [
 "列王紀上的先知"
@@ -600,7 +600,7 @@
 },
 "json/053.content.json": {
 "mimeType": "text/json",
-"size": 15800,
+"size": 12812,
 "scope": {
 "ling": [
 "靈的同在",
@@ -610,7 +610,7 @@
 },
 "json/054.content.json": {
 "mimeType": "text/json",
-"size": 13698,
+"size": 11270,
 "scope": {
 "lu": [
 "路加—使徒行傳中的讚美和歡欣",
@@ -620,7 +620,7 @@
 },
 "json/055.content.json": {
 "mimeType": "text/json",
-"size": 27567,
+"size": 22655,
 "scope": {
 "lv": [
 "律法的精義",
@@ -632,7 +632,7 @@
 },
 "json/056.content.json": {
 "mimeType": "text/json",
-"size": 28677,
+"size": 23719,
 "scope": {
 "mi": [
 "彌賽亞",
@@ -643,7 +643,7 @@
 },
 "json/057.content.json": {
 "mimeType": "text/json",
-"size": 4299,
+"size": 3673,
 "scope": {
 "mo": [
 "末後之事與帖撒羅尼迦人"
@@ -652,7 +652,7 @@
 },
 "json/058.content.json": {
 "mimeType": "text/json",
-"size": 12831,
+"size": 10133,
 "scope": {
 "mu": [
 "牧羊人"
@@ -661,7 +661,7 @@
 },
 "json/059.content.json": {
 "mimeType": "text/json",
-"size": 11422,
+"size": 9228,
 "scope": {
 "ni": [
 "尼希米對神的信心"
@@ -670,7 +670,7 @@
 },
 "json/060.content.json": {
 "mimeType": "text/json",
-"size": 4452,
+"size": 3938,
 "scope": {
 "nu": [
 "奴隸制度"
@@ -679,7 +679,7 @@
 },
 "json/061.content.json": {
 "mimeType": "text/json",
-"size": 9650,
+"size": 8296,
 "scope": {
 "nv": [
 "女性在新約教會中的角色"
@@ -688,7 +688,7 @@
 },
 "json/062.content.json": {
 "mimeType": "text/json",
-"size": 7233,
+"size": 6103,
 "scope": {
 "po": [
 "破碎的盟約"
@@ -697,7 +697,7 @@
 },
 "json/063.content.json": {
 "mimeType": "text/json",
-"size": 17424,
+"size": 14548,
 "scope": {
 "pu": [
 "僕人領袖",
@@ -707,7 +707,7 @@
 },
 "json/064.content.json": {
 "mimeType": "text/json",
-"size": 13839,
+"size": 11701,
 "scope": {
 "qi": [
 "七十個七"
@@ -716,7 +716,7 @@
 },
 "json/065.content.json": {
 "mimeType": "text/json",
-"size": 3120,
+"size": 2886,
 "scope": {
 "qian": [
 "千年（千禧年）"
@@ -725,7 +725,7 @@
 },
 "json/066.content.json": {
 "mimeType": "text/json",
-"size": 12475,
+"size": 9889,
 "scope": {
 "qing": [
 "慶賀"
@@ -734,7 +734,7 @@
 },
 "json/067.content.json": {
 "mimeType": "text/json",
-"size": 14255,
+"size": 11389,
 "scope": {
 "que": [
 "確據和順服"
@@ -743,7 +743,7 @@
 },
 "json/068.content.json": {
 "mimeType": "text/json",
-"size": 11852,
+"size": 9928,
 "scope": {
 "qun": [
 "群體身分",
@@ -753,7 +753,7 @@
 },
 "json/069.content.json": {
 "mimeType": "text/json",
-"size": 47219,
+"size": 37969,
 "scope": {
 "ren": [
 "人的困惑與神的旨意",
@@ -766,7 +766,7 @@
 },
 "json/070.content.json": {
 "mimeType": "text/json",
-"size": 3560,
+"size": 3046,
 "scope": {
 "ru": [
 "入侵"
@@ -775,7 +775,7 @@
 },
 "json/071.content.json": {
 "mimeType": "text/json",
-"size": 10914,
+"size": 8720,
 "scope": {
 "she": [
 "社會公義"
@@ -784,7 +784,7 @@
 },
 "json/072.content.json": {
 "mimeType": "text/json",
-"size": 475536,
+"size": 382100,
 "scope": {
 "shen": [
 "什麼是美善",
@@ -838,7 +838,7 @@
 },
 "json/073.content.json": {
 "mimeType": "text/json",
-"size": 133758,
+"size": 109426,
 "scope": {
 "sheng": [
 "生與死的抉擇",
@@ -860,7 +860,7 @@
 },
 "json/074.content.json": {
 "mimeType": "text/json",
-"size": 139651,
+"size": 111179,
 "scope": {
 "shi": [
 "詩篇中的救恩",
@@ -880,7 +880,7 @@
 },
 "json/075.content.json": {
 "mimeType": "text/json",
-"size": 7979,
+"size": 6457,
 "scope": {
 "shou": [
 "受苦的先知"
@@ -889,7 +889,7 @@
 },
 "json/076.content.json": {
 "mimeType": "text/json",
-"size": 36395,
+"size": 29355,
 "scope": {
 "shu": [
 "書寫神話語",
@@ -901,7 +901,7 @@
 },
 "json/077.content.json": {
 "mimeType": "text/json",
-"size": 9273,
+"size": 7583,
 "scope": {
 "shuo": [
 "說話"
@@ -910,7 +910,7 @@
 },
 "json/078.content.json": {
 "mimeType": "text/json",
-"size": 44651,
+"size": 35819,
 "scope": {
 "si": [
 "死後的生命",
@@ -922,7 +922,7 @@
 },
 "json/079.content.json": {
 "mimeType": "text/json",
-"size": 9741,
+"size": 7827,
 "scope": {
 "suo": [
 "所羅門的智慧"
@@ -931,7 +931,7 @@
 },
 "json/080.content.json": {
 "mimeType": "text/json",
-"size": 5844,
+"size": 4770,
 "scope": {
 "tao": [
 "逃城"
@@ -940,7 +940,7 @@
 },
 "json/081.content.json": {
 "mimeType": "text/json",
-"size": 44210,
+"size": 35872,
 "scope": {
 "tian": [
 "天國的國民身份",
@@ -953,7 +953,7 @@
 },
 "json/082.content.json": {
 "mimeType": "text/json",
-"size": 12792,
+"size": 10868,
 "scope": {
 "tong": [
 "通婚與休妻",
@@ -963,7 +963,7 @@
 },
 "json/083.content.json": {
 "mimeType": "text/json",
-"size": 10376,
+"size": 8350,
 "scope": {
 "tu": [
 "土地"
@@ -972,7 +972,7 @@
 },
 "json/084.content.json": {
 "mimeType": "text/json",
-"size": 14809,
+"size": 11989,
 "scope": {
 "wan": [
 "完全的獻上",
@@ -982,7 +982,7 @@
 },
 "json/085.content.json": {
 "mimeType": "text/json",
-"size": 11451,
+"size": 9303,
 "scope": {
 "wang": [
 "王朝的應許",
@@ -992,7 +992,7 @@
 },
 "json/086.content.json": {
 "mimeType": "text/json",
-"size": 30138,
+"size": 24890,
 "scope": {
 "wei": [
 "惟一的敬拜場所",
@@ -1004,7 +1004,7 @@
 },
 "json/087.content.json": {
 "mimeType": "text/json",
-"size": 20105,
+"size": 16165,
 "scope": {
 "wen": [
 "文化的崩潰",
@@ -1014,7 +1014,7 @@
 },
 "json/088.content.json": {
 "mimeType": "text/json",
-"size": 8215,
+"size": 6637,
 "scope": {
 "wo": [
 "我們的保惠師"
@@ -1023,7 +1023,7 @@
 },
 "json/089.content.json": {
 "mimeType": "text/json",
-"size": 8606,
+"size": 6916,
 "scope": {
 "wu": [
 "物質上的賞賜"
@@ -1032,7 +1032,7 @@
 },
 "json/090.content.json": {
 "mimeType": "text/json",
-"size": 48101,
+"size": 38205,
 "scope": {
 "xi": [
 "西奈山盟約的目的",
@@ -1044,7 +1044,7 @@
 },
 "json/091.content.json": {
 "mimeType": "text/json",
-"size": 8026,
+"size": 6504,
 "scope": {
 "xian": [
 "先知性的象徵行動"
@@ -1053,7 +1053,7 @@
 },
 "json/092.content.json": {
 "mimeType": "text/json",
-"size": 42094,
+"size": 33598,
 "scope": {
 "xiang": [
 "享受神的恩賜",
@@ -1065,7 +1065,7 @@
 },
 "json/093.content.json": {
 "mimeType": "text/json",
-"size": 14288,
+"size": 11860,
 "scope": {
 "xiao": [
 "小角",
@@ -1075,7 +1075,7 @@
 },
 "json/094.content.json": {
 "mimeType": "text/json",
-"size": 7245,
+"size": 6227,
 "scope": {
 "xie": [
 "褻瀆"
@@ -1084,7 +1084,7 @@
 },
 "json/095.content.json": {
 "mimeType": "text/json",
-"size": 57925,
+"size": 46833,
 "scope": {
 "xin": [
 "新群體",
@@ -1098,7 +1098,7 @@
 },
 "json/096.content.json": {
 "mimeType": "text/json",
-"size": 8158,
+"size": 6804,
 "scope": {
 "xun": [
 "尋求耶和華"
@@ -1107,7 +1107,7 @@
 },
 "json/097.content.json": {
 "mimeType": "text/json",
-"size": 94912,
+"size": 76876,
 "scope": {
 "ye": [
 "耶和華的日子",
@@ -1125,7 +1125,7 @@
 },
 "json/098.content.json": {
 "mimeType": "text/json",
-"size": 80908,
+"size": 66080,
 "scope": {
 "yi": [
 "一切都是「煙霧」",
@@ -1143,7 +1143,7 @@
 },
 "json/099.content.json": {
 "mimeType": "text/json",
-"size": 13329,
+"size": 11013,
 "scope": {
 "yin": [
 "因信稱義",
@@ -1153,7 +1153,7 @@
 },
 "json/100.content.json": {
 "mimeType": "text/json",
-"size": 7844,
+"size": 6546,
 "scope": {
 "ying": [
 "應許之地"
@@ -1162,7 +1162,7 @@
 },
 "json/101.content.json": {
 "mimeType": "text/json",
-"size": 12402,
+"size": 9984,
 "scope": {
 "you": [
 "猶太人與外邦人（非猶太人）"
@@ -1171,7 +1171,7 @@
 },
 "json/102.content.json": {
 "mimeType": "text/json",
-"size": 51919,
+"size": 43189,
 "scope": {
 "yu": [
 "逾越節",
@@ -1184,7 +1184,7 @@
 },
 "json/103.content.json": {
 "mimeType": "text/json",
-"size": 59328,
+"size": 47116,
 "scope": {
 "yue": [
 "約伯的無辜",
@@ -1198,7 +1198,7 @@
 },
 "json/104.content.json": {
 "mimeType": "text/json",
-"size": 14627,
+"size": 11649,
 "scope": {
 "yun": [
 "雲柱與火柱"
@@ -1207,7 +1207,7 @@
 },
 "json/105.content.json": {
 "mimeType": "text/json",
-"size": 13712,
+"size": 11004,
 "scope": {
 "zai": [
 "在基督裡的群體中彼此相愛",
@@ -1217,7 +1217,7 @@
 },
 "json/106.content.json": {
 "mimeType": "text/json",
-"size": 6995,
+"size": 5753,
 "scope": {
 "zan": [
 "讚美詩篇"
@@ -1226,7 +1226,7 @@
 },
 "json/107.content.json": {
 "mimeType": "text/json",
-"size": 9890,
+"size": 8088,
 "scope": {
 "zhan": [
 "戰勝魔鬼"
@@ -1235,7 +1235,7 @@
 },
 "json/108.content.json": {
 "mimeType": "text/json",
-"size": 6533,
+"size": 5347,
 "scope": {
 "zhao": [
 "招喚死人"
@@ -1244,7 +1244,7 @@
 },
 "json/109.content.json": {
 "mimeType": "text/json",
-"size": 28029,
+"size": 22847,
 "scope": {
 "zhen": [
 "真正的成功",
@@ -1255,7 +1255,7 @@
 },
 "json/110.content.json": {
 "mimeType": "text/json",
-"size": 41824,
+"size": 33720,
 "scope": {
 "zhi": [
 "至親買贖者",
@@ -1267,7 +1267,7 @@
 },
 "json/111.content.json": {
 "mimeType": "text/json",
-"size": 6126,
+"size": 4996,
 "scope": {
 "zhong": [
 "種族仇恨"
@@ -1276,7 +1276,7 @@
 },
 "json/112.content.json": {
 "mimeType": "text/json",
-"size": 5730,
+"size": 4600,
 "scope": {
 "chong": [
 "重建耶路撒冷"
@@ -1285,7 +1285,7 @@
 },
 "json/113.content.json": {
 "mimeType": "text/json",
-"size": 14267,
+"size": 11457,
 "scope": {
 "zhu": [
 "祝福"
@@ -1294,7 +1294,7 @@
 },
 "json/114.content.json": {
 "mimeType": "text/json",
-"size": 3531,
+"size": 3017,
 "scope": {
 "zi": [
 "自然啟示"
@@ -1303,7 +1303,7 @@
 },
 "json/115.content.json": {
 "mimeType": "text/json",
-"size": 7688,
+"size": 6166,
 "scope": {
 "zong": [
 "宗教虛偽"
@@ -1312,7 +1312,7 @@
 },
 "json/116.content.json": {
 "mimeType": "text/json",
-"size": 4801,
+"size": 4063,
 "scope": {
 "zu": [
 "詛咒和祝福"
@@ -1321,7 +1321,7 @@
 },
 "json/117.content.json": {
 "mimeType": "text/json",
-"size": 30314,
+"size": 23798,
 "scope": {
 "zui": [
 "罪的危險",
@@ -1335,7 +1335,7 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 3759
+"size": 3667
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
@@ -1395,7 +1395,7 @@
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 4304
+"size": 4241
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
@@ -1443,7 +1443,7 @@
 },
 "md/029.content.md": {
 "mimeType": "text/markdown",
-"size": 8658
+"size": 8590
 },
 "md/030.content.md": {
 "mimeType": "text/markdown",
@@ -1459,7 +1459,7 @@
 },
 "md/033.content.md": {
 "mimeType": "text/markdown",
-"size": 7096
+"size": 7031
 },
 "md/034.content.md": {
 "mimeType": "text/markdown",
@@ -1483,7 +1483,7 @@
 },
 "md/039.content.md": {
 "mimeType": "text/markdown",
-"size": 26929
+"size": 26826
 },
 "md/040.content.md": {
 "mimeType": "text/markdown",
@@ -1499,7 +1499,7 @@
 },
 "md/043.content.md": {
 "mimeType": "text/markdown",
-"size": 4152
+"size": 4093
 },
 "md/044.content.md": {
 "mimeType": "text/markdown",
@@ -1551,7 +1551,7 @@
 },
 "md/056.content.md": {
 "mimeType": "text/markdown",
-"size": 13946
+"size": 13848
 },
 "md/057.content.md": {
 "mimeType": "text/markdown",
@@ -1603,7 +1603,7 @@
 },
 "md/069.content.md": {
 "mimeType": "text/markdown",
-"size": 19464
+"size": 19398
 },
 "md/070.content.md": {
 "mimeType": "text/markdown",
@@ -1615,7 +1615,7 @@
 },
 "md/072.content.md": {
 "mimeType": "text/markdown",
-"size": 189530
+"size": 189393
 },
 "md/073.content.md": {
 "mimeType": "text/markdown",
@@ -1623,7 +1623,7 @@
 },
 "md/074.content.md": {
 "mimeType": "text/markdown",
-"size": 50620
+"size": 50555
 },
 "md/075.content.md": {
 "mimeType": "text/markdown",
@@ -1651,7 +1651,7 @@
 },
 "md/081.content.md": {
 "mimeType": "text/markdown",
-"size": 19119
+"size": 19028
 },
 "md/082.content.md": {
 "mimeType": "text/markdown",
@@ -1715,7 +1715,7 @@
 },
 "md/097.content.md": {
 "mimeType": "text/markdown",
-"size": 39926
+"size": 39859
 },
 "md/098.content.md": {
 "mimeType": "text/markdown",
@@ -1767,7 +1767,7 @@
 },
 "md/110.content.md": {
 "mimeType": "text/markdown",
-"size": 16798
+"size": 16736
 },
 "md/111.content.md": {
 "mimeType": "text/markdown",
@@ -1779,7 +1779,7 @@
 },
 "md/113.content.md": {
 "mimeType": "text/markdown",
-"size": 6350
+"size": 6289
 },
 "md/114.content.md": {
 "mimeType": "text/markdown",
