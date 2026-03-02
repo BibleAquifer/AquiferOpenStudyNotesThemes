@@ -1,373 +1,373 @@
 [
-  {
-    "content_id": "700453",
-    "reference_id": 203390,
-    "version": "1.0.2",
-    "title": "敵基督",
-    "media_type": "Text",
-    "index_reference": "敵基督",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p><strong>敵基督</strong>這個詞只出現在使徒約翰的書信中（<a href=\"https://ref.ly/1John2:18\">約一2:18</a>、<a href=\"https://ref.ly/1John2:22\">22</a>，<a href=\"https://ref.ly/1John4:3\">4:3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>）。約翰認為歷史上會出現許多敵基督（<a href=\"https://ref.ly/1John2:18\">約一2:18</a>）。這些敵基督會否認耶穌的神人二性（<a href=\"https://ref.ly/1John2:22\">約一2:22</a>，<a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>）。</p><p>使徒保羅則提到「<span>大罪人</span>」將在末世出現，煽動人起來悖逆神（<a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">帖後2:1–12</a>）。這人會「<span>照撒但的運動</span>」出現，主要透過欺騙來行事。啟示錄雖未明確稱這人為「敵基督」，但這位「大罪人」如同約翰書信中的「敵基督」一樣，都是抵擋真理的。</p><p>在<a href=\"https://ref.ly/Rev13:1-Rev13:18\">啟示錄十三章</a>中，那抵擋基督的靈被描繪為另一<span>個</span>「獸」，牠服事那條龍（撒但）與第一<span>個</span>獸。這個敵基督的數字666很可能代表尼祿皇帝（Emperor Nero），也可能影射多米田皇帝（Emperor Domitian，見<span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">研讀註釋17:8</span>）。當時的皇帝崇拜宣稱「凱撒是主！」，這是虛假的宗教，與耶穌基督是主的宣告彼此對立。</p><p>約翰是否預期有一位最終的敵基督出現，甚至超越尼祿與多米田，這點尚不確定。然而，基督徒必須認清邪惡是存在的，也要辨識出那些在人與各種權力體系中，抵擋基督的勢力。抵抗這些仇敵可能使我們面對逼迫，甚至因此喪命，但我們的盼望是在基督裡得著最終的勝利。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/2Thess2:3-2Thess2:10\">帖後2:3–10</a>；<a href=\"https://ref.ly/1John2:18\">約一2:18</a>、<a href=\"https://ref.ly/1John2:22\">22</a>，<a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>；<a href=\"https://ref.ly/Rev13:11\">啟13:11</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "62002018",
-          "start_ref_usfm": "1JN 2:18",
-          "end_ref": "62002018",
-          "end_ref_usfm": "1JN 2:18"
-        },
-        {
-          "start_ref": "62002022",
-          "start_ref_usfm": "1JN 2:22",
-          "end_ref": "62002022",
-          "end_ref_usfm": "1JN 2:22"
-        },
-        {
-          "start_ref": "62004003",
-          "start_ref_usfm": "1JN 4:3",
-          "end_ref": "62004003",
-          "end_ref_usfm": "1JN 4:3"
-        },
-        {
-          "start_ref": "63001007",
-          "start_ref_usfm": "2JN 1:7",
-          "end_ref": "63001007",
-          "end_ref_usfm": "2JN 1:7"
-        },
-        {
-          "start_ref": "66013011",
-          "start_ref_usfm": "REV 13:11",
-          "end_ref": "66013011",
-          "end_ref_usfm": "REV 13:11"
-        },
-        {
-          "start_ref": "62004002",
-          "start_ref_usfm": "1JN 4:2",
-          "end_ref": "62004003",
-          "end_ref_usfm": "1JN 4:3"
-        },
-        {
-          "start_ref": "66013001",
-          "start_ref_usfm": "REV 13:1",
-          "end_ref": "66013018",
-          "end_ref_usfm": "REV 13:18"
-        },
-        {
-          "start_ref": "53002001",
-          "start_ref_usfm": "2TH 2:1",
-          "end_ref": "53002012",
-          "end_ref_usfm": "2TH 2:12"
-        },
-        {
-          "start_ref": "53002003",
-          "start_ref_usfm": "2TH 2:3",
-          "end_ref": "53002010",
-          "end_ref_usfm": "2TH 2:10"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 24473,
-          "content_id": 647965,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "啟示錄 17:8",
-          "language": "zht"
-        }
-      ],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700304",
-    "reference_id": 203241,
-    "version": "1.0.2",
-    "title": "第二次出埃及的應許",
-    "media_type": "Text",
-    "index_reference": "第二次出埃及的應許",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>神將以色列人從巴比倫帶回他們的家園，就像祂多年前將他們從埃及帶出來一樣（<a href=\"https://ref.ly/Isa48:20-Isa48:21\">賽48:20–21</a>）。（第一次從埃及得拯救，稱為出埃及。）這次，以色列人離開巴比倫時需要保持潔淨，並且要慢慢行動，不要匆忙離開（<a href=\"https://ref.ly/Isa52:11\">52:11</a><a href=\"https://ref.ly/Isa52:12\">、12</a>）。</p><p>被擄的經歷和旅程可比作主在曠野中的拯救（見<a href=\"https://ref.ly/Isa35:1\">賽35:1</a>）：</p><ul><li><p>祂在曠野中開道路，將其變成有水、植物和動物的地方（<a href=\"https://ref.ly/Isa43:19-Isa43:20\">賽43:19–20</a>）。</p></li><li><p>祂移除阻礙（<a href=\"https://ref.ly/Isa42:16\">42:16</a>，<a href=\"https://ref.ly/Isa49:11\">49:11</a>）。</p></li><li><p>祂引導祂的人民（<a href=\"https://ref.ly/Isa42:16\">42:16</a>，<a href=\"https://ref.ly/Isa58:11\">58:11</a>，<a href=\"https://ref.ly/Isa63:13\">63:13</a>）。</p></li><li><p>祂餵養他們（<a href=\"https://ref.ly/Isa49:10\">49:10</a>）。</p></li><li><p>祂保護他們免受炎熱（<a href=\"https://ref.ly/Isa49:10\">49:10</a>）。</p></li><li><p>祂賜給他們力量 （<a href=\"https://ref.ly/Isa58:11\">58:11</a>）。</p></li><li><p>祂將他們的悲傷轉為極大的喜樂 （<a href=\"https://ref.ly/Isa51:3\">51:3</a>）。</p></li><li><p>祂將祂的靈澆灌在他們身上（<a href=\"https://ref.ly/Isa44:3-Isa44:4\">44:3–4</a>）。</p></li></ul><p>基督徒也經歷一次「出埃及」。他們藉著耶穌的死亡和復活擺脫罪惡和死亡。聖靈幫助基督徒擁有新的生命。在等待祂的國度完全降臨時，他們喜樂事奉神。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Isa35:8-Isa35:10\">賽35:8–10</a>，<a href=\"https://ref.ly/Isa42:14-Isa42:16\">42:14–16</a>，<a href=\"https://ref.ly/Isa43:18-Isa43:21\">43:18–21</a>，<a href=\"https://ref.ly/Isa44:3-Isa44:4\">44:3–4</a>，<a href=\"https://ref.ly/Isa48:20-Isa48:21\">48:20–21</a>，<a href=\"https://ref.ly/Isa49:9-Isa49:12\">49:9–12</a>，<a href=\"https://ref.ly/Isa52:11-Isa52:12\">52:11–12</a>，<a href=\"https://ref.ly/Isa58:8-Isa58:12\">58:8–12</a>；<a href=\"https://ref.ly/Jer31:2-Jer31:17\">耶31:2–17</a>；<a href=\"https://ref.ly/Joel3:17-Joel3:21\">珥3:17–21</a>；<a href=\"https://ref.ly/Luke1:78-Luke1:79\">路1:78–79</a>；<a href=\"https://ref.ly/John7:38\">約7:38</a>，<a href=\"https://ref.ly/John15:19\">15:19</a>；<a href=\"https://ref.ly/2Cor5:17\">林後5:17</a>，<a href=\"https://ref.ly/2Cor6:17-2Cor6:18\">6:17–18</a>；<a href=\"https://ref.ly/Eph5:8\">弗5:8</a>；<a href=\"https://ref.ly/Col1:13\">西1:13</a>；<a href=\"https://ref.ly/Heb13:12-Heb13:14\">來13:12–14</a>；<a href=\"https://ref.ly/Rev7:16\">啟7:16</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "23035001",
-          "start_ref_usfm": "ISA 35:1",
-          "end_ref": "23035001",
-          "end_ref_usfm": "ISA 35:1"
-        },
-        {
-          "start_ref": "23042016",
-          "start_ref_usfm": "ISA 42:16",
-          "end_ref": "23042016",
-          "end_ref_usfm": "ISA 42:16"
-        },
-        {
-          "start_ref": "23043019",
-          "start_ref_usfm": "ISA 43:19",
-          "end_ref": "23043019",
-          "end_ref_usfm": "ISA 43:19"
-        },
-        {
-          "start_ref": "23049010",
-          "start_ref_usfm": "ISA 49:10",
-          "end_ref": "23049010",
-          "end_ref_usfm": "ISA 49:10"
-        },
-        {
-          "start_ref": "23049011",
-          "start_ref_usfm": "ISA 49:11",
-          "end_ref": "23049011",
-          "end_ref_usfm": "ISA 49:11"
-        },
-        {
-          "start_ref": "23051003",
-          "start_ref_usfm": "ISA 51:3",
-          "end_ref": "23051003",
-          "end_ref_usfm": "ISA 51:3"
-        },
-        {
-          "start_ref": "23052011",
-          "start_ref_usfm": "ISA 52:11",
-          "end_ref": "23052011",
-          "end_ref_usfm": "ISA 52:11"
-        },
-        {
-          "start_ref": "23052012",
-          "start_ref_usfm": "ISA 52:12",
-          "end_ref": "23052012",
-          "end_ref_usfm": "ISA 52:12"
-        },
-        {
-          "start_ref": "23058011",
-          "start_ref_usfm": "ISA 58:11",
-          "end_ref": "23058011",
-          "end_ref_usfm": "ISA 58:11"
-        },
-        {
-          "start_ref": "23063013",
-          "start_ref_usfm": "ISA 63:13",
-          "end_ref": "23063013",
-          "end_ref_usfm": "ISA 63:13"
-        },
-        {
-          "start_ref": "43007038",
-          "start_ref_usfm": "JHN 7:38",
-          "end_ref": "43007038",
-          "end_ref_usfm": "JHN 7:38"
-        },
-        {
-          "start_ref": "43015019",
-          "start_ref_usfm": "JHN 15:19",
-          "end_ref": "43015019",
-          "end_ref_usfm": "JHN 15:19"
-        },
-        {
-          "start_ref": "47005017",
-          "start_ref_usfm": "2CO 5:17",
-          "end_ref": "47005017",
-          "end_ref_usfm": "2CO 5:17"
-        },
-        {
-          "start_ref": "49005008",
-          "start_ref_usfm": "EPH 5:8",
-          "end_ref": "49005008",
-          "end_ref_usfm": "EPH 5:8"
-        },
-        {
-          "start_ref": "51001013",
-          "start_ref_usfm": "COL 1:13",
-          "end_ref": "51001013",
-          "end_ref_usfm": "COL 1:13"
-        },
-        {
-          "start_ref": "66007016",
-          "start_ref_usfm": "REV 7:16",
-          "end_ref": "66007016",
-          "end_ref_usfm": "REV 7:16"
-        },
-        {
-          "start_ref": "23043019",
-          "start_ref_usfm": "ISA 43:19",
-          "end_ref": "23043020",
-          "end_ref_usfm": "ISA 43:20"
-        },
-        {
-          "start_ref": "23044003",
-          "start_ref_usfm": "ISA 44:3",
-          "end_ref": "23044004",
-          "end_ref_usfm": "ISA 44:4"
-        },
-        {
-          "start_ref": "29003017",
-          "start_ref_usfm": "JOL 3:17",
-          "end_ref": "29003021",
-          "end_ref_usfm": "JOL 3:21"
-        },
-        {
-          "start_ref": "23052011",
-          "start_ref_usfm": "ISA 52:11",
-          "end_ref": "23052012",
-          "end_ref_usfm": "ISA 52:12"
-        },
-        {
-          "start_ref": "47006017",
-          "start_ref_usfm": "2CO 6:17",
-          "end_ref": "47006018",
-          "end_ref_usfm": "2CO 6:18"
-        },
-        {
-          "start_ref": "23035008",
-          "start_ref_usfm": "ISA 35:8",
-          "end_ref": "23035010",
-          "end_ref_usfm": "ISA 35:10"
-        },
-        {
-          "start_ref": "42001078",
-          "start_ref_usfm": "LUK 1:78",
-          "end_ref": "42001079",
-          "end_ref_usfm": "LUK 1:79"
-        },
-        {
-          "start_ref": "23048020",
-          "start_ref_usfm": "ISA 48:20",
-          "end_ref": "23048021",
-          "end_ref_usfm": "ISA 48:21"
-        },
-        {
-          "start_ref": "23042014",
-          "start_ref_usfm": "ISA 42:14",
-          "end_ref": "23042016",
-          "end_ref_usfm": "ISA 42:16"
-        },
-        {
-          "start_ref": "23043018",
-          "start_ref_usfm": "ISA 43:18",
-          "end_ref": "23043021",
-          "end_ref_usfm": "ISA 43:21"
-        },
-        {
-          "start_ref": "23049009",
-          "start_ref_usfm": "ISA 49:9",
-          "end_ref": "23049012",
-          "end_ref_usfm": "ISA 49:12"
-        },
-        {
-          "start_ref": "23058008",
-          "start_ref_usfm": "ISA 58:8",
-          "end_ref": "23058012",
-          "end_ref_usfm": "ISA 58:12"
-        },
-        {
-          "start_ref": "24031002",
-          "start_ref_usfm": "JER 31:2",
-          "end_ref": "24031017",
-          "end_ref_usfm": "JER 31:17"
-        },
-        {
-          "start_ref": "58013012",
-          "start_ref_usfm": "HEB 13:12",
-          "end_ref": "58013014",
-          "end_ref_usfm": "HEB 13:14"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "700248",
-    "reference_id": 203185,
-    "version": "1.0.2",
-    "title": "第二聖殿重建完成",
-    "media_type": "Text",
-    "index_reference": "第二聖殿重建完成",
-    "language": "zht",
-    "review_level": "None",
-    "content": "<p>公元前515年3月12日，以色列人從巴比倫被擄歸回後，為第二聖殿舉行獻殿禮，這是他們歸回後的一件大事。他們如今可以像被擄前的祖先一樣敬拜讚美神。這座新殿使他們能遵行與神立約中當行的事。大祭司可以每年一次在贖罪日進入至聖所，為全國的罪灑血。經過七十年與神隔絕，如今神使祂與百姓的約重新恢復。</p><p>這場喜樂的獻殿盛事並非毫無挑戰。在神的幫助下，被擄歸回的以色列人克服了來自當地居民與波斯官員長達十六年的攔阻。儘管敵人試圖使他們灰心喪志，以色列人仍重新建造了聖殿。他們憑著耐心、堅持不懈與先知所帶來的勸勉，重新恢復對神的敬拜（<a href=\"https://ref.ly/Ezra5:1-Ezra5:5\">拉5:1–5，</a><a href=\"https://ref.ly/Ezra6:14\">6:14</a>）。</p><p>這次獻殿顯明：神能藉著一小群專心討祂喜悅、信靠祂供應的人來成就祂的旨意和應許（見<a href=\"https://ref.ly/Hag2:6-Hag2:9\">該2:6–9</a>）。這些人不因資源有限而擔憂，反而信靠神的預備，立志尊榮神並持守與祂的關係。神也藉此顯出祂掌管列國，並能感動君王的心，成就祂的計劃（<a href=\"https://ref.ly/Ezra5:5\">拉5:5，</a><a href=\"https://ref.ly/Ezra6:6-Ezra6:12\">6:6–12、</a><a href=\"https://ref.ly/Ezra6:22\">22</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Exod40:1-Exod40:38\">出40:1–38</a>；<a href=\"https://ref.ly/1Kgs7:51-1Kgs9:9\">王上7:51–9:9</a>；<a href=\"https://ref.ly/Ezra6:14-Ezra6:22\">拉6:14–22</a>；<a href=\"https://ref.ly/Hag1:8\">該1:8，</a><a href=\"https://ref.ly/Hag2:7-Hag2:8\">2:7–8</a>；<a href=\"https://ref.ly/Zech4:1-Zech4:10\">亞4:1–10</a>；<a href=\"https://ref.ly/Rev21:1-Rev21:27\">啟21:1–27</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "15005005",
-          "start_ref_usfm": "EZR 5:5",
-          "end_ref": "15005005",
-          "end_ref_usfm": "EZR 5:5"
-        },
-        {
-          "start_ref": "15006014",
-          "start_ref_usfm": "EZR 6:14",
-          "end_ref": "15006014",
-          "end_ref_usfm": "EZR 6:14"
-        },
-        {
-          "start_ref": "15006022",
-          "start_ref_usfm": "EZR 6:22",
-          "end_ref": "15006022",
-          "end_ref_usfm": "EZR 6:22"
-        },
-        {
-          "start_ref": "37001008",
-          "start_ref_usfm": "HAG 1:8",
-          "end_ref": "37001008",
-          "end_ref_usfm": "HAG 1:8"
-        },
-        {
-          "start_ref": "66021001",
-          "start_ref_usfm": "REV 21:1",
-          "end_ref": "66021027",
-          "end_ref_usfm": "REV 21:27"
-        },
-        {
-          "start_ref": "15005001",
-          "start_ref_usfm": "EZR 5:1",
-          "end_ref": "15005005",
-          "end_ref_usfm": "EZR 5:5"
-        },
-        {
-          "start_ref": "37002006",
-          "start_ref_usfm": "HAG 2:6",
-          "end_ref": "37002009",
-          "end_ref_usfm": "HAG 2:9"
-        },
-        {
-          "start_ref": "02040001",
-          "start_ref_usfm": "EXO 40:1",
-          "end_ref": "02040038",
-          "end_ref_usfm": "EXO 40:38"
-        },
-        {
-          "start_ref": "15006006",
-          "start_ref_usfm": "EZR 6:6",
-          "end_ref": "15006012",
-          "end_ref_usfm": "EZR 6:12"
-        },
-        {
-          "start_ref": "11007051",
-          "start_ref_usfm": "1KI 7:51",
-          "end_ref": "11009009",
-          "end_ref_usfm": "1KI 9:9"
-        },
-        {
-          "start_ref": "15006014",
-          "start_ref_usfm": "EZR 6:14",
-          "end_ref": "15006022",
-          "end_ref_usfm": "EZR 6:22"
-        },
-        {
-          "start_ref": "37002007",
-          "start_ref_usfm": "HAG 2:7",
-          "end_ref": "37002008",
-          "end_ref_usfm": "HAG 2:8"
-        },
-        {
-          "start_ref": "38004001",
-          "start_ref_usfm": "ZEC 4:1",
-          "end_ref": "38004010",
-          "end_ref_usfm": "ZEC 4:10"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  }
+{
+"content_id": "700453",
+"reference_id": 203390,
+"version": "1.0.2",
+"title": "敵基督",
+"media_type": "Text",
+"index_reference": "敵基督",
+"language": "zht",
+"review_level": "None",
+"content": "<p><strong>敵基督</strong>這個詞只出現在使徒約翰的書信中（<a href=\"https://ref.ly/1John2:18\">約一2:18</a>、<a href=\"https://ref.ly/1John2:22\">22</a>，<a href=\"https://ref.ly/1John4:3\">4:3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>）。約翰認為歷史上會出現許多敵基督（<a href=\"https://ref.ly/1John2:18\">約一2:18</a>）。這些敵基督會否認耶穌的神人二性（<a href=\"https://ref.ly/1John2:22\">約一2:22</a>，<a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>）。</p><p>使徒保羅則提到「<span>大罪人</span>」將在末世出現，煽動人起來悖逆神（<a href=\"https://ref.ly/2Thess2:1-2Thess2:12\">帖後2:1–12</a>）。這人會「<span>照撒但的運動</span>」出現，主要透過欺騙來行事。啟示錄雖未明確稱這人為「敵基督」，但這位「大罪人」如同約翰書信中的「敵基督」一樣，都是抵擋真理的。</p><p>在<a href=\"https://ref.ly/Rev13:1-Rev13:18\">啟示錄十三章</a>中，那抵擋基督的靈被描繪為另一<span>個</span>「獸」，牠服事那條龍（撒但）與第一<span>個</span>獸。這個敵基督的數字666很可能代表尼祿皇帝（Emperor Nero），也可能影射多米田皇帝（Emperor Domitian，見<span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">研讀註釋17:8</span>）。當時的皇帝崇拜宣稱「凱撒是主！」，這是虛假的宗教，與耶穌基督是主的宣告彼此對立。</p><p>約翰是否預期有一位最終的敵基督出現，甚至超越尼祿與多米田，這點尚不確定。然而，基督徒必須認清邪惡是存在的，也要辨識出那些在人與各種權力體系中，抵擋基督的勢力。抵抗這些仇敵可能使我們面對逼迫，甚至因此喪命，但我們的盼望是在基督裡得著最終的勝利。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/2Thess2:3-2Thess2:10\">帖後2:3–10</a>；<a href=\"https://ref.ly/1John2:18\">約一2:18</a>、<a href=\"https://ref.ly/1John2:22\">22</a>，<a href=\"https://ref.ly/1John4:2-1John4:3\">4:2–3</a>；<a href=\"https://ref.ly/2John1:7\">約二1:7</a>；<a href=\"https://ref.ly/Rev13:11\">啟13:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "62002018",
+"start_ref_usfm": "1JN 2:18",
+"end_ref": "62002018",
+"end_ref_usfm": "1JN 2:18"
+},
+{
+"start_ref": "62002022",
+"start_ref_usfm": "1JN 2:22",
+"end_ref": "62002022",
+"end_ref_usfm": "1JN 2:22"
+},
+{
+"start_ref": "62004003",
+"start_ref_usfm": "1JN 4:3",
+"end_ref": "62004003",
+"end_ref_usfm": "1JN 4:3"
+},
+{
+"start_ref": "63001007",
+"start_ref_usfm": "2JN 1:7",
+"end_ref": "63001007",
+"end_ref_usfm": "2JN 1:7"
+},
+{
+"start_ref": "66013011",
+"start_ref_usfm": "REV 13:11",
+"end_ref": "66013011",
+"end_ref_usfm": "REV 13:11"
+},
+{
+"start_ref": "62004002",
+"start_ref_usfm": "1JN 4:2",
+"end_ref": "62004003",
+"end_ref_usfm": "1JN 4:3"
+},
+{
+"start_ref": "66013001",
+"start_ref_usfm": "REV 13:1",
+"end_ref": "66013018",
+"end_ref_usfm": "REV 13:18"
+},
+{
+"start_ref": "53002001",
+"start_ref_usfm": "2TH 2:1",
+"end_ref": "53002012",
+"end_ref_usfm": "2TH 2:12"
+},
+{
+"start_ref": "53002003",
+"start_ref_usfm": "2TH 2:3",
+"end_ref": "53002010",
+"end_ref_usfm": "2TH 2:10"
+}
+],
+"resource": [
+{
+"reference_id": 24473,
+"content_id": 647965,
+"resource_code": "TyndaleStudyNotes",
+"label": "啟示錄 17:8",
+"language": "zht"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "700304",
+"reference_id": 203241,
+"version": "1.0.2",
+"title": "第二次出埃及的應許",
+"media_type": "Text",
+"index_reference": "第二次出埃及的應許",
+"language": "zht",
+"review_level": "None",
+"content": "<p>神將以色列人從巴比倫帶回他們的家園，就像祂多年前將他們從埃及帶出來一樣（<a href=\"https://ref.ly/Isa48:20-Isa48:21\">賽48:20–21</a>）。（第一次從埃及得拯救，稱為出埃及。）這次，以色列人離開巴比倫時需要保持潔淨，並且要慢慢行動，不要匆忙離開（<a href=\"https://ref.ly/Isa52:11\">52:11</a><a href=\"https://ref.ly/Isa52:12\">、12</a>）。</p><p>被擄的經歷和旅程可比作主在曠野中的拯救（見<a href=\"https://ref.ly/Isa35:1\">賽35:1</a>）：</p><ul><li><p>祂在曠野中開道路，將其變成有水、植物和動物的地方（<a href=\"https://ref.ly/Isa43:19-Isa43:20\">賽43:19–20</a>）。</p></li><li><p>祂移除阻礙（<a href=\"https://ref.ly/Isa42:16\">42:16</a>，<a href=\"https://ref.ly/Isa49:11\">49:11</a>）。</p></li><li><p>祂引導祂的人民（<a href=\"https://ref.ly/Isa42:16\">42:16</a>，<a href=\"https://ref.ly/Isa58:11\">58:11</a>，<a href=\"https://ref.ly/Isa63:13\">63:13</a>）。</p></li><li><p>祂餵養他們（<a href=\"https://ref.ly/Isa49:10\">49:10</a>）。</p></li><li><p>祂保護他們免受炎熱（<a href=\"https://ref.ly/Isa49:10\">49:10</a>）。</p></li><li><p>祂賜給他們力量 （<a href=\"https://ref.ly/Isa58:11\">58:11</a>）。</p></li><li><p>祂將他們的悲傷轉為極大的喜樂 （<a href=\"https://ref.ly/Isa51:3\">51:3</a>）。</p></li><li><p>祂將祂的靈澆灌在他們身上（<a href=\"https://ref.ly/Isa44:3-Isa44:4\">44:3–4</a>）。</p></li></ul><p>基督徒也經歷一次「出埃及」。他們藉著耶穌的死亡和復活擺脫罪惡和死亡。聖靈幫助基督徒擁有新的生命。在等待祂的國度完全降臨時，他們喜樂事奉神。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Isa35:8-Isa35:10\">賽35:8–10</a>，<a href=\"https://ref.ly/Isa42:14-Isa42:16\">42:14–16</a>，<a href=\"https://ref.ly/Isa43:18-Isa43:21\">43:18–21</a>，<a href=\"https://ref.ly/Isa44:3-Isa44:4\">44:3–4</a>，<a href=\"https://ref.ly/Isa48:20-Isa48:21\">48:20–21</a>，<a href=\"https://ref.ly/Isa49:9-Isa49:12\">49:9–12</a>，<a href=\"https://ref.ly/Isa52:11-Isa52:12\">52:11–12</a>，<a href=\"https://ref.ly/Isa58:8-Isa58:12\">58:8–12</a>；<a href=\"https://ref.ly/Jer31:2-Jer31:17\">耶31:2–17</a>；<a href=\"https://ref.ly/Joel3:17-Joel3:21\">珥3:17–21</a>；<a href=\"https://ref.ly/Luke1:78-Luke1:79\">路1:78–79</a>；<a href=\"https://ref.ly/John7:38\">約7:38</a>，<a href=\"https://ref.ly/John15:19\">15:19</a>；<a href=\"https://ref.ly/2Cor5:17\">林後5:17</a>，<a href=\"https://ref.ly/2Cor6:17-2Cor6:18\">6:17–18</a>；<a href=\"https://ref.ly/Eph5:8\">弗5:8</a>；<a href=\"https://ref.ly/Col1:13\">西1:13</a>；<a href=\"https://ref.ly/Heb13:12-Heb13:14\">來13:12–14</a>；<a href=\"https://ref.ly/Rev7:16\">啟7:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23035001",
+"start_ref_usfm": "ISA 35:1",
+"end_ref": "23035001",
+"end_ref_usfm": "ISA 35:1"
+},
+{
+"start_ref": "23042016",
+"start_ref_usfm": "ISA 42:16",
+"end_ref": "23042016",
+"end_ref_usfm": "ISA 42:16"
+},
+{
+"start_ref": "23043019",
+"start_ref_usfm": "ISA 43:19",
+"end_ref": "23043019",
+"end_ref_usfm": "ISA 43:19"
+},
+{
+"start_ref": "23049010",
+"start_ref_usfm": "ISA 49:10",
+"end_ref": "23049010",
+"end_ref_usfm": "ISA 49:10"
+},
+{
+"start_ref": "23049011",
+"start_ref_usfm": "ISA 49:11",
+"end_ref": "23049011",
+"end_ref_usfm": "ISA 49:11"
+},
+{
+"start_ref": "23051003",
+"start_ref_usfm": "ISA 51:3",
+"end_ref": "23051003",
+"end_ref_usfm": "ISA 51:3"
+},
+{
+"start_ref": "23052011",
+"start_ref_usfm": "ISA 52:11",
+"end_ref": "23052011",
+"end_ref_usfm": "ISA 52:11"
+},
+{
+"start_ref": "23052012",
+"start_ref_usfm": "ISA 52:12",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
+"start_ref": "23058011",
+"start_ref_usfm": "ISA 58:11",
+"end_ref": "23058011",
+"end_ref_usfm": "ISA 58:11"
+},
+{
+"start_ref": "23063013",
+"start_ref_usfm": "ISA 63:13",
+"end_ref": "23063013",
+"end_ref_usfm": "ISA 63:13"
+},
+{
+"start_ref": "43007038",
+"start_ref_usfm": "JHN 7:38",
+"end_ref": "43007038",
+"end_ref_usfm": "JHN 7:38"
+},
+{
+"start_ref": "43015019",
+"start_ref_usfm": "JHN 15:19",
+"end_ref": "43015019",
+"end_ref_usfm": "JHN 15:19"
+},
+{
+"start_ref": "47005017",
+"start_ref_usfm": "2CO 5:17",
+"end_ref": "47005017",
+"end_ref_usfm": "2CO 5:17"
+},
+{
+"start_ref": "49005008",
+"start_ref_usfm": "EPH 5:8",
+"end_ref": "49005008",
+"end_ref_usfm": "EPH 5:8"
+},
+{
+"start_ref": "51001013",
+"start_ref_usfm": "COL 1:13",
+"end_ref": "51001013",
+"end_ref_usfm": "COL 1:13"
+},
+{
+"start_ref": "66007016",
+"start_ref_usfm": "REV 7:16",
+"end_ref": "66007016",
+"end_ref_usfm": "REV 7:16"
+},
+{
+"start_ref": "23043019",
+"start_ref_usfm": "ISA 43:19",
+"end_ref": "23043020",
+"end_ref_usfm": "ISA 43:20"
+},
+{
+"start_ref": "23044003",
+"start_ref_usfm": "ISA 44:3",
+"end_ref": "23044004",
+"end_ref_usfm": "ISA 44:4"
+},
+{
+"start_ref": "29003017",
+"start_ref_usfm": "JOL 3:17",
+"end_ref": "29003021",
+"end_ref_usfm": "JOL 3:21"
+},
+{
+"start_ref": "23052011",
+"start_ref_usfm": "ISA 52:11",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
+"start_ref": "47006017",
+"start_ref_usfm": "2CO 6:17",
+"end_ref": "47006018",
+"end_ref_usfm": "2CO 6:18"
+},
+{
+"start_ref": "23035008",
+"start_ref_usfm": "ISA 35:8",
+"end_ref": "23035010",
+"end_ref_usfm": "ISA 35:10"
+},
+{
+"start_ref": "42001078",
+"start_ref_usfm": "LUK 1:78",
+"end_ref": "42001079",
+"end_ref_usfm": "LUK 1:79"
+},
+{
+"start_ref": "23048020",
+"start_ref_usfm": "ISA 48:20",
+"end_ref": "23048021",
+"end_ref_usfm": "ISA 48:21"
+},
+{
+"start_ref": "23042014",
+"start_ref_usfm": "ISA 42:14",
+"end_ref": "23042016",
+"end_ref_usfm": "ISA 42:16"
+},
+{
+"start_ref": "23043018",
+"start_ref_usfm": "ISA 43:18",
+"end_ref": "23043021",
+"end_ref_usfm": "ISA 43:21"
+},
+{
+"start_ref": "23049009",
+"start_ref_usfm": "ISA 49:9",
+"end_ref": "23049012",
+"end_ref_usfm": "ISA 49:12"
+},
+{
+"start_ref": "23058008",
+"start_ref_usfm": "ISA 58:8",
+"end_ref": "23058012",
+"end_ref_usfm": "ISA 58:12"
+},
+{
+"start_ref": "24031002",
+"start_ref_usfm": "JER 31:2",
+"end_ref": "24031017",
+"end_ref_usfm": "JER 31:17"
+},
+{
+"start_ref": "58013012",
+"start_ref_usfm": "HEB 13:12",
+"end_ref": "58013014",
+"end_ref_usfm": "HEB 13:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "700248",
+"reference_id": 203185,
+"version": "1.0.2",
+"title": "第二聖殿重建完成",
+"media_type": "Text",
+"index_reference": "第二聖殿重建完成",
+"language": "zht",
+"review_level": "None",
+"content": "<p>公元前515年3月12日，以色列人從巴比倫被擄歸回後，為第二聖殿舉行獻殿禮，這是他們歸回後的一件大事。他們如今可以像被擄前的祖先一樣敬拜讚美神。這座新殿使他們能遵行與神立約中當行的事。大祭司可以每年一次在贖罪日進入至聖所，為全國的罪灑血。經過七十年與神隔絕，如今神使祂與百姓的約重新恢復。</p><p>這場喜樂的獻殿盛事並非毫無挑戰。在神的幫助下，被擄歸回的以色列人克服了來自當地居民與波斯官員長達十六年的攔阻。儘管敵人試圖使他們灰心喪志，以色列人仍重新建造了聖殿。他們憑著耐心、堅持不懈與先知所帶來的勸勉，重新恢復對神的敬拜（<a href=\"https://ref.ly/Ezra5:1-Ezra5:5\">拉5:1–5，</a><a href=\"https://ref.ly/Ezra6:14\">6:14</a>）。</p><p>這次獻殿顯明：神能藉著一小群專心討祂喜悅、信靠祂供應的人來成就祂的旨意和應許（見<a href=\"https://ref.ly/Hag2:6-Hag2:9\">該2:6–9</a>）。這些人不因資源有限而擔憂，反而信靠神的預備，立志尊榮神並持守與祂的關係。神也藉此顯出祂掌管列國，並能感動君王的心，成就祂的計劃（<a href=\"https://ref.ly/Ezra5:5\">拉5:5，</a><a href=\"https://ref.ly/Ezra6:6-Ezra6:12\">6:6–12、</a><a href=\"https://ref.ly/Ezra6:22\">22</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Exod40:1-Exod40:38\">出40:1–38</a>；<a href=\"https://ref.ly/1Kgs7:51-1Kgs9:9\">王上7:51–9:9</a>；<a href=\"https://ref.ly/Ezra6:14-Ezra6:22\">拉6:14–22</a>；<a href=\"https://ref.ly/Hag1:8\">該1:8，</a><a href=\"https://ref.ly/Hag2:7-Hag2:8\">2:7–8</a>；<a href=\"https://ref.ly/Zech4:1-Zech4:10\">亞4:1–10</a>；<a href=\"https://ref.ly/Rev21:1-Rev21:27\">啟21:1–27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15005005",
+"start_ref_usfm": "EZR 5:5",
+"end_ref": "15005005",
+"end_ref_usfm": "EZR 5:5"
+},
+{
+"start_ref": "15006014",
+"start_ref_usfm": "EZR 6:14",
+"end_ref": "15006014",
+"end_ref_usfm": "EZR 6:14"
+},
+{
+"start_ref": "15006022",
+"start_ref_usfm": "EZR 6:22",
+"end_ref": "15006022",
+"end_ref_usfm": "EZR 6:22"
+},
+{
+"start_ref": "37001008",
+"start_ref_usfm": "HAG 1:8",
+"end_ref": "37001008",
+"end_ref_usfm": "HAG 1:8"
+},
+{
+"start_ref": "66021001",
+"start_ref_usfm": "REV 21:1",
+"end_ref": "66021027",
+"end_ref_usfm": "REV 21:27"
+},
+{
+"start_ref": "15005001",
+"start_ref_usfm": "EZR 5:1",
+"end_ref": "15005005",
+"end_ref_usfm": "EZR 5:5"
+},
+{
+"start_ref": "37002006",
+"start_ref_usfm": "HAG 2:6",
+"end_ref": "37002009",
+"end_ref_usfm": "HAG 2:9"
+},
+{
+"start_ref": "02040001",
+"start_ref_usfm": "EXO 40:1",
+"end_ref": "02040038",
+"end_ref_usfm": "EXO 40:38"
+},
+{
+"start_ref": "15006006",
+"start_ref_usfm": "EZR 6:6",
+"end_ref": "15006012",
+"end_ref_usfm": "EZR 6:12"
+},
+{
+"start_ref": "11007051",
+"start_ref_usfm": "1KI 7:51",
+"end_ref": "11009009",
+"end_ref_usfm": "1KI 9:9"
+},
+{
+"start_ref": "15006014",
+"start_ref_usfm": "EZR 6:14",
+"end_ref": "15006022",
+"end_ref_usfm": "EZR 6:22"
+},
+{
+"start_ref": "37002007",
+"start_ref_usfm": "HAG 2:7",
+"end_ref": "37002008",
+"end_ref_usfm": "HAG 2:8"
+},
+{
+"start_ref": "38004001",
+"start_ref_usfm": "ZEC 4:1",
+"end_ref": "38004010",
+"end_ref_usfm": "ZEC 4:10"
+}
+],
+"resource": [],
+"acai": []
+}
+}
 ]

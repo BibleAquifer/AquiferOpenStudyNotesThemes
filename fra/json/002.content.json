@@ -1,1748 +1,1724 @@
 [
-  {
-    "content_id": "734240",
-    "reference_id": 203347,
-    "version": "1.0.2",
-    "title": "Aimer son prochain",
-    "media_type": "Text",
-    "index_reference": "aimer son prochain",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Jésus enseigne que l&apos;amour du prochain est le deuxième commandement le plus important dans l&apos;Ancien Testament (<a href=\"https://ref.ly/Mark12:31\">Mc 12.31</a>). Les commandements d&apos;aimer Dieu et son prochain résument toute la loi de l&apos;Ancien Testament (<a href=\"https://ref.ly/Matt22:40\">Mt 22.40</a> ; voir aussi <a href=\"https://ref.ly/Matt7:12\">7.12</a> ; <a href=\"https://ref.ly/Matt9:9-Matt9:13\">9.9–13</a> ; <a href=\"https://ref.ly/Matt12:1-Matt12:13\">12.1–13</a> et <a href=\"https://ref.ly/Rom13:8-Rom13:10\">Rm 13.8–10</a>). Jésus reprend les pharisiens pour leur manque d&apos;amour (<a href=\"https://ref.ly/Matt9:13\">Mt 9.13</a> ; <a href=\"https://ref.ly/Matt12:7\">12.7</a> ; <a href=\"https://ref.ly/Matt23:4\">23.4</a>, <a href=\"https://ref.ly/Matt23:13-Matt23:14\">13–14</a>, <a href=\"https://ref.ly/Matt23:23\">23</a>). L&apos;amour est la marque d&apos;un véritable disciple de Jésus (<a href=\"https://ref.ly/John13:34-John13:35\">Jn 13.34–35</a>). Celui qui aime montre qu&apos;il connaît vraiment Dieu (<a href=\"https://ref.ly/1John2:9-1John2:11\">1Jn 2.9–11</a> ; <a href=\"https://ref.ly/1John3:11-1John3:18\">3.11–18</a> ; <a href=\"https://ref.ly/1John4:7-1John4:21\">4.7–21</a>).</p><p>Pour l&apos;apôtre Paul, l&apos;amour est plus important que d&apos;avoir des dons spirituels impressionnants. C&apos;est la vertu la plus importante. L&apos;amour (parfois traduit par <em>charité</em> dans la Louis Segond) est « <span>le lien de la perfection</span> » (<a href=\"https://ref.ly/Col3:14\">Col 3.14</a>). Sans amour, le ministère chrétien n&apos;a aucune valeur (<a href=\"https://ref.ly/1Cor13:1-1Cor13:3\">1Co 13.1–3</a>). Paul résume l&apos;éthique chrétienne comme « la foi se manifestant par l&apos;amour » (<a href=\"https://ref.ly/Gal5:6\">Ga 5.6</a>).</p><p>L&apos;amour découle naturellement de la foi chrétienne. C&apos;est un fruit du Saint-Esprit (<a href=\"https://ref.ly/Gal5:22\">Ga 5.22</a>). L&apos;amour est la motivation la plus importante pour le ministère chrétien. Quand le chrétien grandit spirituellement, il veut de plus en plus aimer les autres comme Christ l&apos;a fait.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Lev19:18\">Lévitique 19.18</a> ; <a href=\"https://ref.ly/Hos6:6\">Osée 6.6</a> ; <a href=\"https://ref.ly/Matt7:12\">Matthieu 7.12</a> ; <a href=\"https://ref.ly/Matt9:9-Matt9:13\">9.9–13</a> ; <a href=\"https://ref.ly/Matt12:1-Matt12:13\">12.1–13</a> ; <a href=\"https://ref.ly/Matt22:37-Matt22:40\">22.37–40</a> ; <a href=\"https://ref.ly/Matt23:2-Matt23:4\">23.2–4</a>, <a href=\"https://ref.ly/Matt23:13\">13</a>, <a href=\"https://ref.ly/Matt23:23\">23</a> ; <a href=\"https://ref.ly/John13:34-John13:35\">Jean 13.34–35</a> ; <a href=\"https://ref.ly/Rom13:8-Rom13:10\">Romains 13.8–10</a> ; <a href=\"https://ref.ly/1Cor13:1-1Cor13:13\">1&nbsp;Corinthiens 13.1–13</a> ; <a href=\"https://ref.ly/Gal5:6\">Galates 5.6</a>, <a href=\"https://ref.ly/Gal5:22-Gal5:23\">22–23</a> ; <a href=\"https://ref.ly/Col3:12-Col3:14\">Colossiens 3.12–14</a> ; <a href=\"https://ref.ly/1John2:7-1John2:11\">1&nbsp;Jean 2.7–11</a> ; <a href=\"https://ref.ly/1John3:11-1John3:18\">3.11–18</a> ; <a href=\"https://ref.ly/1John4:7-1John4:21\">4.7–21</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "03019018",
-          "start_ref_usfm": "LEV 19:18",
-          "end_ref": "03019018",
-          "end_ref_usfm": "LEV 19:18"
-        },
-        {
-          "start_ref": "28006006",
-          "start_ref_usfm": "HOS 6:6",
-          "end_ref": "28006006",
-          "end_ref_usfm": "HOS 6:6"
-        },
-        {
-          "start_ref": "40007012",
-          "start_ref_usfm": "MAT 7:12",
-          "end_ref": "40007012",
-          "end_ref_usfm": "MAT 7:12"
-        },
-        {
-          "start_ref": "40009013",
-          "start_ref_usfm": "MAT 9:13",
-          "end_ref": "40009013",
-          "end_ref_usfm": "MAT 9:13"
-        },
-        {
-          "start_ref": "40012007",
-          "start_ref_usfm": "MAT 12:7",
-          "end_ref": "40012007",
-          "end_ref_usfm": "MAT 12:7"
-        },
-        {
-          "start_ref": "40022040",
-          "start_ref_usfm": "MAT 22:40",
-          "end_ref": "40022040",
-          "end_ref_usfm": "MAT 22:40"
-        },
-        {
-          "start_ref": "40023004",
-          "start_ref_usfm": "MAT 23:4",
-          "end_ref": "40023004",
-          "end_ref_usfm": "MAT 23:4"
-        },
-        {
-          "start_ref": "40023013",
-          "start_ref_usfm": "MAT 23:13",
-          "end_ref": "40023013",
-          "end_ref_usfm": "MAT 23:13"
-        },
-        {
-          "start_ref": "40023023",
-          "start_ref_usfm": "MAT 23:23",
-          "end_ref": "40023023",
-          "end_ref_usfm": "MAT 23:23"
-        },
-        {
-          "start_ref": "41012031",
-          "start_ref_usfm": "MRK 12:31",
-          "end_ref": "41012031",
-          "end_ref_usfm": "MRK 12:31"
-        },
-        {
-          "start_ref": "48005006",
-          "start_ref_usfm": "GAL 5:6",
-          "end_ref": "48005006",
-          "end_ref_usfm": "GAL 5:6"
-        },
-        {
-          "start_ref": "48005022",
-          "start_ref_usfm": "GAL 5:22",
-          "end_ref": "48005022",
-          "end_ref_usfm": "GAL 5:22"
-        },
-        {
-          "start_ref": "51003014",
-          "start_ref_usfm": "COL 3:14",
-          "end_ref": "51003014",
-          "end_ref_usfm": "COL 3:14"
-        },
-        {
-          "start_ref": "45013008",
-          "start_ref_usfm": "ROM 13:8",
-          "end_ref": "45013010",
-          "end_ref_usfm": "ROM 13:10"
-        },
-        {
-          "start_ref": "46013001",
-          "start_ref_usfm": "1CO 13:1",
-          "end_ref": "46013013",
-          "end_ref_usfm": "1CO 13:13"
-        },
-        {
-          "start_ref": "51003012",
-          "start_ref_usfm": "COL 3:12",
-          "end_ref": "51003014",
-          "end_ref_usfm": "COL 3:14"
-        },
-        {
-          "start_ref": "46013001",
-          "start_ref_usfm": "1CO 13:1",
-          "end_ref": "46013003",
-          "end_ref_usfm": "1CO 13:3"
-        },
-        {
-          "start_ref": "43013034",
-          "start_ref_usfm": "JHN 13:34",
-          "end_ref": "43013035",
-          "end_ref_usfm": "JHN 13:35"
-        },
-        {
-          "start_ref": "48005022",
-          "start_ref_usfm": "GAL 5:22",
-          "end_ref": "48005023",
-          "end_ref_usfm": "GAL 5:23"
-        },
-        {
-          "start_ref": "40022037",
-          "start_ref_usfm": "MAT 22:37",
-          "end_ref": "40022040",
-          "end_ref_usfm": "MAT 22:40"
-        },
-        {
-          "start_ref": "40009009",
-          "start_ref_usfm": "MAT 9:9",
-          "end_ref": "40009013",
-          "end_ref_usfm": "MAT 9:13"
-        },
-        {
-          "start_ref": "40023002",
-          "start_ref_usfm": "MAT 23:2",
-          "end_ref": "40023004",
-          "end_ref_usfm": "MAT 23:4"
-        },
-        {
-          "start_ref": "62002007",
-          "start_ref_usfm": "1JN 2:7",
-          "end_ref": "62002011",
-          "end_ref_usfm": "1JN 2:11"
-        },
-        {
-          "start_ref": "62002009",
-          "start_ref_usfm": "1JN 2:9",
-          "end_ref": "62002011",
-          "end_ref_usfm": "1JN 2:11"
-        },
-        {
-          "start_ref": "62004007",
-          "start_ref_usfm": "1JN 4:7",
-          "end_ref": "62004021",
-          "end_ref_usfm": "1JN 4:21"
-        },
-        {
-          "start_ref": "40012001",
-          "start_ref_usfm": "MAT 12:1",
-          "end_ref": "40012013",
-          "end_ref_usfm": "MAT 12:13"
-        },
-        {
-          "start_ref": "40023013",
-          "start_ref_usfm": "MAT 23:13",
-          "end_ref": "40023014",
-          "end_ref_usfm": "MAT 23:14"
-        },
-        {
-          "start_ref": "62003011",
-          "start_ref_usfm": "1JN 3:11",
-          "end_ref": "62003018",
-          "end_ref_usfm": "1JN 3:18"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "keyterm:Love",
-          "type": "keyterm",
-          "preferred_label": "aimer",
-          "confidence": 0.7762,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734171",
-    "reference_id": 203099,
-    "version": "1.0.2",
-    "title": "Alliance de Dieu avec Noé",
-    "media_type": "Text",
-    "index_reference": "alliance de dieu avec noé",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Une alliance est un accord qui établit une relation spéciale entre deux groupes ou individus, et qui comprend des promesses. Dans la Bible, les alliances sont souvent conclues entre Dieu et des êtres humains. Ces accords incluent généralement des promesses, des obligations, et parfois des signes ou des symboles qui aident à rappeler l&apos;alliance. La première alliance mentionnée clairement en tant que telle dans la Bible est celle que Dieu établit avec Noé après le déluge (<a href=\"https://ref.ly/Gen9:1-Gen9:17\">Gn 9.1–17</a>).</p><p>Dieu voit que les êtres humains sont devenus mauvais et font continuellement le mal. Dieu est affligé et regrette d&apos;avoir créé les êtres humains sur la terre (<a href=\"https://ref.ly/Gen6:5-Gen6:7\">Gn 6.5–7</a>). Dieu décide de détruire l&apos;humanité à cause de sa corruption et de sa violence (<a href=\"https://ref.ly/Gen6:11-Gen6:13\">Gn 6.11–13</a>). Cependant, Noé est un homme juste et Dieu l&apos;épargne, lui et sa famille (<a href=\"https://ref.ly/Gen6:8\">Gn 6.8</a>). Il lui commande de construire une arche (un grand bateau) pour survivre au déluge à venir (<a href=\"https://ref.ly/Gen6:13-Gen6:17\">Gn 6.13–17</a>). Même si l&apos;humanité s&apos;est détournée de lui, Dieu promet de faire alliance avec Noé, sa famille et toute la création (<a href=\"https://ref.ly/Gen6:1-Gen6:7\">Gn 6.1–7</a> ; <a href=\"https://ref.ly/Gen9:8-Gen9:13\">9.8–13</a>).</p><p>Dieu s&apos;engage envers la famille de Noé, malgré la rupture de sa relation avec les autres êtres humains qui périssent pendant le déluge (<a href=\"https://ref.ly/Gen6:18\">Gn 6.18</a>). La promesse de Dieu de le sauver lui et sa famille inclut son commandement de construire une arche (<a href=\"https://ref.ly/Gen6:14\">Gen 6.14</a>). Pour que Noé puisse être béni selon cette alliance et être sauvé, il doit obéir à ce commandement (<a href=\"https://ref.ly/Gen6:22\">Gn 6.22</a> ; <a href=\"https://ref.ly/Gen7:5\">7.5</a>).</p><p>Après le déluge, Noé offre des sacrifices à Dieu (<a href=\"https://ref.ly/Gen8:20-Gen8:22\">Gn 8.20–22</a>). Dieu lui explique alors son alliance. Elle est universelle : elle ne concerne pas seulement Noé et sa famille, mais aussi toutes les générations d&apos;êtres humains après lui, ainsi que tous les animaux (<a href=\"https://ref.ly/Gen9:8-Gen9:10\">Gn 9.8–10</a>). Dieu promet de ne plus faire venir de déluge comme jugement sur le monde (<a href=\"https://ref.ly/Gen9:15\">Gn 9.15</a>).</p><p>Cette alliance nous aide à comprendre comment fonctionnent les alliances de Dieu. Même si les êtres humains méritent qu&apos;il les juge à cause de leurs péchés, il se retient de les détruire complètement. </p><p>L&apos;alliance de Dieu avec Noé n&apos;établit pas de relation proche entre Dieu et chaque être vivant. Toutefois, elle donne des principes de base sur la vie sur terre qui sont conformes à la volonté de Dieu (<a href=\"https://ref.ly/Gen9:1-Gen9:7\">Gn 9.1–7</a>). Plus tard, Dieu établit une relation plus étroite par une autre alliance&nbsp;: celle avec Abraham (<a href=\"https://ref.ly/Gen17:1-Gen17:21\">Gn 17.1–21</a>). Malgré leurs péchés, Dieu donne encore aux gens la possibilité de vivre pour chercher à connaître Dieu et marcher avec leur Créateur. Les autres alliances que Dieu établit plus tard rendent possible la communion avec lui, qui devient accessible à tous (<a href=\"https://ref.ly/Acts2:22-Acts2:40\">Ac 2.22–40</a> ; <a href=\"https://ref.ly/Acts3:17-Acts3:26\">3.17–26</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen9:1-Gen9:17\">Genèse 9.1–17</a> ; <a href=\"https://ref.ly/Ezek14:12-Ezek14:23\">Ézéchiel 14.12–23</a> ; <a href=\"https://ref.ly/Matt24:37-Matt24:39\">Matthieu 24.37–39</a> ; <a href=\"https://ref.ly/Heb11:7\">Hébreux 11.7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01006008",
-          "start_ref_usfm": "GEN 6:8",
-          "end_ref": "01006008",
-          "end_ref_usfm": "GEN 6:8"
-        },
-        {
-          "start_ref": "01006014",
-          "start_ref_usfm": "GEN 6:14",
-          "end_ref": "01006014",
-          "end_ref_usfm": "GEN 6:14"
-        },
-        {
-          "start_ref": "01006018",
-          "start_ref_usfm": "GEN 6:18",
-          "end_ref": "01006018",
-          "end_ref_usfm": "GEN 6:18"
-        },
-        {
-          "start_ref": "01006022",
-          "start_ref_usfm": "GEN 6:22",
-          "end_ref": "01006022",
-          "end_ref_usfm": "GEN 6:22"
-        },
-        {
-          "start_ref": "01007005",
-          "start_ref_usfm": "GEN 7:5",
-          "end_ref": "01007005",
-          "end_ref_usfm": "GEN 7:5"
-        },
-        {
-          "start_ref": "58011007",
-          "start_ref_usfm": "HEB 11:7",
-          "end_ref": "58011007",
-          "end_ref_usfm": "HEB 11:7"
-        },
-        {
-          "start_ref": "01008020",
-          "start_ref_usfm": "GEN 8:20",
-          "end_ref": "01008022",
-          "end_ref_usfm": "GEN 8:22"
-        },
-        {
-          "start_ref": "01009008",
-          "start_ref_usfm": "GEN 9:8",
-          "end_ref": "01009010",
-          "end_ref_usfm": "GEN 9:10"
-        },
-        {
-          "start_ref": "40024037",
-          "start_ref_usfm": "MAT 24:37",
-          "end_ref": "40024039",
-          "end_ref_usfm": "MAT 24:39"
-        },
-        {
-          "start_ref": "01006011",
-          "start_ref_usfm": "GEN 6:11",
-          "end_ref": "01006013",
-          "end_ref_usfm": "GEN 6:13"
-        },
-        {
-          "start_ref": "01009001",
-          "start_ref_usfm": "GEN 9:1",
-          "end_ref": "01009007",
-          "end_ref_usfm": "GEN 9:7"
-        },
-        {
-          "start_ref": "01009001",
-          "start_ref_usfm": "GEN 9:1",
-          "end_ref": "01009017",
-          "end_ref_usfm": "GEN 9:17"
-        },
-        {
-          "start_ref": "01006013",
-          "start_ref_usfm": "GEN 6:13",
-          "end_ref": "01006017",
-          "end_ref_usfm": "GEN 6:17"
-        },
-        {
-          "start_ref": "01006001",
-          "start_ref_usfm": "GEN 6:1",
-          "end_ref": "01006007",
-          "end_ref_usfm": "GEN 6:7"
-        },
-        {
-          "start_ref": "01017001",
-          "start_ref_usfm": "GEN 17:1",
-          "end_ref": "01017021",
-          "end_ref_usfm": "GEN 17:21"
-        },
-        {
-          "start_ref": "44002022",
-          "start_ref_usfm": "ACT 2:22",
-          "end_ref": "44002040",
-          "end_ref_usfm": "ACT 2:40"
-        },
-        {
-          "start_ref": "44003017",
-          "start_ref_usfm": "ACT 3:17",
-          "end_ref": "44003026",
-          "end_ref_usfm": "ACT 3:26"
-        },
-        {
-          "start_ref": "26014012",
-          "start_ref_usfm": "EZK 14:12",
-          "end_ref": "26014023",
-          "end_ref_usfm": "EZK 14:23"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "keyterm:Covenant",
-          "type": "keyterm",
-          "preferred_label": "alliance",
-          "confidence": 0.6731,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "708454",
-    "reference_id": 203334,
-    "version": "1.0.2",
-    "title": "Anges",
-    "media_type": "Text",
-    "index_reference": "anges",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Dans la Bible, les anges sont des messagers de Dieu qui exécutent ses plans et communiquent sa volonté aux êtres humains (<a href=\"https://ref.ly/Gen16:7-Gen16:12\">Gn 16.7–12</a> ; <a href=\"https://ref.ly/Num22:22-Num22:34\">Nb 22.22–34</a> ; <a href=\"https://ref.ly/Judg13:3-Judg13:21\">Jg 13.3–21</a> ; <a href=\"https://ref.ly/2Kgs1:3\">2R 1.3</a>, <a href=\"https://ref.ly/2Kgs1:15\">15</a> ; <a href=\"https://ref.ly/Zech1:4-Zech1:12\">Za 1.4–12</a>). L&apos;Ancien Testament hébreu et le Nouveau Testament grec ne nomment que deux anges, Micaël (Bible Louis Segond : Michel) et Gabriel, à qui Dieu avait donné des missions particulièrement importantes (<a href=\"https://ref.ly/Dan8:16\">Dn 8.16</a>, <a href=\"https://ref.ly/Dan8:18\">18</a> ; <a href=\"https://ref.ly/Dan9:21\">9.21</a> ; <a href=\"https://ref.ly/Dan10:12\">10.12</a>, <a href=\"https://ref.ly/Dan10:21\">21</a> ; <a href=\"https://ref.ly/Dan12:1-Dan12:2\">12.1–2</a> ; <a href=\"https://ref.ly/Luke1:19-Luke1:20\">Lc 1.19–20</a> ; <a href=\"https://ref.ly/Jude1:9\">Jd 1.9</a>). Les anges ont joué un rôle dans la transmission de la loi de Dieu à Moïse (<a href=\"https://ref.ly/Acts7:30\">Ac 7.30</a>, <a href=\"https://ref.ly/Acts7:35\">35</a>, <a href=\"https://ref.ly/Acts7:38\">38</a>, <a href=\"https://ref.ly/Acts7:53\">53</a> ; <a href=\"https://ref.ly/Gal3:19\">Ga 3.19</a>). Ce sont les agents de Dieu pour délivrer son peuple et exécuter ses jugements (<a href=\"https://ref.ly/2Kgs19:35\">2R 19.35</a> ; <a href=\"https://ref.ly/Acts12:23\">Ac 12.23</a> ; <a href=\"https://ref.ly/Rev9:15\">Ap 9.15</a> ; <a href=\"https://ref.ly/Rev16:1-Rev16:12\">16.1–12</a>).</p><p>Les anges ont été témoins de la vie du Christ et le sont maintenant de la vie du peuple de Dieu (<a href=\"https://ref.ly/1Tim3:16\">1Tm 3.16</a> ; <a href=\"https://ref.ly/1Cor11:10\">1Co 11.10</a> ; <a href=\"https://ref.ly/1Tim5:21\">1Tm 5.21</a>). Des anges gardiens protègent le peuple de Dieu (<a href=\"https://ref.ly/Matt18:10\">Mt 18.10</a> ; voir aussi <a href=\"https://ref.ly/Ps34:7\">Ps 34.8</a> ; <a href=\"https://ref.ly/Ps91:11\">91.11</a> ; <a href=\"https://ref.ly/Acts12:11\">Ac 12.11</a>). Ce sont « des esprits au service de Dieu, envoyés pour exercer un ministère en faveur de ceux qui doivent hériter du salut » (<a href=\"https://ref.ly/Heb1:14\">Hé 1.14</a>). Les anges accompagneront Christ à son retour (<a href=\"https://ref.ly/Matt25:31\">Mt 25.31</a> ; <a href=\"https://ref.ly/2Thess1:7-2Thess1:8\">2Th 1.7–8</a>). Ils participeront au jugement dernier (<a href=\"https://ref.ly/Matt13:39\">Mt 13.39</a>, <a href=\"https://ref.ly/Matt13:41\">41</a>, <a href=\"https://ref.ly/Matt13:49-Matt13:50\">49–50</a> ; <a href=\"https://ref.ly/Matt16:27\">16.27</a> ; <a href=\"https://ref.ly/Matt24:31\">24.31</a> ; <a href=\"https://ref.ly/Mark13:27\">Mc 13.27</a> ; <a href=\"https://ref.ly/Luke9:26\">Lc 9.26</a> ; <a href=\"https://ref.ly/Luke12:8\">12.8</a> ; <a href=\"https://ref.ly/2Thess1:7\">2Th 1.7</a>).</p><p>Les anges apparaissent à des moments clés dans les Évangiles. Ils  annoncent les naissances de Jean-Baptiste et de Jésus (<a href=\"https://ref.ly/Luke1:1-Luke2:52\">Lc 1.1–2.52</a> ). Ils viennent servir ce dernier après la tentation (<a href=\"https://ref.ly/Matt4:11\">Mt 4.11</a>). Un ange fortifie le dans le jardin de Gethsémané (Lc 22.43). Des anges apparaissent également au tombeau vide après sa résurrection (<a href=\"https://ref.ly/Matt28:1-Matt28:8\">Mt 28.1–8</a> ; <a href=\"https://ref.ly/Mark16:5-Mark16:7\">Mc 16.5–7</a> ; <a href=\"https://ref.ly/Luke24:23\">Lc 24.23</a> ; <a href=\"https://ref.ly/John20:12\">Jn 20.12</a>).</p><p>Les anges ont aussi un rôle important dans Actes. Ils font sortir les apôtres de prison (<a href=\"https://ref.ly/Acts5:19\">Ac 5.19</a>; <a href=\"https://ref.ly/Acts12:6-Acts12:11\">12.6–11</a>). Un ange encourage Paul pendant une violente tempête (<a href=\"https://ref.ly/Acts27:23-Acts27:24\">27.23–24</a>). Un ange dit également à Corneille, un centurion romain, de faire venir Pierre, qui allait lui annoncer l&apos;Évangile (<a href=\"https://ref.ly/Acts10:3\">10.3</a>, <a href=\"https://ref.ly/Acts10:7\">7</a>, <a href=\"https://ref.ly/Acts10:22\">22</a>; <a href=\"https://ref.ly/Acts11:13\">11.13</a>). Un ange frappe le roi Hérode Agrippa parce qu&apos;il accepte de se faire appeler «&nbsp;dieu&nbsp;» au lieu de donner gloire à Dieu (<a href=\"https://ref.ly/Acts12:23\">12.23</a>). Tout le long du livre, Dieu utilise ses anges pour guider son peuple et exécuter sa volonté. </p><p>Certains anges se sont détournés de Dieu et subiront un jugement éternel (<a href=\"https://ref.ly/Matt25:41\">Mt 25.41</a> ; <a href=\"https://ref.ly/2Pet2:4\">2P 2.4</a>, <a href=\"https://ref.ly/2Pet2:11\">11</a> ; <a href=\"https://ref.ly/Jude1:6\">Jd 1.6</a>). Les anges sont des êtres spirituels et célestes, mais ils sont inférieurs à Christ et ne doivent pas être adorés (<a href=\"https://ref.ly/Heb1:5-Heb1:14\">Hé 1.5–14</a> ; <a href=\"https://ref.ly/Gal1:8\">Ga 1.8</a> ; <a href=\"https://ref.ly/Col2:18\">Col 2.18</a>). En effet, seul Dieu doit être adoré (<a href=\"https://ref.ly/Matt4:10\">Mt 4.10</a> ; <a href=\"https://ref.ly/Rev19:10\">Ap 19.10</a> ; <a href=\"https://ref.ly/Rev22:8-Rev22:9\">22.8–9</a>). </p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Ps91:11\">Psaume 91.11</a> ; <a href=\"https://ref.ly/Dan8:15-Dan8:18\">Daniel 8.15–18</a> ; <a href=\"https://ref.ly/Dan9:21-Dan9:23\">9.21–23</a> ; <a href=\"https://ref.ly/Dan10:4-Dan11:1\">10.4–11.1</a> ; <a href=\"https://ref.ly/Dan12:1-Dan12:2\">12.1–2</a> ; <a href=\"https://ref.ly/Zech1:8-Zech1:13\">Zacharie 1.8–13</a>, <a href=\"https://ref.ly/Zech1:18-Zech1:19\">18–19</a> ; <a href=\"https://ref.ly/Zech2:3-Zech2:5\">2.3–5</a> ; <a href=\"https://ref.ly/Matt1:20-Matt1:24\">Matthieu 1.20–24</a> ; <a href=\"https://ref.ly/Matt4:5-Matt4:7\">4.5–7</a>, <a href=\"https://ref.ly/Matt4:11\">11</a> ; <a href=\"https://ref.ly/Matt13:39-Matt13:42\">13.39–42</a>, <a href=\"https://ref.ly/Matt13:49-Matt13:50\">49–50</a> ; <a href=\"https://ref.ly/Matt18:10\">18.10</a> ; <a href=\"https://ref.ly/Matt24:31\">24.31</a> ; <a href=\"https://ref.ly/Matt28:2-Matt28:7\">28.2–7</a> ; <a href=\"https://ref.ly/Mark16:5-Mark16:7\">Marc 16.5–7</a> ; <a href=\"https://ref.ly/Luke1:11-Luke1:22\">Lc 1.11–22</a>, <a href=\"https://ref.ly/Luke1:26-Luke1:38\">26–38</a> ; <a href=\"https://ref.ly/Luke2:8-Luke2:15\">2.8–15</a> ; <a href=\"https://ref.ly/Luke9:26\">9.26</a> ; <a href=\"https://ref.ly/Luke12:8\">12.8</a> ; <a href=\"https://ref.ly/John20:12-John20:13\">Jean 20.12–13</a> ; <a href=\"https://ref.ly/Acts5:19-Acts5:20\">Actes 5.19–20</a> ; <a href=\"https://ref.ly/Acts7:30-Acts7:35\">7.30–35</a>, <a href=\"https://ref.ly/Acts7:53\">53</a> ; <a href=\"https://ref.ly/Acts10:3-Acts10:8\">10.3–8</a> ; <a href=\"https://ref.ly/Acts12:6-Acts12:11\">12.6–11</a>, <a href=\"https://ref.ly/Acts12:23\">23</a> ; <a href=\"https://ref.ly/Acts27:23-Acts27:24\">27.23–24</a> ; <a href=\"https://ref.ly/1Cor11:10\">1 Corinthiens 11.10</a> ; <a href=\"https://ref.ly/Gal1:8\">Galates 1.8</a> ; <a href=\"https://ref.ly/Gal3:19\">3.19</a> ; <a href=\"https://ref.ly/Col2:18\">Colossiens 2.18</a> ; <a href=\"https://ref.ly/1Thess4:16\">1 Thessaloniciens 4.16</a> ; <a href=\"https://ref.ly/1Tim3:16\">1 Timothée 3.16</a> ; <a href=\"https://ref.ly/1Tim5:21\">5.21</a> ; <a href=\"https://ref.ly/Heb1:5-Heb1:14\">Hébreux 1.5–14</a> ; <a href=\"https://ref.ly/Heb12:22\">12.22</a> ; <a href=\"https://ref.ly/Heb13:2\">13.2</a> ; <a href=\"https://ref.ly/2Pet2:4\">2 Pierre 2.4</a>, <a href=\"https://ref.ly/2Pet2:11\">11</a> ; <a href=\"https://ref.ly/Jude1:6\">Jude 1.6</a>, <a href=\"https://ref.ly/Jude1:9\">9</a> ; <a href=\"https://ref.ly/Rev1:1-Rev1:2\">Apocalypse 1.1–2</a> ; <a href=\"https://ref.ly/Rev5:2\">5.2</a>, <a href=\"https://ref.ly/Rev5:11-Rev5:12\">11–12</a> ; <a href=\"https://ref.ly/Rev7:1-Rev7:2\">7.1–2</a> ; <a href=\"https://ref.ly/Rev8:3-Rev8:8\">8.3–8</a> ; <a href=\"https://ref.ly/Rev9:15\">9.15</a> ; <a href=\"https://ref.ly/Rev10:7-Rev10:9\">10.7–9</a> ; <a href=\"https://ref.ly/Rev14:6-Rev14:10\">14.6–10</a> ; <a href=\"https://ref.ly/Rev16:1-Rev16:12\">16.1–12</a> ; <a href=\"https://ref.ly/Rev19:10\">19.10</a>, <a href=\"https://ref.ly/Rev19:17\">17</a> ; <a href=\"https://ref.ly/Rev20:1\">20.1</a> ; <a href=\"https://ref.ly/Rev22:6-Rev22:9\">22.6–9</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "12001003",
-          "start_ref_usfm": "2KI 1:3",
-          "end_ref": "12001003",
-          "end_ref_usfm": "2KI 1:3"
-        },
-        {
-          "start_ref": "12001015",
-          "start_ref_usfm": "2KI 1:15",
-          "end_ref": "12001015",
-          "end_ref_usfm": "2KI 1:15"
-        },
-        {
-          "start_ref": "12019035",
-          "start_ref_usfm": "2KI 19:35",
-          "end_ref": "12019035",
-          "end_ref_usfm": "2KI 19:35"
-        },
-        {
-          "start_ref": "19034007",
-          "start_ref_usfm": "PSA 34:7",
-          "end_ref": "19034007",
-          "end_ref_usfm": "PSA 34:7"
-        },
-        {
-          "start_ref": "19091011",
-          "start_ref_usfm": "PSA 91:11",
-          "end_ref": "19091011",
-          "end_ref_usfm": "PSA 91:11"
-        },
-        {
-          "start_ref": "27008016",
-          "start_ref_usfm": "DAN 8:16",
-          "end_ref": "27008016",
-          "end_ref_usfm": "DAN 8:16"
-        },
-        {
-          "start_ref": "27008018",
-          "start_ref_usfm": "DAN 8:18",
-          "end_ref": "27008018",
-          "end_ref_usfm": "DAN 8:18"
-        },
-        {
-          "start_ref": "27009021",
-          "start_ref_usfm": "DAN 9:21",
-          "end_ref": "27009021",
-          "end_ref_usfm": "DAN 9:21"
-        },
-        {
-          "start_ref": "27010012",
-          "start_ref_usfm": "DAN 10:12",
-          "end_ref": "27010012",
-          "end_ref_usfm": "DAN 10:12"
-        },
-        {
-          "start_ref": "27010021",
-          "start_ref_usfm": "DAN 10:21",
-          "end_ref": "27010021",
-          "end_ref_usfm": "DAN 10:21"
-        },
-        {
-          "start_ref": "40004010",
-          "start_ref_usfm": "MAT 4:10",
-          "end_ref": "40004010",
-          "end_ref_usfm": "MAT 4:10"
-        },
-        {
-          "start_ref": "40004011",
-          "start_ref_usfm": "MAT 4:11",
-          "end_ref": "40004011",
-          "end_ref_usfm": "MAT 4:11"
-        },
-        {
-          "start_ref": "40013039",
-          "start_ref_usfm": "MAT 13:39",
-          "end_ref": "40013039",
-          "end_ref_usfm": "MAT 13:39"
-        },
-        {
-          "start_ref": "40013041",
-          "start_ref_usfm": "MAT 13:41",
-          "end_ref": "40013041",
-          "end_ref_usfm": "MAT 13:41"
-        },
-        {
-          "start_ref": "40016027",
-          "start_ref_usfm": "MAT 16:27",
-          "end_ref": "40016027",
-          "end_ref_usfm": "MAT 16:27"
-        },
-        {
-          "start_ref": "40018010",
-          "start_ref_usfm": "MAT 18:10",
-          "end_ref": "40018010",
-          "end_ref_usfm": "MAT 18:10"
-        },
-        {
-          "start_ref": "40024031",
-          "start_ref_usfm": "MAT 24:31",
-          "end_ref": "40024031",
-          "end_ref_usfm": "MAT 24:31"
-        },
-        {
-          "start_ref": "40025031",
-          "start_ref_usfm": "MAT 25:31",
-          "end_ref": "40025031",
-          "end_ref_usfm": "MAT 25:31"
-        },
-        {
-          "start_ref": "40025041",
-          "start_ref_usfm": "MAT 25:41",
-          "end_ref": "40025041",
-          "end_ref_usfm": "MAT 25:41"
-        },
-        {
-          "start_ref": "41013027",
-          "start_ref_usfm": "MRK 13:27",
-          "end_ref": "41013027",
-          "end_ref_usfm": "MRK 13:27"
-        },
-        {
-          "start_ref": "42009026",
-          "start_ref_usfm": "LUK 9:26",
-          "end_ref": "42009026",
-          "end_ref_usfm": "LUK 9:26"
-        },
-        {
-          "start_ref": "42012008",
-          "start_ref_usfm": "LUK 12:8",
-          "end_ref": "42012008",
-          "end_ref_usfm": "LUK 12:8"
-        },
-        {
-          "start_ref": "42024023",
-          "start_ref_usfm": "LUK 24:23",
-          "end_ref": "42024023",
-          "end_ref_usfm": "LUK 24:23"
-        },
-        {
-          "start_ref": "43020012",
-          "start_ref_usfm": "JHN 20:12",
-          "end_ref": "43020012",
-          "end_ref_usfm": "JHN 20:12"
-        },
-        {
-          "start_ref": "44005019",
-          "start_ref_usfm": "ACT 5:19",
-          "end_ref": "44005019",
-          "end_ref_usfm": "ACT 5:19"
-        },
-        {
-          "start_ref": "44007030",
-          "start_ref_usfm": "ACT 7:30",
-          "end_ref": "44007030",
-          "end_ref_usfm": "ACT 7:30"
-        },
-        {
-          "start_ref": "44007035",
-          "start_ref_usfm": "ACT 7:35",
-          "end_ref": "44007035",
-          "end_ref_usfm": "ACT 7:35"
-        },
-        {
-          "start_ref": "44007038",
-          "start_ref_usfm": "ACT 7:38",
-          "end_ref": "44007038",
-          "end_ref_usfm": "ACT 7:38"
-        },
-        {
-          "start_ref": "44007053",
-          "start_ref_usfm": "ACT 7:53",
-          "end_ref": "44007053",
-          "end_ref_usfm": "ACT 7:53"
-        },
-        {
-          "start_ref": "44010003",
-          "start_ref_usfm": "ACT 10:3",
-          "end_ref": "44010003",
-          "end_ref_usfm": "ACT 10:3"
-        },
-        {
-          "start_ref": "44010007",
-          "start_ref_usfm": "ACT 10:7",
-          "end_ref": "44010007",
-          "end_ref_usfm": "ACT 10:7"
-        },
-        {
-          "start_ref": "44010022",
-          "start_ref_usfm": "ACT 10:22",
-          "end_ref": "44010022",
-          "end_ref_usfm": "ACT 10:22"
-        },
-        {
-          "start_ref": "44011013",
-          "start_ref_usfm": "ACT 11:13",
-          "end_ref": "44011013",
-          "end_ref_usfm": "ACT 11:13"
-        },
-        {
-          "start_ref": "44012011",
-          "start_ref_usfm": "ACT 12:11",
-          "end_ref": "44012011",
-          "end_ref_usfm": "ACT 12:11"
-        },
-        {
-          "start_ref": "44012023",
-          "start_ref_usfm": "ACT 12:23",
-          "end_ref": "44012023",
-          "end_ref_usfm": "ACT 12:23"
-        },
-        {
-          "start_ref": "46011010",
-          "start_ref_usfm": "1CO 11:10",
-          "end_ref": "46011010",
-          "end_ref_usfm": "1CO 11:10"
-        },
-        {
-          "start_ref": "48001008",
-          "start_ref_usfm": "GAL 1:8",
-          "end_ref": "48001008",
-          "end_ref_usfm": "GAL 1:8"
-        },
-        {
-          "start_ref": "48003019",
-          "start_ref_usfm": "GAL 3:19",
-          "end_ref": "48003019",
-          "end_ref_usfm": "GAL 3:19"
-        },
-        {
-          "start_ref": "51002018",
-          "start_ref_usfm": "COL 2:18",
-          "end_ref": "51002018",
-          "end_ref_usfm": "COL 2:18"
-        },
-        {
-          "start_ref": "52004016",
-          "start_ref_usfm": "1TH 4:16",
-          "end_ref": "52004016",
-          "end_ref_usfm": "1TH 4:16"
-        },
-        {
-          "start_ref": "53001007",
-          "start_ref_usfm": "2TH 1:7",
-          "end_ref": "53001007",
-          "end_ref_usfm": "2TH 1:7"
-        },
-        {
-          "start_ref": "54003016",
-          "start_ref_usfm": "1TI 3:16",
-          "end_ref": "54003016",
-          "end_ref_usfm": "1TI 3:16"
-        },
-        {
-          "start_ref": "54005021",
-          "start_ref_usfm": "1TI 5:21",
-          "end_ref": "54005021",
-          "end_ref_usfm": "1TI 5:21"
-        },
-        {
-          "start_ref": "58001014",
-          "start_ref_usfm": "HEB 1:14",
-          "end_ref": "58001014",
-          "end_ref_usfm": "HEB 1:14"
-        },
-        {
-          "start_ref": "58012022",
-          "start_ref_usfm": "HEB 12:22",
-          "end_ref": "58012022",
-          "end_ref_usfm": "HEB 12:22"
-        },
-        {
-          "start_ref": "58013002",
-          "start_ref_usfm": "HEB 13:2",
-          "end_ref": "58013002",
-          "end_ref_usfm": "HEB 13:2"
-        },
-        {
-          "start_ref": "61002004",
-          "start_ref_usfm": "2PE 2:4",
-          "end_ref": "61002004",
-          "end_ref_usfm": "2PE 2:4"
-        },
-        {
-          "start_ref": "61002011",
-          "start_ref_usfm": "2PE 2:11",
-          "end_ref": "61002011",
-          "end_ref_usfm": "2PE 2:11"
-        },
-        {
-          "start_ref": "65001006",
-          "start_ref_usfm": "JUD 1:6",
-          "end_ref": "65001006",
-          "end_ref_usfm": "JUD 1:6"
-        },
-        {
-          "start_ref": "65001009",
-          "start_ref_usfm": "JUD 1:9",
-          "end_ref": "65001009",
-          "end_ref_usfm": "JUD 1:9"
-        },
-        {
-          "start_ref": "66005002",
-          "start_ref_usfm": "REV 5:2",
-          "end_ref": "66005002",
-          "end_ref_usfm": "REV 5:2"
-        },
-        {
-          "start_ref": "66009015",
-          "start_ref_usfm": "REV 9:15",
-          "end_ref": "66009015",
-          "end_ref_usfm": "REV 9:15"
-        },
-        {
-          "start_ref": "66019010",
-          "start_ref_usfm": "REV 19:10",
-          "end_ref": "66019010",
-          "end_ref_usfm": "REV 19:10"
-        },
-        {
-          "start_ref": "66019017",
-          "start_ref_usfm": "REV 19:17",
-          "end_ref": "66019017",
-          "end_ref_usfm": "REV 19:17"
-        },
-        {
-          "start_ref": "66020001",
-          "start_ref_usfm": "REV 20:1",
-          "end_ref": "66020001",
-          "end_ref_usfm": "REV 20:1"
-        },
-        {
-          "start_ref": "42001026",
-          "start_ref_usfm": "LUK 1:26",
-          "end_ref": "42001038",
-          "end_ref_usfm": "LUK 1:38"
-        },
-        {
-          "start_ref": "42001001",
-          "start_ref_usfm": "LUK 1:1",
-          "end_ref": "42002052",
-          "end_ref_usfm": "LUK 2:52"
-        },
-        {
-          "start_ref": "42002008",
-          "start_ref_usfm": "LUK 2:8",
-          "end_ref": "42002015",
-          "end_ref_usfm": "LUK 2:15"
-        },
-        {
-          "start_ref": "66022008",
-          "start_ref_usfm": "REV 22:8",
-          "end_ref": "66022009",
-          "end_ref_usfm": "REV 22:9"
-        },
-        {
-          "start_ref": "27012001",
-          "start_ref_usfm": "DAN 12:1",
-          "end_ref": "27012002",
-          "end_ref_usfm": "DAN 12:2"
-        },
-        {
-          "start_ref": "40013039",
-          "start_ref_usfm": "MAT 13:39",
-          "end_ref": "40013042",
-          "end_ref_usfm": "MAT 13:42"
-        },
-        {
-          "start_ref": "40001020",
-          "start_ref_usfm": "MAT 1:20",
-          "end_ref": "40001024",
-          "end_ref_usfm": "MAT 1:24"
-        },
-        {
-          "start_ref": "44005019",
-          "start_ref_usfm": "ACT 5:19",
-          "end_ref": "44005020",
-          "end_ref_usfm": "ACT 5:20"
-        },
-        {
-          "start_ref": "58001005",
-          "start_ref_usfm": "HEB 1:5",
-          "end_ref": "58001014",
-          "end_ref_usfm": "HEB 1:14"
-        },
-        {
-          "start_ref": "40004005",
-          "start_ref_usfm": "MAT 4:5",
-          "end_ref": "40004007",
-          "end_ref_usfm": "MAT 4:7"
-        },
-        {
-          "start_ref": "66005011",
-          "start_ref_usfm": "REV 5:11",
-          "end_ref": "66005012",
-          "end_ref_usfm": "REV 5:12"
-        },
-        {
-          "start_ref": "38001018",
-          "start_ref_usfm": "ZEC 1:18",
-          "end_ref": "38001019",
-          "end_ref_usfm": "ZEC 1:19"
-        },
-        {
-          "start_ref": "41016005",
-          "start_ref_usfm": "MRK 16:5",
-          "end_ref": "41016007",
-          "end_ref_usfm": "MRK 16:7"
-        },
-        {
-          "start_ref": "44027023",
-          "start_ref_usfm": "ACT 27:23",
-          "end_ref": "44027024",
-          "end_ref_usfm": "ACT 27:24"
-        },
-        {
-          "start_ref": "01016007",
-          "start_ref_usfm": "GEN 16:7",
-          "end_ref": "01016012",
-          "end_ref_usfm": "GEN 16:12"
-        },
-        {
-          "start_ref": "04022022",
-          "start_ref_usfm": "NUM 22:22",
-          "end_ref": "04022034",
-          "end_ref_usfm": "NUM 22:34"
-        },
-        {
-          "start_ref": "07013003",
-          "start_ref_usfm": "JDG 13:3",
-          "end_ref": "07013021",
-          "end_ref_usfm": "JDG 13:21"
-        },
-        {
-          "start_ref": "38001004",
-          "start_ref_usfm": "ZEC 1:4",
-          "end_ref": "38001012",
-          "end_ref_usfm": "ZEC 1:12"
-        },
-        {
-          "start_ref": "42001019",
-          "start_ref_usfm": "LUK 1:19",
-          "end_ref": "42001020",
-          "end_ref_usfm": "LUK 1:20"
-        },
-        {
-          "start_ref": "66016001",
-          "start_ref_usfm": "REV 16:1",
-          "end_ref": "66016012",
-          "end_ref_usfm": "REV 16:12"
-        },
-        {
-          "start_ref": "53001007",
-          "start_ref_usfm": "2TH 1:7",
-          "end_ref": "53001008",
-          "end_ref_usfm": "2TH 1:8"
-        },
-        {
-          "start_ref": "40013049",
-          "start_ref_usfm": "MAT 13:49",
-          "end_ref": "40013050",
-          "end_ref_usfm": "MAT 13:50"
-        },
-        {
-          "start_ref": "40028001",
-          "start_ref_usfm": "MAT 28:1",
-          "end_ref": "40028008",
-          "end_ref_usfm": "MAT 28:8"
-        },
-        {
-          "start_ref": "44012006",
-          "start_ref_usfm": "ACT 12:6",
-          "end_ref": "44012011",
-          "end_ref_usfm": "ACT 12:11"
-        },
-        {
-          "start_ref": "27008015",
-          "start_ref_usfm": "DAN 8:15",
-          "end_ref": "27008018",
-          "end_ref_usfm": "DAN 8:18"
-        },
-        {
-          "start_ref": "27009021",
-          "start_ref_usfm": "DAN 9:21",
-          "end_ref": "27009023",
-          "end_ref_usfm": "DAN 9:23"
-        },
-        {
-          "start_ref": "27010004",
-          "start_ref_usfm": "DAN 10:4",
-          "end_ref": "27011001",
-          "end_ref_usfm": "DAN 11:1"
-        },
-        {
-          "start_ref": "38001008",
-          "start_ref_usfm": "ZEC 1:8",
-          "end_ref": "38001013",
-          "end_ref_usfm": "ZEC 1:13"
-        },
-        {
-          "start_ref": "38002003",
-          "start_ref_usfm": "ZEC 2:3",
-          "end_ref": "38002005",
-          "end_ref_usfm": "ZEC 2:5"
-        },
-        {
-          "start_ref": "40028002",
-          "start_ref_usfm": "MAT 28:2",
-          "end_ref": "40028007",
-          "end_ref_usfm": "MAT 28:7"
-        },
-        {
-          "start_ref": "42001011",
-          "start_ref_usfm": "LUK 1:11",
-          "end_ref": "42001022",
-          "end_ref_usfm": "LUK 1:22"
-        },
-        {
-          "start_ref": "43020012",
-          "start_ref_usfm": "JHN 20:12",
-          "end_ref": "43020013",
-          "end_ref_usfm": "JHN 20:13"
-        },
-        {
-          "start_ref": "44007030",
-          "start_ref_usfm": "ACT 7:30",
-          "end_ref": "44007035",
-          "end_ref_usfm": "ACT 7:35"
-        },
-        {
-          "start_ref": "44010003",
-          "start_ref_usfm": "ACT 10:3",
-          "end_ref": "44010008",
-          "end_ref_usfm": "ACT 10:8"
-        },
-        {
-          "start_ref": "66001001",
-          "start_ref_usfm": "REV 1:1",
-          "end_ref": "66001002",
-          "end_ref_usfm": "REV 1:2"
-        },
-        {
-          "start_ref": "66007001",
-          "start_ref_usfm": "REV 7:1",
-          "end_ref": "66007002",
-          "end_ref_usfm": "REV 7:2"
-        },
-        {
-          "start_ref": "66008003",
-          "start_ref_usfm": "REV 8:3",
-          "end_ref": "66008008",
-          "end_ref_usfm": "REV 8:8"
-        },
-        {
-          "start_ref": "66010007",
-          "start_ref_usfm": "REV 10:7",
-          "end_ref": "66010009",
-          "end_ref_usfm": "REV 10:9"
-        },
-        {
-          "start_ref": "66014006",
-          "start_ref_usfm": "REV 14:6",
-          "end_ref": "66014010",
-          "end_ref_usfm": "REV 14:10"
-        },
-        {
-          "start_ref": "66022006",
-          "start_ref_usfm": "REV 22:6",
-          "end_ref": "66022009",
-          "end_ref_usfm": "REV 22:9"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "group:Angels",
-          "type": "group",
-          "preferred_label": "Angels",
-          "confidence": 0.5618,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "708460",
-    "reference_id": 203373,
-    "version": "1.0.2",
-    "title": "Apostasie",
-    "media_type": "Text",
-    "index_reference": "apostasie",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Malheureusement, l&apos;opposition à Dieu ne se limite pas aux personnes qui sont en dehors de la communauté de la foi. La Bible évoque de nombreuses personnes qui semblaient connaître Dieu mais se sont détournées de lui (voir <a href=\"https://ref.ly/Num16:1-Num16:50\">Nb 16</a> ; <a href=\"https://ref.ly/Deut13:1-Deut13:18\">Dt 13</a> ; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2R 17.5–23</a> ; <a href=\"https://ref.ly/Ezek8:1-Ezek8:18\">Ez 8</a>). Dieu inflige des conséquences justes à ceux qui se détournent de lui (<a href=\"https://ref.ly/Job11:20\">Jb 11.20</a> ; <a href=\"https://ref.ly/Prov1:24-Prov1:31\">Pr 1.24–31</a> ; <a href=\"https://ref.ly/Jer11:11\">Jr 11.11</a>). Jésus a parlé de personnes qui ne lui obéissent pas ou qui chutent et de leur jugement à venir (<a href=\"https://ref.ly/Matt7:21-Matt7:27\">Mt 7.21–27</a> ; <a href=\"https://ref.ly/Matt16:27\">16.27</a> ;<a href=\"https://ref.ly/Matt16:27\"> </a><a href=\"https://ref.ly/Matt24:10-Matt24:13\">24.10–13</a> ; <a href=\"https://ref.ly/Matt25:41-Matt25:46\">25.41–46</a>). Les auteurs du reste du Nouveau Testament mentionnent aussi de telles personnes (<a href=\"https://ref.ly/Gal1:6-Gal1:9\">Ga 1.6–9</a> ; <a href=\"https://ref.ly/2Tim3:1-2Tim3:9\">2Tm 3.1–9</a> ; <a href=\"https://ref.ly/2Pet2:1-2Pet2:22\">2P 2.1–22</a> ; <a href=\"https://ref.ly/1John2:18-1John2:19\">1Jn 2.18–19</a>).</p><p>La Bible enseigne clairement que de désobéir à Dieu entraîne de graves conséquences (p. ex. <a href=\"https://ref.ly/Gen9:5-Gen9:6\">Gn 9.5–6</a> ; <a href=\"https://ref.ly/Num35:16-Num35:21\">Nb 35.16–21</a> ; <a href=\"https://ref.ly/Lev20:10\">Lv 20.10</a> ; <a href=\"https://ref.ly/Zech5:4\">Za 5.4</a>). Dieu finira par séparer ceux qui s&apos;opposent à sa volonté et à son règne de sa présence (<a href=\"https://ref.ly/Isa66:14-Isa66:24\">Es 66.14–24</a>). Dans le Nouveau Testament, plusieurs passages dans Hébreux avertissent ceux qui ne prennent pas la parole de Dieu au sérieux. Ils s&apos;exposent à son jugement (<a href=\"https://ref.ly/Heb2:1-Heb2:4\">Hé 2.1–4</a> ; <a href=\"https://ref.ly/Heb4:12-Heb4:13\">4.12–13</a> ; <a href=\"https://ref.ly/Heb6:4-Heb6:8\">6.4–8</a> ; <a href=\"https://ref.ly/Heb10:26-Heb10:31\">10.26–31</a> ; <a href=\"https://ref.ly/Heb12:25-Heb12:29\">12.25–29</a>).</p><p>Les avertissements concernant l&apos;apostasie et le jugement dans l&apos;épître aux Hébreux ont été interprétés de différentes manières :</p><ol><li><p>Certains disent que les avertissements ont pour but de réveiller les auditeurs de leur paresse spirituelle. Selon ce point de vue, ils ne signifient pas réellement que des chrétiens pourraient finir par subir le jugement éternel.</p></li><li><p>D&apos;autres pensent que l&apos;auteur adresse ces avertissements à des Juifs qui ne s&apos;étaient pas encore convertis au christianisme. Ils étaient sous le jugement de Dieu parce qu&apos;ils ne faisaient pas encore partie de la nouvelle alliance en Jésus-Christ.</p></li><li><p>Un troisième point de vue est que les « apostats » sont des chrétiens. En raison de leur infidélité à Dieu, ils seront sévèrement jugés, mais ils seront quand même sauvés du jugement éternel.</p></li><li><p>Un quatrième point de vue propose que les apostats étaient autrefois des membres à part entière de la communauté chrétienne. Ils avaient pleinement fait l&apos;expérience de la foi, mais ensuite, ils se sont détournés de Jésus et de l&apos;Église.</p></li><li><p>Une cinquième opinion est que les apostats n&apos;ont jamais été de véritables croyants. Ils se sont intéressés à la foi ou pour des raisons différentes ont fait semblant de s&apos;être convertis, mais n&apos;ont jamais vraiment connu Jésus.</p></li></ol><p>Les avertissements contre l&apos;apostasie doivent être pris au sérieux. C&apos;est par sa grâce que Dieu avertit, afin que chacun soit conscient des périls de la désobéissance et ne néglige pas la foi. Ces avertissements s&apos;adressent aux rebelles, qui peuvent comprendre qu&apos;ils doivent se repentir de leurs péchés et de leur manque de foi.  Comprendre que l&apos;éloignement de la foi en Christ a des conséquences graves doit renforcer notre engagement à le suivre fidèlement.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Num16:1-Num16:50\">Nombres 16.1–50</a> ; <a href=\"https://ref.ly/Deut13:1-Deut13:18\">Deutéronome 13.1–18</a> ; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2&nbsp;Rois 17.5–23</a> ; <a href=\"https://ref.ly/Ezek8:1-Ezek8:18\">Ézéchiel 8.1–18</a> ; <a href=\"https://ref.ly/Matt24:10-Matt24:13\">Matthieu 24.10–13</a> ; <a href=\"https://ref.ly/Gal1:6-Gal1:9\">Galates 1.6–9</a> ; <a href=\"https://ref.ly/2Tim3:1-2Tim3:9\">2 Timothée 3.1–9</a> ; <a href=\"https://ref.ly/Heb2:1-Heb2:4\">Hébreux 2.1–4</a> ; <a href=\"https://ref.ly/Heb6:4-Heb6:8\">6.4–8</a> ; <a href=\"https://ref.ly/Heb10:26-Heb10:31\">10.26–31</a> ; <a href=\"https://ref.ly/2Pet2:1-2Pet2:22\">2 Pierre 2.1–22</a> ; <a href=\"https://ref.ly/1John2:18-1John2:19\">1 Jean 2.18–19</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "03020010",
-          "start_ref_usfm": "LEV 20:10",
-          "end_ref": "03020010",
-          "end_ref_usfm": "LEV 20:10"
-        },
-        {
-          "start_ref": "18011020",
-          "start_ref_usfm": "JOB 11:20",
-          "end_ref": "18011020",
-          "end_ref_usfm": "JOB 11:20"
-        },
-        {
-          "start_ref": "24011011",
-          "start_ref_usfm": "JER 11:11",
-          "end_ref": "24011011",
-          "end_ref_usfm": "JER 11:11"
-        },
-        {
-          "start_ref": "38005004",
-          "start_ref_usfm": "ZEC 5:4",
-          "end_ref": "38005004",
-          "end_ref_usfm": "ZEC 5:4"
-        },
-        {
-          "start_ref": "40016027",
-          "start_ref_usfm": "MAT 16:27",
-          "end_ref": "40016027",
-          "end_ref_usfm": "MAT 16:27"
-        },
-        {
-          "start_ref": "40023013",
-          "start_ref_usfm": "MAT 23:13",
-          "end_ref": "40023013",
-          "end_ref_usfm": "MAT 23:13"
-        },
-        {
-          "start_ref": "04016001",
-          "start_ref_usfm": "NUM 16:1",
-          "end_ref": "04016050",
-          "end_ref_usfm": "NUM 16:50"
-        },
-        {
-          "start_ref": "05013001",
-          "start_ref_usfm": "DEU 13:1",
-          "end_ref": "05013018",
-          "end_ref_usfm": "DEU 13:18"
-        },
-        {
-          "start_ref": "48001006",
-          "start_ref_usfm": "GAL 1:6",
-          "end_ref": "48001009",
-          "end_ref_usfm": "GAL 1:9"
-        },
-        {
-          "start_ref": "58010026",
-          "start_ref_usfm": "HEB 10:26",
-          "end_ref": "58010031",
-          "end_ref_usfm": "HEB 10:31"
-        },
-        {
-          "start_ref": "58002001",
-          "start_ref_usfm": "HEB 2:1",
-          "end_ref": "58002004",
-          "end_ref_usfm": "HEB 2:4"
-        },
-        {
-          "start_ref": "58006004",
-          "start_ref_usfm": "HEB 6:4",
-          "end_ref": "58006008",
-          "end_ref_usfm": "HEB 6:8"
-        },
-        {
-          "start_ref": "61002001",
-          "start_ref_usfm": "2PE 2:1",
-          "end_ref": "61002022",
-          "end_ref_usfm": "2PE 2:22"
-        },
-        {
-          "start_ref": "04035016",
-          "start_ref_usfm": "NUM 35:16",
-          "end_ref": "04035021",
-          "end_ref_usfm": "NUM 35:21"
-        },
-        {
-          "start_ref": "01009005",
-          "start_ref_usfm": "GEN 9:5",
-          "end_ref": "01009006",
-          "end_ref_usfm": "GEN 9:6"
-        },
-        {
-          "start_ref": "40025041",
-          "start_ref_usfm": "MAT 25:41",
-          "end_ref": "40025046",
-          "end_ref_usfm": "MAT 25:46"
-        },
-        {
-          "start_ref": "55003001",
-          "start_ref_usfm": "2TI 3:1",
-          "end_ref": "55003009",
-          "end_ref_usfm": "2TI 3:9"
-        },
-        {
-          "start_ref": "26008001",
-          "start_ref_usfm": "EZK 8:1",
-          "end_ref": "26008018",
-          "end_ref_usfm": "EZK 8:18"
-        },
-        {
-          "start_ref": "58012025",
-          "start_ref_usfm": "HEB 12:25",
-          "end_ref": "58012029",
-          "end_ref_usfm": "HEB 12:29"
-        },
-        {
-          "start_ref": "58004012",
-          "start_ref_usfm": "HEB 4:12",
-          "end_ref": "58004013",
-          "end_ref_usfm": "HEB 4:13"
-        },
-        {
-          "start_ref": "12017005",
-          "start_ref_usfm": "2KI 17:5",
-          "end_ref": "12017023",
-          "end_ref_usfm": "2KI 17:23"
-        },
-        {
-          "start_ref": "20001024",
-          "start_ref_usfm": "PRO 1:24",
-          "end_ref": "20001031",
-          "end_ref_usfm": "PRO 1:31"
-        },
-        {
-          "start_ref": "40024010",
-          "start_ref_usfm": "MAT 24:10",
-          "end_ref": "40024013",
-          "end_ref_usfm": "MAT 24:13"
-        },
-        {
-          "start_ref": "62002018",
-          "start_ref_usfm": "1JN 2:18",
-          "end_ref": "62002019",
-          "end_ref_usfm": "1JN 2:19"
-        },
-        {
-          "start_ref": "23066014",
-          "start_ref_usfm": "ISA 66:14",
-          "end_ref": "23066024",
-          "end_ref_usfm": "ISA 66:24"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "708427",
-    "reference_id": 203182,
-    "version": "1.0.2",
-    "title": "Apostasie et restauration",
-    "media_type": "Text",
-    "index_reference": "apostasie et restauration",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Quand le royaume d&apos;Israël s&apos;est divisé en deux royaumes, le nouveau royaume du Nord s&apos;est détourné de Dieu. En effet, le roi Jéroboam avait entraîné son peuple à se détourner de l&apos;Éternel pour adorer des idoles. Juda, le royaume du Sud, était l&apos;endroit où on adorait toujours l&apos;Éternel et où se trouvait le temple de Dieu et ses sacrificateurs. À cette époque, ceux qui avaient à cœur de chercher l&apos;Éternel sont partis du royaume du Nord pour aller vivre en Juda (<a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2Ch 11.13–17</a>). </p><p>Cependant, pendant une grande partie de son histoire, le royaume du Sud (Juda) s&apos;est aussi détourné de Dieu. Plusieurs des rois de Juda sont décrits comme ayant imité<span> les rois d’Israël. Achaz, par exemple, a fait fabriquer des </span>idoles en fonte (<a href=\"https://ref.ly/2Chr28:2\">28.2</a>). Il a sacrifié aux idoles de Damas (<a href=\"https://ref.ly/2Chr28:23\">2Ch 28.23</a>). Pendant son règne, le Temple a été négligé et ses portes fermées (<a href=\"https://ref.ly/2Chr28:24\">28.24</a> ; <a href=\"https://ref.ly/2Chr29:7\">29.7</a>, <a href=\"https://ref.ly/2Chr29:19\">19</a>). Achaz a établi des hauts lieux pour que le peuple puisse adorer les idoles dans tout son territoire (<a href=\"https://ref.ly/2Chr28:24-2Chr28:25\">28.24–25</a>). Même ceux qui étaient du royaume du Nord ont parfois écouté Dieu plus que lui (voir <a href=\"https://ref.ly/2Chr28:9-2Chr28:15\">28.9–15</a>).</p><p>Les deux livres des Chroniques ont été écrits alors que le royaume de Juda avait été puni par Dieu. Jérusalem et le Temple avaient été détruits et le peuple avait été envoyé en exil. L&apos;auteur de ces deux livres les a écrits pour montrer aux membres du peuple de Dieu que tout espoir n&apos;était pas perdu même s&apos;ils s&apos;étaient détournés de Dieu. Ces livres montrent que Dieu pardonne à ceux qui sont prêts à se repentir. Quand ceux qui ont abandonné Dieu reviennent à lui de tous leurs cœurs, ils peuvent être réconciliés avec Dieu et restaurés.</p><p>Le royaume de Juda s&apos;est à nouveau tourné vers Dieu pendant le règne d&apos;Ézéchias. Ces récits offrent un modèle d&apos;unité et de restauration après la repentance. Dès la première année de son règne, il a commencé à restaurer le Temple (<a href=\"https://ref.ly/2Chr29:3\">29.3</a>). Lorsque le roi Ézéchias a observé la Pâque avec son peuple, il a même invité les habitants du royaume du Nord à se joindre à eux. Il a ainsi rendu possible que les habitants des deux royaumes adorent l&apos;Éternel ensemble à nouveau (<a href=\"https://ref.ly/2Chr30:18-2Chr30:20\">30.18–20</a>). Dieu a fait prospérer Juda pendant le règne d&apos;Ézéchias. Sa prospérité et sa gloire rappelait la gloire de l&apos;époque du règne de Salomon quand Israël était encore une nation unie (<a href=\"https://ref.ly/2Chr30:26\">30.26</a> ; voir aussi <a href=\"https://ref.ly/2Chr7:8-2Chr7:10\">7.8–10</a>).</p><p>Quand Dieu a envoyé les Israélites des deux royaumes en exil, le peuple de l&apos;alliance n&apos;a pas été détruit complètement ou définitivement. La guérison spirituelle était toujours possible si le peuple choisissait de chercher le Seigneur. De nombreux prophètes de l&apos;Ancien Testament, qui ont averti les deux royaumes que Dieu allait les juger, les ont également appelés à la repentance et ont parlé de leur restauration future.</p><p>L&apos;espoir d&apos;un retour de ceux qui se sont détournés de Dieu s&apos;applique aussi à l&apos;Église. Dans les lettres aux Églises dans Apocalypse, Jésus dit aux Églises qui sont menacées par la persécution et par la corruption de revenir à lui et lui rester fidèles. Il les avertit, mais donne l&apos;occasion de se repentir, encourage les fidèles et fait des promesses à ceux qui entendent ce que dit l&apos;Esprit (<a href=\"https://ref.ly/Rev2:1-Rev3:22\">Ap 2–3</a>). Le royaume de Dieu triomphera et « <span>les portes du séjour des morts ne prévaudront point » contre son Église </span>(<a href=\"https://ref.ly/Matt16:18\">Mt 16.18</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">1&nbsp;Rois 21.1–29</a> ; <a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2 Chroniques 11.13–17</a> ; <a href=\"https://ref.ly/2Chr28:1-2Chr31:21\">28.1–31.21</a> ; <a href=\"https://ref.ly/2Chr33:1-2Chr33:20\">33.1–20</a> ; <a href=\"https://ref.ly/Jer18:7-Jer18:17\">Jérémie 18.7–17</a> ; <a href=\"https://ref.ly/Ezek16:1-Ezek16:63\">Ézéchiel 16.1–63</a> ; <a href=\"https://ref.ly/Ezek33:10-Ezek33:16\">33.10–16</a> ; <a href=\"https://ref.ly/Joel2:12-Joel2:32\">Jl 2.12–32</a> ; <a href=\"https://ref.ly/Luke19:2-Luke19:10\">Luc 19.2–10</a> ; <a href=\"https://ref.ly/1Cor6:9-1Cor6:11\">1 Corinthiens 6.9–11</a> ; <a href=\"https://ref.ly/1Tim1:15-1Tim1:17\">1 Timothée 1.15–17</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "14028002",
-          "start_ref_usfm": "2CH 28:2",
-          "end_ref": "14028002",
-          "end_ref_usfm": "2CH 28:2"
-        },
-        {
-          "start_ref": "14028023",
-          "start_ref_usfm": "2CH 28:23",
-          "end_ref": "14028023",
-          "end_ref_usfm": "2CH 28:23"
-        },
-        {
-          "start_ref": "14028024",
-          "start_ref_usfm": "2CH 28:24",
-          "end_ref": "14028024",
-          "end_ref_usfm": "2CH 28:24"
-        },
-        {
-          "start_ref": "14029003",
-          "start_ref_usfm": "2CH 29:3",
-          "end_ref": "14029003",
-          "end_ref_usfm": "2CH 29:3"
-        },
-        {
-          "start_ref": "14029007",
-          "start_ref_usfm": "2CH 29:7",
-          "end_ref": "14029007",
-          "end_ref_usfm": "2CH 29:7"
-        },
-        {
-          "start_ref": "14029019",
-          "start_ref_usfm": "2CH 29:19",
-          "end_ref": "14029019",
-          "end_ref_usfm": "2CH 29:19"
-        },
-        {
-          "start_ref": "14030026",
-          "start_ref_usfm": "2CH 30:26",
-          "end_ref": "14030026",
-          "end_ref_usfm": "2CH 30:26"
-        },
-        {
-          "start_ref": "40016018",
-          "start_ref_usfm": "MAT 16:18",
-          "end_ref": "40016018",
-          "end_ref_usfm": "MAT 16:18"
-        },
-        {
-          "start_ref": "26016001",
-          "start_ref_usfm": "EZK 16:1",
-          "end_ref": "26016063",
-          "end_ref_usfm": "EZK 16:63"
-        },
-        {
-          "start_ref": "11021001",
-          "start_ref_usfm": "1KI 21:1",
-          "end_ref": "11021029",
-          "end_ref_usfm": "1KI 21:29"
-        },
-        {
-          "start_ref": "46006009",
-          "start_ref_usfm": "1CO 6:9",
-          "end_ref": "46006011",
-          "end_ref_usfm": "1CO 6:11"
-        },
-        {
-          "start_ref": "29002012",
-          "start_ref_usfm": "JOL 2:12",
-          "end_ref": "29002032",
-          "end_ref_usfm": "JOL 2:32"
-        },
-        {
-          "start_ref": "14033001",
-          "start_ref_usfm": "2CH 33:1",
-          "end_ref": "14033020",
-          "end_ref_usfm": "2CH 33:20"
-        },
-        {
-          "start_ref": "14028008",
-          "start_ref_usfm": "2CH 28:8",
-          "end_ref": "14028015",
-          "end_ref_usfm": "2CH 28:15"
-        },
-        {
-          "start_ref": "66002001",
-          "start_ref_usfm": "REV 2:1",
-          "end_ref": "66003022",
-          "end_ref_usfm": "REV 3:22"
-        },
-        {
-          "start_ref": "42019002",
-          "start_ref_usfm": "LUK 19:2",
-          "end_ref": "42019010",
-          "end_ref_usfm": "LUK 19:10"
-        },
-        {
-          "start_ref": "14011013",
-          "start_ref_usfm": "2CH 11:13",
-          "end_ref": "14011017",
-          "end_ref_usfm": "2CH 11:17"
-        },
-        {
-          "start_ref": "14028024",
-          "start_ref_usfm": "2CH 28:24",
-          "end_ref": "14028025",
-          "end_ref_usfm": "2CH 28:25"
-        },
-        {
-          "start_ref": "14007008",
-          "start_ref_usfm": "2CH 7:8",
-          "end_ref": "14007010",
-          "end_ref_usfm": "2CH 7:10"
-        },
-        {
-          "start_ref": "54001015",
-          "start_ref_usfm": "1TI 1:15",
-          "end_ref": "54001017",
-          "end_ref_usfm": "1TI 1:17"
-        },
-        {
-          "start_ref": "14028009",
-          "start_ref_usfm": "2CH 28:9",
-          "end_ref": "14028015",
-          "end_ref_usfm": "2CH 28:15"
-        },
-        {
-          "start_ref": "14030018",
-          "start_ref_usfm": "2CH 30:18",
-          "end_ref": "14030020",
-          "end_ref_usfm": "2CH 30:20"
-        },
-        {
-          "start_ref": "14028001",
-          "start_ref_usfm": "2CH 28:1",
-          "end_ref": "14031021",
-          "end_ref_usfm": "2CH 31:21"
-        },
-        {
-          "start_ref": "24018007",
-          "start_ref_usfm": "JER 18:7",
-          "end_ref": "24018017",
-          "end_ref_usfm": "JER 18:17"
-        },
-        {
-          "start_ref": "26033010",
-          "start_ref_usfm": "EZK 33:10",
-          "end_ref": "26033016",
-          "end_ref_usfm": "EZK 33:16"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "708455",
-    "reference_id": 203343,
-    "version": "1.0.2",
-    "title": "Appartenir à Christ",
-    "media_type": "Text",
-    "index_reference": "appartenir à christ",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Pour beaucoup de gens aujourd&apos;hui, le Nouveau Testament semble présenter une vision extrême de la vie chrétienne. Dieu appelle les chrétiens à renoncer à leurs droits, à endurer la souffrance et même à faire face à la mort pour Jésus (<a href=\"https://ref.ly/Mark8:34-Mark8:36\">Mc 8.34–36</a>). Ils doivent se détourner des choses du mondes que tout le reste du monde poursuit (<a href=\"https://ref.ly/1John2:15-1John2:17\">1Jn 2.15–17</a>). Ils doivent même « haïr » leur vie dans ce monde (<a href=\"https://ref.ly/John12:24-John12:25\">Jn 12.24–25</a>). Paul conseille même aux chrétiens qui le peuvent de renoncer aux désirs habituels de mariage et de famille et de rester célibataires pour Jésus (<a href=\"https://ref.ly/1Cor7:7\">1Co 7.7</a>).</p><p>Quelle est la raison de cette vision extrême de la vie ? Paul explique que c&apos;est parce que les croyants appartiennent totalement à Jésus, que ce soient leurs corps ou leurs âmes. Quand Jésus est mort, il les a rachetés pour lui-même (<a href=\"https://ref.ly/1Cor6:20\">1Co 6.20</a>). Ils ne doivent plus vivre uniquement pour eux-mêmes et leurs propres désirs (<a href=\"https://ref.ly/2Cor5:14-2Cor5:15\">2Co 5.14–15</a>). Ayant renoncé à leurs intérêts personnels, ils doivent vivre pleinement pour leur Seigneur selon son appel (<a href=\"https://ref.ly/Rom14:7-Rom14:9\">Rm 14.7–9</a>).</p><p>Pour les vrais chrétiens, obéir à Jésus n&apos;est pas un lourd fardeau. C&apos;est une manière de montrer leur amour et leur loyauté à celui qui est mort pour eux. Pour le peuple de Jésus, la vie est pleine d&apos;occasions joyeuses de remercier Dieu pour la grâce qu&apos;il nous a manifestée à travers Jésus-Christ. Ils sont heureux de consacrer leur vie à servir celui qui a tout sacrifié pour eux (voir <a href=\"https://ref.ly/1John3:16\">1Jn 3.16</a>). Quand les chrétiens renoncent à leurs propres désirs, la vie de Jésus est manifestée en eux et à travers eux (<a href=\"https://ref.ly/Gal2:19-Gal2:20\">Ga 2.19–20</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Deut9:26\">Deutéronome 9.26</a>, <a href=\"https://ref.ly/Deut9:29\">29&nbsp;</a>; <a href=\"https://ref.ly/Deut32:9\">32.9&nbsp;</a>; <a href=\"https://ref.ly/1Kgs8:53\">1&nbsp;Rois 8.53&nbsp;</a>; <a href=\"https://ref.ly/Ps2:8\">Psaumes 2.8&nbsp;</a>; <a href=\"https://ref.ly/Ps28:9\">28.9&nbsp;</a>; <a href=\"https://ref.ly/Ezek18:4\">Ézéchiel 18.4&nbsp;</a>; <a href=\"https://ref.ly/Mark8:34-Mark8:36\">Marc 8.34–36&nbsp;</a>; <a href=\"https://ref.ly/Mark12:30\">12.30&nbsp;</a>; <a href=\"https://ref.ly/Rom14:7-Rom14:9\">Romains 14.7–9&nbsp;</a>; <a href=\"https://ref.ly/1Cor6:19-1Cor6:20\">1 Corinthiens 6.19–20&nbsp;</a>; <a href=\"https://ref.ly/1Cor7:20-1Cor7:24\">7.20–24&nbsp;</a>; <a href=\"https://ref.ly/1Cor7:32-1Cor7:35\">7.32–35&nbsp;</a>; <a href=\"https://ref.ly/2Cor5:14-2Cor5:15\">2 Corinthiens 5.14–15&nbsp;</a>; <a href=\"https://ref.ly/Gal2:19-Gal2:20\">Galates 2.19–20&nbsp;</a>; <a href=\"https://ref.ly/1Pet2:9-1Pet2:10\">1 Pierre 2.9–10</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "05009026",
-          "start_ref_usfm": "DEU 9:26",
-          "end_ref": "05009026",
-          "end_ref_usfm": "DEU 9:26"
-        },
-        {
-          "start_ref": "05009029",
-          "start_ref_usfm": "DEU 9:29",
-          "end_ref": "05009029",
-          "end_ref_usfm": "DEU 9:29"
-        },
-        {
-          "start_ref": "05032009",
-          "start_ref_usfm": "DEU 32:9",
-          "end_ref": "05032009",
-          "end_ref_usfm": "DEU 32:9"
-        },
-        {
-          "start_ref": "11008053",
-          "start_ref_usfm": "1KI 8:53",
-          "end_ref": "11008053",
-          "end_ref_usfm": "1KI 8:53"
-        },
-        {
-          "start_ref": "19002008",
-          "start_ref_usfm": "PSA 2:8",
-          "end_ref": "19002008",
-          "end_ref_usfm": "PSA 2:8"
-        },
-        {
-          "start_ref": "19028009",
-          "start_ref_usfm": "PSA 28:9",
-          "end_ref": "19028009",
-          "end_ref_usfm": "PSA 28:9"
-        },
-        {
-          "start_ref": "26018004",
-          "start_ref_usfm": "EZK 18:4",
-          "end_ref": "26018004",
-          "end_ref_usfm": "EZK 18:4"
-        },
-        {
-          "start_ref": "41012030",
-          "start_ref_usfm": "MRK 12:30",
-          "end_ref": "41012030",
-          "end_ref_usfm": "MRK 12:30"
-        },
-        {
-          "start_ref": "46006020",
-          "start_ref_usfm": "1CO 6:20",
-          "end_ref": "46006020",
-          "end_ref_usfm": "1CO 6:20"
-        },
-        {
-          "start_ref": "46007007",
-          "start_ref_usfm": "1CO 7:7",
-          "end_ref": "46007007",
-          "end_ref_usfm": "1CO 7:7"
-        },
-        {
-          "start_ref": "62003016",
-          "start_ref_usfm": "1JN 3:16",
-          "end_ref": "62003016",
-          "end_ref_usfm": "1JN 3:16"
-        },
-        {
-          "start_ref": "60002009",
-          "start_ref_usfm": "1PE 2:9",
-          "end_ref": "60002010",
-          "end_ref_usfm": "1PE 2:10"
-        },
-        {
-          "start_ref": "46007032",
-          "start_ref_usfm": "1CO 7:32",
-          "end_ref": "46007035",
-          "end_ref_usfm": "1CO 7:35"
-        },
-        {
-          "start_ref": "47005014",
-          "start_ref_usfm": "2CO 5:14",
-          "end_ref": "47005015",
-          "end_ref_usfm": "2CO 5:15"
-        },
-        {
-          "start_ref": "62002015",
-          "start_ref_usfm": "1JN 2:15",
-          "end_ref": "62002017",
-          "end_ref_usfm": "1JN 2:17"
-        },
-        {
-          "start_ref": "46006019",
-          "start_ref_usfm": "1CO 6:19",
-          "end_ref": "46006020",
-          "end_ref_usfm": "1CO 6:20"
-        },
-        {
-          "start_ref": "41008034",
-          "start_ref_usfm": "MRK 8:34",
-          "end_ref": "41008036",
-          "end_ref_usfm": "MRK 8:36"
-        },
-        {
-          "start_ref": "43012024",
-          "start_ref_usfm": "JHN 12:24",
-          "end_ref": "43012025",
-          "end_ref_usfm": "JHN 12:25"
-        },
-        {
-          "start_ref": "45014007",
-          "start_ref_usfm": "ROM 14:7",
-          "end_ref": "45014009",
-          "end_ref_usfm": "ROM 14:9"
-        },
-        {
-          "start_ref": "48002019",
-          "start_ref_usfm": "GAL 2:19",
-          "end_ref": "48002020",
-          "end_ref_usfm": "GAL 2:20"
-        },
-        {
-          "start_ref": "46007020",
-          "start_ref_usfm": "1CO 7:20",
-          "end_ref": "46007024",
-          "end_ref_usfm": "1CO 7:24"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Jesus.2",
-          "type": "person",
-          "preferred_label": "Jésus",
-          "confidence": 0.5237,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "708424",
-    "reference_id": 203156,
-    "version": "1.0.2",
-    "title": "Appeler les morts",
-    "media_type": "Text",
-    "index_reference": "appeler les morts",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>L&apos;AT interdit des pratiques de sorcellerie ou magie telles que le spiritisme, la divination et la nécromancie. La nécromancie consiste à contacter les esprits des morts, généralement pour chercher des conseils sur l&apos;avenir (voir <a href=\"https://ref.ly/Deut18:9-Deut18:12\">Dt 18.9–12</a>). Pratiquer la nécromancie ou consulter un nécromancien étaient des crimes punis de mort (<a href=\"https://ref.ly/Lev20:6\">Lv 20.6</a>, <a href=\"https://ref.ly/Lev20:27\">27</a> ; voir aussi <a href=\"https://ref.ly/1Sam28:9\">1S 28.9</a>). Le peuple de Dieu devait se tourner vers lui et ses serviteurs pour savoir comment vivre et quelles décisions prendre.</p><p>Dieu a enterré Moïse dans une tombe cachée (<a href=\"https://ref.ly/Deut34:6\">Dt 34.6</a>). Il l&apos;a probablement fait pour empêcher les Israélites de transformer la tombe de Moïse en un lieu de culte idolâtre. Dieu ne voulait pas qu&apos;ils présentent des offrandes à l&apos;esprit de Moïse, l&apos;adorent ou essaient de contacter son esprit. Les Israélites auraient pu être tentés de faire ces choses, car ils avaient vu les Égyptiens les pratiquer. Comme Moïse avait eu un rôle si important comme médiateur de l&apos;alliance d&apos;Israël avec Dieu, ils auraient pu vouloir vénérer sa mémoire de manière inappropriée.</p><p>L&apos;AT interdit donc de chercher à contacter les morts pour parler avec eux (voir <a href=\"https://ref.ly/2Sam12:23\">2S 12.23 </a>; <a href=\"https://ref.ly/Job14:10-Job14:12\">Jb 14.10–12 </a>; <a href=\"https://ref.ly/Ps88:10\">Ps 88.11 </a>; <a href=\"https://ref.ly/Ps115:17\">115.17</a>). Il semble que Dieu ait fait une exception lorsqu&apos;il a permis au prophète Samuel de revenir et de parler avec Saül (voir <a href=\"https://ref.ly/1Sam28:12-1Sam28:19\">1S 28.12–19</a>). Cependant, Saül a gravement péché en essayant de contacter Samuel par l&apos;intermédiaire de quelqu&apos;un qui pratiquait cela (un médium). L&apos;auteur des Chroniques mentionne ce péché parmi les péchés qui en ont fait un mauvais roi, qui a perdu son royaume (voir <a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">1Ch 10.13–14</a>). Il n&apos;y a jamais de raison valide de pratiquer la nécromancie (chercher des conseils auprès des morts) alors que nous avons la parole de Dieu et son Esprit pour nous guider (<a href=\"https://ref.ly/2Tim3:15-2Tim3:17\">2Tm 3.15–17 </a>; <a href=\"https://ref.ly/Heb4:12-Heb4:13\">Hé 4.12–13</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Lev19:31\">Lévitique 19.31</a> ; <a href=\"https://ref.ly/Lev20:6-Lev20:8\">20.6–8</a>, <a href=\"https://ref.ly/Lev20:27\">27</a> ; <a href=\"https://ref.ly/Deut18:9-Deut18:12\">Deutéronome 18.9–12</a> ; <a href=\"https://ref.ly/1Sam28:1-1Sam28:25\">1 Samuel 28.1–25</a> ; <a href=\"https://ref.ly/2Kgs21:6\">2 Rois 21.6</a> ; <a href=\"https://ref.ly/2Kgs23:24\">23.24</a> ; <a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">1 Chroniques 10.13–14</a> ; <a href=\"https://ref.ly/Job14:10-Job14:12\">Job 14.10–12</a> ; <a href=\"https://ref.ly/Isa3:1-Isa3:3\">Ésaïe 3.1–3</a> ; <a href=\"https://ref.ly/Isa8:19-Isa8:22\">8.19–22</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "03019031",
-          "start_ref_usfm": "LEV 19:31",
-          "end_ref": "03019031",
-          "end_ref_usfm": "LEV 19:31"
-        },
-        {
-          "start_ref": "03020006",
-          "start_ref_usfm": "LEV 20:6",
-          "end_ref": "03020006",
-          "end_ref_usfm": "LEV 20:6"
-        },
-        {
-          "start_ref": "03020027",
-          "start_ref_usfm": "LEV 20:27",
-          "end_ref": "03020027",
-          "end_ref_usfm": "LEV 20:27"
-        },
-        {
-          "start_ref": "05034006",
-          "start_ref_usfm": "DEU 34:6",
-          "end_ref": "05034006",
-          "end_ref_usfm": "DEU 34:6"
-        },
-        {
-          "start_ref": "09028009",
-          "start_ref_usfm": "1SA 28:9",
-          "end_ref": "09028009",
-          "end_ref_usfm": "1SA 28:9"
-        },
-        {
-          "start_ref": "10012023",
-          "start_ref_usfm": "2SA 12:23",
-          "end_ref": "10012023",
-          "end_ref_usfm": "2SA 12:23"
-        },
-        {
-          "start_ref": "12021006",
-          "start_ref_usfm": "2KI 21:6",
-          "end_ref": "12021006",
-          "end_ref_usfm": "2KI 21:6"
-        },
-        {
-          "start_ref": "12023024",
-          "start_ref_usfm": "2KI 23:24",
-          "end_ref": "12023024",
-          "end_ref_usfm": "2KI 23:24"
-        },
-        {
-          "start_ref": "19088010",
-          "start_ref_usfm": "PSA 88:10",
-          "end_ref": "19088010",
-          "end_ref_usfm": "PSA 88:10"
-        },
-        {
-          "start_ref": "19115017",
-          "start_ref_usfm": "PSA 115:17",
-          "end_ref": "19115017",
-          "end_ref_usfm": "PSA 115:17"
-        },
-        {
-          "start_ref": "13010013",
-          "start_ref_usfm": "1CH 10:13",
-          "end_ref": "13010014",
-          "end_ref_usfm": "1CH 10:14"
-        },
-        {
-          "start_ref": "09028001",
-          "start_ref_usfm": "1SA 28:1",
-          "end_ref": "09028025",
-          "end_ref_usfm": "1SA 28:25"
-        },
-        {
-          "start_ref": "58004012",
-          "start_ref_usfm": "HEB 4:12",
-          "end_ref": "58004013",
-          "end_ref_usfm": "HEB 4:13"
-        },
-        {
-          "start_ref": "23008019",
-          "start_ref_usfm": "ISA 8:19",
-          "end_ref": "23008022",
-          "end_ref_usfm": "ISA 8:22"
-        },
-        {
-          "start_ref": "05018009",
-          "start_ref_usfm": "DEU 18:9",
-          "end_ref": "05018012",
-          "end_ref_usfm": "DEU 18:12"
-        },
-        {
-          "start_ref": "18014010",
-          "start_ref_usfm": "JOB 14:10",
-          "end_ref": "18014012",
-          "end_ref_usfm": "JOB 14:12"
-        },
-        {
-          "start_ref": "09028012",
-          "start_ref_usfm": "1SA 28:12",
-          "end_ref": "09028019",
-          "end_ref_usfm": "1SA 28:19"
-        },
-        {
-          "start_ref": "55003015",
-          "start_ref_usfm": "2TI 3:15",
-          "end_ref": "55003017",
-          "end_ref_usfm": "2TI 3:17"
-        },
-        {
-          "start_ref": "03020006",
-          "start_ref_usfm": "LEV 20:6",
-          "end_ref": "03020008",
-          "end_ref_usfm": "LEV 20:8"
-        },
-        {
-          "start_ref": "23003001",
-          "start_ref_usfm": "ISA 3:1",
-          "end_ref": "23003003",
-          "end_ref_usfm": "ISA 3:3"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "708408",
-    "reference_id": 203104,
-    "version": "1.0.2",
-    "title": "Autels",
-    "media_type": "Text",
-    "index_reference": "autels",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Le premier autel explicitement mentionné dans la Bible est celui que Noé construit (<a href=\"https://ref.ly/Gen8:20-Gen8:21\">Gn 8.20–21</a>). Cependant, Caïn et Abel avaient déjà offert des sacrifices à Dieu bien avant lui (<a href=\"https://ref.ly/Gen4:3-Gen4:5\">Gn 4.3–5</a>). Les patriarches ont aussi construit de nombreux autels (voir <a href=\"https://ref.ly/Gen12:7-Gen12:8\">Gn 12.7–8 </a>; <a href=\"https://ref.ly/Gen13:4\">13.4</a>, <a href=\"https://ref.ly/Gen13:18\">18 </a>; <a href=\"https://ref.ly/Gen22:9\">22.9 </a>; <a href=\"https://ref.ly/Gen26:25\">26.25 </a>; <a href=\"https://ref.ly/Gen33:20\">33.20 </a>; <a href=\"https://ref.ly/Gen35:1\">35.1</a>, <a href=\"https://ref.ly/Gen35:14-Gen35:15\">14–15</a>). Ces autels désignaient parfois des lieux où Dieu s&apos;était révélé. D&apos;autres fois, il étaient construits pour revendiquer la propriété de terres en Terre promise. Ainsi, des autels ont été construits au nord (à Sichem) et au sud (Beer-Schéba).</p><p>Les autels pouvaient être faits avec de la pierre, de la terre, des briques, du métal ou du bois. Le haut de l&apos;autel était une surface plane comme une table, d&apos;où la fumée pouvait aisément s&apos;élever vers le ciel. Les autels pouvaient servir de monuments commémoratifs ou d&apos;endroit où offrir des sacrifices. C&apos;étaient les symboles de culte les plus courants dans l&apos;Ancien Testament et dans le monde antique.</p><p>Habituellement, un autel était sur une plateforme surélevée à laquelle on accédait avec une rampe ou des escaliers. Ceci élevait le lieu des sacrifices vers le ciel. Les quatre cornes aux coins de nombreux autels délimitaient une zone sacrée dans laquelle le monde humain et le monde divin se rencontraient (voir <a href=\"https://ref.ly/Exod27:2\">Ex 27.2</a>). En offrant le sacrifice et en le brûlant, il passait du monde visible au monde invisible.</p><p>Jésus incarne en lui-même les différents rôles symboliques du souverain sacrificateur, de l&apos;agneau sacrificiel et de l&apos;autel (voir <a href=\"https://ref.ly/Heb4:14-Heb4:15\">Hé 4.14–15 </a>; <a href=\"https://ref.ly/Heb7:24\">7.24</a>, <a href=\"https://ref.ly/Heb7:27\">27 </a>; <a href=\"https://ref.ly/Heb9:14\">9.14</a>, <a href=\"https://ref.ly/Heb9:26\">26 </a>; <a href=\"https://ref.ly/Heb10:10\">10.10 </a>; <a href=\"https://ref.ly/Heb13:10\">13.10</a>, <a href=\"https://ref.ly/Heb13:12\">12</a>). Il a prophétisé son propre sacrifice en évoquant le sang des martyrs (voir <a href=\"https://ref.ly/Matt23:35\">Mt 23.35 </a>; <a href=\"https://ref.ly/Luke11:50-Luke11:51\">Lc 11.50–51</a>). Sa crucifixion représente le sacrifice ultime sur « l&apos;autel » de la croix. Par conséquent, l&apos;« agneau » qui siège en tant que roi dans l&apos;Apocalypse rend inutile d&apos;avoir un temple et un autel sur terre (<a href=\"https://ref.ly/Rev21:22\">Ap 21.22</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen8:20-Gen8:21\">Genèse 8.20–21</a> ; <a href=\"https://ref.ly/Gen12:7-Gen12:8\">12.7–8</a> ; <a href=\"https://ref.ly/Gen22:9-Gen22:14\">22.9–14</a> ; <a href=\"https://ref.ly/Gen33:20\">33.20</a> ; <a href=\"https://ref.ly/Exod20:24-Exod20:26\">Exode 20.24–26</a> ; <a href=\"https://ref.ly/Josh22:10-Josh22:34\">Josué 22.10–34</a> ; <a href=\"https://ref.ly/1Kgs18:20-1Kgs18:40\">1&nbsp;Rois 18.20–40</a> ; <a href=\"https://ref.ly/Hos8:11-Hos8:13\">Osée 8.11–13</a> ; <a href=\"https://ref.ly/Matt5:23-Matt5:24\">Matthieu 5.23–24</a> ; <a href=\"https://ref.ly/Heb13:10-Heb13:14\">Hébreux 13.10–14</a> ; <a href=\"https://ref.ly/Rev6:9\">Apocalypse 6.9</a> ; <a href=\"https://ref.ly/Rev8:3-Rev8:5\">8.3–5</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01013004",
-          "start_ref_usfm": "GEN 13:4",
-          "end_ref": "01013004",
-          "end_ref_usfm": "GEN 13:4"
-        },
-        {
-          "start_ref": "01013018",
-          "start_ref_usfm": "GEN 13:18",
-          "end_ref": "01013018",
-          "end_ref_usfm": "GEN 13:18"
-        },
-        {
-          "start_ref": "01022009",
-          "start_ref_usfm": "GEN 22:9",
-          "end_ref": "01022009",
-          "end_ref_usfm": "GEN 22:9"
-        },
-        {
-          "start_ref": "01026025",
-          "start_ref_usfm": "GEN 26:25",
-          "end_ref": "01026025",
-          "end_ref_usfm": "GEN 26:25"
-        },
-        {
-          "start_ref": "01033020",
-          "start_ref_usfm": "GEN 33:20",
-          "end_ref": "01033020",
-          "end_ref_usfm": "GEN 33:20"
-        },
-        {
-          "start_ref": "01035001",
-          "start_ref_usfm": "GEN 35:1",
-          "end_ref": "01035001",
-          "end_ref_usfm": "GEN 35:1"
-        },
-        {
-          "start_ref": "02027002",
-          "start_ref_usfm": "EXO 27:2",
-          "end_ref": "02027002",
-          "end_ref_usfm": "EXO 27:2"
-        },
-        {
-          "start_ref": "40023035",
-          "start_ref_usfm": "MAT 23:35",
-          "end_ref": "40023035",
-          "end_ref_usfm": "MAT 23:35"
-        },
-        {
-          "start_ref": "58007024",
-          "start_ref_usfm": "HEB 7:24",
-          "end_ref": "58007024",
-          "end_ref_usfm": "HEB 7:24"
-        },
-        {
-          "start_ref": "58007027",
-          "start_ref_usfm": "HEB 7:27",
-          "end_ref": "58007027",
-          "end_ref_usfm": "HEB 7:27"
-        },
-        {
-          "start_ref": "58009014",
-          "start_ref_usfm": "HEB 9:14",
-          "end_ref": "58009014",
-          "end_ref_usfm": "HEB 9:14"
-        },
-        {
-          "start_ref": "58009026",
-          "start_ref_usfm": "HEB 9:26",
-          "end_ref": "58009026",
-          "end_ref_usfm": "HEB 9:26"
-        },
-        {
-          "start_ref": "58010010",
-          "start_ref_usfm": "HEB 10:10",
-          "end_ref": "58010010",
-          "end_ref_usfm": "HEB 10:10"
-        },
-        {
-          "start_ref": "58013010",
-          "start_ref_usfm": "HEB 13:10",
-          "end_ref": "58013010",
-          "end_ref_usfm": "HEB 13:10"
-        },
-        {
-          "start_ref": "58013012",
-          "start_ref_usfm": "HEB 13:12",
-          "end_ref": "58013012",
-          "end_ref_usfm": "HEB 13:12"
-        },
-        {
-          "start_ref": "66006009",
-          "start_ref_usfm": "REV 6:9",
-          "end_ref": "66006009",
-          "end_ref_usfm": "REV 6:9"
-        },
-        {
-          "start_ref": "66021022",
-          "start_ref_usfm": "REV 21:22",
-          "end_ref": "66021022",
-          "end_ref_usfm": "REV 21:22"
-        },
-        {
-          "start_ref": "02020024",
-          "start_ref_usfm": "EXO 20:24",
-          "end_ref": "02020026",
-          "end_ref_usfm": "EXO 20:26"
-        },
-        {
-          "start_ref": "40005023",
-          "start_ref_usfm": "MAT 5:23",
-          "end_ref": "40005024",
-          "end_ref_usfm": "MAT 5:24"
-        },
-        {
-          "start_ref": "06022010",
-          "start_ref_usfm": "JOS 22:10",
-          "end_ref": "06022034",
-          "end_ref_usfm": "JOS 22:34"
-        },
-        {
-          "start_ref": "66008003",
-          "start_ref_usfm": "REV 8:3",
-          "end_ref": "66008005",
-          "end_ref_usfm": "REV 8:5"
-        },
-        {
-          "start_ref": "01004003",
-          "start_ref_usfm": "GEN 4:3",
-          "end_ref": "01004005",
-          "end_ref_usfm": "GEN 4:5"
-        },
-        {
-          "start_ref": "01035014",
-          "start_ref_usfm": "GEN 35:14",
-          "end_ref": "01035015",
-          "end_ref_usfm": "GEN 35:15"
-        },
-        {
-          "start_ref": "01008020",
-          "start_ref_usfm": "GEN 8:20",
-          "end_ref": "01008021",
-          "end_ref_usfm": "GEN 8:21"
-        },
-        {
-          "start_ref": "01012007",
-          "start_ref_usfm": "GEN 12:7",
-          "end_ref": "01012008",
-          "end_ref_usfm": "GEN 12:8"
-        },
-        {
-          "start_ref": "58004014",
-          "start_ref_usfm": "HEB 4:14",
-          "end_ref": "58004015",
-          "end_ref_usfm": "HEB 4:15"
-        },
-        {
-          "start_ref": "42011050",
-          "start_ref_usfm": "LUK 11:50",
-          "end_ref": "42011051",
-          "end_ref_usfm": "LUK 11:51"
-        },
-        {
-          "start_ref": "01022009",
-          "start_ref_usfm": "GEN 22:9",
-          "end_ref": "01022014",
-          "end_ref_usfm": "GEN 22:14"
-        },
-        {
-          "start_ref": "11018020",
-          "start_ref_usfm": "1KI 18:20",
-          "end_ref": "11018040",
-          "end_ref_usfm": "1KI 18:40"
-        },
-        {
-          "start_ref": "28008011",
-          "start_ref_usfm": "HOS 8:11",
-          "end_ref": "28008013",
-          "end_ref_usfm": "HOS 8:13"
-        },
-        {
-          "start_ref": "58013010",
-          "start_ref_usfm": "HEB 13:10",
-          "end_ref": "58013014",
-          "end_ref_usfm": "HEB 13:14"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  }
+{
+"content_id": "734240",
+"reference_id": 203347,
+"version": "1.0.2",
+"title": "Aimer son prochain",
+"media_type": "Text",
+"index_reference": "aimer son prochain",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Jésus enseigne que l&apos;amour du prochain est le deuxième commandement le plus important dans l&apos;Ancien Testament (<a href=\"https://ref.ly/Mark12:31\">Mc 12.31</a>). Les commandements d&apos;aimer Dieu et son prochain résument toute la loi de l&apos;Ancien Testament (<a href=\"https://ref.ly/Matt22:40\">Mt 22.40</a> ; voir aussi <a href=\"https://ref.ly/Matt7:12\">7.12</a> ; <a href=\"https://ref.ly/Matt9:9-Matt9:13\">9.9–13</a> ; <a href=\"https://ref.ly/Matt12:1-Matt12:13\">12.1–13</a> et <a href=\"https://ref.ly/Rom13:8-Rom13:10\">Rm 13.8–10</a>). Jésus reprend les pharisiens pour leur manque d&apos;amour (<a href=\"https://ref.ly/Matt9:13\">Mt 9.13</a> ; <a href=\"https://ref.ly/Matt12:7\">12.7</a> ; <a href=\"https://ref.ly/Matt23:4\">23.4</a>, <a href=\"https://ref.ly/Matt23:13-Matt23:14\">13–14</a>, <a href=\"https://ref.ly/Matt23:23\">23</a>). L&apos;amour est la marque d&apos;un véritable disciple de Jésus (<a href=\"https://ref.ly/John13:34-John13:35\">Jn 13.34–35</a>). Celui qui aime montre qu&apos;il connaît vraiment Dieu (<a href=\"https://ref.ly/1John2:9-1John2:11\">1Jn 2.9–11</a> ; <a href=\"https://ref.ly/1John3:11-1John3:18\">3.11–18</a> ; <a href=\"https://ref.ly/1John4:7-1John4:21\">4.7–21</a>).</p><p>Pour l&apos;apôtre Paul, l&apos;amour est plus important que d&apos;avoir des dons spirituels impressionnants. C&apos;est la vertu la plus importante. L&apos;amour (parfois traduit par <em>charité</em> dans la Louis Segond) est « <span>le lien de la perfection</span> » (<a href=\"https://ref.ly/Col3:14\">Col 3.14</a>). Sans amour, le ministère chrétien n&apos;a aucune valeur (<a href=\"https://ref.ly/1Cor13:1-1Cor13:3\">1Co 13.1–3</a>). Paul résume l&apos;éthique chrétienne comme « la foi se manifestant par l&apos;amour » (<a href=\"https://ref.ly/Gal5:6\">Ga 5.6</a>).</p><p>L&apos;amour découle naturellement de la foi chrétienne. C&apos;est un fruit du Saint-Esprit (<a href=\"https://ref.ly/Gal5:22\">Ga 5.22</a>). L&apos;amour est la motivation la plus importante pour le ministère chrétien. Quand le chrétien grandit spirituellement, il veut de plus en plus aimer les autres comme Christ l&apos;a fait.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Lev19:18\">Lévitique 19.18</a> ; <a href=\"https://ref.ly/Hos6:6\">Osée 6.6</a> ; <a href=\"https://ref.ly/Matt7:12\">Matthieu 7.12</a> ; <a href=\"https://ref.ly/Matt9:9-Matt9:13\">9.9–13</a> ; <a href=\"https://ref.ly/Matt12:1-Matt12:13\">12.1–13</a> ; <a href=\"https://ref.ly/Matt22:37-Matt22:40\">22.37–40</a> ; <a href=\"https://ref.ly/Matt23:2-Matt23:4\">23.2–4</a>, <a href=\"https://ref.ly/Matt23:13\">13</a>, <a href=\"https://ref.ly/Matt23:23\">23</a> ; <a href=\"https://ref.ly/John13:34-John13:35\">Jean 13.34–35</a> ; <a href=\"https://ref.ly/Rom13:8-Rom13:10\">Romains 13.8–10</a> ; <a href=\"https://ref.ly/1Cor13:1-1Cor13:13\">1&nbsp;Corinthiens 13.1–13</a> ; <a href=\"https://ref.ly/Gal5:6\">Galates 5.6</a>, <a href=\"https://ref.ly/Gal5:22-Gal5:23\">22–23</a> ; <a href=\"https://ref.ly/Col3:12-Col3:14\">Colossiens 3.12–14</a> ; <a href=\"https://ref.ly/1John2:7-1John2:11\">1&nbsp;Jean 2.7–11</a> ; <a href=\"https://ref.ly/1John3:11-1John3:18\">3.11–18</a> ; <a href=\"https://ref.ly/1John4:7-1John4:21\">4.7–21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03019018",
+"start_ref_usfm": "LEV 19:18",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
+},
+{
+"start_ref": "28006006",
+"start_ref_usfm": "HOS 6:6",
+"end_ref": "28006006",
+"end_ref_usfm": "HOS 6:6"
+},
+{
+"start_ref": "40007012",
+"start_ref_usfm": "MAT 7:12",
+"end_ref": "40007012",
+"end_ref_usfm": "MAT 7:12"
+},
+{
+"start_ref": "40009013",
+"start_ref_usfm": "MAT 9:13",
+"end_ref": "40009013",
+"end_ref_usfm": "MAT 9:13"
+},
+{
+"start_ref": "40012007",
+"start_ref_usfm": "MAT 12:7",
+"end_ref": "40012007",
+"end_ref_usfm": "MAT 12:7"
+},
+{
+"start_ref": "40022040",
+"start_ref_usfm": "MAT 22:40",
+"end_ref": "40022040",
+"end_ref_usfm": "MAT 22:40"
+},
+{
+"start_ref": "40023004",
+"start_ref_usfm": "MAT 23:4",
+"end_ref": "40023004",
+"end_ref_usfm": "MAT 23:4"
+},
+{
+"start_ref": "40023013",
+"start_ref_usfm": "MAT 23:13",
+"end_ref": "40023013",
+"end_ref_usfm": "MAT 23:13"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023023",
+"end_ref_usfm": "MAT 23:23"
+},
+{
+"start_ref": "41012031",
+"start_ref_usfm": "MRK 12:31",
+"end_ref": "41012031",
+"end_ref_usfm": "MRK 12:31"
+},
+{
+"start_ref": "48005006",
+"start_ref_usfm": "GAL 5:6",
+"end_ref": "48005006",
+"end_ref_usfm": "GAL 5:6"
+},
+{
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005022",
+"end_ref_usfm": "GAL 5:22"
+},
+{
+"start_ref": "51003014",
+"start_ref_usfm": "COL 3:14",
+"end_ref": "51003014",
+"end_ref_usfm": "COL 3:14"
+},
+{
+"start_ref": "45013008",
+"start_ref_usfm": "ROM 13:8",
+"end_ref": "45013010",
+"end_ref_usfm": "ROM 13:10"
+},
+{
+"start_ref": "46013001",
+"start_ref_usfm": "1CO 13:1",
+"end_ref": "46013013",
+"end_ref_usfm": "1CO 13:13"
+},
+{
+"start_ref": "51003012",
+"start_ref_usfm": "COL 3:12",
+"end_ref": "51003014",
+"end_ref_usfm": "COL 3:14"
+},
+{
+"start_ref": "46013001",
+"start_ref_usfm": "1CO 13:1",
+"end_ref": "46013003",
+"end_ref_usfm": "1CO 13:3"
+},
+{
+"start_ref": "43013034",
+"start_ref_usfm": "JHN 13:34",
+"end_ref": "43013035",
+"end_ref_usfm": "JHN 13:35"
+},
+{
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005023",
+"end_ref_usfm": "GAL 5:23"
+},
+{
+"start_ref": "40022037",
+"start_ref_usfm": "MAT 22:37",
+"end_ref": "40022040",
+"end_ref_usfm": "MAT 22:40"
+},
+{
+"start_ref": "40009009",
+"start_ref_usfm": "MAT 9:9",
+"end_ref": "40009013",
+"end_ref_usfm": "MAT 9:13"
+},
+{
+"start_ref": "40023002",
+"start_ref_usfm": "MAT 23:2",
+"end_ref": "40023004",
+"end_ref_usfm": "MAT 23:4"
+},
+{
+"start_ref": "62002007",
+"start_ref_usfm": "1JN 2:7",
+"end_ref": "62002011",
+"end_ref_usfm": "1JN 2:11"
+},
+{
+"start_ref": "62002009",
+"start_ref_usfm": "1JN 2:9",
+"end_ref": "62002011",
+"end_ref_usfm": "1JN 2:11"
+},
+{
+"start_ref": "62004007",
+"start_ref_usfm": "1JN 4:7",
+"end_ref": "62004021",
+"end_ref_usfm": "1JN 4:21"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012013",
+"end_ref_usfm": "MAT 12:13"
+},
+{
+"start_ref": "40023013",
+"start_ref_usfm": "MAT 23:13",
+"end_ref": "40023014",
+"end_ref_usfm": "MAT 23:14"
+},
+{
+"start_ref": "62003011",
+"start_ref_usfm": "1JN 3:11",
+"end_ref": "62003018",
+"end_ref_usfm": "1JN 3:18"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "734171",
+"reference_id": 203099,
+"version": "1.0.2",
+"title": "Alliance de Dieu avec Noé",
+"media_type": "Text",
+"index_reference": "alliance de dieu avec noé",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Une alliance est un accord qui établit une relation spéciale entre deux groupes ou individus, et qui comprend des promesses. Dans la Bible, les alliances sont souvent conclues entre Dieu et des êtres humains. Ces accords incluent généralement des promesses, des obligations, et parfois des signes ou des symboles qui aident à rappeler l&apos;alliance. La première alliance mentionnée clairement en tant que telle dans la Bible est celle que Dieu établit avec Noé après le déluge (<a href=\"https://ref.ly/Gen9:1-Gen9:17\">Gn 9.1–17</a>).</p><p>Dieu voit que les êtres humains sont devenus mauvais et font continuellement le mal. Dieu est affligé et regrette d&apos;avoir créé les êtres humains sur la terre (<a href=\"https://ref.ly/Gen6:5-Gen6:7\">Gn 6.5–7</a>). Dieu décide de détruire l&apos;humanité à cause de sa corruption et de sa violence (<a href=\"https://ref.ly/Gen6:11-Gen6:13\">Gn 6.11–13</a>). Cependant, Noé est un homme juste et Dieu l&apos;épargne, lui et sa famille (<a href=\"https://ref.ly/Gen6:8\">Gn 6.8</a>). Il lui commande de construire une arche (un grand bateau) pour survivre au déluge à venir (<a href=\"https://ref.ly/Gen6:13-Gen6:17\">Gn 6.13–17</a>). Même si l&apos;humanité s&apos;est détournée de lui, Dieu promet de faire alliance avec Noé, sa famille et toute la création (<a href=\"https://ref.ly/Gen6:1-Gen6:7\">Gn 6.1–7</a> ; <a href=\"https://ref.ly/Gen9:8-Gen9:13\">9.8–13</a>).</p><p>Dieu s&apos;engage envers la famille de Noé, malgré la rupture de sa relation avec les autres êtres humains qui périssent pendant le déluge (<a href=\"https://ref.ly/Gen6:18\">Gn 6.18</a>). La promesse de Dieu de le sauver lui et sa famille inclut son commandement de construire une arche (<a href=\"https://ref.ly/Gen6:14\">Gen 6.14</a>). Pour que Noé puisse être béni selon cette alliance et être sauvé, il doit obéir à ce commandement (<a href=\"https://ref.ly/Gen6:22\">Gn 6.22</a> ; <a href=\"https://ref.ly/Gen7:5\">7.5</a>).</p><p>Après le déluge, Noé offre des sacrifices à Dieu (<a href=\"https://ref.ly/Gen8:20-Gen8:22\">Gn 8.20–22</a>). Dieu lui explique alors son alliance. Elle est universelle : elle ne concerne pas seulement Noé et sa famille, mais aussi toutes les générations d&apos;êtres humains après lui, ainsi que tous les animaux (<a href=\"https://ref.ly/Gen9:8-Gen9:10\">Gn 9.8–10</a>). Dieu promet de ne plus faire venir de déluge comme jugement sur le monde (<a href=\"https://ref.ly/Gen9:15\">Gn 9.15</a>).</p><p>Cette alliance nous aide à comprendre comment fonctionnent les alliances de Dieu. Même si les êtres humains méritent qu&apos;il les juge à cause de leurs péchés, il se retient de les détruire complètement. </p><p>L&apos;alliance de Dieu avec Noé n&apos;établit pas de relation proche entre Dieu et chaque être vivant. Toutefois, elle donne des principes de base sur la vie sur terre qui sont conformes à la volonté de Dieu (<a href=\"https://ref.ly/Gen9:1-Gen9:7\">Gn 9.1–7</a>). Plus tard, Dieu établit une relation plus étroite par une autre alliance&nbsp;: celle avec Abraham (<a href=\"https://ref.ly/Gen17:1-Gen17:21\">Gn 17.1–21</a>). Malgré leurs péchés, Dieu donne encore aux gens la possibilité de vivre pour chercher à connaître Dieu et marcher avec leur Créateur. Les autres alliances que Dieu établit plus tard rendent possible la communion avec lui, qui devient accessible à tous (<a href=\"https://ref.ly/Acts2:22-Acts2:40\">Ac 2.22–40</a> ; <a href=\"https://ref.ly/Acts3:17-Acts3:26\">3.17–26</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen9:1-Gen9:17\">Genèse 9.1–17</a> ; <a href=\"https://ref.ly/Ezek14:12-Ezek14:23\">Ézéchiel 14.12–23</a> ; <a href=\"https://ref.ly/Matt24:37-Matt24:39\">Matthieu 24.37–39</a> ; <a href=\"https://ref.ly/Heb11:7\">Hébreux 11.7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006008",
+"start_ref_usfm": "GEN 6:8",
+"end_ref": "01006008",
+"end_ref_usfm": "GEN 6:8"
+},
+{
+"start_ref": "01006014",
+"start_ref_usfm": "GEN 6:14",
+"end_ref": "01006014",
+"end_ref_usfm": "GEN 6:14"
+},
+{
+"start_ref": "01006018",
+"start_ref_usfm": "GEN 6:18",
+"end_ref": "01006018",
+"end_ref_usfm": "GEN 6:18"
+},
+{
+"start_ref": "01006022",
+"start_ref_usfm": "GEN 6:22",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+},
+{
+"start_ref": "01007005",
+"start_ref_usfm": "GEN 7:5",
+"end_ref": "01007005",
+"end_ref_usfm": "GEN 7:5"
+},
+{
+"start_ref": "58011007",
+"start_ref_usfm": "HEB 11:7",
+"end_ref": "58011007",
+"end_ref_usfm": "HEB 11:7"
+},
+{
+"start_ref": "01008020",
+"start_ref_usfm": "GEN 8:20",
+"end_ref": "01008022",
+"end_ref_usfm": "GEN 8:22"
+},
+{
+"start_ref": "01009008",
+"start_ref_usfm": "GEN 9:8",
+"end_ref": "01009010",
+"end_ref_usfm": "GEN 9:10"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024039",
+"end_ref_usfm": "MAT 24:39"
+},
+{
+"start_ref": "01006011",
+"start_ref_usfm": "GEN 6:11",
+"end_ref": "01006013",
+"end_ref_usfm": "GEN 6:13"
+},
+{
+"start_ref": "01009001",
+"start_ref_usfm": "GEN 9:1",
+"end_ref": "01009007",
+"end_ref_usfm": "GEN 9:7"
+},
+{
+"start_ref": "01009001",
+"start_ref_usfm": "GEN 9:1",
+"end_ref": "01009017",
+"end_ref_usfm": "GEN 9:17"
+},
+{
+"start_ref": "01006013",
+"start_ref_usfm": "GEN 6:13",
+"end_ref": "01006017",
+"end_ref_usfm": "GEN 6:17"
+},
+{
+"start_ref": "01006001",
+"start_ref_usfm": "GEN 6:1",
+"end_ref": "01006007",
+"end_ref_usfm": "GEN 6:7"
+},
+{
+"start_ref": "01017001",
+"start_ref_usfm": "GEN 17:1",
+"end_ref": "01017021",
+"end_ref_usfm": "GEN 17:21"
+},
+{
+"start_ref": "44002022",
+"start_ref_usfm": "ACT 2:22",
+"end_ref": "44002040",
+"end_ref_usfm": "ACT 2:40"
+},
+{
+"start_ref": "44003017",
+"start_ref_usfm": "ACT 3:17",
+"end_ref": "44003026",
+"end_ref_usfm": "ACT 3:26"
+},
+{
+"start_ref": "26014012",
+"start_ref_usfm": "EZK 14:12",
+"end_ref": "26014023",
+"end_ref_usfm": "EZK 14:23"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "708454",
+"reference_id": 203334,
+"version": "1.0.2",
+"title": "Anges",
+"media_type": "Text",
+"index_reference": "anges",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Dans la Bible, les anges sont des messagers de Dieu qui exécutent ses plans et communiquent sa volonté aux êtres humains (<a href=\"https://ref.ly/Gen16:7-Gen16:12\">Gn 16.7–12</a> ; <a href=\"https://ref.ly/Num22:22-Num22:34\">Nb 22.22–34</a> ; <a href=\"https://ref.ly/Judg13:3-Judg13:21\">Jg 13.3–21</a> ; <a href=\"https://ref.ly/2Kgs1:3\">2R 1.3</a>, <a href=\"https://ref.ly/2Kgs1:15\">15</a> ; <a href=\"https://ref.ly/Zech1:4-Zech1:12\">Za 1.4–12</a>). L&apos;Ancien Testament hébreu et le Nouveau Testament grec ne nomment que deux anges, Micaël (Bible Louis Segond : Michel) et Gabriel, à qui Dieu avait donné des missions particulièrement importantes (<a href=\"https://ref.ly/Dan8:16\">Dn 8.16</a>, <a href=\"https://ref.ly/Dan8:18\">18</a> ; <a href=\"https://ref.ly/Dan9:21\">9.21</a> ; <a href=\"https://ref.ly/Dan10:12\">10.12</a>, <a href=\"https://ref.ly/Dan10:21\">21</a> ; <a href=\"https://ref.ly/Dan12:1-Dan12:2\">12.1–2</a> ; <a href=\"https://ref.ly/Luke1:19-Luke1:20\">Lc 1.19–20</a> ; <a href=\"https://ref.ly/Jude1:9\">Jd 1.9</a>). Les anges ont joué un rôle dans la transmission de la loi de Dieu à Moïse (<a href=\"https://ref.ly/Acts7:30\">Ac 7.30</a>, <a href=\"https://ref.ly/Acts7:35\">35</a>, <a href=\"https://ref.ly/Acts7:38\">38</a>, <a href=\"https://ref.ly/Acts7:53\">53</a> ; <a href=\"https://ref.ly/Gal3:19\">Ga 3.19</a>). Ce sont les agents de Dieu pour délivrer son peuple et exécuter ses jugements (<a href=\"https://ref.ly/2Kgs19:35\">2R 19.35</a> ; <a href=\"https://ref.ly/Acts12:23\">Ac 12.23</a> ; <a href=\"https://ref.ly/Rev9:15\">Ap 9.15</a> ; <a href=\"https://ref.ly/Rev16:1-Rev16:12\">16.1–12</a>).</p><p>Les anges ont été témoins de la vie du Christ et le sont maintenant de la vie du peuple de Dieu (<a href=\"https://ref.ly/1Tim3:16\">1Tm 3.16</a> ; <a href=\"https://ref.ly/1Cor11:10\">1Co 11.10</a> ; <a href=\"https://ref.ly/1Tim5:21\">1Tm 5.21</a>). Des anges gardiens protègent le peuple de Dieu (<a href=\"https://ref.ly/Matt18:10\">Mt 18.10</a> ; voir aussi <a href=\"https://ref.ly/Ps34:7\">Ps 34.8</a> ; <a href=\"https://ref.ly/Ps91:11\">91.11</a> ; <a href=\"https://ref.ly/Acts12:11\">Ac 12.11</a>). Ce sont « des esprits au service de Dieu, envoyés pour exercer un ministère en faveur de ceux qui doivent hériter du salut » (<a href=\"https://ref.ly/Heb1:14\">Hé 1.14</a>). Les anges accompagneront Christ à son retour (<a href=\"https://ref.ly/Matt25:31\">Mt 25.31</a> ; <a href=\"https://ref.ly/2Thess1:7-2Thess1:8\">2Th 1.7–8</a>). Ils participeront au jugement dernier (<a href=\"https://ref.ly/Matt13:39\">Mt 13.39</a>, <a href=\"https://ref.ly/Matt13:41\">41</a>, <a href=\"https://ref.ly/Matt13:49-Matt13:50\">49–50</a> ; <a href=\"https://ref.ly/Matt16:27\">16.27</a> ; <a href=\"https://ref.ly/Matt24:31\">24.31</a> ; <a href=\"https://ref.ly/Mark13:27\">Mc 13.27</a> ; <a href=\"https://ref.ly/Luke9:26\">Lc 9.26</a> ; <a href=\"https://ref.ly/Luke12:8\">12.8</a> ; <a href=\"https://ref.ly/2Thess1:7\">2Th 1.7</a>).</p><p>Les anges apparaissent à des moments clés dans les Évangiles. Ils  annoncent les naissances de Jean-Baptiste et de Jésus (<a href=\"https://ref.ly/Luke1:1-Luke2:52\">Lc 1.1–2.52</a> ). Ils viennent servir ce dernier après la tentation (<a href=\"https://ref.ly/Matt4:11\">Mt 4.11</a>). Un ange fortifie le dans le jardin de Gethsémané (Lc 22.43). Des anges apparaissent également au tombeau vide après sa résurrection (<a href=\"https://ref.ly/Matt28:1-Matt28:8\">Mt 28.1–8</a> ; <a href=\"https://ref.ly/Mark16:5-Mark16:7\">Mc 16.5–7</a> ; <a href=\"https://ref.ly/Luke24:23\">Lc 24.23</a> ; <a href=\"https://ref.ly/John20:12\">Jn 20.12</a>).</p><p>Les anges ont aussi un rôle important dans Actes. Ils font sortir les apôtres de prison (<a href=\"https://ref.ly/Acts5:19\">Ac 5.19</a>; <a href=\"https://ref.ly/Acts12:6-Acts12:11\">12.6–11</a>). Un ange encourage Paul pendant une violente tempête (<a href=\"https://ref.ly/Acts27:23-Acts27:24\">27.23–24</a>). Un ange dit également à Corneille, un centurion romain, de faire venir Pierre, qui allait lui annoncer l&apos;Évangile (<a href=\"https://ref.ly/Acts10:3\">10.3</a>, <a href=\"https://ref.ly/Acts10:7\">7</a>, <a href=\"https://ref.ly/Acts10:22\">22</a>; <a href=\"https://ref.ly/Acts11:13\">11.13</a>). Un ange frappe le roi Hérode Agrippa parce qu&apos;il accepte de se faire appeler «&nbsp;dieu&nbsp;» au lieu de donner gloire à Dieu (<a href=\"https://ref.ly/Acts12:23\">12.23</a>). Tout le long du livre, Dieu utilise ses anges pour guider son peuple et exécuter sa volonté. </p><p>Certains anges se sont détournés de Dieu et subiront un jugement éternel (<a href=\"https://ref.ly/Matt25:41\">Mt 25.41</a> ; <a href=\"https://ref.ly/2Pet2:4\">2P 2.4</a>, <a href=\"https://ref.ly/2Pet2:11\">11</a> ; <a href=\"https://ref.ly/Jude1:6\">Jd 1.6</a>). Les anges sont des êtres spirituels et célestes, mais ils sont inférieurs à Christ et ne doivent pas être adorés (<a href=\"https://ref.ly/Heb1:5-Heb1:14\">Hé 1.5–14</a> ; <a href=\"https://ref.ly/Gal1:8\">Ga 1.8</a> ; <a href=\"https://ref.ly/Col2:18\">Col 2.18</a>). En effet, seul Dieu doit être adoré (<a href=\"https://ref.ly/Matt4:10\">Mt 4.10</a> ; <a href=\"https://ref.ly/Rev19:10\">Ap 19.10</a> ; <a href=\"https://ref.ly/Rev22:8-Rev22:9\">22.8–9</a>). </p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Ps91:11\">Psaume 91.11</a> ; <a href=\"https://ref.ly/Dan8:15-Dan8:18\">Daniel 8.15–18</a> ; <a href=\"https://ref.ly/Dan9:21-Dan9:23\">9.21–23</a> ; <a href=\"https://ref.ly/Dan10:4-Dan11:1\">10.4–11.1</a> ; <a href=\"https://ref.ly/Dan12:1-Dan12:2\">12.1–2</a> ; <a href=\"https://ref.ly/Zech1:8-Zech1:13\">Zacharie 1.8–13</a>, <a href=\"https://ref.ly/Zech1:18-Zech1:19\">18–19</a> ; <a href=\"https://ref.ly/Zech2:3-Zech2:5\">2.3–5</a> ; <a href=\"https://ref.ly/Matt1:20-Matt1:24\">Matthieu 1.20–24</a> ; <a href=\"https://ref.ly/Matt4:5-Matt4:7\">4.5–7</a>, <a href=\"https://ref.ly/Matt4:11\">11</a> ; <a href=\"https://ref.ly/Matt13:39-Matt13:42\">13.39–42</a>, <a href=\"https://ref.ly/Matt13:49-Matt13:50\">49–50</a> ; <a href=\"https://ref.ly/Matt18:10\">18.10</a> ; <a href=\"https://ref.ly/Matt24:31\">24.31</a> ; <a href=\"https://ref.ly/Matt28:2-Matt28:7\">28.2–7</a> ; <a href=\"https://ref.ly/Mark16:5-Mark16:7\">Marc 16.5–7</a> ; <a href=\"https://ref.ly/Luke1:11-Luke1:22\">Lc 1.11–22</a>, <a href=\"https://ref.ly/Luke1:26-Luke1:38\">26–38</a> ; <a href=\"https://ref.ly/Luke2:8-Luke2:15\">2.8–15</a> ; <a href=\"https://ref.ly/Luke9:26\">9.26</a> ; <a href=\"https://ref.ly/Luke12:8\">12.8</a> ; <a href=\"https://ref.ly/John20:12-John20:13\">Jean 20.12–13</a> ; <a href=\"https://ref.ly/Acts5:19-Acts5:20\">Actes 5.19–20</a> ; <a href=\"https://ref.ly/Acts7:30-Acts7:35\">7.30–35</a>, <a href=\"https://ref.ly/Acts7:53\">53</a> ; <a href=\"https://ref.ly/Acts10:3-Acts10:8\">10.3–8</a> ; <a href=\"https://ref.ly/Acts12:6-Acts12:11\">12.6–11</a>, <a href=\"https://ref.ly/Acts12:23\">23</a> ; <a href=\"https://ref.ly/Acts27:23-Acts27:24\">27.23–24</a> ; <a href=\"https://ref.ly/1Cor11:10\">1 Corinthiens 11.10</a> ; <a href=\"https://ref.ly/Gal1:8\">Galates 1.8</a> ; <a href=\"https://ref.ly/Gal3:19\">3.19</a> ; <a href=\"https://ref.ly/Col2:18\">Colossiens 2.18</a> ; <a href=\"https://ref.ly/1Thess4:16\">1 Thessaloniciens 4.16</a> ; <a href=\"https://ref.ly/1Tim3:16\">1 Timothée 3.16</a> ; <a href=\"https://ref.ly/1Tim5:21\">5.21</a> ; <a href=\"https://ref.ly/Heb1:5-Heb1:14\">Hébreux 1.5–14</a> ; <a href=\"https://ref.ly/Heb12:22\">12.22</a> ; <a href=\"https://ref.ly/Heb13:2\">13.2</a> ; <a href=\"https://ref.ly/2Pet2:4\">2 Pierre 2.4</a>, <a href=\"https://ref.ly/2Pet2:11\">11</a> ; <a href=\"https://ref.ly/Jude1:6\">Jude 1.6</a>, <a href=\"https://ref.ly/Jude1:9\">9</a> ; <a href=\"https://ref.ly/Rev1:1-Rev1:2\">Apocalypse 1.1–2</a> ; <a href=\"https://ref.ly/Rev5:2\">5.2</a>, <a href=\"https://ref.ly/Rev5:11-Rev5:12\">11–12</a> ; <a href=\"https://ref.ly/Rev7:1-Rev7:2\">7.1–2</a> ; <a href=\"https://ref.ly/Rev8:3-Rev8:8\">8.3–8</a> ; <a href=\"https://ref.ly/Rev9:15\">9.15</a> ; <a href=\"https://ref.ly/Rev10:7-Rev10:9\">10.7–9</a> ; <a href=\"https://ref.ly/Rev14:6-Rev14:10\">14.6–10</a> ; <a href=\"https://ref.ly/Rev16:1-Rev16:12\">16.1–12</a> ; <a href=\"https://ref.ly/Rev19:10\">19.10</a>, <a href=\"https://ref.ly/Rev19:17\">17</a> ; <a href=\"https://ref.ly/Rev20:1\">20.1</a> ; <a href=\"https://ref.ly/Rev22:6-Rev22:9\">22.6–9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "12001003",
+"start_ref_usfm": "2KI 1:3",
+"end_ref": "12001003",
+"end_ref_usfm": "2KI 1:3"
+},
+{
+"start_ref": "12001015",
+"start_ref_usfm": "2KI 1:15",
+"end_ref": "12001015",
+"end_ref_usfm": "2KI 1:15"
+},
+{
+"start_ref": "12019035",
+"start_ref_usfm": "2KI 19:35",
+"end_ref": "12019035",
+"end_ref_usfm": "2KI 19:35"
+},
+{
+"start_ref": "19034007",
+"start_ref_usfm": "PSA 34:7",
+"end_ref": "19034007",
+"end_ref_usfm": "PSA 34:7"
+},
+{
+"start_ref": "19091011",
+"start_ref_usfm": "PSA 91:11",
+"end_ref": "19091011",
+"end_ref_usfm": "PSA 91:11"
+},
+{
+"start_ref": "27008016",
+"start_ref_usfm": "DAN 8:16",
+"end_ref": "27008016",
+"end_ref_usfm": "DAN 8:16"
+},
+{
+"start_ref": "27008018",
+"start_ref_usfm": "DAN 8:18",
+"end_ref": "27008018",
+"end_ref_usfm": "DAN 8:18"
+},
+{
+"start_ref": "27009021",
+"start_ref_usfm": "DAN 9:21",
+"end_ref": "27009021",
+"end_ref_usfm": "DAN 9:21"
+},
+{
+"start_ref": "27010012",
+"start_ref_usfm": "DAN 10:12",
+"end_ref": "27010012",
+"end_ref_usfm": "DAN 10:12"
+},
+{
+"start_ref": "27010021",
+"start_ref_usfm": "DAN 10:21",
+"end_ref": "27010021",
+"end_ref_usfm": "DAN 10:21"
+},
+{
+"start_ref": "40004010",
+"start_ref_usfm": "MAT 4:10",
+"end_ref": "40004010",
+"end_ref_usfm": "MAT 4:10"
+},
+{
+"start_ref": "40004011",
+"start_ref_usfm": "MAT 4:11",
+"end_ref": "40004011",
+"end_ref_usfm": "MAT 4:11"
+},
+{
+"start_ref": "40013039",
+"start_ref_usfm": "MAT 13:39",
+"end_ref": "40013039",
+"end_ref_usfm": "MAT 13:39"
+},
+{
+"start_ref": "40013041",
+"start_ref_usfm": "MAT 13:41",
+"end_ref": "40013041",
+"end_ref_usfm": "MAT 13:41"
+},
+{
+"start_ref": "40016027",
+"start_ref_usfm": "MAT 16:27",
+"end_ref": "40016027",
+"end_ref_usfm": "MAT 16:27"
+},
+{
+"start_ref": "40018010",
+"start_ref_usfm": "MAT 18:10",
+"end_ref": "40018010",
+"end_ref_usfm": "MAT 18:10"
+},
+{
+"start_ref": "40024031",
+"start_ref_usfm": "MAT 24:31",
+"end_ref": "40024031",
+"end_ref_usfm": "MAT 24:31"
+},
+{
+"start_ref": "40025031",
+"start_ref_usfm": "MAT 25:31",
+"end_ref": "40025031",
+"end_ref_usfm": "MAT 25:31"
+},
+{
+"start_ref": "40025041",
+"start_ref_usfm": "MAT 25:41",
+"end_ref": "40025041",
+"end_ref_usfm": "MAT 25:41"
+},
+{
+"start_ref": "41013027",
+"start_ref_usfm": "MRK 13:27",
+"end_ref": "41013027",
+"end_ref_usfm": "MRK 13:27"
+},
+{
+"start_ref": "42009026",
+"start_ref_usfm": "LUK 9:26",
+"end_ref": "42009026",
+"end_ref_usfm": "LUK 9:26"
+},
+{
+"start_ref": "42012008",
+"start_ref_usfm": "LUK 12:8",
+"end_ref": "42012008",
+"end_ref_usfm": "LUK 12:8"
+},
+{
+"start_ref": "42024023",
+"start_ref_usfm": "LUK 24:23",
+"end_ref": "42024023",
+"end_ref_usfm": "LUK 24:23"
+},
+{
+"start_ref": "43020012",
+"start_ref_usfm": "JHN 20:12",
+"end_ref": "43020012",
+"end_ref_usfm": "JHN 20:12"
+},
+{
+"start_ref": "44005019",
+"start_ref_usfm": "ACT 5:19",
+"end_ref": "44005019",
+"end_ref_usfm": "ACT 5:19"
+},
+{
+"start_ref": "44007030",
+"start_ref_usfm": "ACT 7:30",
+"end_ref": "44007030",
+"end_ref_usfm": "ACT 7:30"
+},
+{
+"start_ref": "44007035",
+"start_ref_usfm": "ACT 7:35",
+"end_ref": "44007035",
+"end_ref_usfm": "ACT 7:35"
+},
+{
+"start_ref": "44007038",
+"start_ref_usfm": "ACT 7:38",
+"end_ref": "44007038",
+"end_ref_usfm": "ACT 7:38"
+},
+{
+"start_ref": "44007053",
+"start_ref_usfm": "ACT 7:53",
+"end_ref": "44007053",
+"end_ref_usfm": "ACT 7:53"
+},
+{
+"start_ref": "44010003",
+"start_ref_usfm": "ACT 10:3",
+"end_ref": "44010003",
+"end_ref_usfm": "ACT 10:3"
+},
+{
+"start_ref": "44010007",
+"start_ref_usfm": "ACT 10:7",
+"end_ref": "44010007",
+"end_ref_usfm": "ACT 10:7"
+},
+{
+"start_ref": "44010022",
+"start_ref_usfm": "ACT 10:22",
+"end_ref": "44010022",
+"end_ref_usfm": "ACT 10:22"
+},
+{
+"start_ref": "44011013",
+"start_ref_usfm": "ACT 11:13",
+"end_ref": "44011013",
+"end_ref_usfm": "ACT 11:13"
+},
+{
+"start_ref": "44012011",
+"start_ref_usfm": "ACT 12:11",
+"end_ref": "44012011",
+"end_ref_usfm": "ACT 12:11"
+},
+{
+"start_ref": "44012023",
+"start_ref_usfm": "ACT 12:23",
+"end_ref": "44012023",
+"end_ref_usfm": "ACT 12:23"
+},
+{
+"start_ref": "46011010",
+"start_ref_usfm": "1CO 11:10",
+"end_ref": "46011010",
+"end_ref_usfm": "1CO 11:10"
+},
+{
+"start_ref": "48001008",
+"start_ref_usfm": "GAL 1:8",
+"end_ref": "48001008",
+"end_ref_usfm": "GAL 1:8"
+},
+{
+"start_ref": "48003019",
+"start_ref_usfm": "GAL 3:19",
+"end_ref": "48003019",
+"end_ref_usfm": "GAL 3:19"
+},
+{
+"start_ref": "51002018",
+"start_ref_usfm": "COL 2:18",
+"end_ref": "51002018",
+"end_ref_usfm": "COL 2:18"
+},
+{
+"start_ref": "52004016",
+"start_ref_usfm": "1TH 4:16",
+"end_ref": "52004016",
+"end_ref_usfm": "1TH 4:16"
+},
+{
+"start_ref": "53001007",
+"start_ref_usfm": "2TH 1:7",
+"end_ref": "53001007",
+"end_ref_usfm": "2TH 1:7"
+},
+{
+"start_ref": "54003016",
+"start_ref_usfm": "1TI 3:16",
+"end_ref": "54003016",
+"end_ref_usfm": "1TI 3:16"
+},
+{
+"start_ref": "54005021",
+"start_ref_usfm": "1TI 5:21",
+"end_ref": "54005021",
+"end_ref_usfm": "1TI 5:21"
+},
+{
+"start_ref": "58001014",
+"start_ref_usfm": "HEB 1:14",
+"end_ref": "58001014",
+"end_ref_usfm": "HEB 1:14"
+},
+{
+"start_ref": "58012022",
+"start_ref_usfm": "HEB 12:22",
+"end_ref": "58012022",
+"end_ref_usfm": "HEB 12:22"
+},
+{
+"start_ref": "58013002",
+"start_ref_usfm": "HEB 13:2",
+"end_ref": "58013002",
+"end_ref_usfm": "HEB 13:2"
+},
+{
+"start_ref": "61002004",
+"start_ref_usfm": "2PE 2:4",
+"end_ref": "61002004",
+"end_ref_usfm": "2PE 2:4"
+},
+{
+"start_ref": "61002011",
+"start_ref_usfm": "2PE 2:11",
+"end_ref": "61002011",
+"end_ref_usfm": "2PE 2:11"
+},
+{
+"start_ref": "65001006",
+"start_ref_usfm": "JUD 1:6",
+"end_ref": "65001006",
+"end_ref_usfm": "JUD 1:6"
+},
+{
+"start_ref": "65001009",
+"start_ref_usfm": "JUD 1:9",
+"end_ref": "65001009",
+"end_ref_usfm": "JUD 1:9"
+},
+{
+"start_ref": "66005002",
+"start_ref_usfm": "REV 5:2",
+"end_ref": "66005002",
+"end_ref_usfm": "REV 5:2"
+},
+{
+"start_ref": "66009015",
+"start_ref_usfm": "REV 9:15",
+"end_ref": "66009015",
+"end_ref_usfm": "REV 9:15"
+},
+{
+"start_ref": "66019010",
+"start_ref_usfm": "REV 19:10",
+"end_ref": "66019010",
+"end_ref_usfm": "REV 19:10"
+},
+{
+"start_ref": "66019017",
+"start_ref_usfm": "REV 19:17",
+"end_ref": "66019017",
+"end_ref_usfm": "REV 19:17"
+},
+{
+"start_ref": "66020001",
+"start_ref_usfm": "REV 20:1",
+"end_ref": "66020001",
+"end_ref_usfm": "REV 20:1"
+},
+{
+"start_ref": "42001026",
+"start_ref_usfm": "LUK 1:26",
+"end_ref": "42001038",
+"end_ref_usfm": "LUK 1:38"
+},
+{
+"start_ref": "42001001",
+"start_ref_usfm": "LUK 1:1",
+"end_ref": "42002052",
+"end_ref_usfm": "LUK 2:52"
+},
+{
+"start_ref": "42002008",
+"start_ref_usfm": "LUK 2:8",
+"end_ref": "42002015",
+"end_ref_usfm": "LUK 2:15"
+},
+{
+"start_ref": "66022008",
+"start_ref_usfm": "REV 22:8",
+"end_ref": "66022009",
+"end_ref_usfm": "REV 22:9"
+},
+{
+"start_ref": "27012001",
+"start_ref_usfm": "DAN 12:1",
+"end_ref": "27012002",
+"end_ref_usfm": "DAN 12:2"
+},
+{
+"start_ref": "40013039",
+"start_ref_usfm": "MAT 13:39",
+"end_ref": "40013042",
+"end_ref_usfm": "MAT 13:42"
+},
+{
+"start_ref": "40001020",
+"start_ref_usfm": "MAT 1:20",
+"end_ref": "40001024",
+"end_ref_usfm": "MAT 1:24"
+},
+{
+"start_ref": "44005019",
+"start_ref_usfm": "ACT 5:19",
+"end_ref": "44005020",
+"end_ref_usfm": "ACT 5:20"
+},
+{
+"start_ref": "58001005",
+"start_ref_usfm": "HEB 1:5",
+"end_ref": "58001014",
+"end_ref_usfm": "HEB 1:14"
+},
+{
+"start_ref": "40004005",
+"start_ref_usfm": "MAT 4:5",
+"end_ref": "40004007",
+"end_ref_usfm": "MAT 4:7"
+},
+{
+"start_ref": "66005011",
+"start_ref_usfm": "REV 5:11",
+"end_ref": "66005012",
+"end_ref_usfm": "REV 5:12"
+},
+{
+"start_ref": "38001018",
+"start_ref_usfm": "ZEC 1:18",
+"end_ref": "38001019",
+"end_ref_usfm": "ZEC 1:19"
+},
+{
+"start_ref": "41016005",
+"start_ref_usfm": "MRK 16:5",
+"end_ref": "41016007",
+"end_ref_usfm": "MRK 16:7"
+},
+{
+"start_ref": "44027023",
+"start_ref_usfm": "ACT 27:23",
+"end_ref": "44027024",
+"end_ref_usfm": "ACT 27:24"
+},
+{
+"start_ref": "01016007",
+"start_ref_usfm": "GEN 16:7",
+"end_ref": "01016012",
+"end_ref_usfm": "GEN 16:12"
+},
+{
+"start_ref": "04022022",
+"start_ref_usfm": "NUM 22:22",
+"end_ref": "04022034",
+"end_ref_usfm": "NUM 22:34"
+},
+{
+"start_ref": "07013003",
+"start_ref_usfm": "JDG 13:3",
+"end_ref": "07013021",
+"end_ref_usfm": "JDG 13:21"
+},
+{
+"start_ref": "38001004",
+"start_ref_usfm": "ZEC 1:4",
+"end_ref": "38001012",
+"end_ref_usfm": "ZEC 1:12"
+},
+{
+"start_ref": "42001019",
+"start_ref_usfm": "LUK 1:19",
+"end_ref": "42001020",
+"end_ref_usfm": "LUK 1:20"
+},
+{
+"start_ref": "66016001",
+"start_ref_usfm": "REV 16:1",
+"end_ref": "66016012",
+"end_ref_usfm": "REV 16:12"
+},
+{
+"start_ref": "53001007",
+"start_ref_usfm": "2TH 1:7",
+"end_ref": "53001008",
+"end_ref_usfm": "2TH 1:8"
+},
+{
+"start_ref": "40013049",
+"start_ref_usfm": "MAT 13:49",
+"end_ref": "40013050",
+"end_ref_usfm": "MAT 13:50"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028008",
+"end_ref_usfm": "MAT 28:8"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012011",
+"end_ref_usfm": "ACT 12:11"
+},
+{
+"start_ref": "27008015",
+"start_ref_usfm": "DAN 8:15",
+"end_ref": "27008018",
+"end_ref_usfm": "DAN 8:18"
+},
+{
+"start_ref": "27009021",
+"start_ref_usfm": "DAN 9:21",
+"end_ref": "27009023",
+"end_ref_usfm": "DAN 9:23"
+},
+{
+"start_ref": "27010004",
+"start_ref_usfm": "DAN 10:4",
+"end_ref": "27011001",
+"end_ref_usfm": "DAN 11:1"
+},
+{
+"start_ref": "38001008",
+"start_ref_usfm": "ZEC 1:8",
+"end_ref": "38001013",
+"end_ref_usfm": "ZEC 1:13"
+},
+{
+"start_ref": "38002003",
+"start_ref_usfm": "ZEC 2:3",
+"end_ref": "38002005",
+"end_ref_usfm": "ZEC 2:5"
+},
+{
+"start_ref": "40028002",
+"start_ref_usfm": "MAT 28:2",
+"end_ref": "40028007",
+"end_ref_usfm": "MAT 28:7"
+},
+{
+"start_ref": "42001011",
+"start_ref_usfm": "LUK 1:11",
+"end_ref": "42001022",
+"end_ref_usfm": "LUK 1:22"
+},
+{
+"start_ref": "43020012",
+"start_ref_usfm": "JHN 20:12",
+"end_ref": "43020013",
+"end_ref_usfm": "JHN 20:13"
+},
+{
+"start_ref": "44007030",
+"start_ref_usfm": "ACT 7:30",
+"end_ref": "44007035",
+"end_ref_usfm": "ACT 7:35"
+},
+{
+"start_ref": "44010003",
+"start_ref_usfm": "ACT 10:3",
+"end_ref": "44010008",
+"end_ref_usfm": "ACT 10:8"
+},
+{
+"start_ref": "66001001",
+"start_ref_usfm": "REV 1:1",
+"end_ref": "66001002",
+"end_ref_usfm": "REV 1:2"
+},
+{
+"start_ref": "66007001",
+"start_ref_usfm": "REV 7:1",
+"end_ref": "66007002",
+"end_ref_usfm": "REV 7:2"
+},
+{
+"start_ref": "66008003",
+"start_ref_usfm": "REV 8:3",
+"end_ref": "66008008",
+"end_ref_usfm": "REV 8:8"
+},
+{
+"start_ref": "66010007",
+"start_ref_usfm": "REV 10:7",
+"end_ref": "66010009",
+"end_ref_usfm": "REV 10:9"
+},
+{
+"start_ref": "66014006",
+"start_ref_usfm": "REV 14:6",
+"end_ref": "66014010",
+"end_ref_usfm": "REV 14:10"
+},
+{
+"start_ref": "66022006",
+"start_ref_usfm": "REV 22:6",
+"end_ref": "66022009",
+"end_ref_usfm": "REV 22:9"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"preferred_label": "Angels",
+"confidence": 0.5618,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "708460",
+"reference_id": 203373,
+"version": "1.0.2",
+"title": "Apostasie",
+"media_type": "Text",
+"index_reference": "apostasie",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Malheureusement, l&apos;opposition à Dieu ne se limite pas aux personnes qui sont en dehors de la communauté de la foi. La Bible évoque de nombreuses personnes qui semblaient connaître Dieu mais se sont détournées de lui (voir <a href=\"https://ref.ly/Num16:1-Num16:50\">Nb 16</a> ; <a href=\"https://ref.ly/Deut13:1-Deut13:18\">Dt 13</a> ; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2R 17.5–23</a> ; <a href=\"https://ref.ly/Ezek8:1-Ezek8:18\">Ez 8</a>). Dieu inflige des conséquences justes à ceux qui se détournent de lui (<a href=\"https://ref.ly/Job11:20\">Jb 11.20</a> ; <a href=\"https://ref.ly/Prov1:24-Prov1:31\">Pr 1.24–31</a> ; <a href=\"https://ref.ly/Jer11:11\">Jr 11.11</a>). Jésus a parlé de personnes qui ne lui obéissent pas ou qui chutent et de leur jugement à venir (<a href=\"https://ref.ly/Matt7:21-Matt7:27\">Mt 7.21–27</a> ; <a href=\"https://ref.ly/Matt16:27\">16.27</a> ;<a href=\"https://ref.ly/Matt16:27\"> </a><a href=\"https://ref.ly/Matt24:10-Matt24:13\">24.10–13</a> ; <a href=\"https://ref.ly/Matt25:41-Matt25:46\">25.41–46</a>). Les auteurs du reste du Nouveau Testament mentionnent aussi de telles personnes (<a href=\"https://ref.ly/Gal1:6-Gal1:9\">Ga 1.6–9</a> ; <a href=\"https://ref.ly/2Tim3:1-2Tim3:9\">2Tm 3.1–9</a> ; <a href=\"https://ref.ly/2Pet2:1-2Pet2:22\">2P 2.1–22</a> ; <a href=\"https://ref.ly/1John2:18-1John2:19\">1Jn 2.18–19</a>).</p><p>La Bible enseigne clairement que de désobéir à Dieu entraîne de graves conséquences (p. ex. <a href=\"https://ref.ly/Gen9:5-Gen9:6\">Gn 9.5–6</a> ; <a href=\"https://ref.ly/Num35:16-Num35:21\">Nb 35.16–21</a> ; <a href=\"https://ref.ly/Lev20:10\">Lv 20.10</a> ; <a href=\"https://ref.ly/Zech5:4\">Za 5.4</a>). Dieu finira par séparer ceux qui s&apos;opposent à sa volonté et à son règne de sa présence (<a href=\"https://ref.ly/Isa66:14-Isa66:24\">Es 66.14–24</a>). Dans le Nouveau Testament, plusieurs passages dans Hébreux avertissent ceux qui ne prennent pas la parole de Dieu au sérieux. Ils s&apos;exposent à son jugement (<a href=\"https://ref.ly/Heb2:1-Heb2:4\">Hé 2.1–4</a> ; <a href=\"https://ref.ly/Heb4:12-Heb4:13\">4.12–13</a> ; <a href=\"https://ref.ly/Heb6:4-Heb6:8\">6.4–8</a> ; <a href=\"https://ref.ly/Heb10:26-Heb10:31\">10.26–31</a> ; <a href=\"https://ref.ly/Heb12:25-Heb12:29\">12.25–29</a>).</p><p>Les avertissements concernant l&apos;apostasie et le jugement dans l&apos;épître aux Hébreux ont été interprétés de différentes manières :</p><ol><li><p>Certains disent que les avertissements ont pour but de réveiller les auditeurs de leur paresse spirituelle. Selon ce point de vue, ils ne signifient pas réellement que des chrétiens pourraient finir par subir le jugement éternel.</p></li><li><p>D&apos;autres pensent que l&apos;auteur adresse ces avertissements à des Juifs qui ne s&apos;étaient pas encore convertis au christianisme. Ils étaient sous le jugement de Dieu parce qu&apos;ils ne faisaient pas encore partie de la nouvelle alliance en Jésus-Christ.</p></li><li><p>Un troisième point de vue est que les « apostats » sont des chrétiens. En raison de leur infidélité à Dieu, ils seront sévèrement jugés, mais ils seront quand même sauvés du jugement éternel.</p></li><li><p>Un quatrième point de vue propose que les apostats étaient autrefois des membres à part entière de la communauté chrétienne. Ils avaient pleinement fait l&apos;expérience de la foi, mais ensuite, ils se sont détournés de Jésus et de l&apos;Église.</p></li><li><p>Une cinquième opinion est que les apostats n&apos;ont jamais été de véritables croyants. Ils se sont intéressés à la foi ou pour des raisons différentes ont fait semblant de s&apos;être convertis, mais n&apos;ont jamais vraiment connu Jésus.</p></li></ol><p>Les avertissements contre l&apos;apostasie doivent être pris au sérieux. C&apos;est par sa grâce que Dieu avertit, afin que chacun soit conscient des périls de la désobéissance et ne néglige pas la foi. Ces avertissements s&apos;adressent aux rebelles, qui peuvent comprendre qu&apos;ils doivent se repentir de leurs péchés et de leur manque de foi.  Comprendre que l&apos;éloignement de la foi en Christ a des conséquences graves doit renforcer notre engagement à le suivre fidèlement.</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Num16:1-Num16:50\">Nombres 16.1–50</a> ; <a href=\"https://ref.ly/Deut13:1-Deut13:18\">Deutéronome 13.1–18</a> ; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2&nbsp;Rois 17.5–23</a> ; <a href=\"https://ref.ly/Ezek8:1-Ezek8:18\">Ézéchiel 8.1–18</a> ; <a href=\"https://ref.ly/Matt24:10-Matt24:13\">Matthieu 24.10–13</a> ; <a href=\"https://ref.ly/Gal1:6-Gal1:9\">Galates 1.6–9</a> ; <a href=\"https://ref.ly/2Tim3:1-2Tim3:9\">2 Timothée 3.1–9</a> ; <a href=\"https://ref.ly/Heb2:1-Heb2:4\">Hébreux 2.1–4</a> ; <a href=\"https://ref.ly/Heb6:4-Heb6:8\">6.4–8</a> ; <a href=\"https://ref.ly/Heb10:26-Heb10:31\">10.26–31</a> ; <a href=\"https://ref.ly/2Pet2:1-2Pet2:22\">2 Pierre 2.1–22</a> ; <a href=\"https://ref.ly/1John2:18-1John2:19\">1 Jean 2.18–19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03020010",
+"start_ref_usfm": "LEV 20:10",
+"end_ref": "03020010",
+"end_ref_usfm": "LEV 20:10"
+},
+{
+"start_ref": "18011020",
+"start_ref_usfm": "JOB 11:20",
+"end_ref": "18011020",
+"end_ref_usfm": "JOB 11:20"
+},
+{
+"start_ref": "24011011",
+"start_ref_usfm": "JER 11:11",
+"end_ref": "24011011",
+"end_ref_usfm": "JER 11:11"
+},
+{
+"start_ref": "38005004",
+"start_ref_usfm": "ZEC 5:4",
+"end_ref": "38005004",
+"end_ref_usfm": "ZEC 5:4"
+},
+{
+"start_ref": "40016027",
+"start_ref_usfm": "MAT 16:27",
+"end_ref": "40016027",
+"end_ref_usfm": "MAT 16:27"
+},
+{
+"start_ref": "40023013",
+"start_ref_usfm": "MAT 23:13",
+"end_ref": "40023013",
+"end_ref_usfm": "MAT 23:13"
+},
+{
+"start_ref": "04016001",
+"start_ref_usfm": "NUM 16:1",
+"end_ref": "04016050",
+"end_ref_usfm": "NUM 16:50"
+},
+{
+"start_ref": "05013001",
+"start_ref_usfm": "DEU 13:1",
+"end_ref": "05013018",
+"end_ref_usfm": "DEU 13:18"
+},
+{
+"start_ref": "48001006",
+"start_ref_usfm": "GAL 1:6",
+"end_ref": "48001009",
+"end_ref_usfm": "GAL 1:9"
+},
+{
+"start_ref": "58010026",
+"start_ref_usfm": "HEB 10:26",
+"end_ref": "58010031",
+"end_ref_usfm": "HEB 10:31"
+},
+{
+"start_ref": "58002001",
+"start_ref_usfm": "HEB 2:1",
+"end_ref": "58002004",
+"end_ref_usfm": "HEB 2:4"
+},
+{
+"start_ref": "58006004",
+"start_ref_usfm": "HEB 6:4",
+"end_ref": "58006008",
+"end_ref_usfm": "HEB 6:8"
+},
+{
+"start_ref": "61002001",
+"start_ref_usfm": "2PE 2:1",
+"end_ref": "61002022",
+"end_ref_usfm": "2PE 2:22"
+},
+{
+"start_ref": "04035016",
+"start_ref_usfm": "NUM 35:16",
+"end_ref": "04035021",
+"end_ref_usfm": "NUM 35:21"
+},
+{
+"start_ref": "01009005",
+"start_ref_usfm": "GEN 9:5",
+"end_ref": "01009006",
+"end_ref_usfm": "GEN 9:6"
+},
+{
+"start_ref": "40025041",
+"start_ref_usfm": "MAT 25:41",
+"end_ref": "40025046",
+"end_ref_usfm": "MAT 25:46"
+},
+{
+"start_ref": "55003001",
+"start_ref_usfm": "2TI 3:1",
+"end_ref": "55003009",
+"end_ref_usfm": "2TI 3:9"
+},
+{
+"start_ref": "26008001",
+"start_ref_usfm": "EZK 8:1",
+"end_ref": "26008018",
+"end_ref_usfm": "EZK 8:18"
+},
+{
+"start_ref": "58012025",
+"start_ref_usfm": "HEB 12:25",
+"end_ref": "58012029",
+"end_ref_usfm": "HEB 12:29"
+},
+{
+"start_ref": "58004012",
+"start_ref_usfm": "HEB 4:12",
+"end_ref": "58004013",
+"end_ref_usfm": "HEB 4:13"
+},
+{
+"start_ref": "12017005",
+"start_ref_usfm": "2KI 17:5",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "20001024",
+"start_ref_usfm": "PRO 1:24",
+"end_ref": "20001031",
+"end_ref_usfm": "PRO 1:31"
+},
+{
+"start_ref": "40024010",
+"start_ref_usfm": "MAT 24:10",
+"end_ref": "40024013",
+"end_ref_usfm": "MAT 24:13"
+},
+{
+"start_ref": "62002018",
+"start_ref_usfm": "1JN 2:18",
+"end_ref": "62002019",
+"end_ref_usfm": "1JN 2:19"
+},
+{
+"start_ref": "23066014",
+"start_ref_usfm": "ISA 66:14",
+"end_ref": "23066024",
+"end_ref_usfm": "ISA 66:24"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "708427",
+"reference_id": 203182,
+"version": "1.0.2",
+"title": "Apostasie et restauration",
+"media_type": "Text",
+"index_reference": "apostasie et restauration",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Quand le royaume d&apos;Israël s&apos;est divisé en deux royaumes, le nouveau royaume du Nord s&apos;est détourné de Dieu. En effet, le roi Jéroboam avait entraîné son peuple à se détourner de l&apos;Éternel pour adorer des idoles. Juda, le royaume du Sud, était l&apos;endroit où on adorait toujours l&apos;Éternel et où se trouvait le temple de Dieu et ses sacrificateurs. À cette époque, ceux qui avaient à cœur de chercher l&apos;Éternel sont partis du royaume du Nord pour aller vivre en Juda (<a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2Ch 11.13–17</a>). </p><p>Cependant, pendant une grande partie de son histoire, le royaume du Sud (Juda) s&apos;est aussi détourné de Dieu. Plusieurs des rois de Juda sont décrits comme ayant imité<span> les rois d’Israël. Achaz, par exemple, a fait fabriquer des </span>idoles en fonte (<a href=\"https://ref.ly/2Chr28:2\">28.2</a>). Il a sacrifié aux idoles de Damas (<a href=\"https://ref.ly/2Chr28:23\">2Ch 28.23</a>). Pendant son règne, le Temple a été négligé et ses portes fermées (<a href=\"https://ref.ly/2Chr28:24\">28.24</a> ; <a href=\"https://ref.ly/2Chr29:7\">29.7</a>, <a href=\"https://ref.ly/2Chr29:19\">19</a>). Achaz a établi des hauts lieux pour que le peuple puisse adorer les idoles dans tout son territoire (<a href=\"https://ref.ly/2Chr28:24-2Chr28:25\">28.24–25</a>). Même ceux qui étaient du royaume du Nord ont parfois écouté Dieu plus que lui (voir <a href=\"https://ref.ly/2Chr28:9-2Chr28:15\">28.9–15</a>).</p><p>Les deux livres des Chroniques ont été écrits alors que le royaume de Juda avait été puni par Dieu. Jérusalem et le Temple avaient été détruits et le peuple avait été envoyé en exil. L&apos;auteur de ces deux livres les a écrits pour montrer aux membres du peuple de Dieu que tout espoir n&apos;était pas perdu même s&apos;ils s&apos;étaient détournés de Dieu. Ces livres montrent que Dieu pardonne à ceux qui sont prêts à se repentir. Quand ceux qui ont abandonné Dieu reviennent à lui de tous leurs cœurs, ils peuvent être réconciliés avec Dieu et restaurés.</p><p>Le royaume de Juda s&apos;est à nouveau tourné vers Dieu pendant le règne d&apos;Ézéchias. Ces récits offrent un modèle d&apos;unité et de restauration après la repentance. Dès la première année de son règne, il a commencé à restaurer le Temple (<a href=\"https://ref.ly/2Chr29:3\">29.3</a>). Lorsque le roi Ézéchias a observé la Pâque avec son peuple, il a même invité les habitants du royaume du Nord à se joindre à eux. Il a ainsi rendu possible que les habitants des deux royaumes adorent l&apos;Éternel ensemble à nouveau (<a href=\"https://ref.ly/2Chr30:18-2Chr30:20\">30.18–20</a>). Dieu a fait prospérer Juda pendant le règne d&apos;Ézéchias. Sa prospérité et sa gloire rappelait la gloire de l&apos;époque du règne de Salomon quand Israël était encore une nation unie (<a href=\"https://ref.ly/2Chr30:26\">30.26</a> ; voir aussi <a href=\"https://ref.ly/2Chr7:8-2Chr7:10\">7.8–10</a>).</p><p>Quand Dieu a envoyé les Israélites des deux royaumes en exil, le peuple de l&apos;alliance n&apos;a pas été détruit complètement ou définitivement. La guérison spirituelle était toujours possible si le peuple choisissait de chercher le Seigneur. De nombreux prophètes de l&apos;Ancien Testament, qui ont averti les deux royaumes que Dieu allait les juger, les ont également appelés à la repentance et ont parlé de leur restauration future.</p><p>L&apos;espoir d&apos;un retour de ceux qui se sont détournés de Dieu s&apos;applique aussi à l&apos;Église. Dans les lettres aux Églises dans Apocalypse, Jésus dit aux Églises qui sont menacées par la persécution et par la corruption de revenir à lui et lui rester fidèles. Il les avertit, mais donne l&apos;occasion de se repentir, encourage les fidèles et fait des promesses à ceux qui entendent ce que dit l&apos;Esprit (<a href=\"https://ref.ly/Rev2:1-Rev3:22\">Ap 2–3</a>). Le royaume de Dieu triomphera et « <span>les portes du séjour des morts ne prévaudront point » contre son Église </span>(<a href=\"https://ref.ly/Matt16:18\">Mt 16.18</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">1&nbsp;Rois 21.1–29</a> ; <a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2 Chroniques 11.13–17</a> ; <a href=\"https://ref.ly/2Chr28:1-2Chr31:21\">28.1–31.21</a> ; <a href=\"https://ref.ly/2Chr33:1-2Chr33:20\">33.1–20</a> ; <a href=\"https://ref.ly/Jer18:7-Jer18:17\">Jérémie 18.7–17</a> ; <a href=\"https://ref.ly/Ezek16:1-Ezek16:63\">Ézéchiel 16.1–63</a> ; <a href=\"https://ref.ly/Ezek33:10-Ezek33:16\">33.10–16</a> ; <a href=\"https://ref.ly/Joel2:12-Joel2:32\">Jl 2.12–32</a> ; <a href=\"https://ref.ly/Luke19:2-Luke19:10\">Luc 19.2–10</a> ; <a href=\"https://ref.ly/1Cor6:9-1Cor6:11\">1 Corinthiens 6.9–11</a> ; <a href=\"https://ref.ly/1Tim1:15-1Tim1:17\">1 Timothée 1.15–17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14028002",
+"start_ref_usfm": "2CH 28:2",
+"end_ref": "14028002",
+"end_ref_usfm": "2CH 28:2"
+},
+{
+"start_ref": "14028023",
+"start_ref_usfm": "2CH 28:23",
+"end_ref": "14028023",
+"end_ref_usfm": "2CH 28:23"
+},
+{
+"start_ref": "14028024",
+"start_ref_usfm": "2CH 28:24",
+"end_ref": "14028024",
+"end_ref_usfm": "2CH 28:24"
+},
+{
+"start_ref": "14029003",
+"start_ref_usfm": "2CH 29:3",
+"end_ref": "14029003",
+"end_ref_usfm": "2CH 29:3"
+},
+{
+"start_ref": "14029007",
+"start_ref_usfm": "2CH 29:7",
+"end_ref": "14029007",
+"end_ref_usfm": "2CH 29:7"
+},
+{
+"start_ref": "14029019",
+"start_ref_usfm": "2CH 29:19",
+"end_ref": "14029019",
+"end_ref_usfm": "2CH 29:19"
+},
+{
+"start_ref": "14030026",
+"start_ref_usfm": "2CH 30:26",
+"end_ref": "14030026",
+"end_ref_usfm": "2CH 30:26"
+},
+{
+"start_ref": "40016018",
+"start_ref_usfm": "MAT 16:18",
+"end_ref": "40016018",
+"end_ref_usfm": "MAT 16:18"
+},
+{
+"start_ref": "26016001",
+"start_ref_usfm": "EZK 16:1",
+"end_ref": "26016063",
+"end_ref_usfm": "EZK 16:63"
+},
+{
+"start_ref": "11021001",
+"start_ref_usfm": "1KI 21:1",
+"end_ref": "11021029",
+"end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "46006009",
+"start_ref_usfm": "1CO 6:9",
+"end_ref": "46006011",
+"end_ref_usfm": "1CO 6:11"
+},
+{
+"start_ref": "29002012",
+"start_ref_usfm": "JOL 2:12",
+"end_ref": "29002032",
+"end_ref_usfm": "JOL 2:32"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033020",
+"end_ref_usfm": "2CH 33:20"
+},
+{
+"start_ref": "14028008",
+"start_ref_usfm": "2CH 28:8",
+"end_ref": "14028015",
+"end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "66002001",
+"start_ref_usfm": "REV 2:1",
+"end_ref": "66003022",
+"end_ref_usfm": "REV 3:22"
+},
+{
+"start_ref": "42019002",
+"start_ref_usfm": "LUK 19:2",
+"end_ref": "42019010",
+"end_ref_usfm": "LUK 19:10"
+},
+{
+"start_ref": "14011013",
+"start_ref_usfm": "2CH 11:13",
+"end_ref": "14011017",
+"end_ref_usfm": "2CH 11:17"
+},
+{
+"start_ref": "14028024",
+"start_ref_usfm": "2CH 28:24",
+"end_ref": "14028025",
+"end_ref_usfm": "2CH 28:25"
+},
+{
+"start_ref": "14007008",
+"start_ref_usfm": "2CH 7:8",
+"end_ref": "14007010",
+"end_ref_usfm": "2CH 7:10"
+},
+{
+"start_ref": "54001015",
+"start_ref_usfm": "1TI 1:15",
+"end_ref": "54001017",
+"end_ref_usfm": "1TI 1:17"
+},
+{
+"start_ref": "14028009",
+"start_ref_usfm": "2CH 28:9",
+"end_ref": "14028015",
+"end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "14030018",
+"start_ref_usfm": "2CH 30:18",
+"end_ref": "14030020",
+"end_ref_usfm": "2CH 30:20"
+},
+{
+"start_ref": "14028001",
+"start_ref_usfm": "2CH 28:1",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
+"start_ref": "24018007",
+"start_ref_usfm": "JER 18:7",
+"end_ref": "24018017",
+"end_ref_usfm": "JER 18:17"
+},
+{
+"start_ref": "26033010",
+"start_ref_usfm": "EZK 33:10",
+"end_ref": "26033016",
+"end_ref_usfm": "EZK 33:16"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "708455",
+"reference_id": 203343,
+"version": "1.0.2",
+"title": "Appartenir à Christ",
+"media_type": "Text",
+"index_reference": "appartenir à christ",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Pour beaucoup de gens aujourd&apos;hui, le Nouveau Testament semble présenter une vision extrême de la vie chrétienne. Dieu appelle les chrétiens à renoncer à leurs droits, à endurer la souffrance et même à faire face à la mort pour Jésus (<a href=\"https://ref.ly/Mark8:34-Mark8:36\">Mc 8.34–36</a>). Ils doivent se détourner des choses du mondes que tout le reste du monde poursuit (<a href=\"https://ref.ly/1John2:15-1John2:17\">1Jn 2.15–17</a>). Ils doivent même « haïr » leur vie dans ce monde (<a href=\"https://ref.ly/John12:24-John12:25\">Jn 12.24–25</a>). Paul conseille même aux chrétiens qui le peuvent de renoncer aux désirs habituels de mariage et de famille et de rester célibataires pour Jésus (<a href=\"https://ref.ly/1Cor7:7\">1Co 7.7</a>).</p><p>Quelle est la raison de cette vision extrême de la vie ? Paul explique que c&apos;est parce que les croyants appartiennent totalement à Jésus, que ce soient leurs corps ou leurs âmes. Quand Jésus est mort, il les a rachetés pour lui-même (<a href=\"https://ref.ly/1Cor6:20\">1Co 6.20</a>). Ils ne doivent plus vivre uniquement pour eux-mêmes et leurs propres désirs (<a href=\"https://ref.ly/2Cor5:14-2Cor5:15\">2Co 5.14–15</a>). Ayant renoncé à leurs intérêts personnels, ils doivent vivre pleinement pour leur Seigneur selon son appel (<a href=\"https://ref.ly/Rom14:7-Rom14:9\">Rm 14.7–9</a>).</p><p>Pour les vrais chrétiens, obéir à Jésus n&apos;est pas un lourd fardeau. C&apos;est une manière de montrer leur amour et leur loyauté à celui qui est mort pour eux. Pour le peuple de Jésus, la vie est pleine d&apos;occasions joyeuses de remercier Dieu pour la grâce qu&apos;il nous a manifestée à travers Jésus-Christ. Ils sont heureux de consacrer leur vie à servir celui qui a tout sacrifié pour eux (voir <a href=\"https://ref.ly/1John3:16\">1Jn 3.16</a>). Quand les chrétiens renoncent à leurs propres désirs, la vie de Jésus est manifestée en eux et à travers eux (<a href=\"https://ref.ly/Gal2:19-Gal2:20\">Ga 2.19–20</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Deut9:26\">Deutéronome 9.26</a>, <a href=\"https://ref.ly/Deut9:29\">29&nbsp;</a>; <a href=\"https://ref.ly/Deut32:9\">32.9&nbsp;</a>; <a href=\"https://ref.ly/1Kgs8:53\">1&nbsp;Rois 8.53&nbsp;</a>; <a href=\"https://ref.ly/Ps2:8\">Psaumes 2.8&nbsp;</a>; <a href=\"https://ref.ly/Ps28:9\">28.9&nbsp;</a>; <a href=\"https://ref.ly/Ezek18:4\">Ézéchiel 18.4&nbsp;</a>; <a href=\"https://ref.ly/Mark8:34-Mark8:36\">Marc 8.34–36&nbsp;</a>; <a href=\"https://ref.ly/Mark12:30\">12.30&nbsp;</a>; <a href=\"https://ref.ly/Rom14:7-Rom14:9\">Romains 14.7–9&nbsp;</a>; <a href=\"https://ref.ly/1Cor6:19-1Cor6:20\">1 Corinthiens 6.19–20&nbsp;</a>; <a href=\"https://ref.ly/1Cor7:20-1Cor7:24\">7.20–24&nbsp;</a>; <a href=\"https://ref.ly/1Cor7:32-1Cor7:35\">7.32–35&nbsp;</a>; <a href=\"https://ref.ly/2Cor5:14-2Cor5:15\">2 Corinthiens 5.14–15&nbsp;</a>; <a href=\"https://ref.ly/Gal2:19-Gal2:20\">Galates 2.19–20&nbsp;</a>; <a href=\"https://ref.ly/1Pet2:9-1Pet2:10\">1 Pierre 2.9–10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05009026",
+"start_ref_usfm": "DEU 9:26",
+"end_ref": "05009026",
+"end_ref_usfm": "DEU 9:26"
+},
+{
+"start_ref": "05009029",
+"start_ref_usfm": "DEU 9:29",
+"end_ref": "05009029",
+"end_ref_usfm": "DEU 9:29"
+},
+{
+"start_ref": "05032009",
+"start_ref_usfm": "DEU 32:9",
+"end_ref": "05032009",
+"end_ref_usfm": "DEU 32:9"
+},
+{
+"start_ref": "11008053",
+"start_ref_usfm": "1KI 8:53",
+"end_ref": "11008053",
+"end_ref_usfm": "1KI 8:53"
+},
+{
+"start_ref": "19002008",
+"start_ref_usfm": "PSA 2:8",
+"end_ref": "19002008",
+"end_ref_usfm": "PSA 2:8"
+},
+{
+"start_ref": "19028009",
+"start_ref_usfm": "PSA 28:9",
+"end_ref": "19028009",
+"end_ref_usfm": "PSA 28:9"
+},
+{
+"start_ref": "26018004",
+"start_ref_usfm": "EZK 18:4",
+"end_ref": "26018004",
+"end_ref_usfm": "EZK 18:4"
+},
+{
+"start_ref": "41012030",
+"start_ref_usfm": "MRK 12:30",
+"end_ref": "41012030",
+"end_ref_usfm": "MRK 12:30"
+},
+{
+"start_ref": "46006020",
+"start_ref_usfm": "1CO 6:20",
+"end_ref": "46006020",
+"end_ref_usfm": "1CO 6:20"
+},
+{
+"start_ref": "46007007",
+"start_ref_usfm": "1CO 7:7",
+"end_ref": "46007007",
+"end_ref_usfm": "1CO 7:7"
+},
+{
+"start_ref": "62003016",
+"start_ref_usfm": "1JN 3:16",
+"end_ref": "62003016",
+"end_ref_usfm": "1JN 3:16"
+},
+{
+"start_ref": "60002009",
+"start_ref_usfm": "1PE 2:9",
+"end_ref": "60002010",
+"end_ref_usfm": "1PE 2:10"
+},
+{
+"start_ref": "46007032",
+"start_ref_usfm": "1CO 7:32",
+"end_ref": "46007035",
+"end_ref_usfm": "1CO 7:35"
+},
+{
+"start_ref": "47005014",
+"start_ref_usfm": "2CO 5:14",
+"end_ref": "47005015",
+"end_ref_usfm": "2CO 5:15"
+},
+{
+"start_ref": "62002015",
+"start_ref_usfm": "1JN 2:15",
+"end_ref": "62002017",
+"end_ref_usfm": "1JN 2:17"
+},
+{
+"start_ref": "46006019",
+"start_ref_usfm": "1CO 6:19",
+"end_ref": "46006020",
+"end_ref_usfm": "1CO 6:20"
+},
+{
+"start_ref": "41008034",
+"start_ref_usfm": "MRK 8:34",
+"end_ref": "41008036",
+"end_ref_usfm": "MRK 8:36"
+},
+{
+"start_ref": "43012024",
+"start_ref_usfm": "JHN 12:24",
+"end_ref": "43012025",
+"end_ref_usfm": "JHN 12:25"
+},
+{
+"start_ref": "45014007",
+"start_ref_usfm": "ROM 14:7",
+"end_ref": "45014009",
+"end_ref_usfm": "ROM 14:9"
+},
+{
+"start_ref": "48002019",
+"start_ref_usfm": "GAL 2:19",
+"end_ref": "48002020",
+"end_ref_usfm": "GAL 2:20"
+},
+{
+"start_ref": "46007020",
+"start_ref_usfm": "1CO 7:20",
+"end_ref": "46007024",
+"end_ref_usfm": "1CO 7:24"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "708424",
+"reference_id": 203156,
+"version": "1.0.2",
+"title": "Appeler les morts",
+"media_type": "Text",
+"index_reference": "appeler les morts",
+"language": "fra",
+"review_level": "None",
+"content": "<p>L&apos;AT interdit des pratiques de sorcellerie ou magie telles que le spiritisme, la divination et la nécromancie. La nécromancie consiste à contacter les esprits des morts, généralement pour chercher des conseils sur l&apos;avenir (voir <a href=\"https://ref.ly/Deut18:9-Deut18:12\">Dt 18.9–12</a>). Pratiquer la nécromancie ou consulter un nécromancien étaient des crimes punis de mort (<a href=\"https://ref.ly/Lev20:6\">Lv 20.6</a>, <a href=\"https://ref.ly/Lev20:27\">27</a> ; voir aussi <a href=\"https://ref.ly/1Sam28:9\">1S 28.9</a>). Le peuple de Dieu devait se tourner vers lui et ses serviteurs pour savoir comment vivre et quelles décisions prendre.</p><p>Dieu a enterré Moïse dans une tombe cachée (<a href=\"https://ref.ly/Deut34:6\">Dt 34.6</a>). Il l&apos;a probablement fait pour empêcher les Israélites de transformer la tombe de Moïse en un lieu de culte idolâtre. Dieu ne voulait pas qu&apos;ils présentent des offrandes à l&apos;esprit de Moïse, l&apos;adorent ou essaient de contacter son esprit. Les Israélites auraient pu être tentés de faire ces choses, car ils avaient vu les Égyptiens les pratiquer. Comme Moïse avait eu un rôle si important comme médiateur de l&apos;alliance d&apos;Israël avec Dieu, ils auraient pu vouloir vénérer sa mémoire de manière inappropriée.</p><p>L&apos;AT interdit donc de chercher à contacter les morts pour parler avec eux (voir <a href=\"https://ref.ly/2Sam12:23\">2S 12.23 </a>; <a href=\"https://ref.ly/Job14:10-Job14:12\">Jb 14.10–12 </a>; <a href=\"https://ref.ly/Ps88:10\">Ps 88.11 </a>; <a href=\"https://ref.ly/Ps115:17\">115.17</a>). Il semble que Dieu ait fait une exception lorsqu&apos;il a permis au prophète Samuel de revenir et de parler avec Saül (voir <a href=\"https://ref.ly/1Sam28:12-1Sam28:19\">1S 28.12–19</a>). Cependant, Saül a gravement péché en essayant de contacter Samuel par l&apos;intermédiaire de quelqu&apos;un qui pratiquait cela (un médium). L&apos;auteur des Chroniques mentionne ce péché parmi les péchés qui en ont fait un mauvais roi, qui a perdu son royaume (voir <a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">1Ch 10.13–14</a>). Il n&apos;y a jamais de raison valide de pratiquer la nécromancie (chercher des conseils auprès des morts) alors que nous avons la parole de Dieu et son Esprit pour nous guider (<a href=\"https://ref.ly/2Tim3:15-2Tim3:17\">2Tm 3.15–17 </a>; <a href=\"https://ref.ly/Heb4:12-Heb4:13\">Hé 4.12–13</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Lev19:31\">Lévitique 19.31</a> ; <a href=\"https://ref.ly/Lev20:6-Lev20:8\">20.6–8</a>, <a href=\"https://ref.ly/Lev20:27\">27</a> ; <a href=\"https://ref.ly/Deut18:9-Deut18:12\">Deutéronome 18.9–12</a> ; <a href=\"https://ref.ly/1Sam28:1-1Sam28:25\">1 Samuel 28.1–25</a> ; <a href=\"https://ref.ly/2Kgs21:6\">2 Rois 21.6</a> ; <a href=\"https://ref.ly/2Kgs23:24\">23.24</a> ; <a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">1 Chroniques 10.13–14</a> ; <a href=\"https://ref.ly/Job14:10-Job14:12\">Job 14.10–12</a> ; <a href=\"https://ref.ly/Isa3:1-Isa3:3\">Ésaïe 3.1–3</a> ; <a href=\"https://ref.ly/Isa8:19-Isa8:22\">8.19–22</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019031",
+"end_ref_usfm": "LEV 19:31"
+},
+{
+"start_ref": "03020006",
+"start_ref_usfm": "LEV 20:6",
+"end_ref": "03020006",
+"end_ref_usfm": "LEV 20:6"
+},
+{
+"start_ref": "03020027",
+"start_ref_usfm": "LEV 20:27",
+"end_ref": "03020027",
+"end_ref_usfm": "LEV 20:27"
+},
+{
+"start_ref": "05034006",
+"start_ref_usfm": "DEU 34:6",
+"end_ref": "05034006",
+"end_ref_usfm": "DEU 34:6"
+},
+{
+"start_ref": "09028009",
+"start_ref_usfm": "1SA 28:9",
+"end_ref": "09028009",
+"end_ref_usfm": "1SA 28:9"
+},
+{
+"start_ref": "10012023",
+"start_ref_usfm": "2SA 12:23",
+"end_ref": "10012023",
+"end_ref_usfm": "2SA 12:23"
+},
+{
+"start_ref": "12021006",
+"start_ref_usfm": "2KI 21:6",
+"end_ref": "12021006",
+"end_ref_usfm": "2KI 21:6"
+},
+{
+"start_ref": "12023024",
+"start_ref_usfm": "2KI 23:24",
+"end_ref": "12023024",
+"end_ref_usfm": "2KI 23:24"
+},
+{
+"start_ref": "19088010",
+"start_ref_usfm": "PSA 88:10",
+"end_ref": "19088010",
+"end_ref_usfm": "PSA 88:10"
+},
+{
+"start_ref": "19115017",
+"start_ref_usfm": "PSA 115:17",
+"end_ref": "19115017",
+"end_ref_usfm": "PSA 115:17"
+},
+{
+"start_ref": "13010013",
+"start_ref_usfm": "1CH 10:13",
+"end_ref": "13010014",
+"end_ref_usfm": "1CH 10:14"
+},
+{
+"start_ref": "09028001",
+"start_ref_usfm": "1SA 28:1",
+"end_ref": "09028025",
+"end_ref_usfm": "1SA 28:25"
+},
+{
+"start_ref": "58004012",
+"start_ref_usfm": "HEB 4:12",
+"end_ref": "58004013",
+"end_ref_usfm": "HEB 4:13"
+},
+{
+"start_ref": "23008019",
+"start_ref_usfm": "ISA 8:19",
+"end_ref": "23008022",
+"end_ref_usfm": "ISA 8:22"
+},
+{
+"start_ref": "05018009",
+"start_ref_usfm": "DEU 18:9",
+"end_ref": "05018012",
+"end_ref_usfm": "DEU 18:12"
+},
+{
+"start_ref": "18014010",
+"start_ref_usfm": "JOB 14:10",
+"end_ref": "18014012",
+"end_ref_usfm": "JOB 14:12"
+},
+{
+"start_ref": "09028012",
+"start_ref_usfm": "1SA 28:12",
+"end_ref": "09028019",
+"end_ref_usfm": "1SA 28:19"
+},
+{
+"start_ref": "55003015",
+"start_ref_usfm": "2TI 3:15",
+"end_ref": "55003017",
+"end_ref_usfm": "2TI 3:17"
+},
+{
+"start_ref": "03020006",
+"start_ref_usfm": "LEV 20:6",
+"end_ref": "03020008",
+"end_ref_usfm": "LEV 20:8"
+},
+{
+"start_ref": "23003001",
+"start_ref_usfm": "ISA 3:1",
+"end_ref": "23003003",
+"end_ref_usfm": "ISA 3:3"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "708408",
+"reference_id": 203104,
+"version": "1.0.2",
+"title": "Autels",
+"media_type": "Text",
+"index_reference": "autels",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Le premier autel explicitement mentionné dans la Bible est celui que Noé construit (<a href=\"https://ref.ly/Gen8:20-Gen8:21\">Gn 8.20–21</a>). Cependant, Caïn et Abel avaient déjà offert des sacrifices à Dieu bien avant lui (<a href=\"https://ref.ly/Gen4:3-Gen4:5\">Gn 4.3–5</a>). Les patriarches ont aussi construit de nombreux autels (voir <a href=\"https://ref.ly/Gen12:7-Gen12:8\">Gn 12.7–8 </a>; <a href=\"https://ref.ly/Gen13:4\">13.4</a>, <a href=\"https://ref.ly/Gen13:18\">18 </a>; <a href=\"https://ref.ly/Gen22:9\">22.9 </a>; <a href=\"https://ref.ly/Gen26:25\">26.25 </a>; <a href=\"https://ref.ly/Gen33:20\">33.20 </a>; <a href=\"https://ref.ly/Gen35:1\">35.1</a>, <a href=\"https://ref.ly/Gen35:14-Gen35:15\">14–15</a>). Ces autels désignaient parfois des lieux où Dieu s&apos;était révélé. D&apos;autres fois, il étaient construits pour revendiquer la propriété de terres en Terre promise. Ainsi, des autels ont été construits au nord (à Sichem) et au sud (Beer-Schéba).</p><p>Les autels pouvaient être faits avec de la pierre, de la terre, des briques, du métal ou du bois. Le haut de l&apos;autel était une surface plane comme une table, d&apos;où la fumée pouvait aisément s&apos;élever vers le ciel. Les autels pouvaient servir de monuments commémoratifs ou d&apos;endroit où offrir des sacrifices. C&apos;étaient les symboles de culte les plus courants dans l&apos;Ancien Testament et dans le monde antique.</p><p>Habituellement, un autel était sur une plateforme surélevée à laquelle on accédait avec une rampe ou des escaliers. Ceci élevait le lieu des sacrifices vers le ciel. Les quatre cornes aux coins de nombreux autels délimitaient une zone sacrée dans laquelle le monde humain et le monde divin se rencontraient (voir <a href=\"https://ref.ly/Exod27:2\">Ex 27.2</a>). En offrant le sacrifice et en le brûlant, il passait du monde visible au monde invisible.</p><p>Jésus incarne en lui-même les différents rôles symboliques du souverain sacrificateur, de l&apos;agneau sacrificiel et de l&apos;autel (voir <a href=\"https://ref.ly/Heb4:14-Heb4:15\">Hé 4.14–15 </a>; <a href=\"https://ref.ly/Heb7:24\">7.24</a>, <a href=\"https://ref.ly/Heb7:27\">27 </a>; <a href=\"https://ref.ly/Heb9:14\">9.14</a>, <a href=\"https://ref.ly/Heb9:26\">26 </a>; <a href=\"https://ref.ly/Heb10:10\">10.10 </a>; <a href=\"https://ref.ly/Heb13:10\">13.10</a>, <a href=\"https://ref.ly/Heb13:12\">12</a>). Il a prophétisé son propre sacrifice en évoquant le sang des martyrs (voir <a href=\"https://ref.ly/Matt23:35\">Mt 23.35 </a>; <a href=\"https://ref.ly/Luke11:50-Luke11:51\">Lc 11.50–51</a>). Sa crucifixion représente le sacrifice ultime sur « l&apos;autel » de la croix. Par conséquent, l&apos;« agneau » qui siège en tant que roi dans l&apos;Apocalypse rend inutile d&apos;avoir un temple et un autel sur terre (<a href=\"https://ref.ly/Rev21:22\">Ap 21.22</a>).</p><p><u>Passages pour une étude plus approfondie</u></p><p><a href=\"https://ref.ly/Gen8:20-Gen8:21\">Genèse 8.20–21</a> ; <a href=\"https://ref.ly/Gen12:7-Gen12:8\">12.7–8</a> ; <a href=\"https://ref.ly/Gen22:9-Gen22:14\">22.9–14</a> ; <a href=\"https://ref.ly/Gen33:20\">33.20</a> ; <a href=\"https://ref.ly/Exod20:24-Exod20:26\">Exode 20.24–26</a> ; <a href=\"https://ref.ly/Josh22:10-Josh22:34\">Josué 22.10–34</a> ; <a href=\"https://ref.ly/1Kgs18:20-1Kgs18:40\">1&nbsp;Rois 18.20–40</a> ; <a href=\"https://ref.ly/Hos8:11-Hos8:13\">Osée 8.11–13</a> ; <a href=\"https://ref.ly/Matt5:23-Matt5:24\">Matthieu 5.23–24</a> ; <a href=\"https://ref.ly/Heb13:10-Heb13:14\">Hébreux 13.10–14</a> ; <a href=\"https://ref.ly/Rev6:9\">Apocalypse 6.9</a> ; <a href=\"https://ref.ly/Rev8:3-Rev8:5\">8.3–5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01013004",
+"start_ref_usfm": "GEN 13:4",
+"end_ref": "01013004",
+"end_ref_usfm": "GEN 13:4"
+},
+{
+"start_ref": "01013018",
+"start_ref_usfm": "GEN 13:18",
+"end_ref": "01013018",
+"end_ref_usfm": "GEN 13:18"
+},
+{
+"start_ref": "01022009",
+"start_ref_usfm": "GEN 22:9",
+"end_ref": "01022009",
+"end_ref_usfm": "GEN 22:9"
+},
+{
+"start_ref": "01026025",
+"start_ref_usfm": "GEN 26:25",
+"end_ref": "01026025",
+"end_ref_usfm": "GEN 26:25"
+},
+{
+"start_ref": "01033020",
+"start_ref_usfm": "GEN 33:20",
+"end_ref": "01033020",
+"end_ref_usfm": "GEN 33:20"
+},
+{
+"start_ref": "01035001",
+"start_ref_usfm": "GEN 35:1",
+"end_ref": "01035001",
+"end_ref_usfm": "GEN 35:1"
+},
+{
+"start_ref": "02027002",
+"start_ref_usfm": "EXO 27:2",
+"end_ref": "02027002",
+"end_ref_usfm": "EXO 27:2"
+},
+{
+"start_ref": "40023035",
+"start_ref_usfm": "MAT 23:35",
+"end_ref": "40023035",
+"end_ref_usfm": "MAT 23:35"
+},
+{
+"start_ref": "58007024",
+"start_ref_usfm": "HEB 7:24",
+"end_ref": "58007024",
+"end_ref_usfm": "HEB 7:24"
+},
+{
+"start_ref": "58007027",
+"start_ref_usfm": "HEB 7:27",
+"end_ref": "58007027",
+"end_ref_usfm": "HEB 7:27"
+},
+{
+"start_ref": "58009014",
+"start_ref_usfm": "HEB 9:14",
+"end_ref": "58009014",
+"end_ref_usfm": "HEB 9:14"
+},
+{
+"start_ref": "58009026",
+"start_ref_usfm": "HEB 9:26",
+"end_ref": "58009026",
+"end_ref_usfm": "HEB 9:26"
+},
+{
+"start_ref": "58010010",
+"start_ref_usfm": "HEB 10:10",
+"end_ref": "58010010",
+"end_ref_usfm": "HEB 10:10"
+},
+{
+"start_ref": "58013010",
+"start_ref_usfm": "HEB 13:10",
+"end_ref": "58013010",
+"end_ref_usfm": "HEB 13:10"
+},
+{
+"start_ref": "58013012",
+"start_ref_usfm": "HEB 13:12",
+"end_ref": "58013012",
+"end_ref_usfm": "HEB 13:12"
+},
+{
+"start_ref": "66006009",
+"start_ref_usfm": "REV 6:9",
+"end_ref": "66006009",
+"end_ref_usfm": "REV 6:9"
+},
+{
+"start_ref": "66021022",
+"start_ref_usfm": "REV 21:22",
+"end_ref": "66021022",
+"end_ref_usfm": "REV 21:22"
+},
+{
+"start_ref": "02020024",
+"start_ref_usfm": "EXO 20:24",
+"end_ref": "02020026",
+"end_ref_usfm": "EXO 20:26"
+},
+{
+"start_ref": "40005023",
+"start_ref_usfm": "MAT 5:23",
+"end_ref": "40005024",
+"end_ref_usfm": "MAT 5:24"
+},
+{
+"start_ref": "06022010",
+"start_ref_usfm": "JOS 22:10",
+"end_ref": "06022034",
+"end_ref_usfm": "JOS 22:34"
+},
+{
+"start_ref": "66008003",
+"start_ref_usfm": "REV 8:3",
+"end_ref": "66008005",
+"end_ref_usfm": "REV 8:5"
+},
+{
+"start_ref": "01004003",
+"start_ref_usfm": "GEN 4:3",
+"end_ref": "01004005",
+"end_ref_usfm": "GEN 4:5"
+},
+{
+"start_ref": "01035014",
+"start_ref_usfm": "GEN 35:14",
+"end_ref": "01035015",
+"end_ref_usfm": "GEN 35:15"
+},
+{
+"start_ref": "01008020",
+"start_ref_usfm": "GEN 8:20",
+"end_ref": "01008021",
+"end_ref_usfm": "GEN 8:21"
+},
+{
+"start_ref": "01012007",
+"start_ref_usfm": "GEN 12:7",
+"end_ref": "01012008",
+"end_ref_usfm": "GEN 12:8"
+},
+{
+"start_ref": "58004014",
+"start_ref_usfm": "HEB 4:14",
+"end_ref": "58004015",
+"end_ref_usfm": "HEB 4:15"
+},
+{
+"start_ref": "42011050",
+"start_ref_usfm": "LUK 11:50",
+"end_ref": "42011051",
+"end_ref_usfm": "LUK 11:51"
+},
+{
+"start_ref": "01022009",
+"start_ref_usfm": "GEN 22:9",
+"end_ref": "01022014",
+"end_ref_usfm": "GEN 22:14"
+},
+{
+"start_ref": "11018020",
+"start_ref_usfm": "1KI 18:20",
+"end_ref": "11018040",
+"end_ref_usfm": "1KI 18:40"
+},
+{
+"start_ref": "28008011",
+"start_ref_usfm": "HOS 8:11",
+"end_ref": "28008013",
+"end_ref_usfm": "HOS 8:13"
+},
+{
+"start_ref": "58013010",
+"start_ref_usfm": "HEB 13:10",
+"end_ref": "58013014",
+"end_ref_usfm": "HEB 13:14"
+}
+],
+"resource": [],
+"acai": []
+}
+}
 ]

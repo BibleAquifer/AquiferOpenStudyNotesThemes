@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-02-25",
+"date_created": "2026-02-27",
 "language": "por",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-25T21:41:09.945487"
+"dateCreated": "2026-02-27T17:23:56.240508"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-02-25T21:41:09.945487"
+"timestamp": "2026-02-27T17:23:56.240508"
 }
 }
 },
@@ -96,7 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 8692,
+"size": 6890,
 "scope": {
 "“": [
 "“Crença” no evangelho de João"
@@ -105,7 +105,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 6602,
+"size": 5640,
 "scope": {
 "\"": [
 "\"Ele Virá\""
@@ -114,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 767768,
+"size": 625948,
 "scope": {
 "a": [
 "A adoração de anjos",
@@ -200,7 +200,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 50260,
+"size": 40802,
 "scope": {
 "b": [
 "Babel: A dispersão das nações",
@@ -213,7 +213,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 213927,
+"size": 174171,
 "scope": {
 "c": [
 "Caos social em Juízes",
@@ -245,7 +245,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 88510,
+"size": 71884,
 "scope": {
 "d": [
 "Dedicação completa",
@@ -262,7 +262,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 73227,
+"size": 60903,
 "scope": {
 "e": [
 "Encontros com Jesus",
@@ -276,7 +276,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 45908,
+"size": 37356,
 "scope": {
 "f": [
 "Falsos profetas",
@@ -288,7 +288,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 11290,
+"size": 9376,
 "scope": {
 "g": [
 "Guerra santa"
@@ -297,7 +297,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 22347,
+"size": 18957,
 "scope": {
 "h": [
 "Herdando a terra",
@@ -308,7 +308,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 29217,
+"size": 24249,
 "scope": {
 "i": [
 "Identidade da comunidade",
@@ -320,7 +320,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 102262,
+"size": 82454,
 "scope": {
 "j": [
 "Jerusalém",
@@ -336,7 +336,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 92792,
+"size": 77088,
 "scope": {
 "l": [
 "Legalismo",
@@ -356,7 +356,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 66548,
+"size": 54540,
 "scope": {
 "m": [
 "Mal-entendido no evangelho de João",
@@ -372,7 +372,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 42480,
+"size": 34208,
 "scope": {
 "n": [
 "Nome de Deus em seu templo",
@@ -384,7 +384,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 570273,
+"size": 465073,
 "scope": {
 "o": [
 "O amor de Deus por Israel",
@@ -448,7 +448,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 189564,
+"size": 154858,
 "scope": {
 "p": [
 "Palavra de Deus",
@@ -477,7 +477,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 3920,
+"size": 3630,
 "scope": {
 "q": [
 "Quatro impérios mundiais"
@@ -486,7 +486,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 143837,
+"size": 118335,
 "scope": {
 "r": [
 "Raiva",
@@ -513,7 +513,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 234875,
+"size": 189783,
 "scope": {
 "s": [
 "Sabedoria",
@@ -543,7 +543,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 43284,
+"size": 36392,
 "scope": {
 "t": [
 "Temendo pessoas",
@@ -557,7 +557,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 61201,
+"size": 49997,
 "scope": {
 "v": [
 "Verdadeiro sucesso",
@@ -571,7 +571,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 3783
+"size": 3695
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -579,23 +579,23 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 323928
+"size": 322712
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 21498
+"size": 21439
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 89690
+"size": 89421
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 37471
+"size": 37347
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 34434
+"size": 34372
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
@@ -607,7 +607,7 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 12319
+"size": 12249
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
@@ -615,27 +615,27 @@
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 41298
+"size": 41236
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 43728
+"size": 43610
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 29324
+"size": 29262
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 17368
+"size": 17309
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 239132
+"size": 238757
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 81293
+"size": 81090
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
@@ -643,19 +643,19 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 64486
+"size": 64241
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 94333
+"size": 94044
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 22016
+"size": 21957
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 26093
+"size": 25961
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
