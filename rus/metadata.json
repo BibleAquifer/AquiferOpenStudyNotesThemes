@@ -114,11 +114,11 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 1474
+"size": 1476
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 5988
+"size": 5990
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -126,7 +126,7 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 172188
+"size": 172062
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -134,7 +134,7 @@
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 195221
+"size": 195082
 }
 },
 "copyright": {
