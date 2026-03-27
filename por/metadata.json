@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-02-27",
+"date_created": "2026-03-27",
 "language": "por",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:23:56.240508"
+"dateCreated": "2026-03-27T16:28:10.312310"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-02-27T17:23:56.240508"
+"timestamp": "2026-03-27T16:28:10.312310"
 }
 }
 },
@@ -96,25 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 6890,
-"scope": {
-"“": [
-"“Crença” no evangelho de João"
-]
-}
-},
-"json/002.content.json": {
-"mimeType": "text/json",
-"size": 5640,
-"scope": {
-"\"": [
-"\"Ele Virá\""
-]
-}
-},
-"json/003.content.json": {
-"mimeType": "text/json",
-"size": 625948,
+"size": 625947,
 "scope": {
 "a": [
 "A adoração de anjos",
@@ -198,9 +180,9 @@
 ]
 }
 },
-"json/004.content.json": {
+"json/002.content.json": {
 "mimeType": "text/json",
-"size": 40802,
+"size": 40801,
 "scope": {
 "b": [
 "Babel: A dispersão das nações",
@@ -211,9 +193,9 @@
 ]
 }
 },
-"json/005.content.json": {
+"json/003.content.json": {
 "mimeType": "text/json",
-"size": 174171,
+"size": 181051,
 "scope": {
 "c": [
 "Caos social em Juízes",
@@ -239,32 +221,34 @@
 "Conhecendo Deus",
 "Conselho de outros",
 "Corações endurecidos",
+"“Crença” no evangelho de João",
 "Crianças e pais"
 ]
 }
 },
-"json/006.content.json": {
+"json/004.content.json": {
 "mimeType": "text/json",
-"size": 71884,
+"size": 71878,
 "scope": {
 "d": [
 "Dedicação completa",
 "Descanso sabático de Deus",
 "Destruição completa",
 "Deus age através da oração",
+"Deus, o guerreiro santo",
 "Deus ou Satanás?",
 "Deus protege o seu servo",
-"Deus, o guerreiro santo",
 "Dizeres \"Eu Sou\" de Jesus",
 "Doação cristã"
 ]
 }
 },
-"json/007.content.json": {
+"json/005.content.json": {
 "mimeType": "text/json",
-"size": 60903,
+"size": 66536,
 "scope": {
 "e": [
+"\"Ele Virá\"",
 "Encontros com Jesus",
 "Escravidão",
 "Escuridão e luz",
@@ -274,9 +258,9 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/006.content.json": {
 "mimeType": "text/json",
-"size": 37356,
+"size": 37355,
 "scope": {
 "f": [
 "Falsos profetas",
@@ -286,7 +270,7 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
 "size": 9376,
 "scope": {
@@ -295,7 +279,7 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
 "size": 18957,
 "scope": {
@@ -306,7 +290,7 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
 "size": 24249,
 "scope": {
@@ -318,9 +302,9 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 82454,
+"size": 82451,
 "scope": {
 "j": [
 "Jerusalém",
@@ -334,9 +318,9 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
-"size": 77088,
+"size": 77083,
 "scope": {
 "l": [
 "Legalismo",
@@ -354,13 +338,13 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
-"size": 54540,
+"size": 54539,
 "scope": {
 "m": [
-"Mal-entendido no evangelho de João",
 "Maldições e bênçãos",
+"Mal-entendido no evangelho de João",
 "Maturidade espiritual",
 "Mensagens contra as nações",
 "Milagres",
@@ -370,7 +354,7 @@
 ]
 }
 },
-"json/015.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
 "size": 34208,
 "scope": {
@@ -382,9 +366,9 @@
 ]
 }
 },
-"json/016.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
-"size": 465073,
+"size": 465068,
 "scope": {
 "o": [
 "O amor de Deus por Israel",
@@ -446,7 +430,7 @@
 ]
 }
 },
-"json/017.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
 "size": 154858,
 "scope": {
@@ -475,7 +459,7 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
 "size": 3630,
 "scope": {
@@ -484,9 +468,9 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
-"size": 118335,
+"size": 118334,
 "scope": {
 "r": [
 "Raiva",
@@ -511,7 +495,7 @@
 ]
 }
 },
-"json/020.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
 "size": 189783,
 "scope": {
@@ -541,9 +525,9 @@
 ]
 }
 },
-"json/021.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
-"size": 36392,
+"size": 36386,
 "scope": {
 "t": [
 "Temendo pessoas",
@@ -555,7 +539,7 @@
 ]
 }
 },
-"json/022.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
 "size": 49997,
 "scope": {
@@ -571,267 +555,243 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 3697
+"size": 322868
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 4246
+"size": 21449
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 322868
+"size": 92479
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 21449
+"size": 37365
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 89469
+"size": 37943
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 37365
+"size": 19717
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 34384
+"size": 6087
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 19717
+"size": 12255
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 6087
+"size": 14137
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 12255
+"size": 41252
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 14137
+"size": 43634
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 41252
+"size": 29278
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 43634
+"size": 17317
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 29278
+"size": 238869
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 17317
+"size": 81132
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 238869
+"size": 3479
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 81132
+"size": 64279
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 3479
+"size": 94088
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 64279
-},
-"md/020.content.md": {
-"mimeType": "text/markdown",
-"size": 94088
-},
-"md/021.content.md": {
-"mimeType": "text/markdown",
 "size": 21969
 },
-"md/022.content.md": {
+"md/020.content.md": {
 "mimeType": "text/markdown",
 "size": 25973
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43585
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 195285
+"size": 163429
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43763
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 204921
+"size": 50804
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 163429
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1918290
+"size": 77731
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50804
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 305717
+"size": 57243
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 76502
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 699949
+"size": 57040
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 57226
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 397055
+"size": 49915
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55638
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 357543
+"size": 44691
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49915
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 302977
+"size": 47508
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44691
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 192419
+"size": 48183
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47508
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 228502
+"size": 58125
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48183
-},
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 264453
+"size": 59189
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 58125
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 448065
+"size": 53920
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 59189
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 418369
+"size": 49289
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53885
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 367752
+"size": 133880
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49289
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 295169
+"size": 73859
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 133880
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1495723
+"size": 43535
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 73859
-},
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 647856
+"size": 67568
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43535
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 204834
+"size": 77862
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 67568
-},
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 538905
+"size": 51024
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 77862
+"size": 52313
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 2249017
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 189454
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 684271
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 289132
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 292380
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 188608
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 81489
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 114829
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 131070
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 340237
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 318849
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 240147
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 172634
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1695473
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 580712
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 62800
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 449410
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 721181
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 174105
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 742030
-},
-"docx/021.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51024
-},
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 278585
-},
-"docx/022.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52313
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 364696
+"size": 234412
 }
 },
 "copyright": {
@@ -1060,7 +1020,7 @@
 "800269": {
 "content_id": "800269",
 "reference_id": 203100,
-"index_reference": "babel: a dispersão das nações",
+"index_reference": "babel a dispersão das nações",
 "localizations": {
 "eng": {
 "content_id": 500157,
@@ -1844,7 +1804,7 @@
 "800291": {
 "content_id": "800291",
 "reference_id": 203122,
-"index_reference": "limpo, impuro e sagrado",
+"index_reference": "limpo impuro e sagrado",
 "localizations": {
 "eng": {
 "content_id": 500179,
@@ -1955,7 +1915,7 @@
 "800294": {
 "content_id": "800294",
 "reference_id": 203125,
-"index_reference": "família, comunidade e pecado sexual",
+"index_reference": "família comunidade e pecado sexual",
 "localizations": {
 "eng": {
 "content_id": 500182,
@@ -2549,7 +2509,7 @@
 "800311": {
 "content_id": "800311",
 "reference_id": 203142,
-"index_reference": "responsabilidade da comunidade: o pecado de acã",
+"index_reference": "responsabilidade da comunidade o pecado de acã",
 "localizations": {
 "eng": {
 "content_id": 500199,
@@ -3222,7 +3182,7 @@
 "800330": {
 "content_id": "800330",
 "reference_id": 203161,
-"index_reference": "deus ou satanás?",
+"index_reference": "deus ou satanás",
 "localizations": {
 "eng": {
 "content_id": 500218,
@@ -3875,7 +3835,7 @@
 "800349": {
 "content_id": "800349",
 "reference_id": 203180,
-"index_reference": "deus, o guerreiro santo",
+"index_reference": "deus o guerreiro santo",
 "localizations": {
 "eng": {
 "content_id": 500237,
@@ -4082,7 +4042,7 @@
 "800355": {
 "content_id": "800355",
 "reference_id": 203186,
-"index_reference": "casamento inter-racial e divórcio",
+"index_reference": "casamento interracial e divórcio",
 "localizations": {
 "eng": {
 "content_id": 500243,
@@ -5033,7 +4993,7 @@
 "800383": {
 "content_id": "800383",
 "reference_id": 203214,
-"index_reference": "o rei-criador",
+"index_reference": "o reicriador",
 "localizations": {
 "eng": {
 "content_id": 500271,
@@ -5548,7 +5508,7 @@
 "800398": {
 "content_id": "800398",
 "reference_id": 203229,
-"index_reference": "tudo é “ilusão”",
+"index_reference": "tudo é ilusão",
 "localizations": {
 "eng": {
 "content_id": 500286,
@@ -5622,7 +5582,7 @@
 "800400": {
 "content_id": "800400",
 "reference_id": 203231,
-"index_reference": "lembre-se dele",
+"index_reference": "lembrese dele",
 "localizations": {
 "eng": {
 "content_id": 500288,
@@ -8010,7 +7970,7 @@
 "800469": {
 "content_id": "800469",
 "reference_id": 203300,
-"index_reference": "louvor e júbilo em lucas–atos",
+"index_reference": "louvor e júbilo em lucasatos",
 "localizations": {
 "eng": {
 "content_id": 500357,
@@ -8372,7 +8332,7 @@
 "800480": {
 "content_id": "800480",
 "reference_id": 203311,
-"index_reference": "“crença” no evangelho de joão",
+"index_reference": "crença no evangelho de joão",
 "localizations": {
 "eng": {
 "content_id": 500368,
@@ -8446,7 +8406,7 @@
 "800482": {
 "content_id": "800482",
 "reference_id": 203313,
-"index_reference": "mal-entendido no evangelho de joão",
+"index_reference": "malentendido no evangelho de joão",
 "localizations": {
 "eng": {
 "content_id": 500370,
@@ -8547,7 +8507,7 @@
 "800485": {
 "content_id": "800485",
 "reference_id": 203316,
-"index_reference": "dizeres \"eu sou\" de jesus",
+"index_reference": "dizeres eu sou de jesus",
 "localizations": {
 "eng": {
 "content_id": 500373,
@@ -8993,7 +8953,7 @@
 "800498": {
 "content_id": "800498",
 "reference_id": 203329,
-"index_reference": "a mensagem das boas-novas",
+"index_reference": "a mensagem das boasnovas",
 "localizations": {
 "eng": {
 "content_id": 500386,
@@ -9360,7 +9320,7 @@
 "800509": {
 "content_id": "800509",
 "reference_id": 203340,
-"index_reference": "judeus e gentios (não-judeus)",
+"index_reference": "judeus e gentios nãojudeus",
 "localizations": {
 "eng": {
 "content_id": 500397,
@@ -10040,7 +10000,7 @@
 "800529": {
 "content_id": "800529",
 "reference_id": 203360,
-"index_reference": "o hino de cristo: a natureza divina de cristo",
+"index_reference": "o hino de cristo a natureza divina de cristo",
 "localizations": {
 "eng": {
 "content_id": 500417,
@@ -10109,7 +10069,7 @@
 "800531": {
 "content_id": "800531",
 "reference_id": 203362,
-"index_reference": "o mistério das boas-novas",
+"index_reference": "o mistério das boasnovas",
 "localizations": {
 "eng": {
 "content_id": 500419,
@@ -10210,7 +10170,7 @@
 "800534": {
 "content_id": "800534",
 "reference_id": 203365,
-"index_reference": "\"ele virá\"",
+"index_reference": "ele virá",
 "localizations": {
 "eng": {
 "content_id": 500422,
@@ -11129,7 +11089,7 @@
 "800561": {
 "content_id": "800561",
 "reference_id": 203392,
-"index_reference": "os mil anos (o milênio)",
+"index_reference": "os mil anos o milênio",
 "localizations": {
 "eng": {
 "content_id": 500449,

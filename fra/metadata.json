@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-02-27",
+"date_created": "2026-03-27",
 "language": "fra",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:23:54.483754"
+"dateCreated": "2026-03-27T16:28:08.536755"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-02-27T17:23:54.483754"
+"timestamp": "2026-03-27T16:28:08.536755"
 }
 }
 },
@@ -96,9 +96,9 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 6919,
+"size": 6914,
 "scope": {
-"«": [
+" ": [
 "« Croire » dans l'Évangile de Jean"
 ]
 }
@@ -121,7 +121,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 31660,
+"size": 31659,
 "scope": {
 "b": [
 "Babel : la dispersion des nations",
@@ -132,7 +132,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 58795,
+"size": 58794,
 "scope": {
 "c": [
 "Célébration",
@@ -147,7 +147,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 75126,
+"size": 75122,
 "scope": {
 "d": [
 "Destruction complète",
@@ -174,7 +174,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 35028,
+"size": 35027,
 "scope": {
 "f": [
 "Famille, communauté et péchés sexuels",
@@ -194,7 +194,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 14082,
+"size": 14080,
 "scope": {
 "h": [
 "Hérésies à l'époque de l'Église primitive",
@@ -223,24 +223,9 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 554207,
+"size": 554173,
 "scope": {
 "l": [
-"L'achèvement du Second Temple",
-"L'alliance de Dieu avec Abraham",
-"L'alliance de Dieu avec David",
-"L'Alliance de Dieu avec les rois d'Israël",
-"L'amour de Dieu dans le contexte de l'alliance",
-"L'amour de Dieu pour Israël",
-"L'amour entre chrétiens",
-"L'ascension de Jésus",
-"L'attente du Messie",
-"L'eau vive",
-"L'endurcissement du cœur",
-"L'engagement de Dieu envers son peuple",
-"L'espoir au-delà du jugement",
-"L'incompréhension humaine face aux desseins de Dieu",
-"L'innocence de Job",
 "La beauté de la nature",
 "La circoncision",
 "La colère de Dieu",
@@ -267,6 +252,15 @@
 "La sainteté vient de Dieu",
 "La sexualité humaine",
 "La stérilité (incapacité d'avoir des enfants)",
+"L'achèvement du Second Temple",
+"L'alliance de Dieu avec Abraham",
+"L'alliance de Dieu avec David",
+"L'Alliance de Dieu avec les rois d'Israël",
+"L'amour de Dieu dans le contexte de l'alliance",
+"L'amour de Dieu pour Israël",
+"L'amour entre chrétiens",
+"L'ascension de Jésus",
+"L'attente du Messie",
 "Le chagrin de Dieu face à l'apostasie",
 "Le Dieu qui est unique",
 "Le jugement de Dieu sur son peuple",
@@ -280,6 +274,9 @@
 "Le retour du Seigneur",
 "Le royaume que Dieu promet",
 "Le Serviteur de Dieu",
+"L'eau vive",
+"L'endurcissement du cœur",
+"L'engagement de Dieu envers son peuple",
 "Les alliances de Dieu",
 "Les ancêtres de Jésus",
 "Les déclarations « je suis » de Jésus",
@@ -297,7 +294,10 @@
 "Les présents pour influencer",
 "Les prières de Jésus",
 "Les repas en commun",
-"Les serviteurs appelés par l'Esprit"
+"Les serviteurs appelés par l'Esprit",
+"L'espoir au-delà du jugement",
+"L'incompréhension humaine face aux desseins de Dieu",
+"L'innocence de Job"
 ]
 }
 },
@@ -315,7 +315,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 62978,
+"size": 62975,
 "scope": {
 "p": [
 "Par la foi",
@@ -341,7 +341,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 56038,
+"size": 56036,
 "scope": {
 "r": [
 "Réaction de David à son roi injuste (Saül)",
@@ -367,7 +367,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 32287,
+"size": 32283,
 "scope": {
 "t": [
 "Ténèbres et lumière",
@@ -462,155 +462,155 @@
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43557
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 194536
+"size": 43560
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 56667
 },
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 388267
-},
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 49181
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 274622
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 54832
 },
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 378429
-},
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 58802
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 412478
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45440
 },
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 201585
-},
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 50019
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 298140
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45292
 },
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 212231
-},
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46516
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 216065
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43889
 },
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 182375
-},
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46878
 },
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 257045
-},
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 158394
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1638418
+"size": 158252
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 50453
 },
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 295533
-},
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 56100
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 387370
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43641
 },
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 204630
-},
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 56593
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 350184
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 51439
 },
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 320658
-},
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48947
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 269241
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43333
 },
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 73843
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 281831
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 153783
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 244287
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 287356
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 90847
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 173969
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 97360
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 96857
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 67360
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 127386
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1821203
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 177679
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 255342
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 63351
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 234677
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 197753
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 168411
+},
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 210740
+"size": 71326
 }
 },
 "copyright": {
@@ -743,7 +743,7 @@
 "708406": {
 "content_id": "708406",
 "reference_id": 203100,
-"index_reference": "babel : la dispersion des nations",
+"index_reference": "babel  la dispersion des nations",
 "localizations": {
 "eng": {
 "content_id": 500157,
@@ -817,7 +817,7 @@
 "734173": {
 "content_id": "734173",
 "reference_id": 203102,
-"index_reference": "l'alliance de dieu avec abraham",
+"index_reference": "lalliance de dieu avec abraham",
 "localizations": {
 "eng": {
 "content_id": 500159,
@@ -928,7 +928,7 @@
 "734174": {
 "content_id": "734174",
 "reference_id": 203105,
-"index_reference": "la stérilité (incapacité d'avoir des enfants)",
+"index_reference": "la stérilité incapacité davoir des enfants",
 "localizations": {
 "eng": {
 "content_id": 500162,
@@ -1113,7 +1113,7 @@
 "734177": {
 "content_id": "734177",
 "reference_id": 203111,
-"index_reference": "l'endurcissement du cœur",
+"index_reference": "lendurcissement du cœur",
 "localizations": {
 "eng": {
 "content_id": 500168,
@@ -1303,7 +1303,7 @@
 "708413": {
 "content_id": "708413",
 "reference_id": 203122,
-"index_reference": "pur, impur, et saint",
+"index_reference": "pur impur et saint",
 "localizations": {
 "eng": {
 "content_id": 500179,
@@ -1414,7 +1414,7 @@
 "708415": {
 "content_id": "708415",
 "reference_id": 203125,
-"index_reference": "famille, communauté et péchés sexuels",
+"index_reference": "famille communauté et péchés sexuels",
 "localizations": {
 "eng": {
 "content_id": 500182,
@@ -1646,7 +1646,7 @@
 "734181": {
 "content_id": "734181",
 "reference_id": 203139,
-"index_reference": "l'amour de dieu dans le contexte de l'alliance",
+"index_reference": "lamour de dieu dans le contexte de lalliance",
 "localizations": {
 "eng": {
 "content_id": 500196,
@@ -1720,7 +1720,7 @@
 "708421": {
 "content_id": "708421",
 "reference_id": 203142,
-"index_reference": "la responsabilité collective : le péché d'acan",
+"index_reference": "la responsabilité collective  le péché dacan",
 "localizations": {
 "eng": {
 "content_id": 500199,
@@ -1794,7 +1794,7 @@
 "708422": {
 "content_id": "708422",
 "reference_id": 203146,
-"index_reference": "les serviteurs appelés par l'esprit",
+"index_reference": "les serviteurs appelés par lesprit",
 "localizations": {
 "eng": {
 "content_id": 500203,
@@ -1836,7 +1836,7 @@
 "734184": {
 "content_id": "734184",
 "reference_id": 203147,
-"index_reference": "le chagrin de dieu face à l'apostasie",
+"index_reference": "le chagrin de dieu face à lapostasie",
 "localizations": {
 "eng": {
 "content_id": 500204,
@@ -1915,7 +1915,7 @@
 "734185": {
 "content_id": "734185",
 "reference_id": 203154,
-"index_reference": "dieu se repent-il ?",
+"index_reference": "dieu se repentil ",
 "localizations": {
 "eng": {
 "content_id": 500211,
@@ -2026,7 +2026,7 @@
 "734186": {
 "content_id": "734186",
 "reference_id": 203158,
-"index_reference": "réaction de david à son roi injuste (saül)",
+"index_reference": "réaction de david à son roi injuste saül",
 "localizations": {
 "eng": {
 "content_id": 500215,
@@ -2100,7 +2100,7 @@
 "734187": {
 "content_id": "734187",
 "reference_id": 203160,
-"index_reference": "l'alliance de dieu avec david",
+"index_reference": "lalliance de dieu avec david",
 "localizations": {
 "eng": {
 "content_id": 500217,
@@ -2137,7 +2137,7 @@
 "734188": {
 "content_id": "734188",
 "reference_id": 203161,
-"index_reference": "dieu ou satan ?",
+"index_reference": "dieu ou satan ",
 "localizations": {
 "eng": {
 "content_id": 500218,
@@ -2211,7 +2211,7 @@
 "734190": {
 "content_id": "734190",
 "reference_id": 203163,
-"index_reference": "l'alliance de dieu avec les rois d'israël",
+"index_reference": "lalliance de dieu avec les rois disraël",
 "localizations": {
 "eng": {
 "content_id": 500220,
@@ -2544,7 +2544,7 @@
 "708428": {
 "content_id": "708428",
 "reference_id": 203185,
-"index_reference": "l'achèvement du second temple",
+"index_reference": "lachèvement du second temple",
 "localizations": {
 "eng": {
 "content_id": 500242,
@@ -2692,7 +2692,7 @@
 "756854": {
 "content_id": "756854",
 "reference_id": 203193,
-"index_reference": "purim, pourim",
+"index_reference": "purim pourim",
 "localizations": {
 "eng": {
 "content_id": 500250,
@@ -2840,7 +2840,7 @@
 "734201": {
 "content_id": "734201",
 "reference_id": 203199,
-"index_reference": "l'innocence de job",
+"index_reference": "linnocence de job",
 "localizations": {
 "eng": {
 "content_id": 500256,
@@ -2951,7 +2951,7 @@
 "734204": {
 "content_id": "734204",
 "reference_id": 203213,
-"index_reference": "comprendre l'exil",
+"index_reference": "comprendre lexil",
 "localizations": {
 "eng": {
 "content_id": 500270,
@@ -3247,7 +3247,7 @@
 "708437": {
 "content_id": "708437",
 "reference_id": 203229,
-"index_reference": "tout est « vanité »",
+"index_reference": "tout est  vanité ",
 "localizations": {
 "eng": {
 "content_id": 500286,
@@ -3617,7 +3617,7 @@
 "734214": {
 "content_id": "734214",
 "reference_id": 203252,
-"index_reference": "l'espoir au-delà du jugement",
+"index_reference": "lespoir audelà du jugement",
 "localizations": {
 "eng": {
 "content_id": 500309,
@@ -3844,7 +3844,7 @@
 "734217": {
 "content_id": "734217",
 "reference_id": 203264,
-"index_reference": "la géographie symbolique d'israël dans la vision d'ézéchiel",
+"index_reference": "la géographie symbolique disraël dans la vision dézéchiel",
 "localizations": {
 "eng": {
 "content_id": 500321,
@@ -3992,7 +3992,7 @@
 "734221": {
 "content_id": "734221",
 "reference_id": 203274,
-"index_reference": "l'incompréhension humaine face aux desseins de dieu",
+"index_reference": "lincompréhension humaine face aux desseins de dieu",
 "localizations": {
 "eng": {
 "content_id": 500331,
@@ -4029,7 +4029,7 @@
 "734222": {
 "content_id": "734222",
 "reference_id": 203278,
-"index_reference": "l'engagement de dieu envers son peuple",
+"index_reference": "lengagement de dieu envers son peuple",
 "localizations": {
 "eng": {
 "content_id": 500335,
@@ -4066,7 +4066,7 @@
 "734223": {
 "content_id": "734223",
 "reference_id": 203279,
-"index_reference": "l'amour de dieu pour israël",
+"index_reference": "lamour de dieu pour israël",
 "localizations": {
 "eng": {
 "content_id": 500336,
@@ -4493,7 +4493,7 @@
 "734229": {
 "content_id": "734229",
 "reference_id": 203302,
-"index_reference": "l'attente du messie",
+"index_reference": "lattente du messie",
 "localizations": {
 "eng": {
 "content_id": 500359,
@@ -4567,7 +4567,7 @@
 "708449": {
 "content_id": "708449",
 "reference_id": 203311,
-"index_reference": "« croire » dans l'évangile de jean",
+"index_reference": " croire  dans lévangile de jean",
 "localizations": {
 "eng": {
 "content_id": 500368,
@@ -4604,7 +4604,7 @@
 "734231": {
 "content_id": "734231",
 "reference_id": 203312,
-"index_reference": "l'eau vive",
+"index_reference": "leau vive",
 "localizations": {
 "eng": {
 "content_id": 500369,
@@ -4678,7 +4678,7 @@
 "708450": {
 "content_id": "708450",
 "reference_id": 203316,
-"index_reference": "les déclarations « je suis » de jésus",
+"index_reference": "les déclarations  je suis  de jésus",
 "localizations": {
 "eng": {
 "content_id": 500373,
@@ -4752,7 +4752,7 @@
 "734234": {
 "content_id": "734234",
 "reference_id": 203321,
-"index_reference": "l'ascension de jésus",
+"index_reference": "lascension de jésus",
 "localizations": {
 "eng": {
 "content_id": 500378,
@@ -5011,7 +5011,7 @@
 "734237": {
 "content_id": "734237",
 "reference_id": 203340,
-"index_reference": "les juifs et les païens (les non-juifs)",
+"index_reference": "les juifs et les païens les nonjuifs",
 "localizations": {
 "eng": {
 "content_id": 500397,
@@ -5418,7 +5418,7 @@
 "708459": {
 "content_id": "708459",
 "reference_id": 203370,
-"index_reference": "dirigeants de l'église",
+"index_reference": "dirigeants de léglise",
 "localizations": {
 "eng": {
 "content_id": 500427,
@@ -5640,7 +5640,7 @@
 "734246": {
 "content_id": "734246",
 "reference_id": 203379,
-"index_reference": "l'amour entre chrétiens",
+"index_reference": "lamour entre chrétiens",
 "localizations": {
 "eng": {
 "content_id": 500436,
@@ -5714,7 +5714,7 @@
 "708464": {
 "content_id": "708464",
 "reference_id": 203384,
-"index_reference": "hérésies à l'époque de l'église primitive",
+"index_reference": "hérésies à lépoque de léglise primitive",
 "localizations": {
 "eng": {
 "content_id": 500441,

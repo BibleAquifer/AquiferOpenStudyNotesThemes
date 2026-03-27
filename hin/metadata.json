@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-02-27",
+"date_created": "2026-03-27",
 "language": "hin",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:23:55.021276"
+"dateCreated": "2026-03-27T16:28:09.073084"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-02-27T17:23:55.021276"
+"timestamp": "2026-03-27T16:28:09.073084"
 }
 }
 },
@@ -96,24 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 93986,
-"scope": {
-"व": [
-"\"वह आएगा\"",
-"वचन",
-"वाचा का सन्दूक",
-"विपत्तियाँ",
-"विवाह और यौनसम्बन्ध",
-"विश्वास और अच्छे कर्म",
-"विश्वास के द्वारा",
-"विश्वास द्वारा धार्मिकता",
-"वेदी"
-]
-}
-},
-"json/002.content.json": {
-"mimeType": "text/json",
-"size": 186918,
+"size": 186917,
 "scope": {
 "अ": [
 "अंतकालीन साहित्य",
@@ -135,9 +118,9 @@
 ]
 }
 },
-"json/003.content.json": {
+"json/002.content.json": {
 "mimeType": "text/json",
-"size": 59381,
+"size": 59380,
 "scope": {
 "आ": [
 "आत्मा की उपस्थिति",
@@ -148,7 +131,7 @@
 ]
 }
 },
-"json/004.content.json": {
+"json/003.content.json": {
 "mimeType": "text/json",
 "size": 40745,
 "scope": {
@@ -160,7 +143,7 @@
 ]
 }
 },
-"json/005.content.json": {
+"json/004.content.json": {
 "mimeType": "text/json",
 "size": 11099,
 "scope": {
@@ -169,7 +152,7 @@
 ]
 }
 },
-"json/006.content.json": {
+"json/005.content.json": {
 "mimeType": "text/json",
 "size": 17358,
 "scope": {
@@ -179,9 +162,9 @@
 ]
 }
 },
-"json/007.content.json": {
+"json/006.content.json": {
 "mimeType": "text/json",
-"size": 142012,
+"size": 142011,
 "scope": {
 "क": [
 "कठिन भीड़ को प्रचार करना",
@@ -200,7 +183,7 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
 "size": 20196,
 "scope": {
@@ -210,7 +193,7 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
 "size": 15122,
 "scope": {
@@ -219,7 +202,7 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
 "size": 10593,
 "scope": {
@@ -228,7 +211,7 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
 "size": 30398,
 "scope": {
@@ -240,7 +223,7 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
 "size": 35479,
 "scope": {
@@ -251,7 +234,7 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
 "size": 12524,
 "scope": {
@@ -260,7 +243,7 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
 "size": 38536,
 "scope": {
@@ -273,7 +256,7 @@
 ]
 }
 },
-"json/015.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
 "size": 8455,
 "scope": {
@@ -282,7 +265,7 @@
 ]
 }
 },
-"json/016.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
 "size": 10453,
 "scope": {
@@ -291,7 +274,7 @@
 ]
 }
 },
-"json/017.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
 "size": 10148,
 "scope": {
@@ -300,9 +283,9 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
-"size": 143653,
+"size": 143652,
 "scope": {
 "द": [
 "दर्शन",
@@ -320,7 +303,7 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
 "size": 70634,
 "scope": {
@@ -336,7 +319,7 @@
 ]
 }
 },
-"json/020.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
 "size": 112298,
 "scope": {
@@ -355,7 +338,7 @@
 ]
 }
 },
-"json/021.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
 "size": 45743,
 "scope": {
@@ -367,9 +350,9 @@
 ]
 }
 },
-"json/022.content.json": {
+"json/021.content.json": {
 "mimeType": "text/json",
-"size": 620529,
+"size": 620523,
 "scope": {
 "प": [
 "पत्थर जिसे राजमिस्त्रियों ने निकम्मा ठहराया",
@@ -427,7 +410,7 @@
 ]
 }
 },
-"json/023.content.json": {
+"json/022.content.json": {
 "mimeType": "text/json",
 "size": 147331,
 "scope": {
@@ -448,7 +431,7 @@
 ]
 }
 },
-"json/024.content.json": {
+"json/023.content.json": {
 "mimeType": "text/json",
 "size": 7151,
 "scope": {
@@ -457,9 +440,9 @@
 ]
 }
 },
-"json/025.content.json": {
+"json/024.content.json": {
 "mimeType": "text/json",
-"size": 172579,
+"size": 172575,
 "scope": {
 "ब": [
 "बँधुआई का अर्थ समझना",
@@ -481,9 +464,9 @@
 ]
 }
 },
-"json/026.content.json": {
+"json/025.content.json": {
 "mimeType": "text/json",
-"size": 129452,
+"size": 129449,
 "scope": {
 "भ": [
 "भजन संहिता में उद्धार",
@@ -499,9 +482,9 @@
 ]
 }
 },
-"json/027.content.json": {
+"json/026.content.json": {
 "mimeType": "text/json",
-"size": 279589,
+"size": 279587,
 "scope": {
 "म": [
 "मन को हठीला करना",
@@ -534,9 +517,9 @@
 ]
 }
 },
-"json/028.content.json": {
+"json/027.content.json": {
 "mimeType": "text/json",
-"size": 260243,
+"size": 260228,
 "scope": {
 "य": [
 "यरूशलेम",
@@ -559,15 +542,15 @@
 "यीशु के पूर्वज",
 "यीशु से मुलाकात",
 "यूहन्ना की शिष्यता का वर्णन",
-"यूहन्ना के सुसमाचार में “विश्वास”",
 "यूहन्ना के सुसमाचार में गलतफहमी",
-"यूहन्ना के सुसमाचार में चमत्कारी चिन्ह"
+"यूहन्ना के सुसमाचार में चमत्कारी चिन्ह",
+"यूहन्ना के सुसमाचार में “विश्वास”"
 ]
 }
 },
-"json/029.content.json": {
+"json/028.content.json": {
 "mimeType": "text/json",
-"size": 29103,
+"size": 29102,
 "scope": {
 "र": [
 "रंगमच और प्रकाशन",
@@ -577,14 +560,31 @@
 ]
 }
 },
-"json/030.content.json": {
+"json/029.content.json": {
 "mimeType": "text/json",
-"size": 30214,
+"size": 30211,
 "scope": {
 "ल": [
 "लिखित शब्द",
 "लूका के सुसमाचार में धनवान और कंगाल",
 "लूका–प्रेरितों के काम में स्तुति और आनन्द"
+]
+}
+},
+"json/030.content.json": {
+"mimeType": "text/json",
+"size": 93982,
+"scope": {
+"व": [
+"वचन",
+"\"वह आएगा\"",
+"वाचा का सन्दूक",
+"विपत्तियाँ",
+"विवाह और यौनसम्बन्ध",
+"विश्वास और अच्छे कर्म",
+"विश्वास के द्वारा",
+"विश्वास द्वारा धार्मिकता",
+"वेदी"
 ]
 }
 },
@@ -601,13 +601,13 @@
 },
 "json/032.content.json": {
 "mimeType": "text/json",
-"size": 76370,
+"size": 76369,
 "scope": {
 "श": [
 "शरणनगर",
 "शाही भजन",
-"शुद्ध आराधना",
 "शुद्ध, अशुद्ध और पवित्र",
+"शुद्ध आराधना",
 "शुभ समाचार संदेश",
 "शेकेम",
 "शैतान पर विजय पाना"
@@ -625,7 +625,7 @@
 },
 "json/034.content.json": {
 "mimeType": "text/json",
-"size": 304786,
+"size": 304777,
 "scope": {
 "स": [
 "संघर्ष से निपटना",
@@ -681,7 +681,7 @@
 },
 "json/037.content.json": {
 "mimeType": "text/json",
-"size": 15324,
+"size": 15322,
 "scope": {
 "ह": [
 "हज़ार साल (सहस्राब्दी)",
@@ -691,123 +691,123 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 69166
+"size": 128172
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 128172
+"size": 39740
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 39740
+"size": 28187
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 28187
+"size": 8328
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 8328
+"size": 12265
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 12265
+"size": 102957
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 102957
+"size": 13261
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 13261
+"size": 10976
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 10976
+"size": 9334
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 9334
+"size": 22777
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 22777
+"size": 24673
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 24673
+"size": 10107
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 10107
+"size": 28502
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 28502
+"size": 6578
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 6578
+"size": 8931
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 8931
+"size": 9350
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 9350
+"size": 97059
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 97059
+"size": 52261
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 52261
+"size": 82583
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 82583
+"size": 31840
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 31840
+"size": 428484
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 428484
+"size": 106222
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 106222
+"size": 5888
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 5888
+"size": 114823
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 114823
+"size": 82743
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 82743
+"size": 193737
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 193737
+"size": 178408
 },
 "md/028.content.md": {
 "mimeType": "text/markdown",
-"size": 178408
+"size": 23008
 },
 "md/029.content.md": {
 "mimeType": "text/markdown",
-"size": 23008
+"size": 21174
 },
 "md/030.content.md": {
 "mimeType": "text/markdown",
-"size": 21174
+"size": 69166
 },
 "md/031.content.md": {
 "mimeType": "text/markdown",
@@ -839,299 +839,299 @@
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 59330
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 533591
+"size": 74001
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 74001
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 793386
+"size": 52425
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52425
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 413002
+"size": 49878
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49878
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 333020
+"size": 44501
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44501
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 250176
+"size": 45732
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45732
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 260934
+"size": 67116
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 67116
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 672882
+"size": 45949
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45949
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 246579
+"size": 45127
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45127
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 230097
+"size": 44639
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44639
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 243722
+"size": 48438
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48438
-},
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 296224
+"size": 48921
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48921
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 335212
+"size": 44793
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44793
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 251430
+"size": 49694
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49694
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 352912
+"size": 43962
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43962
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 228397
+"size": 44524
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44524
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 234567
+"size": 44577
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44577
-},
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 236986
+"size": 66326
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 66326
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 688224
+"size": 55508
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55508
-},
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 436583
+"size": 62497
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 62497
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 582875
+"size": 50746
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50746
-},
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 384617
+"size": 144889
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 144889
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2002422
+"size": 68636
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 68636
-},
-"pdf/023.content.pdf": {
-"mimeType": "application/pdf",
-"size": 673027
+"size": 43853
 },
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43853
-},
-"pdf/024.content.pdf": {
-"mimeType": "application/pdf",
-"size": 205756
+"size": 71169
 },
 "docx/025.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 71169
-},
-"pdf/025.content.pdf": {
-"mimeType": "application/pdf",
-"size": 786473
+"size": 62351
 },
 "docx/026.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 62351
-},
-"pdf/026.content.pdf": {
-"mimeType": "application/pdf",
-"size": 582640
+"size": 89815
 },
 "docx/027.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 89815
-},
-"pdf/027.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1072094
+"size": 85706
 },
 "docx/028.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 85776
-},
-"pdf/028.content.pdf": {
-"mimeType": "application/pdf",
-"size": 989781
+"size": 48205
 },
 "docx/029.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48205
-},
-"pdf/029.content.pdf": {
-"mimeType": "application/pdf",
-"size": 289956
+"size": 47804
 },
 "docx/030.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47804
-},
-"pdf/030.content.pdf": {
-"mimeType": "application/pdf",
-"size": 304826
+"size": 59339
 },
 "docx/031.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48265
 },
-"pdf/031.content.pdf": {
-"mimeType": "application/pdf",
-"size": 298517
-},
 "docx/032.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55611
-},
-"pdf/032.content.pdf": {
-"mimeType": "application/pdf",
-"size": 485750
+"size": 55569
 },
 "docx/033.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43817
 },
-"pdf/033.content.pdf": {
-"mimeType": "application/pdf",
-"size": 228746
-},
 "docx/034.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 93804
-},
-"pdf/034.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1130160
 },
 "docx/035.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43686
 },
-"pdf/035.content.pdf": {
-"mimeType": "application/pdf",
-"size": 227093
-},
 "docx/036.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 49500
-},
-"pdf/036.content.pdf": {
-"mimeType": "application/pdf",
-"size": 323714
 },
 "docx/037.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45323
 },
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 892072
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 340143
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 241991
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 116069
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 142651
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 725385
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 152846
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 128634
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 118165
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 204529
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 224006
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 122269
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 243270
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 101772
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 112461
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 111484
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 696966
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 389708
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 577298
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 267573
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 2787763
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 719149
+},
+"pdf/023.content.pdf": {
+"mimeType": "application/pdf",
+"size": 95838
+},
+"pdf/024.content.pdf": {
+"mimeType": "application/pdf",
+"size": 824569
+},
+"pdf/025.content.pdf": {
+"mimeType": "application/pdf",
+"size": 635289
+},
+"pdf/026.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1329045
+},
+"pdf/027.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1227643
+},
+"pdf/028.content.pdf": {
+"mimeType": "application/pdf",
+"size": 202697
+},
+"pdf/029.content.pdf": {
+"mimeType": "application/pdf",
+"size": 202380
+},
+"pdf/030.content.pdf": {
+"mimeType": "application/pdf",
+"size": 494596
+},
+"pdf/031.content.pdf": {
+"mimeType": "application/pdf",
+"size": 206363
+},
+"pdf/032.content.pdf": {
+"mimeType": "application/pdf",
+"size": 412633
+},
+"pdf/033.content.pdf": {
+"mimeType": "application/pdf",
+"size": 98643
+},
+"pdf/034.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1419405
+},
+"pdf/035.content.pdf": {
+"mimeType": "application/pdf",
+"size": 102741
+},
+"pdf/036.content.pdf": {
+"mimeType": "application/pdf",
+"size": 252333
+},
 "pdf/037.content.pdf": {
 "mimeType": "application/pdf",
-"size": 252745
+"size": 134995
 }
 },
 "copyright": {
@@ -1360,7 +1360,7 @@
 "709329": {
 "content_id": "709329",
 "reference_id": 203100,
-"index_reference": "बाबेल: राष्ट्रों का बिखराव",
+"index_reference": "बाबेल राष्ट्रों का बिखराव",
 "localizations": {
 "eng": {
 "content_id": 500157,
@@ -2144,7 +2144,7 @@
 "709351": {
 "content_id": "709351",
 "reference_id": 203122,
-"index_reference": "शुद्ध, अशुद्ध और पवित्र",
+"index_reference": "शुद्ध अशुद्ध और पवित्र",
 "localizations": {
 "eng": {
 "content_id": 500179,
@@ -2255,7 +2255,7 @@
 "709354": {
 "content_id": "709354",
 "reference_id": 203125,
-"index_reference": "परिवार, समाज, और यौन पाप",
+"index_reference": "परिवार समाज और यौन पाप",
 "localizations": {
 "eng": {
 "content_id": 500182,
@@ -2440,7 +2440,7 @@
 "709359": {
 "content_id": "709359",
 "reference_id": 203130,
-"index_reference": "आत्मा-सशक्तिकरण",
+"index_reference": "आत्मासशक्तिकरण",
 "localizations": {
 "eng": {
 "content_id": 500187,
@@ -2472,7 +2472,7 @@
 "709360": {
 "content_id": "709360",
 "reference_id": 203131,
-"index_reference": "दास-अगुवा",
+"index_reference": "दासअगुवा",
 "localizations": {
 "eng": {
 "content_id": 500188,
@@ -2743,7 +2743,7 @@
 "709368": {
 "content_id": "709368",
 "reference_id": 203139,
-"index_reference": "परमेश्वर का वाचा-प्रेम",
+"index_reference": "परमेश्वर का वाचाप्रेम",
 "localizations": {
 "eng": {
 "content_id": 500196,
@@ -2849,7 +2849,7 @@
 "709371": {
 "content_id": "709371",
 "reference_id": 203142,
-"index_reference": "सामुदायिक ज़िम्मेदारी: आकान का पाप",
+"index_reference": "सामुदायिक ज़िम्मेदारी आकान का पाप",
 "localizations": {
 "eng": {
 "content_id": 500199,
@@ -3337,7 +3337,7 @@
 "709385": {
 "content_id": "709385",
 "reference_id": 203156,
-"index_reference": "भूत-सिद्धि",
+"index_reference": "भूतसिद्धि",
 "localizations": {
 "eng": {
 "content_id": 500213,
@@ -3522,7 +3522,7 @@
 "709390": {
 "content_id": "709390",
 "reference_id": 203161,
-"index_reference": "परमेश्वर या शैतान?",
+"index_reference": "परमेश्वर या शैतान",
 "localizations": {
 "eng": {
 "content_id": 500218,
@@ -3697,7 +3697,7 @@
 "709395": {
 "content_id": "709395",
 "reference_id": 203166,
-"index_reference": "भूमि (देश)",
+"index_reference": "भूमि देश",
 "localizations": {
 "eng": {
 "content_id": 500223,
@@ -3931,7 +3931,7 @@
 "709402": {
 "content_id": "709402",
 "reference_id": 203173,
-"index_reference": "राज-वंश का वादा",
+"index_reference": "राजवंश का वादा",
 "localizations": {
 "eng": {
 "content_id": 500230,
@@ -5333,7 +5333,7 @@
 "709443": {
 "content_id": "709443",
 "reference_id": 203214,
-"index_reference": "सृष्टिकर्ता-राजा",
+"index_reference": "सृष्टिकर्ताराजा",
 "localizations": {
 "eng": {
 "content_id": 500271,
@@ -5742,7 +5742,7 @@
 "709455": {
 "content_id": "709455",
 "reference_id": 203226,
-"index_reference": "बच्चे और माता-पिता",
+"index_reference": "बच्चे और मातापिता",
 "localizations": {
 "eng": {
 "content_id": 500283,
@@ -5848,7 +5848,7 @@
 "709458": {
 "content_id": "709458",
 "reference_id": 203229,
-"index_reference": "सब कुछ \"वाष्प\" है।",
+"index_reference": "सब कुछ वाष्प है",
 "localizations": {
 "eng": {
 "content_id": 500286,
@@ -6092,7 +6092,7 @@
 "709465": {
 "content_id": "709465",
 "reference_id": 203236,
-"index_reference": "बचे हुए लोग (अवशेष)",
+"index_reference": "बचे हुए लोग अवशेष",
 "localizations": {
 "eng": {
 "content_id": 500293,
@@ -6225,7 +6225,7 @@
 "709469": {
 "content_id": "709469",
 "reference_id": 203240,
-"index_reference": "परमेश्वर का दास (सेवक)",
+"index_reference": "परमेश्वर का दास सेवक",
 "localizations": {
 "eng": {
 "content_id": 500297,
@@ -7361,7 +7361,7 @@
 "709502": {
 "content_id": "709502",
 "reference_id": 203273,
-"index_reference": "अच्छा क्या है?",
+"index_reference": "अच्छा क्या है",
 "localizations": {
 "eng": {
 "content_id": 500330,
@@ -8310,7 +8310,7 @@
 "709529": {
 "content_id": "709529",
 "reference_id": 203300,
-"index_reference": "लूका–प्रेरितों के काम में स्तुति और आनन्द",
+"index_reference": "लूकाप्रेरितों के काम में स्तुति और आनन्द",
 "localizations": {
 "eng": {
 "content_id": 500357,
@@ -8672,7 +8672,7 @@
 "709540": {
 "content_id": "709540",
 "reference_id": 203311,
-"index_reference": "यूहन्ना के सुसमाचार में “विश्वास”",
+"index_reference": "यूहन्ना के सुसमाचार में विश्वास",
 "localizations": {
 "eng": {
 "content_id": 500368,
@@ -8847,7 +8847,7 @@
 "709545": {
 "content_id": "709545",
 "reference_id": 203316,
-"index_reference": "यीशु का कथन “मैं हूँ”",
+"index_reference": "यीशु का कथन मैं हूँ",
 "localizations": {
 "eng": {
 "content_id": 500373,
@@ -9660,7 +9660,7 @@
 "709569": {
 "content_id": "709569",
 "reference_id": 203340,
-"index_reference": "यहूदी और अन्यजाति (गैर-यहूदी)",
+"index_reference": "यहूदी और अन्यजाति गैरयहूदी",
 "localizations": {
 "eng": {
 "content_id": 500397,
@@ -9872,7 +9872,7 @@
 "709575": {
 "content_id": "709575",
 "reference_id": 203346,
-"index_reference": "कलीसिया एक जीवित, सक्रिय शरीर",
+"index_reference": "कलीसिया एक जीवित सक्रिय शरीर",
 "localizations": {
 "eng": {
 "content_id": 500403,
@@ -10010,7 +10010,7 @@
 "709579": {
 "content_id": "709579",
 "reference_id": 203350,
-"index_reference": "मेल-मिलाप का सन्देश",
+"index_reference": "मेलमिलाप का सन्देश",
 "localizations": {
 "eng": {
 "content_id": 500407,
@@ -10340,7 +10340,7 @@
 "709589": {
 "content_id": "709589",
 "reference_id": 203360,
-"index_reference": "मसीह भजन: मसीह की ईश्वरीय प्रकृति",
+"index_reference": "मसीह भजन मसीह की ईश्वरीय प्रकृति",
 "localizations": {
 "eng": {
 "content_id": 500417,
@@ -10510,7 +10510,7 @@
 "709594": {
 "content_id": "709594",
 "reference_id": 203365,
-"index_reference": "\"वह आएगा\"",
+"index_reference": "वह आएगा",
 "localizations": {
 "eng": {
 "content_id": 500422,
@@ -11429,7 +11429,7 @@
 "709621": {
 "content_id": "709621",
 "reference_id": 203392,
-"index_reference": "हज़ार साल (सहस्राब्दी)",
+"index_reference": "हज़ार साल सहस्राब्दी",
 "localizations": {
 "eng": {
 "content_id": 500449,

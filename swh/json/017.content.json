@@ -1,177 +1,678 @@
 [
 {
-"content_id": "764993",
-"reference_id": 203136,
+"content_id": "764974",
+"reference_id": 203117,
 "version": "1.0.2",
-"title": "Ondoa Uovu",
+"title": "Pasaka",
 "media_type": "Text",
-"index_reference": "ondoa uovu",
+"index_reference": "pasaka",
 "language": "swh",
 "review_level": "None",
-"content": "<p>Dhambi inapingana sana na utakatifu wa Mungu kiasi kwamba haiwezi kuwepo pamoja naye. Vivyo hivyo, inapaswa kuwa hivyo kwa watu wa Mungu. Mungu ni mtakatifu, na anatarajia watu wake kuonyesha utakatifu wake (<a href=\"https://ref.ly/Lev11:45\">Mambo ya Walawi 11:45</a>; <a href=\"https://ref.ly/Lev19:2\">19:2</a>).</p><p>Mungu alihitaji hatua kali ili kuondoa dhambi kutoka kwa jamii ya agano. Mungu alitoa msamaha, lakini tu kwa wale ambao walikuwa wameungama kwa dhati. Wale ambao walikuwa wakaidi wangeweza kutarajia hukumu ya Mungu. Hukumu hii ilikuwa mchakato wa utakaso uliowateketeza wenye dhambi na dhambi zao, bila kuacha chochote (tazama <a href=\"https://ref.ly/Deut9:3\">Kumbukumbu la Torati 9:3</a>; <a href=\"https://ref.ly/Deut13:5\">13:5</a>; <a href=\"https://ref.ly/Isa33:14\">Isaiah 33:14</a>; <a href=\"https://ref.ly/Heb12:28-Heb12:29\">Waebrania 12:28–29</a>). Utakaso huu ulikusudiwa kuponya jamii ya waumini katika Bwana na kuzuia wengine wasiotee dhidi yake (<a href=\"https://ref.ly/Deut17:13\">Kumbukumbu la Torati 17:13</a>).</p><p>Kwenye Agano la Kale, Mungu mara nyingi aliwahukumu watu wake mara moja (tazama, kwa mfano, <a href=\"https://ref.ly/Num11:1-Num11:3\">Hesabu 11:1–3</a>; <a href=\"https://ref.ly/Num16:1-Num16:50\">16:1–50</a>; <a href=\"https://ref.ly/Josh7:1-Josh7:26\">Yoshua 7</a>). Hii iliwafanya watu wake wawe na ufahamu mkubwa wa madai yake ya utiifu na matokeo ya kutotii.</p><p>Adhabu ya mwisho ya Mungu imepangwa kwa siku ya baadaye ya haki, wakati atakapofunua na kuhukumu dhambi za watu wote (<a href=\"https://ref.ly/Rom14:10\">Warumi 14:10</a>; <a href=\"https://ref.ly/2Cor5:10\">2 Wakorintho 5:10</a>; <a href=\"https://ref.ly/Heb9:27\">Waebrania 9:27</a>; <a href=\"https://ref.ly/1Pet4:5\">1 Petro 4:5</a>). Hata hivyo, baadhi ya majanga yanaweza kuonekana kama hukumu ya Mungu juu ya watu wake wasiotii (kwa mfano, <a href=\"https://ref.ly/Acts5:1-Acts5:11\">Matendo 5:1–11</a>; tazama <a href=\"https://ref.ly/1Cor11:27-1Cor11:30\">1 Wakorintho 11:27–30</a>). Bado ni &quot;jambo la kutisha kuanguka mikononi mwa Mungu aliye hai&quot; (<a href=\"https://ref.ly/Heb10:31\">Waebrania 10:31</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Lev19:1-Lev19:2\">Walawi 19:1–2</a>; <a href=\"https://ref.ly/Deut9:3-Deut9:6\">Kumbukumbu la Torati 9:3–6</a>; <a href=\"https://ref.ly/Deut13:5\">13:5</a>; <a href=\"https://ref.ly/Deut17:2-Deut17:13\">17:2–13</a>; <a href=\"https://ref.ly/Josh7:1-Josh7:26\">Yoshua 7:1–26</a>; <a href=\"https://ref.ly/2Chr34:3-2Chr34:8\">2 Mambo ya Nyakati 34:3–8</a>; <a href=\"https://ref.ly/Isa1:24-Isa1:26\">Isaya 1:24–26</a>; <a href=\"https://ref.ly/Isa4:2-Isa4:6\">4:2–6</a>; <a href=\"https://ref.ly/Isa33:14\">33:14</a>; <a href=\"https://ref.ly/Ezek20:32-Ezek20:38\">Ezekieli 20:32–38</a>; <a href=\"https://ref.ly/Matt18:8-Matt18:9\">Mathayo 18:8–9</a>; <a href=\"https://ref.ly/Acts5:1-Acts5:11\">Matendo 5:1–11</a>; <a href=\"https://ref.ly/Rom14:10\">Warumi 14:10</a>; <a href=\"https://ref.ly/1Cor11:27-1Cor11:30\">1 Wakorintho 11:27–30</a>; <a href=\"https://ref.ly/2Cor5:10\">2 Wakorintho 5:10</a>; <a href=\"https://ref.ly/Heb9:27-Heb9:28\">Waebrania 9:27–28</a>; <a href=\"https://ref.ly/Heb10:31\">10:31</a>; <a href=\"https://ref.ly/Heb12:28-Heb12:29\">12:28–29</a>; <a href=\"https://ref.ly/Jas5:19-Jas5:20\">Yakobo 5:19–20</a>; <a href=\"https://ref.ly/1Pet4:5\">1 Petro 4:5</a></p>",
+"content": "<p>Sikukuu ya Pasaka ikawa sehemu muhimu ya desturi za kidini za Waisraeli. Sikukuu hii iliadhimisha uokoaji wa Mungu wa Waebrania kutoka Misri na ulinzi wake dhidi ya pigo la mwisho la mauti. Mungu alitaka iadhimishwe kila mwaka, kufuatia maagizo katika kitabu cha Kutoka (<a href=\"https://ref.ly/Exod12:1-Exod12:27\">Kutoka 12:1–27</a>). Pasaka ilikuwa ukumbusho kwa vizazi vijavyo wa matendo ya wokovu ya Mungu. Watu wote walishiriki katika sikukuu hiyo. Walikula mkate usiotiwa chachu pekee, kama walivyofanya walipoondoka haraka Misri.</p><p>Wakati wa Pasaka ya kwanza, walitoa dhabihu ya mwana-kondoo ili kumwokoa mzaliwa wa kwanza wa kila familia ya Mwisraeli (<a href=\"https://ref.ly/Exod12:12-Exod12:13\">Kutoka 12:12–13</a>, <a href=\"https://ref.ly/Exod12:23\">23</a>). Pasaka inaonyesha kwamba tunaweza kuepuka kifo kupitia dhabihu inayotuchukua nafasi yetu. Pasaka ilikuwa tukio muhimu katika historia ya Waisraeli. Hata hivyo, kutoka kwao Misri hakukutatua tatizo la kifo duniani, ambalo linatokana na dhambi (<a href=\"https://ref.ly/1Cor15:56\">1 Wakorintho 15:56</a>).</p><p>Miaka mingi baadaye, wakati wa sikukuu ya Pasaka, Yesu Kristo alitoa &quot;maisha yake kuwa fidia kwa wengi&quot; (<a href=\"https://ref.ly/Matt20:28\">Mathayo 20:28</a>; <a href=\"https://ref.ly/Mark10:45\">Marko 10:45</a>). Akawa &quot;Mwanakondoo wa Mungu, aondoaye dhambi za ulimwengu!&quot; (<a href=\"https://ref.ly/John1:29\">Yohana 1:29</a>). Alipokuwa akishiriki mlo wa mwisho wa Pasaka na wanafunzi wake, Yesu alieleza maana ya mfano wa divai waliyoishiriki: &quot;Hii ni damu yangu ya agano, inayomwagika kwa ajili ya wengi kwa msamaha wa dhambi&quot; (<a href=\"https://ref.ly/Matt26:28\">Mathayo 26:28</a>). Alianzisha na kuwakilisha Pasaka mpya. Yesu alishinda dhambi na kifo kabisa kupitia dhabihu yake (tazama pia <a href=\"https://ref.ly/Isa25:7-Isa25:8\">Isaya 25:7–8</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod12:1-Exod12:51\">Kutoka 12:1–51</a>; <a href=\"https://ref.ly/Lev23:4-Lev23:8\">Walawi 23:4–8</a>; <a href=\"https://ref.ly/Num9:1-Num9:14\">Hesabu 9:1–14</a>; <a href=\"https://ref.ly/Num28:16-Num28:25\">Hesabu 28:16–25</a>; <a href=\"https://ref.ly/Deut16:1-Deut16:7\">Kumbukumbu la Torati 16:1–7</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:30\">Mathayo 26:17–30</a>; <a href=\"https://ref.ly/Luke22:15-Luke22:20\">Luka 22:15–20</a>; <a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1 Wakorintho 5:6–8</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "03011045",
-"start_ref_usfm": "LEV 11:45",
-"end_ref": "03011045",
-"end_ref_usfm": "LEV 11:45"
+"start_ref": "02012023",
+"start_ref_usfm": "EXO 12:23",
+"end_ref": "02012023",
+"end_ref_usfm": "EXO 12:23"
 },
 {
-"start_ref": "03019002",
-"start_ref_usfm": "LEV 19:2",
-"end_ref": "03019002",
-"end_ref_usfm": "LEV 19:2"
+"start_ref": "40020028",
+"start_ref_usfm": "MAT 20:28",
+"end_ref": "40020028",
+"end_ref_usfm": "MAT 20:28"
 },
 {
-"start_ref": "05009003",
-"start_ref_usfm": "DEU 9:3",
-"end_ref": "05009003",
-"end_ref_usfm": "DEU 9:3"
+"start_ref": "40026028",
+"start_ref_usfm": "MAT 26:28",
+"end_ref": "40026028",
+"end_ref_usfm": "MAT 26:28"
 },
 {
-"start_ref": "05013005",
-"start_ref_usfm": "DEU 13:5",
-"end_ref": "05013005",
-"end_ref_usfm": "DEU 13:5"
+"start_ref": "41010045",
+"start_ref_usfm": "MRK 10:45",
+"end_ref": "41010045",
+"end_ref_usfm": "MRK 10:45"
 },
 {
-"start_ref": "05017013",
-"start_ref_usfm": "DEU 17:13",
-"end_ref": "05017013",
-"end_ref_usfm": "DEU 17:13"
+"start_ref": "43001029",
+"start_ref_usfm": "JHN 1:29",
+"end_ref": "43001029",
+"end_ref_usfm": "JHN 1:29"
 },
 {
-"start_ref": "23033014",
-"start_ref_usfm": "ISA 33:14",
-"end_ref": "23033014",
-"end_ref_usfm": "ISA 33:14"
+"start_ref": "46015056",
+"start_ref_usfm": "1CO 15:56",
+"end_ref": "46015056",
+"end_ref_usfm": "1CO 15:56"
 },
 {
-"start_ref": "45014010",
-"start_ref_usfm": "ROM 14:10",
-"end_ref": "45014010",
-"end_ref_usfm": "ROM 14:10"
+"start_ref": "42022015",
+"start_ref_usfm": "LUK 22:15",
+"end_ref": "42022020",
+"end_ref_usfm": "LUK 22:20"
 },
 {
-"start_ref": "47005010",
-"start_ref_usfm": "2CO 5:10",
-"end_ref": "47005010",
-"end_ref_usfm": "2CO 5:10"
+"start_ref": "46005006",
+"start_ref_usfm": "1CO 5:6",
+"end_ref": "46005008",
+"end_ref_usfm": "1CO 5:8"
 },
 {
-"start_ref": "58009027",
-"start_ref_usfm": "HEB 9:27",
-"end_ref": "58009027",
-"end_ref_usfm": "HEB 9:27"
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012051",
+"end_ref_usfm": "EXO 12:51"
 },
 {
-"start_ref": "58010031",
-"start_ref_usfm": "HEB 10:31",
-"end_ref": "58010031",
-"end_ref_usfm": "HEB 10:31"
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026030",
+"end_ref_usfm": "MAT 26:30"
 },
 {
-"start_ref": "60004005",
-"start_ref_usfm": "1PE 4:5",
-"end_ref": "60004005",
-"end_ref_usfm": "1PE 4:5"
+"start_ref": "04028016",
+"start_ref_usfm": "NUM 28:16",
+"end_ref": "04028025",
+"end_ref_usfm": "NUM 28:25"
 },
 {
-"start_ref": "04016001",
-"start_ref_usfm": "NUM 16:1",
-"end_ref": "04016050",
-"end_ref_usfm": "NUM 16:50"
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
 },
 {
-"start_ref": "06007001",
-"start_ref_usfm": "JOS 7:1",
-"end_ref": "06007026",
-"end_ref_usfm": "JOS 7:26"
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012027",
+"end_ref_usfm": "EXO 12:27"
 },
 {
-"start_ref": "59005019",
-"start_ref_usfm": "JAS 5:19",
-"end_ref": "59005020",
-"end_ref_usfm": "JAS 5:20"
+"start_ref": "02012012",
+"start_ref_usfm": "EXO 12:12",
+"end_ref": "02012013",
+"end_ref_usfm": "EXO 12:13"
 },
 {
-"start_ref": "23004002",
-"start_ref_usfm": "ISA 4:2",
-"end_ref": "23004006",
-"end_ref_usfm": "ISA 4:6"
+"start_ref": "23025007",
+"start_ref_usfm": "ISA 25:7",
+"end_ref": "23025008",
+"end_ref_usfm": "ISA 25:8"
 },
 {
-"start_ref": "04011001",
-"start_ref_usfm": "NUM 11:1",
-"end_ref": "04011003",
-"end_ref_usfm": "NUM 11:3"
+"start_ref": "03023004",
+"start_ref_usfm": "LEV 23:4",
+"end_ref": "03023008",
+"end_ref_usfm": "LEV 23:8"
 },
 {
-"start_ref": "40018008",
-"start_ref_usfm": "MAT 18:8",
-"end_ref": "40018009",
-"end_ref_usfm": "MAT 18:9"
+"start_ref": "05016001",
+"start_ref_usfm": "DEU 16:1",
+"end_ref": "05016007",
+"end_ref_usfm": "DEU 16:7"
+}
+],
+"resource": [],
+"acai": []
+}
 },
 {
-"start_ref": "44005001",
-"start_ref_usfm": "ACT 5:1",
-"end_ref": "44005011",
-"end_ref_usfm": "ACT 5:11"
+"content_id": "765123",
+"reference_id": 203266,
+"version": "1.0.2",
+"title": "Pembe Ndogo",
+"media_type": "Text",
+"index_reference": "pembe ndogo",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Kwenye maono ya nabii Danieli, pembe ndogo inawakilisha mfalme. Ina sifa za kibinadamu kama macho na mdomo. Taswira hii ni ya kawaida katika fasihi ya unabii.</p><p>&quot;Apocalyptic&quot; linatokana na neno la Kigiriki linalomaanisha &quot;kufunua.&quot; Kwa hivyo, aina hii ya ujumbe au maandishi hufichua mipango ya siri ya Mungu. Maandishi ya apocaliptiki mara nyingi hutumia lugha na picha za ajabu. Pembe ndogo inamvutia Danieli kwa sababu ya hotuba yake ya majivuno na vitendo vya vurugu dhidi ya wafalme wengine, watu wa Mungu, na Mungu Mwenyezi.</p><p>Je, pembe ndogo ni nini au ni nani? Pembe ndogo katika <a href=\"https://ref.ly/Dan7:8\">Danieli 7:8</a> inahusishwa na wahusika waovu katika <a href=\"https://ref.ly/Dan9:27\">9:27</a> na <a href=\"https://ref.ly/Dan11:40-Dan11:45\">11:40–45</a>. Antioko IV Epiphanes ana sifa zinazofanana na pembe ndogo katika <a href=\"https://ref.ly/Dan7:8\">7:8</a>, lakini si sawa (<a href=\"https://ref.ly/Dan8:9-Dan8:14\">8:9–14</a>, <a href=\"https://ref.ly/Dan8:23-Dan8:25\">23–25</a>; <a href=\"https://ref.ly/Dan11:21-Dan11:39\">11:21–39</a>).</p><p>Wafafanuzi wa zamani na wa kisasa wanaamini kwamba pembe ndogo inawakilisha mpinga Kristo wa siku zijazo, kiongozi mwenye nguvu ambaye atapinga Mungu na watu wa Mungu kwa nguvu. Wengine wanafikiri kwamba baadhi ya watu wa kihistoria kutoka milki za Kigiriki na Kirumi, kama Antioko IV Epiphanes, Nero, Caligula, na Domitian, wamekamilisha kwa sehemu maono haya. Kulingana na mtazamo huu, mtu huyu wa siku zijazo atakuwa binadamu, si pepo au Shetani.</p><p>Wengine wanaona pembe ndogo kama ishara ya uovu unaompinga Mungu na watu wake. Wafasiri wengine wanafikiri hakuna mtu mmoja atakayekamilisha maono haya. Badala yake, wanaamini inawakilisha nguvu za uovu duniani. Wengine wanaamini mpinga Kristo tayari ameonekana. Agano Jipya linapendekeza kwamba wazo la mpinga Kristo litakuwa na utimilifu wa mwisho (tazama <a href=\"https://ref.ly/2Thess2:3-2Thess2:12\">2 Wathesalonike 2:3–12</a>; <a href=\"https://ref.ly/1John2:18\">1 Yohana 2:18</a>; <a href=\"https://ref.ly/1John4:3\">4:3</a>; <a href=\"https://ref.ly/2John1:7\">2 Yohana 1:7</a>; <a href=\"https://ref.ly/Rev13:1\">Ufunuo 13:1</a>, <a href=\"https://ref.ly/Rev13:5\">5</a>; <a href=\"https://ref.ly/Rev16:13-Rev16:14\">16:13–14</a>; <a href=\"https://ref.ly/Rev17:11\">17:11</a>; <a href=\"https://ref.ly/Rev19:20-Rev19:21\">19:20–21</a>; <a href=\"https://ref.ly/Rev20:10\">20:10</a>).</p><p>Pembe hii ndogo inawakumbusha watu wa Mungu kwamba uovu unapingana vikali na Mungu na watu wake. Mfalme aliyetajwa hapa anachukua falme za dunia (<a href=\"https://ref.ly/Dan7:8\">Danieli 7:8</a>). Hata hivyo, mfumo wake wa uovu hautashinda kwa sababu Mungu ataangamiza uovu. Watu wa Mungu wanaweza kupata faraja kwa kujua kwamba wakati huu wa uovu hautadumu kwa muda mrefu (<a href=\"https://ref.ly/Rev12:12\">Ufunuo 12:12</a>). Mungu ataangamiza kazi za ufalme huu wa uovu (<a href=\"https://ref.ly/Dan7:11-Dan7:12\">Danieli 7:11–12</a>).</p><p>Mtawala aliyechaguliwa na Mungu, ambaye anaonekana &quot;kama Mwana wa Mtu&quot; (anaonekana kama mwanadamu), anapewa mamlaka na Mungu (anaitwa &quot;Mzee wa Siku&quot; katika maono haya; <a href=\"https://ref.ly/Dan7:13-Dan7:14\">Danieli 7:13–14</a>). Atatawala kwa idhini na nguvu za Mungu, na utawala wake utaendelea katika ufalme usioweza kuharibiwa. Mungu anawahimiza watu wake kuvumilia na kubaki waaminifu. Wanaishi kwa matumaini ya ufalme wenye haki ambapo Mungu ataishi miongoni mwao (tazama <a href=\"https://ref.ly/Rev21:3\">Ufunuo 21:3</a>). &quot;Bidii ya BWANA na majeshi itatimiza hili&quot; (<a href=\"https://ref.ly/Isa9:7\">Isaya 9:7</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Dan7:8\">Danieli 7:8</a>, <a href=\"https://ref.ly/Dan7:11\">11</a>, <a href=\"https://ref.ly/Dan7:20-Dan7:21\">20–21</a>, <a href=\"https://ref.ly/Dan7:24-Dan7:26\">24–26</a>; <a href=\"https://ref.ly/Dan8:9-Dan8:12\">8:9–12</a>; <a href=\"https://ref.ly/Dan9:26-Dan9:27\">9:26–27</a>; <a href=\"https://ref.ly/Mark13:14\">Marko 13:14</a>; <a href=\"https://ref.ly/2Thess2:5-2Thess2:12\">2 Wathesalonike 2:5–12</a>; <a href=\"https://ref.ly/2John1:7\">2 Yohana 1:7</a>; <a href=\"https://ref.ly/Rev13:1-Rev13:10\">Ufunuo 13:1–10</a>; <a href=\"https://ref.ly/Rev20:10\">20:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23009007",
+"start_ref_usfm": "ISA 9:7",
+"end_ref": "23009007",
+"end_ref_usfm": "ISA 9:7"
 },
 {
-"start_ref": "26020032",
-"start_ref_usfm": "EZK 20:32",
-"end_ref": "26020038",
-"end_ref_usfm": "EZK 20:38"
+"start_ref": "27007008",
+"start_ref_usfm": "DAN 7:8",
+"end_ref": "27007008",
+"end_ref_usfm": "DAN 7:8"
 },
 {
-"start_ref": "58012028",
-"start_ref_usfm": "HEB 12:28",
-"end_ref": "58012029",
-"end_ref_usfm": "HEB 12:29"
+"start_ref": "27007011",
+"start_ref_usfm": "DAN 7:11",
+"end_ref": "27007011",
+"end_ref_usfm": "DAN 7:11"
 },
 {
-"start_ref": "58009027",
-"start_ref_usfm": "HEB 9:27",
+"start_ref": "27009027",
+"start_ref_usfm": "DAN 9:27",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "41013014",
+"start_ref_usfm": "MRK 13:14",
+"end_ref": "41013014",
+"end_ref_usfm": "MRK 13:14"
+},
+{
+"start_ref": "62002018",
+"start_ref_usfm": "1JN 2:18",
+"end_ref": "62002018",
+"end_ref_usfm": "1JN 2:18"
+},
+{
+"start_ref": "62004003",
+"start_ref_usfm": "1JN 4:3",
+"end_ref": "62004003",
+"end_ref_usfm": "1JN 4:3"
+},
+{
+"start_ref": "63001007",
+"start_ref_usfm": "2JN 1:7",
+"end_ref": "63001007",
+"end_ref_usfm": "2JN 1:7"
+},
+{
+"start_ref": "66012012",
+"start_ref_usfm": "REV 12:12",
+"end_ref": "66012012",
+"end_ref_usfm": "REV 12:12"
+},
+{
+"start_ref": "66013001",
+"start_ref_usfm": "REV 13:1",
+"end_ref": "66013001",
+"end_ref_usfm": "REV 13:1"
+},
+{
+"start_ref": "66013005",
+"start_ref_usfm": "REV 13:5",
+"end_ref": "66013005",
+"end_ref_usfm": "REV 13:5"
+},
+{
+"start_ref": "66017011",
+"start_ref_usfm": "REV 17:11",
+"end_ref": "66017011",
+"end_ref_usfm": "REV 17:11"
+},
+{
+"start_ref": "66020010",
+"start_ref_usfm": "REV 20:10",
+"end_ref": "66020010",
+"end_ref_usfm": "REV 20:10"
+},
+{
+"start_ref": "66021003",
+"start_ref_usfm": "REV 21:3",
+"end_ref": "66021003",
+"end_ref_usfm": "REV 21:3"
+},
+{
+"start_ref": "27008009",
+"start_ref_usfm": "DAN 8:9",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27008023",
+"start_ref_usfm": "DAN 8:23",
+"end_ref": "27008025",
+"end_ref_usfm": "DAN 8:25"
+},
+{
+"start_ref": "53002003",
+"start_ref_usfm": "2TH 2:3",
+"end_ref": "53002012",
+"end_ref_usfm": "2TH 2:12"
+},
+{
+"start_ref": "66016013",
+"start_ref_usfm": "REV 16:13",
+"end_ref": "66016014",
+"end_ref_usfm": "REV 16:14"
+},
+{
+"start_ref": "27007013",
+"start_ref_usfm": "DAN 7:13",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "66013001",
+"start_ref_usfm": "REV 13:1",
+"end_ref": "66013010",
+"end_ref_usfm": "REV 13:10"
+},
+{
+"start_ref": "66019020",
+"start_ref_usfm": "REV 19:20",
+"end_ref": "66019021",
+"end_ref_usfm": "REV 19:21"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011039",
+"end_ref_usfm": "DAN 11:39"
+},
+{
+"start_ref": "27011040",
+"start_ref_usfm": "DAN 11:40",
+"end_ref": "27011045",
+"end_ref_usfm": "DAN 11:45"
+},
+{
+"start_ref": "27007011",
+"start_ref_usfm": "DAN 7:11",
+"end_ref": "27007012",
+"end_ref_usfm": "DAN 7:12"
+},
+{
+"start_ref": "27007020",
+"start_ref_usfm": "DAN 7:20",
+"end_ref": "27007021",
+"end_ref_usfm": "DAN 7:21"
+},
+{
+"start_ref": "27007024",
+"start_ref_usfm": "DAN 7:24",
+"end_ref": "27007026",
+"end_ref_usfm": "DAN 7:26"
+},
+{
+"start_ref": "27008009",
+"start_ref_usfm": "DAN 8:9",
+"end_ref": "27008012",
+"end_ref_usfm": "DAN 8:12"
+},
+{
+"start_ref": "27009026",
+"start_ref_usfm": "DAN 9:26",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "53002005",
+"start_ref_usfm": "2TH 2:5",
+"end_ref": "53002012",
+"end_ref_usfm": "2TH 2:12"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "765231",
+"reference_id": 203374,
+"version": "1.0.2",
+"title": "Pumziko la sabato ya Mungu",
+"media_type": "Text",
+"index_reference": "pumziko la sabato ya mungu",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Wazo la pumziko la sabato la Mungu (kama ilivyoelezwa katika <a href=\"https://ref.ly/Heb4:1-Heb4:11\">Waebrania 4:1–11</a>) limekuwa gumu kwa wasomi wengi kuelewa. Linajumuisha mawazo kutoka kwenye Agano la Kale, kama vile Nchi ya Ahadi kama mahali pa kupumzika kutoka utumwani na kutangatanga. Pia linazungumzia siku ya sabato kama siku ya kupumzika ya kila wiki. Katika <a href=\"https://ref.ly/Heb3:7-Heb3:19\">Waebrania 3:7–19</a>, mwandishi anarejelea <a href=\"https://ref.ly/Ps95:7-Ps95:11\">Zaburi 95:7–11</a>. Anatumia mfano wa Waisraeli waliotangatanga nyikani kama mfano wa wale ambao hawakuingia katika pumziko la Mungu kwa sababu hawakutii.</p><p>Je, ni &quot;pumziko&quot; gani ambalo hawakuweza kuingia, ambalo bado linabaki kwa watu wa Mungu (<a href=\"https://ref.ly/Heb4:1-Heb4:3\">Waebrania 4:1–3</a>)? Mwandishi wa Waebrania alimaanisha zaidi ya ardhi ya kimwili ya Kanaani kama mahali pa &quot;pumziko la sabato&quot; (<a href=\"https://ref.ly/Heb4:8-Heb4:9\">4:8–9</a>). <a href=\"https://ref.ly/Gen2:2\">Mwanzo 2:2</a> inaelezea pumziko la Mungu kama kitu kilichoandaliwa &quot;tangu msingi wa ulimwengu&quot; (<a href=\"https://ref.ly/Heb4:3-Heb4:4\">Waebrania 4:3–4</a>). Pumziko la Mungu linahusisha kusitisha kazi ya mtu mwenyewe, kama Mungu alivyofanya (<a href=\"https://ref.ly/Heb4:10\">4:10</a>). Wale wanaosikia &quot;sauti Yake,&quot; hawafanyi mioyo yao kuwa migumu, na wanaamini habari njema kuhusu Yesu wanaweza &quot;kuingia katika pumziko hilo&quot; (<a href=\"https://ref.ly/Heb4:1-Heb4:3\">4:1–3</a>, <a href=\"https://ref.ly/Heb4:7\">7</a>).</p><p>Agano la Kale linaita Siku ya Upatanisho “siku ya sabato ya pumziko kamili” (<a href=\"https://ref.ly/Lev16:29-Lev16:31\">Mambo ya Walawi 16:29–31</a>). Katika siku hiyo, watu walikomesha kazi zao zote. Katika Agano Jipya, Yesu, Kuhani wetu Mkuu, alitoa dhabihu ya mara moja ambayo ilifanya &quot;kuondoa dhambi&quot; (<a href=\"https://ref.ly/Heb9:7-Heb9:28\">9:7–28</a>). Alikuwa dhabihu ya mwisho ya upatanisho, akileta amani kati ya Mungu na watu. Yesu anawapa watu pumziko la kiroho. Wanaweza kuingia katika pumziko hili kwa kuamini na kutii habari njema hii.</p><p>Pumziko la Mungu kupitia Yesu lina vipengele viwili:</p><ol><li><p>Wale wanaomfuata Yesu wanaacha kujaribu kupata kukubalika kwa Mungu kupitia juhudi zao wenyewe. Wanamwamini kazi iliyokamilika ya Yesu (<a href=\"https://ref.ly/Eph2:8-Eph2:9\">Waefeso 2:8–9</a>). Wanapata amani na Mungu (<a href=\"https://ref.ly/John14:27\">Yohana 14:27</a>; <a href=\"https://ref.ly/Acts10:36\">Matendo 10:36</a>; <a href=\"https://ref.ly/Rom5:1\">Warumi 5:1</a>; <a href=\"https://ref.ly/2Cor5:19-2Cor5:21\">2 Wakorintho 5:19–21</a>).</p></li><li><p>Wanatarajia pumziko la milele na furaha katika uwepo wa Mungu (<a href=\"https://ref.ly/Isa26:19\">Isaya 26:19</a>; <a href=\"https://ref.ly/Rev14:13\">Ufunuo 14:13</a>). Yesu Kristo anatoa pumziko kamili na bora (<a href=\"https://ref.ly/Matt11:28-Matt11:30\">Mathayo 11:28–30</a>).</p></li></ol><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen2:1-Gen2:3\">Mwanzo 2:1–3</a>; <a href=\"https://ref.ly/Exod16:21-Exod16:29\">Kutoka 16:21–29</a>; <a href=\"https://ref.ly/Exod20:8-Exod20:11\">20:8–11</a>; <a href=\"https://ref.ly/Exod31:13-Exod31:16\">31:13–16</a>; <a href=\"https://ref.ly/Lev16:29-Lev16:31\">Mambo ya Walawi 16:29–31</a>; <a href=\"https://ref.ly/Isa52:7\">Isaya 52:7</a>; <a href=\"https://ref.ly/Isa54:13-Isa54:14\">54:13–14</a>; <a href=\"https://ref.ly/Isa56:2\">56:2</a>, <a href=\"https://ref.ly/Isa56:4\">4</a>; <a href=\"https://ref.ly/Isa57:2\">57:2</a>, <a href=\"https://ref.ly/Isa57:21\">21</a>; <a href=\"https://ref.ly/Isa58:13\">58:13</a>; <a href=\"https://ref.ly/Ezek20:20\">Ezekieli 20:20</a>; <a href=\"https://ref.ly/Matt11:28-Matt11:30\">Mathayo 11:28–30</a>; <a href=\"https://ref.ly/Mark2:23-Mark2:28\">Marko 2:23–28</a>; <a href=\"https://ref.ly/Luke8:48\">Luka 8:48</a>; <a href=\"https://ref.ly/John14:27\">Yohana 14:27</a>; <a href=\"https://ref.ly/Acts10:36\">Matendo 10:36</a>; <a href=\"https://ref.ly/Rom5:1\">Warumi 5:1</a>; <a href=\"https://ref.ly/Rom15:13\">15:13</a>; <a href=\"https://ref.ly/2Cor5:19-2Cor5:21\">2 Wakorintho 5:19–21</a>; <a href=\"https://ref.ly/Eph2:17\">Waefeso 2:17</a>; <a href=\"https://ref.ly/Col1:20\">Wakolosai 1:20</a>; <a href=\"https://ref.ly/Col2:16\">2:16</a>; <a href=\"https://ref.ly/Col3:15\">3:15</a>; <a href=\"https://ref.ly/Heb4:1-Heb4:11\">Waebrania 4:1–11</a>; <a href=\"https://ref.ly/2Pet1:2\">2 Petro 1:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002002",
+"start_ref_usfm": "GEN 2:2",
+"end_ref": "01002002",
+"end_ref_usfm": "GEN 2:2"
+},
+{
+"start_ref": "23026019",
+"start_ref_usfm": "ISA 26:19",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "23052007",
+"start_ref_usfm": "ISA 52:7",
+"end_ref": "23052007",
+"end_ref_usfm": "ISA 52:7"
+},
+{
+"start_ref": "23056002",
+"start_ref_usfm": "ISA 56:2",
+"end_ref": "23056002",
+"end_ref_usfm": "ISA 56:2"
+},
+{
+"start_ref": "23056004",
+"start_ref_usfm": "ISA 56:4",
+"end_ref": "23056004",
+"end_ref_usfm": "ISA 56:4"
+},
+{
+"start_ref": "23057002",
+"start_ref_usfm": "ISA 57:2",
+"end_ref": "23057002",
+"end_ref_usfm": "ISA 57:2"
+},
+{
+"start_ref": "23057021",
+"start_ref_usfm": "ISA 57:21",
+"end_ref": "23057021",
+"end_ref_usfm": "ISA 57:21"
+},
+{
+"start_ref": "23058013",
+"start_ref_usfm": "ISA 58:13",
+"end_ref": "23058013",
+"end_ref_usfm": "ISA 58:13"
+},
+{
+"start_ref": "26020020",
+"start_ref_usfm": "EZK 20:20",
+"end_ref": "26020020",
+"end_ref_usfm": "EZK 20:20"
+},
+{
+"start_ref": "42008048",
+"start_ref_usfm": "LUK 8:48",
+"end_ref": "42008048",
+"end_ref_usfm": "LUK 8:48"
+},
+{
+"start_ref": "43014027",
+"start_ref_usfm": "JHN 14:27",
+"end_ref": "43014027",
+"end_ref_usfm": "JHN 14:27"
+},
+{
+"start_ref": "44010036",
+"start_ref_usfm": "ACT 10:36",
+"end_ref": "44010036",
+"end_ref_usfm": "ACT 10:36"
+},
+{
+"start_ref": "45005001",
+"start_ref_usfm": "ROM 5:1",
+"end_ref": "45005001",
+"end_ref_usfm": "ROM 5:1"
+},
+{
+"start_ref": "45015013",
+"start_ref_usfm": "ROM 15:13",
+"end_ref": "45015013",
+"end_ref_usfm": "ROM 15:13"
+},
+{
+"start_ref": "49002017",
+"start_ref_usfm": "EPH 2:17",
+"end_ref": "49002017",
+"end_ref_usfm": "EPH 2:17"
+},
+{
+"start_ref": "51001020",
+"start_ref_usfm": "COL 1:20",
+"end_ref": "51001020",
+"end_ref_usfm": "COL 1:20"
+},
+{
+"start_ref": "51002016",
+"start_ref_usfm": "COL 2:16",
+"end_ref": "51002016",
+"end_ref_usfm": "COL 2:16"
+},
+{
+"start_ref": "51003015",
+"start_ref_usfm": "COL 3:15",
+"end_ref": "51003015",
+"end_ref_usfm": "COL 3:15"
+},
+{
+"start_ref": "58004007",
+"start_ref_usfm": "HEB 4:7",
+"end_ref": "58004007",
+"end_ref_usfm": "HEB 4:7"
+},
+{
+"start_ref": "58004010",
+"start_ref_usfm": "HEB 4:10",
+"end_ref": "58004010",
+"end_ref_usfm": "HEB 4:10"
+},
+{
+"start_ref": "61001002",
+"start_ref_usfm": "2PE 1:2",
+"end_ref": "61001002",
+"end_ref_usfm": "2PE 1:2"
+},
+{
+"start_ref": "66014013",
+"start_ref_usfm": "REV 14:13",
+"end_ref": "66014013",
+"end_ref_usfm": "REV 14:13"
+},
+{
+"start_ref": "58009007",
+"start_ref_usfm": "HEB 9:7",
 "end_ref": "58009028",
 "end_ref_usfm": "HEB 9:28"
 },
 {
-"start_ref": "46011027",
-"start_ref_usfm": "1CO 11:27",
-"end_ref": "46011030",
-"end_ref_usfm": "1CO 11:30"
+"start_ref": "02020008",
+"start_ref_usfm": "EXO 20:8",
+"end_ref": "02020011",
+"end_ref_usfm": "EXO 20:11"
 },
 {
-"start_ref": "03019001",
-"start_ref_usfm": "LEV 19:1",
-"end_ref": "03019002",
-"end_ref_usfm": "LEV 19:2"
+"start_ref": "03016029",
+"start_ref_usfm": "LEV 16:29",
+"end_ref": "03016031",
+"end_ref_usfm": "LEV 16:31"
 },
 {
-"start_ref": "05009003",
-"start_ref_usfm": "DEU 9:3",
-"end_ref": "05009006",
-"end_ref_usfm": "DEU 9:6"
+"start_ref": "01002001",
+"start_ref_usfm": "GEN 2:1",
+"end_ref": "01002003",
+"end_ref_usfm": "GEN 2:3"
 },
 {
-"start_ref": "05017002",
-"start_ref_usfm": "DEU 17:2",
-"end_ref": "05017013",
-"end_ref_usfm": "DEU 17:13"
+"start_ref": "40011028",
+"start_ref_usfm": "MAT 11:28",
+"end_ref": "40011030",
+"end_ref_usfm": "MAT 11:30"
 },
 {
-"start_ref": "14034003",
-"start_ref_usfm": "2CH 34:3",
-"end_ref": "14034008",
-"end_ref_usfm": "2CH 34:8"
+"start_ref": "19095007",
+"start_ref_usfm": "PSA 95:7",
+"end_ref": "19095011",
+"end_ref_usfm": "PSA 95:11"
 },
 {
-"start_ref": "23001024",
-"start_ref_usfm": "ISA 1:24",
-"end_ref": "23001026",
-"end_ref_usfm": "ISA 1:26"
+"start_ref": "58003007",
+"start_ref_usfm": "HEB 3:7",
+"end_ref": "58003019",
+"end_ref_usfm": "HEB 3:19"
+},
+{
+"start_ref": "58004003",
+"start_ref_usfm": "HEB 4:3",
+"end_ref": "58004004",
+"end_ref_usfm": "HEB 4:4"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41002028",
+"end_ref_usfm": "MRK 2:28"
+},
+{
+"start_ref": "58004008",
+"start_ref_usfm": "HEB 4:8",
+"end_ref": "58004009",
+"end_ref_usfm": "HEB 4:9"
+},
+{
+"start_ref": "58004001",
+"start_ref_usfm": "HEB 4:1",
+"end_ref": "58004011",
+"end_ref_usfm": "HEB 4:11"
+},
+{
+"start_ref": "49002008",
+"start_ref_usfm": "EPH 2:8",
+"end_ref": "49002009",
+"end_ref_usfm": "EPH 2:9"
+},
+{
+"start_ref": "47005019",
+"start_ref_usfm": "2CO 5:19",
+"end_ref": "47005021",
+"end_ref_usfm": "2CO 5:21"
+},
+{
+"start_ref": "58004001",
+"start_ref_usfm": "HEB 4:1",
+"end_ref": "58004003",
+"end_ref_usfm": "HEB 4:3"
+},
+{
+"start_ref": "02016021",
+"start_ref_usfm": "EXO 16:21",
+"end_ref": "02016029",
+"end_ref_usfm": "EXO 16:29"
+},
+{
+"start_ref": "02031013",
+"start_ref_usfm": "EXO 31:13",
+"end_ref": "02031016",
+"end_ref_usfm": "EXO 31:16"
+},
+{
+"start_ref": "23054013",
+"start_ref_usfm": "ISA 54:13",
+"end_ref": "23054014",
+"end_ref_usfm": "ISA 54:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "765050",
+"reference_id": 203193,
+"version": "1.0.2",
+"title": "Purimu",
+"media_type": "Text",
+"index_reference": "purimu",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Sikukuu ya Purimu ni sikukuu ya pekee ya Agano la Kale ambayo haikuanzishwa wakati wa Mose. Jina lake linatokana na neno linalomaanisha <em>kura</em> au <em>dadu</em> (Kiebrania <em>purim</em>, kutoka kwa Kiaakadiano <em>puru</em>). Katika nyakati za kale, watu mara nyingi walitupa <em>purim</em> ili kuona kama Mungu alikubali kitendo fulani. Nambari nzuri ilimaanisha idhini, wakati nambari mbaya ilimaanisha kutokubalika.</p><p>Karibu na chumba cha enzi cha mfalme huko Shushani katika Uajemi, wanakiolojia walipata kitu kidogo chenye pande nne na maandishi kila upande. Kipande sawa na hicho chenye neno <em>pur</em> kinatoka karne ya 800 Kabla ya Kristo (KK). Katika kitabu cha Esta, wanajimu wa Kiajemi walitumia <em>purim</em> kuamua wakati bora wa kuwashambulia Wayahudi (<a href=\"https://ref.ly/Esth3:7\">Esta 3:7</a>).</p><p>Tarehe 7 Machi, 473 KK, Mungu aliwaokoa watu wake kutoka kwa kifo cha hakika, sawa na uokoaji kutoka Misri wakati wa Pasaka. Mordekai na Esta waliandaa sherehe ya kila mwaka ili kukumbuka uokoaji wa Mungu kwa vizazi vijavyo (<a href=\"https://ref.ly/Esth9:28\">Esta 9:28</a>). Baadaye katika historia, Wayahudi waliadhimisha sana sikukuu hiyo (tazama 2 Maccabees 15:36; Josephus, <em>Antiquities</em> 11.6.13; pengine <a href=\"https://ref.ly/John5:1\">Yohana 5:1</a>).</p><p>Wakati Mungu aliwaokoa watu wake wateule, siku iliyokusudiwa kwa maangamizi ya Wayahudi ikawa siku ya ushindi wao dhidi ya maadui zao. Hii ilifuatiwa na sherehe. Leo, Wayahudi wanafunga na kuomba ili kukumbuka jinsi Malkia Esta alivyo funga kabla ya kumkaribia mfalme kwa ujasiri. Kifungo hiki kinakuja kabla ya Purimu, ambayo hufanyika siku ya kumi na nne ya mwezi wa Adari (katika Februari au Machi).</p><p>Wakati wa sikukuu ya Purimu yenye furaha, Wayahudi husoma hadithi ya Esta, wakimzomea kwa sauti Hamani na kumshangilia Mordekai. Wanasherehekea kwa karamu maalum, kubadilishana zawadi za chakula na marafiki, na kuwasaidia watu wenye uhitaji. Purimu inaadhimisha jinsi Mungu alivyowalinda watu wa Kiyahudi kutokana na madhara na inaonyesha jinsi Mungu anaendelea kuwalinda na kuwatunza watu wake katika historia yote (tazama pia <a href=\"https://ref.ly/Gen45:5\">Mwanzo 45:5</a>; <a href=\"https://ref.ly/Ps91:1-Ps91:16\">Zaburi 91</a>; <a href=\"https://ref.ly/Prov16:9\">Mithali 16:9</a>, <a href=\"https://ref.ly/Prov16:33\">33</a>; <a href=\"https://ref.ly/Dan2:21\">Danieli 2:21</a>; <a href=\"https://ref.ly/Acts1:6-Acts1:7\">Matendo 1:6–7</a>; <a href=\"https://ref.ly/Acts2:22-Acts2:23\">2:22–23</a>; <a href=\"https://ref.ly/Acts4:28-Acts4:30\">4:28–30</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:27\">17:24–27</a>; <a href=\"https://ref.ly/Rom8:28\">Warumi 8:28</a>; <a href=\"https://ref.ly/1Pet3:12\">1 Petro 3:12</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Esth9:1-Esth9:32\">Esta 9:1–32</a>; <a href=\"https://ref.ly/Ps37:23\">Zaburi 37:23</a>; <a href=\"https://ref.ly/Ps91:1-Ps91:16\">91:1–16</a>; <a href=\"https://ref.ly/Prov16:9\">Mithali 16:9</a>, <a href=\"https://ref.ly/Prov16:33\">33</a>; <a href=\"https://ref.ly/Rom8:28\">Warumi 8:28</a>; <a href=\"https://ref.ly/1Pet3:12\">1 Petro 3:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01045005",
+"start_ref_usfm": "GEN 45:5",
+"end_ref": "01045005",
+"end_ref_usfm": "GEN 45:5"
+},
+{
+"start_ref": "17003007",
+"start_ref_usfm": "EST 3:7",
+"end_ref": "17003007",
+"end_ref_usfm": "EST 3:7"
+},
+{
+"start_ref": "17009028",
+"start_ref_usfm": "EST 9:28",
+"end_ref": "17009028",
+"end_ref_usfm": "EST 9:28"
+},
+{
+"start_ref": "19037023",
+"start_ref_usfm": "PSA 37:23",
+"end_ref": "19037023",
+"end_ref_usfm": "PSA 37:23"
+},
+{
+"start_ref": "20016009",
+"start_ref_usfm": "PRO 16:9",
+"end_ref": "20016009",
+"end_ref_usfm": "PRO 16:9"
+},
+{
+"start_ref": "20016033",
+"start_ref_usfm": "PRO 16:33",
+"end_ref": "20016033",
+"end_ref_usfm": "PRO 16:33"
+},
+{
+"start_ref": "27002021",
+"start_ref_usfm": "DAN 2:21",
+"end_ref": "27002021",
+"end_ref_usfm": "DAN 2:21"
+},
+{
+"start_ref": "43005001",
+"start_ref_usfm": "JHN 5:1",
+"end_ref": "43005001",
+"end_ref_usfm": "JHN 5:1"
+},
+{
+"start_ref": "45008028",
+"start_ref_usfm": "ROM 8:28",
+"end_ref": "45008028",
+"end_ref_usfm": "ROM 8:28"
+},
+{
+"start_ref": "60003012",
+"start_ref_usfm": "1PE 3:12",
+"end_ref": "60003012",
+"end_ref_usfm": "1PE 3:12"
+},
+{
+"start_ref": "17009001",
+"start_ref_usfm": "EST 9:1",
+"end_ref": "17009032",
+"end_ref_usfm": "EST 9:32"
+},
+{
+"start_ref": "19091001",
+"start_ref_usfm": "PSA 91:1",
+"end_ref": "19091016",
+"end_ref_usfm": "PSA 91:16"
+},
+{
+"start_ref": "17009001",
+"start_ref_usfm": "EST 9:1",
+"end_ref": "17009017",
+"end_ref_usfm": "EST 9:17"
+},
+{
+"start_ref": "44001006",
+"start_ref_usfm": "ACT 1:6",
+"end_ref": "44001007",
+"end_ref_usfm": "ACT 1:7"
+},
+{
+"start_ref": "44002022",
+"start_ref_usfm": "ACT 2:22",
+"end_ref": "44002023",
+"end_ref_usfm": "ACT 2:23"
+},
+{
+"start_ref": "44004028",
+"start_ref_usfm": "ACT 4:28",
+"end_ref": "44004030",
+"end_ref_usfm": "ACT 4:30"
+},
+{
+"start_ref": "44017024",
+"start_ref_usfm": "ACT 17:24",
+"end_ref": "44017027",
+"end_ref_usfm": "ACT 17:27"
 }
 ],
 "resource": [],

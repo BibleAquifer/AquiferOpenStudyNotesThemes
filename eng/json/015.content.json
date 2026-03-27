@@ -1,63 +1,81 @@
 [
 {
-"content_id": "500392",
-"reference_id": 203335,
+"content_id": "500414",
+"reference_id": 203357,
 "version": "1.0.2",
-"title": "Natural Revelation",
+"title": "The Old Life and the New Life",
 "media_type": "Text",
-"index_reference": "natural revelation",
+"index_reference": "old life and the new life",
 "language": "eng",
 "review_level": "None",
-"content": "<p>When God speaks directly to people, we call it <em>special revelation</em>. God also speaks to everyone indirectly through <em>natural revelation</em> (also known as <em>general revelation</em> because it is given to all). This happens through the natural world God created. For example, <a href=\"https://ref.ly/Ps19:1-Ps19:14\">Psalm 19 </a>says that knowledge of God in creation is available to everyone everywhere (see <a href=\"https://ref.ly/Ps19:1-Ps19:4\">Psalm 19:1–4</a>).</p><p>Sadly, not everyone responds positively to God. Paul explains in <a href=\"https://ref.ly/Rom1:1-Rom3:31\">Romans 1–3</a> that because of Adam&apos;s sin, all people turn away from the knowledge of God found in creation. Without God&apos;s grace, natural revelation only condemns people. As Paul says in <a href=\"https://ref.ly/Rom1:20\">1:20</a>, people &quot;are without excuse.”</p><p>God can use creation to help people realize he is the one true God. When God&apos;s grace supports and empowers this natural revelation, the world&apos;s beauty and complexity can inspire a search for the Creator. Paul appealed to natural revelation when he was in Athens as a way to introduce the good news about Jesus (<a href=\"https://ref.ly/Acts17:16-Acts17:31\">Acts 17:16–31</a>). God&apos;s revelation in the natural world and in human nature can encourage people to search for him. And then, through the special revelation God has ultimately given in his Son, Jesus Christ, people can truly know him and experience salvation.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ps19:1-Ps19:4\">Psalm 19:1–4</a>; <a href=\"https://ref.ly/Acts14:15-Acts14:17\">Acts 14:15–17</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:29\">Acts 17:24–29</a>; <a href=\"https://ref.ly/Rom1:19-Rom1:21\">Romans 1:19–21</a></p>",
+"content": "<p>When people become Christians, they unite with Jesus and share in his death and resurrection. Their old life, marked by sin, ends with Jesus. They start a new life through his power within them (see <a href=\"https://ref.ly/Rom6:3-Rom6:14\">Romans 6:3–14</a>). </p><p>God transforms them by his Spirit. Their minds are renewed (see <a href=\"https://ref.ly/Rom12:2\">Romans 12:2</a>). Their desires and actions change, and their lives begin to show his Spirit (<a href=\"https://ref.ly/Gal5:22-Gal5:23\">Galatians 5:22–23</a>). They begin to spiritually grow and become more like Jesus.</p><p>Christians have a duty to be &quot;conformed&quot; to Jesus&apos; death and resurrection (see <a href=\"https://ref.ly/Phil3:10-Phil3:11\">Philippians 3:10–14</a>). They must turn away from darkness and commit to a life full of light (<a href=\"https://ref.ly/Eph4:17-Eph5:20\">Ephesians 4:17–5:20</a>). This means they are to stop living in evil ways and start living in God&apos;s good ways. The apostle Paul describes this change using the image of clothing. God calls Christians to remove the old, sinful life influenced by the devil and put on a new, pure life guided by the Holy Spirit (<a href=\"https://ref.ly/Eph4:21-Eph4:24\">Ephesians 4:21–24</a>; <a href=\"https://ref.ly/Col3:1-Col3:15\">Colossians 3:1–15</a>; see also <a href=\"https://ref.ly/Gal3:27\">Galatians 3:27</a>). In doing so, they acknowledge their dependence on God’s grace and power.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Rom6:3-Rom6:14\">Romans 6:3–14</a>; <a href=\"https://ref.ly/Rom12:1-Rom12:2\">12:1–2</a>; <a href=\"https://ref.ly/Gal5:19-Gal5:23\">Galatians 5:19–23</a>; <a href=\"https://ref.ly/Eph4:17-Eph5:20\">Ephesians 4:17–5:20</a>; <a href=\"https://ref.ly/Phil3:12-Phil3:13\">Philippians 3:12–14</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "45001020",
-"start_ref_usfm": "ROM 1:20",
-"end_ref": "45001020",
-"end_ref_usfm": "ROM 1:20"
+"start_ref": "45012002",
+"start_ref_usfm": "ROM 12:2",
+"end_ref": "45012002",
+"end_ref_usfm": "ROM 12:2"
 },
 {
-"start_ref": "19019001",
-"start_ref_usfm": "PSA 19:1",
-"end_ref": "19019014",
-"end_ref_usfm": "PSA 19:14"
+"start_ref": "48003027",
+"start_ref_usfm": "GAL 3:27",
+"end_ref": "48003027",
+"end_ref_usfm": "GAL 3:27"
 },
 {
-"start_ref": "19019001",
-"start_ref_usfm": "PSA 19:1",
-"end_ref": "19019004",
-"end_ref_usfm": "PSA 19:4"
+"start_ref": "50003010",
+"start_ref_usfm": "PHP 3:10",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
 },
 {
-"start_ref": "45001019",
-"start_ref_usfm": "ROM 1:19",
-"end_ref": "45001021",
-"end_ref_usfm": "ROM 1:21"
+"start_ref": "45012001",
+"start_ref_usfm": "ROM 12:1",
+"end_ref": "45012002",
+"end_ref_usfm": "ROM 12:2"
 },
 {
-"start_ref": "45001001",
-"start_ref_usfm": "ROM 1:1",
-"end_ref": "45003031",
-"end_ref_usfm": "ROM 3:31"
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005023",
+"end_ref_usfm": "GAL 5:23"
 },
 {
-"start_ref": "44017016",
-"start_ref_usfm": "ACT 17:16",
-"end_ref": "44017031",
-"end_ref_usfm": "ACT 17:31"
+"start_ref": "48005019",
+"start_ref_usfm": "GAL 5:19",
+"end_ref": "48005023",
+"end_ref_usfm": "GAL 5:23"
 },
 {
-"start_ref": "44014015",
-"start_ref_usfm": "ACT 14:15",
-"end_ref": "44014017",
-"end_ref_usfm": "ACT 14:17"
+"start_ref": "49004017",
+"start_ref_usfm": "EPH 4:17",
+"end_ref": "49005020",
+"end_ref_usfm": "EPH 5:20"
 },
 {
-"start_ref": "44017024",
-"start_ref_usfm": "ACT 17:24",
-"end_ref": "44017029",
-"end_ref_usfm": "ACT 17:29"
+"start_ref": "45006003",
+"start_ref_usfm": "ROM 6:3",
+"end_ref": "45006014",
+"end_ref_usfm": "ROM 6:14"
+},
+{
+"start_ref": "49004021",
+"start_ref_usfm": "EPH 4:21",
+"end_ref": "49004024",
+"end_ref_usfm": "EPH 4:24"
+},
+{
+"start_ref": "51003001",
+"start_ref_usfm": "COL 3:1",
+"end_ref": "51003015",
+"end_ref_usfm": "COL 3:15"
+},
+{
+"start_ref": "50003012",
+"start_ref_usfm": "PHP 3:12",
+"end_ref": "50003013",
+"end_ref_usfm": "PHP 3:13"
 }
 ],
 "resource": [],
@@ -65,244 +83,775 @@
 }
 },
 {
-"content_id": "500248",
-"reference_id": 203191,
+"content_id": "500394",
+"reference_id": 203337,
 "version": "1.0.2",
-"title": "Nehemiah’s Confidence in God",
+"title": "The Old Realm and the New",
 "media_type": "Text",
-"index_reference": "nehemiah’s confidence in god",
+"index_reference": "old realm and the new",
 "language": "eng",
 "review_level": "None",
-"content": "<p>God gave the prophet Nehemiah favor with a powerful Persian king. The king agreed to all of Nehemiah&apos;s requests (<a href=\"https://ref.ly/Neh1:11\">Nehemiah 1:11</a>; <a href=\"https://ref.ly/Neh2:8\">2:8</a>, <a href=\"https://ref.ly/Neh2:18\">18</a>). Nehemiah then confidently shared his bold plan to rebuild Jerusalem&apos;s walls. The people of Jerusalem trusted God would help them succeed and protect them from enemies (<a href=\"https://ref.ly/Neh2:18\">2:18</a>; <a href=\"https://ref.ly/Neh4:4-Neh4:5\">4:4–5</a>, <a href=\"https://ref.ly/Neh4:9\">9</a>). </p><p>They continued their work despite opposition. They knew God fights for his people and disrupts evil plans (<a href=\"https://ref.ly/Neh4:14-Neh4:15\">4:14–15</a>, <a href=\"https://ref.ly/Neh4:20\">20</a>). When they completed the walls, Nehemiah acknowledged that the challenging project succeeded only with God&apos;s help (<a href=\"https://ref.ly/Neh6:16\">6:16</a>).</p><p>The book of Nehemiah shows that God is all-powerful and can achieve his plans in both personal lives and nations. The prayer in <a href=\"https://ref.ly/Neh9:1-Neh9:38\">Nehemiah 9</a> praises God for his powerful acts. God created the heavens and earth, called Abram from Ur, and gave the land to Israel (<a href=\"https://ref.ly/Neh9:6\">9:6</a>; <a href=\"https://ref.ly/Neh9:7-Neh9:8\">7–8</a>, <a href=\"https://ref.ly/Neh9:22-Neh9:25\">22–25</a>). </p><p>God demonstrated his power over people and creation to show care for his people in three main ways (<a href=\"https://ref.ly/Neh9:9-Neh9:15\">9:9–15</a>):</p><ol><li><p>The miraculous signs in Egypt.</p></li><li><p>The parting of the Red Sea.</p></li><li><p>The provision of guidance, food, and water in the wilderness.</p></li></ol><p>The Lord sent the Israelites into exile after many generations of sin (<a href=\"https://ref.ly/Neh9:32-Neh9:37\">Nehemiah 9:32–37</a>). Now, he was fulfilling his promise to restore them (<a href=\"https://ref.ly/Neh1:8-Neh1:9\">1:8–9</a>). Nehemiah prayed and led with confidence because he knew everything was part of God&apos;s plan. </p><p>This same trust in God led Abram to leave Ur and go to an unknown land (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Genesis 12:1–3</a>; <a href=\"https://ref.ly/Heb11:8-Heb11:10\">Hebrews 11:8–10</a>). It caused Rahab to trust God (<a href=\"https://ref.ly/Josh2:9-Josh2:14\">Joshua 2:9–14</a>; <a href=\"https://ref.ly/Heb11:31\">Hebrews 11:31</a>). It prompted King Hezekiah to resist the king of Assyria, Sennacherib (<a href=\"https://ref.ly/2Kgs18:1-2Kgs19:37\">2 Kings 18:1–19:37</a>). Confidence comes when people trust God will keep his promises and complete the work he started in their lives (<a href=\"https://ref.ly/Phil1:6\">Philippians 1:6</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen12:1-Gen12:4\">Genesis 12:1–4</a>; <a href=\"https://ref.ly/Josh1:10-Josh1:18\">Joshua 1:10–18</a>; <a href=\"https://ref.ly/Josh2:9-Josh2:14\">2:9–14</a>; <a href=\"https://ref.ly/2Kgs18:1-2Kgs19:37\">2 Kings 18:1–19:37</a>; <a href=\"https://ref.ly/Neh1:8-Neh1:9\">Nehemiah 1:8–9</a>, <a href=\"https://ref.ly/Neh1:11\">11</a>; <a href=\"https://ref.ly/Neh2:8\">2:8</a>, <a href=\"https://ref.ly/Neh2:18\">18</a>, <a href=\"https://ref.ly/Neh2:20\">20</a>; <a href=\"https://ref.ly/Neh4:4-Neh4:5\">4:4–5</a>, <a href=\"https://ref.ly/Neh4:9\">9</a>, <a href=\"https://ref.ly/Neh4:14-Neh4:15\">14–15</a>, <a href=\"https://ref.ly/Neh4:20\">20</a>; <a href=\"https://ref.ly/Neh6:16\">6:16</a>; <a href=\"https://ref.ly/Neh9:6-Neh9:31\">9:6–31</a>; <a href=\"https://ref.ly/Ps4:5\">Psalms 4:5</a>; <a href=\"https://ref.ly/Ps9:10\">9:10</a>; <a href=\"https://ref.ly/Ps37:3\">37:3</a>; <a href=\"https://ref.ly/Ps40:3\">40:3</a>; <a href=\"https://ref.ly/Ps44:6-Ps44:7\">44:6–7</a>; <a href=\"https://ref.ly/Ps56:3-Ps56:12\">56:3–12</a>; <a href=\"https://ref.ly/Ps112:1-Ps112:9\">112:1–9</a>; <a href=\"https://ref.ly/Prov3:5-Prov3:12\">Proverbs 3:5–12</a>; <a href=\"https://ref.ly/Prov16:20\">16:20</a>; <a href=\"https://ref.ly/Prov28:1\">28:1</a>, <a href=\"https://ref.ly/Prov28:25\">25</a>; <a href=\"https://ref.ly/Isa26:3\">Isaiah 26:3</a>; <a href=\"https://ref.ly/Heb11:8-Heb11:10\">Hebrews 11:8–10</a>, <a href=\"https://ref.ly/Heb11:31\">31</a>; <a href=\"https://ref.ly/1John4:17\">1 John 4:17</a></p>",
+"content": "<p>The Jewish people in Paul&apos;s time saw a clear difference between the &quot;present evil age&quot; and a &quot;glorious age to come.&quot; Throughout <a href=\"https://ref.ly/Rom5:1-Rom8:39\">Romans 5–8</a>, Paul uses these contrasting &quot;realms&quot; or &quot;kingdoms&quot; to explain our experience of salvation. </p><p>The rulers of the old realm are: </p><ul><li><p>death (<a href=\"https://ref.ly/Rom5:12-Rom5:21\">Romans 5:12–21</a>);</p></li><li><p>sin (chapter <a href=\"https://ref.ly/Rom6:1-Rom6:23\">6</a>);</p></li><li><p>the law (chapter <a href=\"https://ref.ly/Rom7:1-Rom7:25\">7</a>); and</p></li><li><p>sinful nature (&quot;the flesh&quot; in <a href=\"https://ref.ly/Rom8:1-Rom8:11\">8:1–11</a>). </p></li></ul><p>The new realm is characterized by:</p><ul><li><p>life (<a href=\"https://ref.ly/Rom5:1-Rom5:21\">Romans 5</a>);</p></li><li><p>righteous living (chapter <a href=\"https://ref.ly/Rom6:1-Rom6:23\">6</a>);</p></li><li><p>grace (chapter <a href=\"https://ref.ly/Rom6:1-Rom6:23\">6</a>); and</p></li><li><p>the Holy Spirit (chapter <a href=\"https://ref.ly/Rom8:1-Rom8:39\">8</a>). </p></li></ul><p>A person&apos;s future depends directly on which of these two realms they belong to.</p><p>Each realm has a leader representing its people. Adam, the first man, leads the old realm of sin and death. Christ leads the new realm of forgiveness and life. By nature, all humans belong to the old realm of sin and death, represented by Adam. His sin and death affect everyone&apos;s future (<a href=\"https://ref.ly/Rom5:12\">Romans 5:12</a>, <a href=\"https://ref.ly/Rom5:18-Rom5:19\">18–19</a>). </p><p>Those who have faith in God through Jesus move into the new realm of life. God appointed Jesus Christ as a &quot;second Adam&quot; (see <a href=\"https://ref.ly/Rom5:14\">5:14</a>). By obeying God and fulfilling his will, Jesus achieved a major victory over the realm of sin that Adam started (<a href=\"https://ref.ly/Rom5:18-Rom5:19\">5:18–19</a>). By accepting God&apos;s gift of grace, people choose Jesus as their leader and hope for eternal life (<a href=\"https://ref.ly/Rom5:17\">5:17</a>).</p><p>People in the new realm unite with Christ and enjoy the benefits of this union. They have &quot;died with Christ,&quot; been &quot;buried with Christ,&quot; and their current new life with Christ is an introduction to the day they will &quot;live with Him&quot; forever (<a href=\"https://ref.ly/Rom6:3-Rom6:11\">Romans 6:3–11</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ps2:1-Ps2:10\">Psalms 2:1–10</a>; <a href=\"https://ref.ly/Ps110:2\">110:2</a>; <a href=\"https://ref.ly/Ps145:13\">145:13</a>; <a href=\"https://ref.ly/Dan2:31-Dan2:45\">Daniel 2:31–45</a>; <a href=\"https://ref.ly/Dan7:1-Dan7:28\">7:1–28</a>; <a href=\"https://ref.ly/Matt3:2\">Matthew 3:2</a>; <a href=\"https://ref.ly/Matt6:10\">6:10</a>; <a href=\"https://ref.ly/Matt7:13\">7:13</a>; <a href=\"https://ref.ly/Matt8:11-Matt8:12\">8:11–12</a>; <a href=\"https://ref.ly/Matt12:25-Matt12:28\">12:25–28</a>; <a href=\"https://ref.ly/Matt13:44-Matt13:52\">13:44–52</a>; <a href=\"https://ref.ly/Matt20:25-Matt20:28\">20:25–28</a>; <a href=\"https://ref.ly/John18:36\">John 18:36</a>; <a href=\"https://ref.ly/Rom5:12-Rom8:39\">Romans 5:12–8:39</a>; <a href=\"https://ref.ly/Rom14:17\">14:17</a>; <a href=\"https://ref.ly/1Cor6:9-1Cor6:11\">1 Corinthians 6:9–11</a>; <a href=\"https://ref.ly/1Cor15:20-1Cor15:28\">15:20–28</a>; <a href=\"https://ref.ly/Gal5:16-Gal5:26\">Galatians 5:16–26</a>; <a href=\"https://ref.ly/Eph1:3\">Ephesians 1:3</a>, <a href=\"https://ref.ly/Eph1:20\">20</a>; <a href=\"https://ref.ly/Eph2:6\">2:6</a>; <a href=\"https://ref.ly/Eph5:1-Eph5:20\">5:1–20</a>; <a href=\"https://ref.ly/Col1:13-Col1:14\">Colossians 1:13–14</a>; <a href=\"https://ref.ly/Heb6:4-Heb6:5\">Hebrews 6:4–5</a>; <a href=\"https://ref.ly/Heb12:18-Heb12:29\">12:18–29</a>; <a href=\"https://ref.ly/Rev11:15\">Revelation 11:15</a>; <a href=\"https://ref.ly/Rev12:10\">12:10</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "16001011",
-"start_ref_usfm": "NEH 1:11",
-"end_ref": "16001011",
-"end_ref_usfm": "NEH 1:11"
+"start_ref": "19110002",
+"start_ref_usfm": "PSA 110:2",
+"end_ref": "19110002",
+"end_ref_usfm": "PSA 110:2"
 },
 {
-"start_ref": "16002008",
-"start_ref_usfm": "NEH 2:8",
-"end_ref": "16002008",
-"end_ref_usfm": "NEH 2:8"
+"start_ref": "19145013",
+"start_ref_usfm": "PSA 145:13",
+"end_ref": "19145013",
+"end_ref_usfm": "PSA 145:13"
 },
 {
-"start_ref": "16002018",
-"start_ref_usfm": "NEH 2:18",
-"end_ref": "16002018",
-"end_ref_usfm": "NEH 2:18"
+"start_ref": "40003002",
+"start_ref_usfm": "MAT 3:2",
+"end_ref": "40003002",
+"end_ref_usfm": "MAT 3:2"
 },
 {
-"start_ref": "16002020",
-"start_ref_usfm": "NEH 2:20",
-"end_ref": "16002020",
-"end_ref_usfm": "NEH 2:20"
+"start_ref": "40006010",
+"start_ref_usfm": "MAT 6:10",
+"end_ref": "40006010",
+"end_ref_usfm": "MAT 6:10"
 },
 {
-"start_ref": "16004009",
-"start_ref_usfm": "NEH 4:9",
-"end_ref": "16004009",
-"end_ref_usfm": "NEH 4:9"
+"start_ref": "40007013",
+"start_ref_usfm": "MAT 7:13",
+"end_ref": "40007013",
+"end_ref_usfm": "MAT 7:13"
 },
 {
-"start_ref": "16004020",
-"start_ref_usfm": "NEH 4:20",
-"end_ref": "16004020",
-"end_ref_usfm": "NEH 4:20"
+"start_ref": "43018036",
+"start_ref_usfm": "JHN 18:36",
+"end_ref": "43018036",
+"end_ref_usfm": "JHN 18:36"
 },
 {
-"start_ref": "16006016",
-"start_ref_usfm": "NEH 6:16",
-"end_ref": "16006016",
-"end_ref_usfm": "NEH 6:16"
+"start_ref": "45005012",
+"start_ref_usfm": "ROM 5:12",
+"end_ref": "45005012",
+"end_ref_usfm": "ROM 5:12"
 },
 {
-"start_ref": "16009006",
-"start_ref_usfm": "NEH 9:6",
-"end_ref": "16009006",
-"end_ref_usfm": "NEH 9:6"
+"start_ref": "45005014",
+"start_ref_usfm": "ROM 5:14",
+"end_ref": "45005014",
+"end_ref_usfm": "ROM 5:14"
 },
 {
-"start_ref": "19004005",
-"start_ref_usfm": "PSA 4:5",
-"end_ref": "19004005",
-"end_ref_usfm": "PSA 4:5"
+"start_ref": "45005017",
+"start_ref_usfm": "ROM 5:17",
+"end_ref": "45005017",
+"end_ref_usfm": "ROM 5:17"
 },
 {
-"start_ref": "19009010",
-"start_ref_usfm": "PSA 9:10",
-"end_ref": "19009010",
-"end_ref_usfm": "PSA 9:10"
+"start_ref": "45014017",
+"start_ref_usfm": "ROM 14:17",
+"end_ref": "45014017",
+"end_ref_usfm": "ROM 14:17"
 },
 {
-"start_ref": "19037003",
-"start_ref_usfm": "PSA 37:3",
-"end_ref": "19037003",
-"end_ref_usfm": "PSA 37:3"
+"start_ref": "49001003",
+"start_ref_usfm": "EPH 1:3",
+"end_ref": "49001003",
+"end_ref_usfm": "EPH 1:3"
 },
 {
-"start_ref": "19040003",
-"start_ref_usfm": "PSA 40:3",
-"end_ref": "19040003",
-"end_ref_usfm": "PSA 40:3"
+"start_ref": "49001020",
+"start_ref_usfm": "EPH 1:20",
+"end_ref": "49001020",
+"end_ref_usfm": "EPH 1:20"
 },
 {
-"start_ref": "20016020",
-"start_ref_usfm": "PRO 16:20",
-"end_ref": "20016020",
-"end_ref_usfm": "PRO 16:20"
+"start_ref": "49002006",
+"start_ref_usfm": "EPH 2:6",
+"end_ref": "49002006",
+"end_ref_usfm": "EPH 2:6"
 },
 {
-"start_ref": "20028001",
-"start_ref_usfm": "PRO 28:1",
-"end_ref": "20028001",
-"end_ref_usfm": "PRO 28:1"
+"start_ref": "66011015",
+"start_ref_usfm": "REV 11:15",
+"end_ref": "66011015",
+"end_ref_usfm": "REV 11:15"
 },
 {
-"start_ref": "20028025",
-"start_ref_usfm": "PRO 28:25",
-"end_ref": "20028025",
-"end_ref_usfm": "PRO 28:25"
+"start_ref": "66012010",
+"start_ref_usfm": "REV 12:10",
+"end_ref": "66012010",
+"end_ref_usfm": "REV 12:10"
 },
 {
-"start_ref": "23026003",
-"start_ref_usfm": "ISA 26:3",
-"end_ref": "23026003",
-"end_ref_usfm": "ISA 26:3"
+"start_ref": "45005012",
+"start_ref_usfm": "ROM 5:12",
+"end_ref": "45005021",
+"end_ref_usfm": "ROM 5:21"
 },
 {
-"start_ref": "50001006",
-"start_ref_usfm": "PHP 1:6",
-"end_ref": "50001006",
-"end_ref_usfm": "PHP 1:6"
+"start_ref": "27002031",
+"start_ref_usfm": "DAN 2:31",
+"end_ref": "27002045",
+"end_ref_usfm": "DAN 2:45"
 },
 {
-"start_ref": "58011031",
-"start_ref_usfm": "HEB 11:31",
-"end_ref": "58011031",
-"end_ref_usfm": "HEB 11:31"
+"start_ref": "27007001",
+"start_ref_usfm": "DAN 7:1",
+"end_ref": "27007028",
+"end_ref_usfm": "DAN 7:28"
 },
 {
-"start_ref": "62004017",
-"start_ref_usfm": "1JN 4:17",
-"end_ref": "62004017",
-"end_ref_usfm": "1JN 4:17"
+"start_ref": "45008001",
+"start_ref_usfm": "ROM 8:1",
+"end_ref": "45008039",
+"end_ref_usfm": "ROM 8:39"
 },
 {
-"start_ref": "01012001",
-"start_ref_usfm": "GEN 12:1",
-"end_ref": "01012003",
-"end_ref_usfm": "GEN 12:3"
+"start_ref": "46006009",
+"start_ref_usfm": "1CO 6:9",
+"end_ref": "46006011",
+"end_ref_usfm": "1CO 6:11"
 },
 {
-"start_ref": "01012001",
-"start_ref_usfm": "GEN 12:1",
-"end_ref": "01012004",
-"end_ref_usfm": "GEN 12:4"
+"start_ref": "46015020",
+"start_ref_usfm": "1CO 15:20",
+"end_ref": "46015028",
+"end_ref_usfm": "1CO 15:28"
 },
 {
-"start_ref": "58011008",
-"start_ref_usfm": "HEB 11:8",
-"end_ref": "58011010",
-"end_ref_usfm": "HEB 11:10"
+"start_ref": "45006003",
+"start_ref_usfm": "ROM 6:3",
+"end_ref": "45006011",
+"end_ref_usfm": "ROM 6:11"
 },
 {
-"start_ref": "16004004",
-"start_ref_usfm": "NEH 4:4",
-"end_ref": "16004005",
-"end_ref_usfm": "NEH 4:5"
+"start_ref": "45006001",
+"start_ref_usfm": "ROM 6:1",
+"end_ref": "45006023",
+"end_ref_usfm": "ROM 6:23"
 },
 {
-"start_ref": "12018001",
-"start_ref_usfm": "2KI 18:1",
-"end_ref": "12019037",
-"end_ref_usfm": "2KI 19:37"
+"start_ref": "40008011",
+"start_ref_usfm": "MAT 8:11",
+"end_ref": "40008012",
+"end_ref_usfm": "MAT 8:12"
 },
 {
-"start_ref": "16001008",
-"start_ref_usfm": "NEH 1:8",
-"end_ref": "16001009",
-"end_ref_usfm": "NEH 1:9"
+"start_ref": "45005001",
+"start_ref_usfm": "ROM 5:1",
+"end_ref": "45005021",
+"end_ref_usfm": "ROM 5:21"
 },
 {
-"start_ref": "16009032",
-"start_ref_usfm": "NEH 9:32",
-"end_ref": "16009037",
-"end_ref_usfm": "NEH 9:37"
+"start_ref": "45007001",
+"start_ref_usfm": "ROM 7:1",
+"end_ref": "45007025",
+"end_ref_usfm": "ROM 7:25"
 },
 {
-"start_ref": "16009007",
-"start_ref_usfm": "NEH 9:7",
-"end_ref": "16009008",
-"end_ref_usfm": "NEH 9:8"
+"start_ref": "45005001",
+"start_ref_usfm": "ROM 5:1",
+"end_ref": "45008039",
+"end_ref_usfm": "ROM 8:39"
 },
 {
-"start_ref": "16004014",
-"start_ref_usfm": "NEH 4:14",
-"end_ref": "16004015",
-"end_ref_usfm": "NEH 4:15"
+"start_ref": "58006004",
+"start_ref_usfm": "HEB 6:4",
+"end_ref": "58006005",
+"end_ref_usfm": "HEB 6:5"
 },
 {
-"start_ref": "16009001",
-"start_ref_usfm": "NEH 9:1",
-"end_ref": "16009038",
-"end_ref_usfm": "NEH 9:38"
+"start_ref": "48005016",
+"start_ref_usfm": "GAL 5:16",
+"end_ref": "48005026",
+"end_ref_usfm": "GAL 5:26"
 },
 {
-"start_ref": "16009022",
-"start_ref_usfm": "NEH 9:22",
-"end_ref": "16009025",
-"end_ref_usfm": "NEH 9:25"
+"start_ref": "40020025",
+"start_ref_usfm": "MAT 20:25",
+"end_ref": "40020028",
+"end_ref_usfm": "MAT 20:28"
 },
 {
-"start_ref": "16009009",
-"start_ref_usfm": "NEH 9:9",
-"end_ref": "16009015",
-"end_ref_usfm": "NEH 9:15"
+"start_ref": "51001013",
+"start_ref_usfm": "COL 1:13",
+"end_ref": "51001014",
+"end_ref_usfm": "COL 1:14"
 },
 {
-"start_ref": "06002009",
-"start_ref_usfm": "JOS 2:9",
-"end_ref": "06002014",
-"end_ref_usfm": "JOS 2:14"
+"start_ref": "58012018",
+"start_ref_usfm": "HEB 12:18",
+"end_ref": "58012029",
+"end_ref_usfm": "HEB 12:29"
 },
 {
-"start_ref": "06001010",
-"start_ref_usfm": "JOS 1:10",
-"end_ref": "06001018",
-"end_ref_usfm": "JOS 1:18"
+"start_ref": "45008001",
+"start_ref_usfm": "ROM 8:1",
+"end_ref": "45008011",
+"end_ref_usfm": "ROM 8:11"
 },
 {
-"start_ref": "16009006",
-"start_ref_usfm": "NEH 9:6",
-"end_ref": "16009031",
-"end_ref_usfm": "NEH 9:31"
+"start_ref": "45005018",
+"start_ref_usfm": "ROM 5:18",
+"end_ref": "45005019",
+"end_ref_usfm": "ROM 5:19"
 },
 {
-"start_ref": "19044006",
-"start_ref_usfm": "PSA 44:6",
-"end_ref": "19044007",
-"end_ref_usfm": "PSA 44:7"
+"start_ref": "19002001",
+"start_ref_usfm": "PSA 2:1",
+"end_ref": "19002010",
+"end_ref_usfm": "PSA 2:10"
 },
 {
-"start_ref": "19056003",
-"start_ref_usfm": "PSA 56:3",
-"end_ref": "19056012",
-"end_ref_usfm": "PSA 56:12"
+"start_ref": "40012025",
+"start_ref_usfm": "MAT 12:25",
+"end_ref": "40012028",
+"end_ref_usfm": "MAT 12:28"
 },
 {
-"start_ref": "19112001",
-"start_ref_usfm": "PSA 112:1",
-"end_ref": "19112009",
-"end_ref_usfm": "PSA 112:9"
+"start_ref": "40013044",
+"start_ref_usfm": "MAT 13:44",
+"end_ref": "40013052",
+"end_ref_usfm": "MAT 13:52"
 },
 {
-"start_ref": "20003005",
-"start_ref_usfm": "PRO 3:5",
-"end_ref": "20003012",
-"end_ref_usfm": "PRO 3:12"
+"start_ref": "45005012",
+"start_ref_usfm": "ROM 5:12",
+"end_ref": "45008039",
+"end_ref_usfm": "ROM 8:39"
+},
+{
+"start_ref": "49005001",
+"start_ref_usfm": "EPH 5:1",
+"end_ref": "49005020",
+"end_ref_usfm": "EPH 5:20"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "500202",
+"reference_id": 203145,
+"version": "1.0.2",
+"title": "Oppression of God’s People",
+"media_type": "Text",
+"index_reference": "oppression of gods people",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God does not want his people to suffer under oppression. From the time when God freed the Israelites from slavery in Egypt under Moses (the exodus), to when Joshua led them to conquer the promised land, and through David&apos;s battles, God&apos;s goal for Israel was complete victory over their enemies (see <a href=\"https://ref.ly/Josh1:1-Josh1:9\">Joshua 1:1–9</a>). In a similar way, the New Testament often speaks of freedom from the oppression or control of sin as an essential blessing of a relationship with Jesus (<a href=\"https://ref.ly/Rom6:1-Rom6:14\">Romans 6:1–14</a>; <a href=\"https://ref.ly/Gal5:1-Gal5:15\">Galatians 5:1–15</a>).</p><p>Why does oppression exist? The book of Judges suggests it is because of human disobedience. If Israel obeyed God he promised victory in the conquest. Yet, at best they only partially obeyed him (<a href=\"https://ref.ly/Judg1:19-Judg1:36\">Judges 1:19–36</a>). With the rewards of victory available, why did God&apos;s past people fail as well as the church today?</p><p>In Judges, a new generation grew up that did not participate in the exodus from Egypt or Joshua&apos;s conquest of Canaan. Their faith relied on stories of divine acts from the past. They had not personally witnessed &quot;<span>all the great works that the LORD had done for Israel&quot;</span> (<a href=\"https://ref.ly/Judg2:7\">Judges 2:7</a>). This generation &quot;<span>did not know the LORD or the works that He had done for Israel&quot;</span> (<a href=\"https://ref.ly/Judg2:10\">2:10</a>). </p><p>God allowed enemies to remain in the land &quot;to test all the Israelites&quot; (<a href=\"https://ref.ly/Judg3:1-Judg3:4\">3:1–4</a>). But Israel did not expel these enemies as God commanded. The rest of the book of Judges shows the tragic results of that failure.</p><p>God allows his people to experience the consequences of turning away from him (<a href=\"https://ref.ly/Judg2:12-Judg2:14\">Judges 2:12–14</a>). But God remains faithful and does not ultimately abandon those who truly worship him. Even in judgment, God punishes for good. He teaches his people obedience. </p><p>The enemies who took Israel&apos;s blessings became part of God&apos;s test of Israel&apos;s faithfulness. We can learn from oppression, as both physical and spiritual battles need discipline. This experience can lead to a &quot;<span>a harvest of righteousness and peace</span>&quot; (see <a href=\"https://ref.ly/Heb12:5-Heb12:11\">Hebrews 12:5–11</a>).</p><p>Through Jesus Christ, God provided undeserved salvation from the worldwide oppression of sin, “while we were still sinners” (<a href=\"https://ref.ly/Rom5:8\">Romans 5:8</a>). The Israelites experienced salvation from their enemies when they turned in repentance to the Lord. So, we can experience salvation from the greatest oppressive force when we turn to God in repentance.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Lev26:14-Lev26:39\">Leviticus 26:14–39</a>; <a href=\"https://ref.ly/Deut8:19-Deut8:20\">Deuteronomy 8:19–20</a>; <a href=\"https://ref.ly/Deut28:15-Deut28:68\">28:15–68</a>; <a href=\"https://ref.ly/Judg2:2-Judg2:3\">Judges 2:2–3</a>, <a href=\"https://ref.ly/Judg2:10-Judg2:15\">10–15</a>,<a href=\"https://ref.ly/Judg2:18\">18</a>; <a href=\"https://ref.ly/Judg3:1-Judg3:8\">3:1–8</a>; <a href=\"https://ref.ly/2Kgs17:5-2Kgs17:23\">2 Kings 17:5–23</a>; <a href=\"https://ref.ly/Ezek22:27-Ezek22:29\">Ezekiel 22:27–29</a>; <a href=\"https://ref.ly/Amos4:1\">Amos 4:1</a>; <a href=\"https://ref.ly/Jas2:1-Jas2:7\">James 2:1–7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07002007",
+"start_ref_usfm": "JDG 2:7",
+"end_ref": "07002007",
+"end_ref_usfm": "JDG 2:7"
+},
+{
+"start_ref": "07002010",
+"start_ref_usfm": "JDG 2:10",
+"end_ref": "07002010",
+"end_ref_usfm": "JDG 2:10"
+},
+{
+"start_ref": "07002018",
+"start_ref_usfm": "JDG 2:18",
+"end_ref": "07002018",
+"end_ref_usfm": "JDG 2:18"
+},
+{
+"start_ref": "30004001",
+"start_ref_usfm": "AMO 4:1",
+"end_ref": "30004001",
+"end_ref_usfm": "AMO 4:1"
+},
+{
+"start_ref": "45005008",
+"start_ref_usfm": "ROM 5:8",
+"end_ref": "45005008",
+"end_ref_usfm": "ROM 5:8"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028068",
+"end_ref_usfm": "DEU 28:68"
+},
+{
+"start_ref": "07002012",
+"start_ref_usfm": "JDG 2:12",
+"end_ref": "07002014",
+"end_ref_usfm": "JDG 2:14"
+},
+{
+"start_ref": "58012005",
+"start_ref_usfm": "HEB 12:5",
+"end_ref": "58012011",
+"end_ref_usfm": "HEB 12:11"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026039",
+"end_ref_usfm": "LEV 26:39"
+},
+{
+"start_ref": "06001001",
+"start_ref_usfm": "JOS 1:1",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+},
+{
+"start_ref": "59002001",
+"start_ref_usfm": "JAS 2:1",
+"end_ref": "59002007",
+"end_ref_usfm": "JAS 2:7"
+},
+{
+"start_ref": "07003001",
+"start_ref_usfm": "JDG 3:1",
+"end_ref": "07003004",
+"end_ref_usfm": "JDG 3:4"
+},
+{
+"start_ref": "05008019",
+"start_ref_usfm": "DEU 8:19",
+"end_ref": "05008020",
+"end_ref_usfm": "DEU 8:20"
+},
+{
+"start_ref": "12017005",
+"start_ref_usfm": "2KI 17:5",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "45006001",
+"start_ref_usfm": "ROM 6:1",
+"end_ref": "45006014",
+"end_ref_usfm": "ROM 6:14"
+},
+{
+"start_ref": "48005001",
+"start_ref_usfm": "GAL 5:1",
+"end_ref": "48005015",
+"end_ref_usfm": "GAL 5:15"
+},
+{
+"start_ref": "07001019",
+"start_ref_usfm": "JDG 1:19",
+"end_ref": "07001036",
+"end_ref_usfm": "JDG 1:36"
+},
+{
+"start_ref": "07002002",
+"start_ref_usfm": "JDG 2:2",
+"end_ref": "07002003",
+"end_ref_usfm": "JDG 2:3"
+},
+{
+"start_ref": "07002010",
+"start_ref_usfm": "JDG 2:10",
+"end_ref": "07002015",
+"end_ref_usfm": "JDG 2:15"
+},
+{
+"start_ref": "07003001",
+"start_ref_usfm": "JDG 3:1",
+"end_ref": "07003008",
+"end_ref_usfm": "JDG 3:8"
+},
+{
+"start_ref": "26022027",
+"start_ref_usfm": "EZK 22:27",
+"end_ref": "26022029",
+"end_ref_usfm": "EZK 22:29"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "500372",
+"reference_id": 203315,
+"version": "1.0.2",
+"title": "Our Advocate",
+"media_type": "Text",
+"index_reference": "our advocate",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In the Gospel of John, the Greek word <em>paraklētos </em>refers to the Holy Spirit. This word literally means &quot;called alongside&quot; and describes him as &quot;Advocate&quot;  (<a href=\"https://ref.ly/John14:16\">John 14:16</a>, <a href=\"https://ref.ly/John14:26\">26</a>; <a href=\"https://ref.ly/John15:26\">15:26</a>; <a href=\"https://ref.ly/John16:7\">16:7</a>). This term appears in other Greek texts, where it refers to a legal advocate. This is someone who speaks in a person&apos;s defense in court and gives legal advice. </p><p>&quot;Counselor&quot; is a common translation, but its modern meaning related to psychology can be misleading. The older legal sense of a lawyer giving advice is more accurate. </p><p>&quot;Comforter&quot; is another common translation, but it can also be misleading. The older English meaning of someone who strengthens, or an &quot;encourager,&quot; aligns better with the New Testament idea of <em>paraklētos.</em></p><p>Jesus described the Spirit as <em>another</em> &quot;Advocate&quot; (<a href=\"https://ref.ly/John14:16\">John 14:16</a>). Jesus, the first advocate, sent the Holy Spirit as the second Advocate (see <a href=\"https://ref.ly/1John2:1\">1 John 2:1</a>). Every task of the Spirit described in <a href=\"https://ref.ly/John14:1-John16:33\">John 14–16</a> is a task Jesus performed elsewhere in the gospel stories. Jesus promised that the Holy Spirit would come to encourage, instruct, and strengthen his followers. The Spirit would maintain Jesus&apos; presence among his disciples. Five promises about the Spirit show different works the Spirit does (<a href=\"https://ref.ly/John14:16-John14:17\">John 14:16–17</a>, <a href=\"https://ref.ly/John14:26\">26</a>; <a href=\"https://ref.ly/John15:26\">15:26</a>; <a href=\"https://ref.ly/John16:7-John16:8\">16:7–8</a>, <a href=\"https://ref.ly/John16:13-John16:14\">13–14</a>).</p><p>The Spirit became available to Jesus&apos; disciples after his death (see <a href=\"https://ref.ly/John7:39\">John 7:39</a>; <a href=\"https://ref.ly/John20:22\">20:22</a>). The Spirit now continues Jesus&apos; work and presence in the lives of Christians (<a href=\"https://ref.ly/John14:16-John14:26\">14:16–26</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam2:25\">1 Samuel 2:25</a>; <a href=\"https://ref.ly/1Sam24:15\">24:15</a>; <a href=\"https://ref.ly/2Sam15:12\">2 Samuel 15:12</a>; <a href=\"https://ref.ly/1Kgs12:6-1Kgs12:14\">1 Kings 12:6–14</a>; <a href=\"https://ref.ly/1Chr27:32\">1 Chronicles 27:32</a>; <a href=\"https://ref.ly/Job16:18-Job16:22\">Job 16:18–22</a>; <a href=\"https://ref.ly/Isa1:26\">Isaiah 1:26</a>; <a href=\"https://ref.ly/Isa9:6\">9:6</a>; <a href=\"https://ref.ly/John14:1-John16:15\">John 14:1–16:15</a>; <a href=\"https://ref.ly/Gal3:19-Gal3:20\">Galatians 3:19–20</a>; <a href=\"https://ref.ly/Gal6:13\">6:13</a>; <a href=\"https://ref.ly/1Tim2:5\">1 Timothy 2:5</a>; <a href=\"https://ref.ly/Heb8:6\">Hebrews 8:6</a>; <a href=\"https://ref.ly/Heb9:15\">9:15</a>; <a href=\"https://ref.ly/Heb12:24\">12:24</a>; <a href=\"https://ref.ly/1John2:1\">1 John 2:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09002025",
+"start_ref_usfm": "1SA 2:25",
+"end_ref": "09002025",
+"end_ref_usfm": "1SA 2:25"
+},
+{
+"start_ref": "09024015",
+"start_ref_usfm": "1SA 24:15",
+"end_ref": "09024015",
+"end_ref_usfm": "1SA 24:15"
+},
+{
+"start_ref": "10015012",
+"start_ref_usfm": "2SA 15:12",
+"end_ref": "10015012",
+"end_ref_usfm": "2SA 15:12"
+},
+{
+"start_ref": "13027032",
+"start_ref_usfm": "1CH 27:32",
+"end_ref": "13027032",
+"end_ref_usfm": "1CH 27:32"
+},
+{
+"start_ref": "23001026",
+"start_ref_usfm": "ISA 1:26",
+"end_ref": "23001026",
+"end_ref_usfm": "ISA 1:26"
+},
+{
+"start_ref": "23009006",
+"start_ref_usfm": "ISA 9:6",
+"end_ref": "23009006",
+"end_ref_usfm": "ISA 9:6"
+},
+{
+"start_ref": "43007039",
+"start_ref_usfm": "JHN 7:39",
+"end_ref": "43007039",
+"end_ref_usfm": "JHN 7:39"
+},
+{
+"start_ref": "43014016",
+"start_ref_usfm": "JHN 14:16",
+"end_ref": "43014016",
+"end_ref_usfm": "JHN 14:16"
+},
+{
+"start_ref": "43014026",
+"start_ref_usfm": "JHN 14:26",
+"end_ref": "43014026",
+"end_ref_usfm": "JHN 14:26"
+},
+{
+"start_ref": "43015026",
+"start_ref_usfm": "JHN 15:26",
+"end_ref": "43015026",
+"end_ref_usfm": "JHN 15:26"
+},
+{
+"start_ref": "43016007",
+"start_ref_usfm": "JHN 16:7",
+"end_ref": "43016007",
+"end_ref_usfm": "JHN 16:7"
+},
+{
+"start_ref": "43020022",
+"start_ref_usfm": "JHN 20:22",
+"end_ref": "43020022",
+"end_ref_usfm": "JHN 20:22"
+},
+{
+"start_ref": "48006013",
+"start_ref_usfm": "GAL 6:13",
+"end_ref": "48006013",
+"end_ref_usfm": "GAL 6:13"
+},
+{
+"start_ref": "54002005",
+"start_ref_usfm": "1TI 2:5",
+"end_ref": "54002005",
+"end_ref_usfm": "1TI 2:5"
+},
+{
+"start_ref": "58008006",
+"start_ref_usfm": "HEB 8:6",
+"end_ref": "58008006",
+"end_ref_usfm": "HEB 8:6"
+},
+{
+"start_ref": "58009015",
+"start_ref_usfm": "HEB 9:15",
+"end_ref": "58009015",
+"end_ref_usfm": "HEB 9:15"
+},
+{
+"start_ref": "58012024",
+"start_ref_usfm": "HEB 12:24",
+"end_ref": "58012024",
+"end_ref_usfm": "HEB 12:24"
+},
+{
+"start_ref": "62002001",
+"start_ref_usfm": "1JN 2:1",
+"end_ref": "62002001",
+"end_ref_usfm": "1JN 2:1"
+},
+{
+"start_ref": "43014016",
+"start_ref_usfm": "JHN 14:16",
+"end_ref": "43014017",
+"end_ref_usfm": "JHN 14:17"
+},
+{
+"start_ref": "43014001",
+"start_ref_usfm": "JHN 14:1",
+"end_ref": "43016033",
+"end_ref_usfm": "JHN 16:33"
+},
+{
+"start_ref": "18016018",
+"start_ref_usfm": "JOB 16:18",
+"end_ref": "18016022",
+"end_ref_usfm": "JOB 16:22"
+},
+{
+"start_ref": "48003019",
+"start_ref_usfm": "GAL 3:19",
+"end_ref": "48003020",
+"end_ref_usfm": "GAL 3:20"
+},
+{
+"start_ref": "43016007",
+"start_ref_usfm": "JHN 16:7",
+"end_ref": "43016008",
+"end_ref_usfm": "JHN 16:8"
+},
+{
+"start_ref": "43016013",
+"start_ref_usfm": "JHN 16:13",
+"end_ref": "43016014",
+"end_ref_usfm": "JHN 16:14"
+},
+{
+"start_ref": "43014016",
+"start_ref_usfm": "JHN 14:16",
+"end_ref": "43014026",
+"end_ref_usfm": "JHN 14:26"
+},
+{
+"start_ref": "11012006",
+"start_ref_usfm": "1KI 12:6",
+"end_ref": "11012014",
+"end_ref_usfm": "1KI 12:14"
+},
+{
+"start_ref": "43014001",
+"start_ref_usfm": "JHN 14:1",
+"end_ref": "43016015",
+"end_ref_usfm": "JHN 16:15"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "500415",
+"reference_id": 203358,
+"version": "1.0.2",
+"title": "Overcoming the Devil",
+"media_type": "Text",
+"index_reference": "overcoming the devil",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The New Testament writers believed in the reality of evil and the dangers of the spiritual world. They saw Satan, also known as &quot;the evil one&quot; or &quot;the devil,&quot; as a serious threat. The devil blocks the work of God&apos;s people (see <a href=\"https://ref.ly/1Thess2:18\">1 Thessalonians 2:18</a>; <a href=\"https://ref.ly/Rev2:10\">Revelation 2:10</a>). He &quot;<span>prowls around like a roaring lion, seeking someone to devour</span>&quot; (<a href=\"https://ref.ly/1Pet5:8\">1 Peter 5:8</a>).</p><p>The entire world that does not trust in Christ is under the power of sin and the devil (see <a href=\"https://ref.ly/Eph2:2\">Ephesians 2:2</a>; <a href=\"https://ref.ly/1John5:19\">1 John 5:19</a>). Paul calls the devil &quot;the god of this age has blinded the minds of unbelievers&quot; (see <a href=\"https://ref.ly/2Cor4:4\">2 Corinthians 4:4</a>; compare <a href=\"https://ref.ly/Matt13:19\">Matthew 13:19</a>). Satan opposes God and tries to destroy his people (<a href=\"https://ref.ly/Rev12:12\">Revelation 12:12</a>, <a href=\"https://ref.ly/Rev12:17\">17</a>). But Jesus came to destroy &quot;the works of the devil&quot; (<a href=\"https://ref.ly/1John3:8\">1 John 3:8</a>). </p><p>God changes into good what the devil intends for evil. Following this idea, the apostle Paul tells the church at Corinth to remove someone from the Christian community. This way, by encountering the devil&apos;s destructive power, that person would repent and find salvation (see <a href=\"https://ref.ly/1Cor5:5\">1 Corinthians 5:5</a>).</p><p>Christians should submit to God and resist the devil (<a href=\"https://ref.ly/Jas4:7\">James 4:7</a>). They should pray for God&apos;s help (<a href=\"https://ref.ly/Matt6:13\">Matthew 6:13</a>). They should use the spiritual armor God provides for protection (<a href=\"https://ref.ly/Eph6:10-Eph6:20\">Ephesians 6:10–20</a>). Those who obey Satan experience consequences (see <a href=\"https://ref.ly/Acts5:1-Acts5:5\">Acts 5:1–5</a>). Obedient Christians are safe because they know Christ&apos;s death on the cross has stopped the devil&apos;s power (see <a href=\"https://ref.ly/Rom8:38-Rom8:39\">Romans 8:38–39</a>; <a href=\"https://ref.ly/1Cor15:24\">1 Corinthians 15:24</a>; <a href=\"https://ref.ly/Col1:13\">Colossians 1:13</a>; <a href=\"https://ref.ly/Col2:10\">2:10</a>, <a href=\"https://ref.ly/Col2:15\">15</a>; <a href=\"https://ref.ly/1Pet3:22\">1 Peter 3:22</a>). </p><p>The Lord protects them (see <a href=\"https://ref.ly/1John5:18\">1 John 5:18</a>). They also know the Holy Spirit within them is stronger than the devil (see <a href=\"https://ref.ly/1John4:4\">1 John 4:4</a>). Through God&apos;s word, they can defeat the evil one (see <a href=\"https://ref.ly/1John2:14\">1 John 2:14</a>; compare <a href=\"https://ref.ly/Rev12:11\">Revelation 12:11</a>).</p><p>Christians should be cautious of the devil and guard against his influence. But they should not live in fear. God&apos;s power is much greater than the devil&apos;s. In the end, God will completely defeat the devil (see <a href=\"https://ref.ly/Rev20:7-Rev20:10\">Revelation 20:7–10</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt6:13\">Matthew 6:13</a>; <a href=\"https://ref.ly/Matt13:19\">13:19</a>; <a href=\"https://ref.ly/Acts5:3-Acts5:5\">Acts 5:3–5</a>; <a href=\"https://ref.ly/Rom8:38-Rom8:39\">Romans 8:38–39</a>; <a href=\"https://ref.ly/1Cor5:5\">1 Corinthians 5:5</a>; <a href=\"https://ref.ly/1Cor15:24\">15:24</a>; <a href=\"https://ref.ly/2Cor4:4\">2 Corinthians 4:4</a>; <a href=\"https://ref.ly/Eph2:2\">Ephesians 2:2</a>; <a href=\"https://ref.ly/Eph4:27\">4:27</a>; <a href=\"https://ref.ly/Eph6:10-Eph6:20\">6:10–20</a>; <a href=\"https://ref.ly/Col1:13\">Colossians 1:13</a>; <a href=\"https://ref.ly/Col2:10\">2:10</a>, <a href=\"https://ref.ly/Col2:15\">15</a>; <a href=\"https://ref.ly/1Thess2:18\">1 Thessalonians 2:18</a>; <a href=\"https://ref.ly/Jas4:7\">James 4:7</a>; <a href=\"https://ref.ly/1Pet3:22\">1 Peter 3:22</a>; <a href=\"https://ref.ly/1Pet5:8\">5:8</a>; <a href=\"https://ref.ly/1John2:14\">1 John 2:14</a>; <a href=\"https://ref.ly/1John3:8\">3:8</a>; <a href=\"https://ref.ly/1John4:4\">4:4</a>; <a href=\"https://ref.ly/1John5:18-1John5:19\">5:18–19</a>; <a href=\"https://ref.ly/Rev2:10\">Revelation 2:10</a>; <a href=\"https://ref.ly/Rev12:7-Rev12:9\">12:7–9</a>, <a href=\"https://ref.ly/Rev12:11-Rev12:12\">11–12</a>, <a href=\"https://ref.ly/Rev12:17\">17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40006013",
+"start_ref_usfm": "MAT 6:13",
+"end_ref": "40006013",
+"end_ref_usfm": "MAT 6:13"
+},
+{
+"start_ref": "40013019",
+"start_ref_usfm": "MAT 13:19",
+"end_ref": "40013019",
+"end_ref_usfm": "MAT 13:19"
+},
+{
+"start_ref": "46005005",
+"start_ref_usfm": "1CO 5:5",
+"end_ref": "46005005",
+"end_ref_usfm": "1CO 5:5"
+},
+{
+"start_ref": "46015024",
+"start_ref_usfm": "1CO 15:24",
+"end_ref": "46015024",
+"end_ref_usfm": "1CO 15:24"
+},
+{
+"start_ref": "47004004",
+"start_ref_usfm": "2CO 4:4",
+"end_ref": "47004004",
+"end_ref_usfm": "2CO 4:4"
+},
+{
+"start_ref": "49002002",
+"start_ref_usfm": "EPH 2:2",
+"end_ref": "49002002",
+"end_ref_usfm": "EPH 2:2"
+},
+{
+"start_ref": "49004027",
+"start_ref_usfm": "EPH 4:27",
+"end_ref": "49004027",
+"end_ref_usfm": "EPH 4:27"
+},
+{
+"start_ref": "51001013",
+"start_ref_usfm": "COL 1:13",
+"end_ref": "51001013",
+"end_ref_usfm": "COL 1:13"
+},
+{
+"start_ref": "51002010",
+"start_ref_usfm": "COL 2:10",
+"end_ref": "51002010",
+"end_ref_usfm": "COL 2:10"
+},
+{
+"start_ref": "51002015",
+"start_ref_usfm": "COL 2:15",
+"end_ref": "51002015",
+"end_ref_usfm": "COL 2:15"
+},
+{
+"start_ref": "52002018",
+"start_ref_usfm": "1TH 2:18",
+"end_ref": "52002018",
+"end_ref_usfm": "1TH 2:18"
+},
+{
+"start_ref": "59004007",
+"start_ref_usfm": "JAS 4:7",
+"end_ref": "59004007",
+"end_ref_usfm": "JAS 4:7"
+},
+{
+"start_ref": "60003022",
+"start_ref_usfm": "1PE 3:22",
+"end_ref": "60003022",
+"end_ref_usfm": "1PE 3:22"
+},
+{
+"start_ref": "60005008",
+"start_ref_usfm": "1PE 5:8",
+"end_ref": "60005008",
+"end_ref_usfm": "1PE 5:8"
+},
+{
+"start_ref": "62002014",
+"start_ref_usfm": "1JN 2:14",
+"end_ref": "62002014",
+"end_ref_usfm": "1JN 2:14"
+},
+{
+"start_ref": "62003008",
+"start_ref_usfm": "1JN 3:8",
+"end_ref": "62003008",
+"end_ref_usfm": "1JN 3:8"
+},
+{
+"start_ref": "62004004",
+"start_ref_usfm": "1JN 4:4",
+"end_ref": "62004004",
+"end_ref_usfm": "1JN 4:4"
+},
+{
+"start_ref": "62005018",
+"start_ref_usfm": "1JN 5:18",
+"end_ref": "62005018",
+"end_ref_usfm": "1JN 5:18"
+},
+{
+"start_ref": "62005019",
+"start_ref_usfm": "1JN 5:19",
+"end_ref": "62005019",
+"end_ref_usfm": "1JN 5:19"
+},
+{
+"start_ref": "66002010",
+"start_ref_usfm": "REV 2:10",
+"end_ref": "66002010",
+"end_ref_usfm": "REV 2:10"
+},
+{
+"start_ref": "66012011",
+"start_ref_usfm": "REV 12:11",
+"end_ref": "66012011",
+"end_ref_usfm": "REV 12:11"
+},
+{
+"start_ref": "66012012",
+"start_ref_usfm": "REV 12:12",
+"end_ref": "66012012",
+"end_ref_usfm": "REV 12:12"
+},
+{
+"start_ref": "66012017",
+"start_ref_usfm": "REV 12:17",
+"end_ref": "66012017",
+"end_ref_usfm": "REV 12:17"
+},
+{
+"start_ref": "44005001",
+"start_ref_usfm": "ACT 5:1",
+"end_ref": "44005005",
+"end_ref_usfm": "ACT 5:5"
+},
+{
+"start_ref": "66012007",
+"start_ref_usfm": "REV 12:7",
+"end_ref": "66012009",
+"end_ref_usfm": "REV 12:9"
+},
+{
+"start_ref": "45008038",
+"start_ref_usfm": "ROM 8:38",
+"end_ref": "45008039",
+"end_ref_usfm": "ROM 8:39"
+},
+{
+"start_ref": "49006010",
+"start_ref_usfm": "EPH 6:10",
+"end_ref": "49006020",
+"end_ref_usfm": "EPH 6:20"
+},
+{
+"start_ref": "66020007",
+"start_ref_usfm": "REV 20:7",
+"end_ref": "66020010",
+"end_ref_usfm": "REV 20:10"
+},
+{
+"start_ref": "44005003",
+"start_ref_usfm": "ACT 5:3",
+"end_ref": "44005005",
+"end_ref_usfm": "ACT 5:5"
+},
+{
+"start_ref": "62005018",
+"start_ref_usfm": "1JN 5:18",
+"end_ref": "62005019",
+"end_ref_usfm": "1JN 5:19"
+},
+{
+"start_ref": "66012011",
+"start_ref_usfm": "REV 12:11",
+"end_ref": "66012012",
+"end_ref_usfm": "REV 12:12"
 }
 ],
 "resource": [],

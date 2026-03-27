@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-02-27",
+"date_created": "2026-03-27",
 "language": "arb",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:23:52.166118"
+"dateCreated": "2026-03-27T16:28:06.284922"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-02-27T17:23:52.166118"
+"timestamp": "2026-03-27T16:28:06.284922"
 }
 }
 },
@@ -96,11 +96,9 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 411758,
+"size": 411743,
 "scope": {
 "ا": [
-"\"الإيمان\" في إنجيل يوحنا",
-"\"أنا هو\" أقوال يسوع",
 "ابن الإنسان",
 "ابن الله",
 "احتفال",
@@ -137,8 +135,10 @@
 "الانتماء إلى المسيح (تبعية المسيح)",
 "الاهتمام بالفقراء",
 "الإيمان",
+"\"الإيمان\" في إنجيل يوحنا",
 "الإيمان والأعمال الصالحة",
 "أمانة ٱلله تجاه شعبه",
+"\"أنا هو\" أقوال يسوع",
 "انتهاك المقدَّسات",
 "انهيار الثقافة",
 "أورشليم",
@@ -149,25 +149,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 90197,
-"scope": {
-"س": [
-"\"سيأتي\"",
-"السبعون أسبوعًا",
-"السيادة الإلهية والمسؤولية البشرية",
-"سر الأخبار السارة",
-"سر المسيّا",
-"سُكنى الله مع شعبه",
-"سلسلة نسب يسوع",
-"سمو وعظمة الابن فوق الجميع",
-"سوء الفهم في إنجيل يوحنا",
-"سيادة الله"
-]
-}
-},
-"json/003.content.json": {
-"mimeType": "text/json",
-"size": 48814,
+"size": 48813,
 "scope": {
 "ب": [
 "البركة",
@@ -178,9 +160,9 @@
 ]
 }
 },
-"json/004.content.json": {
+"json/003.content.json": {
 "mimeType": "text/json",
-"size": 173967,
+"size": 173963,
 "scope": {
 "ت": [
 "التبرّر بالإيمان",
@@ -209,7 +191,7 @@
 ]
 }
 },
-"json/005.content.json": {
+"json/004.content.json": {
 "mimeType": "text/json",
 "size": 51660,
 "scope": {
@@ -223,7 +205,7 @@
 ]
 }
 },
-"json/006.content.json": {
+"json/005.content.json": {
 "mimeType": "text/json",
 "size": 126766,
 "scope": {
@@ -245,9 +227,9 @@
 ]
 }
 },
-"json/007.content.json": {
+"json/006.content.json": {
 "mimeType": "text/json",
-"size": 109406,
+"size": 109405,
 "scope": {
 "خ": [
 "الختان",
@@ -266,7 +248,7 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
 "size": 19824,
 "scope": {
@@ -276,7 +258,7 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
 "size": 109306,
 "scope": {
@@ -298,13 +280,31 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
 "size": 13618,
 "scope": {
 "ز": [
 "الزواج الكتابي",
 "الزواج والجنس"
+]
+}
+},
+"json/010.content.json": {
+"mimeType": "text/json",
+"size": 90193,
+"scope": {
+"س": [
+"السبعون أسبوعًا",
+"السيادة الإلهية والمسؤولية البشرية",
+"سر الأخبار السارة",
+"سر المسيّا",
+"سُكنى الله مع شعبه",
+"سلسلة نسب يسوع",
+"سمو وعظمة الابن فوق الجميع",
+"سوء الفهم في إنجيل يوحنا",
+"\"سيأتي\"",
+"سيادة الله"
 ]
 }
 },
@@ -348,7 +348,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 23744,
+"size": 23740,
 "scope": {
 "ط": [
 "الطلاق والزاوج من غير المؤمنين",
@@ -405,7 +405,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 70603,
+"size": 70601,
 "scope": {
 "غ": [
 "الغرض من أحكام الله (الدينونة)",
@@ -460,7 +460,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 102155,
+"size": 102151,
 "scope": {
 "ك": [
 "الكبرياء والتواضع",
@@ -480,7 +480,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 60811,
+"size": 60809,
 "scope": {
 "ل": [
 "اللعنات والبركات",
@@ -495,7 +495,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 366182,
+"size": 366178,
 "scope": {
 "م": [
 "الماء الحي",
@@ -575,7 +575,7 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 43586,
+"size": 43584,
 "scope": {
 "و": [
 "الوعد بالخروج الثاني",
@@ -589,7 +589,7 @@
 },
 "json/026.content.json": {
 "mimeType": "text/json",
-"size": 31781,
+"size": 31779,
 "scope": {
 "ي": [
 "اليهود والأمم (غير اليهود)",
@@ -631,39 +631,39 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 58137
+"size": 28657
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 28657
+"size": 104905
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 104905
+"size": 27783
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 27783
+"size": 70334
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 70334
+"size": 65926
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 65926
+"size": 13149
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 13149
+"size": 65800
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 65800
+"size": 8897
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 8897
+"size": 58137
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
@@ -743,235 +743,235 @@
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 123522
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1696502
+"size": 123593
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 62351
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 638066
+"size": 52671
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52671
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 438618
+"size": 77586
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 77586
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 906569
+"size": 52103
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52103
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 408671
+"size": 66541
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 66541
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 706512
+"size": 64766
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 64766
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 645728
+"size": 46898
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46898
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 297997
+"size": 65041
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 65041
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 646037
+"size": 45387
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45387
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 251355
+"size": 62381
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 50486
 },
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 411998
-},
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 55621
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 471140
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45973
 },
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 292744
-},
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48094
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 304897
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46857
 },
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 307452
-},
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 93861
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1206962
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 56921
 },
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 485120
-},
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 53601
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 453870
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 73718
 },
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 832495
-},
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 63016
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 634872
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 56774
 },
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 461290
-},
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 114586
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1555336
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 61470
 },
-"pdf/023.content.pdf": {
-"mimeType": "application/pdf",
-"size": 599807
-},
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46802
-},
-"pdf/024.content.pdf": {
-"mimeType": "application/pdf",
-"size": 304551
 },
 "docx/025.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 51999
 },
-"pdf/025.content.pdf": {
-"mimeType": "application/pdf",
-"size": 428941
-},
 "docx/026.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48177
-},
-"pdf/026.content.pdf": {
-"mimeType": "application/pdf",
-"size": 337352
 },
 "docx/027.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43404
 },
-"pdf/027.content.pdf": {
-"mimeType": "application/pdf",
-"size": 217936
-},
 "docx/028.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43993
-},
-"pdf/028.content.pdf": {
-"mimeType": "application/pdf",
-"size": 264585
 },
 "docx/029.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46522
 },
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 3438028
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 439536
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1494572
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 415057
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1058288
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 901436
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 212593
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 906083
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 182287
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 926564
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 357030
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 585918
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 204417
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 268296
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 399685
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 2309607
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 610910
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 445970
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1284501
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 897830
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 637264
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 2961712
+},
+"pdf/023.content.pdf": {
+"mimeType": "application/pdf",
+"size": 802619
+},
+"pdf/024.content.pdf": {
+"mimeType": "application/pdf",
+"size": 212238
+},
+"pdf/025.content.pdf": {
+"mimeType": "application/pdf",
+"size": 411798
+},
+"pdf/026.content.pdf": {
+"mimeType": "application/pdf",
+"size": 339969
+},
+"pdf/027.content.pdf": {
+"mimeType": "application/pdf",
+"size": 110896
+},
+"pdf/028.content.pdf": {
+"mimeType": "application/pdf",
+"size": 116391
+},
 "pdf/029.content.pdf": {
 "mimeType": "application/pdf",
-"size": 306169
+"size": 229644
 }
 },
 "copyright": {
@@ -993,7 +993,7 @@
 "702158": {
 "content_id": "702158",
 "reference_id": 203094,
-"index_reference": "الخلق-الخليقة",
+"index_reference": "الخلقالخليقة",
 "localizations": {
 "eng": {
 "content_id": 500151,
@@ -1200,7 +1200,7 @@
 "702164": {
 "content_id": "702164",
 "reference_id": 203100,
-"index_reference": "بابل: شتات الأمم",
+"index_reference": "بابل شتات الأمم",
 "localizations": {
 "eng": {
 "content_id": 500157,
@@ -1984,7 +1984,7 @@
 "702186": {
 "content_id": "702186",
 "reference_id": 203122,
-"index_reference": "طاهر، نجس ، ومقدس",
+"index_reference": "طاهر نجس  ومقدس",
 "localizations": {
 "eng": {
 "content_id": 500179,
@@ -2689,7 +2689,7 @@
 "702206": {
 "content_id": "702206",
 "reference_id": 203142,
-"index_reference": "المسؤولية الجماعية: خطية عخان",
+"index_reference": "المسؤولية الجماعية خطية عخان",
 "localizations": {
 "eng": {
 "content_id": 500199,
@@ -2938,7 +2938,7 @@
 "702213": {
 "content_id": "702213",
 "reference_id": 203149,
-"index_reference": "الوليّ (الفادي العائلي)",
+"index_reference": "الوليّ الفادي العائلي",
 "localizations": {
 "eng": {
 "content_id": 500206,
@@ -3362,7 +3362,7 @@
 "702225": {
 "content_id": "702225",
 "reference_id": 203161,
-"index_reference": "الله أم الشيطان؟",
+"index_reference": "الله أم الشيطان",
 "localizations": {
 "eng": {
 "content_id": 500218,
@@ -5688,7 +5688,7 @@
 "702293": {
 "content_id": "702293",
 "reference_id": 203229,
-"index_reference": "الكل \"بخار\"",
+"index_reference": "الكل بخار",
 "localizations": {
 "eng": {
 "content_id": 500286,
@@ -6612,7 +6612,7 @@
 "702320": {
 "content_id": "702320",
 "reference_id": 203256,
-"index_reference": "الأفعال النبوية (الرمزية)",
+"index_reference": "الأفعال النبوية الرمزية",
 "localizations": {
 "eng": {
 "content_id": 500313,
@@ -6787,7 +6787,7 @@
 "702325": {
 "content_id": "702325",
 "reference_id": 203261,
-"index_reference": "الأدب الرؤيويّ الأخرويّ (أبوغلمسيس/ أبوكلبسيس)",
+"index_reference": "الأدب الرؤيويّ الأخرويّ أبوغلمسيس أبوكلبسيس",
 "localizations": {
 "eng": {
 "content_id": 500318,
@@ -7201,7 +7201,7 @@
 "702337": {
 "content_id": "702337",
 "reference_id": 203273,
-"index_reference": "ما هو الصالح؟",
+"index_reference": "ما هو الصالح",
 "localizations": {
 "eng": {
 "content_id": 500330,
@@ -8150,7 +8150,7 @@
 "702364": {
 "content_id": "702364",
 "reference_id": 203300,
-"index_reference": "التسبيح والابتهاج في سفري لوقا–أعمال الرسل",
+"index_reference": "التسبيح والابتهاج في سفري لوقاأعمال الرسل",
 "localizations": {
 "eng": {
 "content_id": 500357,
@@ -8512,7 +8512,7 @@
 "702375": {
 "content_id": "702375",
 "reference_id": 203311,
-"index_reference": "\"الإيمان\" في إنجيل يوحنا",
+"index_reference": "الإيمان في إنجيل يوحنا",
 "localizations": {
 "eng": {
 "content_id": 500368,
@@ -8618,7 +8618,7 @@
 "702378": {
 "content_id": "702378",
 "reference_id": 203314,
-"index_reference": "ملامح/مفهوم التلمذة في إنجيل يوحنا",
+"index_reference": "ملامحمفهوم التلمذة في إنجيل يوحنا",
 "localizations": {
 "eng": {
 "content_id": 500371,
@@ -8687,7 +8687,7 @@
 "702380": {
 "content_id": "702380",
 "reference_id": 203316,
-"index_reference": "\"أنا هو\" أقوال يسوع",
+"index_reference": "أنا هو أقوال يسوع",
 "localizations": {
 "eng": {
 "content_id": 500373,
@@ -9500,7 +9500,7 @@
 "702404": {
 "content_id": "702404",
 "reference_id": 203340,
-"index_reference": "اليهود والأمم (غير اليهود)",
+"index_reference": "اليهود والأمم غير اليهود",
 "localizations": {
 "eng": {
 "content_id": 500397,
@@ -9606,7 +9606,7 @@
 "702407": {
 "content_id": "702407",
 "reference_id": 203343,
-"index_reference": "الانتماء إلى المسيح (تبعية المسيح)",
+"index_reference": "الانتماء إلى المسيح تبعية المسيح",
 "localizations": {
 "eng": {
 "content_id": 500400,
@@ -10180,7 +10180,7 @@
 "702424": {
 "content_id": "702424",
 "reference_id": 203360,
-"index_reference": "ترنيمة المسيح: طبيعة المسيح الإلهية",
+"index_reference": "ترنيمة المسيح طبيعة المسيح الإلهية",
 "localizations": {
 "eng": {
 "content_id": 500417,
@@ -10350,7 +10350,7 @@
 "702429": {
 "content_id": "702429",
 "reference_id": 203365,
-"index_reference": "\"سيأتي\"",
+"index_reference": "سيأتي",
 "localizations": {
 "eng": {
 "content_id": 500422,
@@ -11173,7 +11173,7 @@
 "702453": {
 "content_id": "702453",
 "reference_id": 203389,
-"index_reference": "الغرض من أحكام الله (الدينونة)",
+"index_reference": "الغرض من أحكام الله الدينونة",
 "localizations": {
 "eng": {
 "content_id": 500446,

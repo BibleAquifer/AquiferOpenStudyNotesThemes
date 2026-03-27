@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-02-27",
+"date_created": "2026-03-27",
 "language": "zht",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:23:58.644248"
+"dateCreated": "2026-03-27T16:28:12.604639"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-02-27T17:23:58.644248"
+"timestamp": "2026-03-27T16:28:12.604639"
 }
 }
 },
@@ -96,15 +96,6 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 5259,
-"scope": {
-"「": [
-"「祂必再來」"
-]
-}
-},
-"json/002.content.json": {
-"mimeType": "text/json",
 "size": 6380,
 "scope": {
 "ai": [
@@ -112,16 +103,16 @@
 ]
 }
 },
-"json/003.content.json": {
+"json/002.content.json": {
 "mimeType": "text/json",
-"size": 2979,
+"size": 2976,
 "scope": {
 "ba": [
 "巴別：萬國的分散"
 ]
 }
 },
-"json/004.content.json": {
+"json/003.content.json": {
 "mimeType": "text/json",
 "size": 17853,
 "scope": {
@@ -131,7 +122,7 @@
 ]
 }
 },
-"json/005.content.json": {
+"json/004.content.json": {
 "mimeType": "text/json",
 "size": 14087,
 "scope": {
@@ -141,7 +132,7 @@
 ]
 }
 },
-"json/006.content.json": {
+"json/005.content.json": {
 "mimeType": "text/json",
 "size": 13807,
 "scope": {
@@ -150,7 +141,7 @@
 ]
 }
 },
-"json/007.content.json": {
+"json/006.content.json": {
 "mimeType": "text/json",
 "size": 8894,
 "scope": {
@@ -159,7 +150,7 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
 "size": 5766,
 "scope": {
@@ -168,7 +159,7 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
 "size": 3804,
 "scope": {
@@ -177,7 +168,7 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
 "size": 26791,
 "scope": {
@@ -188,7 +179,7 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
 "size": 13155,
 "scope": {
@@ -198,7 +189,7 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
 "size": 12870,
 "scope": {
@@ -207,7 +198,7 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
 "size": 12547,
 "scope": {
@@ -217,7 +208,7 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
 "size": 3283,
 "scope": {
@@ -226,7 +217,7 @@
 ]
 }
 },
-"json/015.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
 "size": 14239,
 "scope": {
@@ -237,7 +228,7 @@
 ]
 }
 },
-"json/016.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
 "size": 5692,
 "scope": {
@@ -246,7 +237,7 @@
 ]
 }
 },
-"json/017.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
 "size": 8231,
 "scope": {
@@ -255,7 +246,7 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
 "size": 6264,
 "scope": {
@@ -264,7 +255,7 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
 "size": 5792,
 "scope": {
@@ -273,7 +264,7 @@
 ]
 }
 },
-"json/020.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
 "size": 8115,
 "scope": {
@@ -282,7 +273,7 @@
 ]
 }
 },
-"json/021.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
 "size": 9590,
 "scope": {
@@ -291,7 +282,7 @@
 ]
 }
 },
-"json/022.content.json": {
+"json/021.content.json": {
 "mimeType": "text/json",
 "size": 10672,
 "scope": {
@@ -300,7 +291,7 @@
 ]
 }
 },
-"json/023.content.json": {
+"json/022.content.json": {
 "mimeType": "text/json",
 "size": 1856,
 "scope": {
@@ -309,7 +300,7 @@
 ]
 }
 },
-"json/024.content.json": {
+"json/023.content.json": {
 "mimeType": "text/json",
 "size": 21331,
 "scope": {
@@ -319,7 +310,7 @@
 ]
 }
 },
-"json/025.content.json": {
+"json/024.content.json": {
 "mimeType": "text/json",
 "size": 4179,
 "scope": {
@@ -328,7 +319,7 @@
 ]
 }
 },
-"json/026.content.json": {
+"json/025.content.json": {
 "mimeType": "text/json",
 "size": 9983,
 "scope": {
@@ -338,7 +329,7 @@
 ]
 }
 },
-"json/027.content.json": {
+"json/026.content.json": {
 "mimeType": "text/json",
 "size": 11116,
 "scope": {
@@ -347,7 +338,7 @@
 ]
 }
 },
-"json/028.content.json": {
+"json/027.content.json": {
 "mimeType": "text/json",
 "size": 4741,
 "scope": {
@@ -356,7 +347,7 @@
 ]
 }
 },
-"json/029.content.json": {
+"json/028.content.json": {
 "mimeType": "text/json",
 "size": 16232,
 "scope": {
@@ -366,7 +357,7 @@
 ]
 }
 },
-"json/030.content.json": {
+"json/029.content.json": {
 "mimeType": "text/json",
 "size": 6023,
 "scope": {
@@ -375,7 +366,7 @@
 ]
 }
 },
-"json/031.content.json": {
+"json/030.content.json": {
 "mimeType": "text/json",
 "size": 23365,
 "scope": {
@@ -384,7 +375,7 @@
 ]
 }
 },
-"json/032.content.json": {
+"json/031.content.json": {
 "mimeType": "text/json",
 "size": 4393,
 "scope": {
@@ -393,7 +384,7 @@
 ]
 }
 },
-"json/033.content.json": {
+"json/032.content.json": {
 "mimeType": "text/json",
 "size": 13043,
 "scope": {
@@ -404,7 +395,7 @@
 ]
 }
 },
-"json/034.content.json": {
+"json/033.content.json": {
 "mimeType": "text/json",
 "size": 5339,
 "scope": {
@@ -413,7 +404,7 @@
 ]
 }
 },
-"json/035.content.json": {
+"json/034.content.json": {
 "mimeType": "text/json",
 "size": 3776,
 "scope": {
@@ -422,9 +413,9 @@
 ]
 }
 },
-"json/036.content.json": {
+"json/035.content.json": {
 "mimeType": "text/json",
-"size": 66021,
+"size": 66018,
 "scope": {
 "ji": [
 "基本律法",
@@ -440,9 +431,9 @@
 ]
 }
 },
-"json/037.content.json": {
+"json/036.content.json": {
 "mimeType": "text/json",
-"size": 25126,
+"size": 25123,
 "scope": {
 "jia": [
 "加利利的打魚生活",
@@ -453,7 +444,7 @@
 ]
 }
 },
-"json/038.content.json": {
+"json/037.content.json": {
 "mimeType": "text/json",
 "size": 19441,
 "scope": {
@@ -463,7 +454,7 @@
 ]
 }
 },
-"json/039.content.json": {
+"json/038.content.json": {
 "mimeType": "text/json",
 "size": 51494,
 "scope": {
@@ -477,16 +468,16 @@
 ]
 }
 },
-"json/040.content.json": {
+"json/039.content.json": {
 "mimeType": "text/json",
-"size": 6466,
+"size": 6463,
 "scope": {
 "jie": [
 "潔淨、不潔淨與聖潔"
 ]
 }
 },
-"json/041.content.json": {
+"json/040.content.json": {
 "mimeType": "text/json",
 "size": 5833,
 "scope": {
@@ -495,7 +486,7 @@
 ]
 }
 },
-"json/042.content.json": {
+"json/041.content.json": {
 "mimeType": "text/json",
 "size": 17089,
 "scope": {
@@ -506,7 +497,7 @@
 ]
 }
 },
-"json/043.content.json": {
+"json/042.content.json": {
 "mimeType": "text/json",
 "size": 6835,
 "scope": {
@@ -515,7 +506,7 @@
 ]
 }
 },
-"json/044.content.json": {
+"json/043.content.json": {
 "mimeType": "text/json",
 "size": 8040,
 "scope": {
@@ -524,7 +515,7 @@
 ]
 }
 },
-"json/045.content.json": {
+"json/044.content.json": {
 "mimeType": "text/json",
 "size": 5618,
 "scope": {
@@ -533,7 +524,7 @@
 ]
 }
 },
-"json/046.content.json": {
+"json/045.content.json": {
 "mimeType": "text/json",
 "size": 5000,
 "scope": {
@@ -542,7 +533,7 @@
 ]
 }
 },
-"json/047.content.json": {
+"json/046.content.json": {
 "mimeType": "text/json",
 "size": 28281,
 "scope": {
@@ -552,7 +543,7 @@
 ]
 }
 },
-"json/048.content.json": {
+"json/047.content.json": {
 "mimeType": "text/json",
 "size": 8810,
 "scope": {
@@ -561,7 +552,7 @@
 ]
 }
 },
-"json/049.content.json": {
+"json/048.content.json": {
 "mimeType": "text/json",
 "size": 5511,
 "scope": {
@@ -570,7 +561,7 @@
 ]
 }
 },
-"json/050.content.json": {
+"json/049.content.json": {
 "mimeType": "text/json",
 "size": 10817,
 "scope": {
@@ -580,7 +571,7 @@
 ]
 }
 },
-"json/051.content.json": {
+"json/050.content.json": {
 "mimeType": "text/json",
 "size": 9069,
 "scope": {
@@ -589,7 +580,7 @@
 ]
 }
 },
-"json/052.content.json": {
+"json/051.content.json": {
 "mimeType": "text/json",
 "size": 6504,
 "scope": {
@@ -598,7 +589,7 @@
 ]
 }
 },
-"json/053.content.json": {
+"json/052.content.json": {
 "mimeType": "text/json",
 "size": 12812,
 "scope": {
@@ -608,17 +599,17 @@
 ]
 }
 },
-"json/054.content.json": {
+"json/053.content.json": {
 "mimeType": "text/json",
-"size": 11270,
+"size": 11267,
 "scope": {
 "lu": [
-"路加—使徒行傳中的讚美和歡欣",
-"路加福音中的貧與富"
+"路加福音中的貧與富",
+"路加—使徒行傳中的讚美和歡欣"
 ]
 }
 },
-"json/055.content.json": {
+"json/054.content.json": {
 "mimeType": "text/json",
 "size": 22655,
 "scope": {
@@ -630,7 +621,7 @@
 ]
 }
 },
-"json/056.content.json": {
+"json/055.content.json": {
 "mimeType": "text/json",
 "size": 23719,
 "scope": {
@@ -641,7 +632,7 @@
 ]
 }
 },
-"json/057.content.json": {
+"json/056.content.json": {
 "mimeType": "text/json",
 "size": 3673,
 "scope": {
@@ -650,7 +641,7 @@
 ]
 }
 },
-"json/058.content.json": {
+"json/057.content.json": {
 "mimeType": "text/json",
 "size": 10133,
 "scope": {
@@ -659,7 +650,7 @@
 ]
 }
 },
-"json/059.content.json": {
+"json/058.content.json": {
 "mimeType": "text/json",
 "size": 9228,
 "scope": {
@@ -668,7 +659,7 @@
 ]
 }
 },
-"json/060.content.json": {
+"json/059.content.json": {
 "mimeType": "text/json",
 "size": 3938,
 "scope": {
@@ -677,7 +668,7 @@
 ]
 }
 },
-"json/061.content.json": {
+"json/060.content.json": {
 "mimeType": "text/json",
 "size": 8296,
 "scope": {
@@ -686,7 +677,7 @@
 ]
 }
 },
-"json/062.content.json": {
+"json/061.content.json": {
 "mimeType": "text/json",
 "size": 6103,
 "scope": {
@@ -695,7 +686,7 @@
 ]
 }
 },
-"json/063.content.json": {
+"json/062.content.json": {
 "mimeType": "text/json",
 "size": 14548,
 "scope": {
@@ -705,7 +696,7 @@
 ]
 }
 },
-"json/064.content.json": {
+"json/063.content.json": {
 "mimeType": "text/json",
 "size": 11701,
 "scope": {
@@ -714,16 +705,16 @@
 ]
 }
 },
-"json/065.content.json": {
+"json/064.content.json": {
 "mimeType": "text/json",
-"size": 2886,
+"size": 2880,
 "scope": {
 "qian": [
 "千年（千禧年）"
 ]
 }
 },
-"json/066.content.json": {
+"json/065.content.json": {
 "mimeType": "text/json",
 "size": 9889,
 "scope": {
@@ -732,7 +723,7 @@
 ]
 }
 },
-"json/067.content.json": {
+"json/066.content.json": {
 "mimeType": "text/json",
 "size": 11389,
 "scope": {
@@ -741,9 +732,9 @@
 ]
 }
 },
-"json/068.content.json": {
+"json/067.content.json": {
 "mimeType": "text/json",
-"size": 9928,
+"size": 9925,
 "scope": {
 "qun": [
 "群體身分",
@@ -751,7 +742,7 @@
 ]
 }
 },
-"json/069.content.json": {
+"json/068.content.json": {
 "mimeType": "text/json",
 "size": 37969,
 "scope": {
@@ -764,7 +755,7 @@
 ]
 }
 },
-"json/070.content.json": {
+"json/069.content.json": {
 "mimeType": "text/json",
 "size": 3046,
 "scope": {
@@ -773,7 +764,7 @@
 ]
 }
 },
-"json/071.content.json": {
+"json/070.content.json": {
 "mimeType": "text/json",
 "size": 8720,
 "scope": {
@@ -782,7 +773,7 @@
 ]
 }
 },
-"json/072.content.json": {
+"json/071.content.json": {
 "mimeType": "text/json",
 "size": 382100,
 "scope": {
@@ -836,7 +827,7 @@
 ]
 }
 },
-"json/073.content.json": {
+"json/072.content.json": {
 "mimeType": "text/json",
 "size": 109426,
 "scope": {
@@ -858,9 +849,9 @@
 ]
 }
 },
-"json/074.content.json": {
+"json/073.content.json": {
 "mimeType": "text/json",
-"size": 111179,
+"size": 111176,
 "scope": {
 "shi": [
 "詩篇中的救恩",
@@ -878,7 +869,7 @@
 ]
 }
 },
-"json/075.content.json": {
+"json/074.content.json": {
 "mimeType": "text/json",
 "size": 6457,
 "scope": {
@@ -887,7 +878,7 @@
 ]
 }
 },
-"json/076.content.json": {
+"json/075.content.json": {
 "mimeType": "text/json",
 "size": 29355,
 "scope": {
@@ -899,7 +890,7 @@
 ]
 }
 },
-"json/077.content.json": {
+"json/076.content.json": {
 "mimeType": "text/json",
 "size": 7583,
 "scope": {
@@ -908,7 +899,7 @@
 ]
 }
 },
-"json/078.content.json": {
+"json/077.content.json": {
 "mimeType": "text/json",
 "size": 35819,
 "scope": {
@@ -920,12 +911,21 @@
 ]
 }
 },
-"json/079.content.json": {
+"json/078.content.json": {
 "mimeType": "text/json",
 "size": 7827,
 "scope": {
 "suo": [
 "所羅門的智慧"
+]
+}
+},
+"json/079.content.json": {
+"mimeType": "text/json",
+"size": 5253,
+"scope": {
+"ta": [
+"「祂必再來」"
 ]
 }
 },
@@ -1107,15 +1107,15 @@
 },
 "json/097.content.json": {
 "mimeType": "text/json",
-"size": 76876,
+"size": 76870,
 "scope": {
 "ye": [
 "耶和華的日子",
 "耶路撒冷",
-"耶穌的「我是」宣告",
 "耶穌的禱告",
 "耶穌的復活",
 "耶穌的升天",
+"耶穌的「我是」宣告",
 "耶穌的祝福",
 "耶穌的祖先",
 "耶穌的最後一夜",
@@ -1125,7 +1125,7 @@
 },
 "json/098.content.json": {
 "mimeType": "text/json",
-"size": 66080,
+"size": 66074,
 "scope": {
 "yi": [
 "一切都是「煙霧」",
@@ -1162,7 +1162,7 @@
 },
 "json/101.content.json": {
 "mimeType": "text/json",
-"size": 9984,
+"size": 9978,
 "scope": {
 "you": [
 "猶太人與外邦人（非猶太人）"
@@ -1184,15 +1184,15 @@
 },
 "json/103.content.json": {
 "mimeType": "text/json",
-"size": 47116,
+"size": 47110,
 "scope": {
 "yue": [
 "約伯的無辜",
 "約櫃",
 "約翰的門徒訓練簡介",
-"約翰福音中的「信」",
 "約翰福音中的神蹟",
-"約翰福音中的誤解"
+"約翰福音中的誤解",
+"約翰福音中的「信」"
 ]
 }
 },
@@ -1331,319 +1331,319 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 3972
+"size": 3669
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 3669
+"size": 2292
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 2292
+"size": 9533
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 9533
+"size": 8531
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 8531
+"size": 7088
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 7088
+"size": 5039
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 5039
+"size": 3239
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 3239
+"size": 2902
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 2902
+"size": 15704
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 15704
+"size": 7242
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 7242
+"size": 6734
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 6734
+"size": 7525
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 7525
+"size": 2552
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 2552
+"size": 8027
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 8027
+"size": 4093
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 4093
+"size": 4243
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 4243
+"size": 3723
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 3723
+"size": 3578
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 3578
+"size": 4027
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 4027
+"size": 5241
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 5241
+"size": 5853
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 5853
+"size": 2056
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 2056
+"size": 10761
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 10761
+"size": 3378
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 3378
+"size": 6678
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 6678
+"size": 6323
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 6323
+"size": 3369
 },
 "md/028.content.md": {
 "mimeType": "text/markdown",
-"size": 3369
+"size": 8594
 },
 "md/029.content.md": {
 "mimeType": "text/markdown",
-"size": 8594
+"size": 3982
 },
 "md/030.content.md": {
 "mimeType": "text/markdown",
-"size": 3982
+"size": 10797
 },
 "md/031.content.md": {
 "mimeType": "text/markdown",
-"size": 10797
+"size": 2835
 },
 "md/032.content.md": {
 "mimeType": "text/markdown",
-"size": 2835
+"size": 7037
 },
 "md/033.content.md": {
 "mimeType": "text/markdown",
-"size": 7037
+"size": 3655
 },
 "md/034.content.md": {
 "mimeType": "text/markdown",
-"size": 3655
+"size": 2848
 },
 "md/035.content.md": {
 "mimeType": "text/markdown",
-"size": 2848
+"size": 34781
 },
 "md/036.content.md": {
 "mimeType": "text/markdown",
-"size": 34781
+"size": 15974
 },
 "md/037.content.md": {
 "mimeType": "text/markdown",
-"size": 15974
+"size": 9715
 },
 "md/038.content.md": {
 "mimeType": "text/markdown",
-"size": 9715
+"size": 26838
 },
 "md/039.content.md": {
 "mimeType": "text/markdown",
-"size": 26838
+"size": 3891
 },
 "md/040.content.md": {
 "mimeType": "text/markdown",
-"size": 3891
+"size": 3559
 },
 "md/041.content.md": {
 "mimeType": "text/markdown",
-"size": 3559
+"size": 9345
 },
 "md/042.content.md": {
 "mimeType": "text/markdown",
-"size": 9345
+"size": 4095
 },
 "md/043.content.md": {
 "mimeType": "text/markdown",
-"size": 4095
+"size": 5192
 },
 "md/044.content.md": {
 "mimeType": "text/markdown",
-"size": 5192
+"size": 3378
 },
 "md/045.content.md": {
 "mimeType": "text/markdown",
-"size": 3378
+"size": 3581
 },
 "md/046.content.md": {
 "mimeType": "text/markdown",
-"size": 3581
+"size": 13632
 },
 "md/047.content.md": {
 "mimeType": "text/markdown",
-"size": 13632
+"size": 4538
 },
 "md/048.content.md": {
 "mimeType": "text/markdown",
-"size": 4538
+"size": 3674
 },
 "md/049.content.md": {
 "mimeType": "text/markdown",
-"size": 3674
+"size": 6540
 },
 "md/050.content.md": {
 "mimeType": "text/markdown",
-"size": 6540
+"size": 4842
 },
 "md/051.content.md": {
 "mimeType": "text/markdown",
-"size": 4842
+"size": 4247
 },
 "md/052.content.md": {
 "mimeType": "text/markdown",
-"size": 4247
+"size": 7192
 },
 "md/053.content.md": {
 "mimeType": "text/markdown",
-"size": 7192
+"size": 6629
 },
 "md/054.content.md": {
 "mimeType": "text/markdown",
-"size": 6629
+"size": 13169
 },
 "md/055.content.md": {
 "mimeType": "text/markdown",
-"size": 13169
+"size": 13854
 },
 "md/056.content.md": {
 "mimeType": "text/markdown",
-"size": 13854
+"size": 3053
 },
 "md/057.content.md": {
 "mimeType": "text/markdown",
-"size": 3053
+"size": 5307
 },
 "md/058.content.md": {
 "mimeType": "text/markdown",
-"size": 5307
+"size": 5194
 },
 "md/059.content.md": {
 "mimeType": "text/markdown",
-"size": 5194
+"size": 3328
 },
 "md/060.content.md": {
 "mimeType": "text/markdown",
-"size": 3328
+"size": 6056
 },
 "md/061.content.md": {
 "mimeType": "text/markdown",
-"size": 6056
+"size": 4228
 },
 "md/062.content.md": {
 "mimeType": "text/markdown",
-"size": 4228
+"size": 8883
 },
 "md/063.content.md": {
 "mimeType": "text/markdown",
-"size": 8883
+"size": 7874
 },
 "md/064.content.md": {
 "mimeType": "text/markdown",
-"size": 7874
+"size": 2879
 },
 "md/065.content.md": {
 "mimeType": "text/markdown",
-"size": 2879
+"size": 5210
 },
 "md/066.content.md": {
 "mimeType": "text/markdown",
-"size": 5210
+"size": 5991
 },
 "md/067.content.md": {
 "mimeType": "text/markdown",
-"size": 5991
+"size": 6514
 },
 "md/068.content.md": {
 "mimeType": "text/markdown",
-"size": 6514
+"size": 19408
 },
 "md/069.content.md": {
 "mimeType": "text/markdown",
-"size": 19408
+"size": 2636
 },
 "md/070.content.md": {
 "mimeType": "text/markdown",
-"size": 2636
+"size": 4840
 },
 "md/071.content.md": {
 "mimeType": "text/markdown",
-"size": 4840
+"size": 189485
 },
 "md/072.content.md": {
 "mimeType": "text/markdown",
-"size": 189485
+"size": 58194
 },
 "md/073.content.md": {
 "mimeType": "text/markdown",
-"size": 58194
+"size": 50579
 },
 "md/074.content.md": {
 "mimeType": "text/markdown",
-"size": 50579
+"size": 4007
 },
 "md/075.content.md": {
 "mimeType": "text/markdown",
-"size": 4007
+"size": 15390
 },
 "md/076.content.md": {
 "mimeType": "text/markdown",
-"size": 15390
+"size": 4154
 },
 "md/077.content.md": {
 "mimeType": "text/markdown",
-"size": 4154
+"size": 17940
 },
 "md/078.content.md": {
 "mimeType": "text/markdown",
-"size": 17940
+"size": 4455
 },
 "md/079.content.md": {
 "mimeType": "text/markdown",
-"size": 4455
+"size": 3972
 },
 "md/080.content.md": {
 "mimeType": "text/markdown",
@@ -1799,939 +1799,939 @@
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43932
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 346273
+"size": 43479
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43479
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 287710
+"size": 43162
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43162
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 293719
+"size": 46564
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46564
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 476627
+"size": 46126
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46126
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 453143
+"size": 44925
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44925
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 347686
+"size": 44331
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44331
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 340690
+"size": 43525
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43525
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 320599
+"size": 43481
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43481
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 305261
+"size": 49512
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49512
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 570152
+"size": 45536
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45536
-},
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 442174
+"size": 44862
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44862
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 344676
+"size": 45537
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45537
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 406691
+"size": 43181
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43181
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 285482
+"size": 45818
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45818
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 443114
+"size": 43943
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43943
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 328096
+"size": 43722
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43722
-},
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 298075
+"size": 43727
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43727
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 304269
+"size": 43438
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43438
-},
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 280629
+"size": 43766
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43766
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 298428
+"size": 44381
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44381
-},
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 356972
+"size": 44613
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44613
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 338141
+"size": 43007
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43007
-},
-"pdf/023.content.pdf": {
-"mimeType": "application/pdf",
-"size": 290489
+"size": 46670
 },
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46670
-},
-"pdf/024.content.pdf": {
-"mimeType": "application/pdf",
-"size": 446875
+"size": 43506
 },
 "docx/025.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43506
-},
-"pdf/025.content.pdf": {
-"mimeType": "application/pdf",
-"size": 306763
+"size": 45368
 },
 "docx/026.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45368
-},
-"pdf/026.content.pdf": {
-"mimeType": "application/pdf",
-"size": 422607
+"size": 45011
 },
 "docx/027.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45011
-},
-"pdf/027.content.pdf": {
-"mimeType": "application/pdf",
-"size": 381956
+"size": 43567
 },
 "docx/028.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43567
-},
-"pdf/028.content.pdf": {
-"mimeType": "application/pdf",
-"size": 312210
+"size": 45825
 },
 "docx/029.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45825
-},
-"pdf/029.content.pdf": {
-"mimeType": "application/pdf",
-"size": 437497
+"size": 43919
 },
 "docx/030.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43919
-},
-"pdf/030.content.pdf": {
-"mimeType": "application/pdf",
-"size": 319812
+"size": 46499
 },
 "docx/031.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46499
-},
-"pdf/031.content.pdf": {
-"mimeType": "application/pdf",
-"size": 395844
+"size": 43453
 },
 "docx/032.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43453
-},
-"pdf/032.content.pdf": {
-"mimeType": "application/pdf",
-"size": 302096
+"size": 45394
 },
 "docx/033.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45394
-},
-"pdf/033.content.pdf": {
-"mimeType": "application/pdf",
-"size": 430405
+"size": 43803
 },
 "docx/034.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43803
-},
-"pdf/034.content.pdf": {
-"mimeType": "application/pdf",
-"size": 323840
+"size": 43388
 },
 "docx/035.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43388
-},
-"pdf/035.content.pdf": {
-"mimeType": "application/pdf",
-"size": 303830
+"size": 57445
 },
 "docx/036.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 57445
-},
-"pdf/036.content.pdf": {
-"mimeType": "application/pdf",
-"size": 794687
+"size": 49926
 },
 "docx/037.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49926
-},
-"pdf/037.content.pdf": {
-"mimeType": "application/pdf",
-"size": 600039
+"size": 46150
 },
 "docx/038.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46150
-},
-"pdf/038.content.pdf": {
-"mimeType": "application/pdf",
-"size": 402882
+"size": 53322
 },
 "docx/039.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53322
-},
-"pdf/039.content.pdf": {
-"mimeType": "application/pdf",
-"size": 685910
+"size": 43829
 },
 "docx/040.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43829
-},
-"pdf/040.content.pdf": {
-"mimeType": "application/pdf",
-"size": 310313
+"size": 43691
 },
 "docx/041.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43691
-},
-"pdf/041.content.pdf": {
-"mimeType": "application/pdf",
-"size": 317351
+"size": 46364
 },
 "docx/042.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46364
-},
-"pdf/042.content.pdf": {
-"mimeType": "application/pdf",
-"size": 454251
+"size": 43968
 },
 "docx/043.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43968
-},
-"pdf/043.content.pdf": {
-"mimeType": "application/pdf",
-"size": 318570
+"size": 44367
 },
 "docx/044.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44367
-},
-"pdf/044.content.pdf": {
-"mimeType": "application/pdf",
-"size": 361248
+"size": 43538
 },
 "docx/045.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43538
-},
-"pdf/045.content.pdf": {
-"mimeType": "application/pdf",
-"size": 293126
+"size": 43776
 },
 "docx/046.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43776
-},
-"pdf/046.content.pdf": {
-"mimeType": "application/pdf",
-"size": 322682
+"size": 47671
 },
 "docx/047.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47671
-},
-"pdf/047.content.pdf": {
-"mimeType": "application/pdf",
-"size": 470599
+"size": 43892
 },
 "docx/048.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43892
-},
-"pdf/048.content.pdf": {
-"mimeType": "application/pdf",
-"size": 308271
+"size": 43726
 },
 "docx/049.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43726
-},
-"pdf/049.content.pdf": {
-"mimeType": "application/pdf",
-"size": 327601
+"size": 45259
 },
 "docx/050.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45259
-},
-"pdf/050.content.pdf": {
-"mimeType": "application/pdf",
-"size": 418225
+"size": 44014
 },
 "docx/051.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44014
-},
-"pdf/051.content.pdf": {
-"mimeType": "application/pdf",
-"size": 335855
+"size": 43928
 },
 "docx/052.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43928
-},
-"pdf/052.content.pdf": {
-"mimeType": "application/pdf",
-"size": 340457
+"size": 45232
 },
 "docx/053.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45232
-},
-"pdf/053.content.pdf": {
-"mimeType": "application/pdf",
-"size": 377379
+"size": 44865
 },
 "docx/054.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44885
-},
-"pdf/054.content.pdf": {
-"mimeType": "application/pdf",
-"size": 386822
+"size": 48294
 },
 "docx/055.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48294
-},
-"pdf/055.content.pdf": {
-"mimeType": "application/pdf",
-"size": 492004
+"size": 48046
 },
 "docx/056.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48046
-},
-"pdf/056.content.pdf": {
-"mimeType": "application/pdf",
-"size": 490570
+"size": 43375
 },
 "docx/057.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43375
-},
-"pdf/057.content.pdf": {
-"mimeType": "application/pdf",
-"size": 296710
+"size": 44312
 },
 "docx/058.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44312
-},
-"pdf/058.content.pdf": {
-"mimeType": "application/pdf",
-"size": 316326
+"size": 44480
 },
 "docx/059.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44480
-},
-"pdf/059.content.pdf": {
-"mimeType": "application/pdf",
-"size": 378043
+"size": 43636
 },
 "docx/060.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43636
-},
-"pdf/060.content.pdf": {
-"mimeType": "application/pdf",
-"size": 317629
+"size": 44996
 },
 "docx/061.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44996
-},
-"pdf/061.content.pdf": {
-"mimeType": "application/pdf",
-"size": 398363
+"size": 44202
 },
 "docx/062.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44202
-},
-"pdf/062.content.pdf": {
-"mimeType": "application/pdf",
-"size": 340743
+"size": 46059
 },
 "docx/063.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46059
-},
-"pdf/063.content.pdf": {
-"mimeType": "application/pdf",
-"size": 432279
+"size": 45511
 },
 "docx/064.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45511
-},
-"pdf/064.content.pdf": {
-"mimeType": "application/pdf",
-"size": 439725
+"size": 43474
 },
 "docx/065.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43474
-},
-"pdf/065.content.pdf": {
-"mimeType": "application/pdf",
-"size": 334127
+"size": 44462
 },
 "docx/066.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44462
-},
-"pdf/066.content.pdf": {
-"mimeType": "application/pdf",
-"size": 355730
+"size": 44521
 },
 "docx/067.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44521
-},
-"pdf/067.content.pdf": {
-"mimeType": "application/pdf",
-"size": 332248
+"size": 45288
 },
 "docx/068.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45288
-},
-"pdf/068.content.pdf": {
-"mimeType": "application/pdf",
-"size": 418670
+"size": 50595
 },
 "docx/069.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50595
-},
-"pdf/069.content.pdf": {
-"mimeType": "application/pdf",
-"size": 575860
+"size": 43355
 },
 "docx/070.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43355
-},
-"pdf/070.content.pdf": {
-"mimeType": "application/pdf",
-"size": 309577
+"size": 44316
 },
 "docx/071.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44316
-},
-"pdf/071.content.pdf": {
-"mimeType": "application/pdf",
-"size": 330088
+"size": 118758
 },
 "docx/072.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 118758
-},
-"pdf/072.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1720801
+"size": 65941
 },
 "docx/073.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 65941
-},
-"pdf/073.content.pdf": {
-"mimeType": "application/pdf",
-"size": 923420
+"size": 62883
 },
 "docx/074.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 62883
-},
-"pdf/074.content.pdf": {
-"mimeType": "application/pdf",
-"size": 926428
+"size": 43845
 },
 "docx/075.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43845
-},
-"pdf/075.content.pdf": {
-"mimeType": "application/pdf",
-"size": 309210
+"size": 49056
 },
 "docx/076.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49056
-},
-"pdf/076.content.pdf": {
-"mimeType": "application/pdf",
-"size": 500579
+"size": 43915
 },
 "docx/077.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43915
-},
-"pdf/077.content.pdf": {
-"mimeType": "application/pdf",
-"size": 339637
+"size": 49818
 },
 "docx/078.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49818
-},
-"pdf/078.content.pdf": {
-"mimeType": "application/pdf",
-"size": 531378
+"size": 44102
 },
 "docx/079.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44102
-},
-"pdf/079.content.pdf": {
-"mimeType": "application/pdf",
-"size": 340658
+"size": 43933
 },
 "docx/080.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43586
 },
-"pdf/080.content.pdf": {
-"mimeType": "application/pdf",
-"size": 305562
-},
 "docx/081.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 50334
-},
-"pdf/081.content.pdf": {
-"mimeType": "application/pdf",
-"size": 592353
 },
 "docx/082.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45434
 },
-"pdf/082.content.pdf": {
-"mimeType": "application/pdf",
-"size": 393236
-},
 "docx/083.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44251
-},
-"pdf/083.content.pdf": {
-"mimeType": "application/pdf",
-"size": 329726
 },
 "docx/084.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45374
 },
-"pdf/084.content.pdf": {
-"mimeType": "application/pdf",
-"size": 407311
-},
 "docx/085.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44569
-},
-"pdf/085.content.pdf": {
-"mimeType": "application/pdf",
-"size": 346800
 },
 "docx/086.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48938
 },
-"pdf/086.content.pdf": {
-"mimeType": "application/pdf",
-"size": 541133
-},
 "docx/087.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46099
-},
-"pdf/087.content.pdf": {
-"mimeType": "application/pdf",
-"size": 455564
 },
 "docx/088.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43804
 },
-"pdf/088.content.pdf": {
-"mimeType": "application/pdf",
-"size": 334775
-},
 "docx/089.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43984
-},
-"pdf/089.content.pdf": {
-"mimeType": "application/pdf",
-"size": 325929
 },
 "docx/090.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 50290
 },
-"pdf/090.content.pdf": {
-"mimeType": "application/pdf",
-"size": 559015
-},
 "docx/091.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43895
-},
-"pdf/091.content.pdf": {
-"mimeType": "application/pdf",
-"size": 316151
 },
 "docx/092.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 49475
 },
-"pdf/092.content.pdf": {
-"mimeType": "application/pdf",
-"size": 538073
-},
 "docx/093.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45370
-},
-"pdf/093.content.pdf": {
-"mimeType": "application/pdf",
-"size": 408121
 },
 "docx/094.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44355
 },
-"pdf/094.content.pdf": {
-"mimeType": "application/pdf",
-"size": 354951
-},
 "docx/095.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 52435
-},
-"pdf/095.content.pdf": {
-"mimeType": "application/pdf",
-"size": 648659
 },
 "docx/096.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44178
 },
-"pdf/096.content.pdf": {
-"mimeType": "application/pdf",
-"size": 335458
-},
 "docx/097.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 59122
-},
-"pdf/097.content.pdf": {
-"mimeType": "application/pdf",
-"size": 826716
+"size": 59124
 },
 "docx/098.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 57336
 },
-"pdf/098.content.pdf": {
-"mimeType": "application/pdf",
-"size": 768317
-},
 "docx/099.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45269
-},
-"pdf/099.content.pdf": {
-"mimeType": "application/pdf",
-"size": 380588
 },
 "docx/100.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44005
 },
-"pdf/100.content.pdf": {
-"mimeType": "application/pdf",
-"size": 323692
-},
 "docx/101.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44595
-},
-"pdf/101.content.pdf": {
-"mimeType": "application/pdf",
-"size": 365821
 },
 "docx/102.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 53232
 },
-"pdf/102.content.pdf": {
-"mimeType": "application/pdf",
-"size": 660940
-},
 "docx/103.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51817
-},
-"pdf/103.content.pdf": {
-"mimeType": "application/pdf",
-"size": 617479
+"size": 51860
 },
 "docx/104.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44562
 },
-"pdf/104.content.pdf": {
-"mimeType": "application/pdf",
-"size": 354951
-},
 "docx/105.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44851
-},
-"pdf/105.content.pdf": {
-"mimeType": "application/pdf",
-"size": 382021
 },
 "docx/106.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43474
 },
-"pdf/106.content.pdf": {
-"mimeType": "application/pdf",
-"size": 297463
-},
 "docx/107.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44145
-},
-"pdf/107.content.pdf": {
-"mimeType": "application/pdf",
-"size": 331146
 },
 "docx/108.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43712
 },
-"pdf/108.content.pdf": {
-"mimeType": "application/pdf",
-"size": 307203
-},
 "docx/109.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 47707
-},
-"pdf/109.content.pdf": {
-"mimeType": "application/pdf",
-"size": 467432
 },
 "docx/110.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 49409
 },
-"pdf/110.content.pdf": {
-"mimeType": "application/pdf",
-"size": 569972
-},
 "docx/111.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43713
-},
-"pdf/111.content.pdf": {
-"mimeType": "application/pdf",
-"size": 334952
 },
 "docx/112.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43404
 },
-"pdf/112.content.pdf": {
-"mimeType": "application/pdf",
-"size": 299858
-},
 "docx/113.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44954
-},
-"pdf/113.content.pdf": {
-"mimeType": "application/pdf",
-"size": 388903
 },
 "docx/114.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43217
 },
-"pdf/114.content.pdf": {
-"mimeType": "application/pdf",
-"size": 293537
-},
 "docx/115.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43757
-},
-"pdf/115.content.pdf": {
-"mimeType": "application/pdf",
-"size": 315551
 },
 "docx/116.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43526
 },
-"pdf/116.content.pdf": {
-"mimeType": "application/pdf",
-"size": 303751
-},
 "docx/117.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46736
 },
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 97246
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 90502
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 189052
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 184938
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 141064
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 125583
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 96608
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 97407
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 270007
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 160976
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 139065
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 165576
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 90521
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 178464
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 113811
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 108446
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 105256
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 93205
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 105700
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 124001
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 132551
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 85124
+},
+"pdf/023.content.pdf": {
+"mimeType": "application/pdf",
+"size": 195709
+},
+"pdf/024.content.pdf": {
+"mimeType": "application/pdf",
+"size": 102109
+},
+"pdf/025.content.pdf": {
+"mimeType": "application/pdf",
+"size": 150419
+},
+"pdf/026.content.pdf": {
+"mimeType": "application/pdf",
+"size": 152088
+},
+"pdf/027.content.pdf": {
+"mimeType": "application/pdf",
+"size": 102585
+},
+"pdf/028.content.pdf": {
+"mimeType": "application/pdf",
+"size": 164784
+},
+"pdf/029.content.pdf": {
+"mimeType": "application/pdf",
+"size": 111679
+},
+"pdf/030.content.pdf": {
+"mimeType": "application/pdf",
+"size": 192877
+},
+"pdf/031.content.pdf": {
+"mimeType": "application/pdf",
+"size": 96688
+},
+"pdf/032.content.pdf": {
+"mimeType": "application/pdf",
+"size": 161653
+},
+"pdf/033.content.pdf": {
+"mimeType": "application/pdf",
+"size": 110935
+},
+"pdf/034.content.pdf": {
+"mimeType": "application/pdf",
+"size": 98071
+},
+"pdf/035.content.pdf": {
+"mimeType": "application/pdf",
+"size": 451287
+},
+"pdf/036.content.pdf": {
+"mimeType": "application/pdf",
+"size": 281058
+},
+"pdf/037.content.pdf": {
+"mimeType": "application/pdf",
+"size": 181117
+},
+"pdf/038.content.pdf": {
+"mimeType": "application/pdf",
+"size": 366444
+},
+"pdf/039.content.pdf": {
+"mimeType": "application/pdf",
+"size": 106463
+},
+"pdf/040.content.pdf": {
+"mimeType": "application/pdf",
+"size": 109612
+},
+"pdf/041.content.pdf": {
+"mimeType": "application/pdf",
+"size": 173941
+},
+"pdf/042.content.pdf": {
+"mimeType": "application/pdf",
+"size": 110696
+},
+"pdf/043.content.pdf": {
+"mimeType": "application/pdf",
+"size": 129016
+},
+"pdf/044.content.pdf": {
+"mimeType": "application/pdf",
+"size": 96921
+},
+"pdf/045.content.pdf": {
+"mimeType": "application/pdf",
+"size": 114015
+},
+"pdf/046.content.pdf": {
+"mimeType": "application/pdf",
+"size": 225779
+},
+"pdf/047.content.pdf": {
+"mimeType": "application/pdf",
+"size": 114246
+},
+"pdf/048.content.pdf": {
+"mimeType": "application/pdf",
+"size": 112396
+},
+"pdf/049.content.pdf": {
+"mimeType": "application/pdf",
+"size": 151506
+},
+"pdf/050.content.pdf": {
+"mimeType": "application/pdf",
+"size": 114202
+},
+"pdf/051.content.pdf": {
+"mimeType": "application/pdf",
+"size": 110842
+},
+"pdf/052.content.pdf": {
+"mimeType": "application/pdf",
+"size": 153821
+},
+"pdf/053.content.pdf": {
+"mimeType": "application/pdf",
+"size": 152832
+},
+"pdf/054.content.pdf": {
+"mimeType": "application/pdf",
+"size": 212666
+},
+"pdf/055.content.pdf": {
+"mimeType": "application/pdf",
+"size": 231546
+},
+"pdf/056.content.pdf": {
+"mimeType": "application/pdf",
+"size": 93268
+},
+"pdf/057.content.pdf": {
+"mimeType": "application/pdf",
+"size": 118491
+},
+"pdf/058.content.pdf": {
+"mimeType": "application/pdf",
+"size": 132208
+},
+"pdf/059.content.pdf": {
+"mimeType": "application/pdf",
+"size": 105105
+},
+"pdf/060.content.pdf": {
+"mimeType": "application/pdf",
+"size": 140751
+},
+"pdf/061.content.pdf": {
+"mimeType": "application/pdf",
+"size": 119887
+},
+"pdf/062.content.pdf": {
+"mimeType": "application/pdf",
+"size": 190689
+},
+"pdf/063.content.pdf": {
+"mimeType": "application/pdf",
+"size": 154747
+},
+"pdf/064.content.pdf": {
+"mimeType": "application/pdf",
+"size": 98910
+},
+"pdf/065.content.pdf": {
+"mimeType": "application/pdf",
+"size": 127010
+},
+"pdf/066.content.pdf": {
+"mimeType": "application/pdf",
+"size": 131313
+},
+"pdf/067.content.pdf": {
+"mimeType": "application/pdf",
+"size": 147588
+},
+"pdf/068.content.pdf": {
+"mimeType": "application/pdf",
+"size": 299919
+},
+"pdf/069.content.pdf": {
+"mimeType": "application/pdf",
+"size": 97518
+},
+"pdf/070.content.pdf": {
+"mimeType": "application/pdf",
+"size": 121047
+},
+"pdf/071.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1612823
+},
+"pdf/072.content.pdf": {
+"mimeType": "application/pdf",
+"size": 634626
+},
+"pdf/073.content.pdf": {
+"mimeType": "application/pdf",
+"size": 643848
+},
+"pdf/074.content.pdf": {
+"mimeType": "application/pdf",
+"size": 104836
+},
+"pdf/075.content.pdf": {
+"mimeType": "application/pdf",
+"size": 254811
+},
+"pdf/076.content.pdf": {
+"mimeType": "application/pdf",
+"size": 113802
+},
+"pdf/077.content.pdf": {
+"mimeType": "application/pdf",
+"size": 280182
+},
+"pdf/078.content.pdf": {
+"mimeType": "application/pdf",
+"size": 115711
+},
+"pdf/079.content.pdf": {
+"mimeType": "application/pdf",
+"size": 109767
+},
+"pdf/080.content.pdf": {
+"mimeType": "application/pdf",
+"size": 101556
+},
+"pdf/081.content.pdf": {
+"mimeType": "application/pdf",
+"size": 296138
+},
+"pdf/082.content.pdf": {
+"mimeType": "application/pdf",
+"size": 155950
+},
+"pdf/083.content.pdf": {
+"mimeType": "application/pdf",
+"size": 119757
+},
+"pdf/084.content.pdf": {
+"mimeType": "application/pdf",
+"size": 153428
+},
+"pdf/085.content.pdf": {
+"mimeType": "application/pdf",
+"size": 130199
+},
+"pdf/086.content.pdf": {
+"mimeType": "application/pdf",
+"size": 243362
+},
+"pdf/087.content.pdf": {
+"mimeType": "application/pdf",
+"size": 188260
+},
+"pdf/088.content.pdf": {
+"mimeType": "application/pdf",
+"size": 108358
+},
+"pdf/089.content.pdf": {
+"mimeType": "application/pdf",
+"size": 117885
+},
+"pdf/090.content.pdf": {
+"mimeType": "application/pdf",
+"size": 284427
+},
+"pdf/091.content.pdf": {
+"mimeType": "application/pdf",
+"size": 106928
+},
+"pdf/092.content.pdf": {
+"mimeType": "application/pdf",
+"size": 280410
+},
+"pdf/093.content.pdf": {
+"mimeType": "application/pdf",
+"size": 159626
+},
+"pdf/094.content.pdf": {
+"mimeType": "application/pdf",
+"size": 126209
+},
+"pdf/095.content.pdf": {
+"mimeType": "application/pdf",
+"size": 341838
+},
+"pdf/096.content.pdf": {
+"mimeType": "application/pdf",
+"size": 118490
+},
+"pdf/097.content.pdf": {
+"mimeType": "application/pdf",
+"size": 480040
+},
+"pdf/098.content.pdf": {
+"mimeType": "application/pdf",
+"size": 436409
+},
+"pdf/099.content.pdf": {
+"mimeType": "application/pdf",
+"size": 150288
+},
+"pdf/100.content.pdf": {
+"mimeType": "application/pdf",
+"size": 115296
+},
+"pdf/101.content.pdf": {
+"mimeType": "application/pdf",
+"size": 127391
+},
+"pdf/102.content.pdf": {
+"mimeType": "application/pdf",
+"size": 355418
+},
+"pdf/103.content.pdf": {
+"mimeType": "application/pdf",
+"size": 318876
+},
+"pdf/104.content.pdf": {
+"mimeType": "application/pdf",
+"size": 127366
+},
+"pdf/105.content.pdf": {
+"mimeType": "application/pdf",
+"size": 139050
+},
+"pdf/106.content.pdf": {
+"mimeType": "application/pdf",
+"size": 100531
+},
+"pdf/107.content.pdf": {
+"mimeType": "application/pdf",
+"size": 126529
+},
+"pdf/108.content.pdf": {
+"mimeType": "application/pdf",
+"size": 103362
+},
+"pdf/109.content.pdf": {
+"mimeType": "application/pdf",
+"size": 219609
+},
+"pdf/110.content.pdf": {
+"mimeType": "application/pdf",
+"size": 280815
+},
+"pdf/111.content.pdf": {
+"mimeType": "application/pdf",
+"size": 105767
+},
+"pdf/112.content.pdf": {
+"mimeType": "application/pdf",
+"size": 96268
+},
+"pdf/113.content.pdf": {
+"mimeType": "application/pdf",
+"size": 144272
+},
+"pdf/114.content.pdf": {
+"mimeType": "application/pdf",
+"size": 86543
+},
+"pdf/115.content.pdf": {
+"mimeType": "application/pdf",
+"size": 107200
+},
+"pdf/116.content.pdf": {
+"mimeType": "application/pdf",
+"size": 97538
+},
 "pdf/117.content.pdf": {
 "mimeType": "application/pdf",
-"size": 404612
+"size": 190945
 }
 },
 "copyright": {
@@ -2960,7 +2960,7 @@
 "700163": {
 "content_id": "700163",
 "reference_id": 203100,
-"index_reference": "巴別：萬國的分散",
+"index_reference": "巴別萬國的分散",
 "localizations": {
 "eng": {
 "content_id": 500157,
@@ -3744,7 +3744,7 @@
 "700185": {
 "content_id": "700185",
 "reference_id": 203122,
-"index_reference": "潔淨、不潔淨與聖潔",
+"index_reference": "潔淨不潔淨與聖潔",
 "localizations": {
 "eng": {
 "content_id": 500179,
@@ -3855,7 +3855,7 @@
 "700188": {
 "content_id": "700188",
 "reference_id": 203125,
-"index_reference": "家庭、群體與性方面的罪",
+"index_reference": "家庭群體與性方面的罪",
 "localizations": {
 "eng": {
 "content_id": 500182,
@@ -4449,7 +4449,7 @@
 "700205": {
 "content_id": "700205",
 "reference_id": 203142,
-"index_reference": "群體責任：亞干的罪",
+"index_reference": "群體責任亞干的罪",
 "localizations": {
 "eng": {
 "content_id": 500199,
@@ -5122,7 +5122,7 @@
 "700224": {
 "content_id": "700224",
 "reference_id": 203161,
-"index_reference": "是神還是撒但？",
+"index_reference": "是神還是撒但",
 "localizations": {
 "eng": {
 "content_id": 500218,
@@ -7448,7 +7448,7 @@
 "700292": {
 "content_id": "700292",
 "reference_id": 203229,
-"index_reference": "一切都是「煙霧」",
+"index_reference": "一切都是煙霧",
 "localizations": {
 "eng": {
 "content_id": 500286,
@@ -9910,7 +9910,7 @@
 "700363": {
 "content_id": "700363",
 "reference_id": 203300,
-"index_reference": "路加—使徒行傳中的讚美和歡欣",
+"index_reference": "路加使徒行傳中的讚美和歡欣",
 "localizations": {
 "eng": {
 "content_id": 500357,
@@ -10272,7 +10272,7 @@
 "700374": {
 "content_id": "700374",
 "reference_id": 203311,
-"index_reference": "約翰福音中的「信」",
+"index_reference": "約翰福音中的信",
 "localizations": {
 "eng": {
 "content_id": 500368,
@@ -10447,7 +10447,7 @@
 "700379": {
 "content_id": "700379",
 "reference_id": 203316,
-"index_reference": "耶穌的「我是」宣告",
+"index_reference": "耶穌的我是宣告",
 "localizations": {
 "eng": {
 "content_id": 500373,
@@ -11260,7 +11260,7 @@
 "700403": {
 "content_id": "700403",
 "reference_id": 203340,
-"index_reference": "猶太人與外邦人（非猶太人）",
+"index_reference": "猶太人與外邦人非猶太人",
 "localizations": {
 "eng": {
 "content_id": 500397,
@@ -11940,7 +11940,7 @@
 "700423": {
 "content_id": "700423",
 "reference_id": 203360,
-"index_reference": "基督頌：基督的神性",
+"index_reference": "基督頌基督的神性",
 "localizations": {
 "eng": {
 "content_id": 500417,
@@ -12110,7 +12110,7 @@
 "700428": {
 "content_id": "700428",
 "reference_id": 203365,
-"index_reference": "「祂必再來」",
+"index_reference": "祂必再來",
 "localizations": {
 "eng": {
 "content_id": 500422,
@@ -13029,7 +13029,7 @@
 "700455": {
 "content_id": "700455",
 "reference_id": 203392,
-"index_reference": "千年（千禧年）",
+"index_reference": "千年千禧年",
 "localizations": {
 "eng": {
 "content_id": 500449,
