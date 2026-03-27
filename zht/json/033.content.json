@@ -1,190 +1,39 @@
 [
 {
-"content_id": "700216",
-"reference_id": 203153,
+"content_id": "700284",
+"reference_id": 203221,
 "version": "1.0.2",
-"title": "毀滅淨盡",
+"title": "婚姻和性",
 "media_type": "Text",
-"index_reference": "毀滅淨盡",
+"index_reference": "婚姻和性",
 "language": "zht",
 "review_level": "None",
-"content": "<p><em>見</em><span data-bnType=\"resourceReference\" data-resourceId=\"203127\" data-resourceType=\"TyndaleStudyNotesThemes\">完全的獻上</span>。</p>",
+"content": "<p>聖經從一開始就視婚姻為神聖的，性關係是其中重要的一部分（<a href=\"https://ref.ly/Gen2:23-Gen2:25\">創2:23–25</a>）。第一個人類的罪造成所有關係的破裂，首先是人與神之間，接著是夫妻之間，甚至人與受造界之間（<a href=\"https://ref.ly/Gen3:1-Gen3:24\">創3章</a>）。亞當與夏娃之間的分裂，也在他們的性關係中顯露出來，他們再也無法在園中赤身露體而不感到羞恥。</p><p>在箴言中，智慧的傳道者屢次告誡年輕人，要遠離婚姻之外的性試探（<a href=\"https://ref.ly/Prov2:16-Prov2:22\">箴2:16–22，</a><a href=\"https://ref.ly/Prov5:1-Prov5:23\">5:1–23，</a><a href=\"https://ref.ly/Prov6:20-Prov7:27\">6:20–7:27</a>）。雖然年輕人可能會覺得別的女人有吸引力，但若順從這種試探，可能會帶來極其嚴重的後果，甚至毀掉家庭和人生目標。箴言勸勉年輕人要與自己的妻子建立堅固的關係，並鼓勵人在婚姻中享受健康的愛情，而不是與其他女人苟合（<a href=\"https://ref.ly/Prov5:15-Prov5:20\">5:15–20</a>）。</p><p>雖然箴言這段教導最初是針對年輕男子，但每個人都可以從中反思婚姻與性的議題。箴言鼓勵眾人看重婚姻之愛的神聖與美麗，正如神——智慧的創造主所設計的那樣。</p><p>新約聖經同樣強調性關係的聖潔，並指出其應當在婚姻內得到正確表達。耶穌引用創世記的記載，強調婚姻的永久性。祂在引用<a href=\"https://ref.ly/Gen2:24\">創世記二章24節</a>後說：「既然如此，夫妻不再是兩個人，乃是一體的了。所以，神配合的，人不可分開。」（<a href=\"https://ref.ly/Matt19:3-Matt19:6\">太19:3–6</a>）。使徒保羅也談到，在婚姻中保持親密關係的重要性，避免撒但藉機試探（<a href=\"https://ref.ly/1Cor7:3-1Cor7:5\">林前7:3–5</a>）。神期望婚姻中的男女彼此忠誠，遠離任何會破壞這段神聖關係的性行為（見<a href=\"https://ref.ly/Heb13:4\">來13:4</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen2:18-Gen2:25\">創2:18–25；</a><a href=\"https://ref.ly/Prov2:16-Prov2:22\">箴2:16–22</a>，<a href=\"https://ref.ly/Prov5:15-Prov5:20\">5:15–20</a>，<a href=\"https://ref.ly/Prov6:20-Prov6:35\">6:20–35</a>，<a href=\"https://ref.ly/Prov7:1-Prov7:27\">7:1–27；</a><a href=\"https://ref.ly/Jer5:7-Jer5:11\">耶5:7–11；</a><a href=\"https://ref.ly/Hos2:20\">何2:20；</a><a href=\"https://ref.ly/Mal2:14-Mal2:16\">瑪2:14–16；</a><a href=\"https://ref.ly/Matt19:4-Matt19:6\">太19:4–6</a>，<a href=\"https://ref.ly/Matt22:30\">22:30；</a><a href=\"https://ref.ly/1Cor6:15-1Cor6:20\">林前6:15–20；</a><a href=\"https://ref.ly/Heb13:4\">來13:4</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "01012003",
-"start_ref_usfm": "GEN 12:3",
-"end_ref": "01012003",
-"end_ref_usfm": "GEN 12:3"
+"start_ref": "01002024",
+"start_ref_usfm": "GEN 2:24",
+"end_ref": "01002024",
+"end_ref_usfm": "GEN 2:24"
 },
 {
-"start_ref": "02022020",
-"start_ref_usfm": "EXO 22:20",
-"end_ref": "02022020",
-"end_ref_usfm": "EXO 22:20"
+"start_ref": "28002020",
+"start_ref_usfm": "HOS 2:20",
+"end_ref": "28002020",
+"end_ref_usfm": "HOS 2:20"
 },
 {
-"start_ref": "05007026",
-"start_ref_usfm": "DEU 7:26",
-"end_ref": "05007026",
-"end_ref_usfm": "DEU 7:26"
+"start_ref": "40022030",
+"start_ref_usfm": "MAT 22:30",
+"end_ref": "40022030",
+"end_ref_usfm": "MAT 22:30"
 },
 {
-"start_ref": "06006019",
-"start_ref_usfm": "JOS 6:19",
-"end_ref": "06006019",
-"end_ref_usfm": "JOS 6:19"
-},
-{
-"start_ref": "09015003",
-"start_ref_usfm": "1SA 15:3",
-"end_ref": "09015003",
-"end_ref_usfm": "1SA 15:3"
-},
-{
-"start_ref": "11020042",
-"start_ref_usfm": "1KI 20:42",
-"end_ref": "11020042",
-"end_ref_usfm": "1KI 20:42"
-},
-{
-"start_ref": "45012019",
-"start_ref_usfm": "ROM 12:19",
-"end_ref": "45012019",
-"end_ref_usfm": "ROM 12:19"
-},
-{
-"start_ref": "51003005",
-"start_ref_usfm": "COL 3:5",
-"end_ref": "51003005",
-"end_ref_usfm": "COL 3:5"
-},
-{
-"start_ref": "02017008",
-"start_ref_usfm": "EXO 17:8",
-"end_ref": "02017016",
-"end_ref_usfm": "EXO 17:16"
-},
-{
-"start_ref": "05025017",
-"start_ref_usfm": "DEU 25:17",
-"end_ref": "05025019",
-"end_ref_usfm": "DEU 25:19"
-},
-{
-"start_ref": "03027028",
-"start_ref_usfm": "LEV 27:28",
-"end_ref": "03027029",
-"end_ref_usfm": "LEV 27:29"
-},
-{
-"start_ref": "06006017",
-"start_ref_usfm": "JOS 6:17",
-"end_ref": "06006019",
-"end_ref_usfm": "JOS 6:19"
-},
-{
-"start_ref": "49006010",
-"start_ref_usfm": "EPH 6:10",
-"end_ref": "49006020",
-"end_ref_usfm": "EPH 6:20"
-},
-{
-"start_ref": "53001006",
-"start_ref_usfm": "2TH 1:6",
-"end_ref": "53001010",
-"end_ref_usfm": "2TH 1:10"
-},
-{
-"start_ref": "06006017",
-"start_ref_usfm": "JOS 6:17",
-"end_ref": "06006018",
-"end_ref_usfm": "JOS 6:18"
-},
-{
-"start_ref": "04021002",
-"start_ref_usfm": "NUM 21:2",
-"end_ref": "04021003",
-"end_ref_usfm": "NUM 21:3"
-},
-{
-"start_ref": "05007001",
-"start_ref_usfm": "DEU 7:1",
-"end_ref": "05007006",
-"end_ref_usfm": "DEU 7:6"
-},
-{
-"start_ref": "05013012",
-"start_ref_usfm": "DEU 13:12",
-"end_ref": "05013018",
-"end_ref_usfm": "DEU 13:18"
-},
-{
-"start_ref": "23043026",
-"start_ref_usfm": "ISA 43:26",
-"end_ref": "23043028",
-"end_ref_usfm": "ISA 43:28"
-},
-{
-"start_ref": "42009051",
-"start_ref_usfm": "LUK 9:51",
-"end_ref": "42009056",
-"end_ref_usfm": "LUK 9:56"
-},
-{
-"start_ref": "45008012",
-"start_ref_usfm": "ROM 8:12",
-"end_ref": "45008013",
-"end_ref_usfm": "ROM 8:13"
-},
-{
-"start_ref": "62002009",
-"start_ref_usfm": "1JN 2:9",
-"end_ref": "62002017",
-"end_ref_usfm": "1JN 2:17"
-},
-{
-"start_ref": "06007011",
-"start_ref_usfm": "JOS 7:11",
-"end_ref": "06007026",
-"end_ref_usfm": "JOS 7:26"
-}
-],
-"resource": [
-{
-"reference_id": 203127,
-"content_id": 700190,
-"resource_code": "TyndaleStudyNotesThemes",
-"label": "完全的獻上",
-"language": "zht"
-}
-],
-"acai": []
-}
-},
-{
-"content_id": "700181",
-"reference_id": 203118,
-"version": "1.0.2",
-"title": "會幕",
-"media_type": "Text",
-"index_reference": "會幕",
-"language": "zht",
-"review_level": "None",
-"content": "<p>會幕是一個可移動的聖所，神在那裡與以色列人同住。從創造之初，神的計劃就是要與人分享衪的生命，並讓人們與衪建立親密的關係。然而，罪進入世界時產生了一個嚴重的問題（<a href=\"https://ref.ly/Gen3:1-Gen3:24\">創3</a>）。如果有罪的人來到神的面前，神的聖潔會毀滅他們。</p><p>會幕為這個問題提供了一個暫時的解決方案。這是一個像帳篷一樣的特殊結構，使以色列人能夠享受神的同在而不被其毀滅（<a href=\"https://ref.ly/Exod25:8\">出25:8</a>）。它作為一個流動的敬拜場所，讓以色列人可以向神獻祭並敬拜祂。</p><p>會幕向我們顯示了進入神的同在所需的條件：</p><ul><li><p>祭壇表明罪必須藉著祭牲的死亡來去除。這是一個大型的銅器結構，用於獻上祭牲以贖人們的罪。</p></li><li><p>洗濯盆表明與神建立關係需要去除不潔——任何違背神完美道德標準的事物。這是一個裝滿水的大銅盆，祭司在會幕中服事前會在此洗手和洗腳。</p></li><li><p>在聖所中，燈臺和桌子表示我們必須行在神的光中，並倚靠祂供應我們所需。金燈臺有七個分支，提供至聖所中唯一的光源，而桌子上放著十二個餅，代表神對以色列十二支派的供應。</p></li><li><p>香壇象徵禱告。持續上升的馨香提醒那些蒙赦免和潔淨的人，那些遵循神的指引並倚靠衪的人，他們可以完全親近衪。這個小金壇位於至聖所的幔子前，祭司每天在上面焚燒香馨香。</p></li><li><p>聖所和至聖所之間的幔子提醒我們，絕不能輕率地接近那位邀請我們與祂相交的全能、聖潔的神。這厚重而色彩斑斕的幔子分隔了這兩個房間，保護人們不直接面對神的臨在。</p></li><li><p>在幔子後面是約櫃，神的榮耀在其上顯現。這象徵著神作為以色列王的統治。約櫃的中心位置反映了神對祂子民的主要旨意——與永生神的盟約關係。約櫃是一個包金的木櫃，裡面裝有十誡的石版、亞倫的杖和一罐嗎哪。</p></li></ul><p>我們與神的新約關係之所以可能，是因為耶穌為罪作了完美的獻祭，以及衪成為我們在神面前的大祭司（特別見<a href=\"https://ref.ly/Heb9:1-Heb10:39\">來9–10</a>）。衪已經滿足了古代會幕所顯示的要求。我們現在可以坦然無懼地來到神的施恩寶座前（參見<a href=\"https://ref.ly/Eph3:12\">弗3:12</a>；<a href=\"https://ref.ly/Heb4:14-Heb4:16\">來4:14–16</a>）。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Exod25:1-Exod25:9\">出25:1–9</a>，<a href=\"https://ref.ly/Exod26:1-Exod26:37\">26:1–37</a>，<a href=\"https://ref.ly/Exod35:4-Exod36:38\">35:4–36:38</a>，<a href=\"https://ref.ly/Exod38:21-Exod38:31\">38:21–31</a>，<a href=\"https://ref.ly/Exod39:32-Exod40:35\">39:32–40:35</a>；<a href=\"https://ref.ly/2Chr3:1-2Chr7:22\">代下3:1–7:22</a>；<a href=\"https://ref.ly/Heb9:1-Heb9:28\">來9:1–28</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "02025008",
-"start_ref_usfm": "EXO 25:8",
-"end_ref": "02025008",
-"end_ref_usfm": "EXO 25:8"
-},
-{
-"start_ref": "49003012",
-"start_ref_usfm": "EPH 3:12",
-"end_ref": "49003012",
-"end_ref_usfm": "EPH 3:12"
+"start_ref": "58013004",
+"start_ref_usfm": "HEB 13:4",
+"end_ref": "58013004",
+"end_ref_usfm": "HEB 13:4"
 },
 {
 "start_ref": "01003001",
@@ -193,189 +42,88 @@
 "end_ref_usfm": "GEN 3:24"
 },
 {
-"start_ref": "58004014",
-"start_ref_usfm": "HEB 4:14",
-"end_ref": "58004016",
-"end_ref_usfm": "HEB 4:16"
+"start_ref": "39002014",
+"start_ref_usfm": "MAL 2:14",
+"end_ref": "39002016",
+"end_ref_usfm": "MAL 2:16"
 },
 {
-"start_ref": "58009001",
-"start_ref_usfm": "HEB 9:1",
-"end_ref": "58009028",
-"end_ref_usfm": "HEB 9:28"
+"start_ref": "20005001",
+"start_ref_usfm": "PRO 5:1",
+"end_ref": "20005023",
+"end_ref_usfm": "PRO 5:23"
 },
 {
-"start_ref": "02026001",
-"start_ref_usfm": "EXO 26:1",
-"end_ref": "02026037",
-"end_ref_usfm": "EXO 26:37"
+"start_ref": "20006020",
+"start_ref_usfm": "PRO 6:20",
+"end_ref": "20006035",
+"end_ref_usfm": "PRO 6:35"
 },
 {
-"start_ref": "02025001",
-"start_ref_usfm": "EXO 25:1",
-"end_ref": "02025009",
-"end_ref_usfm": "EXO 25:9"
+"start_ref": "20007001",
+"start_ref_usfm": "PRO 7:1",
+"end_ref": "20007027",
+"end_ref_usfm": "PRO 7:27"
 },
 {
-"start_ref": "02035004",
-"start_ref_usfm": "EXO 35:4",
-"end_ref": "02036038",
-"end_ref_usfm": "EXO 36:38"
+"start_ref": "01002018",
+"start_ref_usfm": "GEN 2:18",
+"end_ref": "01002025",
+"end_ref_usfm": "GEN 2:25"
 },
 {
-"start_ref": "02038021",
-"start_ref_usfm": "EXO 38:21",
-"end_ref": "02038031",
-"end_ref_usfm": "EXO 38:31"
+"start_ref": "46006015",
+"start_ref_usfm": "1CO 6:15",
+"end_ref": "46006020",
+"end_ref_usfm": "1CO 6:20"
 },
 {
-"start_ref": "58009001",
-"start_ref_usfm": "HEB 9:1",
-"end_ref": "58010039",
-"end_ref_usfm": "HEB 10:39"
+"start_ref": "01002023",
+"start_ref_usfm": "GEN 2:23",
+"end_ref": "01002025",
+"end_ref_usfm": "GEN 2:25"
 },
 {
-"start_ref": "02039032",
-"start_ref_usfm": "EXO 39:32",
-"end_ref": "02040035",
-"end_ref_usfm": "EXO 40:35"
+"start_ref": "20002016",
+"start_ref_usfm": "PRO 2:16",
+"end_ref": "20002022",
+"end_ref_usfm": "PRO 2:22"
 },
 {
-"start_ref": "14003001",
-"start_ref_usfm": "2CH 3:1",
-"end_ref": "14007022",
-"end_ref_usfm": "2CH 7:22"
-}
-],
-"resource": [],
-"acai": []
-}
+"start_ref": "20006020",
+"start_ref_usfm": "PRO 6:20",
+"end_ref": "20007027",
+"end_ref_usfm": "PRO 7:27"
 },
 {
-"content_id": "700288",
-"reference_id": 203225,
-"version": "1.0.2",
-"title": "賄賂和禮物",
-"media_type": "Text",
-"index_reference": "賄賂和禮物",
-"language": "zht",
-"review_level": "None",
-"content": "<p>聖經對於賄賂（為了不正當地影響決策而給予的金錢）和禮物（為表達尊重或維繫關係而贈送的物品）有清楚的教導。賄賂被嚴厲譴責，因為它敗壞公義、導致不公平的判斷。例如，<a href=\"https://ref.ly/Exod23:8\">出埃及記二十三章8節</a>吩咐說：「<span>不可受賄賂；因為賄賂能叫明眼人變瞎了，</span>又能顛倒義人的話」（另見<a href=\"https://ref.ly/Deut16:19\">申16:19</a>）。</p><p>箴言也觀察到賄賂與禮物在人際關係中的作用。有些經文指出賄賂在達成某些結果上確實有效（<a href=\"https://ref.ly/Prov17:8\">箴17:8</a>，<a href=\"https://ref.ly/Prov18:16\">18:16</a>），但這些描述是對人類行為的觀察，並非贊同賄賂。</p><p>箴言中的其它經文則明確指出賄賂是不義的，特別是當它扭曲公義時（<a href=\"https://ref.ly/Prov15:27\">箴15:27，</a><a href=\"https://ref.ly/Prov17:23\">17:23</a>）。</p><p>聖經清楚區分賄賂與正當的禮物。賄賂通常是私下給予，目的是獲得不公平的利益，或是扭曲公義。禮物則多為公開贈送，目的是表達敬意、維繫關係，或是遵循文化中的待客之道。例如，在<a href=\"https://ref.ly/Gen32:20\">創世記三十二章20節</a>中，雅各送禮物給以掃，是為了修補兄弟間的關係；又如<a href=\"https://ref.ly/1Sam10:27\">撒母耳記上十章27節</a>，人民獻禮給掃羅，以示對新王的尊敬。</p><p>聖經雖承認禮物在文化中的角色，但始終如一地譴責賄賂，強調公義、公平與正直的重要性。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Exod23:8\">出23:8</a>；<a href=\"https://ref.ly/Deut10:17\">申10:17，</a><a href=\"https://ref.ly/Deut16:19\">16:19</a>；<a href=\"https://ref.ly/1Sam8:1-1Sam8:3\">撒上8:1–3</a>；<a href=\"https://ref.ly/Prov17:8\">箴17:8、</a><a href=\"https://ref.ly/Prov17:23\">23，</a><a href=\"https://ref.ly/Prov18:16\">18:16，</a><a href=\"https://ref.ly/Prov29:4\">29:4</a>；<a href=\"https://ref.ly/Eccl7:7\">傳7:7</a>；<a href=\"https://ref.ly/Isa1:23\">賽1:23，</a><a href=\"https://ref.ly/Isa33:14-Isa33:16\">33:14–16</a>；<a href=\"https://ref.ly/Amos5:12\">摩5:12</a>；<a href=\"https://ref.ly/Mic3:9-Mic3:12\">彌3:9–12，</a><a href=\"https://ref.ly/Mic7:3\">7:3</a>；<a href=\"https://ref.ly/Matt28:11-Matt28:15\">太28:11–15</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "02023008",
-"start_ref_usfm": "EXO 23:8",
-"end_ref": "02023008",
-"end_ref_usfm": "EXO 23:8"
+"start_ref": "20005015",
+"start_ref_usfm": "PRO 5:15",
+"end_ref": "20005020",
+"end_ref_usfm": "PRO 5:20"
 },
 {
-"start_ref": "05010017",
-"start_ref_usfm": "DEU 10:17",
-"end_ref": "05010017",
-"end_ref_usfm": "DEU 10:17"
+"start_ref": "40019003",
+"start_ref_usfm": "MAT 19:3",
+"end_ref": "40019006",
+"end_ref_usfm": "MAT 19:6"
 },
 {
-"start_ref": "05016019",
-"start_ref_usfm": "DEU 16:19",
-"end_ref": "05016019",
-"end_ref_usfm": "DEU 16:19"
+"start_ref": "46007003",
+"start_ref_usfm": "1CO 7:3",
+"end_ref": "46007005",
+"end_ref_usfm": "1CO 7:5"
 },
 {
-"start_ref": "05027025",
-"start_ref_usfm": "DEU 27:25",
-"end_ref": "05027025",
-"end_ref_usfm": "DEU 27:25"
+"start_ref": "24005007",
+"start_ref_usfm": "JER 5:7",
+"end_ref": "24005011",
+"end_ref_usfm": "JER 5:11"
 },
 {
-"start_ref": "19015005",
-"start_ref_usfm": "PSA 15:5",
-"end_ref": "19015005",
-"end_ref_usfm": "PSA 15:5"
-},
-{
-"start_ref": "20015027",
-"start_ref_usfm": "PRO 15:27",
-"end_ref": "20015027",
-"end_ref_usfm": "PRO 15:27"
-},
-{
-"start_ref": "20017008",
-"start_ref_usfm": "PRO 17:8",
-"end_ref": "20017008",
-"end_ref_usfm": "PRO 17:8"
-},
-{
-"start_ref": "20017023",
-"start_ref_usfm": "PRO 17:23",
-"end_ref": "20017023",
-"end_ref_usfm": "PRO 17:23"
-},
-{
-"start_ref": "20018016",
-"start_ref_usfm": "PRO 18:16",
-"end_ref": "20018016",
-"end_ref_usfm": "PRO 18:16"
-},
-{
-"start_ref": "20021014",
-"start_ref_usfm": "PRO 21:14",
-"end_ref": "20021014",
-"end_ref_usfm": "PRO 21:14"
-},
-{
-"start_ref": "20029004",
-"start_ref_usfm": "PRO 29:4",
-"end_ref": "20029004",
-"end_ref_usfm": "PRO 29:4"
-},
-{
-"start_ref": "21007007",
-"start_ref_usfm": "ECC 7:7",
-"end_ref": "21007007",
-"end_ref_usfm": "ECC 7:7"
-},
-{
-"start_ref": "23001023",
-"start_ref_usfm": "ISA 1:23",
-"end_ref": "23001023",
-"end_ref_usfm": "ISA 1:23"
-},
-{
-"start_ref": "30005012",
-"start_ref_usfm": "AMO 5:12",
-"end_ref": "30005012",
-"end_ref_usfm": "AMO 5:12"
-},
-{
-"start_ref": "33007003",
-"start_ref_usfm": "MIC 7:3",
-"end_ref": "33007003",
-"end_ref_usfm": "MIC 7:3"
-},
-{
-"start_ref": "40028011",
-"start_ref_usfm": "MAT 28:11",
-"end_ref": "40028015",
-"end_ref_usfm": "MAT 28:15"
-},
-{
-"start_ref": "33003009",
-"start_ref_usfm": "MIC 3:9",
-"end_ref": "33003012",
-"end_ref_usfm": "MIC 3:12"
-},
-{
-"start_ref": "09008001",
-"start_ref_usfm": "1SA 8:1",
-"end_ref": "09008003",
-"end_ref_usfm": "1SA 8:3"
-},
-{
-"start_ref": "23033014",
-"start_ref_usfm": "ISA 33:14",
-"end_ref": "23033016",
-"end_ref_usfm": "ISA 33:16"
+"start_ref": "40019004",
+"start_ref_usfm": "MAT 19:4",
+"end_ref": "40019006",
+"end_ref_usfm": "MAT 19:6"
 }
 ],
 "resource": [],

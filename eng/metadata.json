@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-02-27",
+"date_created": "2026-03-27",
 "language": "eng",
 "localizations": [
 "arb",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:23:53.340509"
+"dateCreated": "2026-03-27T16:28:07.424473"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-02-27T17:23:53.340509"
+"timestamp": "2026-03-27T16:28:07.424473"
 }
 }
 },
@@ -96,18 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 19863,
-"scope": {
-"“": [
-"“Belief” in the Gospel of John",
-"“He Will Come”",
-"“I Am” Sayings of Jesus"
-]
-}
-},
-"json/002.content.json": {
-"mimeType": "text/json",
-"size": 76194,
+"size": 95038,
 "scope": {
 "a": [
 "All Is “Vapor”",
@@ -116,50 +105,71 @@
 "Ancient Law Codes",
 "Angels",
 "Anger",
+"The Antichrist",
 "Apocalyptic Literature",
 "Apostasy",
 "Apostasy and Renewal",
+"The Ark of the Covenant",
+"The Ascension of Jesus",
 "Atonement"
 ]
 }
 },
-"json/003.content.json": {
+"json/002.content.json": {
 "mimeType": "text/json",
-"size": 76128,
+"size": 103052,
 "scope": {
 "b": [
 "Babel: The Dispersion of Nations",
 "Baptism",
 "Basic Laws",
 "Beauty in Nature",
+"“Belief” in the Gospel of John",
 "Belonging to Christ",
 "Biblical Law",
 "Biblical Marriage",
+"The Birth of Christ",
 "Blessing",
+"The Blessings of Jesus",
 "Bread from Heaven",
 "Bribery and Gifts",
+"The Broken Covenant",
+"The Bronze Snake",
 "By Faith"
 ]
 }
 },
-"json/004.content.json": {
+"json/003.content.json": {
 "mimeType": "text/json",
-"size": 162303,
+"size": 289049,
 "scope": {
 "c": [
 "Calling up the Dead",
 "Canaanite Religion",
 "Celebration",
+"The Central Sanctuary",
 "Charismatic Leadership",
 "Children and Parents",
+"The Choice of Life or Death",
+"The Christ Hymn: Christ’s Divine Nature",
 "Christian Giving",
 "Christian Joy",
 "Christian Suffering",
+"The Church",
+"The Church as a Living, Active Body",
+"The Church as God’s Temple",
 "Church Leaders",
 "Circumcision",
 "Circumcision in the New Testament",
+"The Cities of Refuge",
 "Citizenship in the Kingdom",
 "Clean, Unclean, and Holy",
+"The Climax of Scripture",
+"The Cloud and Fire",
+"The Collapse of Culture",
+"The Coming of God’s Kingdom",
+"The Coming of the Lord as Judge",
+"The Coming of the Spirit of God",
 "Community Identity",
 "Community Responsibility: Achan’s Sin",
 "Compassionate Healer",
@@ -169,26 +179,32 @@
 "Completion of the Second Temple",
 "Concern for the Poor",
 "Counsel from Others",
+"The Creation",
+"The Creator-King",
+"The Cross and Passover",
 "Curses and Blessings"
 ]
 }
 },
-"json/005.content.json": {
+"json/004.content.json": {
 "mimeType": "text/json",
-"size": 63719,
+"size": 109679,
 "scope": {
 "d": [
+"The Dangers of Sin",
 "Darkness and Light",
 "David's Response to Unfriendly Leaders",
+"The Day Is Coming",
+"The Day of the Lord",
 "Dealing with Conflict",
 "Death",
 "Divine Sovereignty and Human Responsibility"
 ]
 }
 },
-"json/006.content.json": {
+"json/005.content.json": {
 "mimeType": "text/json",
-"size": 49952,
+"size": 52980,
 "scope": {
 "e": [
 "Early Christian Heresies",
@@ -197,18 +213,20 @@
 "Encounters with Jesus",
 "Endurance",
 "Enjoying God’s Gifts",
-"Ethnic Hatred"
+"Ethnic Hatred",
+"The Exodus as History"
 ]
 }
 },
-"json/007.content.json": {
+"json/006.content.json": {
 "mimeType": "text/json",
-"size": 73740,
+"size": 82107,
 "scope": {
 "f": [
 "Faith and Good Deeds",
 "False Prophets",
 "Family, Community, and Sexual Sin",
+"The Family Redeemer",
 "Famine",
 "Fear of the Lord",
 "Fearing People",
@@ -218,12 +236,14 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
-"size": 277271,
+"size": 330808,
 "scope": {
 "g": [
+"The Gift of Prophecy",
 "Giving up Rights",
+"The Glory of God",
 "God as Holy Warrior",
 "God or Satan?",
 "God Protects His Servant",
@@ -257,31 +277,42 @@
 "God’s Unified Plan of Salvation",
 "God’s Uniqueness",
 "God’s Word",
-"God's Word at the Center"
+"God's Word at the Center",
+"The Good News Message",
+"The Grace of God",
+"The Growth of the Church"
 ]
 }
 },
-"json/009.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
-"size": 62123,
+"size": 129332,
 "scope": {
 "h": [
 "Hardened Hearts",
+"“He Will Come”",
+"The Heart in the Psalms",
 "Holiness and Sexual Purity",
 "Holiness by Relationship",
+"The Holiness of God’s People",
+"The Holy One of Israel",
+"The Holy Spirit’s Presence",
+"The Holy Spirit’s Work",
 "Holy War",
 "Hope Beyond Judgment",
 "Hope for the Messiah",
+"The Household",
 "Human Confusion and God’s Purpose",
 "Human Sexuality"
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
-"size": 25702,
+"size": 33262,
 "scope": {
 "i": [
+"“I Am” Sayings of Jesus",
 "Infertility",
 "Inheriting the Land",
 "Intermarriage and Divorce",
@@ -290,9 +321,9 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 58509,
+"size": 58494,
 "scope": {
 "j": [
 "Jerusalem",
@@ -305,7 +336,7 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
 "size": 10588,
 "scope": {
@@ -315,84 +346,108 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
-"size": 50928,
+"size": 91748,
 "scope": {
 "l": [
+"The Land",
+"The Last Things and the Thessalonians",
+"The Law and the Spirit",
 "Laziness and Hard Work",
 "Legalism",
 "Letters to the Seven Churches",
 "Life After Death",
+"The Limitations of Law",
 "Little Faith",
+"The Little Horn",
 "Living for Christ",
 "Living Water",
+"The Lord of Nations",
 "Love in the Community of Christ",
 "Loving Others"
 ]
 }
 },
-"json/014.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
-"size": 59308,
+"size": 87028,
 "scope": {
 "m": [
 "Making Sense of the Exile",
 "Marriage and Sexuality",
 "Material Reward",
+"The Message of Reconciliation",
 "Messages Against the Nations",
+"The Messiah",
+"The Messianic Banquet",
 "Miracles",
 "Miraculous Signs in the Gospel of John",
 "Misunderstanding in the Gospel of John",
-"Music in Ancient Israel"
+"Music in Ancient Israel",
+"The Mystery of the Good News"
+]
+}
+},
+"json/014.content.json": {
+"mimeType": "text/json",
+"size": 31816,
+"scope": {
+"n": [
+"Natural Revelation",
+"Nehemiah’s Confidence in God",
+"The New Community",
+"The New Covenant",
+"The New Order"
 ]
 }
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 12171,
-"scope": {
-"n": [
-"Natural Revelation",
-"Nehemiah’s Confidence in God"
-]
-}
-},
-"json/016.content.json": {
-"mimeType": "text/json",
-"size": 21344,
+"size": 33668,
 "scope": {
 "o": [
+"The Old Life and the New Life",
+"The Old Realm and the New",
 "Oppression of God’s People",
 "Our Advocate",
 "Overcoming the Devil"
 ]
 }
 },
-"json/017.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
-"size": 115647,
+"size": 181814,
 "scope": {
 "p": [
 "Passing On Authority and Responsibility to a New Leader",
+"The Passover",
 "Paul’s Role as an Apostle",
 "Persecution",
+"The Plagues",
+"The Poor and Needy in the Psalms",
 "Praise and Rejoicing in Luke–Acts",
 "Praise Psalms",
 "Prayers for Vengeance",
 "Preaching to a Tough Crowd",
 "Pride and Humility",
+"The Priestly Blessing",
+"The Promise of a Second Exodus",
+"The Promise of Dynasty",
+"The Promise of New Life",
 "Promised Land",
 "Prophetic Sign Acts",
 "Prophets in 1 Kings",
 "Psalms of Suffering",
 "Pure Worship",
 "Purim",
-"Purity and Identity"
+"Purity and Identity",
+"The Purpose of the Judgments",
+"The Purpose of the Sinai Covenant"
 ]
 }
 },
-"json/018.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
 "size": 10232,
 "scope": {
@@ -401,145 +456,77 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
-"size": 63524,
+"size": 111342,
 "scope": {
 "r": [
 "Rebuilding of Jerusalem",
 "Religious Hypocrisy",
 "Remaining in Christ",
 "Remember Him",
+"The Remnant",
 "Remove the Evil",
 "Resurrection in the Old Testament",
+"The Resurrection of Jesus",
+"The Resurrection of the Dead",
 "Retribution",
+"The Return of God’s Presence with His People",
 "Returning to the Lord",
 "Rich and Poor in the Gospel of Luke",
+"The Righteous Suffer",
 "Righteousness by Faith",
 "Royal Psalms"
 ]
 }
 },
-"json/020.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
-"size": 126420,
+"size": 251670,
 "scope": {
 "s": [
 "Salvation in Isaiah",
 "Salvation in the Psalms",
+"The Secret of the Messiah",
 "Security and Obedience",
 "Seeking the Lord",
+"The Servant-Leader",
+"The Seventy Sets of Seven",
 "Shechem",
+"The Shepherd",
 "Sin Enters the World",
 "Slavery",
 "Social Chaos in Judges",
 "Social Justice",
 "Solomon’s Wisdom",
+"The Son of God",
+"The Son of Man",
+"The Sovereignty of God",
 "Speaking",
 "Spirit Empowerment",
+"The Spirit of the Law",
+"The Spirit’s Presence",
 "Spiritual Maturity",
 "Spiritual Renewal in the Later Prophets",
+"The Stone the Builders Rejected",
 "Suffering in Following God",
+"The Suffering Prophet",
+"The Superiority of the Son",
 "Symbolic Numbers"
 ]
 }
 },
-"json/021.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
-"size": 789134,
+"size": 78814,
 "scope": {
 "t": [
+"The Tabernacle",
 "Temple Design as a Picture of God's Truth",
 "Temple Legislation as Theology",
 "Temple Worship",
-"The Antichrist",
-"The Ark of the Covenant",
-"The Ascension of Jesus",
-"The Birth of Christ",
-"The Blessings of Jesus",
-"The Broken Covenant",
-"The Bronze Snake",
-"The Central Sanctuary",
-"The Choice of Life or Death",
-"The Christ Hymn: Christ’s Divine Nature",
-"The Church",
-"The Church as a Living, Active Body",
-"The Church as God’s Temple",
-"The Cities of Refuge",
-"The Climax of Scripture",
-"The Cloud and Fire",
-"The Collapse of Culture",
-"The Coming of God’s Kingdom",
-"The Coming of the Lord as Judge",
-"The Coming of the Spirit of God",
-"The Creation",
-"The Creator-King",
-"The Cross and Passover",
-"The Dangers of Sin",
-"The Day Is Coming",
-"The Day of the Lord",
-"The Exodus as History",
-"The Family Redeemer",
-"The Gift of Prophecy",
-"The Glory of God",
-"The Good News Message",
-"The Grace of God",
-"The Growth of the Church",
-"The Heart in the Psalms",
-"The Holiness of God’s People",
-"The Holy One of Israel",
-"The Holy Spirit’s Presence",
-"The Holy Spirit’s Work",
-"The Household",
-"The Land",
-"The Last Things and the Thessalonians",
-"The Law and the Spirit",
-"The Limitations of Law",
-"The Little Horn",
-"The Lord of Nations",
-"The Message of Reconciliation",
-"The Messiah",
-"The Messianic Banquet",
-"The Mystery of the Good News",
-"The New Community",
-"The New Covenant",
-"The New Order",
-"The Old Life and the New Life",
-"The Old Realm and the New",
-"The Passover",
-"The Plagues",
-"The Poor and Needy in the Psalms",
-"The Priestly Blessing",
-"The Promise of a Second Exodus",
-"The Promise of Dynasty",
-"The Promise of New Life",
-"The Purpose of the Judgments",
-"The Purpose of the Sinai Covenant",
-"The Remnant",
-"The Resurrection of Jesus",
-"The Resurrection of the Dead",
-"The Return of God’s Presence with His People",
-"The Righteous Suffer",
-"The Secret of the Messiah",
-"The Servant-Leader",
-"The Seventy Sets of Seven",
-"The Shepherd",
-"The Son of God",
-"The Son of Man",
-"The Sovereignty of God",
-"The Spirit of the Law",
-"The Spirit’s Presence",
-"The Stone the Builders Rejected",
-"The Suffering Prophet",
-"The Superiority of the Son",
-"The Tabernacle",
 "The Theater and Revelation",
 "The Thousand Years (The Millennium)",
-"The Unknown God",
-"The Word",
-"The World",
-"The Worship of Angels",
-"The Written Word",
 "Tolerance",
 "True Justice",
 "True Success",
@@ -549,16 +536,17 @@
 ]
 }
 },
-"json/022.content.json": {
+"json/021.content.json": {
 "mimeType": "text/json",
-"size": 5589,
+"size": 11085,
 "scope": {
 "u": [
-"Understanding Job"
+"Understanding Job",
+"The Unknown God"
 ]
 }
 },
-"json/023.content.json": {
+"json/022.content.json": {
 "mimeType": "text/json",
 "size": 22902,
 "scope": {
@@ -569,9 +557,9 @@
 ]
 }
 },
-"json/024.content.json": {
+"json/023.content.json": {
 "mimeType": "text/json",
-"size": 52733,
+"size": 78964,
 "scope": {
 "w": [
 "Wealth and Poverty in the Wisdom Literature",
@@ -579,12 +567,16 @@
 "Wisdom",
 "Wisdom Psalms",
 "Women’s Roles in the New Testament Church",
+"The Word",
 "Work and Patronage",
-"Worship in Jerusalem"
+"The World",
+"Worship in Jerusalem",
+"The Worship of Angels",
+"The Written Word"
 ]
 }
 },
-"json/025.content.json": {
+"json/024.content.json": {
 "mimeType": "text/json",
 "size": 17241,
 "scope": {
@@ -595,303 +587,291 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 10859
+"size": 50676
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 40559
+"size": 53320
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 38020
+"size": 145697
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 81853
+"size": 51540
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 31051
+"size": 32363
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 30086
+"size": 41656
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 37605
+"size": 161979
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 137151
+"size": 65995
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 33868
+"size": 19360
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 15473
+"size": 28159
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 28159
+"size": 5496
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 5496
+"size": 47276
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 25723
+"size": 43047
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 28512
+"size": 16718
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 6823
+"size": 17532
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 11650
+"size": 91808
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 58218
+"size": 4871
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 4871
+"size": 55824
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 34216
+"size": 123384
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 62097
+"size": 42847
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 394108
+"size": 7414
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 3601
+"size": 12717
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 12717
+"size": 39761
 },
 "md/024.content.md": {
-"mimeType": "text/markdown",
-"size": 27411
-},
-"md/025.content.md": {
 "mimeType": "text/markdown",
 "size": 7397
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46790
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 248025
+"size": 62214
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 58420
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 383144
+"size": 63448
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 57273
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 405581
+"size": 98921
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 74391
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 594425
+"size": 62280
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 54541
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 344749
+"size": 55392
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 54375
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 331250
+"size": 58895
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 57301
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 405035
+"size": 104509
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 95513
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 871871
+"size": 67170
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55506
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 350160
+"size": 50178
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48468
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 238879
+"size": 53672
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53672
-},
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 363273
+"size": 44305
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44305
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 190562
+"size": 60807
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52063
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 355836
+"size": 59769
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 54085
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 366027
+"size": 49173
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44905
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 223340
+"size": 49255
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46887
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 228502
+"size": 78881
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 65211
-},
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 506485
+"size": 43995
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43995
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 217629
+"size": 64300
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55992
-},
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 376883
+"size": 90067
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 66877
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 537386
+"size": 59157
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 191967
-},
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2141681
+"size": 45319
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43530
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 184047
+"size": 47267
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47267
-},
-"pdf/023.content.pdf": {
-"mimeType": "application/pdf",
-"size": 245254
+"size": 57834
 },
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53102
+"size": 44922
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 382490
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 408686
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1061195
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 449902
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 248839
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 345087
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1200326
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 529944
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 162147
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 258631
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 86064
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 373129
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 353223
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 165234
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 170477
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 676539
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 87683
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 441351
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 958999
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 314847
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 87732
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 129768
+},
+"pdf/023.content.pdf": {
+"mimeType": "application/pdf",
+"size": 332264
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 359990
-},
-"docx/025.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44922
-},
-"pdf/025.content.pdf": {
-"mimeType": "application/pdf",
-"size": 202849
+"size": 107054
 }
 },
 "copyright": {
@@ -913,7 +893,7 @@
 "500151": {
 "content_id": "500151",
 "reference_id": 203094,
-"index_reference": "the creation",
+"index_reference": "creation",
 "localizations": {
 "arb": {
 "content_id": 702158,
@@ -1083,7 +1063,7 @@
 "500156": {
 "content_id": "500156",
 "reference_id": 203099,
-"index_reference": "god’s covenant with noah",
+"index_reference": "gods covenant with noah",
 "localizations": {
 "arb": {
 "content_id": 702163,
@@ -1120,7 +1100,7 @@
 "500157": {
 "content_id": "500157",
 "reference_id": 203100,
-"index_reference": "babel: the dispersion of nations",
+"index_reference": "babel the dispersion of nations",
 "localizations": {
 "arb": {
 "content_id": 702164,
@@ -1157,7 +1137,7 @@
 "500158": {
 "content_id": "500158",
 "reference_id": 203101,
-"index_reference": "god’s covenants",
+"index_reference": "gods covenants",
 "localizations": {
 "arb": {
 "content_id": 702165,
@@ -1194,7 +1174,7 @@
 "500159": {
 "content_id": "500159",
 "reference_id": 203102,
-"index_reference": "god’s covenant with abraham",
+"index_reference": "gods covenant with abraham",
 "localizations": {
 "arb": {
 "content_id": 702166,
@@ -1559,7 +1539,7 @@
 "500169": {
 "content_id": "500169",
 "reference_id": 203112,
-"index_reference": "the exodus as history",
+"index_reference": "exodus as history",
 "localizations": {
 "arb": {
 "content_id": 702176,
@@ -1591,7 +1571,7 @@
 "500170": {
 "content_id": "500170",
 "reference_id": 203113,
-"index_reference": "the purpose of the sinai covenant",
+"index_reference": "purpose of the sinai covenant",
 "localizations": {
 "arb": {
 "content_id": 702177,
@@ -1665,7 +1645,7 @@
 "500172": {
 "content_id": "500172",
 "reference_id": 203115,
-"index_reference": "the glory of god",
+"index_reference": "glory of god",
 "localizations": {
 "arb": {
 "content_id": 702179,
@@ -1697,7 +1677,7 @@
 "500173": {
 "content_id": "500173",
 "reference_id": 203116,
-"index_reference": "the plagues",
+"index_reference": "plagues",
 "localizations": {
 "arb": {
 "content_id": 702180,
@@ -1729,7 +1709,7 @@
 "500174": {
 "content_id": "500174",
 "reference_id": 203117,
-"index_reference": "the passover",
+"index_reference": "passover",
 "localizations": {
 "arb": {
 "content_id": 702181,
@@ -1761,7 +1741,7 @@
 "500175": {
 "content_id": "500175",
 "reference_id": 203118,
-"index_reference": "the tabernacle",
+"index_reference": "tabernacle",
 "localizations": {
 "arb": {
 "content_id": 702182,
@@ -1830,7 +1810,7 @@
 "500177": {
 "content_id": "500177",
 "reference_id": 203120,
-"index_reference": "god’s instructions",
+"index_reference": "gods instructions",
 "localizations": {
 "arb": {
 "content_id": 702184,
@@ -1867,7 +1847,7 @@
 "500178": {
 "content_id": "500178",
 "reference_id": 203121,
-"index_reference": "god’s absolute holiness",
+"index_reference": "gods absolute holiness",
 "localizations": {
 "arb": {
 "content_id": 702185,
@@ -1904,7 +1884,7 @@
 "500179": {
 "content_id": "500179",
 "reference_id": 203122,
-"index_reference": "clean, unclean, and holy",
+"index_reference": "clean unclean and holy",
 "localizations": {
 "arb": {
 "content_id": 702186,
@@ -2015,7 +1995,7 @@
 "500182": {
 "content_id": "500182",
 "reference_id": 203125,
-"index_reference": "family, community, and sexual sin",
+"index_reference": "family community and sexual sin",
 "localizations": {
 "arb": {
 "content_id": 702189,
@@ -2131,7 +2111,7 @@
 "500185": {
 "content_id": "500185",
 "reference_id": 203128,
-"index_reference": "the priestly blessing",
+"index_reference": "priestly blessing",
 "localizations": {
 "arb": {
 "content_id": 702192,
@@ -2232,7 +2212,7 @@
 "500188": {
 "content_id": "500188",
 "reference_id": 203131,
-"index_reference": "the servant-leader",
+"index_reference": "servantleader",
 "localizations": {
 "arb": {
 "content_id": 702195,
@@ -2264,7 +2244,7 @@
 "500189": {
 "content_id": "500189",
 "reference_id": 203132,
-"index_reference": "the bronze snake",
+"index_reference": "bronze snake",
 "localizations": {
 "arb": {
 "content_id": 702196,
@@ -2296,7 +2276,7 @@
 "500190": {
 "content_id": "500190",
 "reference_id": 203133,
-"index_reference": "the cloud and fire",
+"index_reference": "cloud and fire",
 "localizations": {
 "arb": {
 "content_id": 702197,
@@ -2365,7 +2345,7 @@
 "500192": {
 "content_id": "500192",
 "reference_id": 203135,
-"index_reference": "the central sanctuary",
+"index_reference": "central sanctuary",
 "localizations": {
 "arb": {
 "content_id": 702199,
@@ -2503,7 +2483,7 @@
 "500196": {
 "content_id": "500196",
 "reference_id": 203139,
-"index_reference": "god’s covenant love",
+"index_reference": "gods covenant love",
 "localizations": {
 "arb": {
 "content_id": 702203,
@@ -2577,7 +2557,7 @@
 "500198": {
 "content_id": "500198",
 "reference_id": 203141,
-"index_reference": "the cities of refuge",
+"index_reference": "cities of refuge",
 "localizations": {
 "arb": {
 "content_id": 702205,
@@ -2609,7 +2589,7 @@
 "500199": {
 "content_id": "500199",
 "reference_id": 203142,
-"index_reference": "community responsibility: achan’s sin",
+"index_reference": "community responsibility achans sin",
 "localizations": {
 "arb": {
 "content_id": 702206,
@@ -2715,7 +2695,7 @@
 "500202": {
 "content_id": "500202",
 "reference_id": 203145,
-"index_reference": "oppression of god’s people",
+"index_reference": "oppression of gods people",
 "localizations": {
 "arb": {
 "content_id": 702209,
@@ -2789,7 +2769,7 @@
 "500204": {
 "content_id": "500204",
 "reference_id": 203147,
-"index_reference": "god’s grief over apostasy",
+"index_reference": "gods grief over apostasy",
 "localizations": {
 "arb": {
 "content_id": 702211,
@@ -2858,7 +2838,7 @@
 "500206": {
 "content_id": "500206",
 "reference_id": 203149,
-"index_reference": "the family redeemer",
+"index_reference": "family redeemer",
 "localizations": {
 "arb": {
 "content_id": 702213,
@@ -2922,7 +2902,7 @@
 "500208": {
 "content_id": "500208",
 "reference_id": 203151,
-"index_reference": "the ark of the covenant",
+"index_reference": "ark of the covenant",
 "localizations": {
 "arb": {
 "content_id": 702215,
@@ -3028,7 +3008,7 @@
 "500211": {
 "content_id": "500211",
 "reference_id": 203154,
-"index_reference": "god’s change of mind",
+"index_reference": "gods change of mind",
 "localizations": {
 "arb": {
 "content_id": 702218,
@@ -3065,7 +3045,7 @@
 "500212": {
 "content_id": "500212",
 "reference_id": 203155,
-"index_reference": "the spirit’s presence",
+"index_reference": "spirits presence",
 "localizations": {
 "arb": {
 "content_id": 702219,
@@ -3171,7 +3151,7 @@
 "500215": {
 "content_id": "500215",
 "reference_id": 203158,
-"index_reference": "david's response to unfriendly leaders",
+"index_reference": "davids response to unfriendly leaders",
 "localizations": {
 "arb": {
 "content_id": 702222,
@@ -3245,7 +3225,7 @@
 "500217": {
 "content_id": "500217",
 "reference_id": 203160,
-"index_reference": "god’s covenant with david",
+"index_reference": "gods covenant with david",
 "localizations": {
 "arb": {
 "content_id": 702224,
@@ -3282,7 +3262,7 @@
 "500218": {
 "content_id": "500218",
 "reference_id": 203161,
-"index_reference": "god or satan?",
+"index_reference": "god or satan",
 "localizations": {
 "arb": {
 "content_id": 702225,
@@ -3356,7 +3336,7 @@
 "500220": {
 "content_id": "500220",
 "reference_id": 203163,
-"index_reference": "god’s covenant with israel’s kings",
+"index_reference": "gods covenant with israels kings",
 "localizations": {
 "arb": {
 "content_id": 702227,
@@ -3393,7 +3373,7 @@
 "500221": {
 "content_id": "500221",
 "reference_id": 203164,
-"index_reference": "solomon’s wisdom",
+"index_reference": "solomons wisdom",
 "localizations": {
 "arb": {
 "content_id": 702228,
@@ -3457,7 +3437,7 @@
 "500223": {
 "content_id": "500223",
 "reference_id": 203166,
-"index_reference": "the land",
+"index_reference": "land",
 "localizations": {
 "arb": {
 "content_id": 702230,
@@ -3489,7 +3469,7 @@
 "500224": {
 "content_id": "500224",
 "reference_id": 203167,
-"index_reference": "god’s faithfulness to his people",
+"index_reference": "gods faithfulness to his people",
 "localizations": {
 "arb": {
 "content_id": 702231,
@@ -3590,7 +3570,7 @@
 "500227": {
 "content_id": "500227",
 "reference_id": 203170,
-"index_reference": "the dangers of sin",
+"index_reference": "dangers of sin",
 "localizations": {
 "arb": {
 "content_id": 702234,
@@ -3622,7 +3602,7 @@
 "500228": {
 "content_id": "500228",
 "reference_id": 203171,
-"index_reference": "god’s judgment of his people",
+"index_reference": "gods judgment of his people",
 "localizations": {
 "arb": {
 "content_id": 702235,
@@ -3691,7 +3671,7 @@
 "500230": {
 "content_id": "500230",
 "reference_id": 203173,
-"index_reference": "the promise of dynasty",
+"index_reference": "promise of dynasty",
 "localizations": {
 "arb": {
 "content_id": 702237,
@@ -3755,7 +3735,7 @@
 "500232": {
 "content_id": "500232",
 "reference_id": 203175,
-"index_reference": "god’s promised kingdom",
+"index_reference": "gods promised kingdom",
 "localizations": {
 "arb": {
 "content_id": 702239,
@@ -3792,7 +3772,7 @@
 "500233": {
 "content_id": "500233",
 "reference_id": 203176,
-"index_reference": "god’s name on his temple",
+"index_reference": "gods name on his temple",
 "localizations": {
 "arb": {
 "content_id": 702240,
@@ -3829,7 +3809,7 @@
 "500234": {
 "content_id": "500234",
 "reference_id": 203177,
-"index_reference": "god’s plan to restore",
+"index_reference": "gods plan to restore",
 "localizations": {
 "arb": {
 "content_id": 702241,
@@ -3866,7 +3846,7 @@
 "500235": {
 "content_id": "500235",
 "reference_id": 203178,
-"index_reference": "god’s inscrutable purposes in history",
+"index_reference": "gods inscrutable purposes in history",
 "localizations": {
 "arb": {
 "content_id": 702242,
@@ -4041,7 +4021,7 @@
 "500240": {
 "content_id": "500240",
 "reference_id": 203183,
-"index_reference": "the spirit of the law",
+"index_reference": "spirit of the law",
 "localizations": {
 "arb": {
 "content_id": 702247,
@@ -4285,7 +4265,7 @@
 "500247": {
 "content_id": "500247",
 "reference_id": 203190,
-"index_reference": "god's word at the center",
+"index_reference": "gods word at the center",
 "localizations": {
 "arb": {
 "content_id": 702254,
@@ -4317,7 +4297,7 @@
 "500248": {
 "content_id": "500248",
 "reference_id": 203191,
-"index_reference": "nehemiah’s confidence in god",
+"index_reference": "nehemiahs confidence in god",
 "localizations": {
 "arb": {
 "content_id": 702255,
@@ -4492,7 +4472,7 @@
 "500253": {
 "content_id": "500253",
 "reference_id": 203196,
-"index_reference": "the righteous suffer",
+"index_reference": "righteous suffer",
 "localizations": {
 "arb": {
 "content_id": 702260,
@@ -4593,7 +4573,7 @@
 "500256": {
 "content_id": "500256",
 "reference_id": 203199,
-"index_reference": "job’s innocence",
+"index_reference": "jobs innocence",
 "localizations": {
 "arb": {
 "content_id": 702263,
@@ -4694,7 +4674,7 @@
 "500259": {
 "content_id": "500259",
 "reference_id": 203202,
-"index_reference": "the poor and needy in the psalms",
+"index_reference": "poor and needy in the psalms",
 "localizations": {
 "arb": {
 "content_id": 702266,
@@ -4790,7 +4770,7 @@
 "500262": {
 "content_id": "500262",
 "reference_id": 203205,
-"index_reference": "the shepherd",
+"index_reference": "shepherd",
 "localizations": {
 "arb": {
 "content_id": 702269,
@@ -4822,7 +4802,7 @@
 "500263": {
 "content_id": "500263",
 "reference_id": 203206,
-"index_reference": "god’s presence in the psalms",
+"index_reference": "gods presence in the psalms",
 "localizations": {
 "arb": {
 "content_id": 702270,
@@ -5019,7 +4999,7 @@
 "500269": {
 "content_id": "500269",
 "reference_id": 203212,
-"index_reference": "god’s anger",
+"index_reference": "gods anger",
 "localizations": {
 "arb": {
 "content_id": 702276,
@@ -5093,7 +5073,7 @@
 "500271": {
 "content_id": "500271",
 "reference_id": 203214,
-"index_reference": "the creator-king",
+"index_reference": "creatorking",
 "localizations": {
 "arb": {
 "content_id": 702278,
@@ -5226,7 +5206,7 @@
 "500275": {
 "content_id": "500275",
 "reference_id": 203218,
-"index_reference": "the heart in the psalms",
+"index_reference": "heart in the psalms",
 "localizations": {
 "arb": {
 "content_id": 702282,
@@ -5608,7 +5588,7 @@
 "500286": {
 "content_id": "500286",
 "reference_id": 203229,
-"index_reference": "all is “vapor”",
+"index_reference": "all is vapor",
 "localizations": {
 "arb": {
 "content_id": 702293,
@@ -5645,7 +5625,7 @@
 "500287": {
 "content_id": "500287",
 "reference_id": 203230,
-"index_reference": "enjoying god’s gifts",
+"index_reference": "enjoying gods gifts",
 "localizations": {
 "arb": {
 "content_id": 702294,
@@ -5852,7 +5832,7 @@
 "500293": {
 "content_id": "500293",
 "reference_id": 203236,
-"index_reference": "the remnant",
+"index_reference": "remnant",
 "localizations": {
 "arb": {
 "content_id": 702300,
@@ -5884,7 +5864,7 @@
 "500294": {
 "content_id": "500294",
 "reference_id": 203237,
-"index_reference": "the day of the lord",
+"index_reference": "day of the lord",
 "localizations": {
 "arb": {
 "content_id": 702301,
@@ -5916,7 +5896,7 @@
 "500295": {
 "content_id": "500295",
 "reference_id": 203238,
-"index_reference": "the holy one of israel",
+"index_reference": "holy one of israel",
 "localizations": {
 "arb": {
 "content_id": 702302,
@@ -5948,7 +5928,7 @@
 "500296": {
 "content_id": "500296",
 "reference_id": 203239,
-"index_reference": "god’s justice",
+"index_reference": "gods justice",
 "localizations": {
 "arb": {
 "content_id": 702303,
@@ -5985,7 +5965,7 @@
 "500297": {
 "content_id": "500297",
 "reference_id": 203240,
-"index_reference": "god’s servant",
+"index_reference": "gods servant",
 "localizations": {
 "arb": {
 "content_id": 702304,
@@ -6022,7 +6002,7 @@
 "500298": {
 "content_id": "500298",
 "reference_id": 203241,
-"index_reference": "the promise of a second exodus",
+"index_reference": "promise of a second exodus",
 "localizations": {
 "arb": {
 "content_id": 702305,
@@ -6086,7 +6066,7 @@
 "500300": {
 "content_id": "500300",
 "reference_id": 203243,
-"index_reference": "the new order",
+"index_reference": "new order",
 "localizations": {
 "arb": {
 "content_id": 702307,
@@ -6118,7 +6098,7 @@
 "500301": {
 "content_id": "500301",
 "reference_id": 203244,
-"index_reference": "the broken covenant",
+"index_reference": "broken covenant",
 "localizations": {
 "arb": {
 "content_id": 702308,
@@ -6224,7 +6204,7 @@
 "500304": {
 "content_id": "500304",
 "reference_id": 203247,
-"index_reference": "god’s uniqueness",
+"index_reference": "gods uniqueness",
 "localizations": {
 "arb": {
 "content_id": 702311,
@@ -6298,7 +6278,7 @@
 "500306": {
 "content_id": "500306",
 "reference_id": 203249,
-"index_reference": "the lord of nations",
+"index_reference": "lord of nations",
 "localizations": {
 "arb": {
 "content_id": 702313,
@@ -6330,7 +6310,7 @@
 "500307": {
 "content_id": "500307",
 "reference_id": 203250,
-"index_reference": "the choice of life or death",
+"index_reference": "choice of life or death",
 "localizations": {
 "arb": {
 "content_id": 702314,
@@ -6362,7 +6342,7 @@
 "500308": {
 "content_id": "500308",
 "reference_id": 203251,
-"index_reference": "the collapse of culture",
+"index_reference": "collapse of culture",
 "localizations": {
 "arb": {
 "content_id": 702315,
@@ -6431,7 +6411,7 @@
 "500310": {
 "content_id": "500310",
 "reference_id": 203253,
-"index_reference": "the new covenant",
+"index_reference": "new covenant",
 "localizations": {
 "arb": {
 "content_id": 702317,
@@ -6463,7 +6443,7 @@
 "500311": {
 "content_id": "500311",
 "reference_id": 203254,
-"index_reference": "the written word",
+"index_reference": "written word",
 "localizations": {
 "arb": {
 "content_id": 702318,
@@ -6495,7 +6475,7 @@
 "500312": {
 "content_id": "500312",
 "reference_id": 203255,
-"index_reference": "god’s glory with his people",
+"index_reference": "gods glory with his people",
 "localizations": {
 "arb": {
 "content_id": 702319,
@@ -6675,7 +6655,7 @@
 "500317": {
 "content_id": "500317",
 "reference_id": 203260,
-"index_reference": "the promise of new life",
+"index_reference": "promise of new life",
 "localizations": {
 "arb": {
 "content_id": 702324,
@@ -6749,7 +6729,7 @@
 "500319": {
 "content_id": "500319",
 "reference_id": 203262,
-"index_reference": "temple design as a picture of god's truth",
+"index_reference": "temple design as a picture of gods truth",
 "localizations": {
 "arb": {
 "content_id": 702326,
@@ -6813,7 +6793,7 @@
 "500321": {
 "content_id": "500321",
 "reference_id": 203264,
-"index_reference": "israel’s geography as theology",
+"index_reference": "israels geography as theology",
 "localizations": {
 "arb": {
 "content_id": 702328,
@@ -6887,7 +6867,7 @@
 "500323": {
 "content_id": "500323",
 "reference_id": 203266,
-"index_reference": "the little horn",
+"index_reference": "little horn",
 "localizations": {
 "arb": {
 "content_id": 702330,
@@ -6919,7 +6899,7 @@
 "500324": {
 "content_id": "500324",
 "reference_id": 203267,
-"index_reference": "the seventy sets of seven",
+"index_reference": "seventy sets of seven",
 "localizations": {
 "arb": {
 "content_id": 702331,
@@ -7084,7 +7064,7 @@
 "500329": {
 "content_id": "500329",
 "reference_id": 203272,
-"index_reference": "god's rule and power over all nations",
+"index_reference": "gods rule and power over all nations",
 "localizations": {
 "arb": {
 "content_id": 702336,
@@ -7153,7 +7133,7 @@
 "500331": {
 "content_id": "500331",
 "reference_id": 203274,
-"index_reference": "human confusion and god’s purpose",
+"index_reference": "human confusion and gods purpose",
 "localizations": {
 "arb": {
 "content_id": 702338,
@@ -7254,7 +7234,7 @@
 "500334": {
 "content_id": "500334",
 "reference_id": 203277,
-"index_reference": "the return of god’s presence with his people",
+"index_reference": "return of gods presence with his people",
 "localizations": {
 "arb": {
 "content_id": 702341,
@@ -7286,7 +7266,7 @@
 "500335": {
 "content_id": "500335",
 "reference_id": 203278,
-"index_reference": "god’s commitment to his people",
+"index_reference": "gods commitment to his people",
 "localizations": {
 "arb": {
 "content_id": 702342,
@@ -7323,7 +7303,7 @@
 "500336": {
 "content_id": "500336",
 "reference_id": 203279,
-"index_reference": "god’s love for israel",
+"index_reference": "gods love for israel",
 "localizations": {
 "arb": {
 "content_id": 702343,
@@ -7429,7 +7409,7 @@
 "500339": {
 "content_id": "500339",
 "reference_id": 203282,
-"index_reference": "the blessings of jesus",
+"index_reference": "blessings of jesus",
 "localizations": {
 "arb": {
 "content_id": 702346,
@@ -7535,7 +7515,7 @@
 "500342": {
 "content_id": "500342",
 "reference_id": 203285,
-"index_reference": "the son of man",
+"index_reference": "son of man",
 "localizations": {
 "arb": {
 "content_id": 702349,
@@ -7693,7 +7673,7 @@
 "500346": {
 "content_id": "500346",
 "reference_id": 203289,
-"index_reference": "the messiah",
+"index_reference": "messiah",
 "localizations": {
 "arb": {
 "content_id": 702353,
@@ -7725,7 +7705,7 @@
 "500347": {
 "content_id": "500347",
 "reference_id": 203290,
-"index_reference": "the stone the builders rejected",
+"index_reference": "stone the builders rejected",
 "localizations": {
 "arb": {
 "content_id": 702354,
@@ -7799,7 +7779,7 @@
 "500349": {
 "content_id": "500349",
 "reference_id": 203292,
-"index_reference": "the resurrection of jesus",
+"index_reference": "resurrection of jesus",
 "localizations": {
 "arb": {
 "content_id": 702356,
@@ -7831,7 +7811,7 @@
 "500350": {
 "content_id": "500350",
 "reference_id": 203293,
-"index_reference": "the coming of god’s kingdom",
+"index_reference": "coming of gods kingdom",
 "localizations": {
 "arb": {
 "content_id": 702357,
@@ -7863,7 +7843,7 @@
 "500351": {
 "content_id": "500351",
 "reference_id": 203294,
-"index_reference": "the secret of the messiah",
+"index_reference": "secret of the messiah",
 "localizations": {
 "arb": {
 "content_id": 702358,
@@ -7895,7 +7875,7 @@
 "500352": {
 "content_id": "500352",
 "reference_id": 203295,
-"index_reference": "the son of god",
+"index_reference": "son of god",
 "localizations": {
 "arb": {
 "content_id": 702359,
@@ -8001,7 +7981,7 @@
 "500355": {
 "content_id": "500355",
 "reference_id": 203298,
-"index_reference": "the day is coming",
+"index_reference": "day is coming",
 "localizations": {
 "arb": {
 "content_id": 702362,
@@ -8033,7 +8013,7 @@
 "500356": {
 "content_id": "500356",
 "reference_id": 203299,
-"index_reference": "jesus’ final night",
+"index_reference": "jesus final night",
 "localizations": {
 "arb": {
 "content_id": 702363,
@@ -8070,7 +8050,7 @@
 "500357": {
 "content_id": "500357",
 "reference_id": 203300,
-"index_reference": "praise and rejoicing in luke–acts",
+"index_reference": "praise and rejoicing in lukeacts",
 "localizations": {
 "arb": {
 "content_id": 702364,
@@ -8102,7 +8082,7 @@
 "500358": {
 "content_id": "500358",
 "reference_id": 203301,
-"index_reference": "the birth of christ",
+"index_reference": "birth of christ",
 "localizations": {
 "arb": {
 "content_id": 702365,
@@ -8171,7 +8151,7 @@
 "500360": {
 "content_id": "500360",
 "reference_id": 203303,
-"index_reference": "the suffering prophet",
+"index_reference": "suffering prophet",
 "localizations": {
 "arb": {
 "content_id": 702367,
@@ -8203,7 +8183,7 @@
 "500361": {
 "content_id": "500361",
 "reference_id": 203304,
-"index_reference": "jesus’ prayers",
+"index_reference": "jesus prayers",
 "localizations": {
 "arb": {
 "content_id": 702368,
@@ -8240,7 +8220,7 @@
 "500362": {
 "content_id": "500362",
 "reference_id": 203305,
-"index_reference": "the messianic banquet",
+"index_reference": "messianic banquet",
 "localizations": {
 "arb": {
 "content_id": 702369,
@@ -8304,7 +8284,7 @@
 "500364": {
 "content_id": "500364",
 "reference_id": 203307,
-"index_reference": "the climax of scripture",
+"index_reference": "climax of scripture",
 "localizations": {
 "arb": {
 "content_id": 702371,
@@ -8336,7 +8316,7 @@
 "500365": {
 "content_id": "500365",
 "reference_id": 203308,
-"index_reference": "the coming of the spirit of god",
+"index_reference": "coming of the spirit of god",
 "localizations": {
 "arb": {
 "content_id": 702372,
@@ -8368,7 +8348,7 @@
 "500366": {
 "content_id": "500366",
 "reference_id": 203309,
-"index_reference": "the word",
+"index_reference": "word",
 "localizations": {
 "arb": {
 "content_id": 702373,
@@ -8432,7 +8412,7 @@
 "500368": {
 "content_id": "500368",
 "reference_id": 203311,
-"index_reference": "“belief” in the gospel of john",
+"index_reference": "belief in the gospel of john",
 "localizations": {
 "arb": {
 "content_id": 702375,
@@ -8538,7 +8518,7 @@
 "500371": {
 "content_id": "500371",
 "reference_id": 203314,
-"index_reference": "john’s profile of discipleship",
+"index_reference": "johns profile of discipleship",
 "localizations": {
 "arb": {
 "content_id": 702378,
@@ -8607,7 +8587,7 @@
 "500373": {
 "content_id": "500373",
 "reference_id": 203316,
-"index_reference": "“i am” sayings of jesus",
+"index_reference": "i am sayings of jesus",
 "localizations": {
 "arb": {
 "content_id": 702380,
@@ -8676,7 +8656,7 @@
 "500375": {
 "content_id": "500375",
 "reference_id": 203318,
-"index_reference": "the world",
+"index_reference": "world",
 "localizations": {
 "arb": {
 "content_id": 702382,
@@ -8708,7 +8688,7 @@
 "500376": {
 "content_id": "500376",
 "reference_id": 203319,
-"index_reference": "the cross and passover",
+"index_reference": "cross and passover",
 "localizations": {
 "arb": {
 "content_id": 702383,
@@ -8777,7 +8757,7 @@
 "500378": {
 "content_id": "500378",
 "reference_id": 203321,
-"index_reference": "the ascension of jesus",
+"index_reference": "ascension of jesus",
 "localizations": {
 "arb": {
 "content_id": 702385,
@@ -8814,7 +8794,7 @@
 "500379": {
 "content_id": "500379",
 "reference_id": 203322,
-"index_reference": "the holy spirit’s presence",
+"index_reference": "holy spirits presence",
 "localizations": {
 "arb": {
 "content_id": 702386,
@@ -8883,7 +8863,7 @@
 "500381": {
 "content_id": "500381",
 "reference_id": 203324,
-"index_reference": "the growth of the church",
+"index_reference": "growth of the church",
 "localizations": {
 "arb": {
 "content_id": 702388,
@@ -9053,7 +9033,7 @@
 "500386": {
 "content_id": "500386",
 "reference_id": 203329,
-"index_reference": "the good news message",
+"index_reference": "good news message",
 "localizations": {
 "arb": {
 "content_id": 702393,
@@ -9122,7 +9102,7 @@
 "500388": {
 "content_id": "500388",
 "reference_id": 203331,
-"index_reference": "the unknown god",
+"index_reference": "unknown god",
 "localizations": {
 "arb": {
 "content_id": 702395,
@@ -9154,7 +9134,7 @@
 "500389": {
 "content_id": "500389",
 "reference_id": 203332,
-"index_reference": "the grace of god",
+"index_reference": "grace of god",
 "localizations": {
 "arb": {
 "content_id": 702396,
@@ -9186,7 +9166,7 @@
 "500390": {
 "content_id": "500390",
 "reference_id": 203333,
-"index_reference": "the gift of prophecy",
+"index_reference": "gift of prophecy",
 "localizations": {
 "arb": {
 "content_id": 702397,
@@ -9287,7 +9267,7 @@
 "500393": {
 "content_id": "500393",
 "reference_id": 203336,
-"index_reference": "god’s unified plan of salvation",
+"index_reference": "gods unified plan of salvation",
 "localizations": {
 "arb": {
 "content_id": 702400,
@@ -9324,7 +9304,7 @@
 "500394": {
 "content_id": "500394",
 "reference_id": 203337,
-"index_reference": "the old realm and the new",
+"index_reference": "old realm and the new",
 "localizations": {
 "arb": {
 "content_id": 702401,
@@ -9356,7 +9336,7 @@
 "500395": {
 "content_id": "500395",
 "reference_id": 203338,
-"index_reference": "the limitations of law",
+"index_reference": "limitations of law",
 "localizations": {
 "arb": {
 "content_id": 702402,
@@ -9388,7 +9368,7 @@
 "500396": {
 "content_id": "500396",
 "reference_id": 203339,
-"index_reference": "the sovereignty of god",
+"index_reference": "sovereignty of god",
 "localizations": {
 "arb": {
 "content_id": 702403,
@@ -9420,7 +9400,7 @@
 "500397": {
 "content_id": "500397",
 "reference_id": 203340,
-"index_reference": "jews and gentiles (non-jews)",
+"index_reference": "jews and gentiles nonjews",
 "localizations": {
 "arb": {
 "content_id": 702404,
@@ -9600,7 +9580,7 @@
 "500402": {
 "content_id": "500402",
 "reference_id": 203345,
-"index_reference": "the holy spirit’s work",
+"index_reference": "holy spirits work",
 "localizations": {
 "arb": {
 "content_id": 702409,
@@ -9632,7 +9612,7 @@
 "500403": {
 "content_id": "500403",
 "reference_id": 203346,
-"index_reference": "the church as a living, active body",
+"index_reference": "church as a living active body",
 "localizations": {
 "arb": {
 "content_id": 702410,
@@ -9701,7 +9681,7 @@
 "500405": {
 "content_id": "500405",
 "reference_id": 203348,
-"index_reference": "the resurrection of the dead",
+"index_reference": "resurrection of the dead",
 "localizations": {
 "arb": {
 "content_id": 702412,
@@ -9733,7 +9713,7 @@
 "500406": {
 "content_id": "500406",
 "reference_id": 203349,
-"index_reference": "god’s new covenant",
+"index_reference": "gods new covenant",
 "localizations": {
 "arb": {
 "content_id": 702413,
@@ -9770,7 +9750,7 @@
 "500407": {
 "content_id": "500407",
 "reference_id": 203350,
-"index_reference": "the message of reconciliation",
+"index_reference": "message of reconciliation",
 "localizations": {
 "arb": {
 "content_id": 702414,
@@ -9802,7 +9782,7 @@
 "500408": {
 "content_id": "500408",
 "reference_id": 203351,
-"index_reference": "the church as god’s temple",
+"index_reference": "church as gods temple",
 "localizations": {
 "arb": {
 "content_id": 702415,
@@ -9871,7 +9851,7 @@
 "500410": {
 "content_id": "500410",
 "reference_id": 203353,
-"index_reference": "paul’s role as an apostle",
+"index_reference": "pauls role as an apostle",
 "localizations": {
 "arb": {
 "content_id": 702417,
@@ -9935,7 +9915,7 @@
 "500412": {
 "content_id": "500412",
 "reference_id": 203355,
-"index_reference": "the law and the spirit",
+"index_reference": "law and the spirit",
 "localizations": {
 "arb": {
 "content_id": 702419,
@@ -9967,7 +9947,7 @@
 "500413": {
 "content_id": "500413",
 "reference_id": 203356,
-"index_reference": "the church",
+"index_reference": "church",
 "localizations": {
 "arb": {
 "content_id": 702420,
@@ -9999,7 +9979,7 @@
 "500414": {
 "content_id": "500414",
 "reference_id": 203357,
-"index_reference": "the old life and the new life",
+"index_reference": "old life and the new life",
 "localizations": {
 "arb": {
 "content_id": 702421,
@@ -10100,7 +10080,7 @@
 "500417": {
 "content_id": "500417",
 "reference_id": 203360,
-"index_reference": "the christ hymn: christ’s divine nature",
+"index_reference": "christ hymn christs divine nature",
 "localizations": {
 "arb": {
 "content_id": 702424,
@@ -10169,7 +10149,7 @@
 "500419": {
 "content_id": "500419",
 "reference_id": 203362,
-"index_reference": "the mystery of the good news",
+"index_reference": "mystery of the good news",
 "localizations": {
 "arb": {
 "content_id": 702426,
@@ -10238,7 +10218,7 @@
 "500421": {
 "content_id": "500421",
 "reference_id": 203364,
-"index_reference": "the last things and the thessalonians",
+"index_reference": "last things and the thessalonians",
 "localizations": {
 "arb": {
 "content_id": 702428,
@@ -10270,7 +10250,7 @@
 "500422": {
 "content_id": "500422",
 "reference_id": 203365,
-"index_reference": "“he will come”",
+"index_reference": "he will come",
 "localizations": {
 "arb": {
 "content_id": 702429,
@@ -10339,7 +10319,7 @@
 "500424": {
 "content_id": "500424",
 "reference_id": 203367,
-"index_reference": "women’s roles in the new testament church",
+"index_reference": "womens roles in the new testament church",
 "localizations": {
 "arb": {
 "content_id": 702431,
@@ -10371,7 +10351,7 @@
 "500425": {
 "content_id": "500425",
 "reference_id": 203368,
-"index_reference": "the household",
+"index_reference": "household",
 "localizations": {
 "arb": {
 "content_id": 702432,
@@ -10504,7 +10484,7 @@
 "500429": {
 "content_id": "500429",
 "reference_id": 203372,
-"index_reference": "the superiority of the son",
+"index_reference": "superiority of the son",
 "localizations": {
 "arb": {
 "content_id": 702436,
@@ -10573,7 +10553,7 @@
 "500431": {
 "content_id": "500431",
 "reference_id": 203374,
-"index_reference": "god’s sabbath rest",
+"index_reference": "gods sabbath rest",
 "localizations": {
 "arb": {
 "content_id": 702438,
@@ -10610,7 +10590,7 @@
 "500432": {
 "content_id": "500432",
 "reference_id": 203375,
-"index_reference": "god’s word",
+"index_reference": "gods word",
 "localizations": {
 "arb": {
 "content_id": 702439,
@@ -10790,7 +10770,7 @@
 "500437": {
 "content_id": "500437",
 "reference_id": 203380,
-"index_reference": "the coming of the lord as judge",
+"index_reference": "coming of the lord as judge",
 "localizations": {
 "arb": {
 "content_id": 702444,
@@ -10822,7 +10802,7 @@
 "500438": {
 "content_id": "500438",
 "reference_id": 203381,
-"index_reference": "the holiness of god’s people",
+"index_reference": "holiness of gods people",
 "localizations": {
 "arb": {
 "content_id": 702445,
@@ -10854,7 +10834,7 @@
 "500439": {
 "content_id": "500439",
 "reference_id": 203382,
-"index_reference": "the new community",
+"index_reference": "new community",
 "localizations": {
 "arb": {
 "content_id": 702446,
@@ -11029,7 +11009,7 @@
 "500444": {
 "content_id": "500444",
 "reference_id": 203387,
-"index_reference": "the theater and revelation",
+"index_reference": "theater and revelation",
 "localizations": {
 "arb": {
 "content_id": 702451,
@@ -11093,7 +11073,7 @@
 "500446": {
 "content_id": "500446",
 "reference_id": 203389,
-"index_reference": "the purpose of the judgments",
+"index_reference": "purpose of the judgments",
 "localizations": {
 "arb": {
 "content_id": 702453,
@@ -11125,7 +11105,7 @@
 "500447": {
 "content_id": "500447",
 "reference_id": 203390,
-"index_reference": "the antichrist",
+"index_reference": "antichrist",
 "localizations": {
 "arb": {
 "content_id": 702454,
@@ -11157,7 +11137,7 @@
 "500448": {
 "content_id": "500448",
 "reference_id": 203391,
-"index_reference": "the worship of angels",
+"index_reference": "worship of angels",
 "localizations": {
 "arb": {
 "content_id": 702455,
@@ -11189,7 +11169,7 @@
 "500449": {
 "content_id": "500449",
 "reference_id": 203392,
-"index_reference": "the thousand years (the millennium)",
+"index_reference": "thousand years the millennium",
 "localizations": {
 "arb": {
 "content_id": 702456,

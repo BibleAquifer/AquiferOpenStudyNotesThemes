@@ -1,387 +1,5 @@
 [
 {
-"content_id": "702375",
-"reference_id": 203311,
-"version": "1.0.2",
-"title": "\"الإيمان\" في إنجيل يوحنا",
-"media_type": "Text",
-"index_reference": "\"الإيمان\" في إنجيل يوحنا",
-"language": "arb",
-"review_level": "None",
-"content": "<p>موضوع &quot;الإيمان&quot; موضوع محوري في إنجيل يوحنا. لا يستخدم يوحنا الاسم <em>الإيمان</em> الذي يظهر كثيرًا في العهد الجديد (على سبيل المثال، انظر <a href=\"https://ref.ly/Matt8:8-Matt8:10\">متى 8:8–10</a>; <a href=\"https://ref.ly/Mark11:22\">مرقس 11:22</a>; <a href=\"https://ref.ly/Acts20:21\">أعمال الرسل 20:21</a>; <a href=\"https://ref.ly/Rom1:17\">رومية 1:17</a>; <a href=\"https://ref.ly/Rom3:27-Rom3:31\">3:27–31</a>; <a href=\"https://ref.ly/Rom4:3-Rom4:5\">4:3–5</a>; <a href=\"https://ref.ly/Heb11:1-Heb11:39\">عبرانيين 11:1–39</a>; <a href=\"https://ref.ly/Jas2:14-Jas2:24\">يعقوب 2:14–24</a>; <a href=\"https://ref.ly/1Pet1:5-1Pet1:7\">1 بطرس 1:5–7</a>). بل يُفضل يوحنا استخدام الصيغة الفعلي <em>يؤمن</em> (&quot;يثق&quot; أو &quot;يكون مخلصًا&quot;) ليُظهر أن الإيمان ليس مجرد اعتقاد ثابت، بل هو &quot;حي&quot; ويتطلب العمل بموجبه. في إنجيل يوحنا، &quot;الإيمان&quot; بالرب يسوع هو العلامة المميزة لجميع التلاميذ الحقيقيين.</p><p>الفعل المترجم &quot;يؤمن&quot; في إنجيل يوحنا، يتبعه غالبًا حرف الجر اليوناني <em>eis</em>، الذي يعني &quot;إلى داخل&quot;. هذا التركيب فريد في الاستخدام اليوناني القديم. بالنسبة ليوحنا، الإيمان أو المعتقد ليس مجرد حالة، بل هو استثمار في الرب يسوع. الإيمان يعني قبول ماهية الرب يسوع وما يقوله عن نفسه.</p><p>يتضمن الإيمان أيضًا التزامًا بقبول التغيير الذي تقوم به دعوة الله للثقة به  على كيفية عيش الشخص حياته. الإيمان هو العمل الذي يطلبه الله منا (<a href=\"https://ref.ly/John6:29\">يوحنا 6:29</a>). ونحن نظهر الإيمان من خلال اتباع تعاليم الرب يسوع، ومحبته، وطاعة وصاياه (<a href=\"https://ref.ly/John8:31\">يوحنا 8:31</a>; <a href=\"https://ref.ly/John15:1-John15:17\">15:1–17</a>; انظر <a href=\"https://ref.ly/1John5:10\">1 يوحنا 5:10</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Gen15:6\">تكوين 15:6</a>; <a href=\"https://ref.ly/Isa28:16\">إشعياء 28:16</a>; <a href=\"https://ref.ly/Mark1:15\">مرقس 1:15</a>; <a href=\"https://ref.ly/Mark9:23-Mark9:24\">مرقس 9:23–24</a>; <a href=\"https://ref.ly/John1:12-John1:13\">يوحنا 1:12–13</a>; <a href=\"https://ref.ly/John3:10-John3:18\">يوحنا 3:10–18</a>; <a href=\"https://ref.ly/John5:24\">يوحنا 5:24</a>; <a href=\"https://ref.ly/John6:35-John6:36\">يوحنا 6:35–36</a>; <a href=\"https://ref.ly/John7:38\">يوحنا 7:38</a>; <a href=\"https://ref.ly/John9:35-John9:38\">يوحنا 9:35–38</a>; <a href=\"https://ref.ly/John11:25-John11:27\">يوحنا 11:25–27</a>; <a href=\"https://ref.ly/John12:37\">يوحنا 12:37</a>; <a href=\"https://ref.ly/John20:25-John20:31\">يوحنا 20:25–31</a>; <a href=\"https://ref.ly/Acts10:43\">أعمال الرسل 10:43</a>; <a href=\"https://ref.ly/Acts13:39\">أعمال الرسل 13:39</a>; <a href=\"https://ref.ly/Rom1:16\">رومية 1:16</a>; <a href=\"https://ref.ly/Rom10:9-Rom10:10\">رومية 10:9–10</a>; <a href=\"https://ref.ly/Heb4:3\">عبرانيين 4:3</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01015006",
-"start_ref_usfm": "GEN 15:6",
-"end_ref": "01015006",
-"end_ref_usfm": "GEN 15:6"
-},
-{
-"start_ref": "23028016",
-"start_ref_usfm": "ISA 28:16",
-"end_ref": "23028016",
-"end_ref_usfm": "ISA 28:16"
-},
-{
-"start_ref": "41001015",
-"start_ref_usfm": "MRK 1:15",
-"end_ref": "41001015",
-"end_ref_usfm": "MRK 1:15"
-},
-{
-"start_ref": "41011022",
-"start_ref_usfm": "MRK 11:22",
-"end_ref": "41011022",
-"end_ref_usfm": "MRK 11:22"
-},
-{
-"start_ref": "43005024",
-"start_ref_usfm": "JHN 5:24",
-"end_ref": "43005024",
-"end_ref_usfm": "JHN 5:24"
-},
-{
-"start_ref": "43006029",
-"start_ref_usfm": "JHN 6:29",
-"end_ref": "43006029",
-"end_ref_usfm": "JHN 6:29"
-},
-{
-"start_ref": "43007038",
-"start_ref_usfm": "JHN 7:38",
-"end_ref": "43007038",
-"end_ref_usfm": "JHN 7:38"
-},
-{
-"start_ref": "43008031",
-"start_ref_usfm": "JHN 8:31",
-"end_ref": "43008031",
-"end_ref_usfm": "JHN 8:31"
-},
-{
-"start_ref": "43012037",
-"start_ref_usfm": "JHN 12:37",
-"end_ref": "43012037",
-"end_ref_usfm": "JHN 12:37"
-},
-{
-"start_ref": "44010043",
-"start_ref_usfm": "ACT 10:43",
-"end_ref": "44010043",
-"end_ref_usfm": "ACT 10:43"
-},
-{
-"start_ref": "44013039",
-"start_ref_usfm": "ACT 13:39",
-"end_ref": "44013039",
-"end_ref_usfm": "ACT 13:39"
-},
-{
-"start_ref": "44020021",
-"start_ref_usfm": "ACT 20:21",
-"end_ref": "44020021",
-"end_ref_usfm": "ACT 20:21"
-},
-{
-"start_ref": "45001016",
-"start_ref_usfm": "ROM 1:16",
-"end_ref": "45001016",
-"end_ref_usfm": "ROM 1:16"
-},
-{
-"start_ref": "45001017",
-"start_ref_usfm": "ROM 1:17",
-"end_ref": "45001017",
-"end_ref_usfm": "ROM 1:17"
-},
-{
-"start_ref": "58004003",
-"start_ref_usfm": "HEB 4:3",
-"end_ref": "58004003",
-"end_ref_usfm": "HEB 4:3"
-},
-{
-"start_ref": "62005010",
-"start_ref_usfm": "1JN 5:10",
-"end_ref": "62005010",
-"end_ref_usfm": "1JN 5:10"
-},
-{
-"start_ref": "45010009",
-"start_ref_usfm": "ROM 10:9",
-"end_ref": "45010010",
-"end_ref_usfm": "ROM 10:10"
-},
-{
-"start_ref": "43015001",
-"start_ref_usfm": "JHN 15:1",
-"end_ref": "43015017",
-"end_ref_usfm": "JHN 15:17"
-},
-{
-"start_ref": "43009035",
-"start_ref_usfm": "JHN 9:35",
-"end_ref": "43009038",
-"end_ref_usfm": "JHN 9:38"
-},
-{
-"start_ref": "43001012",
-"start_ref_usfm": "JHN 1:12",
-"end_ref": "43001013",
-"end_ref_usfm": "JHN 1:13"
-},
-{
-"start_ref": "40008008",
-"start_ref_usfm": "MAT 8:8",
-"end_ref": "40008010",
-"end_ref_usfm": "MAT 8:10"
-},
-{
-"start_ref": "41009023",
-"start_ref_usfm": "MRK 9:23",
-"end_ref": "41009024",
-"end_ref_usfm": "MRK 9:24"
-},
-{
-"start_ref": "45003027",
-"start_ref_usfm": "ROM 3:27",
-"end_ref": "45003031",
-"end_ref_usfm": "ROM 3:31"
-},
-{
-"start_ref": "45004003",
-"start_ref_usfm": "ROM 4:3",
-"end_ref": "45004005",
-"end_ref_usfm": "ROM 4:5"
-},
-{
-"start_ref": "58011001",
-"start_ref_usfm": "HEB 11:1",
-"end_ref": "58011039",
-"end_ref_usfm": "HEB 11:39"
-},
-{
-"start_ref": "59002014",
-"start_ref_usfm": "JAS 2:14",
-"end_ref": "59002024",
-"end_ref_usfm": "JAS 2:24"
-},
-{
-"start_ref": "60001005",
-"start_ref_usfm": "1PE 1:5",
-"end_ref": "60001007",
-"end_ref_usfm": "1PE 1:7"
-},
-{
-"start_ref": "43003010",
-"start_ref_usfm": "JHN 3:10",
-"end_ref": "43003018",
-"end_ref_usfm": "JHN 3:18"
-},
-{
-"start_ref": "43006035",
-"start_ref_usfm": "JHN 6:35",
-"end_ref": "43006036",
-"end_ref_usfm": "JHN 6:36"
-},
-{
-"start_ref": "43011025",
-"start_ref_usfm": "JHN 11:25",
-"end_ref": "43011027",
-"end_ref_usfm": "JHN 11:27"
-},
-{
-"start_ref": "43020025",
-"start_ref_usfm": "JHN 20:25",
-"end_ref": "43020031",
-"end_ref_usfm": "JHN 20:31"
-}
-],
-"resource": [],
-"acai": []
-}
-},
-{
-"content_id": "702380",
-"reference_id": 203316,
-"version": "1.0.2",
-"title": "\"أنا هو\" أقوال يسوع",
-"media_type": "Text",
-"index_reference": "\"أنا هو\" أقوال يسوع",
-"language": "arb",
-"review_level": "None",
-"content": "<p>في إنجيل يوحنا، يستخدم يسوع غالبًا عبارة &quot;أنا هو&quot; (باللغة اليونانية، العبارة هي <em>egō eimi</em>). وأحيانًا، يستخدمها يسوع لوصف نفسه. مثل قوله: &quot;<span>أَنَا هُوَ خُبْزُ ٱلْحَيَاةِ</span>.&quot; ويحتوي إنجيل يوحنا على سبعة تصريحات يبدأ فيها يسوع بـ &quot;أنا هو&quot; متبوعة بتوصيف له (<a href=\"https://ref.ly/John6:35\">يوحنا 6:35</a>; <a href=\"https://ref.ly/John8:12\">8:12</a>; <a href=\"https://ref.ly/John10:9\">10:9</a>, <a href=\"https://ref.ly/John10:11\">11</a>; <a href=\"https://ref.ly/John11:25\">11:25</a>; <a href=\"https://ref.ly/John14:6\">14:6</a>; <a href=\"https://ref.ly/John15:1\">15:1</a>).</p><p>ومن المهم ملاحظة أن اللغة اليونانية لا تتطلب استخدام الضمير &quot;أنا&quot; (<em>egō</em>) في هذه الجمل. لذلك، فإن استخدام الضمير يُشدد على هوية المتحدث. وهناك مثال آخر نجده في العظة على الجبل في إنجيل متّى، حيث يقول يسوع: &quot;قَدْ سَمِعْتُمْ أَنَّهُ قِيلَ ... <span>وَأَمَّا <em>أَنَا </em></span>[<em>egō</em>] فَأَقُولُ لَكُمْ&quot; (انظر <a href=\"https://ref.ly/Matt5:22\">متّى 5:22</a>، <a href=\"https://ref.ly/Matt5:28\">28</a>، <a href=\"https://ref.ly/Matt5:32\">32</a>، <a href=\"https://ref.ly/Matt5:34\">34</a>، <a href=\"https://ref.ly/Matt5:39\">39</a>، <a href=\"https://ref.ly/Matt5:44\">44</a>، ومقاطع أخرى). إن استخدام الضمير الشخصي يُبرز الفرق بين تعاليم يسوع وتعاليم موسى. كما يؤكد على سلطان يسوع الفريد.</p><p>أحيانًا، استخدم يسوع عبارة &quot;<span>أَنَا هُوَ</span>&quot; بطريقة غير مألوفة نحويًا، دون أن يتبعها أي توصيف. كما قال: &quot;<span>قَبْلَ أَنْ يَكُونَ إِبْرَاهِيمُ أَنَا كَائِنٌ</span>&quot; (<a href=\"https://ref.ly/John8:58\">يوحنّا 8:58</a>). من هو يسوع الذي سبق إبراهيم وجودًا؟ (قارن <a href=\"https://ref.ly/John8:28\">8:28</a>، <a href=\"https://ref.ly/John8:59\">59</a>؛ <a href=\"https://ref.ly/John13:19\">13:19</a>).</p><p>وأفضل تفسير لهذا التعبير الغريب يعود إلى العهد القديم، فعندما التقى موسى بالرب على جبل سيناء، سأله عن اسم الله (<a href=\"https://ref.ly/Exod3:6\">الخروج 3:6</a>, <a href=\"https://ref.ly/Exod3:13-Exod3:14\">13–14</a>). وأجابه الله بأن اسمه هو &quot;يهوه&quot; &quot;YHWH&quot;، وهي أربعة أحرف عبرية يمكن أن تُعبّر عن الوجود. عندما ترجم اليهود العهد القديم إلى اليونانية، جاء اسم الله في خروج 3:14 &quot;أَهْيَهِ الَّذِي أَهْيَهْ&quot; بصيغة egō eimi ho ōn (&quot;أنا هو الكائن&quot;). وفي مواضع أخرى، خاصة في سفر إشعياء (<a href=\"https://ref.ly/Isa43:25\">43:25</a>؛ <a href=\"https://ref.ly/Isa51:12\">51:12</a>؛ <a href=\"https://ref.ly/Isa52:6\">52:6</a>)، استخدم العهد القديم اليوناني عبارة egō eimi (&quot;أنا هو&quot;) كطريقة خاصة يتحدث بها الله عن نفسه. وفي كثير من الآيات الأخرى، استُخدمت كلمة kurios&nbsp;(&quot;الرب&quot;) لترجمة اسم الله. بعض اليهود فهموا قول يسوع «أنا هو» كادعاء لاسم الله، كما في يوحنا 8:58، حيث حاولوا رجمه. لكن في مواضع أخرى، مثل يوحنا 8:24، لم يتفاعلوا بهذا الشكل، بل اكتفوا بسؤاله: &quot;مَنْ أَنْتَ؟&quot;.</p><p>إن يسوع لا يُمثّل فقط الله. بل تُظهر تصريحات &quot;أَنَا هُوَ&quot; عن طبيعته الإلهية، إذ تدل على أنه يستطيع أن يعمل ويتكلم ويتصرف باسم الآب. فهو ليس مجرد إنسان، بل هو كلمة الله الذي صار إنسانًا (<a href=\"https://ref.ly/John1:1\">يوحنا 1:1</a>). وصوته هو صوت الآب، وحياته تٌظهر حياة الله في جسد بشري. وتعبير &quot;أَنَا هُوَ&quot; يعبّر بقوة عن هويّة يسوع الحقيقية.</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/John6:35\">يوحنا 6:35</a>، <a href=\"https://ref.ly/John6:48\">48</a>؛ <a href=\"https://ref.ly/John8:12\">8:12</a>، <a href=\"https://ref.ly/John8:58\">58</a>؛ <a href=\"https://ref.ly/John9:5\">9:5؛ </a><a href=\"https://ref.ly/John10:7-John10:14\">10:7–14</a>؛ <a href=\"https://ref.ly/John11:25\">11:25</a>؛ <a href=\"https://ref.ly/John14:6\">14:6</a>؛ <a href=\"https://ref.ly/John15:1\">15:1</a>، <a href=\"https://ref.ly/John15:5\">5</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "02003006",
-"start_ref_usfm": "EXO 3:6",
-"end_ref": "02003006",
-"end_ref_usfm": "EXO 3:6"
-},
-{
-"start_ref": "02003014",
-"start_ref_usfm": "EXO 3:14",
-"end_ref": "02003014",
-"end_ref_usfm": "EXO 3:14"
-},
-{
-"start_ref": "23043025",
-"start_ref_usfm": "ISA 43:25",
-"end_ref": "23043025",
-"end_ref_usfm": "ISA 43:25"
-},
-{
-"start_ref": "23051012",
-"start_ref_usfm": "ISA 51:12",
-"end_ref": "23051012",
-"end_ref_usfm": "ISA 51:12"
-},
-{
-"start_ref": "23052006",
-"start_ref_usfm": "ISA 52:6",
-"end_ref": "23052006",
-"end_ref_usfm": "ISA 52:6"
-},
-{
-"start_ref": "40005022",
-"start_ref_usfm": "MAT 5:22",
-"end_ref": "40005022",
-"end_ref_usfm": "MAT 5:22"
-},
-{
-"start_ref": "40005028",
-"start_ref_usfm": "MAT 5:28",
-"end_ref": "40005028",
-"end_ref_usfm": "MAT 5:28"
-},
-{
-"start_ref": "40005032",
-"start_ref_usfm": "MAT 5:32",
-"end_ref": "40005032",
-"end_ref_usfm": "MAT 5:32"
-},
-{
-"start_ref": "40005034",
-"start_ref_usfm": "MAT 5:34",
-"end_ref": "40005034",
-"end_ref_usfm": "MAT 5:34"
-},
-{
-"start_ref": "40005039",
-"start_ref_usfm": "MAT 5:39",
-"end_ref": "40005039",
-"end_ref_usfm": "MAT 5:39"
-},
-{
-"start_ref": "40005044",
-"start_ref_usfm": "MAT 5:44",
-"end_ref": "40005044",
-"end_ref_usfm": "MAT 5:44"
-},
-{
-"start_ref": "43006035",
-"start_ref_usfm": "JHN 6:35",
-"end_ref": "43006035",
-"end_ref_usfm": "JHN 6:35"
-},
-{
-"start_ref": "43006048",
-"start_ref_usfm": "JHN 6:48",
-"end_ref": "43006048",
-"end_ref_usfm": "JHN 6:48"
-},
-{
-"start_ref": "43008012",
-"start_ref_usfm": "JHN 8:12",
-"end_ref": "43008012",
-"end_ref_usfm": "JHN 8:12"
-},
-{
-"start_ref": "43008028",
-"start_ref_usfm": "JHN 8:28",
-"end_ref": "43008028",
-"end_ref_usfm": "JHN 8:28"
-},
-{
-"start_ref": "43008058",
-"start_ref_usfm": "JHN 8:58",
-"end_ref": "43008058",
-"end_ref_usfm": "JHN 8:58"
-},
-{
-"start_ref": "43008059",
-"start_ref_usfm": "JHN 8:59",
-"end_ref": "43008059",
-"end_ref_usfm": "JHN 8:59"
-},
-{
-"start_ref": "43009005",
-"start_ref_usfm": "JHN 9:5",
-"end_ref": "43009005",
-"end_ref_usfm": "JHN 9:5"
-},
-{
-"start_ref": "43010009",
-"start_ref_usfm": "JHN 10:9",
-"end_ref": "43010009",
-"end_ref_usfm": "JHN 10:9"
-},
-{
-"start_ref": "43010011",
-"start_ref_usfm": "JHN 10:11",
-"end_ref": "43010011",
-"end_ref_usfm": "JHN 10:11"
-},
-{
-"start_ref": "43011025",
-"start_ref_usfm": "JHN 11:25",
-"end_ref": "43011025",
-"end_ref_usfm": "JHN 11:25"
-},
-{
-"start_ref": "43013019",
-"start_ref_usfm": "JHN 13:19",
-"end_ref": "43013019",
-"end_ref_usfm": "JHN 13:19"
-},
-{
-"start_ref": "43014006",
-"start_ref_usfm": "JHN 14:6",
-"end_ref": "43014006",
-"end_ref_usfm": "JHN 14:6"
-},
-{
-"start_ref": "43015001",
-"start_ref_usfm": "JHN 15:1",
-"end_ref": "43015001",
-"end_ref_usfm": "JHN 15:1"
-},
-{
-"start_ref": "43015005",
-"start_ref_usfm": "JHN 15:5",
-"end_ref": "43015005",
-"end_ref_usfm": "JHN 15:5"
-},
-{
-"start_ref": "02003013",
-"start_ref_usfm": "EXO 3:13",
-"end_ref": "02003014",
-"end_ref_usfm": "EXO 3:14"
-},
-{
-"start_ref": "43010007",
-"start_ref_usfm": "JHN 10:7",
-"end_ref": "43010014",
-"end_ref_usfm": "JHN 10:14"
-}
-],
-"resource": [],
-"acai": []
-}
-},
-{
 "content_id": "702349",
 "reference_id": 203285,
 "version": "1.0.2",
@@ -4491,7 +4109,7 @@
 "version": "1.0.2",
 "title": "الأدب الرؤيويّ الأخرويّ (أبوغلمسيس/ أبوكلبسيس)",
 "media_type": "Text",
-"index_reference": "الأدب الرؤيويّ الأخرويّ (أبوغلمسيس/ أبوكلبسيس)",
+"index_reference": "الأدب الرؤيويّ الأخرويّ أبوغلمسيس أبوكلبسيس",
 "language": "arb",
 "review_level": "None",
 "content": "<p>تتضمن عدة مقاطع من العهد القديم مواضيع تشبه إلى حد كبير الأدب اليهودي الرؤيويّ الأخرويّ المتأخر (<a href=\"https://ref.ly/Isa24:1-Isa27:13\">إشعياء 24–27</a>; <a href=\"https://ref.ly/Ezek38:1-Ezek39:29\">حزقيال 38:1–39:29</a>; <a href=\"https://ref.ly/Dan7:1-Dan12:13\">دانيآل 7–12</a>; <a href=\"https://ref.ly/Zech9:1-Zech14:21\">زكريّا 9–14</a>). والأدب الرؤيوي هو نوع من الكتابة يستخدم الرؤى والرموز ليُظهِر النصرة النهائية لله على الشرّ، وليمنح شعبه الرجاء. كما أن سفر الرؤيا بأكمله في العهد الجديد ينتمي إلى هذا النوع الأدبي.</p><p>يستخدم الأدب الرؤيويّ الأخرويّ رؤى إلهية لنقل أمور غامضة أو مخفية. ويشتق مصطلح &quot;<em>رؤيوي&quot;</em> أو &quot;<em>أبوكلبسيس</em>&quot; من الكلمة اليونانية <em>apokalupsis</em>، والتي تعني &quot;إعلان&quot;. بينما يركز الأدب النبوي الآخر (التقليدي) على كلمات الرسالة. فمن منطلق مشهد قانوني، فالنبي الذي يقدم رسالة إلهية (نبوءة) يشبه المُدّعي العام، في حين أن كاتب الأدب الرؤيوي هو أشبه بشاهد العيان، حيث يصف الحقائق السماوية التي رآها.</p><p>عادةً ما تتنبأ النبوة في الكتاب المقدس بالخلاص أو الدينونة داخل عالمنا الحالي. وفي المقابل، يتوقع الأدب الرؤيوي الأخرويّ ويترقب تحقيقًا يتجاوز الزمان والمكان. فهو لا يتطلع إلى تحسُّن تدريجي للمجتمع، بل يتنبأ بحدث حاسم سيغير العالم ويُنهي الواقع الحالي للأمور ويخلق واقعًا كليًا جديدًا. يرى الأدب الرؤيوي الحاضر على أنه زمن من الصراع بين النور والظلمة، حيث لا يمكن أن يكون هناك أي مجال للمساومة أو للسلام بين قوى الخير والشر الخارقة للطبيعة.</p><p>يكشف الأدب الرؤيوي عن العناصر الخفية لهذا الصراع، حيث يُظهِر بوضوح وجود الظلمة الروحية. كما يعلن أيضًا عن قوى الخير الخفية المحيطة بنا، والتي ستنتصر في النهاية. إن هذا النصرة المستقبلية أكيدة، بغض النظر عن أي محاولات بشرية أو روحية لعرقلتها.</p><p>تهدف الرؤى الرؤيوية إلى تشجيع وتحفيز المؤمنين، خاصة خلال الأوقات الصعبة وأزمنة الضيق. تحمل هذه الكتابات رسالة إيجابية، وهي: على الرغم من التحديات والمصاعب الحالية، فقد حسم الله مُسبقًا نتيجة المعركة النهائية. وستنتصر قوى الخير. يعارض الأدب الرؤيوي الادّعاءات الوثنية بأن الأمور ستظل كما هي. ويؤكد أن الله هو المتسلط، وأن ملكوته سيغلب في النهاية.</p><p>تمنح هذه الرسالة رجاءً حيًا في نفوس المؤمنين وسط الألم. وتحثّهم على الثبات أمناء رغم التحديات. إنها رسالة تشجع الذين يعانون، مؤكدة أن الله هو المسيطر وسينتصر في النهاية. ورغم المعاناة، فالطاعة هي السبيل الوحيد للحياة. فنحن نثق في الغلبة النهائية عندما يجلب الله عصرًا جديدًا من الخلاص.</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Ezek38:1-Ezek39:24\">حزقيال 38:1–39:24</a>؛ <a href=\"https://ref.ly/Dan7:1-Dan12:13\">دانيال 7:1–12:13</a>؛ <a href=\"https://ref.ly/Zech9:1-Zech14:21\">زكريا 9:1–14:21</a></p>",
@@ -6282,7 +5900,7 @@
 "version": "1.0.2",
 "title": "الأفعال النبوية (الرمزية)",
 "media_type": "Text",
-"index_reference": "الأفعال النبوية (الرمزية)",
+"index_reference": "الأفعال النبوية الرمزية",
 "language": "arb",
 "review_level": "None",
 "content": "<p>كان أنبياء إسرائيل أحيانًا يستخدمون أفعالًا رمزية (نبوية) ليوصّلوا رسائلهم. وكانت هذه الأفعال عبارة عن أعمال درامية تُنفَّذ علنًا لتقوية وقع الرسالة في قلوب الناس. وقد ساعدت تلك العروض البصرية الناس على <em>سماع</em> الحق وأيضًا <em>الشعور</em> به بعمق. كان الهدف من هذه الأفعال الرمزية أن تقديم رسالة راسخة ومحفورة في الذاكرة ولا تُنسَى.</p><p>وقد بدت هذه الأفعال غير معتادة وغريبة، ليس فقط في نظر الناس اليوم، بل حتى في نظر أولئك الذين عاشوا في تلك العصور القديمة. ومع ذلك، فبخلاف ما قد يظنه الناس اليوم (الذين يمكن أن يعتقدون أن النبي مصاب بمشاكل عقلية)، كان الناس في العصور القديمة يدركون أن هذه الأفعال الرمزية هي وسيلة طبيعية يتواصل بها الأنبياء لتقديم رسائلهم.</p><p>كان النبي حزقيال، في أغلب الأحيان، يُمثّل رسائله، وقد فعل حزقيال ذلك أكثر من أي نبي آخر. وربما كان ذلك بسبب أنه خاطب شعبًا عنيدًا وصلب الرقبة (<a href=\"https://ref.ly/Ezek2:6-Ezek2:7\">حزقيال 2:6–7</a>). لقد جاءت أفعاله النبوية لتُؤكد رسالته، ولتعكس مدى التزامه العميق بكلمة الله. فعلى سبيل المثال، أكل حزقيال كلمة الله (الدَّرج) (<a href=\"https://ref.ly/Ezek2:8-Ezek3:3\">حزقيال 2:8–3:3</a>). ثم قام حزقيال بتمثيل رسالة الرب للمسبيين من خلال سلسلة من المشاهد الرمزية التي تعبّر عن الدينونة (<a href=\"https://ref.ly/Ezek3:4-Ezek3:9\">حزقيال 3:4–9</a>; انظر أيضًا الاصحاحات <a href=\"https://ref.ly/Ezek4:1-Ezek6:14\">4–6</a>). لقد كان هذا النوع من التواصل الدرامي يصعب تجاهله أو نسيانه، حتى لو من جمهور غاضب.</p><p>قام يسوع المسيح بأعظم آية مُجسّدة على الصليب (انظر <a href=\"https://ref.ly/Matt27:32-Matt27:54\">متّى 27:32–54</a>). هناك، بيّن الله دينونته للخطية من خلال الظلمة التي حلّت، والزلزال، ومن خلال ألم الابن البار، الذي بدا متروكًا من أبيه. وقد أظهر الله الآب أيضًا محبته العميقة للعالم باختياره أن يموت ابنه بدلاً من أن يفقد شعبه. إن الصليب رسالة قوية عن محبة الله وأيضًا عن دينونته التي يصعب تجاهلها أو نسيانها.</p><p><u>مقاطع إضافية للدراسة</u></p><p><a href=\"https://ref.ly/Jer13:1-Jer13:11\">إرميا ١٣:١–١١</a>; <a href=\"https://ref.ly/Jer19:1-Jer19:15\">١٩:١–١٥</a>; <a href=\"https://ref.ly/Jer25:15\">٢٥:١٥</a>; <a href=\"https://ref.ly/Ezek2:6-Ezek3:3\">حزقيال ٢:٦–٣:٣</a>; <a href=\"https://ref.ly/Ezek3:4-Ezek3:9\">٣:٤–٩</a>; <a href=\"https://ref.ly/Ezek4:1-Ezek4:17\">٤:١–١٧</a>; <a href=\"https://ref.ly/Ezek5:1-Ezek6:14\">٥:١–٦:١٤</a>; <a href=\"https://ref.ly/Ezek12:1-Ezek12:28\">١٢:١–٢٨</a>; <a href=\"https://ref.ly/Ezek21:19-Ezek21:23\">٢١:١٩–٢٣</a>; <a href=\"https://ref.ly/Ezek24:1-Ezek24:14\">٢٤:١–١٤</a>, <a href=\"https://ref.ly/Ezek24:16-Ezek24:27\">١٦–٢٧</a>; <a href=\"https://ref.ly/Ezek37:15-Ezek37:28\">٣٧:١٥–٢٨</a>; <a href=\"https://ref.ly/Hos1:2-Hos1:9\">هوشع ١:٢–٩</a>; <a href=\"https://ref.ly/Hos3:1-Hos3:3\">٣:١–٣</a>; <a href=\"https://ref.ly/Matt26:26-Matt26:28\">متّى ٢٦:٢٦–٢٨</a>; <a href=\"https://ref.ly/Matt27:45-Matt27:54\">٢٧:٤٥–٥٤</a>; <a href=\"https://ref.ly/Mark6:11\">مرقس ٦:١١</a>; <a href=\"https://ref.ly/Mark11:12-Mark11:21\">١١:١٢–٢١</a>; <a href=\"https://ref.ly/Luke22:17-Luke22:20\">لوقا ٢٢:١٧–٢٠</a>; <a href=\"https://ref.ly/Rom6:3-Rom6:5\">رومية ٦:٣–٥</a>; <a href=\"https://ref.ly/1Cor10:16-1Cor10:17\">١ كورنثوس ١٠:١٦–١٧</a>; <a href=\"https://ref.ly/1Cor11:23-1Cor11:32\">١١:٢٣–٣٢</a></p>",
@@ -7254,7 +6872,7 @@
 "version": "1.0.2",
 "title": "الانتماء إلى المسيح (تبعية المسيح)",
 "media_type": "Text",
-"index_reference": "الانتماء إلى المسيح (تبعية المسيح)",
+"index_reference": "الانتماء إلى المسيح تبعية المسيح",
 "language": "arb",
 "review_level": "None",
 "content": "<p>إن العهد الجديد، بالنسبة للعديد من الناس اليوم يبدو وكأنه يقدم رؤية متطرفة للحياة المسيحية. فالله يدعو المؤمنين للتخلّي عن حقوقهم، وتحمّل المعاناة، وحتى مواجهة الموت من أجل يسوع (<a href=\"https://ref.ly/Mark8:34-Mark8:36\">مرقس 8:34–36</a>). كما يجب عليهم الابتعاد عن الأمور الدنيوية التي يسعى إليها الجميع (<a href=\"https://ref.ly/1John2:15-1John2:17\">1 يوحنا 2:15–17</a>). وأن يزهدوا في حياتهم في هذا العالم (<a href=\"https://ref.ly/John12:24-John12:25\">يوحنا 12:24–25</a>). وينصح بولس المؤمنين بالتخلّي عن الرغبات الطبيعية للزواج وتكوين أسرة والبقاء بدون زواج من أجل يسوع، ومع ذلك، هذا فقط إذا كانت لديهم تلك الموهبة الروحية (<a href=\"https://ref.ly/1Cor7:7\">1 كورنثوس 7:7</a>).</p><p>ما هو سبب هذه النظرة المتطرفة للحياة؟ بالنسبة لبولس، يكمن السبب في الفهم بأن المؤمنين بيسوع هم ينتمون إليه، جسدًا وروحًا. فعندما مات يسوع، اشتراهم لنفسه (<a href=\"https://ref.ly/1Cor6:20\">1 كورنثوس 6:20</a>). لذا، لا ينبغي بعد الآن أن يعيشوا لأنفسهم ولرغباتهم (<a href=\"https://ref.ly/2Cor5:14-2Cor5:15\">2 كورنثوس 5:14–15</a>). وهو يدعوهم أن يعيشوا من أجل سيدهم بالكامل، بعد أن تخلّوا عن مصالحهم الشخصية (<a href=\"https://ref.ly/Rom14:7-Rom14:9\">رومية 14:7–9</a>).</p><p>بالنسبة للمسيحيين الحقيقيين، فإن طاعة يسوع ليست عبئًا ثقيلًا. بل هي تعبير عن المحبة والولاء لمن بذل نفسه لأجلهم. فبالنسبة لشعب يسوع، تُصبح الحياة وسيلة مُفرحة لشكر ٱلله على النعمة التي أُظهرت لهم من خلال يسوع ٱلمسيح. وهم يفرحون بتكريس حياتهم لخدمة من ضحّى بكل شيء من أجلهم (انظر <a href=\"https://ref.ly/1John3:16\">1 يوحنّا 3:16</a>). ومن خلال الموت عن رغباتهم الخاصة، يسمح المؤمنون للمسيح أن يحيا فيهم ومن خلالهم (<a href=\"https://ref.ly/Gal2:19-Gal2:20\">غلاطية 2:19–20</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Deut9:26\">تثنية 9:26</a>، <a href=\"https://ref.ly/Deut9:29\">29</a>؛ <a href=\"https://ref.ly/Deut32:9\">32:9</a>؛ <a href=\"https://ref.ly/1Kgs8:53\">1 ملوك 8:53</a>؛ <a href=\"https://ref.ly/Ps2:8\">مزامير 2:8</a>؛ <a href=\"https://ref.ly/Ps28:9\">28:9</a>؛ <a href=\"https://ref.ly/Ezek18:4\">حزقيال 18:4</a>؛ <a href=\"https://ref.ly/Mark8:34-Mark8:36\">مرقس 8:34–36</a>؛ <a href=\"https://ref.ly/Mark12:30\">12:30</a>؛ <a href=\"https://ref.ly/Rom14:7-Rom14:9\">رومية 14:7–9</a>؛ <a href=\"https://ref.ly/1Cor6:19-1Cor6:20\">1 كورنثوس 6:19–20</a>؛ <a href=\"https://ref.ly/1Cor7:20-1Cor7:24\">7:20–24</a>؛ <a href=\"https://ref.ly/1Cor7:32-1Cor7:35\">7:32–35</a>؛ <a href=\"https://ref.ly/2Cor5:14-2Cor5:15\">2 كورنثوس 5:14–15</a>؛ <a href=\"https://ref.ly/Gal2:19-Gal2:20\">غلاطية 2:19–20</a>؛ <a href=\"https://ref.ly/1Pet2:9-1Pet2:10\">1 بطرس 2:9–10</a></p>",
@@ -7863,6 +7481,209 @@
 "start_ref_usfm": "JAS 1:5",
 "end_ref": "59001006",
 "end_ref_usfm": "JAS 1:6"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "702375",
+"reference_id": 203311,
+"version": "1.0.2",
+"title": "\"الإيمان\" في إنجيل يوحنا",
+"media_type": "Text",
+"index_reference": "الإيمان في إنجيل يوحنا",
+"language": "arb",
+"review_level": "None",
+"content": "<p>موضوع &quot;الإيمان&quot; موضوع محوري في إنجيل يوحنا. لا يستخدم يوحنا الاسم <em>الإيمان</em> الذي يظهر كثيرًا في العهد الجديد (على سبيل المثال، انظر <a href=\"https://ref.ly/Matt8:8-Matt8:10\">متى 8:8–10</a>; <a href=\"https://ref.ly/Mark11:22\">مرقس 11:22</a>; <a href=\"https://ref.ly/Acts20:21\">أعمال الرسل 20:21</a>; <a href=\"https://ref.ly/Rom1:17\">رومية 1:17</a>; <a href=\"https://ref.ly/Rom3:27-Rom3:31\">3:27–31</a>; <a href=\"https://ref.ly/Rom4:3-Rom4:5\">4:3–5</a>; <a href=\"https://ref.ly/Heb11:1-Heb11:39\">عبرانيين 11:1–39</a>; <a href=\"https://ref.ly/Jas2:14-Jas2:24\">يعقوب 2:14–24</a>; <a href=\"https://ref.ly/1Pet1:5-1Pet1:7\">1 بطرس 1:5–7</a>). بل يُفضل يوحنا استخدام الصيغة الفعلي <em>يؤمن</em> (&quot;يثق&quot; أو &quot;يكون مخلصًا&quot;) ليُظهر أن الإيمان ليس مجرد اعتقاد ثابت، بل هو &quot;حي&quot; ويتطلب العمل بموجبه. في إنجيل يوحنا، &quot;الإيمان&quot; بالرب يسوع هو العلامة المميزة لجميع التلاميذ الحقيقيين.</p><p>الفعل المترجم &quot;يؤمن&quot; في إنجيل يوحنا، يتبعه غالبًا حرف الجر اليوناني <em>eis</em>، الذي يعني &quot;إلى داخل&quot;. هذا التركيب فريد في الاستخدام اليوناني القديم. بالنسبة ليوحنا، الإيمان أو المعتقد ليس مجرد حالة، بل هو استثمار في الرب يسوع. الإيمان يعني قبول ماهية الرب يسوع وما يقوله عن نفسه.</p><p>يتضمن الإيمان أيضًا التزامًا بقبول التغيير الذي تقوم به دعوة الله للثقة به  على كيفية عيش الشخص حياته. الإيمان هو العمل الذي يطلبه الله منا (<a href=\"https://ref.ly/John6:29\">يوحنا 6:29</a>). ونحن نظهر الإيمان من خلال اتباع تعاليم الرب يسوع، ومحبته، وطاعة وصاياه (<a href=\"https://ref.ly/John8:31\">يوحنا 8:31</a>; <a href=\"https://ref.ly/John15:1-John15:17\">15:1–17</a>; انظر <a href=\"https://ref.ly/1John5:10\">1 يوحنا 5:10</a>).</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/Gen15:6\">تكوين 15:6</a>; <a href=\"https://ref.ly/Isa28:16\">إشعياء 28:16</a>; <a href=\"https://ref.ly/Mark1:15\">مرقس 1:15</a>; <a href=\"https://ref.ly/Mark9:23-Mark9:24\">مرقس 9:23–24</a>; <a href=\"https://ref.ly/John1:12-John1:13\">يوحنا 1:12–13</a>; <a href=\"https://ref.ly/John3:10-John3:18\">يوحنا 3:10–18</a>; <a href=\"https://ref.ly/John5:24\">يوحنا 5:24</a>; <a href=\"https://ref.ly/John6:35-John6:36\">يوحنا 6:35–36</a>; <a href=\"https://ref.ly/John7:38\">يوحنا 7:38</a>; <a href=\"https://ref.ly/John9:35-John9:38\">يوحنا 9:35–38</a>; <a href=\"https://ref.ly/John11:25-John11:27\">يوحنا 11:25–27</a>; <a href=\"https://ref.ly/John12:37\">يوحنا 12:37</a>; <a href=\"https://ref.ly/John20:25-John20:31\">يوحنا 20:25–31</a>; <a href=\"https://ref.ly/Acts10:43\">أعمال الرسل 10:43</a>; <a href=\"https://ref.ly/Acts13:39\">أعمال الرسل 13:39</a>; <a href=\"https://ref.ly/Rom1:16\">رومية 1:16</a>; <a href=\"https://ref.ly/Rom10:9-Rom10:10\">رومية 10:9–10</a>; <a href=\"https://ref.ly/Heb4:3\">عبرانيين 4:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01015006",
+"start_ref_usfm": "GEN 15:6",
+"end_ref": "01015006",
+"end_ref_usfm": "GEN 15:6"
+},
+{
+"start_ref": "23028016",
+"start_ref_usfm": "ISA 28:16",
+"end_ref": "23028016",
+"end_ref_usfm": "ISA 28:16"
+},
+{
+"start_ref": "41001015",
+"start_ref_usfm": "MRK 1:15",
+"end_ref": "41001015",
+"end_ref_usfm": "MRK 1:15"
+},
+{
+"start_ref": "41011022",
+"start_ref_usfm": "MRK 11:22",
+"end_ref": "41011022",
+"end_ref_usfm": "MRK 11:22"
+},
+{
+"start_ref": "43005024",
+"start_ref_usfm": "JHN 5:24",
+"end_ref": "43005024",
+"end_ref_usfm": "JHN 5:24"
+},
+{
+"start_ref": "43006029",
+"start_ref_usfm": "JHN 6:29",
+"end_ref": "43006029",
+"end_ref_usfm": "JHN 6:29"
+},
+{
+"start_ref": "43007038",
+"start_ref_usfm": "JHN 7:38",
+"end_ref": "43007038",
+"end_ref_usfm": "JHN 7:38"
+},
+{
+"start_ref": "43008031",
+"start_ref_usfm": "JHN 8:31",
+"end_ref": "43008031",
+"end_ref_usfm": "JHN 8:31"
+},
+{
+"start_ref": "43012037",
+"start_ref_usfm": "JHN 12:37",
+"end_ref": "43012037",
+"end_ref_usfm": "JHN 12:37"
+},
+{
+"start_ref": "44010043",
+"start_ref_usfm": "ACT 10:43",
+"end_ref": "44010043",
+"end_ref_usfm": "ACT 10:43"
+},
+{
+"start_ref": "44013039",
+"start_ref_usfm": "ACT 13:39",
+"end_ref": "44013039",
+"end_ref_usfm": "ACT 13:39"
+},
+{
+"start_ref": "44020021",
+"start_ref_usfm": "ACT 20:21",
+"end_ref": "44020021",
+"end_ref_usfm": "ACT 20:21"
+},
+{
+"start_ref": "45001016",
+"start_ref_usfm": "ROM 1:16",
+"end_ref": "45001016",
+"end_ref_usfm": "ROM 1:16"
+},
+{
+"start_ref": "45001017",
+"start_ref_usfm": "ROM 1:17",
+"end_ref": "45001017",
+"end_ref_usfm": "ROM 1:17"
+},
+{
+"start_ref": "58004003",
+"start_ref_usfm": "HEB 4:3",
+"end_ref": "58004003",
+"end_ref_usfm": "HEB 4:3"
+},
+{
+"start_ref": "62005010",
+"start_ref_usfm": "1JN 5:10",
+"end_ref": "62005010",
+"end_ref_usfm": "1JN 5:10"
+},
+{
+"start_ref": "45010009",
+"start_ref_usfm": "ROM 10:9",
+"end_ref": "45010010",
+"end_ref_usfm": "ROM 10:10"
+},
+{
+"start_ref": "43015001",
+"start_ref_usfm": "JHN 15:1",
+"end_ref": "43015017",
+"end_ref_usfm": "JHN 15:17"
+},
+{
+"start_ref": "43009035",
+"start_ref_usfm": "JHN 9:35",
+"end_ref": "43009038",
+"end_ref_usfm": "JHN 9:38"
+},
+{
+"start_ref": "43001012",
+"start_ref_usfm": "JHN 1:12",
+"end_ref": "43001013",
+"end_ref_usfm": "JHN 1:13"
+},
+{
+"start_ref": "40008008",
+"start_ref_usfm": "MAT 8:8",
+"end_ref": "40008010",
+"end_ref_usfm": "MAT 8:10"
+},
+{
+"start_ref": "41009023",
+"start_ref_usfm": "MRK 9:23",
+"end_ref": "41009024",
+"end_ref_usfm": "MRK 9:24"
+},
+{
+"start_ref": "45003027",
+"start_ref_usfm": "ROM 3:27",
+"end_ref": "45003031",
+"end_ref_usfm": "ROM 3:31"
+},
+{
+"start_ref": "45004003",
+"start_ref_usfm": "ROM 4:3",
+"end_ref": "45004005",
+"end_ref_usfm": "ROM 4:5"
+},
+{
+"start_ref": "58011001",
+"start_ref_usfm": "HEB 11:1",
+"end_ref": "58011039",
+"end_ref_usfm": "HEB 11:39"
+},
+{
+"start_ref": "59002014",
+"start_ref_usfm": "JAS 2:14",
+"end_ref": "59002024",
+"end_ref_usfm": "JAS 2:24"
+},
+{
+"start_ref": "60001005",
+"start_ref_usfm": "1PE 1:5",
+"end_ref": "60001007",
+"end_ref_usfm": "1PE 1:7"
+},
+{
+"start_ref": "43003010",
+"start_ref_usfm": "JHN 3:10",
+"end_ref": "43003018",
+"end_ref_usfm": "JHN 3:18"
+},
+{
+"start_ref": "43006035",
+"start_ref_usfm": "JHN 6:35",
+"end_ref": "43006036",
+"end_ref_usfm": "JHN 6:36"
+},
+{
+"start_ref": "43011025",
+"start_ref_usfm": "JHN 11:25",
+"end_ref": "43011027",
+"end_ref_usfm": "JHN 11:27"
+},
+{
+"start_ref": "43020025",
+"start_ref_usfm": "JHN 20:25",
+"end_ref": "43020031",
+"end_ref_usfm": "JHN 20:31"
 }
 ],
 "resource": [],
@@ -8551,6 +8372,185 @@
 "start_ref_usfm": "REV 1:4",
 "end_ref": "66001005",
 "end_ref_usfm": "REV 1:5"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "702380",
+"reference_id": 203316,
+"version": "1.0.2",
+"title": "\"أنا هو\" أقوال يسوع",
+"media_type": "Text",
+"index_reference": "أنا هو أقوال يسوع",
+"language": "arb",
+"review_level": "None",
+"content": "<p>في إنجيل يوحنا، يستخدم يسوع غالبًا عبارة &quot;أنا هو&quot; (باللغة اليونانية، العبارة هي <em>egō eimi</em>). وأحيانًا، يستخدمها يسوع لوصف نفسه. مثل قوله: &quot;<span>أَنَا هُوَ خُبْزُ ٱلْحَيَاةِ</span>.&quot; ويحتوي إنجيل يوحنا على سبعة تصريحات يبدأ فيها يسوع بـ &quot;أنا هو&quot; متبوعة بتوصيف له (<a href=\"https://ref.ly/John6:35\">يوحنا 6:35</a>; <a href=\"https://ref.ly/John8:12\">8:12</a>; <a href=\"https://ref.ly/John10:9\">10:9</a>, <a href=\"https://ref.ly/John10:11\">11</a>; <a href=\"https://ref.ly/John11:25\">11:25</a>; <a href=\"https://ref.ly/John14:6\">14:6</a>; <a href=\"https://ref.ly/John15:1\">15:1</a>).</p><p>ومن المهم ملاحظة أن اللغة اليونانية لا تتطلب استخدام الضمير &quot;أنا&quot; (<em>egō</em>) في هذه الجمل. لذلك، فإن استخدام الضمير يُشدد على هوية المتحدث. وهناك مثال آخر نجده في العظة على الجبل في إنجيل متّى، حيث يقول يسوع: &quot;قَدْ سَمِعْتُمْ أَنَّهُ قِيلَ ... <span>وَأَمَّا <em>أَنَا </em></span>[<em>egō</em>] فَأَقُولُ لَكُمْ&quot; (انظر <a href=\"https://ref.ly/Matt5:22\">متّى 5:22</a>، <a href=\"https://ref.ly/Matt5:28\">28</a>، <a href=\"https://ref.ly/Matt5:32\">32</a>، <a href=\"https://ref.ly/Matt5:34\">34</a>، <a href=\"https://ref.ly/Matt5:39\">39</a>، <a href=\"https://ref.ly/Matt5:44\">44</a>، ومقاطع أخرى). إن استخدام الضمير الشخصي يُبرز الفرق بين تعاليم يسوع وتعاليم موسى. كما يؤكد على سلطان يسوع الفريد.</p><p>أحيانًا، استخدم يسوع عبارة &quot;<span>أَنَا هُوَ</span>&quot; بطريقة غير مألوفة نحويًا، دون أن يتبعها أي توصيف. كما قال: &quot;<span>قَبْلَ أَنْ يَكُونَ إِبْرَاهِيمُ أَنَا كَائِنٌ</span>&quot; (<a href=\"https://ref.ly/John8:58\">يوحنّا 8:58</a>). من هو يسوع الذي سبق إبراهيم وجودًا؟ (قارن <a href=\"https://ref.ly/John8:28\">8:28</a>، <a href=\"https://ref.ly/John8:59\">59</a>؛ <a href=\"https://ref.ly/John13:19\">13:19</a>).</p><p>وأفضل تفسير لهذا التعبير الغريب يعود إلى العهد القديم، فعندما التقى موسى بالرب على جبل سيناء، سأله عن اسم الله (<a href=\"https://ref.ly/Exod3:6\">الخروج 3:6</a>, <a href=\"https://ref.ly/Exod3:13-Exod3:14\">13–14</a>). وأجابه الله بأن اسمه هو &quot;يهوه&quot; &quot;YHWH&quot;، وهي أربعة أحرف عبرية يمكن أن تُعبّر عن الوجود. عندما ترجم اليهود العهد القديم إلى اليونانية، جاء اسم الله في خروج 3:14 &quot;أَهْيَهِ الَّذِي أَهْيَهْ&quot; بصيغة egō eimi ho ōn (&quot;أنا هو الكائن&quot;). وفي مواضع أخرى، خاصة في سفر إشعياء (<a href=\"https://ref.ly/Isa43:25\">43:25</a>؛ <a href=\"https://ref.ly/Isa51:12\">51:12</a>؛ <a href=\"https://ref.ly/Isa52:6\">52:6</a>)، استخدم العهد القديم اليوناني عبارة egō eimi (&quot;أنا هو&quot;) كطريقة خاصة يتحدث بها الله عن نفسه. وفي كثير من الآيات الأخرى، استُخدمت كلمة kurios&nbsp;(&quot;الرب&quot;) لترجمة اسم الله. بعض اليهود فهموا قول يسوع «أنا هو» كادعاء لاسم الله، كما في يوحنا 8:58، حيث حاولوا رجمه. لكن في مواضع أخرى، مثل يوحنا 8:24، لم يتفاعلوا بهذا الشكل، بل اكتفوا بسؤاله: &quot;مَنْ أَنْتَ؟&quot;.</p><p>إن يسوع لا يُمثّل فقط الله. بل تُظهر تصريحات &quot;أَنَا هُوَ&quot; عن طبيعته الإلهية، إذ تدل على أنه يستطيع أن يعمل ويتكلم ويتصرف باسم الآب. فهو ليس مجرد إنسان، بل هو كلمة الله الذي صار إنسانًا (<a href=\"https://ref.ly/John1:1\">يوحنا 1:1</a>). وصوته هو صوت الآب، وحياته تٌظهر حياة الله في جسد بشري. وتعبير &quot;أَنَا هُوَ&quot; يعبّر بقوة عن هويّة يسوع الحقيقية.</p><p><u>مقاطع لمزيد من الدراسة</u></p><p><a href=\"https://ref.ly/John6:35\">يوحنا 6:35</a>، <a href=\"https://ref.ly/John6:48\">48</a>؛ <a href=\"https://ref.ly/John8:12\">8:12</a>، <a href=\"https://ref.ly/John8:58\">58</a>؛ <a href=\"https://ref.ly/John9:5\">9:5؛ </a><a href=\"https://ref.ly/John10:7-John10:14\">10:7–14</a>؛ <a href=\"https://ref.ly/John11:25\">11:25</a>؛ <a href=\"https://ref.ly/John14:6\">14:6</a>؛ <a href=\"https://ref.ly/John15:1\">15:1</a>، <a href=\"https://ref.ly/John15:5\">5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02003006",
+"start_ref_usfm": "EXO 3:6",
+"end_ref": "02003006",
+"end_ref_usfm": "EXO 3:6"
+},
+{
+"start_ref": "02003014",
+"start_ref_usfm": "EXO 3:14",
+"end_ref": "02003014",
+"end_ref_usfm": "EXO 3:14"
+},
+{
+"start_ref": "23043025",
+"start_ref_usfm": "ISA 43:25",
+"end_ref": "23043025",
+"end_ref_usfm": "ISA 43:25"
+},
+{
+"start_ref": "23051012",
+"start_ref_usfm": "ISA 51:12",
+"end_ref": "23051012",
+"end_ref_usfm": "ISA 51:12"
+},
+{
+"start_ref": "23052006",
+"start_ref_usfm": "ISA 52:6",
+"end_ref": "23052006",
+"end_ref_usfm": "ISA 52:6"
+},
+{
+"start_ref": "40005022",
+"start_ref_usfm": "MAT 5:22",
+"end_ref": "40005022",
+"end_ref_usfm": "MAT 5:22"
+},
+{
+"start_ref": "40005028",
+"start_ref_usfm": "MAT 5:28",
+"end_ref": "40005028",
+"end_ref_usfm": "MAT 5:28"
+},
+{
+"start_ref": "40005032",
+"start_ref_usfm": "MAT 5:32",
+"end_ref": "40005032",
+"end_ref_usfm": "MAT 5:32"
+},
+{
+"start_ref": "40005034",
+"start_ref_usfm": "MAT 5:34",
+"end_ref": "40005034",
+"end_ref_usfm": "MAT 5:34"
+},
+{
+"start_ref": "40005039",
+"start_ref_usfm": "MAT 5:39",
+"end_ref": "40005039",
+"end_ref_usfm": "MAT 5:39"
+},
+{
+"start_ref": "40005044",
+"start_ref_usfm": "MAT 5:44",
+"end_ref": "40005044",
+"end_ref_usfm": "MAT 5:44"
+},
+{
+"start_ref": "43006035",
+"start_ref_usfm": "JHN 6:35",
+"end_ref": "43006035",
+"end_ref_usfm": "JHN 6:35"
+},
+{
+"start_ref": "43006048",
+"start_ref_usfm": "JHN 6:48",
+"end_ref": "43006048",
+"end_ref_usfm": "JHN 6:48"
+},
+{
+"start_ref": "43008012",
+"start_ref_usfm": "JHN 8:12",
+"end_ref": "43008012",
+"end_ref_usfm": "JHN 8:12"
+},
+{
+"start_ref": "43008028",
+"start_ref_usfm": "JHN 8:28",
+"end_ref": "43008028",
+"end_ref_usfm": "JHN 8:28"
+},
+{
+"start_ref": "43008058",
+"start_ref_usfm": "JHN 8:58",
+"end_ref": "43008058",
+"end_ref_usfm": "JHN 8:58"
+},
+{
+"start_ref": "43008059",
+"start_ref_usfm": "JHN 8:59",
+"end_ref": "43008059",
+"end_ref_usfm": "JHN 8:59"
+},
+{
+"start_ref": "43009005",
+"start_ref_usfm": "JHN 9:5",
+"end_ref": "43009005",
+"end_ref_usfm": "JHN 9:5"
+},
+{
+"start_ref": "43010009",
+"start_ref_usfm": "JHN 10:9",
+"end_ref": "43010009",
+"end_ref_usfm": "JHN 10:9"
+},
+{
+"start_ref": "43010011",
+"start_ref_usfm": "JHN 10:11",
+"end_ref": "43010011",
+"end_ref_usfm": "JHN 10:11"
+},
+{
+"start_ref": "43011025",
+"start_ref_usfm": "JHN 11:25",
+"end_ref": "43011025",
+"end_ref_usfm": "JHN 11:25"
+},
+{
+"start_ref": "43013019",
+"start_ref_usfm": "JHN 13:19",
+"end_ref": "43013019",
+"end_ref_usfm": "JHN 13:19"
+},
+{
+"start_ref": "43014006",
+"start_ref_usfm": "JHN 14:6",
+"end_ref": "43014006",
+"end_ref_usfm": "JHN 14:6"
+},
+{
+"start_ref": "43015001",
+"start_ref_usfm": "JHN 15:1",
+"end_ref": "43015001",
+"end_ref_usfm": "JHN 15:1"
+},
+{
+"start_ref": "43015005",
+"start_ref_usfm": "JHN 15:5",
+"end_ref": "43015005",
+"end_ref_usfm": "JHN 15:5"
+},
+{
+"start_ref": "02003013",
+"start_ref_usfm": "EXO 3:13",
+"end_ref": "02003014",
+"end_ref_usfm": "EXO 3:14"
+},
+{
+"start_ref": "43010007",
+"start_ref_usfm": "JHN 10:7",
+"end_ref": "43010014",
+"end_ref_usfm": "JHN 10:14"
 }
 ],
 "resource": [],
