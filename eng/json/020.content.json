@@ -2,7 +2,7 @@
 {
 "content_id": "500175",
 "reference_id": 203118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Tabernacle",
 "media_type": "Text",
 "index_reference": "tabernacle",
@@ -89,9 +89,9 @@
 {
 "id": "realia:Tabernacle",
 "type": "realia",
-"preferred_label": "Tabernacle",
 "confidence": 0.5633,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Tabernacle"
 }
 ]
 }
@@ -99,7 +99,7 @@
 {
 "content_id": "500319",
 "reference_id": 203262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Temple Design as a Picture of God's Truth",
 "media_type": "Text",
 "index_reference": "temple design as a picture of gods truth",
@@ -212,7 +212,7 @@
 {
 "content_id": "500320",
 "reference_id": 203263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Temple Legislation as Theology",
 "media_type": "Text",
 "index_reference": "temple legislation as theology",
@@ -283,7 +283,7 @@
 {
 "content_id": "500231",
 "reference_id": 203174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Temple Worship",
 "media_type": "Text",
 "index_reference": "temple worship",
@@ -474,7 +474,7 @@
 {
 "content_id": "500444",
 "reference_id": 203387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Theater and Revelation",
 "media_type": "Text",
 "index_reference": "theater and revelation",
@@ -527,7 +527,7 @@
 {
 "content_id": "500449",
 "reference_id": 203392,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Thousand Years (The Millennium)",
 "media_type": "Text",
 "index_reference": "thousand years the millennium",
@@ -562,7 +562,7 @@
 {
 "content_id": "500398",
 "reference_id": 203341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tolerance",
 "media_type": "Text",
 "index_reference": "tolerance",
@@ -681,7 +681,7 @@
 {
 "content_id": "500194",
 "reference_id": 203137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "True Justice",
 "media_type": "Text",
 "index_reference": "true justice",
@@ -860,7 +860,7 @@
 {
 "content_id": "500225",
 "reference_id": 203168,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "True Success",
 "media_type": "Text",
 "index_reference": "true success",
@@ -1129,7 +1129,7 @@
 {
 "content_id": "500292",
 "reference_id": 203235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trusting God in Isaiah",
 "media_type": "Text",
 "index_reference": "trusting god in isaiah",
@@ -1260,7 +1260,7 @@
 {
 "content_id": "500267",
 "reference_id": 203210,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trusting God in the Psalms",
 "media_type": "Text",
 "index_reference": "trusting god in the psalms",
@@ -1721,7 +1721,7 @@
 {
 "content_id": "500236",
 "reference_id": 203179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trusting in Human Strength",
 "media_type": "Text",
 "index_reference": "trusting in human strength",

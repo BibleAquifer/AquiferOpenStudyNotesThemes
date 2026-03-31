@@ -2,7 +2,7 @@
 {
 "content_id": "500281",
 "reference_id": 203224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wealth and Poverty in the Wisdom Literature",
 "media_type": "Text",
 "index_reference": "wealth and poverty in the wisdom literature",
@@ -193,7 +193,7 @@
 {
 "content_id": "500330",
 "reference_id": 203273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "What Is Good",
 "media_type": "Text",
 "index_reference": "what is good",
@@ -450,7 +450,7 @@
 {
 "content_id": "500277",
 "reference_id": 203220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wisdom",
 "media_type": "Text",
 "index_reference": "wisdom",
@@ -627,9 +627,9 @@
 {
 "id": "person:Wisdom",
 "type": "person",
-"preferred_label": "Wisdom",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Wisdom"
 }
 ]
 }
@@ -637,7 +637,7 @@
 {
 "content_id": "500264",
 "reference_id": 203207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wisdom Psalms",
 "media_type": "Text",
 "index_reference": "wisdom psalms",
@@ -954,7 +954,7 @@
 {
 "content_id": "500424",
 "reference_id": 203367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Women’s Roles in the New Testament Church",
 "media_type": "Text",
 "index_reference": "womens roles in the new testament church",
@@ -1109,7 +1109,7 @@
 {
 "content_id": "500366",
 "reference_id": 203309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Word",
 "media_type": "Text",
 "index_reference": "word",
@@ -1186,7 +1186,7 @@
 {
 "content_id": "500423",
 "reference_id": 203366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Work and Patronage",
 "media_type": "Text",
 "index_reference": "work and patronage",
@@ -1269,7 +1269,7 @@
 {
 "content_id": "500375",
 "reference_id": 203318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The World",
 "media_type": "Text",
 "index_reference": "world",
@@ -1586,7 +1586,7 @@
 {
 "content_id": "500328",
 "reference_id": 203271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Worship in Jerusalem",
 "media_type": "Text",
 "index_reference": "worship in jerusalem",
@@ -1735,7 +1735,7 @@
 {
 "content_id": "500448",
 "reference_id": 203391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Worship of Angels",
 "media_type": "Text",
 "index_reference": "worship of angels",
@@ -1800,7 +1800,7 @@
 {
 "content_id": "500311",
 "reference_id": 203254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Written Word",
 "media_type": "Text",
 "index_reference": "written word",

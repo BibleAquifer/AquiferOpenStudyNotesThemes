@@ -2,7 +2,7 @@
 {
 "content_id": "800345",
 "reference_id": 203176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nome de Deus em seu templo",
 "media_type": "Text",
 "index_reference": "nome de deus em seu templo",
@@ -61,13 +61,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5688,
+"match_method": "scored",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
 "content_id": "800484",
 "reference_id": 203315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nosso Advogado",
 "media_type": "Text",
 "index_reference": "nosso advogado",
@@ -246,7 +254,7 @@
 {
 "content_id": "800518",
 "reference_id": 203349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nova aliança de Deus",
 "media_type": "Text",
 "index_reference": "nova aliança de deus",
@@ -467,7 +475,7 @@
 {
 "content_id": "800557",
 "reference_id": 203388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Números simbólicos",
 "media_type": "Text",
 "index_reference": "números simbólicos",

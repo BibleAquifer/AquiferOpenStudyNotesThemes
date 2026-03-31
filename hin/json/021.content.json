@@ -2,7 +2,7 @@
 {
 "content_id": "709519",
 "reference_id": 203290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पत्थर जिसे राजमिस्त्रियों ने निकम्मा ठहराया",
 "media_type": "Text",
 "index_reference": "पत्थर जिसे राजमिस्त्रियों ने निकम्मा ठहराया",
@@ -403,7 +403,7 @@
 {
 "content_id": "709477",
 "reference_id": 203248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर अपने सेवक की रक्षा करते हैं",
 "media_type": "Text",
 "index_reference": "परमेश्वर अपने सेवक की रक्षा करते हैं",
@@ -630,7 +630,7 @@
 {
 "content_id": "709561",
 "reference_id": 203332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का अनुग्रह",
 "media_type": "Text",
 "index_reference": "परमेश्वर का अनुग्रह",
@@ -941,7 +941,7 @@
 {
 "content_id": "709339",
 "reference_id": 203110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्‍वर का अनुसरण करते हुए कष्ट सहना",
 "media_type": "Text",
 "index_reference": "परमेश्‍वर का अनुसरण करते हुए कष्ट सहना",
@@ -1114,7 +1114,7 @@
 {
 "content_id": "709400",
 "reference_id": 203171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का अपने लोगों के प्रति न्याय",
 "media_type": "Text",
 "index_reference": "परमेश्वर का अपने लोगों के प्रति न्याय",
@@ -1485,7 +1485,7 @@
 {
 "content_id": "709441",
 "reference_id": 203212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का क्रोध",
 "media_type": "Text",
 "index_reference": "परमेश्वर का क्रोध",
@@ -1796,7 +1796,7 @@
 {
 "content_id": "709469",
 "reference_id": 203240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का दास (सेवक)",
 "media_type": "Text",
 "index_reference": "परमेश्वर का दास सेवक",
@@ -2047,7 +2047,7 @@
 {
 "content_id": "709405",
 "reference_id": 203176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का नाम उनके मन्दिर पर",
 "media_type": "Text",
 "index_reference": "परमेश्वर का नाम उनके मन्दिर पर",
@@ -2106,13 +2106,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5688,
+"match_method": "scored",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
 "content_id": "709468",
 "reference_id": 203239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का न्याय",
 "media_type": "Text",
 "index_reference": "परमेश्वर का न्याय",
@@ -2597,7 +2605,7 @@
 {
 "content_id": "709524",
 "reference_id": 203295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का पुत्र",
 "media_type": "Text",
 "index_reference": "परमेश्वर का पुत्र",
@@ -3166,7 +3174,7 @@
 {
 "content_id": "709604",
 "reference_id": 203375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का वचन",
 "media_type": "Text",
 "index_reference": "परमेश्वर का वचन",
@@ -3375,7 +3383,7 @@
 {
 "content_id": "709368",
 "reference_id": 203139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का वाचा-प्रेम",
 "media_type": "Text",
 "index_reference": "परमेश्वर का वाचाप्रेम",
@@ -3512,7 +3520,7 @@
 {
 "content_id": "709404",
 "reference_id": 203175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का वादा किया हुआ राज्य",
 "media_type": "Text",
 "index_reference": "परमेश्वर का वादा किया हुआ राज्य",
@@ -3721,7 +3729,7 @@
 {
 "content_id": "709476",
 "reference_id": 203247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की अद्वितीयता",
 "media_type": "Text",
 "index_reference": "परमेश्वर की अद्वितीयता",
@@ -3840,7 +3848,7 @@
 {
 "content_id": "709565",
 "reference_id": 203336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की उद्धार की एकीकृत योजना",
 "media_type": "Text",
 "index_reference": "परमेश्वर की उद्धार की एकीकृत योजना",
@@ -4031,7 +4039,7 @@
 {
 "content_id": "709578",
 "reference_id": 203349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की नई वाचा",
 "media_type": "Text",
 "index_reference": "परमेश्वर की नई वाचा",
@@ -4252,7 +4260,7 @@
 {
 "content_id": "709406",
 "reference_id": 203177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की पुनःस्थापना की योजना",
 "media_type": "Text",
 "index_reference": "परमेश्वर की पुनःस्थापना की योजना",
@@ -4407,7 +4415,7 @@
 {
 "content_id": "709350",
 "reference_id": 203121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की पूर्ण पवित्रता",
 "media_type": "Text",
 "index_reference": "परमेश्वर की पूर्ण पवित्रता",
@@ -4490,13 +4498,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.698,
+"match_method": "scored",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
 "content_id": "709344",
 "reference_id": 203115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की महिमा",
 "media_type": "Text",
 "index_reference": "परमेश्वर की महिमा",
@@ -4759,13 +4775,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.5711,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
+]
 }
 },
 {
 "content_id": "709330",
 "reference_id": 203101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की वाचाएँ",
 "media_type": "Text",
 "index_reference": "परमेश्वर की वाचाएँ",
@@ -5072,7 +5096,7 @@
 {
 "content_id": "709491",
 "reference_id": 203262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की सच्चाई की तस्वीर के रूप में मन्दिर की बनावट",
 "media_type": "Text",
 "index_reference": "परमेश्वर की सच्चाई की तस्वीर के रूप में मन्दिर की बनावट",
@@ -5185,7 +5209,7 @@
 {
 "content_id": "709568",
 "reference_id": 203339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर की सम्प्रभुता",
 "media_type": "Text",
 "index_reference": "परमेश्वर की सम्प्रभुता",
@@ -5502,7 +5526,7 @@
 {
 "content_id": "709537",
 "reference_id": 203308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के आत्मा का आगमन",
 "media_type": "Text",
 "index_reference": "परमेश्वर के आत्मा का आगमन",
@@ -5657,7 +5681,7 @@
 {
 "content_id": "709459",
 "reference_id": 203230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के उपहारों का आनन्द लेना",
 "media_type": "Text",
 "index_reference": "परमेश्वर के उपहारों का आनन्द लेना",
@@ -5818,7 +5842,7 @@
 {
 "content_id": "709349",
 "reference_id": 203120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के निर्देश",
 "media_type": "Text",
 "index_reference": "परमेश्वर के निर्देश",
@@ -5973,7 +5997,7 @@
 {
 "content_id": "709383",
 "reference_id": 203154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के मन का बदलाव",
 "media_type": "Text",
 "index_reference": "परमेश्वर के मन का बदलाव",
@@ -6116,7 +6140,7 @@
 {
 "content_id": "709522",
 "reference_id": 203293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के राज्य का आगमन",
 "media_type": "Text",
 "index_reference": "परमेश्वर के राज्य का आगमन",
@@ -6445,7 +6469,7 @@
 {
 "content_id": "709379",
 "reference_id": 203150,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के लिए मन्नत",
 "media_type": "Text",
 "index_reference": "परमेश्वर के लिए मन्नत",
@@ -6618,7 +6642,7 @@
 {
 "content_id": "709374",
 "reference_id": 203145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के लोगों का उत्पीड़न",
 "media_type": "Text",
 "index_reference": "परमेश्वर के लोगों का उत्पीड़न",
@@ -6761,7 +6785,7 @@
 {
 "content_id": "709610",
 "reference_id": 203381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के लोगों की पवित्रता",
 "media_type": "Text",
 "index_reference": "परमेश्वर के लोगों की पवित्रता",
@@ -6874,7 +6898,7 @@
 {
 "content_id": "709603",
 "reference_id": 203374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के सब्त का विश्राम",
 "media_type": "Text",
 "index_reference": "परमेश्वर के सब्त का विश्राम",
@@ -7125,7 +7149,7 @@
 {
 "content_id": "709498",
 "reference_id": 203269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर को जानना",
 "media_type": "Text",
 "index_reference": "परमेश्वर को जानना",
@@ -7298,7 +7322,7 @@
 {
 "content_id": "709416",
 "reference_id": 203187,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर प्रार्थना के माध्यम से कार्य करते हैं",
 "media_type": "Text",
 "index_reference": "परमेश्वर प्रार्थना के माध्यम से कार्य करते हैं",
@@ -7585,7 +7609,7 @@
 {
 "content_id": "709390",
 "reference_id": 203161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर या शैतान?",
 "media_type": "Text",
 "index_reference": "परमेश्वर या शैतान",
@@ -7716,7 +7740,7 @@
 {
 "content_id": "709354",
 "reference_id": 203125,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परिवार, समाज, और यौन पाप",
 "media_type": "Text",
 "index_reference": "परिवार समाज और यौन पाप",
@@ -7841,7 +7865,7 @@
 {
 "content_id": "709574",
 "reference_id": 203345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र आत्मा का कार्य",
 "media_type": "Text",
 "index_reference": "पवित्र आत्मा का कार्य",
@@ -8192,9 +8216,9 @@
 {
 "id": "deity:HolySpirit",
 "type": "deity",
-"preferred_label": "पवित्र आत्मा",
-"confidence": 0.6242,
-"match_method": "scored"
+"confidence": 0.5972,
+"match_method": "scored",
+"preferred_label": "पवित्र आत्मा"
 }
 ]
 }
@@ -8202,7 +8226,7 @@
 {
 "content_id": "709551",
 "reference_id": 203322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र आत्मा की उपस्थिति",
 "media_type": "Text",
 "index_reference": "पवित्र आत्मा की उपस्थिति",
@@ -8501,7 +8525,7 @@
 {
 "content_id": "709369",
 "reference_id": 203140,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र युद्ध",
 "media_type": "Text",
 "index_reference": "पवित्र युद्ध",
@@ -8716,7 +8740,7 @@
 {
 "content_id": "709409",
 "reference_id": 203180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र योद्धा के रूप में परमेश्वर",
 "media_type": "Text",
 "index_reference": "पवित्र योद्धा के रूप में परमेश्वर",
@@ -8871,7 +8895,7 @@
 {
 "content_id": "709413",
 "reference_id": 203184,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्रता और पहचान",
 "media_type": "Text",
 "index_reference": "पवित्रता और पहचान",
@@ -9038,7 +9062,7 @@
 {
 "content_id": "709571",
 "reference_id": 203342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्रता और लैंगिक शुद्धता",
 "media_type": "Text",
 "index_reference": "पवित्रता और लैंगिक शुद्धता",
@@ -9241,7 +9265,7 @@
 {
 "content_id": "709410",
 "reference_id": 203181,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्रता का उल्लंघन",
 "media_type": "Text",
 "index_reference": "पवित्रता का उल्लंघन",
@@ -9360,7 +9384,7 @@
 {
 "content_id": "709536",
 "reference_id": 203307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्रशास्त्र की पराकाष्ठा",
 "media_type": "Text",
 "index_reference": "पवित्रशास्त्र की पराकाष्ठा",
@@ -9461,7 +9485,7 @@
 {
 "content_id": "709398",
 "reference_id": 203169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पहला राजाओं में भविष्यद्वक्ता",
 "media_type": "Text",
 "index_reference": "पहला राजाओं में भविष्यद्वक्ता",
@@ -9622,7 +9646,7 @@
 {
 "content_id": "709399",
 "reference_id": 203170,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पाप के खतरे",
 "media_type": "Text",
 "index_reference": "पाप के खतरे",
@@ -10143,7 +10167,7 @@
 {
 "content_id": "709361",
 "reference_id": 203132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पीतल का साँप",
 "media_type": "Text",
 "index_reference": "पीतल का साँप",
@@ -10244,7 +10268,7 @@
 {
 "content_id": "709601",
 "reference_id": 203372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पुत्र की श्रेष्ठता",
 "media_type": "Text",
 "index_reference": "पुत्र की श्रेष्ठता",
@@ -10429,7 +10453,7 @@
 {
 "content_id": "709566",
 "reference_id": 203337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पुराना और नया राज",
 "media_type": "Text",
 "index_reference": "पुराना और नया राज",
@@ -10680,7 +10704,7 @@
 {
 "content_id": "709586",
 "reference_id": 203357,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पुराना जीवन और नया जीवन",
 "media_type": "Text",
 "index_reference": "पुराना जीवन और नया जीवन",
@@ -10763,7 +10787,7 @@
 {
 "content_id": "709497",
 "reference_id": 203268,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पुराने नियम में पुनरुत्थान",
 "media_type": "Text",
 "index_reference": "पुराने नियम में पुनरुत्थान",
@@ -10882,7 +10906,7 @@
 {
 "content_id": "709422",
 "reference_id": 203193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पूरीम",
 "media_type": "Text",
 "index_reference": "पूरीम",
@@ -11001,7 +11025,7 @@
 {
 "content_id": "709582",
 "reference_id": 203353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पौलुस की भूमिका  एक प्रेरित",
 "media_type": "Text",
 "index_reference": "पौलुस की भूमिका  एक प्रेरित",

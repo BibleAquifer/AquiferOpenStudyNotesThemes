@@ -2,7 +2,7 @@
 {
 "content_id": "800560",
 "reference_id": 203391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A adoração de anjos",
 "media_type": "Text",
 "index_reference": "a adoração de anjos",
@@ -67,7 +67,7 @@
 {
 "content_id": "800271",
 "reference_id": 203102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A aliança de Deus com Abraão",
 "media_type": "Text",
 "index_reference": "a aliança de deus com abraão",
@@ -336,7 +336,7 @@
 {
 "content_id": "800332",
 "reference_id": 203163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A aliança de Deus com os reis de Israel",
 "media_type": "Text",
 "index_reference": "a aliança de deus com os reis de israel",
@@ -587,7 +587,7 @@
 {
 "content_id": "800320",
 "reference_id": 203151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A arca da aliança",
 "media_type": "Text",
 "index_reference": "a arca da aliança",
@@ -742,13 +742,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.7027,
+"match_method": "scored",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.6986,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
+}
+]
 }
 },
 {
 "content_id": "800297",
 "reference_id": 203128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A bênção sacerdotal",
 "media_type": "Text",
 "index_reference": "a bênção sacerdotal",
@@ -995,7 +1010,7 @@
 {
 "content_id": "800360",
 "reference_id": 203191,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A confiança de Neemias em Deus",
 "media_type": "Text",
 "index_reference": "a confiança de neemias em deus",
@@ -1240,7 +1255,7 @@
 {
 "content_id": "800263",
 "reference_id": 203094,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A criação",
 "media_type": "Text",
 "index_reference": "a criação",
@@ -1389,7 +1404,7 @@
 {
 "content_id": "800488",
 "reference_id": 203319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A cruz e a Páscoa",
 "media_type": "Text",
 "index_reference": "a cruz e a páscoa",
@@ -1586,7 +1601,7 @@
 {
 "content_id": "800419",
 "reference_id": 203250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A escolha da vida ou da morte",
 "media_type": "Text",
 "index_reference": "a escolha da vida ou da morte",
@@ -1765,7 +1780,7 @@
 {
 "content_id": "800336",
 "reference_id": 203167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A fidelidade de Deus para com o seu povo",
 "media_type": "Text",
 "index_reference": "a fidelidade de deus para com o seu povo",
@@ -2100,7 +2115,7 @@
 {
 "content_id": "800433",
 "reference_id": 203264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A geografia de Israel como teologia",
 "media_type": "Text",
 "index_reference": "a geografia de israel como teologia",
@@ -2153,7 +2168,7 @@
 {
 "content_id": "800284",
 "reference_id": 203115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A glória de Deus",
 "media_type": "Text",
 "index_reference": "a glória de deus",
@@ -2416,13 +2431,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.5711,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
+]
 }
 },
 {
 "content_id": "800424",
 "reference_id": 203255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A glória de Deus junto ao seu povo",
 "media_type": "Text",
 "index_reference": "a glória de deus junto ao seu povo",
@@ -2619,7 +2642,7 @@
 {
 "content_id": "800501",
 "reference_id": 203332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A graça de Deus",
 "media_type": "Text",
 "index_reference": "a graça de deus",
@@ -2930,7 +2953,7 @@
 {
 "content_id": "800281",
 "reference_id": 203112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A história do Êxodo",
 "media_type": "Text",
 "index_reference": "a história do êxodo",
@@ -2971,7 +2994,7 @@
 {
 "content_id": "800525",
 "reference_id": 203356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A Igreja",
 "media_type": "Text",
 "index_reference": "a igreja",
@@ -3320,11 +3343,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "igreja",
-"confidence": 0.5936,
-"match_method": "scored"
+"id": "group:GenericChurch",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "The Church"
 }
 ]
 }
@@ -3332,7 +3355,7 @@
 {
 "content_id": "800520",
 "reference_id": 203351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A Igreja como templo de Deus",
 "media_type": "Text",
 "index_reference": "a igreja como templo de deus",
@@ -3583,7 +3606,7 @@
 {
 "content_id": "800515",
 "reference_id": 203346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A Igreja como um corpo vivo e ativo",
 "media_type": "Text",
 "index_reference": "a igreja como um corpo vivo e ativo",
@@ -3696,7 +3719,7 @@
 {
 "content_id": "800368",
 "reference_id": 203199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A inocência de Jó",
 "media_type": "Text",
 "index_reference": "a inocência de jó",
@@ -3971,7 +3994,7 @@
 {
 "content_id": "800381",
 "reference_id": 203212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A ira de Deus",
 "media_type": "Text",
 "index_reference": "a ira de deus",
@@ -4282,7 +4305,7 @@
 {
 "content_id": "800524",
 "reference_id": 203355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A lei e o Espírito",
 "media_type": "Text",
 "index_reference": "a lei e o espírito",
@@ -4407,7 +4430,7 @@
 {
 "content_id": "800519",
 "reference_id": 203350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A mensagem da reconciliação",
 "media_type": "Text",
 "index_reference": "a mensagem da reconciliação",
@@ -4556,7 +4579,7 @@
 {
 "content_id": "800498",
 "reference_id": 203329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A mensagem das boas-novas",
 "media_type": "Text",
 "index_reference": "a mensagem das boasnovas",
@@ -4885,7 +4908,7 @@
 {
 "content_id": "800468",
 "reference_id": 203299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A noite final de Jesus",
 "media_type": "Text",
 "index_reference": "a noite final de jesus",
@@ -5004,7 +5027,7 @@
 {
 "content_id": "800422",
 "reference_id": 203253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A nova aliança",
 "media_type": "Text",
 "index_reference": "a nova aliança",
@@ -5177,7 +5200,7 @@
 {
 "content_id": "800551",
 "reference_id": 203382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A nova comunidade",
 "media_type": "Text",
 "index_reference": "a nova comunidade",
@@ -5320,7 +5343,7 @@
 {
 "content_id": "800412",
 "reference_id": 203243,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A nova ordem",
 "media_type": "Text",
 "index_reference": "a nova ordem",
@@ -5505,7 +5528,7 @@
 {
 "content_id": "800302",
 "reference_id": 203133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A nuvem e o fogo",
 "media_type": "Text",
 "index_reference": "a nuvem e o fogo",
@@ -5834,7 +5857,7 @@
 {
 "content_id": "800478",
 "reference_id": 203309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A Palavra",
 "media_type": "Text",
 "index_reference": "a palavra",
@@ -5911,7 +5934,7 @@
 {
 "content_id": "800359",
 "reference_id": 203190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A palavra de Deus no centro",
 "media_type": "Text",
 "index_reference": "a palavra de deus no centro",
@@ -6096,7 +6119,7 @@
 {
 "content_id": "800423",
 "reference_id": 203254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A palavra escrita",
 "media_type": "Text",
 "index_reference": "a palavra escrita",
@@ -6365,7 +6388,7 @@
 {
 "content_id": "800286",
 "reference_id": 203117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A Páscoa",
 "media_type": "Text",
 "index_reference": "a páscoa",
@@ -6478,13 +6501,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.5928,
+"match_method": "scored",
+"preferred_label": "passover"
+}
+]
 }
 },
 {
 "content_id": "800459",
 "reference_id": 203290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A pedra que os construtores rejeitaram",
 "media_type": "Text",
 "index_reference": "a pedra que os construtores rejeitaram",
@@ -6885,7 +6916,7 @@
 {
 "content_id": "800375",
 "reference_id": 203206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A presença de Deus nos Salmos",
 "media_type": "Text",
 "index_reference": "a presença de deus nos salmos",
@@ -7136,7 +7167,7 @@
 {
 "content_id": "800324",
 "reference_id": 203155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A presença do Espírito",
 "media_type": "Text",
 "index_reference": "a presença do espírito",
@@ -7375,7 +7406,7 @@
 {
 "content_id": "800491",
 "reference_id": 203322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A presença do Espírito Santo",
 "media_type": "Text",
 "index_reference": "a presença do espírito santo",
@@ -7674,7 +7705,7 @@
 {
 "content_id": "800342",
 "reference_id": 203173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A promessa da dinastia",
 "media_type": "Text",
 "index_reference": "a promessa da dinastia",
@@ -7787,7 +7818,7 @@
 {
 "content_id": "800429",
 "reference_id": 203260,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A promessa de nova vida",
 "media_type": "Text",
 "index_reference": "a promessa de nova vida",
@@ -7930,7 +7961,7 @@
 {
 "content_id": "800410",
 "reference_id": 203241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A promessa de um segundo Êxodo",
 "media_type": "Text",
 "index_reference": "a promessa de um segundo êxodo",
@@ -8127,7 +8158,7 @@
 {
 "content_id": "800382",
 "reference_id": 203213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A razão do exílio",
 "media_type": "Text",
 "index_reference": "a razão do exílio",
@@ -8354,7 +8385,7 @@
 {
 "content_id": "800461",
 "reference_id": 203292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A ressurreição de Jesus",
 "media_type": "Text",
 "index_reference": "a ressurreição de jesus",
@@ -8755,13 +8786,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.5809,
+"match_method": "scored",
+"preferred_label": "levantamento"
+}
+]
 }
 },
 {
 "content_id": "800517",
 "reference_id": 203348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A ressurreição dos mortos",
 "media_type": "Text",
 "index_reference": "a ressurreição dos mortos",
@@ -9066,7 +9105,7 @@
 {
 "content_id": "800333",
 "reference_id": 203164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A sabedoria de Salomão",
 "media_type": "Text",
 "index_reference": "a sabedoria de salomão",
@@ -9281,7 +9320,7 @@
 {
 "content_id": "800550",
 "reference_id": 203381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A santidade do povo de Deus",
 "media_type": "Text",
 "index_reference": "a santidade do povo de deus",
@@ -9394,7 +9433,7 @@
 {
 "content_id": "800301",
 "reference_id": 203132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A serpente de bronze",
 "media_type": "Text",
 "index_reference": "a serpente de bronze",
@@ -9495,7 +9534,7 @@
 {
 "content_id": "800416",
 "reference_id": 203247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A singularidade de Deus",
 "media_type": "Text",
 "index_reference": "a singularidade de deus",
@@ -9614,7 +9653,7 @@
 {
 "content_id": "800508",
 "reference_id": 203339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A soberania de Deus",
 "media_type": "Text",
 "index_reference": "a soberania de deus",
@@ -9931,7 +9970,7 @@
 {
 "content_id": "800541",
 "reference_id": 203372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A superioridade do Filho",
 "media_type": "Text",
 "index_reference": "a superioridade do filho",
@@ -10116,7 +10155,7 @@
 {
 "content_id": "800335",
 "reference_id": 203166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A terra",
 "media_type": "Text",
 "index_reference": "a terra",
@@ -10343,7 +10382,7 @@
 {
 "content_id": "800316",
 "reference_id": 203147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A tristeza de Deus sobre a apostasia",
 "media_type": "Text",
 "index_reference": "a tristeza de deus sobre a apostasia",
@@ -10456,7 +10495,7 @@
 {
 "content_id": "800526",
 "reference_id": 203357,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A vida antiga e a vida nova",
 "media_type": "Text",
 "index_reference": "a vida antiga e a vida nova",
@@ -10539,7 +10578,7 @@
 {
 "content_id": "800477",
 "reference_id": 203308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A vinda do Espírito de Deus",
 "media_type": "Text",
 "index_reference": "a vinda do espírito de deus",
@@ -10694,7 +10733,7 @@
 {
 "content_id": "800462",
 "reference_id": 203293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A vinda do reino de Deus",
 "media_type": "Text",
 "index_reference": "a vinda do reino de deus",
@@ -11023,7 +11062,7 @@
 {
 "content_id": "800549",
 "reference_id": 203380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A vinda do Senhor como juiz",
 "media_type": "Text",
 "index_reference": "a vinda do senhor como juiz",
@@ -11268,7 +11307,7 @@
 {
 "content_id": "800440",
 "reference_id": 203271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adoração em Jerusalém",
 "media_type": "Text",
 "index_reference": "adoração em jerusalém",
@@ -11417,7 +11456,7 @@
 {
 "content_id": "800343",
 "reference_id": 203174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adoração no templo",
 "media_type": "Text",
 "index_reference": "adoração no templo",
@@ -11608,7 +11647,7 @@
 {
 "content_id": "800334",
 "reference_id": 203165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adoração pura",
 "media_type": "Text",
 "index_reference": "adoração pura",
@@ -11973,7 +12012,7 @@
 {
 "content_id": "800481",
 "reference_id": 203312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Água viva",
 "media_type": "Text",
 "index_reference": "água viva",
@@ -12062,7 +12101,7 @@
 {
 "content_id": "800530",
 "reference_id": 203361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Alegria cristã",
 "media_type": "Text",
 "index_reference": "alegria cristã",
@@ -12139,7 +12178,7 @@
 {
 "content_id": "800329",
 "reference_id": 203160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aliança de Deus com Davi",
 "media_type": "Text",
 "index_reference": "aliança de deus com davi",
@@ -12480,7 +12519,7 @@
 {
 "content_id": "800268",
 "reference_id": 203099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aliança de Deus com Noé",
 "media_type": "Text",
 "index_reference": "aliança de deus com noé",
@@ -12605,7 +12644,7 @@
 {
 "content_id": "800270",
 "reference_id": 203101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Alianças de Deus",
 "media_type": "Text",
 "index_reference": "alianças de deus",
@@ -12912,7 +12951,7 @@
 {
 "content_id": "800273",
 "reference_id": 203104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Altares",
 "media_type": "Text",
 "index_reference": "altares",
@@ -13109,13 +13148,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.669,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+}
+]
 }
 },
 {
 "content_id": "800516",
 "reference_id": 203347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amando os outros",
 "media_type": "Text",
 "index_reference": "amando os outros",
@@ -13300,7 +13347,7 @@
 {
 "content_id": "800548",
 "reference_id": 203379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amor na comunidade de Cristo",
 "media_type": "Text",
 "index_reference": "amor na comunidade de cristo",
@@ -13461,7 +13508,7 @@
 {
 "content_id": "800503",
 "reference_id": 203334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anjos",
 "media_type": "Text",
 "index_reference": "anjos",
@@ -14042,13 +14089,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.6023,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
+]
 }
 },
 {
 "content_id": "800450",
 "reference_id": 203281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antepassados de Jesus",
 "media_type": "Text",
 "index_reference": "antepassados de jesus",
@@ -14101,7 +14156,7 @@
 {
 "content_id": "800542",
 "reference_id": 203373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apostasia",
 "media_type": "Text",
 "index_reference": "apostasia",
@@ -14268,7 +14323,7 @@
 {
 "content_id": "800351",
 "reference_id": 203182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apostasia e renovação",
 "media_type": "Text",
 "index_reference": "apostasia e renovação",
@@ -14435,7 +14490,7 @@
 {
 "content_id": "800399",
 "reference_id": 203230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apreciando os presentes de Deus",
 "media_type": "Text",
 "index_reference": "apreciando os presentes de deus",
@@ -14596,7 +14651,7 @@
 {
 "content_id": "800451",
 "reference_id": 203282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "As bênçãos de Jesus",
 "media_type": "Text",
 "index_reference": "as bênçãos de jesus",
@@ -14727,7 +14782,7 @@
 {
 "content_id": "800310",
 "reference_id": 203141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "As cidades de refúgio",
 "media_type": "Text",
 "index_reference": "as cidades de refúgio",
@@ -14852,7 +14907,7 @@
 {
 "content_id": "800507",
 "reference_id": 203338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "As limitações da lei",
 "media_type": "Text",
 "index_reference": "as limitações da lei",
@@ -15139,7 +15194,7 @@
 {
 "content_id": "800285",
 "reference_id": 203116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "As pragas",
 "media_type": "Text",
 "index_reference": "as pragas",
@@ -15330,7 +15385,7 @@
 {
 "content_id": "800533",
 "reference_id": 203364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "As últimas coisas e os tessalonicenses",
 "media_type": "Text",
 "index_reference": "as últimas coisas e os tessalonicenses",
@@ -15407,7 +15462,7 @@
 {
 "content_id": "800490",
 "reference_id": 203321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ascensão de Jesus",
 "media_type": "Text",
 "index_reference": "ascensão de jesus",
@@ -15616,7 +15671,7 @@
 {
 "content_id": "800391",
 "reference_id": 203222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Atos de fala",
 "media_type": "Text",
 "index_reference": "atos de fala",
@@ -15807,7 +15862,7 @@
 {
 "content_id": "800425",
 "reference_id": 203256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Atos simbólicos proféticos",
 "media_type": "Text",
 "index_reference": "atos simbólicos proféticos",

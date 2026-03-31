@@ -2,7 +2,7 @@
 {
 "content_id": "700329",
 "reference_id": 203266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "小角",
 "media_type": "Text",
 "index_reference": "小角",
@@ -193,7 +193,7 @@
 {
 "content_id": "700346",
 "reference_id": 203283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "小信",
 "media_type": "Text",
 "index_reference": "小信",
@@ -276,7 +276,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.5655,
+"match_method": "scored",
+"preferred_label": "Having Little Faith"
+}
+]
 }
 }
 ]

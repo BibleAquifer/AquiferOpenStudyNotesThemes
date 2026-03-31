@@ -2,7 +2,7 @@
 {
 "content_id": "500157",
 "reference_id": 203100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babel: The Dispersion of Nations",
 "media_type": "Text",
 "index_reference": "babel the dispersion of nations",
@@ -79,7 +79,7 @@
 {
 "content_id": "500380",
 "reference_id": 203323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baptism",
 "media_type": "Text",
 "index_reference": "baptism",
@@ -490,9 +490,9 @@
 {
 "id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "Baptism",
 "confidence": 0.8116,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Baptism"
 }
 ]
 }
@@ -500,7 +500,7 @@
 {
 "content_id": "500302",
 "reference_id": 203245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Basic Laws",
 "media_type": "Text",
 "index_reference": "basic laws",
@@ -661,7 +661,7 @@
 {
 "content_id": "500289",
 "reference_id": 203232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Beauty in Nature",
 "media_type": "Text",
 "index_reference": "beauty in nature",
@@ -768,7 +768,7 @@
 {
 "content_id": "500368",
 "reference_id": 203311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "“Belief” in the Gospel of John",
 "media_type": "Text",
 "index_reference": "belief in the gospel of john",
@@ -969,9 +969,9 @@
 {
 "id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "Believe",
 "confidence": 0.5613,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Believe"
 }
 ]
 }
@@ -979,7 +979,7 @@
 {
 "content_id": "500400",
 "reference_id": 203343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Belonging to Christ",
 "media_type": "Text",
 "index_reference": "belonging to christ",
@@ -1122,7 +1122,7 @@
 {
 "content_id": "500191",
 "reference_id": 203134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Biblical Law",
 "media_type": "Text",
 "index_reference": "biblical law",
@@ -1313,7 +1313,7 @@
 {
 "content_id": "500153",
 "reference_id": 203096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Biblical Marriage",
 "media_type": "Text",
 "index_reference": "biblical marriage",
@@ -1486,7 +1486,7 @@
 {
 "content_id": "500358",
 "reference_id": 203301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Birth of Christ",
 "media_type": "Text",
 "index_reference": "birth of christ",
@@ -1521,7 +1521,7 @@
 {
 "content_id": "500163",
 "reference_id": 203106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Blessing",
 "media_type": "Text",
 "index_reference": "blessing",
@@ -1832,7 +1832,7 @@
 {
 "content_id": "500339",
 "reference_id": 203282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Blessings of Jesus",
 "media_type": "Text",
 "index_reference": "blessings of jesus",
@@ -1963,7 +1963,7 @@
 {
 "content_id": "500186",
 "reference_id": 203129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bread from Heaven",
 "media_type": "Text",
 "index_reference": "bread from heaven",
@@ -2100,7 +2100,7 @@
 {
 "content_id": "500282",
 "reference_id": 203225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bribery and Gifts",
 "media_type": "Text",
 "index_reference": "bribery and gifts",
@@ -2231,7 +2231,7 @@
 {
 "content_id": "500301",
 "reference_id": 203244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Broken Covenant",
 "media_type": "Text",
 "index_reference": "broken covenant",
@@ -2362,7 +2362,7 @@
 {
 "content_id": "500189",
 "reference_id": 203132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Bronze Snake",
 "media_type": "Text",
 "index_reference": "bronze snake",
@@ -2463,7 +2463,7 @@
 {
 "content_id": "500435",
 "reference_id": 203378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "By Faith",
 "media_type": "Text",
 "index_reference": "by faith",
@@ -2640,9 +2640,9 @@
 {
 "id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "Believe",
 "confidence": 0.5984,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Believe"
 }
 ]
 }

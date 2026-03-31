@@ -2,7 +2,7 @@
 {
 "content_id": "700171",
 "reference_id": 203108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "應許之地",
 "media_type": "Text",
 "index_reference": "應許之地",
@@ -145,7 +145,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.6051,
+"match_method": "scored",
+"preferred_label": "Canaan"
+}
+]
 }
 }
 ]

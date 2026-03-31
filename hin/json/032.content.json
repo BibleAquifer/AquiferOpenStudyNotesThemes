@@ -2,7 +2,7 @@
 {
 "content_id": "709370",
 "reference_id": 203141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शरणनगर",
 "media_type": "Text",
 "index_reference": "शरणनगर",
@@ -127,7 +127,7 @@
 {
 "content_id": "709430",
 "reference_id": 203201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शाही भजन",
 "media_type": "Text",
 "index_reference": "शाही भजन",
@@ -300,7 +300,7 @@
 {
 "content_id": "709351",
 "reference_id": 203122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शुद्ध, अशुद्ध और पवित्र",
 "media_type": "Text",
 "index_reference": "शुद्ध अशुद्ध और पवित्र",
@@ -479,7 +479,7 @@
 {
 "content_id": "709394",
 "reference_id": 203165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शुद्ध आराधना",
 "media_type": "Text",
 "index_reference": "शुद्ध आराधना",
@@ -844,7 +844,7 @@
 {
 "content_id": "709558",
 "reference_id": 203329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शुभ समाचार संदेश",
 "media_type": "Text",
 "index_reference": "शुभ समाचार संदेश",
@@ -1173,7 +1173,7 @@
 {
 "content_id": "709372",
 "reference_id": 203143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शेकेम",
 "media_type": "Text",
 "index_reference": "शेकेम",
@@ -1266,16 +1266,16 @@
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "शेकेम",
 "confidence": 0.674,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "शेकेम"
 },
 {
 "id": "person:Shechem",
 "type": "person",
-"preferred_label": "शेकेम",
 "confidence": 0.6301,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "शेकेम"
 }
 ]
 }
@@ -1283,7 +1283,7 @@
 {
 "content_id": "709587",
 "reference_id": 203358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शैतान पर विजय पाना",
 "media_type": "Text",
 "index_reference": "शैतान पर विजय पाना",

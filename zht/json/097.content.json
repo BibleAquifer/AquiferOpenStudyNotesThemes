@@ -2,7 +2,7 @@
 {
 "content_id": "700300",
 "reference_id": 203237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶和華的日子",
 "media_type": "Text",
 "index_reference": "耶和華的日子",
@@ -241,7 +241,7 @@
 {
 "content_id": "700225",
 "reference_id": 203162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶路撒冷",
 "media_type": "Text",
 "index_reference": "耶路撒冷",
@@ -572,13 +572,28 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
+}
+]
 }
 },
 {
 "content_id": "700367",
 "reference_id": 203304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的禱告",
 "media_type": "Text",
 "index_reference": "耶穌的禱告",
@@ -709,7 +724,7 @@
 {
 "content_id": "700355",
 "reference_id": 203292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的復活",
 "media_type": "Text",
 "index_reference": "耶穌的復活",
@@ -1110,13 +1125,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.5809,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
 "content_id": "700384",
 "reference_id": 203321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的升天",
 "media_type": "Text",
 "index_reference": "耶穌的升天",
@@ -1325,7 +1348,7 @@
 {
 "content_id": "700379",
 "reference_id": 203316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的「我是」宣告",
 "media_type": "Text",
 "index_reference": "耶穌的我是宣告",
@@ -1504,7 +1527,7 @@
 {
 "content_id": "700345",
 "reference_id": 203282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的祝福",
 "media_type": "Text",
 "index_reference": "耶穌的祝福",
@@ -1635,7 +1658,7 @@
 {
 "content_id": "700344",
 "reference_id": 203281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的祖先",
 "media_type": "Text",
 "index_reference": "耶穌的祖先",
@@ -1688,7 +1711,7 @@
 {
 "content_id": "700362",
 "reference_id": 203299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的最後一夜",
 "media_type": "Text",
 "index_reference": "耶穌的最後一夜",
@@ -1807,7 +1830,7 @@
 {
 "content_id": "700351",
 "reference_id": 203288,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌與撒但",
 "media_type": "Text",
 "index_reference": "耶穌與撒但",

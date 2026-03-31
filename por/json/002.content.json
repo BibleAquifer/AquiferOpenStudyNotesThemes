@@ -2,7 +2,7 @@
 {
 "content_id": "800269",
 "reference_id": 203100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babel: A dispersão das nações",
 "media_type": "Text",
 "index_reference": "babel a dispersão das nações",
@@ -79,7 +79,7 @@
 {
 "content_id": "800492",
 "reference_id": 203323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Batismo",
 "media_type": "Text",
 "index_reference": "batismo",
@@ -490,9 +490,9 @@
 {
 "id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "batismo",
-"confidence": 0.7486,
-"match_method": "scored"
+"confidence": 0.8116,
+"match_method": "scored",
+"preferred_label": "batismo"
 }
 ]
 }
@@ -500,7 +500,7 @@
 {
 "content_id": "800401",
 "reference_id": 203232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Beleza na natureza",
 "media_type": "Text",
 "index_reference": "beleza na natureza",
@@ -607,7 +607,7 @@
 {
 "content_id": "800275",
 "reference_id": 203106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bênção",
 "media_type": "Text",
 "index_reference": "bênção",
@@ -918,7 +918,7 @@
 {
 "content_id": "800341",
 "reference_id": 203172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Buscando o Senhor",
 "media_type": "Text",
 "index_reference": "buscando o senhor",

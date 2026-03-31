@@ -2,7 +2,7 @@
 {
 "content_id": "709442",
 "reference_id": 203213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बँधुआई का अर्थ समझना",
 "media_type": "Text",
 "index_reference": "बँधुआई का अर्थ समझना",
@@ -229,7 +229,7 @@
 {
 "content_id": "709465",
 "reference_id": 203236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बचे हुए लोग (अवशेष)",
 "media_type": "Text",
 "index_reference": "बचे हुए लोग अवशेष",
@@ -450,7 +450,7 @@
 {
 "content_id": "709455",
 "reference_id": 203226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बच्चे और माता-पिता",
 "media_type": "Text",
 "index_reference": "बच्चे और मातापिता",
@@ -689,7 +689,7 @@
 {
 "content_id": "709552",
 "reference_id": 203323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बपतिस्मा",
 "media_type": "Text",
 "index_reference": "बपतिस्मा",
@@ -1096,13 +1096,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.8116,
+"match_method": "scored",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
 "content_id": "709334",
 "reference_id": 203105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाँझपन",
 "media_type": "Text",
 "index_reference": "बाँझपन",
@@ -1347,7 +1355,7 @@
 {
 "content_id": "709325",
 "reference_id": 203096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाइबल आधारित विवाह",
 "media_type": "Text",
 "index_reference": "बाइबल आधारित विवाह",
@@ -1520,7 +1528,7 @@
 {
 "content_id": "709363",
 "reference_id": 203134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाइबल की व्यवस्था",
 "media_type": "Text",
 "index_reference": "बाइबल की व्यवस्था",
@@ -1711,7 +1719,7 @@
 {
 "content_id": "709504",
 "reference_id": 203275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाद के भविष्यद्वक्ताओं में आत्मिक नवीनीकरण",
 "media_type": "Text",
 "index_reference": "बाद के भविष्यद्वक्ताओं में आत्मिक नवीनीकरण",
@@ -1830,7 +1838,7 @@
 {
 "content_id": "709362",
 "reference_id": 203133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बादल और आग",
 "media_type": "Text",
 "index_reference": "बादल और आग",
@@ -2159,7 +2167,7 @@
 {
 "content_id": "709329",
 "reference_id": 203100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाबेल: राष्ट्रों का बिखराव",
 "media_type": "Text",
 "index_reference": "बाबेल राष्ट्रों का बिखराव",
@@ -2236,7 +2244,7 @@
 {
 "content_id": "709423",
 "reference_id": 203194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बुड़बुड़ाना",
 "media_type": "Text",
 "index_reference": "बुड़बुड़ाना",
@@ -2415,7 +2423,7 @@
 {
 "content_id": "709449",
 "reference_id": 203220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बुद्धि",
 "media_type": "Text",
 "index_reference": "बुद्धि",
@@ -2592,9 +2600,9 @@
 {
 "id": "person:Wisdom",
 "type": "person",
-"preferred_label": "Wisdom",
-"confidence": 0.8503,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
 }
 ]
 }
@@ -2602,7 +2610,7 @@
 {
 "content_id": "709436",
 "reference_id": 203207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बुद्धि के भजन संहिता",
 "media_type": "Text",
 "index_reference": "बुद्धि के भजन संहिता",
@@ -2919,7 +2927,7 @@
 {
 "content_id": "709453",
 "reference_id": 203224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बुद्धि साहित्य में धन और गरीबी",
 "media_type": "Text",
 "index_reference": "बुद्धि साहित्य में धन और गरीबी",
@@ -3110,7 +3118,7 @@
 {
 "content_id": "709365",
 "reference_id": 203136,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बुराई को दूर करो",
 "media_type": "Text",
 "index_reference": "बुराई को दूर करो",
@@ -3289,7 +3297,7 @@
 {
 "content_id": "709451",
 "reference_id": 203222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बोलना",
 "media_type": "Text",
 "index_reference": "बोलना",

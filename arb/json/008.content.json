@@ -2,7 +2,7 @@
 {
 "content_id": "702269",
 "reference_id": 203205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الراعي",
 "media_type": "Text",
 "index_reference": "الراعي",
@@ -295,13 +295,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.5911,
+"match_method": "scored",
+"preferred_label": "Flock"
+}
+]
 }
 },
 {
 "content_id": "702392",
 "reference_id": 203328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرؤى",
 "media_type": "Text",
 "index_reference": "الرؤى",
@@ -546,7 +554,7 @@
 {
 "content_id": "702316",
 "reference_id": 203252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرجاء بعد الدينونة",
 "media_type": "Text",
 "index_reference": "الرجاء بعد الدينونة",
@@ -701,7 +709,7 @@
 {
 "content_id": "702366",
 "reference_id": 203302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرجاء في المسيا",
 "media_type": "Text",
 "index_reference": "الرجاء في المسيا",
@@ -826,7 +834,7 @@
 {
 "content_id": "702289",
 "reference_id": 203225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرشوة والهدايا",
 "media_type": "Text",
 "index_reference": "الرشوة والهدايا",
@@ -957,7 +965,7 @@
 {
 "content_id": "702297",
 "reference_id": 203233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرياء الديني",
 "media_type": "Text",
 "index_reference": "الرياء الديني",
@@ -1130,7 +1138,7 @@
 {
 "content_id": "702438",
 "reference_id": 203374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "راحة سبت ٱلله",
 "media_type": "Text",
 "index_reference": "راحة سبت ٱلله",
@@ -1381,7 +1389,7 @@
 {
 "content_id": "702313",
 "reference_id": 203249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رب الأمم",
 "media_type": "Text",
 "index_reference": "رب الأمم",
@@ -1488,7 +1496,7 @@
 {
 "content_id": "702222",
 "reference_id": 203158,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ردّ فِعْل داود تجاه القادة العدائيين",
 "media_type": "Text",
 "index_reference": "ردّ فِعْل داود تجاه القادة العدائيين",
@@ -1697,7 +1705,7 @@
 {
 "content_id": "702449",
 "reference_id": 203385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رسائل إلى الكنائس السبع",
 "media_type": "Text",
 "index_reference": "رسائل إلى الكنائس السبع",
@@ -1726,7 +1734,7 @@
 {
 "content_id": "702323",
 "reference_id": 203259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رسائل ضد الأمم",
 "media_type": "Text",
 "index_reference": "رسائل ضد الأمم",
@@ -1863,7 +1871,7 @@
 {
 "content_id": "702393",
 "reference_id": 203329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رسالة الأخبار السارة",
 "media_type": "Text",
 "index_reference": "رسالة الأخبار السارة",
@@ -2192,7 +2200,7 @@
 {
 "content_id": "702414",
 "reference_id": 203350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رسالة المصالحة",
 "media_type": "Text",
 "index_reference": "رسالة المصالحة",
@@ -2341,7 +2349,7 @@
 {
 "content_id": "702247",
 "reference_id": 203183,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "روح الناموس",
 "media_type": "Text",
 "index_reference": "روح الناموس",

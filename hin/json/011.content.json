@@ -2,7 +2,7 @@
 {
 "content_id": "709556",
 "reference_id": 203327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "चमत्कार",
 "media_type": "Text",
 "index_reference": "चमत्कार",
@@ -337,7 +337,7 @@
 {
 "content_id": "709434",
 "reference_id": 203205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "चरवाहा",
 "media_type": "Text",
 "index_reference": "चरवाहा",
@@ -630,13 +630,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.5911,
+"match_method": "scored",
+"preferred_label": "Flock"
+}
+]
 }
 },
 {
 "content_id": "709494",
 "reference_id": 203265,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "चार विश्व साम्राज्य",
 "media_type": "Text",
 "index_reference": "चार विश्व साम्राज्य",

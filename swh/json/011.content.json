@@ -2,7 +2,7 @@
 {
 "content_id": "765015",
 "reference_id": 203158,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jibu la Daudi kwa Viongozi Wasio na Urafiki",
 "media_type": "Text",
 "index_reference": "jibu la daudi kwa viongozi wasio na urafiki",
@@ -211,7 +211,7 @@
 {
 "content_id": "765033",
 "reference_id": 203176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jina la Mungu kwenye Hekalu Lake",
 "media_type": "Text",
 "index_reference": "jina la mungu kwenye hekalu lake",
@@ -270,13 +270,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5688,
+"match_method": "scored",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
 "content_id": "765121",
 "reference_id": 203264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jiografia ya Israeli kama Theolojia",
 "media_type": "Text",
 "index_reference": "jiografia ya israeli kama theolojia",
@@ -329,7 +337,7 @@
 {
 "content_id": "765147",
 "reference_id": 203290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jiwe Walilolikataa Waashi",
 "media_type": "Text",
 "index_reference": "jiwe walilolikataa waashi",
@@ -730,7 +738,7 @@
 {
 "content_id": "765239",
 "reference_id": 203382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jumuiya Mpya",
 "media_type": "Text",
 "index_reference": "jumuiya mpya",

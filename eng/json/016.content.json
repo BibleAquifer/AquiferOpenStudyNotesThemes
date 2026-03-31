@@ -2,7 +2,7 @@
 {
 "content_id": "500426",
 "reference_id": 203369,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Passing On Authority and Responsibility to a New Leader",
 "media_type": "Text",
 "index_reference": "passing on authority and responsibility to a new leader",
@@ -181,7 +181,7 @@
 {
 "content_id": "500174",
 "reference_id": 203117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Passover",
 "media_type": "Text",
 "index_reference": "passover",
@@ -298,9 +298,9 @@
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"preferred_label": "Passover",
 "confidence": 0.5928,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Passover"
 }
 ]
 }
@@ -308,7 +308,7 @@
 {
 "content_id": "500410",
 "reference_id": 203353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paul’s Role as an Apostle",
 "media_type": "Text",
 "index_reference": "pauls role as an apostle",
@@ -541,7 +541,7 @@
 {
 "content_id": "500382",
 "reference_id": 203325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Persecution",
 "media_type": "Text",
 "index_reference": "persecution",
@@ -948,7 +948,7 @@
 {
 "content_id": "500173",
 "reference_id": 203116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Plagues",
 "media_type": "Text",
 "index_reference": "plagues",
@@ -1139,7 +1139,7 @@
 {
 "content_id": "500259",
 "reference_id": 203202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Poor and Needy in the Psalms",
 "media_type": "Text",
 "index_reference": "poor and needy in the psalms",
@@ -1444,7 +1444,7 @@
 {
 "content_id": "500357",
 "reference_id": 203300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Praise and Rejoicing in Luke–Acts",
 "media_type": "Text",
 "index_reference": "praise and rejoicing in lukeacts",
@@ -1635,7 +1635,7 @@
 {
 "content_id": "500273",
 "reference_id": 203216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Praise Psalms",
 "media_type": "Text",
 "index_reference": "praise psalms",
@@ -1778,7 +1778,7 @@
 {
 "content_id": "500274",
 "reference_id": 203217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prayers for Vengeance",
 "media_type": "Text",
 "index_reference": "prayers for vengeance",
@@ -2005,7 +2005,7 @@
 {
 "content_id": "500337",
 "reference_id": 203280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Preaching to a Tough Crowd",
 "media_type": "Text",
 "index_reference": "preaching to a tough crowd",
@@ -2160,7 +2160,7 @@
 {
 "content_id": "500285",
 "reference_id": 203228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pride and Humility",
 "media_type": "Text",
 "index_reference": "pride and humility",
@@ -2345,7 +2345,7 @@
 {
 "content_id": "500185",
 "reference_id": 203128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Priestly Blessing",
 "media_type": "Text",
 "index_reference": "priestly blessing",
@@ -2592,7 +2592,7 @@
 {
 "content_id": "500298",
 "reference_id": 203241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Promise of a Second Exodus",
 "media_type": "Text",
 "index_reference": "promise of a second exodus",
@@ -2789,7 +2789,7 @@
 {
 "content_id": "500230",
 "reference_id": 203173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Promise of Dynasty",
 "media_type": "Text",
 "index_reference": "promise of dynasty",
@@ -2902,7 +2902,7 @@
 {
 "content_id": "500317",
 "reference_id": 203260,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Promise of New Life",
 "media_type": "Text",
 "index_reference": "promise of new life",
@@ -3045,7 +3045,7 @@
 {
 "content_id": "500165",
 "reference_id": 203108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Promised Land",
 "media_type": "Text",
 "index_reference": "promised land",
@@ -3192,9 +3192,9 @@
 {
 "id": "place:Canaan",
 "type": "place",
-"preferred_label": "Canaan",
 "confidence": 0.6051,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Canaan"
 }
 ]
 }
@@ -3202,7 +3202,7 @@
 {
 "content_id": "500313",
 "reference_id": 203256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prophetic Sign Acts",
 "media_type": "Text",
 "index_reference": "prophetic sign acts",
@@ -3375,7 +3375,7 @@
 {
 "content_id": "500226",
 "reference_id": 203169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prophets in 1 Kings",
 "media_type": "Text",
 "index_reference": "prophets in 1 kings",
@@ -3536,7 +3536,7 @@
 {
 "content_id": "500261",
 "reference_id": 203204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Psalms of Suffering",
 "media_type": "Text",
 "index_reference": "psalms of suffering",
@@ -3691,7 +3691,7 @@
 {
 "content_id": "500222",
 "reference_id": 203165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pure Worship",
 "media_type": "Text",
 "index_reference": "pure worship",
@@ -4056,7 +4056,7 @@
 {
 "content_id": "500250",
 "reference_id": 203193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Purim",
 "media_type": "Text",
 "index_reference": "purim",
@@ -4175,7 +4175,7 @@
 {
 "content_id": "500241",
 "reference_id": 203184,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Purity and Identity",
 "media_type": "Text",
 "index_reference": "purity and identity",
@@ -4342,7 +4342,7 @@
 {
 "content_id": "500446",
 "reference_id": 203389,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Purpose of the Judgments",
 "media_type": "Text",
 "index_reference": "purpose of the judgments",
@@ -4635,7 +4635,7 @@
 {
 "content_id": "500170",
 "reference_id": 203113,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Purpose of the Sinai Covenant",
 "media_type": "Text",
 "index_reference": "purpose of the sinai covenant",

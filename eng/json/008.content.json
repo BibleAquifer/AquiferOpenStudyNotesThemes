@@ -2,7 +2,7 @@
 {
 "content_id": "500168",
 "reference_id": 203111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hardened Hearts",
 "media_type": "Text",
 "index_reference": "hardened hearts",
@@ -271,7 +271,7 @@
 {
 "content_id": "500422",
 "reference_id": 203365,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "“He Will Come”",
 "media_type": "Text",
 "index_reference": "he will come",
@@ -384,7 +384,7 @@
 {
 "content_id": "500275",
 "reference_id": 203218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Heart in the Psalms",
 "media_type": "Text",
 "index_reference": "heart in the psalms",
@@ -887,7 +887,7 @@
 {
 "content_id": "500399",
 "reference_id": 203342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holiness and Sexual Purity",
 "media_type": "Text",
 "index_reference": "holiness and sexual purity",
@@ -1090,7 +1090,7 @@
 {
 "content_id": "500180",
 "reference_id": 203123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holiness by Relationship",
 "media_type": "Text",
 "index_reference": "holiness by relationship",
@@ -1275,7 +1275,7 @@
 {
 "content_id": "500438",
 "reference_id": 203381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Holiness of God’s People",
 "media_type": "Text",
 "index_reference": "holiness of gods people",
@@ -1388,7 +1388,7 @@
 {
 "content_id": "500295",
 "reference_id": 203238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Holy One of Israel",
 "media_type": "Text",
 "index_reference": "holy one of israel",
@@ -1657,7 +1657,7 @@
 {
 "content_id": "500379",
 "reference_id": 203322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Holy Spirit’s Presence",
 "media_type": "Text",
 "index_reference": "holy spirits presence",
@@ -1956,7 +1956,7 @@
 {
 "content_id": "500402",
 "reference_id": 203345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Holy Spirit’s Work",
 "media_type": "Text",
 "index_reference": "holy spirits work",
@@ -2307,9 +2307,9 @@
 {
 "id": "deity:HolySpirit",
 "type": "deity",
-"preferred_label": "Holy Spirit",
 "confidence": 0.5972,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -2317,7 +2317,7 @@
 {
 "content_id": "500197",
 "reference_id": 203140,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holy War",
 "media_type": "Text",
 "index_reference": "holy war",
@@ -2532,7 +2532,7 @@
 {
 "content_id": "500309",
 "reference_id": 203252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hope Beyond Judgment",
 "media_type": "Text",
 "index_reference": "hope beyond judgment",
@@ -2687,7 +2687,7 @@
 {
 "content_id": "500359",
 "reference_id": 203302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hope for the Messiah",
 "media_type": "Text",
 "index_reference": "hope for the messiah",
@@ -2812,7 +2812,7 @@
 {
 "content_id": "500425",
 "reference_id": 203368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Household",
 "media_type": "Text",
 "index_reference": "household",
@@ -2913,7 +2913,7 @@
 {
 "content_id": "500331",
 "reference_id": 203274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Human Confusion and God’s Purpose",
 "media_type": "Text",
 "index_reference": "human confusion and gods purpose",
@@ -3062,7 +3062,7 @@
 {
 "content_id": "500152",
 "reference_id": 203095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Human Sexuality",
 "media_type": "Text",
 "index_reference": "human sexuality",

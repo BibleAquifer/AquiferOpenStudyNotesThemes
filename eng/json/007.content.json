@@ -2,7 +2,7 @@
 {
 "content_id": "500390",
 "reference_id": 203333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Gift of Prophecy",
 "media_type": "Text",
 "index_reference": "gift of prophecy",
@@ -295,7 +295,7 @@
 {
 "content_id": "500401",
 "reference_id": 203344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Giving up Rights",
 "media_type": "Text",
 "index_reference": "giving up rights",
@@ -474,7 +474,7 @@
 {
 "content_id": "500172",
 "reference_id": 203115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Glory of God",
 "media_type": "Text",
 "index_reference": "glory of god",
@@ -741,9 +741,9 @@
 {
 "id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Glory",
 "confidence": 0.5711,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Glory"
 }
 ]
 }
@@ -751,7 +751,7 @@
 {
 "content_id": "500237",
 "reference_id": 203180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God as Holy Warrior",
 "media_type": "Text",
 "index_reference": "god as holy warrior",
@@ -906,7 +906,7 @@
 {
 "content_id": "500218",
 "reference_id": 203161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God or Satan?",
 "media_type": "Text",
 "index_reference": "god or satan",
@@ -1037,7 +1037,7 @@
 {
 "content_id": "500305",
 "reference_id": 203248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God Protects His Servant",
 "media_type": "Text",
 "index_reference": "god protects his servant",
@@ -1264,7 +1264,7 @@
 {
 "content_id": "500244",
 "reference_id": 203187,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God Works through Prayer",
 "media_type": "Text",
 "index_reference": "god works through prayer",
@@ -1551,7 +1551,7 @@
 {
 "content_id": "500178",
 "reference_id": 203121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Absolute Holiness",
 "media_type": "Text",
 "index_reference": "gods absolute holiness",
@@ -1638,9 +1638,9 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 0.698,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -1648,7 +1648,7 @@
 {
 "content_id": "500269",
 "reference_id": 203212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Anger",
 "media_type": "Text",
 "index_reference": "gods anger",
@@ -1959,7 +1959,7 @@
 {
 "content_id": "500211",
 "reference_id": 203154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Change of Mind",
 "media_type": "Text",
 "index_reference": "gods change of mind",
@@ -2102,7 +2102,7 @@
 {
 "content_id": "500335",
 "reference_id": 203278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Commitment to His People",
 "media_type": "Text",
 "index_reference": "gods commitment to his people",
@@ -2227,7 +2227,7 @@
 {
 "content_id": "500196",
 "reference_id": 203139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Covenant Love",
 "media_type": "Text",
 "index_reference": "gods covenant love",
@@ -2364,7 +2364,7 @@
 {
 "content_id": "500159",
 "reference_id": 203102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Covenant with Abraham",
 "media_type": "Text",
 "index_reference": "gods covenant with abraham",
@@ -2633,7 +2633,7 @@
 {
 "content_id": "500217",
 "reference_id": 203160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Covenant with David",
 "media_type": "Text",
 "index_reference": "gods covenant with david",
@@ -2974,7 +2974,7 @@
 {
 "content_id": "500220",
 "reference_id": 203163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Covenant with Israel’s Kings",
 "media_type": "Text",
 "index_reference": "gods covenant with israels kings",
@@ -3225,7 +3225,7 @@
 {
 "content_id": "500156",
 "reference_id": 203099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Covenant with Noah",
 "media_type": "Text",
 "index_reference": "gods covenant with noah",
@@ -3350,7 +3350,7 @@
 {
 "content_id": "500158",
 "reference_id": 203101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Covenants",
 "media_type": "Text",
 "index_reference": "gods covenants",
@@ -3657,7 +3657,7 @@
 {
 "content_id": "500224",
 "reference_id": 203167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Faithfulness to His People",
 "media_type": "Text",
 "index_reference": "gods faithfulness to his people",
@@ -3992,7 +3992,7 @@
 {
 "content_id": "500312",
 "reference_id": 203255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Glory with His People",
 "media_type": "Text",
 "index_reference": "gods glory with his people",
@@ -4189,7 +4189,7 @@
 {
 "content_id": "500204",
 "reference_id": 203147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Grief over Apostasy",
 "media_type": "Text",
 "index_reference": "gods grief over apostasy",
@@ -4302,7 +4302,7 @@
 {
 "content_id": "500235",
 "reference_id": 203178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Inscrutable Purposes in History",
 "media_type": "Text",
 "index_reference": "gods inscrutable purposes in history",
@@ -4391,7 +4391,7 @@
 {
 "content_id": "500177",
 "reference_id": 203120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Instructions",
 "media_type": "Text",
 "index_reference": "gods instructions",
@@ -4546,7 +4546,7 @@
 {
 "content_id": "500228",
 "reference_id": 203171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Judgment of His People",
 "media_type": "Text",
 "index_reference": "gods judgment of his people",
@@ -4917,7 +4917,7 @@
 {
 "content_id": "500296",
 "reference_id": 203239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Justice",
 "media_type": "Text",
 "index_reference": "gods justice",
@@ -5408,7 +5408,7 @@
 {
 "content_id": "500336",
 "reference_id": 203279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Love for Israel",
 "media_type": "Text",
 "index_reference": "gods love for israel",
@@ -5557,7 +5557,7 @@
 {
 "content_id": "500233",
 "reference_id": 203176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Name on His Temple",
 "media_type": "Text",
 "index_reference": "gods name on his temple",
@@ -5620,9 +5620,9 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 0.5688,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -5630,7 +5630,7 @@
 {
 "content_id": "500406",
 "reference_id": 203349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s New Covenant",
 "media_type": "Text",
 "index_reference": "gods new covenant",
@@ -5851,7 +5851,7 @@
 {
 "content_id": "500234",
 "reference_id": 203177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Plan to Restore",
 "media_type": "Text",
 "index_reference": "gods plan to restore",
@@ -6006,7 +6006,7 @@
 {
 "content_id": "500263",
 "reference_id": 203206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Presence in the Psalms",
 "media_type": "Text",
 "index_reference": "gods presence in the psalms",
@@ -6257,7 +6257,7 @@
 {
 "content_id": "500232",
 "reference_id": 203175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Promised Kingdom",
 "media_type": "Text",
 "index_reference": "gods promised kingdom",
@@ -6466,7 +6466,7 @@
 {
 "content_id": "500329",
 "reference_id": 203272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God's Rule and Power Over All Nations",
 "media_type": "Text",
 "index_reference": "gods rule and power over all nations",
@@ -6693,7 +6693,7 @@
 {
 "content_id": "500431",
 "reference_id": 203374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Sabbath Rest",
 "media_type": "Text",
 "index_reference": "gods sabbath rest",
@@ -6944,7 +6944,7 @@
 {
 "content_id": "500297",
 "reference_id": 203240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Servant",
 "media_type": "Text",
 "index_reference": "gods servant",
@@ -7195,7 +7195,7 @@
 {
 "content_id": "500393",
 "reference_id": 203336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Unified Plan of Salvation",
 "media_type": "Text",
 "index_reference": "gods unified plan of salvation",
@@ -7386,7 +7386,7 @@
 {
 "content_id": "500304",
 "reference_id": 203247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Uniqueness",
 "media_type": "Text",
 "index_reference": "gods uniqueness",
@@ -7505,7 +7505,7 @@
 {
 "content_id": "500432",
 "reference_id": 203375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s Word",
 "media_type": "Text",
 "index_reference": "gods word",
@@ -7714,7 +7714,7 @@
 {
 "content_id": "500247",
 "reference_id": 203190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God's Word at the Center",
 "media_type": "Text",
 "index_reference": "gods word at the center",
@@ -7899,7 +7899,7 @@
 {
 "content_id": "500386",
 "reference_id": 203329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Good News Message",
 "media_type": "Text",
 "index_reference": "good news message",
@@ -8228,7 +8228,7 @@
 {
 "content_id": "500389",
 "reference_id": 203332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Grace of God",
 "media_type": "Text",
 "index_reference": "grace of god",
@@ -8539,7 +8539,7 @@
 {
 "content_id": "500381",
 "reference_id": 203324,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Growth of the Church",
 "media_type": "Text",
 "index_reference": "growth of the church",

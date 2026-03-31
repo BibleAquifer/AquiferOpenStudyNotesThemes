@@ -2,7 +2,7 @@
 {
 "content_id": "764974",
 "reference_id": 203117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pasaka",
 "media_type": "Text",
 "index_reference": "pasaka",
@@ -115,13 +115,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.5928,
+"match_method": "scored",
+"preferred_label": "Passover"
+}
+]
 }
 },
 {
 "content_id": "765123",
 "reference_id": 203266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pembe Ndogo",
 "media_type": "Text",
 "index_reference": "pembe ndogo",
@@ -312,7 +320,7 @@
 {
 "content_id": "765231",
 "reference_id": 203374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pumziko la sabato ya Mungu",
 "media_type": "Text",
 "index_reference": "pumziko la sabato ya mungu",
@@ -563,7 +571,7 @@
 {
 "content_id": "765050",
 "reference_id": 203193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Purimu",
 "media_type": "Text",
 "index_reference": "purimu",

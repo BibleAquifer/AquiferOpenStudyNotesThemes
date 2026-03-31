@@ -2,7 +2,7 @@
 {
 "content_id": "764957",
 "reference_id": 203100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babeli: Mgawanyiko wa Mataifa",
 "media_type": "Text",
 "index_reference": "babeli mgawanyiko wa mataifa",
@@ -79,7 +79,7 @@
 {
 "content_id": "764963",
 "reference_id": 203106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraka",
 "media_type": "Text",
 "index_reference": "baraka",
@@ -384,28 +384,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "person:Barak",
-"type": "person",
-"preferred_label": "Baraka",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:BeracahValley",
-"type": "place",
-"preferred_label": "Baraka",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "764985",
 "reference_id": 203128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraka ya Kikuhani",
 "media_type": "Text",
 "index_reference": "baraka ya kikuhani",
@@ -644,7 +629,7 @@
 {
 "content_id": "765139",
 "reference_id": 203282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraka za Yesu",
 "media_type": "Text",
 "index_reference": "baraka za yesu",
@@ -775,7 +760,7 @@
 {
 "content_id": "765242",
 "reference_id": 203385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barua kwa Makanisa Saba",
 "media_type": "Text",
 "index_reference": "barua kwa makanisa saba",
@@ -804,7 +789,7 @@
 {
 "content_id": "765106",
 "reference_id": 203249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bwana wa Mataifa",
 "media_type": "Text",
 "index_reference": "bwana wa mataifa",

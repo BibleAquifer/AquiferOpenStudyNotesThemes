@@ -2,7 +2,7 @@
 {
 "content_id": "500286",
 "reference_id": 203229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "All Is “Vapor”",
 "media_type": "Text",
 "index_reference": "all is vapor",
@@ -103,7 +103,7 @@
 {
 "content_id": "500161",
 "reference_id": 203104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Altars",
 "media_type": "Text",
 "index_reference": "altars",
@@ -304,9 +304,9 @@
 {
 "id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Stone Altar",
 "confidence": 0.669,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Stone Altar"
 }
 ]
 }
@@ -314,7 +314,7 @@
 {
 "content_id": "500338",
 "reference_id": 203281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ancestors of Jesus",
 "media_type": "Text",
 "index_reference": "ancestors of jesus",
@@ -367,7 +367,7 @@
 {
 "content_id": "500171",
 "reference_id": 203114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ancient Law Codes",
 "media_type": "Text",
 "index_reference": "ancient law codes",
@@ -478,7 +478,7 @@
 {
 "content_id": "500391",
 "reference_id": 203334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Angels",
 "media_type": "Text",
 "index_reference": "angels",
@@ -1063,9 +1063,9 @@
 {
 "id": "group:Angels",
 "type": "group",
-"preferred_label": "Angels",
 "confidence": 0.6023,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Angels"
 }
 ]
 }
@@ -1073,7 +1073,7 @@
 {
 "content_id": "500280",
 "reference_id": 203223,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anger",
 "media_type": "Text",
 "index_reference": "anger",
@@ -1330,7 +1330,7 @@
 {
 "content_id": "500447",
 "reference_id": 203390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Antichrist",
 "media_type": "Text",
 "index_reference": "antichrist",
@@ -1409,7 +1409,7 @@
 {
 "content_id": "500318",
 "reference_id": 203261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apocalyptic Literature",
 "media_type": "Text",
 "index_reference": "apocalyptic literature",
@@ -1456,7 +1456,7 @@
 {
 "content_id": "500430",
 "reference_id": 203373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apostasy",
 "media_type": "Text",
 "index_reference": "apostasy",
@@ -1623,7 +1623,7 @@
 {
 "content_id": "500239",
 "reference_id": 203182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apostasy and Renewal",
 "media_type": "Text",
 "index_reference": "apostasy and renewal",
@@ -1790,7 +1790,7 @@
 {
 "content_id": "500208",
 "reference_id": 203151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Ark of the Covenant",
 "media_type": "Text",
 "index_reference": "ark of the covenant",
@@ -1949,16 +1949,16 @@
 {
 "id": "realia:ArkOfTheCovenant",
 "type": "realia",
-"preferred_label": "Ark of the Covenant",
 "confidence": 0.7027,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ark of the Covenant"
 },
 {
 "id": "keyterm:CovenantBox",
 "type": "keyterm",
-"preferred_label": "Covenant Box",
 "confidence": 0.6986,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Covenant Box"
 }
 ]
 }
@@ -1966,7 +1966,7 @@
 {
 "content_id": "500378",
 "reference_id": 203321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Ascension of Jesus",
 "media_type": "Text",
 "index_reference": "ascension of jesus",
@@ -2175,7 +2175,7 @@
 {
 "content_id": "500181",
 "reference_id": 203124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Atonement",
 "media_type": "Text",
 "index_reference": "atonement",
@@ -2346,9 +2346,9 @@
 {
 "id": "keyterm:Atonement",
 "type": "keyterm",
-"preferred_label": "Atonement",
 "confidence": 0.6117,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Atonement"
 }
 ]
 }

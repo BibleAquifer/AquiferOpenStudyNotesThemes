@@ -2,7 +2,7 @@
 {
 "content_id": "800331",
 "reference_id": 203162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jerusalém",
 "media_type": "Text",
 "index_reference": "jerusalém",
@@ -337,9 +337,16 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Jerusalém",
 "confidence": 0.6758,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jerusalém"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -347,7 +354,7 @@
 {
 "content_id": "800457",
 "reference_id": 203288,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jesus e Satanás",
 "media_type": "Text",
 "index_reference": "jesus e satanás",
@@ -574,7 +581,7 @@
 {
 "content_id": "800509",
 "reference_id": 203340,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judeus e gentios (Não-judeus)",
 "media_type": "Text",
 "index_reference": "judeus e gentios nãojudeus",
@@ -843,7 +850,7 @@
 {
 "content_id": "800340",
 "reference_id": 203171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Julgamento de Deus sobre seu povo",
 "media_type": "Text",
 "index_reference": "julgamento de deus sobre seu povo",
@@ -1214,7 +1221,7 @@
 {
 "content_id": "800408",
 "reference_id": 203239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Justiça de Deus",
 "media_type": "Text",
 "index_reference": "justiça de deus",
@@ -1699,7 +1706,7 @@
 {
 "content_id": "800439",
 "reference_id": 203270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Justiça social",
 "media_type": "Text",
 "index_reference": "justiça social",
@@ -1944,7 +1951,7 @@
 {
 "content_id": "800306",
 "reference_id": 203137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Justiça verdadeira",
 "media_type": "Text",
 "index_reference": "justiça verdadeira",
@@ -2123,7 +2130,7 @@
 {
 "content_id": "800523",
 "reference_id": 203354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Justificação pela fé",
 "media_type": "Text",
 "index_reference": "justificação pela fé",

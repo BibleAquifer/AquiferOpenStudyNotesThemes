@@ -2,7 +2,7 @@
 {
 "content_id": "500213",
 "reference_id": 203156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Calling up the Dead",
 "media_type": "Text",
 "index_reference": "calling up the dead",
@@ -139,7 +139,7 @@
 {
 "content_id": "500214",
 "reference_id": 203157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Canaanite Religion",
 "media_type": "Text",
 "index_reference": "canaanite religion",
@@ -186,7 +186,7 @@
 {
 "content_id": "500216",
 "reference_id": 203159,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Celebration",
 "media_type": "Text",
 "index_reference": "celebration",
@@ -473,7 +473,7 @@
 {
 "content_id": "500192",
 "reference_id": 203135,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Central Sanctuary",
 "media_type": "Text",
 "index_reference": "central sanctuary",
@@ -658,7 +658,7 @@
 {
 "content_id": "500203",
 "reference_id": 203146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Charismatic Leadership",
 "media_type": "Text",
 "index_reference": "charismatic leadership",
@@ -867,7 +867,7 @@
 {
 "content_id": "500283",
 "reference_id": 203226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Children and Parents",
 "media_type": "Text",
 "index_reference": "children and parents",
@@ -1106,7 +1106,7 @@
 {
 "content_id": "500307",
 "reference_id": 203250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Choice of Life or Death",
 "media_type": "Text",
 "index_reference": "choice of life or death",
@@ -1285,7 +1285,7 @@
 {
 "content_id": "500417",
 "reference_id": 203360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Christ Hymn: Christ’s Divine Nature",
 "media_type": "Text",
 "index_reference": "christ hymn christs divine nature",
@@ -1470,7 +1470,7 @@
 {
 "content_id": "500409",
 "reference_id": 203352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Christian Giving",
 "media_type": "Text",
 "index_reference": "christian giving",
@@ -1733,7 +1733,7 @@
 {
 "content_id": "500418",
 "reference_id": 203361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Christian Joy",
 "media_type": "Text",
 "index_reference": "christian joy",
@@ -1810,7 +1810,7 @@
 {
 "content_id": "500440",
 "reference_id": 203383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Christian Suffering",
 "media_type": "Text",
 "index_reference": "christian suffering",
@@ -1977,7 +1977,7 @@
 {
 "content_id": "500413",
 "reference_id": 203356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Church",
 "media_type": "Text",
 "index_reference": "church",
@@ -2328,9 +2328,9 @@
 {
 "id": "group:GenericChurch",
 "type": "group",
-"preferred_label": "The Church",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "The Church"
 }
 ]
 }
@@ -2338,7 +2338,7 @@
 {
 "content_id": "500403",
 "reference_id": 203346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Church as a Living, Active Body",
 "media_type": "Text",
 "index_reference": "church as a living active body",
@@ -2451,7 +2451,7 @@
 {
 "content_id": "500408",
 "reference_id": 203351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Church as God’s Temple",
 "media_type": "Text",
 "index_reference": "church as gods temple",
@@ -2702,7 +2702,7 @@
 {
 "content_id": "500427",
 "reference_id": 203370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Church Leaders",
 "media_type": "Text",
 "index_reference": "church leaders",
@@ -2875,7 +2875,7 @@
 {
 "content_id": "500160",
 "reference_id": 203103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Circumcision",
 "media_type": "Text",
 "index_reference": "circumcision",
@@ -3172,9 +3172,9 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "Circumcision",
 "confidence": 0.6925,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Circumcision"
 }
 ]
 }
@@ -3182,7 +3182,7 @@
 {
 "content_id": "500387",
 "reference_id": 203330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Circumcision in the New Testament",
 "media_type": "Text",
 "index_reference": "circumcision in the new testament",
@@ -3433,7 +3433,7 @@
 {
 "content_id": "500198",
 "reference_id": 203141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Cities of Refuge",
 "media_type": "Text",
 "index_reference": "cities of refuge",
@@ -3558,7 +3558,7 @@
 {
 "content_id": "500341",
 "reference_id": 203284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Citizenship in the Kingdom",
 "media_type": "Text",
 "index_reference": "citizenship in the kingdom",
@@ -3665,7 +3665,7 @@
 {
 "content_id": "500179",
 "reference_id": 203122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Clean, Unclean, and Holy",
 "media_type": "Text",
 "index_reference": "clean unclean and holy",
@@ -3844,7 +3844,7 @@
 {
 "content_id": "500364",
 "reference_id": 203307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Climax of Scripture",
 "media_type": "Text",
 "index_reference": "climax of scripture",
@@ -3945,7 +3945,7 @@
 {
 "content_id": "500190",
 "reference_id": 203133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Cloud and Fire",
 "media_type": "Text",
 "index_reference": "cloud and fire",
@@ -4274,7 +4274,7 @@
 {
 "content_id": "500308",
 "reference_id": 203251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Collapse of Culture",
 "media_type": "Text",
 "index_reference": "collapse of culture",
@@ -4411,7 +4411,7 @@
 {
 "content_id": "500350",
 "reference_id": 203293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Coming of God’s Kingdom",
 "media_type": "Text",
 "index_reference": "coming of gods kingdom",
@@ -4740,7 +4740,7 @@
 {
 "content_id": "500437",
 "reference_id": 203380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Coming of the Lord as Judge",
 "media_type": "Text",
 "index_reference": "coming of the lord as judge",
@@ -4985,7 +4985,7 @@
 {
 "content_id": "500365",
 "reference_id": 203308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Coming of the Spirit of God",
 "media_type": "Text",
 "index_reference": "coming of the spirit of god",
@@ -5140,7 +5140,7 @@
 {
 "content_id": "500176",
 "reference_id": 203119,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Community Identity",
 "media_type": "Text",
 "index_reference": "community identity",
@@ -5247,7 +5247,7 @@
 {
 "content_id": "500199",
 "reference_id": 203142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Community Responsibility: Achan’s Sin",
 "media_type": "Text",
 "index_reference": "community responsibility achans sin",
@@ -5366,7 +5366,7 @@
 {
 "content_id": "500344",
 "reference_id": 203287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Compassionate Healer",
 "media_type": "Text",
 "index_reference": "compassionate healer",
@@ -5623,7 +5623,7 @@
 {
 "content_id": "500251",
 "reference_id": 203194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Complaints",
 "media_type": "Text",
 "index_reference": "complaints",
@@ -5802,7 +5802,7 @@
 {
 "content_id": "500184",
 "reference_id": 203127,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Complete Dedication",
 "media_type": "Text",
 "index_reference": "complete dedication",
@@ -6017,7 +6017,7 @@
 {
 "content_id": "500210",
 "reference_id": 203153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Complete Destruction",
 "media_type": "Text",
 "index_reference": "complete destruction",
@@ -6180,7 +6180,7 @@
 {
 "content_id": "500242",
 "reference_id": 203185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Completion of the Second Temple",
 "media_type": "Text",
 "index_reference": "completion of the second temple",
@@ -6275,7 +6275,7 @@
 {
 "content_id": "500183",
 "reference_id": 203126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Concern for the Poor",
 "media_type": "Text",
 "index_reference": "concern for the poor",
@@ -6574,7 +6574,7 @@
 {
 "content_id": "500254",
 "reference_id": 203197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Counsel from Others",
 "media_type": "Text",
 "index_reference": "counsel from others",
@@ -6825,7 +6825,7 @@
 {
 "content_id": "500151",
 "reference_id": 203094,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Creation",
 "media_type": "Text",
 "index_reference": "creation",
@@ -6974,7 +6974,7 @@
 {
 "content_id": "500271",
 "reference_id": 203214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Creator-King",
 "media_type": "Text",
 "index_reference": "creatorking",
@@ -7165,7 +7165,7 @@
 {
 "content_id": "500376",
 "reference_id": 203319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Cross and Passover",
 "media_type": "Text",
 "index_reference": "cross and passover",
@@ -7362,7 +7362,7 @@
 {
 "content_id": "500195",
 "reference_id": 203138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Curses and Blessings",
 "media_type": "Text",
 "index_reference": "curses and blessings",

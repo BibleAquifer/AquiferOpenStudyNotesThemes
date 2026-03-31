@@ -2,7 +2,7 @@
 {
 "content_id": "702425",
 "reference_id": 203361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الفرح المسيحي",
 "media_type": "Text",
 "index_reference": "الفرح المسيحي",
@@ -79,7 +79,7 @@
 {
 "content_id": "702181",
 "reference_id": 203117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الفصح",
 "media_type": "Text",
 "index_reference": "الفصح",
@@ -192,13 +192,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.5928,
+"match_method": "scored",
+"preferred_label": "Passover"
+}
+]
 }
 },
 {
 "content_id": "702266",
 "reference_id": 203202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الفقراء والمحتاجون في سفر المزامير",
 "media_type": "Text",
 "index_reference": "الفقراء والمحتاجون في سفر المزامير",
@@ -503,7 +511,7 @@
 {
 "content_id": "702257",
 "reference_id": 203193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الفوريم",
 "media_type": "Text",
 "index_reference": "الفوريم",
@@ -622,7 +630,7 @@
 {
 "content_id": "702212",
 "reference_id": 203148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الفوضى الاجتماعية في سفر القضاة",
 "media_type": "Text",
 "index_reference": "الفوضى الاجتماعية في سفر القضاة",
@@ -801,7 +809,7 @@
 {
 "content_id": "702277",
 "reference_id": 203213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فهم السبي",
 "media_type": "Text",
 "index_reference": "فهم السبي",
@@ -1028,7 +1036,7 @@
 {
 "content_id": "702264",
 "reference_id": 203200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فهم أيّوب",
 "media_type": "Text",
 "index_reference": "فهم أيّوب",

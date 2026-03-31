@@ -2,7 +2,7 @@
 {
 "content_id": "700317",
 "reference_id": 203254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "書寫神話語",
 "media_type": "Text",
 "index_reference": "書寫神話語",
@@ -271,7 +271,7 @@
 {
 "content_id": "700187",
 "reference_id": 203124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "贖罪",
 "media_type": "Text",
 "index_reference": "贖罪",
@@ -438,13 +438,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"confidence": 0.6117,
+"match_method": "scored",
+"preferred_label": "Atonement"
+}
+]
 }
 },
 {
 "content_id": "700406",
 "reference_id": 203343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "屬乎基督",
 "media_type": "Text",
 "index_reference": "屬乎基督",
@@ -587,7 +595,7 @@
 {
 "content_id": "700209",
 "reference_id": 203146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "屬靈恩賜型領導",
 "media_type": "Text",
 "index_reference": "屬靈恩賜型領導",

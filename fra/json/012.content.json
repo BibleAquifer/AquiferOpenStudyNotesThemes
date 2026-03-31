@@ -2,7 +2,7 @@
 {
 "content_id": "708439",
 "reference_id": 203232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La beauté de la nature",
 "media_type": "Text",
 "index_reference": "la beauté de la nature",
@@ -109,7 +109,7 @@
 {
 "content_id": "708407",
 "reference_id": 203103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La circoncision",
 "media_type": "Text",
 "index_reference": "la circoncision",
@@ -406,9 +406,9 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "Circumcision",
-"confidence": 0.5755,
-"match_method": "scored"
+"confidence": 0.6925,
+"match_method": "scored",
+"preferred_label": "Circumcision"
 }
 ]
 }
@@ -416,7 +416,7 @@
 {
 "content_id": "734203",
 "reference_id": 203212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La colère de Dieu",
 "media_type": "Text",
 "index_reference": "la colère de dieu",
@@ -727,7 +727,7 @@
 {
 "content_id": "708446",
 "reference_id": 203287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La compassion de Jésus",
 "media_type": "Text",
 "index_reference": "la compassion de jésus",
@@ -984,7 +984,7 @@
 {
 "content_id": "734228",
 "reference_id": 203299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La dernière nuit de Jésus",
 "media_type": "Text",
 "index_reference": "la dernière nuit de jésus",
@@ -1103,7 +1103,7 @@
 {
 "content_id": "708456",
 "reference_id": 203352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La dîme et les offrandes du chrétien",
 "media_type": "Text",
 "index_reference": "la dîme et les offrandes du chrétien",
@@ -1366,7 +1366,7 @@
 {
 "content_id": "734191",
 "reference_id": 203167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La fidélité de Dieu envers son peuple",
 "media_type": "Text",
 "index_reference": "la fidélité de dieu envers son peuple",
@@ -1701,7 +1701,7 @@
 {
 "content_id": "734217",
 "reference_id": 203264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La géographie symbolique d'Israël dans la vision d'Ézéchiel",
 "media_type": "Text",
 "index_reference": "la géographie symbolique disraël dans la vision dézéchiel",
@@ -1754,7 +1754,7 @@
 {
 "content_id": "734215",
 "reference_id": 203255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La gloire de Dieu parmi son peuple",
 "media_type": "Text",
 "index_reference": "la gloire de dieu parmi son peuple",
@@ -1951,7 +1951,7 @@
 {
 "content_id": "734182",
 "reference_id": 203140,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La guerre sainte",
 "media_type": "Text",
 "index_reference": "la guerre sainte",
@@ -2166,7 +2166,7 @@
 {
 "content_id": "708457",
 "reference_id": 203361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La joie du chrétien",
 "media_type": "Text",
 "index_reference": "la joie du chrétien",
@@ -2243,7 +2243,7 @@
 {
 "content_id": "734209",
 "reference_id": 203239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La justice de Dieu",
 "media_type": "Text",
 "index_reference": "la justice de dieu",
@@ -2728,7 +2728,7 @@
 {
 "content_id": "708419",
 "reference_id": 203134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La loi biblique",
 "media_type": "Text",
 "index_reference": "la loi biblique",
@@ -2919,7 +2919,7 @@
 {
 "content_id": "734241",
 "reference_id": 203349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La nouvelle alliance",
 "media_type": "Text",
 "index_reference": "la nouvelle alliance",
@@ -3140,7 +3140,7 @@
 {
 "content_id": "734207",
 "reference_id": 203227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La paresse et le bon travail",
 "media_type": "Text",
 "index_reference": "la paresse et le bon travail",
@@ -3397,7 +3397,7 @@
 {
 "content_id": "734245",
 "reference_id": 203375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La Parole de Dieu",
 "media_type": "Text",
 "index_reference": "la parole de dieu",
@@ -3606,7 +3606,7 @@
 {
 "content_id": "708461",
 "reference_id": 203377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La persévérance",
 "media_type": "Text",
 "index_reference": "la persévérance",
@@ -3755,7 +3755,7 @@
 {
 "content_id": "734208",
 "reference_id": 203234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La peur des hommes",
 "media_type": "Text",
 "index_reference": "la peur des hommes",
@@ -3946,7 +3946,7 @@
 {
 "content_id": "734202",
 "reference_id": 203206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La présence de Dieu dans les Psaumes",
 "media_type": "Text",
 "index_reference": "la présence de dieu dans les psaumes",
@@ -4197,7 +4197,7 @@
 {
 "content_id": "734200",
 "reference_id": 203195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La prospérité comme récompense",
 "media_type": "Text",
 "index_reference": "la prospérité comme récompense",
@@ -4388,7 +4388,7 @@
 {
 "content_id": "708421",
 "reference_id": 203142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La responsabilité collective : le péché d'Acan",
 "media_type": "Text",
 "index_reference": "la responsabilité collective  le péché dacan",
@@ -4507,7 +4507,7 @@
 {
 "content_id": "734238",
 "reference_id": 203342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La sainteté et la pureté sexuelle",
 "media_type": "Text",
 "index_reference": "la sainteté et la pureté sexuelle",
@@ -4710,7 +4710,7 @@
 {
 "content_id": "734179",
 "reference_id": 203121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La sainteté infinie de Dieu",
 "media_type": "Text",
 "index_reference": "la sainteté infinie de dieu",
@@ -4793,13 +4793,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.698,
+"match_method": "scored",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
 "content_id": "734180",
 "reference_id": 203123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La sainteté vient de Dieu",
 "media_type": "Text",
 "index_reference": "la sainteté vient de dieu",
@@ -4984,7 +4992,7 @@
 {
 "content_id": "734170",
 "reference_id": 203095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La sexualité humaine",
 "media_type": "Text",
 "index_reference": "la sexualité humaine",
@@ -5189,7 +5197,7 @@
 {
 "content_id": "734174",
 "reference_id": 203105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La stérilité (incapacité d'avoir des enfants)",
 "media_type": "Text",
 "index_reference": "la stérilité incapacité davoir des enfants",
@@ -5434,7 +5442,7 @@
 {
 "content_id": "708428",
 "reference_id": 203185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'achèvement du Second Temple",
 "media_type": "Text",
 "index_reference": "lachèvement du second temple",
@@ -5529,7 +5537,7 @@
 {
 "content_id": "734173",
 "reference_id": 203102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'alliance de Dieu avec Abraham",
 "media_type": "Text",
 "index_reference": "lalliance de dieu avec abraham",
@@ -5798,7 +5806,7 @@
 {
 "content_id": "734187",
 "reference_id": 203160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'alliance de Dieu avec David",
 "media_type": "Text",
 "index_reference": "lalliance de dieu avec david",
@@ -6139,7 +6147,7 @@
 {
 "content_id": "734190",
 "reference_id": 203163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'Alliance de Dieu avec les rois d'Israël",
 "media_type": "Text",
 "index_reference": "lalliance de dieu avec les rois disraël",
@@ -6390,7 +6398,7 @@
 {
 "content_id": "734181",
 "reference_id": 203139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'amour de Dieu dans le contexte de l'alliance",
 "media_type": "Text",
 "index_reference": "lamour de dieu dans le contexte de lalliance",
@@ -6527,7 +6535,7 @@
 {
 "content_id": "734223",
 "reference_id": 203279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'amour de Dieu pour Israël",
 "media_type": "Text",
 "index_reference": "lamour de dieu pour israël",
@@ -6676,7 +6684,7 @@
 {
 "content_id": "734246",
 "reference_id": 203379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'amour entre chrétiens",
 "media_type": "Text",
 "index_reference": "lamour entre chrétiens",
@@ -6837,7 +6845,7 @@
 {
 "content_id": "734234",
 "reference_id": 203321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'ascension de Jésus",
 "media_type": "Text",
 "index_reference": "lascension de jésus",
@@ -7046,7 +7054,7 @@
 {
 "content_id": "734229",
 "reference_id": 203302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'attente du Messie",
 "media_type": "Text",
 "index_reference": "lattente du messie",
@@ -7171,7 +7179,7 @@
 {
 "content_id": "734184",
 "reference_id": 203147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le chagrin de Dieu face à l'apostasie",
 "media_type": "Text",
 "index_reference": "le chagrin de dieu face à lapostasie",
@@ -7284,7 +7292,7 @@
 {
 "content_id": "734212",
 "reference_id": 203247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le Dieu qui est unique",
 "media_type": "Text",
 "index_reference": "le dieu qui est unique",
@@ -7403,7 +7411,7 @@
 {
 "content_id": "734192",
 "reference_id": 203171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le jugement de Dieu sur son peuple",
 "media_type": "Text",
 "index_reference": "le jugement de dieu sur son peuple",
@@ -7774,7 +7782,7 @@
 {
 "content_id": "734243",
 "reference_id": 203363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le légalisme",
 "media_type": "Text",
 "index_reference": "le légalisme",
@@ -7833,7 +7841,7 @@
 {
 "content_id": "734206",
 "reference_id": 203221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le mariage et la sexualité",
 "media_type": "Text",
 "index_reference": "le mariage et la sexualité",
@@ -7964,7 +7972,7 @@
 {
 "content_id": "734194",
 "reference_id": 203176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le nom de Dieu et son Temple",
 "media_type": "Text",
 "index_reference": "le nom de dieu et son temple",
@@ -8023,13 +8031,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5688,
+"match_method": "scored",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
 "content_id": "708418",
 "reference_id": 203129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le pain du ciel",
 "media_type": "Text",
 "index_reference": "le pain du ciel",
@@ -8166,7 +8182,7 @@
 {
 "content_id": "734195",
 "reference_id": 203177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le plan de Dieu pour rétablir son peuple",
 "media_type": "Text",
 "index_reference": "le plan de dieu pour rétablir son peuple",
@@ -8321,7 +8337,7 @@
 {
 "content_id": "734236",
 "reference_id": 203336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le plan de salut de Dieu",
 "media_type": "Text",
 "index_reference": "le plan de salut de dieu",
@@ -8512,7 +8528,7 @@
 {
 "content_id": "734220",
 "reference_id": 203272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le règne et la puissance de Dieu sur toutes les nations",
 "media_type": "Text",
 "index_reference": "le règne et la puissance de dieu sur toutes les nations",
@@ -8739,7 +8755,7 @@
 {
 "content_id": "708458",
 "reference_id": 203365,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le retour du Seigneur",
 "media_type": "Text",
 "index_reference": "le retour du seigneur",
@@ -8852,7 +8868,7 @@
 {
 "content_id": "734193",
 "reference_id": 203175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le royaume que Dieu promet",
 "media_type": "Text",
 "index_reference": "le royaume que dieu promet",
@@ -9061,7 +9077,7 @@
 {
 "content_id": "734210",
 "reference_id": 203240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le Serviteur de Dieu",
 "media_type": "Text",
 "index_reference": "le serviteur de dieu",
@@ -9312,7 +9328,7 @@
 {
 "content_id": "734231",
 "reference_id": 203312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'eau vive",
 "media_type": "Text",
 "index_reference": "leau vive",
@@ -9401,7 +9417,7 @@
 {
 "content_id": "734177",
 "reference_id": 203111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'endurcissement du cœur",
 "media_type": "Text",
 "index_reference": "lendurcissement du cœur",
@@ -9670,7 +9686,7 @@
 {
 "content_id": "734222",
 "reference_id": 203278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'engagement de Dieu envers son peuple",
 "media_type": "Text",
 "index_reference": "lengagement de dieu envers son peuple",
@@ -9795,7 +9811,7 @@
 {
 "content_id": "734172",
 "reference_id": 203101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les alliances de Dieu",
 "media_type": "Text",
 "index_reference": "les alliances de dieu",
@@ -10102,7 +10118,7 @@
 {
 "content_id": "734224",
 "reference_id": 203281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les ancêtres de Jésus",
 "media_type": "Text",
 "index_reference": "les ancêtres de jésus",
@@ -10155,7 +10171,7 @@
 {
 "content_id": "708450",
 "reference_id": 203316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les déclarations « je suis » de Jésus",
 "media_type": "Text",
 "index_reference": "les déclarations  je suis  de jésus",
@@ -10334,7 +10350,7 @@
 {
 "content_id": "734196",
 "reference_id": 203178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les desseins impénétrables de Dieu",
 "media_type": "Text",
 "index_reference": "les desseins impénétrables de dieu",
@@ -10423,7 +10439,7 @@
 {
 "content_id": "708440",
 "reference_id": 203245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les deux plus grands commandements",
 "media_type": "Text",
 "index_reference": "les deux plus grands commandements",
@@ -10584,7 +10600,7 @@
 {
 "content_id": "708443",
 "reference_id": 203261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les écrits apocalyptiques",
 "media_type": "Text",
 "index_reference": "les écrits apocalyptiques",
@@ -10631,7 +10647,7 @@
 {
 "content_id": "708463",
 "reference_id": 203383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les épreuves et le chrétien",
 "media_type": "Text",
 "index_reference": "les épreuves et le chrétien",
@@ -10798,7 +10814,7 @@
 {
 "content_id": "708441",
 "reference_id": 203257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les faux prophètes",
 "media_type": "Text",
 "index_reference": "les faux prophètes",
@@ -10953,7 +10969,7 @@
 {
 "content_id": "734178",
 "reference_id": 203120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les instructions de Dieu",
 "media_type": "Text",
 "index_reference": "les instructions de dieu",
@@ -11108,7 +11124,7 @@
 {
 "content_id": "734211",
 "reference_id": 203246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les invasions",
 "media_type": "Text",
 "index_reference": "les invasions",
@@ -11173,7 +11189,7 @@
 {
 "content_id": "734237",
 "reference_id": 203340,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les Juifs et les païens (les non-Juifs)",
 "media_type": "Text",
 "index_reference": "les juifs et les païens les nonjuifs",
@@ -11442,7 +11458,7 @@
 {
 "content_id": "734247",
 "reference_id": 203385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les lettres aux sept Églises",
 "media_type": "Text",
 "index_reference": "les lettres aux sept églises",
@@ -11471,7 +11487,7 @@
 {
 "content_id": "708420",
 "reference_id": 203138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les malédictions et bénédictions de la loi",
 "media_type": "Text",
 "index_reference": "les malédictions et bénédictions de la loi",
@@ -11560,7 +11576,7 @@
 {
 "content_id": "734198",
 "reference_id": 203186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les mariages mixtes et le divorce",
 "media_type": "Text",
 "index_reference": "les mariages mixtes et le divorce",
@@ -11685,7 +11701,7 @@
 {
 "content_id": "708435",
 "reference_id": 203225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les présents pour influencer",
 "media_type": "Text",
 "index_reference": "les présents pour influencer",
@@ -11816,7 +11832,7 @@
 {
 "content_id": "734230",
 "reference_id": 203304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les prières de Jésus",
 "media_type": "Text",
 "index_reference": "les prières de jésus",
@@ -11947,7 +11963,7 @@
 {
 "content_id": "708445",
 "reference_id": 203286,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les repas en commun",
 "media_type": "Text",
 "index_reference": "les repas en commun",
@@ -12090,7 +12106,7 @@
 {
 "content_id": "708422",
 "reference_id": 203146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les serviteurs appelés par l'Esprit",
 "media_type": "Text",
 "index_reference": "les serviteurs appelés par lesprit",
@@ -12299,7 +12315,7 @@
 {
 "content_id": "734214",
 "reference_id": 203252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'espoir au-delà du jugement",
 "media_type": "Text",
 "index_reference": "lespoir audelà du jugement",
@@ -12454,7 +12470,7 @@
 {
 "content_id": "734221",
 "reference_id": 203274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'incompréhension humaine face aux desseins de Dieu",
 "media_type": "Text",
 "index_reference": "lincompréhension humaine face aux desseins de dieu",
@@ -12603,7 +12619,7 @@
 {
 "content_id": "734201",
 "reference_id": 203199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "L'innocence de Job",
 "media_type": "Text",
 "index_reference": "linnocence de job",

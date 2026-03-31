@@ -2,7 +2,7 @@
 {
 "content_id": "765211",
 "reference_id": 203354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haki kwa Imani",
 "media_type": "Text",
 "index_reference": "haki kwa imani",
@@ -91,7 +91,7 @@
 {
 "content_id": "765127",
 "reference_id": 203270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haki ya Kijamii",
 "media_type": "Text",
 "index_reference": "haki ya kijamii",
@@ -336,7 +336,7 @@
 {
 "content_id": "764994",
 "reference_id": 203137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haki ya Kweli",
 "media_type": "Text",
 "index_reference": "haki ya kweli",
@@ -515,7 +515,7 @@
 {
 "content_id": "765096",
 "reference_id": 203239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haki ya Mungu",
 "media_type": "Text",
 "index_reference": "haki ya mungu",
@@ -1000,7 +1000,7 @@
 {
 "content_id": "765080",
 "reference_id": 203223,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hasira",
 "media_type": "Text",
 "index_reference": "hasira",
@@ -1257,7 +1257,7 @@
 {
 "content_id": "765069",
 "reference_id": 203212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hasira ya Mungu",
 "media_type": "Text",
 "index_reference": "hasira ya mungu",
@@ -1568,7 +1568,7 @@
 {
 "content_id": "765027",
 "reference_id": 203170,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hatari za Dhambi",
 "media_type": "Text",
 "index_reference": "hatari za dhambi",
@@ -2089,7 +2089,7 @@
 {
 "content_id": "764992",
 "reference_id": 203135,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hekalu Kuu",
 "media_type": "Text",
 "index_reference": "hekalu kuu",
@@ -2274,7 +2274,7 @@
 {
 "content_id": "765077",
 "reference_id": 203220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hekima",
 "media_type": "Text",
 "index_reference": "hekima",
@@ -2447,13 +2447,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Wisdom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
+}
+]
 }
 },
 {
 "content_id": "765021",
 "reference_id": 203164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hekima ya Solomoni",
 "media_type": "Text",
 "index_reference": "hekima ya solomoni",
@@ -2668,7 +2676,7 @@
 {
 "content_id": "764975",
 "reference_id": 203118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hema la Kukutania",
 "media_type": "Text",
 "index_reference": "hema la kukutania",
@@ -2751,13 +2759,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.5633,
+"match_method": "scored",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
 "content_id": "765245",
 "reference_id": 203388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hesabu za Kifumbo",
 "media_type": "Text",
 "index_reference": "hesabu za kifumbo",
@@ -3218,7 +3234,7 @@
 {
 "content_id": "765076",
 "reference_id": 203219,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hofu ya Bwana",
 "media_type": "Text",
 "index_reference": "hofu ya bwana",
@@ -3373,7 +3389,7 @@
 {
 "content_id": "765028",
 "reference_id": 203171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukumu ya Mungu kwa Watu Wake",
 "media_type": "Text",
 "index_reference": "hukumu ya mungu kwa watu wake",
@@ -3744,7 +3760,7 @@
 {
 "content_id": "765004",
 "reference_id": 203147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Huzuni ya Mungu juu ya Uasi wa Imani",
 "media_type": "Text",
 "index_reference": "huzuni ya mungu juu ya uasi wa imani",

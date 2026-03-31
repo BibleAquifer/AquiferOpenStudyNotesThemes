@@ -2,7 +2,7 @@
 {
 "content_id": "700352",
 "reference_id": 203289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "彌賽亞",
 "media_type": "Text",
 "index_reference": "彌賽亞",
@@ -253,13 +253,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.6131,
+"match_method": "scored",
+"preferred_label": "Jesus"
+}
+]
 }
 },
 {
 "content_id": "700357",
 "reference_id": 203294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "彌賽亞的秘密",
 "media_type": "Text",
 "index_reference": "彌賽亞的秘密",
@@ -414,7 +422,7 @@
 {
 "content_id": "700368",
 "reference_id": 203305,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "彌賽亞的筵席",
 "media_type": "Text",
 "index_reference": "彌賽亞的筵席",

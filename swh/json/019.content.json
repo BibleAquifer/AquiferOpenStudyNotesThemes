@@ -2,7 +2,7 @@
 {
 "content_id": "765124",
 "reference_id": 203267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sabini ya Sabasaba",
 "media_type": "Text",
 "index_reference": "sabini ya sabasaba",
@@ -241,7 +241,7 @@
 {
 "content_id": "764979",
 "reference_id": 203122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Safi, Najisi, na Mtakatifu",
 "media_type": "Text",
 "index_reference": "safi najisi na mtakatifu",
@@ -420,7 +420,7 @@
 {
 "content_id": "765161",
 "reference_id": 203304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sala za Yesu",
 "media_type": "Text",
 "index_reference": "sala za yesu",
@@ -551,7 +551,7 @@
 {
 "content_id": "765066",
 "reference_id": 203209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sayuni",
 "media_type": "Text",
 "index_reference": "sayuni",
@@ -1090,13 +1090,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.8367,
+"match_method": "scored",
+"preferred_label": "Yerusalemu"
+}
+]
 }
 },
 {
 "content_id": "765000",
 "reference_id": 203143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shekemu",
 "media_type": "Text",
 "index_reference": "shekemu",
@@ -1189,16 +1197,16 @@
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "Shekemu",
 "confidence": 0.674,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Shekemu"
 },
 {
 "id": "person:Shechem",
 "type": "person",
-"preferred_label": "Shekemu",
 "confidence": 0.6301,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Shekemu"
 }
 ]
 }
@@ -1206,7 +1214,7 @@
 {
 "content_id": "765016",
 "reference_id": 203159,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sherehe",
 "media_type": "Text",
 "index_reference": "sherehe",
@@ -1493,7 +1501,7 @@
 {
 "content_id": "765220",
 "reference_id": 203363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria Kali",
 "media_type": "Text",
 "index_reference": "sheria kali",
@@ -1552,7 +1560,7 @@
 {
 "content_id": "765212",
 "reference_id": 203355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria na Roho",
 "media_type": "Text",
 "index_reference": "sheria na roho",
@@ -1677,7 +1685,7 @@
 {
 "content_id": "765120",
 "reference_id": 203263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria ya Hekalu kama Teolojia",
 "media_type": "Text",
 "index_reference": "sheria ya hekalu kama teolojia",
@@ -1748,7 +1756,7 @@
 {
 "content_id": "764991",
 "reference_id": 203134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria ya Kibiblia",
 "media_type": "Text",
 "index_reference": "sheria ya kibiblia",
@@ -1939,7 +1947,7 @@
 {
 "content_id": "765102",
 "reference_id": 203245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria za Msingi",
 "media_type": "Text",
 "index_reference": "sheria za msingi",
@@ -2100,7 +2108,7 @@
 {
 "content_id": "765157",
 "reference_id": 203300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sifa na Furaha katika Luka–Matendo",
 "media_type": "Text",
 "index_reference": "sifa na furaha katika lukamatendo",
@@ -2291,7 +2299,7 @@
 {
 "content_id": "765155",
 "reference_id": 203298,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku Inakuja",
 "media_type": "Text",
 "index_reference": "siku inakuja",
@@ -2850,7 +2858,7 @@
 {
 "content_id": "765094",
 "reference_id": 203237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku ya Bwana",
 "media_type": "Text",
 "index_reference": "siku ya bwana",
@@ -3089,7 +3097,7 @@
 {
 "content_id": "765219",
 "reference_id": 203362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siri ya Habari Njema",
 "media_type": "Text",
 "index_reference": "siri ya habari njema",
@@ -3208,7 +3216,7 @@
 {
 "content_id": "765151",
 "reference_id": 203294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siri ya Masihi",
 "media_type": "Text",
 "index_reference": "siri ya masihi",

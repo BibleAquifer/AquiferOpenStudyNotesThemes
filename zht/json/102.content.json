@@ -2,7 +2,7 @@
 {
 "content_id": "700180",
 "reference_id": 203117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "逾越節",
 "media_type": "Text",
 "index_reference": "逾越節",
@@ -115,13 +115,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.5928,
+"match_method": "scored",
+"preferred_label": "Passover"
+}
+]
 }
 },
 {
 "content_id": "700299",
 "reference_id": 203236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "餘民",
 "media_type": "Text",
 "index_reference": "餘民",
@@ -342,7 +350,7 @@
 {
 "content_id": "700186",
 "reference_id": 203123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "與神關係而來的聖潔",
 "media_type": "Text",
 "index_reference": "與神關係而來的聖潔",
@@ -527,7 +535,7 @@
 {
 "content_id": "700360",
 "reference_id": 203297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "與耶穌相遇",
 "media_type": "Text",
 "index_reference": "與耶穌相遇",
@@ -694,7 +702,7 @@
 {
 "content_id": "700396",
 "reference_id": 203333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "預言的恩賜",
 "media_type": "Text",
 "index_reference": "預言的恩賜",

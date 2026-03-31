@@ -2,7 +2,7 @@
 {
 "content_id": "500223",
 "reference_id": 203166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Land",
 "media_type": "Text",
 "index_reference": "land",
@@ -229,7 +229,7 @@
 {
 "content_id": "500421",
 "reference_id": 203364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Last Things and the Thessalonians",
 "media_type": "Text",
 "index_reference": "last things and the thessalonians",
@@ -306,7 +306,7 @@
 {
 "content_id": "500412",
 "reference_id": 203355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Law and the Spirit",
 "media_type": "Text",
 "index_reference": "law and the spirit",
@@ -431,7 +431,7 @@
 {
 "content_id": "500284",
 "reference_id": 203227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laziness and Hard Work",
 "media_type": "Text",
 "index_reference": "laziness and hard work",
@@ -688,7 +688,7 @@
 {
 "content_id": "500420",
 "reference_id": 203363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Legalism",
 "media_type": "Text",
 "index_reference": "legalism",
@@ -747,7 +747,7 @@
 {
 "content_id": "500442",
 "reference_id": 203385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Letters to the Seven Churches",
 "media_type": "Text",
 "index_reference": "letters to the seven churches",
@@ -776,7 +776,7 @@
 {
 "content_id": "500255",
 "reference_id": 203198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Life After Death",
 "media_type": "Text",
 "index_reference": "life after death",
@@ -1129,7 +1129,7 @@
 {
 "content_id": "500395",
 "reference_id": 203338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Limitations of Law",
 "media_type": "Text",
 "index_reference": "limitations of law",
@@ -1416,7 +1416,7 @@
 {
 "content_id": "500340",
 "reference_id": 203283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Little Faith",
 "media_type": "Text",
 "index_reference": "little faith",
@@ -1503,9 +1503,9 @@
 {
 "id": "keyterm:HavingLittleFaith",
 "type": "keyterm",
-"preferred_label": "Having Little Faith",
 "confidence": 0.5655,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Having Little Faith"
 }
 ]
 }
@@ -1513,7 +1513,7 @@
 {
 "content_id": "500323",
 "reference_id": 203266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Little Horn",
 "media_type": "Text",
 "index_reference": "little horn",
@@ -1704,7 +1704,7 @@
 {
 "content_id": "500416",
 "reference_id": 203359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Living for Christ",
 "media_type": "Text",
 "index_reference": "living for christ",
@@ -1805,7 +1805,7 @@
 {
 "content_id": "500369",
 "reference_id": 203312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Living Water",
 "media_type": "Text",
 "index_reference": "living water",
@@ -1894,7 +1894,7 @@
 {
 "content_id": "500306",
 "reference_id": 203249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Lord of Nations",
 "media_type": "Text",
 "index_reference": "lord of nations",
@@ -2001,7 +2001,7 @@
 {
 "content_id": "500436",
 "reference_id": 203379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Love in the Community of Christ",
 "media_type": "Text",
 "index_reference": "love in the community of christ",
@@ -2162,7 +2162,7 @@
 {
 "content_id": "500404",
 "reference_id": 203347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Loving Others",
 "media_type": "Text",
 "index_reference": "loving others",

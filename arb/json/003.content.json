@@ -2,7 +2,7 @@
 {
 "content_id": "702418",
 "reference_id": 203354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التبرّر بالإيمان",
 "media_type": "Text",
 "index_reference": "التبرّر بالإيمان",
@@ -91,7 +91,7 @@
 {
 "content_id": "702339",
 "reference_id": 203275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التجديد الروحي و أنبياء ما بعد السبي",
 "media_type": "Text",
 "index_reference": "التجديد الروحي و أنبياء ما بعد السبي",
@@ -210,7 +210,7 @@
 {
 "content_id": "702217",
 "reference_id": 203153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التحريم الكامل",
 "media_type": "Text",
 "index_reference": "التحريم الكامل",
@@ -373,7 +373,7 @@
 {
 "content_id": "702342",
 "reference_id": 203278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التزام ٱلله تجاه شعبه",
 "media_type": "Text",
 "index_reference": "التزام ٱلله تجاه شعبه",
@@ -498,7 +498,7 @@
 {
 "content_id": "702405",
 "reference_id": 203341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التسامح",
 "media_type": "Text",
 "index_reference": "التسامح",
@@ -617,7 +617,7 @@
 {
 "content_id": "702364",
 "reference_id": 203300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التسبيح والابتهاج في سفري لوقا–أعمال الرسل",
 "media_type": "Text",
 "index_reference": "التسبيح والابتهاج في سفري لوقاأعمال الرسل",
@@ -808,7 +808,7 @@
 {
 "content_id": "702346",
 "reference_id": 203282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التطويبات وبركات يسوع",
 "media_type": "Text",
 "index_reference": "التطويبات وبركات يسوع",
@@ -939,7 +939,7 @@
 {
 "content_id": "702253",
 "reference_id": 203189,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التعامل مع النزاعات",
 "media_type": "Text",
 "index_reference": "التعامل مع النزاعات",
@@ -1262,7 +1262,7 @@
 {
 "content_id": "702191",
 "reference_id": 203127,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التكريس الكامل",
 "media_type": "Text",
 "index_reference": "التكريس الكامل",
@@ -1477,7 +1477,7 @@
 {
 "content_id": "702194",
 "reference_id": 203130,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التمكين الروحي من الروح القدس",
 "media_type": "Text",
 "index_reference": "التمكين الروحي من الروح القدس",
@@ -1782,7 +1782,7 @@
 {
 "content_id": "702408",
 "reference_id": 203344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "التنازل عن الحقوق",
 "media_type": "Text",
 "index_reference": "التنازل عن الحقوق",
@@ -1943,7 +1943,7 @@
 {
 "content_id": "702215",
 "reference_id": 203151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تابوت العهد",
 "media_type": "Text",
 "index_reference": "تابوت العهد",
@@ -2098,13 +2098,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.7027,
+"match_method": "scored",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.6986,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
+}
+]
 }
 },
 {
 "content_id": "702360",
 "reference_id": 203296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تبعية يسوع",
 "media_type": "Text",
 "index_reference": "تبعية يسوع",
@@ -2541,7 +2556,7 @@
 {
 "content_id": "702338",
 "reference_id": 203274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تحيّر الإنسان وقصد ٱلله",
 "media_type": "Text",
 "index_reference": "تحيّر الإنسان وقصد ٱلله",
@@ -2690,7 +2705,7 @@
 {
 "content_id": "702295",
 "reference_id": 203231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تَذكرُه",
 "media_type": "Text",
 "index_reference": "تَذكرُه",
@@ -2749,7 +2764,7 @@
 {
 "content_id": "702424",
 "reference_id": 203360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ترنيمة المسيح: طبيعة المسيح الإلهية",
 "media_type": "Text",
 "index_reference": "ترنيمة المسيح طبيعة المسيح الإلهية",
@@ -2934,7 +2949,7 @@
 {
 "content_id": "702327",
 "reference_id": 203263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تشريع الهيكل كنهج لاهوتي",
 "media_type": "Text",
 "index_reference": "تشريع الهيكل كنهج لاهوتي",
@@ -3005,7 +3020,7 @@
 {
 "content_id": "702326",
 "reference_id": 203262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تصميم الهيكل كصورة للحق الإلهي",
 "media_type": "Text",
 "index_reference": "تصميم الهيكل كصورة للحق الإلهي",
@@ -3118,7 +3133,7 @@
 {
 "content_id": "702218",
 "reference_id": 203154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تغيير رأي ٱلله",
 "media_type": "Text",
 "index_reference": "تغيير رأي ٱلله",
@@ -3261,7 +3276,7 @@
 {
 "content_id": "702311",
 "reference_id": 203247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تفرّد ٱلله",
 "media_type": "Text",
 "index_reference": "تفرّد ٱلله",
@@ -3380,7 +3395,7 @@
 {
 "content_id": "702433",
 "reference_id": 203369,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تمرير السلطة والمسؤولية إلى قائد جديد",
 "media_type": "Text",
 "index_reference": "تمرير السلطة والمسؤولية إلى قائد جديد",
@@ -3559,7 +3574,7 @@
 {
 "content_id": "702390",
 "reference_id": 203326,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تمكين القادة",
 "media_type": "Text",
 "index_reference": "تمكين القادة",
@@ -3698,7 +3713,7 @@
 {
 "content_id": "702350",
 "reference_id": 203286,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تناول الطعام معًا",
 "media_type": "Text",
 "index_reference": "تناول الطعام معًا",

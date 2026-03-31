@@ -2,7 +2,7 @@
 {
 "content_id": "700262",
 "reference_id": 203199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約伯的無辜",
 "media_type": "Text",
 "index_reference": "約伯的無辜",
@@ -277,7 +277,7 @@
 {
 "content_id": "700214",
 "reference_id": 203151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約櫃",
 "media_type": "Text",
 "index_reference": "約櫃",
@@ -432,13 +432,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.7027,
+"match_method": "scored",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.6986,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
+}
+]
 }
 },
 {
 "content_id": "700377",
 "reference_id": 203314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約翰的門徒訓練簡介",
 "media_type": "Text",
 "index_reference": "約翰的門徒訓練簡介",
@@ -665,7 +680,7 @@
 {
 "content_id": "700373",
 "reference_id": 203310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約翰福音中的神蹟",
 "media_type": "Text",
 "index_reference": "約翰福音中的神蹟",
@@ -994,7 +1009,7 @@
 {
 "content_id": "700376",
 "reference_id": 203313,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約翰福音中的誤解",
 "media_type": "Text",
 "index_reference": "約翰福音中的誤解",
@@ -1167,7 +1182,7 @@
 {
 "content_id": "700374",
 "reference_id": 203311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約翰福音中的「信」",
 "media_type": "Text",
 "index_reference": "約翰福音中的信",
@@ -1364,7 +1379,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5613,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 }
 ]

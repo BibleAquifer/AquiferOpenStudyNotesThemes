@@ -2,7 +2,7 @@
 {
 "content_id": "700336",
 "reference_id": 203273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "什麼是美善",
 "media_type": "Text",
 "index_reference": "什麼是美善",
@@ -259,7 +259,7 @@
 {
 "content_id": "700311",
 "reference_id": 203248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神保護祂的僕人",
 "media_type": "Text",
 "index_reference": "神保護祂的僕人",
@@ -486,7 +486,7 @@
 {
 "content_id": "700437",
 "reference_id": 203374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的安息日之安息",
 "media_type": "Text",
 "index_reference": "神的安息日之安息",
@@ -737,7 +737,7 @@
 {
 "content_id": "700310",
 "reference_id": 203247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的獨一性",
 "media_type": "Text",
 "index_reference": "神的獨一性",
@@ -856,7 +856,7 @@
 {
 "content_id": "700395",
 "reference_id": 203332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的恩典",
 "media_type": "Text",
 "index_reference": "神的恩典",
@@ -1167,7 +1167,7 @@
 {
 "content_id": "700358",
 "reference_id": 203295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的兒子",
 "media_type": "Text",
 "index_reference": "神的兒子",
@@ -1736,7 +1736,7 @@
 {
 "content_id": "700275",
 "reference_id": 203212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的忿怒",
 "media_type": "Text",
 "index_reference": "神的忿怒",
@@ -2047,7 +2047,7 @@
 {
 "content_id": "700302",
 "reference_id": 203239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的公義",
 "media_type": "Text",
 "index_reference": "神的公義",
@@ -2532,7 +2532,7 @@
 {
 "content_id": "700438",
 "reference_id": 203375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的話語",
 "media_type": "Text",
 "index_reference": "神的話語",
@@ -2741,7 +2741,7 @@
 {
 "content_id": "700183",
 "reference_id": 203120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的教導",
 "media_type": "Text",
 "index_reference": "神的教導",
@@ -2896,7 +2896,7 @@
 {
 "content_id": "700371",
 "reference_id": 203308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的靈降臨",
 "media_type": "Text",
 "index_reference": "神的靈降臨",
@@ -3051,7 +3051,7 @@
 {
 "content_id": "700239",
 "reference_id": 203176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的名立於聖殿上",
 "media_type": "Text",
 "index_reference": "神的名立於聖殿上",
@@ -3110,13 +3110,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5688,
+"match_method": "scored",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "700303",
 "reference_id": 203240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的僕人",
 "media_type": "Text",
 "index_reference": "神的僕人",
@@ -3367,7 +3375,7 @@
 {
 "content_id": "700178",
 "reference_id": 203115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的榮耀",
 "media_type": "Text",
 "index_reference": "神的榮耀",
@@ -3630,13 +3638,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.5711,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
+]
 }
 },
 {
 "content_id": "700318",
 "reference_id": 203255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的榮耀與祂的子民同在",
 "media_type": "Text",
 "index_reference": "神的榮耀與祂的子民同在",
@@ -3833,7 +3849,7 @@
 {
 "content_id": "700412",
 "reference_id": 203349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的新約",
 "media_type": "Text",
 "index_reference": "神的新約",
@@ -4054,7 +4070,7 @@
 {
 "content_id": "700164",
 "reference_id": 203101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的約",
 "media_type": "Text",
 "index_reference": "神的約",
@@ -4361,7 +4377,7 @@
 {
 "content_id": "700402",
 "reference_id": 203339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的主權",
 "media_type": "Text",
 "index_reference": "神的主權",
@@ -4678,7 +4694,7 @@
 {
 "content_id": "700321",
 "reference_id": 203258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的主權與人的責任",
 "media_type": "Text",
 "index_reference": "神的主權與人的責任",
@@ -4881,7 +4897,7 @@
 {
 "content_id": "700234",
 "reference_id": 203171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神對祂百姓的審判",
 "media_type": "Text",
 "index_reference": "神對祂百姓的審判",
@@ -5252,7 +5268,7 @@
 {
 "content_id": "700230",
 "reference_id": 203167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神對祂子民的信實",
 "media_type": "Text",
 "index_reference": "神對祂子民的信實",
@@ -5587,7 +5603,7 @@
 {
 "content_id": "700341",
 "reference_id": 203278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神對祂子民的應許",
 "media_type": "Text",
 "index_reference": "神對祂子民的應許",
@@ -5712,7 +5728,7 @@
 {
 "content_id": "700335",
 "reference_id": 203272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神對萬國的統治與權能",
 "media_type": "Text",
 "index_reference": "神對萬國的統治與權能",
@@ -5939,7 +5955,7 @@
 {
 "content_id": "700342",
 "reference_id": 203279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神對以色列的愛",
 "media_type": "Text",
 "index_reference": "神對以色列的愛",
@@ -6088,7 +6104,7 @@
 {
 "content_id": "700217",
 "reference_id": 203154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神改變心意",
 "media_type": "Text",
 "index_reference": "神改變心意",
@@ -6231,7 +6247,7 @@
 {
 "content_id": "700356",
 "reference_id": 203293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神國的降臨",
 "media_type": "Text",
 "index_reference": "神國的降臨",
@@ -6560,7 +6576,7 @@
 {
 "content_id": "700240",
 "reference_id": 203177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神恢復的計劃",
 "media_type": "Text",
 "index_reference": "神恢復的計劃",
@@ -6715,7 +6731,7 @@
 {
 "content_id": "700390",
 "reference_id": 203327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神蹟",
 "media_type": "Text",
 "index_reference": "神蹟",
@@ -7050,7 +7066,7 @@
 {
 "content_id": "700184",
 "reference_id": 203121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神絕對的聖潔",
 "media_type": "Text",
 "index_reference": "神絕對的聖潔",
@@ -7133,13 +7149,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.698,
+"match_method": "scored",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "700202",
 "reference_id": 203139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神立約的愛",
 "media_type": "Text",
 "index_reference": "神立約的愛",
@@ -7276,7 +7300,7 @@
 {
 "content_id": "700243",
 "reference_id": 203180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神是聖潔的勇士",
 "media_type": "Text",
 "index_reference": "神是聖潔的勇士",
@@ -7431,7 +7455,7 @@
 {
 "content_id": "700238",
 "reference_id": 203175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神所應許的國度",
 "media_type": "Text",
 "index_reference": "神所應許的國度",
@@ -7640,7 +7664,7 @@
 {
 "content_id": "700250",
 "reference_id": 203187,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神通過禱告工作",
 "media_type": "Text",
 "index_reference": "神通過禱告工作",
@@ -7927,7 +7951,7 @@
 {
 "content_id": "700399",
 "reference_id": 203336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神統一的救恩計劃",
 "media_type": "Text",
 "index_reference": "神統一的救恩計劃",
@@ -8118,7 +8142,7 @@
 {
 "content_id": "700210",
 "reference_id": 203147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神因人背道而憂傷",
 "media_type": "Text",
 "index_reference": "神因人背道而憂傷",
@@ -8231,7 +8255,7 @@
 {
 "content_id": "700223",
 "reference_id": 203160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神與大衛所立的約",
 "media_type": "Text",
 "index_reference": "神與大衛所立的約",
@@ -8572,7 +8596,7 @@
 {
 "content_id": "700162",
 "reference_id": 203099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神與挪亞所立的約",
 "media_type": "Text",
 "index_reference": "神與挪亞所立的約",
@@ -8697,7 +8721,7 @@
 {
 "content_id": "700340",
 "reference_id": 203277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神與祂子民同在的回歸",
 "media_type": "Text",
 "index_reference": "神與祂子民同在的回歸",
@@ -8912,7 +8936,7 @@
 {
 "content_id": "700165",
 "reference_id": 203102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神與亞伯拉罕所立的約",
 "media_type": "Text",
 "index_reference": "神與亞伯拉罕所立的約",
@@ -9181,7 +9205,7 @@
 {
 "content_id": "700226",
 "reference_id": 203163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神與以色列諸王所立的約",
 "media_type": "Text",
 "index_reference": "神與以色列諸王所立的約",
@@ -9432,7 +9456,7 @@
 {
 "content_id": "700241",
 "reference_id": 203178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神在歷史中奧祕的旨意",
 "media_type": "Text",
 "index_reference": "神在歷史中奧祕的旨意",
@@ -9521,7 +9545,7 @@
 {
 "content_id": "700444",
 "reference_id": 203381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神子民的聖潔",
 "media_type": "Text",
 "index_reference": "神子民的聖潔",
@@ -9634,7 +9658,7 @@
 {
 "content_id": "700208",
 "reference_id": 203145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神子民所遭受的壓迫",
 "media_type": "Text",
 "index_reference": "神子民所遭受的壓迫",
@@ -9777,7 +9801,7 @@
 {
 "content_id": "700452",
 "reference_id": 203389,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "審判的目的",
 "media_type": "Text",
 "index_reference": "審判的目的",
@@ -10070,7 +10094,7 @@
 {
 "content_id": "700315",
 "reference_id": 203252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "審判之後的盼望",
 "media_type": "Text",
 "index_reference": "審判之後的盼望",
@@ -10225,7 +10249,7 @@
 {
 "content_id": "700443",
 "reference_id": 203380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "審判之主再來",
 "media_type": "Text",
 "index_reference": "審判之主再來",

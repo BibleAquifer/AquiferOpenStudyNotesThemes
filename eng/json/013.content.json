@@ -2,7 +2,7 @@
 {
 "content_id": "500270",
 "reference_id": 203213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Making Sense of the Exile",
 "media_type": "Text",
 "index_reference": "making sense of the exile",
@@ -229,7 +229,7 @@
 {
 "content_id": "500278",
 "reference_id": 203221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Marriage and Sexuality",
 "media_type": "Text",
 "index_reference": "marriage and sexuality",
@@ -360,7 +360,7 @@
 {
 "content_id": "500252",
 "reference_id": 203195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Material Reward",
 "media_type": "Text",
 "index_reference": "material reward",
@@ -551,7 +551,7 @@
 {
 "content_id": "500407",
 "reference_id": 203350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Message of Reconciliation",
 "media_type": "Text",
 "index_reference": "message of reconciliation",
@@ -700,7 +700,7 @@
 {
 "content_id": "500316",
 "reference_id": 203259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Messages Against the Nations",
 "media_type": "Text",
 "index_reference": "messages against the nations",
@@ -837,7 +837,7 @@
 {
 "content_id": "500346",
 "reference_id": 203289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Messiah",
 "media_type": "Text",
 "index_reference": "messiah",
@@ -1092,9 +1092,9 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Jesus",
 "confidence": 0.6131,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jesus"
 }
 ]
 }
@@ -1102,7 +1102,7 @@
 {
 "content_id": "500362",
 "reference_id": 203305,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Messianic Banquet",
 "media_type": "Text",
 "index_reference": "messianic banquet",
@@ -1251,7 +1251,7 @@
 {
 "content_id": "500384",
 "reference_id": 203327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miracles",
 "media_type": "Text",
 "index_reference": "miracles",
@@ -1586,7 +1586,7 @@
 {
 "content_id": "500367",
 "reference_id": 203310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miraculous Signs in the Gospel of John",
 "media_type": "Text",
 "index_reference": "miraculous signs in the gospel of john",
@@ -1915,7 +1915,7 @@
 {
 "content_id": "500370",
 "reference_id": 203313,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Misunderstanding in the Gospel of John",
 "media_type": "Text",
 "index_reference": "misunderstanding in the gospel of john",
@@ -2088,7 +2088,7 @@
 {
 "content_id": "500268",
 "reference_id": 203211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Music in Ancient Israel",
 "media_type": "Text",
 "index_reference": "music in ancient israel",
@@ -2189,7 +2189,7 @@
 {
 "content_id": "500419",
 "reference_id": 203362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Mystery of the Good News",
 "media_type": "Text",
 "index_reference": "mystery of the good news",

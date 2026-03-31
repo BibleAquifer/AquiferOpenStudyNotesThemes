@@ -2,7 +2,7 @@
 {
 "content_id": "702167",
 "reference_id": 203103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الختان",
 "media_type": "Text",
 "index_reference": "الختان",
@@ -295,13 +295,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.6925,
+"match_method": "scored",
+"preferred_label": "Circumcision"
+}
+]
 }
 },
 {
 "content_id": "702394",
 "reference_id": 203330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الختان في العهد الجديد",
 "media_type": "Text",
 "index_reference": "الختان في العهد الجديد",
@@ -552,7 +560,7 @@
 {
 "content_id": "702161",
 "reference_id": 203097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخطية تدخل العالم",
 "media_type": "Text",
 "index_reference": "الخطية تدخل العالم",
@@ -749,7 +757,7 @@
 {
 "content_id": "702306",
 "reference_id": 203242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخلاص في سفر إشعياء",
 "media_type": "Text",
 "index_reference": "الخلاص في سفر إشعياء",
@@ -898,7 +906,7 @@
 {
 "content_id": "702267",
 "reference_id": 203203,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخلاص في سفر المزامير",
 "media_type": "Text",
 "index_reference": "الخلاص في سفر المزامير",
@@ -1299,7 +1307,7 @@
 {
 "content_id": "702158",
 "reference_id": 203094,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخلق-الخليقة",
 "media_type": "Text",
 "index_reference": "الخلقالخليقة",
@@ -1448,7 +1456,7 @@
 {
 "content_id": "702298",
 "reference_id": 203234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخوف من الناس",
 "media_type": "Text",
 "index_reference": "الخوف من الناس",
@@ -1639,7 +1647,7 @@
 {
 "content_id": "702193",
 "reference_id": 203129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خبز من السماء",
 "media_type": "Text",
 "index_reference": "خبز من السماء",
@@ -1776,7 +1784,7 @@
 {
 "content_id": "702417",
 "reference_id": 203353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خدمة بولس الرسولية",
 "media_type": "Text",
 "index_reference": "خدمة بولس الرسولية",
@@ -2009,7 +2017,7 @@
 {
 "content_id": "702176",
 "reference_id": 203112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خروج شعب الله من مصر كتاريخ",
 "media_type": "Text",
 "index_reference": "خروج شعب الله من مصر كتاريخ",
@@ -2050,7 +2058,7 @@
 {
 "content_id": "702400",
 "reference_id": 203336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خطة الله الموحدة للخلاص",
 "media_type": "Text",
 "index_reference": "خطة الله الموحدة للخلاص",
@@ -2241,7 +2249,7 @@
 {
 "content_id": "702241",
 "reference_id": 203177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خطة ٱلله للاسترداد",
 "media_type": "Text",
 "index_reference": "خطة ٱلله للاسترداد",
@@ -2396,7 +2404,7 @@
 {
 "content_id": "702182",
 "reference_id": 203118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خيمة الاجتماع",
 "media_type": "Text",
 "index_reference": "خيمة الاجتماع",
@@ -2479,7 +2487,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.5633,
+"match_method": "scored",
+"preferred_label": "Tabernacle"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "500266",
 "reference_id": 203209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zion",
 "media_type": "Text",
 "index_reference": "zion",
@@ -545,9 +545,9 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Jerusalem",
 "confidence": 0.8367,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jerusalem"
 }
 ]
 }
