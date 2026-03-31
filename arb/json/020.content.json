@@ -2,7 +2,7 @@
 {
 "content_id": "702292",
 "reference_id": 203228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكبرياء والتواضع",
 "media_type": "Text",
 "index_reference": "الكبرياء والتواضع",
@@ -187,7 +187,7 @@
 {
 "content_id": "702256",
 "reference_id": 203192,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكراهية العرقية",
 "media_type": "Text",
 "index_reference": "الكراهية العرقية",
@@ -318,7 +318,7 @@
 {
 "content_id": "702291",
 "reference_id": 203227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكسل والعمل الجاد",
 "media_type": "Text",
 "index_reference": "الكسل والعمل الجاد",
@@ -575,7 +575,7 @@
 {
 "content_id": "702188",
 "reference_id": 203124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكفارة",
 "media_type": "Text",
 "index_reference": "الكفارة",
@@ -742,13 +742,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"confidence": 0.6117,
+"match_method": "scored",
+"preferred_label": "Atonement"
+}
+]
 }
 },
 {
 "content_id": "702293",
 "reference_id": 203229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكل \"بخار\"",
 "media_type": "Text",
 "index_reference": "الكل بخار",
@@ -849,7 +857,7 @@
 {
 "content_id": "702286",
 "reference_id": 203222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكلام",
 "media_type": "Text",
 "index_reference": "الكلام",
@@ -1040,7 +1048,7 @@
 {
 "content_id": "702373",
 "reference_id": 203309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكلمة",
 "media_type": "Text",
 "index_reference": "الكلمة",
@@ -1117,7 +1125,7 @@
 {
 "content_id": "702318",
 "reference_id": 203254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكلمة المكتوبة",
 "media_type": "Text",
 "index_reference": "الكلمة المكتوبة",
@@ -1386,7 +1394,7 @@
 {
 "content_id": "702420",
 "reference_id": 203356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكنيسة",
 "media_type": "Text",
 "index_reference": "الكنيسة",
@@ -1735,11 +1743,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.8027,
-"match_method": "embedding"
+"id": "group:GenericChurch",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "The Church"
 }
 ]
 }
@@ -1747,7 +1755,7 @@
 {
 "content_id": "702410",
 "reference_id": 203346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكنيسة بصفتها جسد حي وفعال",
 "media_type": "Text",
 "index_reference": "الكنيسة بصفتها جسد حي وفعال",
@@ -1860,7 +1868,7 @@
 {
 "content_id": "702415",
 "reference_id": 203351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكنيسة كهيكل ٱلله",
 "media_type": "Text",
 "index_reference": "الكنيسة كهيكل ٱلله",
@@ -2111,7 +2119,7 @@
 {
 "content_id": "702439",
 "reference_id": 203375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كلمة الله",
 "media_type": "Text",
 "index_reference": "كلمة الله",

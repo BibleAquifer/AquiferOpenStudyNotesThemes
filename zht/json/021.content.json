@@ -2,7 +2,7 @@
 {
 "content_id": "700166",
 "reference_id": 203103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "割禮",
 "media_type": "Text",
 "index_reference": "割禮",
@@ -295,7 +295,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.6925,
+"match_method": "scored",
+"preferred_label": "Circumcision"
+}
+]
 }
 }
 ]

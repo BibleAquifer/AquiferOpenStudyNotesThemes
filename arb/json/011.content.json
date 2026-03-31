@@ -2,7 +2,7 @@
 {
 "content_id": "702351",
 "reference_id": 203287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الشافي المتحنن",
 "media_type": "Text",
 "index_reference": "الشافي المتحنن",
@@ -259,7 +259,7 @@
 {
 "content_id": "702198",
 "reference_id": 203134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الشريعة الكتابية",
 "media_type": "Text",
 "index_reference": "الشريعة الكتابية",
@@ -450,7 +450,7 @@
 {
 "content_id": "702184",
 "reference_id": 203120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شرائع ٱلله",
 "media_type": "Text",
 "index_reference": "شرائع ٱلله",
@@ -605,7 +605,7 @@
 {
 "content_id": "702258",
 "reference_id": 203194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شكاوى",
 "media_type": "Text",
 "index_reference": "شكاوى",
@@ -784,7 +784,7 @@
 {
 "content_id": "702207",
 "reference_id": 203143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شكيم",
 "media_type": "Text",
 "index_reference": "شكيم",
@@ -873,7 +873,22 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.674,
+"match_method": "scored",
+"preferred_label": "شَكِيمَ"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 0.6301,
+"match_method": "scored",
+"preferred_label": "شَكِيمَ"
+}
+]
 }
 }
 ]

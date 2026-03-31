@@ -2,7 +2,7 @@
 {
 "content_id": "700268",
 "reference_id": 203205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "牧羊人",
 "media_type": "Text",
 "index_reference": "牧羊人",
@@ -295,7 +295,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.5911,
+"match_method": "scored",
+"preferred_label": "Flock"
+}
+]
 }
 }
 ]

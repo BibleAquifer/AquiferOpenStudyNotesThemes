@@ -2,7 +2,7 @@
 {
 "content_id": "709538",
 "reference_id": 203309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वचन",
 "media_type": "Text",
 "index_reference": "वचन",
@@ -79,7 +79,7 @@
 {
 "content_id": "709594",
 "reference_id": 203365,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "\"वह आएगा\"",
 "media_type": "Text",
 "index_reference": "वह आएगा",
@@ -192,7 +192,7 @@
 {
 "content_id": "709380",
 "reference_id": 203151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वाचा का सन्दूक",
 "media_type": "Text",
 "index_reference": "वाचा का सन्दूक",
@@ -347,13 +347,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.7027,
+"match_method": "scored",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.6986,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
+}
+]
 }
 },
 {
 "content_id": "709345",
 "reference_id": 203116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विपत्तियाँ",
 "media_type": "Text",
 "index_reference": "विपत्तियाँ",
@@ -544,7 +559,7 @@
 {
 "content_id": "709450",
 "reference_id": 203221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विवाह और यौनसम्बन्ध",
 "media_type": "Text",
 "index_reference": "विवाह और यौनसम्बन्ध",
@@ -675,7 +690,7 @@
 {
 "content_id": "709520",
 "reference_id": 203291,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विश्वास और अच्छे कर्म",
 "media_type": "Text",
 "index_reference": "विश्वास और अच्छे कर्म",
@@ -1028,7 +1043,7 @@
 {
 "content_id": "709607",
 "reference_id": 203378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विश्वास के द्वारा",
 "media_type": "Text",
 "index_reference": "विश्वास के द्वारा",
@@ -1201,13 +1216,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 },
 {
 "content_id": "709583",
 "reference_id": 203354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विश्वास द्वारा धार्मिकता",
 "media_type": "Text",
 "index_reference": "विश्वास द्वारा धार्मिकता",
@@ -1296,7 +1319,7 @@
 {
 "content_id": "709333",
 "reference_id": 203104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वेदी",
 "media_type": "Text",
 "index_reference": "वेदी",
@@ -1493,7 +1516,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.669,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+}
+]
 }
 }
 ]

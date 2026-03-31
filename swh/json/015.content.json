@@ -2,7 +2,7 @@
 {
 "content_id": "765160",
 "reference_id": 203303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nabii Aliyeteseka",
 "media_type": "Text",
 "index_reference": "nabii aliyeteseka",
@@ -175,7 +175,7 @@
 {
 "content_id": "765007",
 "reference_id": 203150,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nadhiri kwa Mungu",
 "media_type": "Text",
 "index_reference": "nadhiri kwa mungu",
@@ -348,7 +348,7 @@
 {
 "content_id": "765210",
 "reference_id": 203353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nafasi ya Paulo na Mtume",
 "media_type": "Text",
 "index_reference": "nafasi ya paulo na mtume",
@@ -581,7 +581,7 @@
 {
 "content_id": "764965",
 "reference_id": 203108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nchi ya Ahadi",
 "media_type": "Text",
 "index_reference": "nchi ya ahadi",
@@ -724,13 +724,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.6051,
+"match_method": "scored",
+"preferred_label": "Wakanaani"
+}
+]
 }
 },
 {
 "content_id": "765078",
 "reference_id": 203221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ndoa na Ngono",
 "media_type": "Text",
 "index_reference": "ndoa na ngono",
@@ -861,7 +869,7 @@
 {
 "content_id": "764953",
 "reference_id": 203096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ndoa ya Kibiblia",
 "media_type": "Text",
 "index_reference": "ndoa ya kibiblia",
@@ -1034,7 +1042,7 @@
 {
 "content_id": "765043",
 "reference_id": 203186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ndoa za mseto na Talaka",
 "media_type": "Text",
 "index_reference": "ndoa za mseto na talaka",
@@ -1159,7 +1167,7 @@
 {
 "content_id": "765189",
 "reference_id": 203332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Neema ya Mungu",
 "media_type": "Text",
 "index_reference": "neema ya mungu",
@@ -1470,7 +1478,7 @@
 {
 "content_id": "765166",
 "reference_id": 203309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Neno",
 "media_type": "Text",
 "index_reference": "neno",
@@ -1547,7 +1555,7 @@
 {
 "content_id": "765232",
 "reference_id": 203375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Neno la Mungu",
 "media_type": "Text",
 "index_reference": "neno la mungu",
@@ -1756,7 +1764,7 @@
 {
 "content_id": "765047",
 "reference_id": 203190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Neno la Mungu katika Kiini",
 "media_type": "Text",
 "index_reference": "neno la mungu katika kiini",
@@ -1941,7 +1949,7 @@
 {
 "content_id": "765111",
 "reference_id": 203254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Neno Lililoandikwa",
 "media_type": "Text",
 "index_reference": "neno lililoandikwa",
@@ -2210,7 +2218,7 @@
 {
 "content_id": "765130",
 "reference_id": 203273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nini Kizuri",
 "media_type": "Text",
 "index_reference": "nini kizuri",
@@ -2467,7 +2475,7 @@
 {
 "content_id": "764966",
 "reference_id": 203109,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Njaa",
 "media_type": "Text",
 "index_reference": "njaa",
@@ -2790,7 +2798,7 @@
 {
 "content_id": "764989",
 "reference_id": 203132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nyoka ya Shaba",
 "media_type": "Text",
 "index_reference": "nyoka ya shaba",

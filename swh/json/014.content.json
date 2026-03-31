@@ -2,7 +2,7 @@
 {
 "content_id": "764977",
 "reference_id": 203120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maagizo ya Mungu",
 "media_type": "Text",
 "index_reference": "maagizo ya mungu",
@@ -157,7 +157,7 @@
 {
 "content_id": "765138",
 "reference_id": 203281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mababu wa ukoo wa  Yesu",
 "media_type": "Text",
 "index_reference": "mababu wa ukoo wa  yesu",
@@ -210,7 +210,7 @@
 {
 "content_id": "765011",
 "reference_id": 203154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mabadiliko ya Mawazo ya Mungu",
 "media_type": "Text",
 "index_reference": "mabadiliko ya mawazo ya mungu",
@@ -353,7 +353,7 @@
 {
 "content_id": "765093",
 "reference_id": 203236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mabaki",
 "media_type": "Text",
 "index_reference": "mabaki",
@@ -574,7 +574,7 @@
 {
 "content_id": "765005",
 "reference_id": 203148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Machafuko ya Kijamii katika Waamuzi",
 "media_type": "Text",
 "index_reference": "machafuko ya kijamii katika waamuzi",
@@ -753,7 +753,7 @@
 {
 "content_id": "764961",
 "reference_id": 203104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Madhabahu",
 "media_type": "Text",
 "index_reference": "madhabahu",
@@ -950,13 +950,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.669,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+}
+]
 }
 },
 {
 "content_id": "765025",
 "reference_id": 203168,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mafanikio ya Kweli",
 "media_type": "Text",
 "index_reference": "mafanikio ya kweli",
@@ -1225,7 +1233,7 @@
 {
 "content_id": "765055",
 "reference_id": 203198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maisha Baada ya Kifo",
 "media_type": "Text",
 "index_reference": "maisha baada ya kifo",
@@ -1578,7 +1586,7 @@
 {
 "content_id": "765214",
 "reference_id": 203357,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maisha ya Kale na Maisha Mapya",
 "media_type": "Text",
 "index_reference": "maisha ya kale na maisha mapya",
@@ -1661,7 +1669,7 @@
 {
 "content_id": "765169",
 "reference_id": 203312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maji ya Uzima",
 "media_type": "Text",
 "index_reference": "maji ya uzima",
@@ -1750,7 +1758,7 @@
 {
 "content_id": "765224",
 "reference_id": 203367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Majukumu ya Wanawake katika Agano Jipya kanisa",
 "media_type": "Text",
 "index_reference": "majukumu ya wanawake katika agano jipya kanisa",
@@ -1905,7 +1913,7 @@
 {
 "content_id": "765035",
 "reference_id": 203178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Makusudi ya Mungu Yasiyochunguzika Katika Historia",
 "media_type": "Text",
 "index_reference": "makusudi ya mungu yasiyochunguzika katika historia",
@@ -1994,7 +2002,7 @@
 {
 "content_id": "765191",
 "reference_id": 203334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malaika",
 "media_type": "Text",
 "index_reference": "malaika",
@@ -2575,13 +2583,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.6023,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
+]
 }
 },
 {
 "content_id": "765051",
 "reference_id": 203194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malalamiko",
 "media_type": "Text",
 "index_reference": "malalamiko",
@@ -2760,7 +2776,7 @@
 {
 "content_id": "765221",
 "reference_id": 203364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mambo ya Mwisho na Wathesalonike",
 "media_type": "Text",
 "index_reference": "mambo ya mwisho na wathesalonike",
@@ -2837,7 +2853,7 @@
 {
 "content_id": "765026",
 "reference_id": 203169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manabii katika 1 Wafalme",
 "media_type": "Text",
 "index_reference": "manabii katika 1 wafalme",
@@ -2998,7 +3014,7 @@
 {
 "content_id": "765114",
 "reference_id": 203257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manabii wa Uongo",
 "media_type": "Text",
 "index_reference": "manabii wa uongo",
@@ -3153,7 +3169,7 @@
 {
 "content_id": "765173",
 "reference_id": 203316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "\"Maneno ya \"Mimi Ndimi\" ya Yesu\"",
 "media_type": "Text",
 "index_reference": "maneno ya mimi ndimi ya yesu",
@@ -3332,7 +3348,7 @@
 {
 "content_id": "765074",
 "reference_id": 203217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maombi ya Kisasi",
 "media_type": "Text",
 "index_reference": "maombi ya kisasi",
@@ -3559,7 +3575,7 @@
 {
 "content_id": "765185",
 "reference_id": 203328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maono",
 "media_type": "Text",
 "index_reference": "maono",
@@ -3768,7 +3784,7 @@
 {
 "content_id": "764973",
 "reference_id": 203116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mapigo",
 "media_type": "Text",
 "index_reference": "mapigo",
@@ -3959,7 +3975,7 @@
 {
 "content_id": "765146",
 "reference_id": 203289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Masihi",
 "media_type": "Text",
 "index_reference": "masihi",
@@ -4210,13 +4226,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.6131,
+"match_method": "scored",
+"preferred_label": "Yesu"
+}
+]
 }
 },
 {
 "content_id": "765059",
 "reference_id": 203202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maskini na Wahitaji katika Zaburi",
 "media_type": "Text",
 "index_reference": "maskini na wahitaji katika zaburi",
@@ -4521,7 +4545,7 @@
 {
 "content_id": "765065",
 "reference_id": 203208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maswali na Shaka",
 "media_type": "Text",
 "index_reference": "maswali na shaka",
@@ -4826,7 +4850,7 @@
 {
 "content_id": "765163",
 "reference_id": 203306,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Matajiri na Maskini katika injili ya Luka",
 "media_type": "Text",
 "index_reference": "matajiri na maskini katika injili ya luka",
@@ -4915,7 +4939,7 @@
 {
 "content_id": "765113",
 "reference_id": 203256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Matendo ya Kinabii yenye ishara",
 "media_type": "Text",
 "index_reference": "matendo ya kinabii yenye ishara",
@@ -5088,7 +5112,7 @@
 {
 "content_id": "765182",
 "reference_id": 203325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mateso",
 "media_type": "Text",
 "index_reference": "mateso",
@@ -5495,7 +5519,7 @@
 {
 "content_id": "765240",
 "reference_id": 203383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mateso ya Kikristo",
 "media_type": "Text",
 "index_reference": "mateso ya kikristo",
@@ -5662,7 +5686,7 @@
 {
 "content_id": "765062",
 "reference_id": 203205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mchungaji",
 "media_type": "Text",
 "index_reference": "mchungaji",
@@ -5955,13 +5979,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.5911,
+"match_method": "scored",
+"preferred_label": "Flock"
+}
+]
 }
 },
 {
 "content_id": "765249",
 "reference_id": 203392,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miaka Elfu (Millenia)",
 "media_type": "Text",
 "index_reference": "miaka elfu millenia",
@@ -5996,7 +6028,7 @@
 {
 "content_id": "764998",
 "reference_id": 203141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miji ya Makimbilio",
 "media_type": "Text",
 "index_reference": "miji ya makimbilio",
@@ -6121,7 +6153,7 @@
 {
 "content_id": "765154",
 "reference_id": 203297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mikutano na Yesu",
 "media_type": "Text",
 "index_reference": "mikutano na yesu",
@@ -6288,7 +6320,7 @@
 {
 "content_id": "764968",
 "reference_id": 203111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mioyo Migumu",
 "media_type": "Text",
 "index_reference": "mioyo migumu",
@@ -6557,7 +6589,7 @@
 {
 "content_id": "765195",
 "reference_id": 203338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mipaka ya Sheria",
 "media_type": "Text",
 "index_reference": "mipaka ya sheria",
@@ -6844,7 +6876,7 @@
 {
 "content_id": "765184",
 "reference_id": 203327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miujiza",
 "media_type": "Text",
 "index_reference": "miujiza",
@@ -7179,7 +7211,7 @@
 {
 "content_id": "765131",
 "reference_id": 203274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkanganyiko wa Binadamu na Kusudi la Mungu",
 "media_type": "Text",
 "index_reference": "mkanganyiko wa binadamu na kusudi la mungu",
@@ -7328,7 +7360,7 @@
 {
 "content_id": "764986",
 "reference_id": 203129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkate kutoka Mbinguni",
 "media_type": "Text",
 "index_reference": "mkate kutoka mbinguni",
@@ -7465,7 +7497,7 @@
 {
 "content_id": "765006",
 "reference_id": 203149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkombozi wa Familia",
 "media_type": "Text",
 "index_reference": "mkombozi wa familia",
@@ -7686,7 +7718,7 @@
 {
 "content_id": "765088",
 "reference_id": 203231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkumbuke Yeye",
 "media_type": "Text",
 "index_reference": "mkumbuke yeye",
@@ -7745,7 +7777,7 @@
 {
 "content_id": "765075",
 "reference_id": 203218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moyo katika Zaburi",
 "media_type": "Text",
 "index_reference": "moyo katika zaburi",
@@ -8248,7 +8280,7 @@
 {
 "content_id": "765100",
 "reference_id": 203243,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpangilio Mpya",
 "media_type": "Text",
 "index_reference": "mpangilio mpya",
@@ -8433,7 +8465,7 @@
 {
 "content_id": "765034",
 "reference_id": 203177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpango wa Mungu wa Kurejesha",
 "media_type": "Text",
 "index_reference": "mpango wa mungu wa kurejesha",
@@ -8588,7 +8620,7 @@
 {
 "content_id": "765193",
 "reference_id": 203336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpango wa Wokovu wa Mungu Uliounganishwa",
 "media_type": "Text",
 "index_reference": "mpango wa wokovu wa mungu uliounganishwa",
@@ -8779,7 +8811,7 @@
 {
 "content_id": "765247",
 "reference_id": 203390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpinga Kristo",
 "media_type": "Text",
 "index_reference": "mpinga kristo",
@@ -8850,7 +8882,7 @@
 {
 "content_id": "765144",
 "reference_id": 203287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mponyaji Mwenye Huruma",
 "media_type": "Text",
 "index_reference": "mponyaji mwenye huruma",
@@ -9107,7 +9139,7 @@
 {
 "content_id": "765172",
 "reference_id": 203315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Msaidizi Wetu",
 "media_type": "Text",
 "index_reference": "msaidizi wetu",
@@ -9286,7 +9318,7 @@
 {
 "content_id": "765176",
 "reference_id": 203319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Msalaba na Pasaka",
 "media_type": "Text",
 "index_reference": "msalaba na pasaka",
@@ -9483,7 +9515,7 @@
 {
 "content_id": "765095",
 "reference_id": 203238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtakatifu wa Israeli",
 "media_type": "Text",
 "index_reference": "mtakatifu wa israeli",
@@ -9752,7 +9784,7 @@
 {
 "content_id": "764988",
 "reference_id": 203131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtumishi- Kiongozi",
 "media_type": "Text",
 "index_reference": "mtumishi kiongozi",
@@ -9961,7 +9993,7 @@
 {
 "content_id": "765097",
 "reference_id": 203240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtumishi wa Mungu",
 "media_type": "Text",
 "index_reference": "mtumishi wa mungu",
@@ -10212,7 +10244,7 @@
 {
 "content_id": "765105",
 "reference_id": 203248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu Analinda Mtumishi Wake",
 "media_type": "Text",
 "index_reference": "mungu analinda mtumishi wake",
@@ -10439,7 +10471,7 @@
 {
 "content_id": "765188",
 "reference_id": 203331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu Asiyejulikana",
 "media_type": "Text",
 "index_reference": "mungu asiyejulikana",
@@ -10528,7 +10560,7 @@
 {
 "content_id": "765018",
 "reference_id": 203161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu au Shetani?",
 "media_type": "Text",
 "index_reference": "mungu au shetani",
@@ -10659,7 +10691,7 @@
 {
 "content_id": "765044",
 "reference_id": 203187,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu Hufanya Kazi Kupitia Sala",
 "media_type": "Text",
 "index_reference": "mungu hufanya kazi kupitia sala",
@@ -10946,7 +10978,7 @@
 {
 "content_id": "765037",
 "reference_id": 203180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu kama Shujaa Mtakatifu",
 "media_type": "Text",
 "index_reference": "mungu kama shujaa mtakatifu",
@@ -11101,7 +11133,7 @@
 {
 "content_id": "765071",
 "reference_id": 203214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Muumba-Mfalme",
 "media_type": "Text",
 "index_reference": "muumbamfalme",
@@ -11292,7 +11324,7 @@
 {
 "content_id": "765119",
 "reference_id": 203262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Muundo wa Hekalu kama Picha ya Ukweli wa Mungu",
 "media_type": "Text",
 "index_reference": "muundo wa hekalu kama picha ya ukweli wa mungu",
@@ -11405,7 +11437,7 @@
 {
 "content_id": "765068",
 "reference_id": 203211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Muziki katika Israeli ya Kale",
 "media_type": "Text",
 "index_reference": "muziki katika israeli ya kale",
@@ -11506,7 +11538,7 @@
 {
 "content_id": "765142",
 "reference_id": 203285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwana wa Mtu",
 "media_type": "Text",
 "index_reference": "mwana wa mtu",
@@ -11871,7 +11903,7 @@
 {
 "content_id": "765152",
 "reference_id": 203295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwana wa Mungu",
 "media_type": "Text",
 "index_reference": "mwana wa mungu",
@@ -12440,7 +12472,7 @@
 {
 "content_id": "765164",
 "reference_id": 203307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwisho wa Maandiko Matakatifu",
 "media_type": "Text",
 "index_reference": "mwisho wa maandiko matakatifu",

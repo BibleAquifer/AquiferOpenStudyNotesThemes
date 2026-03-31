@@ -2,7 +2,7 @@
 {
 "content_id": "765061",
 "reference_id": 203204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zaburi ya Mateso",
 "media_type": "Text",
 "index_reference": "zaburi ya mateso",
@@ -157,7 +157,7 @@
 {
 "content_id": "765064",
 "reference_id": 203207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zaburi za Hekima",
 "media_type": "Text",
 "index_reference": "zaburi za hekima",
@@ -474,7 +474,7 @@
 {
 "content_id": "765058",
 "reference_id": 203201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zaburi za Kifalme",
 "media_type": "Text",
 "index_reference": "zaburi za kifalme",
@@ -647,7 +647,7 @@
 {
 "content_id": "765073",
 "reference_id": 203216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zaburi za Sifa",
 "media_type": "Text",
 "index_reference": "zaburi za sifa",
@@ -790,7 +790,7 @@
 {
 "content_id": "765190",
 "reference_id": 203333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zawadi ya Unabii",
 "media_type": "Text",
 "index_reference": "zawadi ya unabii",
@@ -1083,7 +1083,7 @@
 {
 "content_id": "765052",
 "reference_id": 203195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zawadi ya Vifaa",
 "media_type": "Text",
 "index_reference": "zawadi ya vifaa",

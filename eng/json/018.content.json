@@ -2,7 +2,7 @@
 {
 "content_id": "500245",
 "reference_id": 203188,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebuilding of Jerusalem",
 "media_type": "Text",
 "index_reference": "rebuilding of jerusalem",
@@ -133,7 +133,7 @@
 {
 "content_id": "500290",
 "reference_id": 203233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Religious Hypocrisy",
 "media_type": "Text",
 "index_reference": "religious hypocrisy",
@@ -306,7 +306,7 @@
 {
 "content_id": "500374",
 "reference_id": 203317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Remaining in Christ",
 "media_type": "Text",
 "index_reference": "remaining in christ",
@@ -479,7 +479,7 @@
 {
 "content_id": "500288",
 "reference_id": 203231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Remember Him",
 "media_type": "Text",
 "index_reference": "remember him",
@@ -538,7 +538,7 @@
 {
 "content_id": "500293",
 "reference_id": 203236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Remnant",
 "media_type": "Text",
 "index_reference": "remnant",
@@ -759,7 +759,7 @@
 {
 "content_id": "500193",
 "reference_id": 203136,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Remove the Evil",
 "media_type": "Text",
 "index_reference": "remove the evil",
@@ -938,7 +938,7 @@
 {
 "content_id": "500325",
 "reference_id": 203268,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Resurrection in the Old Testament",
 "media_type": "Text",
 "index_reference": "resurrection in the old testament",
@@ -1057,7 +1057,7 @@
 {
 "content_id": "500349",
 "reference_id": 203292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Resurrection of Jesus",
 "media_type": "Text",
 "index_reference": "resurrection of jesus",
@@ -1462,9 +1462,9 @@
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
-"preferred_label": "Resurrection",
 "confidence": 0.5809,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Resurrection"
 }
 ]
 }
@@ -1472,7 +1472,7 @@
 {
 "content_id": "500405",
 "reference_id": 203348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Resurrection of the Dead",
 "media_type": "Text",
 "index_reference": "resurrection of the dead",
@@ -1777,7 +1777,7 @@
 {
 "content_id": "500155",
 "reference_id": 203098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Retribution",
 "media_type": "Text",
 "index_reference": "retribution",
@@ -2034,7 +2034,7 @@
 {
 "content_id": "500334",
 "reference_id": 203277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Return of God’s Presence with His People",
 "media_type": "Text",
 "index_reference": "return of gods presence with his people",
@@ -2249,7 +2249,7 @@
 {
 "content_id": "500333",
 "reference_id": 203276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Returning to the Lord",
 "media_type": "Text",
 "index_reference": "returning to the lord",
@@ -2362,7 +2362,7 @@
 {
 "content_id": "500363",
 "reference_id": 203306,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rich and Poor in the Gospel of Luke",
 "media_type": "Text",
 "index_reference": "rich and poor in the gospel of luke",
@@ -2451,7 +2451,7 @@
 {
 "content_id": "500253",
 "reference_id": 203196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Righteous Suffer",
 "media_type": "Text",
 "index_reference": "righteous suffer",
@@ -2666,7 +2666,7 @@
 {
 "content_id": "500411",
 "reference_id": 203354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Righteousness by Faith",
 "media_type": "Text",
 "index_reference": "righteousness by faith",
@@ -2755,7 +2755,7 @@
 {
 "content_id": "500258",
 "reference_id": 203201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Royal Psalms",
 "media_type": "Text",
 "index_reference": "royal psalms",

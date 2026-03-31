@@ -2,7 +2,7 @@
 {
 "content_id": "800317",
 "reference_id": 203148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caos social em Juízes",
 "media_type": "Text",
 "index_reference": "caos social em juízes",
@@ -181,7 +181,7 @@
 {
 "content_id": "800299",
 "reference_id": 203130,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Capacitação espiritual",
 "media_type": "Text",
 "index_reference": "capacitação espiritual",
@@ -486,7 +486,7 @@
 {
 "content_id": "800554",
 "reference_id": 203385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cartas às sete igrejas",
 "media_type": "Text",
 "index_reference": "cartas às sete igrejas",
@@ -515,7 +515,7 @@
 {
 "content_id": "800265",
 "reference_id": 203096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Casamento bíblico",
 "media_type": "Text",
 "index_reference": "casamento bíblico",
@@ -688,7 +688,7 @@
 {
 "content_id": "800390",
 "reference_id": 203221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Casamento e sexualidade",
 "media_type": "Text",
 "index_reference": "casamento e sexualidade",
@@ -819,7 +819,7 @@
 {
 "content_id": "800355",
 "reference_id": 203186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Casamento inter-racial e divórcio",
 "media_type": "Text",
 "index_reference": "casamento interracial e divórcio",
@@ -944,7 +944,7 @@
 {
 "content_id": "800328",
 "reference_id": 203159,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Celebração",
 "media_type": "Text",
 "index_reference": "celebração",
@@ -1231,7 +1231,7 @@
 {
 "content_id": "800325",
 "reference_id": 203156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Chamando os mortos",
 "media_type": "Text",
 "index_reference": "chamando os mortos",
@@ -1368,7 +1368,7 @@
 {
 "content_id": "800453",
 "reference_id": 203284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cidadania no Reino",
 "media_type": "Text",
 "index_reference": "cidadania no reino",
@@ -1475,7 +1475,7 @@
 {
 "content_id": "800272",
 "reference_id": 203103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Circuncisão",
 "media_type": "Text",
 "index_reference": "circuncisão",
@@ -1768,13 +1768,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.6925,
+"match_method": "scored",
+"preferred_label": "Circumcision"
+}
+]
 }
 },
 {
 "content_id": "800499",
 "reference_id": 203330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Circuncisão no Novo Testamento",
 "media_type": "Text",
 "index_reference": "circuncisão no novo testamento",
@@ -2025,7 +2033,7 @@
 {
 "content_id": "800283",
 "reference_id": 203114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Códigos de lei antigos",
 "media_type": "Text",
 "index_reference": "códigos de lei antigos",
@@ -2136,7 +2144,7 @@
 {
 "content_id": "800455",
 "reference_id": 203286,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Comendo juntos",
 "media_type": "Text",
 "index_reference": "comendo juntos",
@@ -2279,7 +2287,7 @@
 {
 "content_id": "800369",
 "reference_id": 203200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Compreendendo Jó",
 "media_type": "Text",
 "index_reference": "compreendendo jó",
@@ -2410,7 +2418,7 @@
 {
 "content_id": "800447",
 "reference_id": 203278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Compromisso de Deus com seu povo",
 "media_type": "Text",
 "index_reference": "compromisso de deus com seu povo",
@@ -2535,7 +2543,7 @@
 {
 "content_id": "800354",
 "reference_id": 203185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Conclusão do Segundo Templo",
 "media_type": "Text",
 "index_reference": "conclusão do segundo templo",
@@ -2630,7 +2638,7 @@
 {
 "content_id": "800404",
 "reference_id": 203235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Confiando em Deus em Isaías",
 "media_type": "Text",
 "index_reference": "confiando em deus em isaías",
@@ -2761,7 +2769,7 @@
 {
 "content_id": "800379",
 "reference_id": 203210,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Confiando em Deus nos Salmos",
 "media_type": "Text",
 "index_reference": "confiando em deus nos salmos",
@@ -3222,7 +3230,7 @@
 {
 "content_id": "800348",
 "reference_id": 203179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Confiando na força humana",
 "media_type": "Text",
 "index_reference": "confiando na força humana",
@@ -3419,7 +3427,7 @@
 {
 "content_id": "800443",
 "reference_id": 203274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Confusão humana e o propósito de Deus",
 "media_type": "Text",
 "index_reference": "confusão humana e o propósito de deus",
@@ -3568,7 +3576,7 @@
 {
 "content_id": "800438",
 "reference_id": 203269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Conhecendo Deus",
 "media_type": "Text",
 "index_reference": "conhecendo deus",
@@ -3741,7 +3749,7 @@
 {
 "content_id": "800366",
 "reference_id": 203197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Conselho de outros",
 "media_type": "Text",
 "index_reference": "conselho de outros",
@@ -3992,7 +4000,7 @@
 {
 "content_id": "800280",
 "reference_id": 203111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Corações endurecidos",
 "media_type": "Text",
 "index_reference": "corações endurecidos",
@@ -4261,7 +4269,7 @@
 {
 "content_id": "800480",
 "reference_id": 203311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "“Crença” no evangelho de João",
 "media_type": "Text",
 "index_reference": "crença no evangelho de joão",
@@ -4458,13 +4466,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5613,
+"match_method": "scored",
+"preferred_label": "crer"
+}
+]
 }
 },
 {
 "content_id": "800395",
 "reference_id": 203226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Crianças e pais",
 "media_type": "Text",
 "index_reference": "crianças e pais",

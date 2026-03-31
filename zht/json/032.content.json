@@ -2,7 +2,7 @@
 {
 "content_id": "700216",
 "reference_id": 203153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "毀滅淨盡",
 "media_type": "Text",
 "index_reference": "毀滅淨盡",
@@ -165,7 +165,7 @@
 {
 "content_id": "700181",
 "reference_id": 203118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "會幕",
 "media_type": "Text",
 "index_reference": "會幕",
@@ -248,13 +248,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.5633,
+"match_method": "scored",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
 "content_id": "700288",
 "reference_id": 203225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "賄賂和禮物",
 "media_type": "Text",
 "index_reference": "賄賂和禮物",

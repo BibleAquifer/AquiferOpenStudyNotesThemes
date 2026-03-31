@@ -2,7 +2,7 @@
 {
 "content_id": "708462",
 "reference_id": 203378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Par la foi",
 "media_type": "Text",
 "index_reference": "par la foi",
@@ -175,13 +175,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "croire"
+}
+]
 }
 },
 {
 "content_id": "708436",
 "reference_id": 203226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Parents et enfants",
 "media_type": "Text",
 "index_reference": "parents et enfants",
@@ -420,7 +428,7 @@
 {
 "content_id": "734233",
 "reference_id": 203320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pêche en Galilée",
 "media_type": "Text",
 "index_reference": "pêche en galilée",
@@ -527,7 +535,7 @@
 {
 "content_id": "734225",
 "reference_id": 203283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Peu de foi",
 "media_type": "Text",
 "index_reference": "peu de foi",
@@ -610,13 +618,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.5655,
+"match_method": "scored",
+"preferred_label": "qui manque de foi"
+}
+]
 }
 },
 {
 "content_id": "708431",
 "reference_id": 203194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Plaintes",
 "media_type": "Text",
 "index_reference": "plaintes",
@@ -795,7 +811,7 @@
 {
 "content_id": "734232",
 "reference_id": 203314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Profil de Jean en tant que disciple",
 "media_type": "Text",
 "index_reference": "profil de jean en tant que disciple",
@@ -1022,7 +1038,7 @@
 {
 "content_id": "708438",
 "reference_id": 203230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Profiter des dons de Dieu",
 "media_type": "Text",
 "index_reference": "profiter des dons de dieu",
@@ -1183,7 +1199,7 @@
 {
 "content_id": "708413",
 "reference_id": 203122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "pur, impur, et saint",
 "media_type": "Text",
 "index_reference": "pur impur et saint",
@@ -1362,7 +1378,7 @@
 {
 "content_id": "756854",
 "reference_id": 203193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Purim, Pourim",
 "media_type": "Text",
 "index_reference": "purim pourim",

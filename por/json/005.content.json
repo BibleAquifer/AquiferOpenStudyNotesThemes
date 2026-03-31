@@ -2,7 +2,7 @@
 {
 "content_id": "800534",
 "reference_id": 203365,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "\"Ele Virá\"",
 "media_type": "Text",
 "index_reference": "ele virá",
@@ -115,7 +115,7 @@
 {
 "content_id": "800466",
 "reference_id": 203297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Encontros com Jesus",
 "media_type": "Text",
 "index_reference": "encontros com jesus",
@@ -282,7 +282,7 @@
 {
 "content_id": "800540",
 "reference_id": 203371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Escravidão",
 "media_type": "Text",
 "index_reference": "escravidão",
@@ -347,7 +347,7 @@
 {
 "content_id": "800384",
 "reference_id": 203215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Escuridão e luz",
 "media_type": "Text",
 "index_reference": "escuridão e luz",
@@ -1042,7 +1042,7 @@
 {
 "content_id": "800421",
 "reference_id": 203252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esperança além do julgamento",
 "media_type": "Text",
 "index_reference": "esperança além do julgamento",
@@ -1197,7 +1197,7 @@
 {
 "content_id": "800471",
 "reference_id": 203302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esperança pelo Messias",
 "media_type": "Text",
 "index_reference": "esperança pelo messias",
@@ -1322,7 +1322,7 @@
 {
 "content_id": "800293",
 "reference_id": 203124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Expiação",
 "media_type": "Text",
 "index_reference": "expiação",
@@ -1489,7 +1489,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"confidence": 0.6117,
+"match_method": "scored",
+"preferred_label": "atonement"
+}
+]
 }
 }
 ]

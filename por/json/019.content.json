@@ -2,7 +2,7 @@
 {
 "content_id": "800403",
 "reference_id": 203234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Temendo pessoas",
 "media_type": "Text",
 "index_reference": "temendo pessoas",
@@ -193,7 +193,7 @@
 {
 "content_id": "800388",
 "reference_id": 203219,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Temor do Senhor",
 "media_type": "Text",
 "index_reference": "temor do senhor",
@@ -348,7 +348,7 @@
 {
 "content_id": "800277",
 "reference_id": 203108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Terra Prometida",
 "media_type": "Text",
 "index_reference": "terra prometida",
@@ -491,13 +491,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.6051,
+"match_method": "scored",
+"preferred_label": "Canaã"
+}
+]
 }
 },
 {
 "content_id": "800510",
 "reference_id": 203341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tolerância",
 "media_type": "Text",
 "index_reference": "tolerância",
@@ -616,7 +624,7 @@
 {
 "content_id": "800535",
 "reference_id": 203366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trabalho e patronato",
 "media_type": "Text",
 "index_reference": "trabalho e patronato",
@@ -699,7 +707,7 @@
 {
 "content_id": "800398",
 "reference_id": 203229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tudo é “Ilusão”",
 "media_type": "Text",
 "index_reference": "tudo é ilusão",

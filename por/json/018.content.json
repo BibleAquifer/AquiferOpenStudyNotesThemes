@@ -2,7 +2,7 @@
 {
 "content_id": "800389",
 "reference_id": 203220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sabedoria",
 "media_type": "Text",
 "index_reference": "sabedoria",
@@ -175,13 +175,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Wisdom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
+}
+]
 }
 },
 {
 "content_id": "800373",
 "reference_id": 203204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salmos de lamento",
 "media_type": "Text",
 "index_reference": "salmos de lamento",
@@ -336,7 +344,7 @@
 {
 "content_id": "800385",
 "reference_id": 203216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salmos de louvor",
 "media_type": "Text",
 "index_reference": "salmos de louvor",
@@ -479,7 +487,7 @@
 {
 "content_id": "800376",
 "reference_id": 203207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salmos de sabedoria",
 "media_type": "Text",
 "index_reference": "salmos de sabedoria",
@@ -796,7 +804,7 @@
 {
 "content_id": "800370",
 "reference_id": 203201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salmos reais",
 "media_type": "Text",
 "index_reference": "salmos reais",
@@ -969,7 +977,7 @@
 {
 "content_id": "800411",
 "reference_id": 203242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salvação em Isaías",
 "media_type": "Text",
 "index_reference": "salvação em isaías",
@@ -1118,7 +1126,7 @@
 {
 "content_id": "800372",
 "reference_id": 203203,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salvação nos Salmos",
 "media_type": "Text",
 "index_reference": "salvação nos salmos",
@@ -1519,7 +1527,7 @@
 {
 "content_id": "800290",
 "reference_id": 203121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Santidade absoluta de Deus",
 "media_type": "Text",
 "index_reference": "santidade absoluta de deus",
@@ -1602,13 +1610,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.698,
+"match_method": "scored",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
 "content_id": "800511",
 "reference_id": 203342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Santidade e pureza sexual",
 "media_type": "Text",
 "index_reference": "santidade e pureza sexual",
@@ -1811,7 +1827,7 @@
 {
 "content_id": "800292",
 "reference_id": 203123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Santidade por relacionamento",
 "media_type": "Text",
 "index_reference": "santidade por relacionamento",
@@ -1996,7 +2012,7 @@
 {
 "content_id": "800465",
 "reference_id": 203296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seguindo Jesus",
 "media_type": "Text",
 "index_reference": "seguindo jesus",
@@ -2433,7 +2449,7 @@
 {
 "content_id": "800555",
 "reference_id": 203386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Segurança e obediência",
 "media_type": "Text",
 "index_reference": "segurança e obediência",
@@ -2750,7 +2766,7 @@
 {
 "content_id": "800409",
 "reference_id": 203240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Servo de Deus",
 "media_type": "Text",
 "index_reference": "servo de deus",
@@ -3001,7 +3017,7 @@
 {
 "content_id": "800264",
 "reference_id": 203095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sexualidade humana",
 "media_type": "Text",
 "index_reference": "sexualidade humana",
@@ -3206,7 +3222,7 @@
 {
 "content_id": "800378",
 "reference_id": 203209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sião",
 "media_type": "Text",
 "index_reference": "sião",
@@ -3747,11 +3763,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Shion",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Sion",
-"confidence": 0.828,
-"match_method": "embedding"
+"confidence": 0.8367,
+"match_method": "scored",
+"preferred_label": "Jerusalém"
 }
 ]
 }
@@ -3759,7 +3775,7 @@
 {
 "content_id": "800479",
 "reference_id": 203310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sinais miraculosos no evangelho de João",
 "media_type": "Text",
 "index_reference": "sinais miraculosos no evangelho de joão",
@@ -4088,7 +4104,7 @@
 {
 "content_id": "800312",
 "reference_id": 203143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siquém",
 "media_type": "Text",
 "index_reference": "siquém",
@@ -4181,16 +4197,16 @@
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "Siquém",
 "confidence": 0.674,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Siquém"
 },
 {
 "id": "person:Shechem",
 "type": "person",
-"preferred_label": "Siquém",
 "confidence": 0.6301,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Siquém"
 }
 ]
 }
@@ -4198,7 +4214,7 @@
 {
 "content_id": "800427",
 "reference_id": 203258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Soberania divina e responsabilidade humana",
 "media_type": "Text",
 "index_reference": "soberania divina e responsabilidade humana",
@@ -4401,7 +4417,7 @@
 {
 "content_id": "800279",
 "reference_id": 203110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sofrendo ao seguir Deus",
 "media_type": "Text",
 "index_reference": "sofrendo ao seguir deus",
@@ -4574,7 +4590,7 @@
 {
 "content_id": "800552",
 "reference_id": 203383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sofrimento cristão",
 "media_type": "Text",
 "index_reference": "sofrimento cristão",
@@ -4741,7 +4757,7 @@
 {
 "content_id": "800394",
 "reference_id": 203225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Suborno e presentes",
 "media_type": "Text",
 "index_reference": "suborno e presentes",
@@ -4872,7 +4888,7 @@
 {
 "content_id": "800527",
 "reference_id": 203358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Superando o Diabo",
 "media_type": "Text",
 "index_reference": "superando o diabo",

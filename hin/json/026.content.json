@@ -2,7 +2,7 @@
 {
 "content_id": "709340",
 "reference_id": 203111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मन को हठीला करना",
 "media_type": "Text",
 "index_reference": "मन को हठीला करना",
@@ -271,7 +271,7 @@
 {
 "content_id": "709463",
 "reference_id": 203234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मनुष्य का डर",
 "media_type": "Text",
 "index_reference": "मनुष्य का डर",
@@ -462,7 +462,7 @@
 {
 "content_id": "709514",
 "reference_id": 203285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मनुष्य का पुत्र",
 "media_type": "Text",
 "index_reference": "मनुष्य का पुत्र",
@@ -827,7 +827,7 @@
 {
 "content_id": "709408",
 "reference_id": 203179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मनुष्य की शक्ति में विश्वास करना",
 "media_type": "Text",
 "index_reference": "मनुष्य की शक्ति में विश्वास करना",
@@ -1024,7 +1024,7 @@
 {
 "content_id": "709403",
 "reference_id": 203174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मन्दिर आराधना",
 "media_type": "Text",
 "index_reference": "मन्दिर आराधना",
@@ -1215,7 +1215,7 @@
 {
 "content_id": "709577",
 "reference_id": 203348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मरे हुओं का पुनरुत्थान",
 "media_type": "Text",
 "index_reference": "मरे हुओं का पुनरुत्थान",
@@ -1520,7 +1520,7 @@
 {
 "content_id": "709530",
 "reference_id": 203301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह का जन्म",
 "media_type": "Text",
 "index_reference": "मसीह का जन्म",
@@ -1555,7 +1555,7 @@
 {
 "content_id": "709523",
 "reference_id": 203294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह का रहस्य",
 "media_type": "Text",
 "index_reference": "मसीह का रहस्य",
@@ -1710,7 +1710,7 @@
 {
 "content_id": "709588",
 "reference_id": 203359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह के लिए जीना",
 "media_type": "Text",
 "index_reference": "मसीह के लिए जीना",
@@ -1811,7 +1811,7 @@
 {
 "content_id": "709608",
 "reference_id": 203379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह के समुदाय में प्रेम",
 "media_type": "Text",
 "index_reference": "मसीह के समुदाय में प्रेम",
@@ -1972,7 +1972,7 @@
 {
 "content_id": "709589",
 "reference_id": 203360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह भजन: मसीह की ईश्वरीय प्रकृति",
 "media_type": "Text",
 "index_reference": "मसीह भजन मसीह की ईश्वरीय प्रकृति",
@@ -2157,7 +2157,7 @@
 {
 "content_id": "709546",
 "reference_id": 203317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह में बने रहना",
 "media_type": "Text",
 "index_reference": "मसीह में बने रहना",
@@ -2330,7 +2330,7 @@
 {
 "content_id": "709619",
 "reference_id": 203390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह विरोधी",
 "media_type": "Text",
 "index_reference": "मसीह विरोधी",
@@ -2409,7 +2409,7 @@
 {
 "content_id": "709572",
 "reference_id": 203343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह से संबंधित",
 "media_type": "Text",
 "index_reference": "मसीह से संबंधित",
@@ -2552,7 +2552,7 @@
 {
 "content_id": "709518",
 "reference_id": 203289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीहा",
 "media_type": "Text",
 "index_reference": "मसीहा",
@@ -2805,11 +2805,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Christ",
-"type": "group",
-"preferred_label": "मसीही",
-"confidence": 0.9714,
-"match_method": "embedding"
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.6131,
+"match_method": "scored",
+"preferred_label": "यीशु"
 }
 ]
 }
@@ -2817,7 +2817,7 @@
 {
 "content_id": "709531",
 "reference_id": 203302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीहा की आशा",
 "media_type": "Text",
 "index_reference": "मसीहा की आशा",
@@ -2942,7 +2942,7 @@
 {
 "content_id": "709534",
 "reference_id": 203305,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीहाई भोज",
 "media_type": "Text",
 "index_reference": "मसीहाई भोज",
@@ -3091,7 +3091,7 @@
 {
 "content_id": "709590",
 "reference_id": 203361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीही आनन्द",
 "media_type": "Text",
 "index_reference": "मसीही आनन्द",
@@ -3168,7 +3168,7 @@
 {
 "content_id": "709581",
 "reference_id": 203352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीही दान",
 "media_type": "Text",
 "index_reference": "मसीही दान",
@@ -3431,7 +3431,7 @@
 {
 "content_id": "709612",
 "reference_id": 203383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीही दुःख",
 "media_type": "Text",
 "index_reference": "मसीही दुःख",
@@ -3598,7 +3598,7 @@
 {
 "content_id": "709324",
 "reference_id": 203095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मानव लैंगिकता",
 "media_type": "Text",
 "index_reference": "मानव लैंगिकता",
@@ -3803,7 +3803,7 @@
 {
 "content_id": "709503",
 "reference_id": 203274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मानवीय उलझन और परमेश्‍वर का उद्देश्य",
 "media_type": "Text",
 "index_reference": "मानवीय उलझन और परमेश्‍वर का उद्देश्य",
@@ -3952,7 +3952,7 @@
 {
 "content_id": "709364",
 "reference_id": 203135,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मुख्य निवासस्थान",
 "media_type": "Text",
 "index_reference": "मुख्य निवासस्थान",
@@ -4137,7 +4137,7 @@
 {
 "content_id": "709474",
 "reference_id": 203245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मूल नियम",
 "media_type": "Text",
 "index_reference": "मूल नियम",
@@ -4298,7 +4298,7 @@
 {
 "content_id": "709336",
 "reference_id": 203107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मृत्यु",
 "media_type": "Text",
 "index_reference": "मृत्यु",
@@ -4579,21 +4579,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "person:Meraiah",
-"type": "person",
-"preferred_label": "मरायाह",
-"confidence": 0.8032,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "709427",
 "reference_id": 203198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मृत्यु के बाद का जीवन",
 "media_type": "Text",
 "index_reference": "मृत्यु के बाद का जीवन",
@@ -4946,7 +4938,7 @@
 {
 "content_id": "709579",
 "reference_id": 203350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मेल-मिलाप का सन्देश",
 "media_type": "Text",
 "index_reference": "मेलमिलाप का सन्देश",

@@ -2,7 +2,7 @@
 {
 "content_id": "500219",
 "reference_id": 203162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jerusalem",
 "media_type": "Text",
 "index_reference": "jerusalem",
@@ -337,16 +337,16 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Jerusalem",
 "confidence": 0.6758,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jerusalem"
 },
 {
 "id": "place:CityOfDavid",
 "type": "place",
-"preferred_label": "City of David",
 "confidence": 0.6,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -354,7 +354,7 @@
 {
 "content_id": "500345",
 "reference_id": 203288,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jesus and Satan",
 "media_type": "Text",
 "index_reference": "jesus and satan",
@@ -581,7 +581,7 @@
 {
 "content_id": "500356",
 "reference_id": 203299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jesus’ Final Night",
 "media_type": "Text",
 "index_reference": "jesus final night",
@@ -700,7 +700,7 @@
 {
 "content_id": "500361",
 "reference_id": 203304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jesus’ Prayers",
 "media_type": "Text",
 "index_reference": "jesus prayers",
@@ -831,7 +831,7 @@
 {
 "content_id": "500397",
 "reference_id": 203340,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jews and Gentiles (Non-Jews)",
 "media_type": "Text",
 "index_reference": "jews and gentiles nonjews",
@@ -1106,7 +1106,7 @@
 {
 "content_id": "500256",
 "reference_id": 203199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Job’s Innocence",
 "media_type": "Text",
 "index_reference": "jobs innocence",
@@ -1381,7 +1381,7 @@
 {
 "content_id": "500371",
 "reference_id": 203314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "John’s Profile of Discipleship",
 "media_type": "Text",
 "index_reference": "johns profile of discipleship",

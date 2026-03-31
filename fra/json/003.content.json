@@ -2,7 +2,7 @@
 {
 "content_id": "708406",
 "reference_id": 203100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babel : la dispersion des nations",
 "media_type": "Text",
 "index_reference": "babel  la dispersion des nations",
@@ -79,7 +79,7 @@
 {
 "content_id": "708451",
 "reference_id": 203323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baptême",
 "media_type": "Text",
 "index_reference": "baptême",
@@ -490,9 +490,9 @@
 {
 "id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "baptême",
-"confidence": 0.7486,
-"match_method": "scored"
+"confidence": 0.8116,
+"match_method": "scored",
+"preferred_label": "baptême"
 }
 ]
 }
@@ -500,7 +500,7 @@
 {
 "content_id": "708409",
 "reference_id": 203106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bénédiction",
 "media_type": "Text",
 "index_reference": "bénédiction",

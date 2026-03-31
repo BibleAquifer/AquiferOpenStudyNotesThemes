@@ -2,7 +2,7 @@
 {
 "content_id": "765213",
 "reference_id": 203356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kanisa",
 "media_type": "Text",
 "index_reference": "kanisa",
@@ -351,11 +351,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.9536,
-"match_method": "embedding"
+"id": "group:GenericChurch",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "The Church"
 }
 ]
 }
@@ -363,7 +363,7 @@
 {
 "content_id": "765208",
 "reference_id": 203351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kanisa kama hekalu la Mungu",
 "media_type": "Text",
 "index_reference": "kanisa kama hekalu la mungu",
@@ -614,7 +614,7 @@
 {
 "content_id": "765203",
 "reference_id": 203346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kanisa kama Mwili Hai na Mwenye Uhai",
 "media_type": "Text",
 "index_reference": "kanisa kama mwili hai na mwenye uhai",
@@ -727,7 +727,7 @@
 {
 "content_id": "764971",
 "reference_id": 203114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kanuni za Sheria za Kale",
 "media_type": "Text",
 "index_reference": "kanuni za sheria za kale",
@@ -816,7 +816,7 @@
 {
 "content_id": "765162",
 "reference_id": 203305,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Karamu ya Kimasihi",
 "media_type": "Text",
 "index_reference": "karamu ya kimasihi",
@@ -965,7 +965,7 @@
 {
 "content_id": "765225",
 "reference_id": 203368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kaya",
 "media_type": "Text",
 "index_reference": "kaya",
@@ -1066,7 +1066,7 @@
 {
 "content_id": "765223",
 "reference_id": 203366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kazi na Ufadhili",
 "media_type": "Text",
 "index_reference": "kazi na ufadhili",
@@ -1149,7 +1149,7 @@
 {
 "content_id": "765202",
 "reference_id": 203345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kazi ya Roho Mtakatifu",
 "media_type": "Text",
 "index_reference": "kazi ya roho mtakatifu",
@@ -1496,13 +1496,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.5972,
+"match_method": "scored",
+"preferred_label": "Roho"
+}
+]
 }
 },
 {
 "content_id": "765085",
 "reference_id": 203228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kiburi na Unyenyekevu",
 "media_type": "Text",
 "index_reference": "kiburi na unyenyekevu",
@@ -1687,7 +1695,7 @@
 {
 "content_id": "764964",
 "reference_id": 203107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kifo",
 "media_type": "Text",
 "index_reference": "kifo",
@@ -1974,7 +1982,7 @@
 {
 "content_id": "765036",
 "reference_id": 203179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuamini Nguvu za Binadamu",
 "media_type": "Text",
 "index_reference": "kuamini nguvu za binadamu",
@@ -2171,7 +2179,7 @@
 {
 "content_id": "765108",
 "reference_id": 203251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuanguka kwa Utamaduni",
 "media_type": "Text",
 "index_reference": "kuanguka kwa utamaduni",
@@ -2308,7 +2316,7 @@
 {
 "content_id": "765013",
 "reference_id": 203156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuasiliana na Wafu",
 "media_type": "Text",
 "index_reference": "kuasiliana na wafu",
@@ -2445,7 +2453,7 @@
 {
 "content_id": "765174",
 "reference_id": 203317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kubaki katika Kristo",
 "media_type": "Text",
 "index_reference": "kubaki katika kristo",
@@ -2618,7 +2626,7 @@
 {
 "content_id": "765057",
 "reference_id": 203200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuelewa Ayubu",
 "media_type": "Text",
 "index_reference": "kuelewa ayubu",
@@ -2749,7 +2757,7 @@
 {
 "content_id": "765070",
 "reference_id": 203213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuelewa Maana ya Uhamisho",
 "media_type": "Text",
 "index_reference": "kuelewa maana ya uhamisho",
@@ -2976,7 +2984,7 @@
 {
 "content_id": "765087",
 "reference_id": 203230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kufurahia Zawadi za Mungu",
 "media_type": "Text",
 "index_reference": "kufurahia zawadi za mungu",
@@ -3137,7 +3145,7 @@
 {
 "content_id": "765137",
 "reference_id": 203280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuhubiri kwa Umati Mgumu",
 "media_type": "Text",
 "index_reference": "kuhubiri kwa umati mgumu",
@@ -3292,7 +3300,7 @@
 {
 "content_id": "765216",
 "reference_id": 203359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuishi kwa Kristo",
 "media_type": "Text",
 "index_reference": "kuishi kwa kristo",
@@ -3393,7 +3401,7 @@
 {
 "content_id": "765237",
 "reference_id": 203380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuja kwa Bwana kama Hakimu",
 "media_type": "Text",
 "index_reference": "kuja kwa bwana kama hakimu",
@@ -3638,7 +3646,7 @@
 {
 "content_id": "765165",
 "reference_id": 203308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuja kwa Roho wa Mungu",
 "media_type": "Text",
 "index_reference": "kuja kwa roho wa mungu",
@@ -3793,7 +3801,7 @@
 {
 "content_id": "765150",
 "reference_id": 203293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuja kwa Ufalme wa Mungu",
 "media_type": "Text",
 "index_reference": "kuja kwa ufalme wa mungu",
@@ -4122,7 +4130,7 @@
 {
 "content_id": "764984",
 "reference_id": 203127,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kujitolea Kikamilifu",
 "media_type": "Text",
 "index_reference": "kujitolea kikamilifu",
@@ -4337,7 +4345,7 @@
 {
 "content_id": "765042",
 "reference_id": 203185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kukamilika kwa Hekalu la Pili",
 "media_type": "Text",
 "index_reference": "kukamilika kwa hekalu la pili ",
@@ -4432,7 +4440,7 @@
 {
 "content_id": "765201",
 "reference_id": 203344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kukataa Haki",
 "media_type": "Text",
 "index_reference": "kukataa haki",
@@ -4593,7 +4601,7 @@
 {
 "content_id": "765143",
 "reference_id": 203286,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kula Pamoja",
 "media_type": "Text",
 "index_reference": "kula pamoja",
@@ -4736,7 +4744,7 @@
 {
 "content_id": "765153",
 "reference_id": 203296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kumfuata Yesu",
 "media_type": "Text",
 "index_reference": "kumfuata yesu",
@@ -5173,7 +5181,7 @@
 {
 "content_id": "765200",
 "reference_id": 203343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kumilikiwa na Kristo",
 "media_type": "Text",
 "index_reference": "kumilikiwa na kristo",
@@ -5316,7 +5324,7 @@
 {
 "content_id": "765126",
 "reference_id": 203269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kumjua Mungu",
 "media_type": "Text",
 "index_reference": "kumjua mungu",
@@ -5489,7 +5497,7 @@
 {
 "content_id": "765215",
 "reference_id": 203358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kumshinda Shetani",
 "media_type": "Text",
 "index_reference": "kumshinda shetani",
@@ -5692,7 +5700,7 @@
 {
 "content_id": "765092",
 "reference_id": 203235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kumwamini Mungu katika Isaya",
 "media_type": "Text",
 "index_reference": "kumwamini mungu katika isaya",
@@ -5823,7 +5831,7 @@
 {
 "content_id": "765067",
 "reference_id": 203210,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kumwamini Mungu katika Zaburi",
 "media_type": "Text",
 "index_reference": "kumwamini mungu katika zaburi",
@@ -6284,7 +6292,7 @@
 {
 "content_id": "765091",
 "reference_id": 203234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuogopa Watu",
 "media_type": "Text",
 "index_reference": "kuogopa watu",
@@ -6475,7 +6483,7 @@
 {
 "content_id": "765178",
 "reference_id": 203321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kupaa kwa Yesu",
 "media_type": "Text",
 "index_reference": "kupaa kwa yesu",
@@ -6684,7 +6692,7 @@
 {
 "content_id": "765226",
 "reference_id": 203369,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kupitisha Mamlaka na Wajibu kwa Kiongozi Mpya",
 "media_type": "Text",
 "index_reference": "kupitisha mamlaka na wajibu kwa kiongozi mpya",
@@ -6863,7 +6871,7 @@
 {
 "content_id": "765001",
 "reference_id": 203144,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kurithi Ardhi",
 "media_type": "Text",
 "index_reference": "kurithi ardhi",
@@ -6952,7 +6960,7 @@
 {
 "content_id": "765133",
 "reference_id": 203276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kurudi kwa Bwana",
 "media_type": "Text",
 "index_reference": "kurudi kwa bwana",
@@ -7065,7 +7073,7 @@
 {
 "content_id": "765134",
 "reference_id": 203277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kurudi kwa Uwepo wa Mungu na Watu Wake",
 "media_type": "Text",
 "index_reference": "kurudi kwa uwepo wa mungu na watu wake",
@@ -7280,7 +7288,7 @@
 {
 "content_id": "765079",
 "reference_id": 203222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kusema",
 "media_type": "Text",
 "index_reference": "kusema",
@@ -7471,7 +7479,7 @@
 {
 "content_id": "765046",
 "reference_id": 203189,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kushughulikia Migogoro",
 "media_type": "Text",
 "index_reference": "kushughulikia migogoro",
@@ -7794,7 +7802,7 @@
 {
 "content_id": "764970",
 "reference_id": 203113,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kusudi la agano la Sinai",
 "media_type": "Text",
 "index_reference": "kusudi la agano la sinai",
@@ -7883,7 +7891,7 @@
 {
 "content_id": "765246",
 "reference_id": 203389,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kusudi la Hukumu",
 "media_type": "Text",
 "index_reference": "kusudi la hukumu",
@@ -8176,7 +8184,7 @@
 {
 "content_id": "765029",
 "reference_id": 203172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutafuta Bwana",
 "media_type": "Text",
 "index_reference": "kutafuta bwana",
@@ -8331,7 +8339,7 @@
 {
 "content_id": "764967",
 "reference_id": 203110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuteseka katika Kumfuata Mungu",
 "media_type": "Text",
 "index_reference": "kuteseka katika kumfuata mungu",
@@ -8504,7 +8512,7 @@
 {
 "content_id": "765209",
 "reference_id": 203352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutoa Kikristo",
 "media_type": "Text",
 "index_reference": "kutoa kikristo",
@@ -8767,7 +8775,7 @@
 {
 "content_id": "765170",
 "reference_id": 203313,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutoelewana katika injili ya Yohana",
 "media_type": "Text",
 "index_reference": "kutoelewana katika injili ya yohana",
@@ -8940,7 +8948,7 @@
 {
 "content_id": "764969",
 "reference_id": 203112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutoka kama Historia",
 "media_type": "Text",
 "index_reference": "kutoka kama historia",
@@ -8981,7 +8989,7 @@
 {
 "content_id": "765056",
 "reference_id": 203199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutokuwa na hatia kwa Ayubu",
 "media_type": "Text",
 "index_reference": "kutokuwa na hatia kwa ayubu",
@@ -9256,7 +9264,7 @@
 {
 "content_id": "765038",
 "reference_id": 203181,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuvunja Utakatifu",
 "media_type": "Text",
 "index_reference": "kuvunja utakatifu",
@@ -9375,7 +9383,7 @@
 {
 "content_id": "765248",
 "reference_id": 203391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuwabudu Malaika",
 "media_type": "Text",
 "index_reference": "kuwabudu malaika",
@@ -9440,7 +9448,7 @@
 {
 "content_id": "765204",
 "reference_id": 203347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuwapenda Wengine",
 "media_type": "Text",
 "index_reference": "kuwapenda wengine",
@@ -9625,7 +9633,7 @@
 {
 "content_id": "765158",
 "reference_id": 203301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuzaliwa kwa Kristo",
 "media_type": "Text",
 "index_reference": "kuzaliwa kwa kristo",
@@ -9660,7 +9668,7 @@
 {
 "content_id": "765235",
 "reference_id": 203378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kwa Imani",
 "media_type": "Text",
 "index_reference": "kwa imani",
@@ -9833,7 +9841,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 }
 ]

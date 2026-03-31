@@ -2,7 +2,7 @@
 {
 "content_id": "734189",
 "reference_id": 203162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jérusalem",
 "media_type": "Text",
 "index_reference": "jérusalem",
@@ -337,9 +337,16 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Jérusalem",
 "confidence": 0.6758,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jérusalem"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -347,7 +354,7 @@
 {
 "content_id": "734226",
 "reference_id": 203288,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jésus et Satan",
 "media_type": "Text",
 "index_reference": "jésus et satan",

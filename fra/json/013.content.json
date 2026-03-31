@@ -2,7 +2,7 @@
 {
 "content_id": "708405",
 "reference_id": 203096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mariage biblique",
 "media_type": "Text",
 "index_reference": "mariage biblique",
@@ -175,7 +175,7 @@
 {
 "content_id": "734216",
 "reference_id": 203259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Messages contre les nations",
 "media_type": "Text",
 "index_reference": "messages contre les nations",
@@ -312,7 +312,7 @@
 {
 "content_id": "734235",
 "reference_id": 203327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miracles",
 "media_type": "Text",
 "index_reference": "miracles",
@@ -647,7 +647,7 @@
 {
 "content_id": "708410",
 "reference_id": 203107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mort",
 "media_type": "Text",
 "index_reference": "mort",

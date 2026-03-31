@@ -2,7 +2,7 @@
 {
 "content_id": "702376",
 "reference_id": 203312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الماء الحي",
 "media_type": "Text",
 "index_reference": "الماء الحي",
@@ -91,7 +91,7 @@
 {
 "content_id": "702259",
 "reference_id": 203195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المجازاة المادية",
 "media_type": "Text",
 "index_reference": "المجازاة المادية",
@@ -282,7 +282,7 @@
 {
 "content_id": "702173",
 "reference_id": 203109,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المجاعة",
 "media_type": "Text",
 "index_reference": "المجاعة",
@@ -605,7 +605,7 @@
 {
 "content_id": "702446",
 "reference_id": 203382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المجتمع الجديد",
 "media_type": "Text",
 "index_reference": "المجتمع الجديد",
@@ -748,7 +748,7 @@
 {
 "content_id": "702443",
 "reference_id": 203379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المحبة في مجتمع ٱلمسيح",
 "media_type": "Text",
 "index_reference": "المحبة في مجتمع ٱلمسيح",
@@ -909,7 +909,7 @@
 {
 "content_id": "702168",
 "reference_id": 203104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المذابح",
 "media_type": "Text",
 "index_reference": "المذابح",
@@ -1106,13 +1106,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.669,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+}
+]
 }
 },
 {
 "content_id": "702265",
 "reference_id": 203201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المزامير الملكية",
 "media_type": "Text",
 "index_reference": "المزامير الملكية",
@@ -1285,7 +1293,7 @@
 {
 "content_id": "702206",
 "reference_id": 203142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المسؤولية الجماعية: خطية عخان",
 "media_type": "Text",
 "index_reference": "المسؤولية الجماعية خطية عخان",
@@ -1404,7 +1412,7 @@
 {
 "content_id": "702451",
 "reference_id": 203387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المسرح والإعلان",
 "media_type": "Text",
 "index_reference": "المسرح والإعلان",
@@ -1457,7 +1465,7 @@
 {
 "content_id": "702353",
 "reference_id": 203289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المسيّا",
 "media_type": "Text",
 "index_reference": "المسيّا",
@@ -1708,13 +1716,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.6131,
+"match_method": "scored",
+"preferred_label": "يَسوع"
+}
+]
 }
 },
 {
 "content_id": "702447",
 "reference_id": 203383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المعاناة المسيحية",
 "media_type": "Text",
 "index_reference": "المعاناة المسيحية",
@@ -1881,7 +1897,7 @@
 {
 "content_id": "702391",
 "reference_id": 203327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المعجزات",
 "media_type": "Text",
 "index_reference": "المعجزات",
@@ -2216,7 +2232,7 @@
 {
 "content_id": "702387",
 "reference_id": 203323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المعمودية",
 "media_type": "Text",
 "index_reference": "المعمودية",
@@ -2623,13 +2639,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.8116,
+"match_method": "scored",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
 "content_id": "702398",
 "reference_id": 203334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الملائكة",
 "media_type": "Text",
 "index_reference": "الملائكة",
@@ -3210,13 +3234,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.6023,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
+]
 }
 },
 {
 "content_id": "702456",
 "reference_id": 203392,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المُلك الألفيّ",
 "media_type": "Text",
 "index_reference": "المُلك الألفيّ",
@@ -3251,7 +3283,7 @@
 {
 "content_id": "702278",
 "reference_id": 203214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الملك الخالق",
 "media_type": "Text",
 "index_reference": "الملك الخالق",
@@ -3442,7 +3474,7 @@
 {
 "content_id": "702216",
 "reference_id": 203152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المَلَكية",
 "media_type": "Text",
 "index_reference": "المَلَكية",
@@ -3579,7 +3611,7 @@
 {
 "content_id": "702348",
 "reference_id": 203284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "المواطنة في الملكوت",
 "media_type": "Text",
 "index_reference": "المواطنة في الملكوت",
@@ -3686,7 +3718,7 @@
 {
 "content_id": "702171",
 "reference_id": 203107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الموت",
 "media_type": "Text",
 "index_reference": "الموت",
@@ -3973,7 +4005,7 @@
 {
 "content_id": "702275",
 "reference_id": 203211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الموسيقى في إسرائيل قديمًا",
 "media_type": "Text",
 "index_reference": "الموسيقى في إسرائيل قديمًا",
@@ -4074,7 +4106,7 @@
 {
 "content_id": "702337",
 "reference_id": 203273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ما هو الصالح؟",
 "media_type": "Text",
 "index_reference": "ما هو الصالح",
@@ -4331,7 +4363,7 @@
 {
 "content_id": "702319",
 "reference_id": 203255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مجد الرب في وسط شعبه",
 "media_type": "Text",
 "index_reference": "مجد الرب في وسط شعبه",
@@ -4528,7 +4560,7 @@
 {
 "content_id": "702179",
 "reference_id": 203115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مجد الله",
 "media_type": "Text",
 "index_reference": "مجد الله",
@@ -4791,13 +4823,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.5711,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
+]
 }
 },
 {
 "content_id": "702444",
 "reference_id": 203380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مجيء الرب كديّان",
 "media_type": "Text",
 "index_reference": "مجيء الرب كديّان",
@@ -5042,7 +5082,7 @@
 {
 "content_id": "702357",
 "reference_id": 203293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مجيء ملكوت الله",
 "media_type": "Text",
 "index_reference": "مجيء ملكوت الله",
@@ -5371,7 +5411,7 @@
 {
 "content_id": "702411",
 "reference_id": 203347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "محبة الآخرين",
 "media_type": "Text",
 "index_reference": "محبة الآخرين",
@@ -5556,7 +5596,7 @@
 {
 "content_id": "702203",
 "reference_id": 203139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "محبة الله العهدية",
 "media_type": "Text",
 "index_reference": "محبة الله العهدية",
@@ -5693,7 +5733,7 @@
 {
 "content_id": "702343",
 "reference_id": 203279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "محبة ٱلله لإسرائيل",
 "media_type": "Text",
 "index_reference": "محبة ٱلله لإسرائيل",
@@ -5842,7 +5882,7 @@
 {
 "content_id": "702283",
 "reference_id": 203219,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مخافة الرب",
 "media_type": "Text",
 "index_reference": "مخافة الرب",
@@ -5997,7 +6037,7 @@
 {
 "content_id": "702205",
 "reference_id": 203141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مدن الملجأ",
 "media_type": "Text",
 "index_reference": "مدن الملجأ",
@@ -6122,7 +6162,7 @@
 {
 "content_id": "702254",
 "reference_id": 203190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مركزية كلمة الله",
 "media_type": "Text",
 "index_reference": "مركزية كلمة الله",
@@ -6307,7 +6347,7 @@
 {
 "content_id": "702280",
 "reference_id": 203216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مزامير التسبيح",
 "media_type": "Text",
 "index_reference": "مزامير التسبيح",
@@ -6450,7 +6490,7 @@
 {
 "content_id": "702271",
 "reference_id": 203207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مزامير الحكمة",
 "media_type": "Text",
 "index_reference": "مزامير الحكمة",
@@ -6767,7 +6807,7 @@
 {
 "content_id": "702268",
 "reference_id": 203204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مزامير المعاناة",
 "media_type": "Text",
 "index_reference": "مزامير المعاناة",
@@ -6922,7 +6962,7 @@
 {
 "content_id": "702261",
 "reference_id": 203197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مشورة الآخرين",
 "media_type": "Text",
 "index_reference": "مشورة الآخرين",
@@ -7173,7 +7213,7 @@
 {
 "content_id": "702333",
 "reference_id": 203269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "معرفة ٱلله",
 "media_type": "Text",
 "index_reference": "معرفة ٱلله",
@@ -7346,7 +7386,7 @@
 {
 "content_id": "702379",
 "reference_id": 203315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مُعزّينا",
 "media_type": "Text",
 "index_reference": "مُعزّينا",
@@ -7525,7 +7565,7 @@
 {
 "content_id": "702242",
 "reference_id": 203178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "مقاصد ٱلله الغامضة في التاريخ",
 "media_type": "Text",
 "index_reference": "مقاصد ٱلله الغامضة في التاريخ",
@@ -7614,7 +7654,7 @@
 {
 "content_id": "702378",
 "reference_id": 203314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ملامح/مفهوم التلمذة في إنجيل يوحنا",
 "media_type": "Text",
 "index_reference": "ملامحمفهوم التلمذة في إنجيل يوحنا",
@@ -7841,7 +7881,7 @@
 {
 "content_id": "702239",
 "reference_id": 203175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ملكوت الله الموعود",
 "media_type": "Text",
 "index_reference": "ملكوت الله الموعود",
@@ -8050,7 +8090,7 @@
 {
 "content_id": "702397",
 "reference_id": 203333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "موهبة النبوة",
 "media_type": "Text",
 "index_reference": "موهبة النبوة",
@@ -8343,7 +8383,7 @@
 {
 "content_id": "702208",
 "reference_id": 203144,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ميراث الأرض",
 "media_type": "Text",
 "index_reference": "ميراث الأرض",
@@ -8432,7 +8472,7 @@
 {
 "content_id": "702365",
 "reference_id": 203301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ميلاد المسيح",
 "media_type": "Text",
 "index_reference": "ميلاد المسيح",

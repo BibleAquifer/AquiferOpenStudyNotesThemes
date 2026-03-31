@@ -2,7 +2,7 @@
 {
 "content_id": "500299",
 "reference_id": 203242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salvation in Isaiah",
 "media_type": "Text",
 "index_reference": "salvation in isaiah",
@@ -151,7 +151,7 @@
 {
 "content_id": "500260",
 "reference_id": 203203,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salvation in the Psalms",
 "media_type": "Text",
 "index_reference": "salvation in the psalms",
@@ -552,7 +552,7 @@
 {
 "content_id": "500351",
 "reference_id": 203294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Secret of the Messiah",
 "media_type": "Text",
 "index_reference": "secret of the messiah",
@@ -707,7 +707,7 @@
 {
 "content_id": "500443",
 "reference_id": 203386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Security and Obedience",
 "media_type": "Text",
 "index_reference": "security and obedience",
@@ -1024,7 +1024,7 @@
 {
 "content_id": "500229",
 "reference_id": 203172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seeking the Lord",
 "media_type": "Text",
 "index_reference": "seeking the lord",
@@ -1179,7 +1179,7 @@
 {
 "content_id": "500188",
 "reference_id": 203131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Servant-Leader",
 "media_type": "Text",
 "index_reference": "servantleader",
@@ -1388,7 +1388,7 @@
 {
 "content_id": "500324",
 "reference_id": 203267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Seventy Sets of Seven",
 "media_type": "Text",
 "index_reference": "seventy sets of seven",
@@ -1627,7 +1627,7 @@
 {
 "content_id": "500200",
 "reference_id": 203143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shechem",
 "media_type": "Text",
 "index_reference": "shechem",
@@ -1720,16 +1720,16 @@
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "Shechem",
 "confidence": 0.674,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Shechem"
 },
 {
 "id": "person:Shechem",
 "type": "person",
-"preferred_label": "Shechem",
 "confidence": 0.6301,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Shechem"
 }
 ]
 }
@@ -1737,7 +1737,7 @@
 {
 "content_id": "500262",
 "reference_id": 203205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Shepherd",
 "media_type": "Text",
 "index_reference": "shepherd",
@@ -2034,9 +2034,9 @@
 {
 "id": "fauna:Flock",
 "type": "fauna",
-"preferred_label": "Flock",
 "confidence": 0.5911,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Flock"
 }
 ]
 }
@@ -2044,7 +2044,7 @@
 {
 "content_id": "500154",
 "reference_id": 203097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sin Enters the World",
 "media_type": "Text",
 "index_reference": "sin enters the world",
@@ -2241,7 +2241,7 @@
 {
 "content_id": "500428",
 "reference_id": 203371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Slavery",
 "media_type": "Text",
 "index_reference": "slavery",
@@ -2306,7 +2306,7 @@
 {
 "content_id": "500205",
 "reference_id": 203148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Social Chaos in Judges",
 "media_type": "Text",
 "index_reference": "social chaos in judges",
@@ -2485,7 +2485,7 @@
 {
 "content_id": "500327",
 "reference_id": 203270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Social Justice",
 "media_type": "Text",
 "index_reference": "social justice",
@@ -2730,7 +2730,7 @@
 {
 "content_id": "500221",
 "reference_id": 203164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Solomon’s Wisdom",
 "media_type": "Text",
 "index_reference": "solomons wisdom",
@@ -2945,7 +2945,7 @@
 {
 "content_id": "500352",
 "reference_id": 203295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Son of God",
 "media_type": "Text",
 "index_reference": "son of god",
@@ -3514,7 +3514,7 @@
 {
 "content_id": "500342",
 "reference_id": 203285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Son of Man",
 "media_type": "Text",
 "index_reference": "son of man",
@@ -3879,7 +3879,7 @@
 {
 "content_id": "500396",
 "reference_id": 203339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Sovereignty of God",
 "media_type": "Text",
 "index_reference": "sovereignty of god",
@@ -4196,7 +4196,7 @@
 {
 "content_id": "500279",
 "reference_id": 203222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Speaking",
 "media_type": "Text",
 "index_reference": "speaking",
@@ -4387,7 +4387,7 @@
 {
 "content_id": "500187",
 "reference_id": 203130,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spirit Empowerment",
 "media_type": "Text",
 "index_reference": "spirit empowerment",
@@ -4692,7 +4692,7 @@
 {
 "content_id": "500240",
 "reference_id": 203183,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Spirit of the Law",
 "media_type": "Text",
 "index_reference": "spirit of the law",
@@ -4787,7 +4787,7 @@
 {
 "content_id": "500212",
 "reference_id": 203155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Spirit’s Presence",
 "media_type": "Text",
 "index_reference": "spirits presence",
@@ -5026,7 +5026,7 @@
 {
 "content_id": "500433",
 "reference_id": 203376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spiritual Maturity",
 "media_type": "Text",
 "index_reference": "spiritual maturity",
@@ -5127,7 +5127,7 @@
 {
 "content_id": "500332",
 "reference_id": 203275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spiritual Renewal in the Later Prophets",
 "media_type": "Text",
 "index_reference": "spiritual renewal in the later prophets",
@@ -5246,7 +5246,7 @@
 {
 "content_id": "500347",
 "reference_id": 203290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Stone the Builders Rejected",
 "media_type": "Text",
 "index_reference": "stone the builders rejected",
@@ -5647,7 +5647,7 @@
 {
 "content_id": "500167",
 "reference_id": 203110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Suffering in Following God",
 "media_type": "Text",
 "index_reference": "suffering in following god",
@@ -5820,7 +5820,7 @@
 {
 "content_id": "500360",
 "reference_id": 203303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Suffering Prophet",
 "media_type": "Text",
 "index_reference": "suffering prophet",
@@ -5993,7 +5993,7 @@
 {
 "content_id": "500429",
 "reference_id": 203372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "The Superiority of the Son",
 "media_type": "Text",
 "index_reference": "superiority of the son",
@@ -6178,7 +6178,7 @@
 {
 "content_id": "500445",
 "reference_id": 203388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Symbolic Numbers",
 "media_type": "Text",
 "index_reference": "symbolic numbers",

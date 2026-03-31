@@ -2,7 +2,7 @@
 {
 "content_id": "708449",
 "reference_id": 203311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "« Croire » dans l'Évangile de Jean",
 "media_type": "Text",
 "index_reference": " croire  dans lévangile de jean",
@@ -199,7 +199,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5613,
+"match_method": "scored",
+"preferred_label": "croire"
+}
+]
 }
 }
 ]

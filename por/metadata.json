@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-03-27",
+"date_created": "2026-03-31",
 "language": "por",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-03-27T16:28:10.312310"
+"dateCreated": "2026-03-31T10:02:09.565105"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-03-27T16:28:10.312310"
+"timestamp": "2026-03-31T10:02:09.565105"
 }
 }
 },
@@ -555,7 +555,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 322868
+"size": 323339
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -563,7 +563,7 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 92479
+"size": 92616
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -571,7 +571,7 @@
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 37943
+"size": 38012
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
@@ -591,7 +591,7 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 41252
+"size": 41293
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
@@ -603,15 +603,15 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 17317
+"size": 17376
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 238869
+"size": 239068
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 81132
+"size": 81276
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
@@ -623,11 +623,11 @@
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 94088
+"size": 94219
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 21969
+"size": 22030
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
@@ -715,83 +715,83 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 2249017
+"size": 2118301
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 189454
+"size": 181886
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 684271
+"size": 648096
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 289132
+"size": 273726
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 292380
+"size": 281050
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 188608
+"size": 178185
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 81489
+"size": 77761
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 114829
+"size": 111442
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 131070
+"size": 126638
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 340237
+"size": 322263
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 318849
+"size": 302430
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 240147
+"size": 226052
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 172634
+"size": 162933
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1695473
+"size": 1605296
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 580712
+"size": 551385
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 62800
+"size": 62844
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 449410
+"size": 423442
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 721181
+"size": 684149
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 174105
+"size": 167308
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 234412
+"size": 221754
 }
 },
 "copyright": {

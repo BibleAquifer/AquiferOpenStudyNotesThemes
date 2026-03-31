@@ -2,7 +2,7 @@
 {
 "content_id": "765244",
 "reference_id": 203387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamthilia na Ufunuo",
 "media_type": "Text",
 "index_reference": "tamthilia na ufunuo",
@@ -55,7 +55,7 @@
 {
 "content_id": "764960",
 "reference_id": 203103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tohara",
 "media_type": "Text",
 "index_reference": "tohara",
@@ -348,13 +348,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.6925,
+"match_method": "scored",
+"preferred_label": "Circumcision"
+}
+]
 }
 },
 {
 "content_id": "765187",
 "reference_id": 203330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tohara katika Agano Jipya",
 "media_type": "Text",
 "index_reference": "tohara katika agano jipya",
@@ -605,7 +613,7 @@
 {
 "content_id": "765159",
 "reference_id": 203302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tumaini kwa Masihi",
 "media_type": "Text",
 "index_reference": "tumaini kwa masihi",
@@ -730,7 +738,7 @@
 {
 "content_id": "765109",
 "reference_id": 203252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tumaini Zaidi ya Hukumu",
 "media_type": "Text",
 "index_reference": "tumaini zaidi ya hukumu",

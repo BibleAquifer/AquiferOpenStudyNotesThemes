@@ -2,7 +2,7 @@
 {
 "content_id": "702354",
 "reference_id": 203290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحجر الذي رفضه البناؤون",
 "media_type": "Text",
 "index_reference": "الحجر الذي رفضه البناؤون",
@@ -403,7 +403,7 @@
 {
 "content_id": "702284",
 "reference_id": 203220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحكمة",
 "media_type": "Text",
 "index_reference": "الحكمة",
@@ -580,9 +580,9 @@
 {
 "id": "person:Wisdom",
 "type": "person",
-"preferred_label": "Wisdom",
-"confidence": 0.8993,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
 }
 ]
 }
@@ -590,7 +590,7 @@
 {
 "content_id": "702421",
 "reference_id": 203357,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحياة القديمة والحياة الجديدة",
 "media_type": "Text",
 "index_reference": "الحياة القديمة والحياة الجديدة",
@@ -673,7 +673,7 @@
 {
 "content_id": "702262",
 "reference_id": 203198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحياة بعد الموت",
 "media_type": "Text",
 "index_reference": "الحياة بعد الموت",
@@ -1026,7 +1026,7 @@
 {
 "content_id": "702196",
 "reference_id": 203132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحيّة النحاسية",
 "media_type": "Text",
 "index_reference": "الحيّة النحاسية",
@@ -1127,7 +1127,7 @@
 {
 "content_id": "702402",
 "reference_id": 203338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حدود الناموس",
 "media_type": "Text",
 "index_reference": "حدود الناموس",
@@ -1414,7 +1414,7 @@
 {
 "content_id": "702204",
 "reference_id": 203140,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حرب مُقدَّسة",
 "media_type": "Text",
 "index_reference": "حرب مُقدَّسة",
@@ -1629,7 +1629,7 @@
 {
 "content_id": "702211",
 "reference_id": 203147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حزن ٱلله على الردة",
 "media_type": "Text",
 "index_reference": "حزن ٱلله على الردة",
@@ -1742,7 +1742,7 @@
 {
 "content_id": "702219",
 "reference_id": 203155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حضور الروح القدس",
 "media_type": "Text",
 "index_reference": "حضور الروح القدس",
@@ -1981,7 +1981,7 @@
 {
 "content_id": "702386",
 "reference_id": 203322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حضور الرّوح القدس",
 "media_type": "Text",
 "index_reference": "حضور الرّوح القدس",
@@ -2280,7 +2280,7 @@
 {
 "content_id": "702270",
 "reference_id": 203206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حضور ٱلله في المزامير",
 "media_type": "Text",
 "index_reference": "حضور ٱلله في المزامير",
@@ -2531,7 +2531,7 @@
 {
 "content_id": "702336",
 "reference_id": 203272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حكم ٱلله وسلطانه على جميع الأمم",
 "media_type": "Text",
 "index_reference": "حكم ٱلله وسلطانه على جميع الأمم",
@@ -2758,7 +2758,7 @@
 {
 "content_id": "702228",
 "reference_id": 203164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حكمة سليمان",
 "media_type": "Text",
 "index_reference": "حكمة سليمان",
@@ -2973,7 +2973,7 @@
 {
 "content_id": "702372",
 "reference_id": 203308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حلول الروح القدس",
 "media_type": "Text",
 "index_reference": "حلول الروح القدس",

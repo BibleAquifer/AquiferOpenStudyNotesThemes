@@ -2,7 +2,7 @@
 {
 "content_id": "702174",
 "reference_id": 203110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الصعوبات في تبعية ٱلله",
 "media_type": "Text",
 "index_reference": "الصعوبات في تبعية ٱلله",
@@ -175,7 +175,7 @@
 {
 "content_id": "702383",
 "reference_id": 203319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الصليب والفصح",
 "media_type": "Text",
 "index_reference": "الصليب والفصح",
@@ -372,7 +372,7 @@
 {
 "content_id": "702384",
 "reference_id": 203320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الصيد في الجليل",
 "media_type": "Text",
 "index_reference": "الصيد في الجليل",
@@ -479,7 +479,7 @@
 {
 "content_id": "702385",
 "reference_id": 203321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صعود الرب يسوع",
 "media_type": "Text",
 "index_reference": "صعود الرب يسوع",
@@ -688,7 +688,7 @@
 {
 "content_id": "702281",
 "reference_id": 203217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صلوات النقمة",
 "media_type": "Text",
 "index_reference": "صلوات النقمة",
@@ -915,7 +915,7 @@
 {
 "content_id": "702368",
 "reference_id": 203304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صلوات يسوع",
 "media_type": "Text",
 "index_reference": "صلوات يسوع",
@@ -1046,7 +1046,7 @@
 {
 "content_id": "702273",
 "reference_id": 203209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صهيون",
 "media_type": "Text",
 "index_reference": "صهيون",
@@ -1585,7 +1585,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.8367,
+"match_method": "scored",
+"preferred_label": "أورشَلِيمَ"
+}
+]
 }
 }
 ]

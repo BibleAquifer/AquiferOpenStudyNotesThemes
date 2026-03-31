@@ -2,7 +2,7 @@
 {
 "content_id": "800544",
 "reference_id": 203375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Palavra de Deus",
 "media_type": "Text",
 "index_reference": "palavra de deus",
@@ -211,7 +211,7 @@
 {
 "content_id": "800298",
 "reference_id": 203129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pão do céu",
 "media_type": "Text",
 "index_reference": "pão do céu",
@@ -348,7 +348,7 @@
 {
 "content_id": "800536",
 "reference_id": 203367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Papéis das mulheres na igreja do Novo Testamento",
 "media_type": "Text",
 "index_reference": "papéis das mulheres na igreja do novo testamento",
@@ -503,7 +503,7 @@
 {
 "content_id": "800538",
 "reference_id": 203369,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Passando a autoridade e responsabilidade para um novo líder",
 "media_type": "Text",
 "index_reference": "passando a autoridade e responsabilidade para um novo líder",
@@ -682,7 +682,7 @@
 {
 "content_id": "800547",
 "reference_id": 203378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pela fé",
 "media_type": "Text",
 "index_reference": "pela fé",
@@ -855,13 +855,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "crer"
+}
+]
 }
 },
 {
 "content_id": "800483",
 "reference_id": 203314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perfil de discipulado de João",
 "media_type": "Text",
 "index_reference": "perfil de discipulado de joão",
@@ -1088,7 +1096,7 @@
 {
 "content_id": "800377",
 "reference_id": 203208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perguntas e dúvidas",
 "media_type": "Text",
 "index_reference": "perguntas e dúvidas",
@@ -1393,7 +1401,7 @@
 {
 "content_id": "800486",
 "reference_id": 203317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Permanecendo em Cristo",
 "media_type": "Text",
 "index_reference": "permanecendo em cristo",
@@ -1566,7 +1574,7 @@
 {
 "content_id": "800494",
 "reference_id": 203325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perseguição",
 "media_type": "Text",
 "index_reference": "perseguição",
@@ -1973,7 +1981,7 @@
 {
 "content_id": "800512",
 "reference_id": 203343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pertencer a Cristo",
 "media_type": "Text",
 "index_reference": "pertencer a cristo",
@@ -2116,7 +2124,7 @@
 {
 "content_id": "800489",
 "reference_id": 203320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pescando na Galileia",
 "media_type": "Text",
 "index_reference": "pescando na galileia",
@@ -2223,7 +2231,7 @@
 {
 "content_id": "800346",
 "reference_id": 203177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Plano de Deus para restaurar",
 "media_type": "Text",
 "index_reference": "plano de deus para restaurar",
@@ -2378,7 +2386,7 @@
 {
 "content_id": "800505",
 "reference_id": 203336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Plano unificado de Salvação de Deus",
 "media_type": "Text",
 "index_reference": "plano unificado de salvação de deus",
@@ -2569,7 +2577,7 @@
 {
 "content_id": "800452",
 "reference_id": 203283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pouca fé",
 "media_type": "Text",
 "index_reference": "pouca fé",
@@ -2652,13 +2660,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.5655,
+"match_method": "scored",
+"preferred_label": "de pequena fé"
+}
+]
 }
 },
 {
 "content_id": "800449",
 "reference_id": 203280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pregando para uma multidão difícil",
 "media_type": "Text",
 "index_reference": "pregando para uma multidão difícil",
@@ -2813,7 +2829,7 @@
 {
 "content_id": "800396",
 "reference_id": 203227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Preguiça e trabalho duro",
 "media_type": "Text",
 "index_reference": "preguiça e trabalho duro",
@@ -3070,7 +3086,7 @@
 {
 "content_id": "800295",
 "reference_id": 203126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Preocupação com os pobres",
 "media_type": "Text",
 "index_reference": "preocupação com os pobres",
@@ -3369,7 +3385,7 @@
 {
 "content_id": "800338",
 "reference_id": 203169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Profetas em 1 Reis",
 "media_type": "Text",
 "index_reference": "profetas em 1 reis",
@@ -3530,7 +3546,7 @@
 {
 "content_id": "800431",
 "reference_id": 203262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Projeto do templo como uma representação da verdade de Deus",
 "media_type": "Text",
 "index_reference": "projeto do templo como uma representação da verdade de deus",
@@ -3643,7 +3659,7 @@
 {
 "content_id": "800353",
 "reference_id": 203184,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pureza e identidade",
 "media_type": "Text",
 "index_reference": "pureza e identidade",
@@ -3810,7 +3826,7 @@
 {
 "content_id": "800362",
 "reference_id": 203193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Purim",
 "media_type": "Text",
 "index_reference": "purim",

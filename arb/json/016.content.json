@@ -2,7 +2,7 @@
 {
 "content_id": "702432",
 "reference_id": 203368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العائلة",
 "media_type": "Text",
 "index_reference": "العائلة",
@@ -103,7 +103,7 @@
 {
 "content_id": "702189",
 "reference_id": 203125,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العائلة والمجتمع والخطية الجنسية",
 "media_type": "Text",
 "index_reference": "العائلة والمجتمع والخطية الجنسية",
@@ -228,7 +228,7 @@
 {
 "content_id": "702382",
 "reference_id": 203318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العالم",
 "media_type": "Text",
 "index_reference": "العالم",
@@ -545,7 +545,7 @@
 {
 "content_id": "702401",
 "reference_id": 203337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العالم القديم والعالم الجديد",
 "media_type": "Text",
 "index_reference": "العالم القديم والعالم الجديد",
@@ -796,7 +796,7 @@
 {
 "content_id": "702229",
 "reference_id": 203165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العبادة النقية",
 "media_type": "Text",
 "index_reference": "العبادة النقية",
@@ -1161,7 +1161,7 @@
 {
 "content_id": "702238",
 "reference_id": 203174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العِبَادَة في الهَيْكل",
 "media_type": "Text",
 "index_reference": "العِبَادَة في الهَيْكل",
@@ -1352,7 +1352,7 @@
 {
 "content_id": "702335",
 "reference_id": 203271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العبادة في أورشليم",
 "media_type": "Text",
 "index_reference": "العبادة في أورشليم",
@@ -1501,7 +1501,7 @@
 {
 "content_id": "702435",
 "reference_id": 203371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العبودية",
 "media_type": "Text",
 "index_reference": "العبودية",
@@ -1566,7 +1566,7 @@
 {
 "content_id": "702334",
 "reference_id": 203270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العدالة الاجتماعية",
 "media_type": "Text",
 "index_reference": "العدالة الاجتماعية",
@@ -1811,7 +1811,7 @@
 {
 "content_id": "702201",
 "reference_id": 203137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العدل الحقيقي",
 "media_type": "Text",
 "index_reference": "العدل الحقيقي",
@@ -1990,7 +1990,7 @@
 {
 "content_id": "702416",
 "reference_id": 203352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العطاء المسيحي",
 "media_type": "Text",
 "index_reference": "العطاء المسيحي",
@@ -2253,7 +2253,7 @@
 {
 "content_id": "702169",
 "reference_id": 203105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العقم",
 "media_type": "Text",
 "index_reference": "العقم",
@@ -2498,7 +2498,7 @@
 {
 "content_id": "702430",
 "reference_id": 203366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العمل ودعم الآخرين",
 "media_type": "Text",
 "index_reference": "العمل ودعم الآخرين",
@@ -2581,7 +2581,7 @@
 {
 "content_id": "702317",
 "reference_id": 203253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العهد الجديد",
 "media_type": "Text",
 "index_reference": "العهد الجديد",
@@ -2754,7 +2754,7 @@
 {
 "content_id": "702308",
 "reference_id": 203244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العهد المكسور",
 "media_type": "Text",
 "index_reference": "العهد المكسور",
@@ -2885,7 +2885,7 @@
 {
 "content_id": "702340",
 "reference_id": 203276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العودة إلى الرب",
 "media_type": "Text",
 "index_reference": "العودة إلى الرب",
@@ -2998,7 +2998,7 @@
 {
 "content_id": "702423",
 "reference_id": 203359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العيش من أجل المسيح",
 "media_type": "Text",
 "index_reference": "العيش من أجل المسيح",
@@ -3099,7 +3099,7 @@
 {
 "content_id": "702455",
 "reference_id": 203391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عبادة الملائكة",
 "media_type": "Text",
 "index_reference": "عبادة الملائكة",
@@ -3164,7 +3164,7 @@
 {
 "content_id": "702304",
 "reference_id": 203240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عبد الرب",
 "media_type": "Text",
 "index_reference": "عبد الرب",
@@ -3415,7 +3415,7 @@
 {
 "content_id": "702303",
 "reference_id": 203239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عدل الله",
 "media_type": "Text",
 "index_reference": "عدل الله",
@@ -3900,7 +3900,7 @@
 {
 "content_id": "702409",
 "reference_id": 203345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عمل الروح",
 "media_type": "Text",
 "index_reference": "عمل الروح",
@@ -4247,13 +4247,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.5972,
+"match_method": "scored",
+"preferred_label": "ٱلرّوحِ"
+}
+]
 }
 },
 {
 "content_id": "702197",
 "reference_id": 203133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عمود السحاب وعمود النار",
 "media_type": "Text",
 "index_reference": "عمود السحاب وعمود النار",
@@ -4582,7 +4590,7 @@
 {
 "content_id": "702413",
 "reference_id": 203349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عهد الله الجديد",
 "media_type": "Text",
 "index_reference": "عهد الله الجديد",
@@ -4803,7 +4811,7 @@
 {
 "content_id": "702166",
 "reference_id": 203102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عهد ٱلله مع إبراهيم",
 "media_type": "Text",
 "index_reference": "عهد ٱلله مع إبراهيم",
@@ -5072,7 +5080,7 @@
 {
 "content_id": "702224",
 "reference_id": 203160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عهد ٱلله مع داود",
 "media_type": "Text",
 "index_reference": "عهد ٱلله مع داود",
@@ -5413,7 +5421,7 @@
 {
 "content_id": "702227",
 "reference_id": 203163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عهد ٱلله مع ملوك إسرائيل",
 "media_type": "Text",
 "index_reference": "عهد ٱلله مع ملوك إسرائيل",
@@ -5664,7 +5672,7 @@
 {
 "content_id": "702163",
 "reference_id": 203099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عهد ٱلله مع نوح",
 "media_type": "Text",
 "index_reference": "عهد ٱلله مع نوح",
@@ -5789,7 +5797,7 @@
 {
 "content_id": "702165",
 "reference_id": 203101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عهود الله",
 "media_type": "Text",
 "index_reference": "عهود الله",
@@ -6096,7 +6104,7 @@
 {
 "content_id": "702341",
 "reference_id": 203277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عودة حضور ٱلله وسط شعبه",
 "media_type": "Text",
 "index_reference": "عودة حضور ٱلله وسط شعبه",

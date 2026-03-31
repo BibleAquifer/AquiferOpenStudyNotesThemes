@@ -2,7 +2,7 @@
 {
 "content_id": "709358",
 "reference_id": 203129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "स्वर्ग से रोटी",
 "media_type": "Text",
 "index_reference": "स्वर्ग से रोटी",
@@ -139,7 +139,7 @@
 {
 "content_id": "709563",
 "reference_id": 203334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "स्वर्गदूत",
 "media_type": "Text",
 "index_reference": "स्वर्गदूत",
@@ -720,13 +720,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.6023,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
+]
 }
 },
 {
 "content_id": "709620",
 "reference_id": 203391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "स्वर्गदूतों की उपासना",
 "media_type": "Text",
 "index_reference": "स्वर्गदूतों की उपासना",
@@ -791,7 +799,7 @@
 {
 "content_id": "709564",
 "reference_id": 203335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "स्वाभाविक प्रकाशन",
 "media_type": "Text",
 "index_reference": "स्वाभाविक प्रकाशन",

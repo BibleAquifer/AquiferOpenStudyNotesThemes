@@ -2,7 +2,7 @@
 {
 "content_id": "765019",
 "reference_id": 203162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yerusalemu",
 "media_type": "Text",
 "index_reference": "yerusalemu",
@@ -329,9 +329,16 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Yerusalemu",
 "confidence": 0.6758,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yerusalemu"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -339,7 +346,7 @@
 {
 "content_id": "765145",
 "reference_id": 203288,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yesu na Shetani",
 "media_type": "Text",
 "index_reference": "yesu na shetani",
@@ -560,21 +567,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "deity:Satan",
-"type": "deity",
-"preferred_label": "Shetani",
-"confidence": 0.5617,
-"match_method": "scored"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "765086",
 "reference_id": 203229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yote Ni \"Mvuke\"",
 "media_type": "Text",
 "index_reference": "yote ni mvuke",

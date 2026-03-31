@@ -2,7 +2,7 @@
 {
 "content_id": "702349",
 "reference_id": 203285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ابن الإنسان",
 "media_type": "Text",
 "index_reference": "ابن الإنسان",
@@ -367,7 +367,7 @@
 {
 "content_id": "702359",
 "reference_id": 203295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ابن الله",
 "media_type": "Text",
 "index_reference": "ابن الله",
@@ -936,7 +936,7 @@
 {
 "content_id": "702223",
 "reference_id": 203159,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "احتفال",
 "media_type": "Text",
 "index_reference": "احتفال",
@@ -1223,7 +1223,7 @@
 {
 "content_id": "702314",
 "reference_id": 203250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "اختيار الحياة أو الموت",
 "media_type": "Text",
 "index_reference": "اختيار الحياة أو الموت",
@@ -1402,7 +1402,7 @@
 {
 "content_id": "702234",
 "reference_id": 203170,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أخطار الخطية وأهوالها",
 "media_type": "Text",
 "index_reference": "أخطار الخطية وأهوالها",
@@ -1923,7 +1923,7 @@
 {
 "content_id": "702431",
 "reference_id": 203367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أدوار النساء في كنيسة العهد الجديد",
 "media_type": "Text",
 "index_reference": "أدوار النساء في كنيسة العهد الجديد",
@@ -2078,7 +2078,7 @@
 {
 "content_id": "702329",
 "reference_id": 203265,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أربع إمبراطوريات عالمية",
 "media_type": "Text",
 "index_reference": "أربع إمبراطوريات عالمية",
@@ -2119,7 +2119,7 @@
 {
 "content_id": "702172",
 "reference_id": 203108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أرض الموعد",
 "media_type": "Text",
 "index_reference": "أرض الموعد",
@@ -2262,13 +2262,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.6051,
+"match_method": "scored",
+"preferred_label": "كَنْعَان"
+}
+]
 }
 },
 {
 "content_id": "702200",
 "reference_id": 203136,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إزالة الشر",
 "media_type": "Text",
 "index_reference": "إزالة الشر",
@@ -2447,7 +2455,7 @@
 {
 "content_id": "702272",
 "reference_id": 203208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أسئلة وشكوك",
 "media_type": "Text",
 "index_reference": "أسئلة وشكوك",
@@ -2752,7 +2760,7 @@
 {
 "content_id": "702220",
 "reference_id": 203156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "استدعاء أرواح الموتى",
 "media_type": "Text",
 "index_reference": "استدعاء أرواح الموتى",
@@ -2889,7 +2897,7 @@
 {
 "content_id": "702240",
 "reference_id": 203176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "اسم الله على هيكله",
 "media_type": "Text",
 "index_reference": "اسم الله على هيكله",
@@ -2948,13 +2956,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5688,
+"match_method": "scored",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
 "content_id": "702209",
 "reference_id": 203145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "اضطهاد شعب ٱلله",
 "media_type": "Text",
 "index_reference": "اضطهاد شعب ٱلله",
@@ -3097,7 +3113,7 @@
 {
 "content_id": "702252",
 "reference_id": 203188,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إعادة بناء أورشليم",
 "media_type": "Text",
 "index_reference": "إعادة بناء أورشليم",
@@ -3228,7 +3244,7 @@
 {
 "content_id": "702249",
 "reference_id": 203185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "اكتمال الهيكل الثاني",
 "media_type": "Text",
 "index_reference": "اكتمال الهيكل الثاني",
@@ -3323,7 +3339,7 @@
 {
 "content_id": "702290",
 "reference_id": 203226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الآباء والأبناء",
 "media_type": "Text",
 "index_reference": "الآباء والأبناء",
@@ -3562,7 +3578,7 @@
 {
 "content_id": "702374",
 "reference_id": 203310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الآيات المعجزية في إنجيل يوحنّا",
 "media_type": "Text",
 "index_reference": "الآيات المعجزية في إنجيل يوحنّا",
@@ -3891,7 +3907,7 @@
 {
 "content_id": "702260",
 "reference_id": 203196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأبرار يعانون",
 "media_type": "Text",
 "index_reference": "الأبرار يعانون",
@@ -4106,7 +4122,7 @@
 {
 "content_id": "702325",
 "reference_id": 203261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأدب الرؤيويّ الأخرويّ (أبوغلمسيس/ أبوكلبسيس)",
 "media_type": "Text",
 "index_reference": "الأدب الرؤيويّ الأخرويّ أبوغلمسيس أبوكلبسيس",
@@ -4153,7 +4169,7 @@
 {
 "content_id": "702437",
 "reference_id": 203373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الارتداد",
 "media_type": "Text",
 "index_reference": "الارتداد",
@@ -4320,7 +4336,7 @@
 {
 "content_id": "702246",
 "reference_id": 203182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الارتداد والتجديد",
 "media_type": "Text",
 "index_reference": "الارتداد والتجديد",
@@ -4487,7 +4503,7 @@
 {
 "content_id": "702230",
 "reference_id": 203166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأرض",
 "media_type": "Text",
 "index_reference": "الأرض",
@@ -4714,7 +4730,7 @@
 {
 "content_id": "702452",
 "reference_id": 203388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأرقام الرمزيّة",
 "media_type": "Text",
 "index_reference": "الأرقام الرمزيّة",
@@ -5175,7 +5191,7 @@
 {
 "content_id": "702294",
 "reference_id": 203230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الاستمتاع بعطايا الله",
 "media_type": "Text",
 "index_reference": "الاستمتاع بعطايا الله",
@@ -5336,7 +5352,7 @@
 {
 "content_id": "702389",
 "reference_id": 203325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الاضطهاد",
 "media_type": "Text",
 "index_reference": "الاضطهاد",
@@ -5743,7 +5759,7 @@
 {
 "content_id": "702399",
 "reference_id": 203335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الإعلان العام في الطبيعة",
 "media_type": "Text",
 "index_reference": "الإعلان العام في الطبيعة",
@@ -5808,7 +5824,7 @@
 {
 "content_id": "702370",
 "reference_id": 203306,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأغنياء والمساكين في إنجيل لوقا",
 "media_type": "Text",
 "index_reference": "الأغنياء والمساكين في إنجيل لوقا",
@@ -5897,7 +5913,7 @@
 {
 "content_id": "702320",
 "reference_id": 203256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأفعال النبوية (الرمزية)",
 "media_type": "Text",
 "index_reference": "الأفعال النبوية الرمزية",
@@ -6070,7 +6086,7 @@
 {
 "content_id": "702395",
 "reference_id": 203331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الإله المجهول",
 "media_type": "Text",
 "index_reference": "الإله المجهول",
@@ -6159,7 +6175,7 @@
 {
 "content_id": "702450",
 "reference_id": 203386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأمان والطاعة",
 "media_type": "Text",
 "index_reference": "الأمان والطاعة",
@@ -6476,7 +6492,7 @@
 {
 "content_id": "702428",
 "reference_id": 203364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأمور الأخيرة ومؤمنو تسالونيكي",
 "media_type": "Text",
 "index_reference": "الأمور الأخيرة ومؤمنو تسالونيكي",
@@ -6553,7 +6569,7 @@
 {
 "content_id": "702321",
 "reference_id": 203257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأنبياء الكذبة",
 "media_type": "Text",
 "index_reference": "الأنبياء الكذبة",
@@ -6708,7 +6724,7 @@
 {
 "content_id": "702233",
 "reference_id": 203169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأنبياء في سفر الملوك الأول",
 "media_type": "Text",
 "index_reference": "الأنبياء في سفر الملوك الأول",
@@ -6869,7 +6885,7 @@
 {
 "content_id": "702407",
 "reference_id": 203343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الانتماء إلى المسيح (تبعية المسيح)",
 "media_type": "Text",
 "index_reference": "الانتماء إلى المسيح تبعية المسيح",
@@ -7012,7 +7028,7 @@
 {
 "content_id": "702190",
 "reference_id": 203126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الاهتمام بالفقراء",
 "media_type": "Text",
 "index_reference": "الاهتمام بالفقراء",
@@ -7311,7 +7327,7 @@
 {
 "content_id": "702442",
 "reference_id": 203378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الإيمان",
 "media_type": "Text",
 "index_reference": "الإيمان",
@@ -7484,13 +7500,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 },
 {
 "content_id": "702375",
 "reference_id": 203311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "\"الإيمان\" في إنجيل يوحنا",
 "media_type": "Text",
 "index_reference": "الإيمان في إنجيل يوحنا",
@@ -7687,13 +7711,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5613,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 },
 {
 "content_id": "702355",
 "reference_id": 203291,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الإيمان والأعمال الصالحة",
 "media_type": "Text",
 "index_reference": "الإيمان والأعمال الصالحة",
@@ -8046,7 +8078,7 @@
 {
 "content_id": "702231",
 "reference_id": 203167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أمانة ٱلله تجاه شعبه",
 "media_type": "Text",
 "index_reference": "أمانة ٱلله تجاه شعبه",
@@ -8381,7 +8413,7 @@
 {
 "content_id": "702380",
 "reference_id": 203316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "\"أنا هو\" أقوال يسوع",
 "media_type": "Text",
 "index_reference": "أنا هو أقوال يسوع",
@@ -8560,7 +8592,7 @@
 {
 "content_id": "702245",
 "reference_id": 203181,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "انتهاك المقدَّسات",
 "media_type": "Text",
 "index_reference": "انتهاك المقدَّسات",
@@ -8679,7 +8711,7 @@
 {
 "content_id": "702315",
 "reference_id": 203251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "انهيار الثقافة",
 "media_type": "Text",
 "index_reference": "انهيار الثقافة",
@@ -8816,7 +8848,7 @@
 {
 "content_id": "702226",
 "reference_id": 203162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أورشليم",
 "media_type": "Text",
 "index_reference": "أورشليم",
@@ -9147,13 +9179,28 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "أورشَلِيمَ"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
+}
+]
 }
 },
 {
 "content_id": "702347",
 "reference_id": 203283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إيمان قليل",
 "media_type": "Text",
 "index_reference": "إيمان قليل",
@@ -9236,13 +9283,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.5655,
+"match_method": "scored",
+"preferred_label": "Having Little Faith"
+}
+]
 }
 },
 {
 "content_id": "702244",
 "reference_id": 203180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ٱلله بصفته المحارب القدوس",
 "media_type": "Text",
 "index_reference": "ٱلله بصفته المحارب القدوس",

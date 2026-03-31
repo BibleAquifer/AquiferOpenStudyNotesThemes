@@ -2,7 +2,7 @@
 {
 "content_id": "765024",
 "reference_id": 203167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uaminifu wa Mungu kwa Watu Wake",
 "media_type": "Text",
 "index_reference": "uaminifu wa mungu kwa watu wake",
@@ -337,7 +337,7 @@
 {
 "content_id": "765039",
 "reference_id": 203182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uasi na Upya",
 "media_type": "Text",
 "index_reference": "uasi na upya",
@@ -504,7 +504,7 @@
 {
 "content_id": "765230",
 "reference_id": 203373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uasi wa imani",
 "media_type": "Text",
 "index_reference": "uasi wa imani",
@@ -671,7 +671,7 @@
 {
 "content_id": "765180",
 "reference_id": 203323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ubatizo",
 "media_type": "Text",
 "index_reference": "ubatizo",
@@ -1078,13 +1078,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.8116,
+"match_method": "scored",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
 "content_id": "765229",
 "reference_id": 203372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ubora wa Mwana",
 "media_type": "Text",
 "index_reference": "ubora wa mwana",
@@ -1269,7 +1277,7 @@
 {
 "content_id": "765009",
 "reference_id": 203152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufalme",
 "media_type": "Text",
 "index_reference": "ufalme",
@@ -1400,21 +1408,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.8103,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "765032",
 "reference_id": 203175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufalme wa ahadi ya Mungu",
 "media_type": "Text",
 "index_reference": "ufalme wa ahadi ya mungu",
@@ -1623,7 +1623,7 @@
 {
 "content_id": "765125",
 "reference_id": 203268,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ufufuo katika Agano la Kale",
 "media_type": "Text",
 "index_reference": "ufufuo katika agano la kale",
@@ -1742,7 +1742,7 @@
 {
 "content_id": "765205",
 "reference_id": 203348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufufuo wa Wafu",
 "media_type": "Text",
 "index_reference": "ufufuo wa wafu",
@@ -2047,7 +2047,7 @@
 {
 "content_id": "765149",
 "reference_id": 203292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufufuo wa Yesu",
 "media_type": "Text",
 "index_reference": "ufufuo wa yesu",
@@ -2448,13 +2448,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.5809,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
 "content_id": "765192",
 "reference_id": 203335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufunuo wa Asili",
 "media_type": "Text",
 "index_reference": "ufunuo wa asili",
@@ -2519,7 +2527,7 @@
 {
 "content_id": "764962",
 "reference_id": 203105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ugumba",
 "media_type": "Text",
 "index_reference": "ugumba",
@@ -2764,7 +2772,7 @@
 {
 "content_id": "765010",
 "reference_id": 203153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uharibifu Kamili",
 "media_type": "Text",
 "index_reference": "uharibifu kamili",
@@ -2927,7 +2935,7 @@
 {
 "content_id": "765048",
 "reference_id": 203191,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ujasiri wa Nehemia kwa Mungu",
 "media_type": "Text",
 "index_reference": "ujasiri wa nehemia kwa mungu",
@@ -3172,7 +3180,7 @@
 {
 "content_id": "765045",
 "reference_id": 203188,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ujenzi upya wa Yerusalemu",
 "media_type": "Text",
 "index_reference": "ujenzi upya wa yerusalemu",
@@ -3303,7 +3311,7 @@
 {
 "content_id": "764952",
 "reference_id": 203095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ujinsia wa Binadamu",
 "media_type": "Text",
 "index_reference": "ujinsia wa binadamu",
@@ -3508,7 +3516,7 @@
 {
 "content_id": "765116",
 "reference_id": 203259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ujumbe Dhidi ya Mataifa",
 "media_type": "Text",
 "index_reference": "ujumbe dhidi ya mataifa",
@@ -3645,7 +3653,7 @@
 {
 "content_id": "765186",
 "reference_id": 203329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ujumbe wa Habari Njema",
 "media_type": "Text",
 "index_reference": "ujumbe wa habari njema",
@@ -3974,7 +3982,7 @@
 {
 "content_id": "765207",
 "reference_id": 203350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ujumbe wa upatanisho",
 "media_type": "Text",
 "index_reference": "ujumbe wa upatanisho",
@@ -4123,7 +4131,7 @@
 {
 "content_id": "765002",
 "reference_id": 203145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ukandamizaji wa Watu wa Mungu",
 "media_type": "Text",
 "index_reference": "ukandamizaji wa watu wa mungu",
@@ -4266,7 +4274,7 @@
 {
 "content_id": "765233",
 "reference_id": 203376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ukomavu wa Kiroho",
 "media_type": "Text",
 "index_reference": "ukomavu wa kiroho",
@@ -4367,7 +4375,7 @@
 {
 "content_id": "765181",
 "reference_id": 203324,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ukuaji wa kanisa",
 "media_type": "Text",
 "index_reference": "ukuaji wa kanisa",
@@ -4630,7 +4638,7 @@
 {
 "content_id": "765115",
 "reference_id": 203258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ukuu wa Kimungu na Wajibu wa Binadamu",
 "media_type": "Text",
 "index_reference": "ukuu wa kimungu na wajibu wa binadamu",
@@ -4833,7 +4841,7 @@
 {
 "content_id": "765196",
 "reference_id": 203339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ukuu wa Mungu",
 "media_type": "Text",
 "index_reference": "ukuu wa mungu",
@@ -5150,7 +5158,7 @@
 {
 "content_id": "765175",
 "reference_id": 203318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ulimwengu",
 "media_type": "Text",
 "index_reference": "ulimwengu",
@@ -5467,7 +5475,7 @@
 {
 "content_id": "765090",
 "reference_id": 203233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Unafiki wa Kidini",
 "media_type": "Text",
 "index_reference": "unafiki wa kidini",
@@ -5640,7 +5648,7 @@
 {
 "content_id": "765183",
 "reference_id": 203326,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uongozi Wa kuezesha Wengine",
 "media_type": "Text",
 "index_reference": "uongozi wa kuezesha wengine",
@@ -5771,7 +5779,7 @@
 {
 "content_id": "765003",
 "reference_id": 203146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uongozi wenye Mvuto",
 "media_type": "Text",
 "index_reference": "uongozi wenye mvuto",
@@ -5980,7 +5988,7 @@
 {
 "content_id": "764981",
 "reference_id": 203124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Upatanisho",
 "media_type": "Text",
 "index_reference": "upatanisho",
@@ -6147,13 +6155,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"confidence": 0.6117,
+"match_method": "scored",
+"preferred_label": "Atonement"
+}
+]
 }
 },
 {
 "content_id": "765104",
 "reference_id": 203247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Upekee wa Mungu",
 "media_type": "Text",
 "index_reference": "upekee wa mungu",
@@ -6266,21 +6282,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:GodlyReverence",
-"type": "keyterm",
-"preferred_label": "Godly Reverence",
-"confidence": 0.8312,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "765236",
 "reference_id": 203379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Upendo katika Jamii ya Kristo",
 "media_type": "Text",
 "index_reference": "upendo katika jamii ya kristo",
@@ -6441,7 +6449,7 @@
 {
 "content_id": "764996",
 "reference_id": 203139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Upendo wa Agano la Mungu",
 "media_type": "Text",
 "index_reference": "upendo wa agano la mungu",
@@ -6578,7 +6586,7 @@
 {
 "content_id": "765136",
 "reference_id": 203279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Upendo wa Mungu kwa Israeli",
 "media_type": "Text",
 "index_reference": "upendo wa mungu kwa israeli",
@@ -6727,7 +6735,7 @@
 {
 "content_id": "765132",
 "reference_id": 203275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Upya wa Kiroho katika Manabii wa Mwisho",
 "media_type": "Text",
 "index_reference": "upya wa kiroho katika manabii wa mwisho",
@@ -6846,7 +6854,7 @@
 {
 "content_id": "765141",
 "reference_id": 203284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uraia katika Ufalme",
 "media_type": "Text",
 "index_reference": "uraia katika ufalme",
@@ -6953,7 +6961,7 @@
 {
 "content_id": "765041",
 "reference_id": 203184,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Usafi na Utambulisho",
 "media_type": "Text",
 "index_reference": "usafi na utambulisho",
@@ -7120,7 +7128,7 @@
 {
 "content_id": "765243",
 "reference_id": 203386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Usalama na Utii",
 "media_type": "Text",
 "index_reference": "usalama na utii",
@@ -7437,7 +7445,7 @@
 {
 "content_id": "765054",
 "reference_id": 203197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ushauri kutoka kwa Wengine",
 "media_type": "Text",
 "index_reference": "ushauri kutoka kwa wengine",
@@ -7688,7 +7696,7 @@
 {
 "content_id": "765156",
 "reference_id": 203299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Usiku wa Mwisho wa Yesu",
 "media_type": "Text",
 "index_reference": "usiku wa mwisho wa yesu",
@@ -7807,7 +7815,7 @@
 {
 "content_id": "765081",
 "reference_id": 203224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utajiri na Umaskini katika Fasihi ya Hekima",
 "media_type": "Text",
 "index_reference": "utajiri na umaskini katika fasihi ya hekima",
@@ -7998,7 +8006,7 @@
 {
 "content_id": "764978",
 "reference_id": 203121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utakatifu Kamili wa Mungu",
 "media_type": "Text",
 "index_reference": "utakatifu kamili wa mungu",
@@ -8081,13 +8089,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.698,
+"match_method": "scored",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
 "content_id": "764980",
 "reference_id": 203123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utakatifu kwa Uhusiano",
 "media_type": "Text",
 "index_reference": "utakatifu kwa uhusiano",
@@ -8272,7 +8288,7 @@
 {
 "content_id": "765199",
 "reference_id": 203342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utakatifu na Usafi wa Kijinsia",
 "media_type": "Text",
 "index_reference": "utakatifu na usafi wa kijinsia",
@@ -8475,7 +8491,7 @@
 {
 "content_id": "765238",
 "reference_id": 203381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utakatifu wa Watu wa Mungu",
 "media_type": "Text",
 "index_reference": "utakatifu wa watu wa mungu",
@@ -8588,7 +8604,7 @@
 {
 "content_id": "764976",
 "reference_id": 203119,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utambulisho wa Jamii",
 "media_type": "Text",
 "index_reference": "utambulisho wa jamii",
@@ -8695,7 +8711,7 @@
 {
 "content_id": "765129",
 "reference_id": 203272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utawala na Nguvu ya Mungu Juu ya Mataifa Yote",
 "media_type": "Text",
 "index_reference": "utawala na nguvu ya mungu juu ya mataifa yote",
@@ -8922,7 +8938,7 @@
 {
 "content_id": "764972",
 "reference_id": 203115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utukufu wa Mungu",
 "media_type": "Text",
 "index_reference": "utukufu wa mungu",
@@ -9185,13 +9201,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.5711,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
+]
 }
 },
 {
 "content_id": "765112",
 "reference_id": 203255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utukufu wa Mungu na Watu Wake",
 "media_type": "Text",
 "index_reference": "utukufu wa mungu na watu wake",
@@ -9388,7 +9412,7 @@
 {
 "content_id": "765228",
 "reference_id": 203371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utumwa",
 "media_type": "Text",
 "index_reference": "utumwa",
@@ -9453,7 +9477,7 @@
 {
 "content_id": "764951",
 "reference_id": 203094,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uumbaji",
 "media_type": "Text",
 "index_reference": "uumbaji",
@@ -9602,7 +9626,7 @@
 {
 "content_id": "765103",
 "reference_id": 203246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uvamizi",
 "media_type": "Text",
 "index_reference": "uvamizi",
@@ -9667,7 +9691,7 @@
 {
 "content_id": "765084",
 "reference_id": 203227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uvivu na Kazi Ngumu",
 "media_type": "Text",
 "index_reference": "uvivu na kazi ngumu",
@@ -9924,7 +9948,7 @@
 {
 "content_id": "765198",
 "reference_id": 203341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uvumilivu",
 "media_type": "Text",
 "index_reference": "uvumilivu",
@@ -10043,7 +10067,7 @@
 {
 "content_id": "765234",
 "reference_id": 203377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uvumulivu",
 "media_type": "Text",
 "index_reference": "uvumulivu",
@@ -10192,7 +10216,7 @@
 {
 "content_id": "765177",
 "reference_id": 203320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uvuvi katika Galilaya",
 "media_type": "Text",
 "index_reference": "uvuvi katika galilaya",
@@ -10299,7 +10323,7 @@
 {
 "content_id": "765063",
 "reference_id": 203206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uwepo wa Mungu katika Zaburi",
 "media_type": "Text",
 "index_reference": "uwepo wa mungu katika zaburi",
@@ -10550,7 +10574,7 @@
 {
 "content_id": "765012",
 "reference_id": 203155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uwepo wa Roho",
 "media_type": "Text",
 "index_reference": "uwepo wa roho",
@@ -10789,7 +10813,7 @@
 {
 "content_id": "765179",
 "reference_id": 203322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uwepo wa Roho Mtakatifu",
 "media_type": "Text",
 "index_reference": "uwepo wa roho mtakatifu",
@@ -11088,7 +11112,7 @@
 {
 "content_id": "764987",
 "reference_id": 203130,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uwezeshaji wa Roho",
 "media_type": "Text",
 "index_reference": "uwezeshaji wa roho",
@@ -11393,7 +11417,7 @@
 {
 "content_id": "765089",
 "reference_id": 203232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uzuri katika Asili",
 "media_type": "Text",
 "index_reference": "uzuri katika asili",
@@ -11500,7 +11524,7 @@
 {
 "content_id": "765241",
 "reference_id": 203384,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uzushi wa Wakristo wa Mapema",
 "media_type": "Text",
 "index_reference": "uzushi wa wakristo wa mapema",

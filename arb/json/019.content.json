@@ -2,7 +2,7 @@
 {
 "content_id": "702195",
 "reference_id": 203131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القائد الخادم",
 "media_type": "Text",
 "index_reference": "القائد الخادم",
@@ -211,7 +211,7 @@
 {
 "content_id": "702187",
 "reference_id": 203123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القداسة بالعلاقة",
 "media_type": "Text",
 "index_reference": "القداسة بالعلاقة",
@@ -396,7 +396,7 @@
 {
 "content_id": "702406",
 "reference_id": 203342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القداسة والنقاوة الجنسية",
 "media_type": "Text",
 "index_reference": "القداسة والنقاوة الجنسية",
@@ -599,7 +599,7 @@
 {
 "content_id": "702330",
 "reference_id": 203266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القَرْن الصَغِير",
 "media_type": "Text",
 "index_reference": "القَرْن الصَغِير",
@@ -790,7 +790,7 @@
 {
 "content_id": "702162",
 "reference_id": 203098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القصاص",
 "media_type": "Text",
 "index_reference": "القصاص",
@@ -1047,7 +1047,7 @@
 {
 "content_id": "702282",
 "reference_id": 203218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القلب في المزامير",
 "media_type": "Text",
 "index_reference": "القلب في المزامير",
@@ -1550,7 +1550,7 @@
 {
 "content_id": "702175",
 "reference_id": 203111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القلوب المُتقسّية",
 "media_type": "Text",
 "index_reference": "القلوب المُتقسّية",
@@ -1819,7 +1819,7 @@
 {
 "content_id": "702210",
 "reference_id": 203146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القيادة بالروح القدس",
 "media_type": "Text",
 "index_reference": "القيادة بالروح القدس",
@@ -2028,7 +2028,7 @@
 {
 "content_id": "702332",
 "reference_id": 203268,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القيامة في العهد القديم",
 "media_type": "Text",
 "index_reference": "القيامة في العهد القديم",
@@ -2147,7 +2147,7 @@
 {
 "content_id": "702434",
 "reference_id": 203370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قادة الكنيسة",
 "media_type": "Text",
 "index_reference": "قادة الكنيسة",
@@ -2320,7 +2320,7 @@
 {
 "content_id": "702185",
 "reference_id": 203121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قداسة ٱلله المطلقة",
 "media_type": "Text",
 "index_reference": "قداسة ٱلله المطلقة",
@@ -2403,13 +2403,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.698,
+"match_method": "scored",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
 "content_id": "702445",
 "reference_id": 203381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قداسة شعب الله",
 "media_type": "Text",
 "index_reference": "قداسة شعب الله",
@@ -2522,7 +2530,7 @@
 {
 "content_id": "702302",
 "reference_id": 203238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قدوس إسرائيل",
 "media_type": "Text",
 "index_reference": "قدوس إسرائيل",
@@ -2791,7 +2799,7 @@
 {
 "content_id": "702178",
 "reference_id": 203114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قوانين العصور القديمة",
 "media_type": "Text",
 "index_reference": "قوانين العصور القديمة",
@@ -2902,7 +2910,7 @@
 {
 "content_id": "702412",
 "reference_id": 203348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قيامة الأموات",
 "media_type": "Text",
 "index_reference": "قيامة الأموات",
@@ -3207,7 +3215,7 @@
 {
 "content_id": "702356",
 "reference_id": 203292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قيامة يسوع",
 "media_type": "Text",
 "index_reference": "قيامة يسوع",
@@ -3608,7 +3616,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.5809,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 }
 ]

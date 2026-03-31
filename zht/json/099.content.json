@@ -2,7 +2,7 @@
 {
 "content_id": "700417",
 "reference_id": 203354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "因信稱義",
 "media_type": "Text",
 "index_reference": "因信稱義",
@@ -91,7 +91,7 @@
 {
 "content_id": "700441",
 "reference_id": 203378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "因著信",
 "media_type": "Text",
 "index_reference": "因著信",
@@ -264,7 +264,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "765008",
 "reference_id": 203151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sanduku la Agano",
 "media_type": "Text",
 "index_reference": " sanduku la agano",
@@ -157,7 +157,22 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.7027,
+"match_method": "scored",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.6986,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
+}
+]
 }
 }
 ]
