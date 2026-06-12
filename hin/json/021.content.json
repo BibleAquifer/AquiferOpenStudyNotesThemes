@@ -396,8 +396,7 @@
 "end_ref_usfm": "1PE 2:8"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -623,8 +622,7 @@
 "end_ref_usfm": "HEB 11:37"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -934,8 +932,7 @@
 "end_ref_usfm": "1PE 5:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1107,8 +1104,7 @@
 "end_ref_usfm": "1PE 3:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1478,8 +1474,7 @@
 "end_ref_usfm": "JAS 2:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1789,8 +1784,7 @@
 "end_ref_usfm": "ROM 2:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2040,8 +2034,7 @@
 "end_ref_usfm": "JER 33:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2105,16 +2098,7 @@
 "end_ref_usfm": "2CH 6:42"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.5688,
-"match_method": "scored",
-"preferred_label": "यहोवा"
-}
-]
+"resource": []
 }
 },
 {
@@ -2598,8 +2582,7 @@
 "end_ref_usfm": "LUK 1:75"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3167,8 +3150,7 @@
 "end_ref_usfm": "HEB 1:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3376,8 +3358,7 @@
 "end_ref_usfm": "JHN 1:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3513,8 +3494,7 @@
 "end_ref_usfm": "1JN 4:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3722,8 +3702,7 @@
 "end_ref_usfm": "REV 21:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3841,8 +3820,7 @@
 "end_ref_usfm": "ISA 44:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4032,8 +4010,7 @@
 "end_ref_usfm": "1TI 2:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4253,8 +4230,7 @@
 "end_ref_usfm": "HEB 9:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4408,8 +4384,7 @@
 "end_ref_usfm": "ROM 5:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4497,16 +4472,7 @@
 "end_ref_usfm": "1SA 2:2"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.698,
-"match_method": "scored",
-"preferred_label": "यहोवा"
-}
-]
+"resource": []
 }
 },
 {
@@ -4774,16 +4740,7 @@
 "end_ref_usfm": "ISA 6:5"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.5711,
-"match_method": "scored",
-"preferred_label": "Glory"
-}
-]
+"resource": []
 }
 },
 {
@@ -5089,8 +5046,7 @@
 "label": "निर्गमन 20:1-23.33",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5202,8 +5158,7 @@
 "end_ref_usfm": "HEB 10:19"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5519,8 +5474,7 @@
 "end_ref_usfm": "ROM 9:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5674,8 +5628,7 @@
 "end_ref_usfm": "LUK 2:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5835,8 +5788,7 @@
 "end_ref_usfm": "COL 2:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5990,8 +5942,7 @@
 "end_ref_usfm": "2TI 3:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6133,8 +6084,7 @@
 "end_ref_usfm": "JON 4:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6462,8 +6412,7 @@
 "end_ref_usfm": "1CO 15:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6635,8 +6584,7 @@
 "end_ref_usfm": "1SA 14:45"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6778,8 +6726,7 @@
 "end_ref_usfm": "EZK 22:29"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6891,8 +6838,7 @@
 "end_ref_usfm": "REV 22:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7142,8 +7088,7 @@
 "end_ref_usfm": "ISA 54:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7315,8 +7260,7 @@
 "end_ref_usfm": "HEB 8:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7602,8 +7546,7 @@
 "end_ref_usfm": "ACT 4:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7733,8 +7676,7 @@
 "end_ref_usfm": "EPH 2:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7858,8 +7800,7 @@
 "end_ref_usfm": "MAT 14:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -8211,16 +8152,7 @@
 "end_ref_usfm": "1CO 14:33"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.5972,
-"match_method": "scored",
-"preferred_label": "पवित्र आत्मा"
-}
-]
+"resource": []
 }
 },
 {
@@ -8518,8 +8450,7 @@
 "end_ref_usfm": "ACT 10:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -8733,8 +8664,7 @@
 "end_ref_usfm": "REV 20:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -8888,8 +8818,7 @@
 "end_ref_usfm": "2CO 10:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -9055,8 +8984,7 @@
 "end_ref_usfm": "2TI 2:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -9258,8 +9186,7 @@
 "end_ref_usfm": "COL 3:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -9377,8 +9304,7 @@
 "end_ref_usfm": "LEV 24:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -9478,8 +9404,7 @@
 "end_ref_usfm": "LUK 24:49"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -9639,8 +9564,7 @@
 "end_ref_usfm": "1KI 22:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -10160,8 +10084,7 @@
 "end_ref_usfm": "JER 44:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -10261,8 +10184,7 @@
 "end_ref_usfm": "JHN 12:34"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -10446,8 +10368,7 @@
 "end_ref_usfm": "HEB 1:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -10697,8 +10618,7 @@
 "end_ref_usfm": "EPH 5:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -10780,8 +10700,7 @@
 "end_ref_usfm": "PHP 3:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -10899,8 +10818,7 @@
 "end_ref_usfm": "MAT 27:53"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -11018,8 +10936,7 @@
 "end_ref_usfm": "ACT 17:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -11251,8 +11168,7 @@
 "end_ref_usfm": "1TH 2:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

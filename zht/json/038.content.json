@@ -180,8 +180,7 @@
 "end_ref_usfm": "2CH 26:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -533,16 +532,7 @@
 "end_ref_usfm": "EPH 5:29"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:GenericChurch",
-"type": "group",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "The Church"
-}
-]
+"resource": []
 }
 },
 {
@@ -804,8 +794,7 @@
 "end_ref_usfm": "ACT 1:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -977,8 +966,7 @@
 "end_ref_usfm": "1TI 5:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1090,8 +1078,7 @@
 "end_ref_usfm": "1CO 12:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1341,8 +1328,7 @@
 "end_ref_usfm": "1PE 2:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

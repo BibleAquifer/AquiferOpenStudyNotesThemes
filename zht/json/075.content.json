@@ -264,8 +264,7 @@
 "end_ref_usfm": "1JN 2:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -437,16 +436,7 @@
 "end_ref_usfm": "HEB 2:17"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Atonement",
-"type": "keyterm",
-"confidence": 0.6117,
-"match_method": "scored",
-"preferred_label": "Atonement"
-}
-]
+"resource": []
 }
 },
 {
@@ -588,8 +578,7 @@
 "end_ref_usfm": "1CO 7:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -797,8 +786,7 @@
 "end_ref_usfm": "EPH 4:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

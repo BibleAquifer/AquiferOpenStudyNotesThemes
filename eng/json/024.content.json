@@ -540,16 +540,7 @@
 "end_ref_usfm": "ZEC 8:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.8367,
-"match_method": "scored",
-"preferred_label": "Jerusalem"
-}
-]
+"resource": []
 }
 }
 ]

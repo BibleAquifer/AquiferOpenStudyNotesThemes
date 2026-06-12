@@ -222,8 +222,7 @@
 "end_ref_usfm": "MAT 26:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -299,8 +298,7 @@
 "end_ref_usfm": "1TH 5:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -424,8 +422,7 @@
 "end_ref_usfm": "HEB 12:29"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -681,8 +678,7 @@
 "end_ref_usfm": "2TH 3:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -740,8 +736,7 @@
 "end_ref_usfm": "MRK 7:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -769,8 +764,7 @@
 "end_ref_usfm": "REV 1:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1122,8 +1116,7 @@
 "end_ref_usfm": "2KI 4:35"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1409,8 +1402,7 @@
 "end_ref_usfm": "HEB 10:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1498,16 +1490,7 @@
 "end_ref_usfm": "JAS 1:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:HavingLittleFaith",
-"type": "keyterm",
-"confidence": 0.5655,
-"match_method": "scored",
-"preferred_label": "Having Little Faith"
-}
-]
+"resource": []
 }
 },
 {
@@ -1697,8 +1680,7 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1798,8 +1780,7 @@
 "end_ref_usfm": "COL 3:4"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1887,8 +1868,7 @@
 "end_ref_usfm": "JAS 3:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1994,8 +1974,7 @@
 "end_ref_usfm": "DAN 2:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2155,8 +2134,7 @@
 "end_ref_usfm": "2PE 1:8"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2340,8 +2318,7 @@
 "end_ref_usfm": "1JN 3:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

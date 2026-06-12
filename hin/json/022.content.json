@@ -102,8 +102,7 @@
 "end_ref_usfm": "MAT 6:30"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -311,8 +310,7 @@
 "end_ref_usfm": "JER 36:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -460,16 +458,7 @@
 "end_ref_usfm": "1KI 8:53"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.6051,
-"match_method": "scored",
-"preferred_label": "कनान"
-}
-]
+"resource": []
 }
 },
 {
@@ -725,8 +714,7 @@
 "end_ref_usfm": "ROM 2:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -952,8 +940,7 @@
 "end_ref_usfm": "ROM 11:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1413,8 +1400,7 @@
 "end_ref_usfm": "REV 21:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1568,8 +1554,7 @@
 "end_ref_usfm": "MAT 6:33"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1681,8 +1666,7 @@
 "end_ref_usfm": "ACT 17:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1986,8 +1970,7 @@
 "end_ref_usfm": "PSA 108:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2087,8 +2070,7 @@
 "end_ref_usfm": "PSA 71:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2198,8 +2180,7 @@
 "label": "लैव्यव्यवस्था 1:1-7.38",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2371,16 +2352,7 @@
 "end_ref_usfm": "HEB 2:17"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Atonement",
-"type": "keyterm",
-"confidence": 0.6117,
-"match_method": "scored",
-"preferred_label": "Atonement"
-}
-]
+"resource": []
 }
 },
 {
@@ -2510,8 +2482,7 @@
 "end_ref_usfm": "REV 2:25"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

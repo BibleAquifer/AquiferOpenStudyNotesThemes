@@ -72,8 +72,7 @@
 "end_ref_usfm": "GEN 1:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -185,8 +184,7 @@
 "end_ref_usfm": "2TH 2:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -346,23 +344,7 @@
 "end_ref_usfm": "2MA 2:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "realia:ArkOfTheCovenant",
-"type": "realia",
-"confidence": 0.7027,
-"match_method": "scored",
-"preferred_label": "Ark of the Covenant"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"confidence": 0.6986,
-"match_method": "scored",
-"preferred_label": "Covenant Box"
-}
-]
+"resource": []
 }
 },
 {
@@ -552,8 +534,7 @@
 "end_ref_usfm": "NUM 16:50"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -683,8 +664,7 @@
 "end_ref_usfm": "MAT 19:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1036,8 +1016,7 @@
 "end_ref_usfm": "REV 21:8"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1215,16 +1194,7 @@
 "end_ref_usfm": "JAS 1:6"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.5984,
-"match_method": "scored",
-"preferred_label": "Believe"
-}
-]
+"resource": []
 }
 },
 {
@@ -1312,8 +1282,7 @@
 "end_ref_usfm": "ACT 11:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1515,16 +1484,7 @@
 "end_ref_usfm": "HEB 13:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.669,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-}
-]
+"resource": []
 }
 }
 ]

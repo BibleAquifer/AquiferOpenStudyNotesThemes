@@ -264,8 +264,7 @@
 "end_ref_usfm": "HEB 3:19"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -377,8 +376,7 @@
 "end_ref_usfm": "2TH 2:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -880,8 +878,7 @@
 "end_ref_usfm": "PSA 62:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1083,8 +1080,7 @@
 "end_ref_usfm": "COL 3:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1268,8 +1264,7 @@
 "end_ref_usfm": "1JN 3:3"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1381,8 +1376,7 @@
 "end_ref_usfm": "REV 22:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1650,8 +1644,7 @@
 "end_ref_usfm": "JHN 6:69"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1949,8 +1942,7 @@
 "end_ref_usfm": "ACT 10:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2302,16 +2294,7 @@
 "end_ref_usfm": "1CO 14:33"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.5972,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
-]
+"resource": []
 }
 },
 {
@@ -2525,8 +2508,7 @@
 "end_ref_usfm": "REV 20:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2680,8 +2662,7 @@
 "end_ref_usfm": "ISA 2:4"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2805,8 +2786,7 @@
 "end_ref_usfm": "LUK 23:39"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2906,8 +2886,7 @@
 "end_ref_usfm": "1PE 3:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3055,8 +3034,7 @@
 "end_ref_usfm": "HAB 3:19"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3260,8 +3238,7 @@
 "label": "Genesis 4:1",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 }
 ]

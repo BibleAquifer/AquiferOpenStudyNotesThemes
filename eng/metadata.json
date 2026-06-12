@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-03-31",
+"date_created": "2026-06-12",
 "language": "eng",
 "localizations": [
 "arb",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-03-31T10:02:03.635410"
+"dateCreated": "2026-06-12T14:36:15.703030"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-03-31T10:02:03.635410"
+"timestamp": "2026-06-12T14:36:15.703030"
 }
 }
 },
@@ -96,7 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 95038,
+"size": 92735,
 "scope": {
 "a": [
 "All Is “Vapor”",
@@ -117,7 +117,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 103052,
+"size": 100443,
 "scope": {
 "b": [
 "Babel: The Dispersion of Nations",
@@ -141,7 +141,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 289049,
+"size": 281654,
 "scope": {
 "c": [
 "Calling up the Dead",
@@ -188,7 +188,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 109679,
+"size": 106651,
 "scope": {
 "d": [
 "The Dangers of Sin",
@@ -204,7 +204,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 52980,
+"size": 51925,
 "scope": {
 "e": [
 "Early Christian Heresies",
@@ -220,7 +220,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 82107,
+"size": 80008,
 "scope": {
 "f": [
 "Faith and Good Deeds",
@@ -238,7 +238,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 330808,
+"size": 322071,
 "scope": {
 "g": [
 "The Gift of Prophecy",
@@ -286,7 +286,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 129332,
+"size": 126089,
 "scope": {
 "h": [
 "Hardened Hearts",
@@ -309,7 +309,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 33262,
+"size": 32511,
 "scope": {
 "i": [
 "“I Am” Sayings of Jesus",
@@ -323,7 +323,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 58494,
+"size": 56909,
 "scope": {
 "j": [
 "Jerusalem",
@@ -338,7 +338,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 10588,
+"size": 10279,
 "scope": {
 "k": [
 "Kingship",
@@ -348,7 +348,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 91748,
+"size": 89425,
 "scope": {
 "l": [
 "The Land",
@@ -371,7 +371,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 87028,
+"size": 84741,
 "scope": {
 "m": [
 "Making Sense of the Exile",
@@ -391,7 +391,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 31816,
+"size": 31009,
 "scope": {
 "n": [
 "Natural Revelation",
@@ -404,7 +404,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 33668,
+"size": 32813,
 "scope": {
 "o": [
 "The Old Life and the New Life",
@@ -417,7 +417,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 181814,
+"size": 177131,
 "scope": {
 "p": [
 "Passing On Authority and Responsibility to a New Leader",
@@ -449,7 +449,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 10232,
+"size": 9927,
 "scope": {
 "q": [
 "Questions and Doubt"
@@ -458,7 +458,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 111342,
+"size": 108439,
 "scope": {
 "r": [
 "Rebuilding of Jerusalem",
@@ -482,7 +482,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 251670,
+"size": 245083,
 "scope": {
 "s": [
 "Salvation in Isaiah",
@@ -518,7 +518,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 78814,
+"size": 76917,
 "scope": {
 "t": [
 "The Tabernacle",
@@ -538,7 +538,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 11085,
+"size": 10866,
 "scope": {
 "u": [
 "Understanding Job",
@@ -548,7 +548,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 22902,
+"size": 22367,
 "scope": {
 "v": [
 "Violation of the Sacred",
@@ -559,7 +559,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 78964,
+"size": 76915,
 "scope": {
 "w": [
 "Wealth and Poverty in the Wisdom Literature",
@@ -578,108 +578,108 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 17241,
+"size": 16696,
 "scope": {
 "z": [
 "Zion"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 50676
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 53320
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 145697
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 51540
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 32363
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 41656
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 161979
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 65995
+"size": 65593
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 19360
+"size": 19238
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 28159
+"size": 144715
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 51327
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 5496
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 47276
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 43047
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 16718
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 17532
+"size": 5454
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 91808
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 4871
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 55824
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 123384
+"size": 91183
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 42847
+"size": 42536
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 4831
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 27879
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 32146
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 52803
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 7414
+"size": 7358
 },
-"md/022.content.md": {
+"md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 12717
+"size": 46892
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 17409
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 160996
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 39761
+"size": 39455
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 7397
+"size": 7299
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 41422
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 50070
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 16582
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 42722
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 12626
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 122622
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 55420
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -695,7 +695,7 @@
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 62280
+"size": 62283
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -779,99 +779,99 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 361955
+"size": 334965
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 385723
+"size": 358465
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 997934
+"size": 974848
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 421897
+"size": 394749
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 235751
+"size": 205382
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 329460
+"size": 301560
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1126037
+"size": 1099879
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 502104
+"size": 476646
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 156833
+"size": 130145
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 247347
+"size": 220449
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83352
+"size": 59327
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 356166
+"size": 327776
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 337011
+"size": 310264
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 160376
+"size": 135383
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 163422
+"size": 137648
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 639281
+"size": 610514
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 86987
+"size": 63530
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 416360
+"size": 387973
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 907409
+"size": 880525
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 299679
+"size": 274488
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 87361
+"size": 62759
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 125618
+"size": 101320
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 319861
+"size": 293874
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 104831
+"size": 82703
 }
 },
 "copyright": {
@@ -5876,10 +5876,20 @@
 "language": "hin",
 "title": "यहोवा का दिन"
 },
+"ind": {
+"content_id": 769504,
+"language": "ind",
+"title": "Hari Tuhan"
+},
 "por": {
 "content_id": 800406,
 "language": "por",
 "title": "O Dia do Senhor"
+},
+"rus": {
+"content_id": 805502,
+"language": "rus",
+"title": "День Господень"
 },
 "swh": {
 "content_id": 765094,

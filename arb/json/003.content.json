@@ -84,8 +84,7 @@
 "end_ref_usfm": "ACT 11:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -203,8 +202,7 @@
 "end_ref_usfm": "HAG 1:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -362,12 +360,11 @@
 {
 "reference_id": 203127,
 "content_id": 702191,
-"resource_code": "Unknown",
+"resource_code": "TyndaleStudyNotesThemes",
 "label": "التكريس الكامل",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -491,8 +488,7 @@
 "end_ref_usfm": "JHN 14:4"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -610,8 +606,7 @@
 "end_ref_usfm": "COL 3:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -801,8 +796,7 @@
 "end_ref_usfm": "LUK 24:53"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -932,8 +926,7 @@
 "end_ref_usfm": "PSA 1:3"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1255,8 +1248,7 @@
 "end_ref_usfm": "2TI 2:26"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1470,8 +1462,7 @@
 "end_ref_usfm": "1JN 2:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1775,8 +1766,7 @@
 "end_ref_usfm": "PSA 143:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1936,8 +1926,7 @@
 "end_ref_usfm": "2TI 2:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2097,23 +2086,7 @@
 "end_ref_usfm": "2MA 2:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "realia:ArkOfTheCovenant",
-"type": "realia",
-"confidence": 0.7027,
-"match_method": "scored",
-"preferred_label": "Ark of the Covenant"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"confidence": 0.6986,
-"match_method": "scored",
-"preferred_label": "Covenant Box"
-}
-]
+"resource": []
 }
 },
 {
@@ -2549,8 +2522,7 @@
 "end_ref_usfm": "ROM 10:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2698,8 +2670,7 @@
 "end_ref_usfm": "HAB 3:19"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2757,8 +2728,7 @@
 "end_ref_usfm": "1CO 3:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2942,8 +2912,7 @@
 "end_ref_usfm": "HEB 10:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3013,8 +2982,7 @@
 "end_ref_usfm": "EZK 46:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3126,8 +3094,7 @@
 "end_ref_usfm": "HEB 10:19"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3269,8 +3236,7 @@
 "end_ref_usfm": "JON 4:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3388,8 +3354,7 @@
 "end_ref_usfm": "ISA 44:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3567,8 +3532,7 @@
 "end_ref_usfm": "2TI 2:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3706,8 +3670,7 @@
 "label": "أعمال الرسل 2:6-6",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3849,8 +3812,7 @@
 "end_ref_usfm": "GAL 2:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

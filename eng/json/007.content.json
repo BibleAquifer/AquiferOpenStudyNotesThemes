@@ -288,8 +288,7 @@
 "end_ref_usfm": "EZK 13:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -467,8 +466,7 @@
 "end_ref_usfm": "2TI 2:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -736,16 +734,7 @@
 "end_ref_usfm": "ISA 6:5"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.5711,
-"match_method": "scored",
-"preferred_label": "Glory"
-}
-]
+"resource": []
 }
 },
 {
@@ -899,8 +888,7 @@
 "end_ref_usfm": "2CO 10:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1030,8 +1018,7 @@
 "end_ref_usfm": "EPH 2:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1257,8 +1244,7 @@
 "end_ref_usfm": "HEB 11:37"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1544,8 +1530,7 @@
 "end_ref_usfm": "ACT 4:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1633,16 +1618,7 @@
 "end_ref_usfm": "1SA 2:2"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.698,
-"match_method": "scored",
-"preferred_label": "LORD"
-}
-]
+"resource": []
 }
 },
 {
@@ -1952,8 +1928,7 @@
 "end_ref_usfm": "ROM 2:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2095,8 +2070,7 @@
 "end_ref_usfm": "JON 4:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2220,8 +2194,7 @@
 "end_ref_usfm": "JHN 14:4"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2357,8 +2330,7 @@
 "end_ref_usfm": "1JN 4:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2626,8 +2598,7 @@
 "end_ref_usfm": "ROM 11:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2967,8 +2938,7 @@
 "end_ref_usfm": "MAT 21:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3218,8 +3188,7 @@
 "end_ref_usfm": "ACT 13:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3343,8 +3312,7 @@
 "end_ref_usfm": "EZK 14:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3650,8 +3618,7 @@
 "label": "Exodus 20:1-23.33",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3985,8 +3952,7 @@
 "end_ref_usfm": "REV 1:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4182,8 +4148,7 @@
 "end_ref_usfm": "ISA 60:2"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4295,8 +4260,7 @@
 "end_ref_usfm": "2CO 5:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4384,8 +4348,7 @@
 "end_ref_usfm": "EPH 1:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4539,8 +4502,7 @@
 "end_ref_usfm": "2TI 3:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4910,8 +4872,7 @@
 "end_ref_usfm": "JAS 2:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5401,8 +5362,7 @@
 "end_ref_usfm": "ISA 1:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5550,8 +5510,7 @@
 "end_ref_usfm": "PSA 106:8"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5615,16 +5574,7 @@
 "end_ref_usfm": "2CH 6:42"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.5688,
-"match_method": "scored",
-"preferred_label": "LORD"
-}
-]
+"resource": []
 }
 },
 {
@@ -5844,8 +5794,7 @@
 "end_ref_usfm": "HEB 9:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5999,8 +5948,7 @@
 "end_ref_usfm": "ROM 5:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6250,8 +6198,7 @@
 "end_ref_usfm": "PSA 80:19"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6459,8 +6406,7 @@
 "end_ref_usfm": "REV 21:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6686,8 +6632,7 @@
 "end_ref_usfm": "ACT 17:26"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6937,8 +6882,7 @@
 "end_ref_usfm": "ISA 54:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7188,8 +7132,7 @@
 "end_ref_usfm": "JER 33:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7379,8 +7322,7 @@
 "end_ref_usfm": "1TI 2:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7498,8 +7440,7 @@
 "end_ref_usfm": "ISA 44:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7707,8 +7648,7 @@
 "end_ref_usfm": "JHN 1:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -7892,8 +7832,7 @@
 "end_ref_usfm": "MAT 13:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -8221,8 +8160,7 @@
 "end_ref_usfm": "1PE 1:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -8532,8 +8470,7 @@
 "end_ref_usfm": "1PE 5:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -8795,8 +8732,7 @@
 "end_ref_usfm": "ACT 1:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

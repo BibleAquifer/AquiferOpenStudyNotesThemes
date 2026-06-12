@@ -294,16 +294,7 @@
 "end_ref_usfm": "ZEC 10:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "fauna:Flock",
-"type": "fauna",
-"confidence": 0.5911,
-"match_method": "scored",
-"preferred_label": "Flock"
-}
-]
+"resource": []
 }
 }
 ]

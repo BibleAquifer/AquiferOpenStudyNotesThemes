@@ -72,8 +72,7 @@
 "end_ref_usfm": "JHN 16:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -191,16 +190,7 @@
 "end_ref_usfm": "DEU 16:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Passover",
-"type": "keyterm",
-"confidence": 0.5928,
-"match_method": "scored",
-"preferred_label": "Passover"
-}
-]
+"resource": []
 }
 },
 {
@@ -504,8 +494,7 @@
 "end_ref_usfm": "PSA 82:4"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -623,8 +612,7 @@
 "end_ref_usfm": "ACT 17:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -802,8 +790,7 @@
 "end_ref_usfm": "ROM 1:32"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1029,8 +1016,7 @@
 "end_ref_usfm": "ISA 52:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1160,8 +1146,7 @@
 "end_ref_usfm": "JOB 36:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

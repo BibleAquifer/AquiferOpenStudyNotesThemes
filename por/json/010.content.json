@@ -332,22 +332,6 @@
 "label": "2 Samuel 5.8",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.6758,
-"match_method": "scored",
-"preferred_label": "Jerusalém"
-},
-{
-"id": "place:CityOfDavid",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "City of David"
-}
 ]
 }
 },
@@ -574,8 +558,7 @@
 "end_ref_usfm": "2CO 11:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -843,8 +826,7 @@
 "end_ref_usfm": "GAL 2:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1214,8 +1196,7 @@
 "end_ref_usfm": "JAS 2:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1699,8 +1680,7 @@
 "end_ref_usfm": "LUK 1:75"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1944,8 +1924,7 @@
 "end_ref_usfm": "AMO 5:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2123,8 +2102,7 @@
 "end_ref_usfm": "LUK 18:8"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2212,8 +2190,7 @@
 "end_ref_usfm": "ACT 11:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

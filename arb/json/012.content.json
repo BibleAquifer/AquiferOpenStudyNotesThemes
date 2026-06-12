@@ -168,8 +168,7 @@
 "end_ref_usfm": "1PE 3:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -365,8 +364,7 @@
 "end_ref_usfm": "JHN 19:36"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -472,8 +470,7 @@
 "end_ref_usfm": "LUK 5:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -681,8 +678,7 @@
 "end_ref_usfm": "ACT 7:56"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -908,8 +904,7 @@
 "end_ref_usfm": "ROM 11:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1039,8 +1034,7 @@
 "end_ref_usfm": "LUK 11:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1584,16 +1578,7 @@
 "end_ref_usfm": "ZEC 8:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.8367,
-"match_method": "scored",
-"preferred_label": "أورشَلِيمَ"
-}
-]
+"resource": []
 }
 }
 ]

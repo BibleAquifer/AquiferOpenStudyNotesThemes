@@ -318,8 +318,7 @@
 "end_ref_usfm": "2TI 2:26"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -503,8 +502,7 @@
 "end_ref_usfm": "1JN 3:3"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -820,8 +818,7 @@
 "end_ref_usfm": "1JN 4:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1017,8 +1014,7 @@
 "end_ref_usfm": "GAL 5:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1154,8 +1150,7 @@
 "end_ref_usfm": "JER 28:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1333,8 +1328,7 @@
 "end_ref_usfm": "LUK 18:8"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1602,8 +1596,7 @@
 "end_ref_usfm": "1KI 14:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2009,8 +2002,7 @@
 "end_ref_usfm": "1PE 3:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2110,8 +2102,7 @@
 "end_ref_usfm": "JAS 4:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2337,8 +2328,7 @@
 "end_ref_usfm": "ACT 17:26"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2444,8 +2434,7 @@
 "end_ref_usfm": "EXO 20:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2603,12 +2592,11 @@
 {
 "reference_id": 203127,
 "content_id": 709356,
-"resource_code": "Unknown",
+"resource_code": "TyndaleStudyNotesThemes",
 "label": "सम्पूर्ण समर्पण ",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2822,8 +2810,7 @@
 "end_ref_usfm": "1JN 2:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2961,8 +2948,7 @@
 "label": "प्रेरितों के काम 6:2-6",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3080,8 +3066,7 @@
 "end_ref_usfm": "COL 3:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3109,8 +3094,7 @@
 "end_ref_usfm": "REV 1:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3348,8 +3332,7 @@
 "end_ref_usfm": "DAN 11:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3593,8 +3576,7 @@
 "end_ref_usfm": "AMO 5:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3712,8 +3694,7 @@
 "end_ref_usfm": "NEH 9:37"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3855,8 +3836,7 @@
 "end_ref_usfm": "GAL 2:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4400,16 +4380,7 @@
 "end_ref_usfm": "ZEC 8:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.8367,
-"match_method": "scored",
-"preferred_label": "यरूशलेम"
-}
-]
+"resource": []
 }
 },
 {
@@ -4497,8 +4468,7 @@
 "end_ref_usfm": "ROM 8:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4814,8 +4784,7 @@
 "end_ref_usfm": "REV 3:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5029,8 +4998,7 @@
 "end_ref_usfm": "1KI 5:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5148,8 +5116,7 @@
 "end_ref_usfm": "COL 1:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5297,8 +5264,7 @@
 "end_ref_usfm": "JER 10:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5488,8 +5454,7 @@
 "end_ref_usfm": "ISA 40:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

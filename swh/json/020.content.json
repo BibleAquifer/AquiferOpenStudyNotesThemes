@@ -48,8 +48,7 @@
 "end_ref_usfm": "REV 5:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -347,16 +346,7 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.6925,
-"match_method": "scored",
-"preferred_label": "Circumcision"
-}
-]
+"resource": []
 }
 },
 {
@@ -606,8 +596,7 @@
 "end_ref_usfm": "COL 2:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -731,8 +720,7 @@
 "end_ref_usfm": "LUK 23:39"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -886,8 +874,7 @@
 "end_ref_usfm": "ISA 2:4"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

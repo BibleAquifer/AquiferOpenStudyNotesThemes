@@ -60,16 +60,7 @@
 "end_ref_usfm": "2CH 6:42"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.5688,
-"match_method": "scored",
-"preferred_label": "SENHOR"
-}
-]
+"resource": []
 }
 },
 {
@@ -247,8 +238,7 @@
 "end_ref_usfm": "JHN 16:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -468,8 +458,7 @@
 "end_ref_usfm": "HEB 9:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -929,8 +918,7 @@
 "end_ref_usfm": "REV 21:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

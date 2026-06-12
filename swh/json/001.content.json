@@ -156,23 +156,7 @@
 "end_ref_usfm": "2MA 2:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "realia:ArkOfTheCovenant",
-"type": "realia",
-"confidence": 0.7027,
-"match_method": "scored",
-"preferred_label": "Ark of the Covenant"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"confidence": 0.6986,
-"match_method": "scored",
-"preferred_label": "Covenant Box"
-}
-]
+"resource": []
 }
 }
 ]

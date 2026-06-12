@@ -234,8 +234,7 @@
 "end_ref_usfm": "DAN 11:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -413,8 +412,7 @@
 "end_ref_usfm": "ACT 10:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -544,8 +542,7 @@
 "end_ref_usfm": "LUK 11:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1089,16 +1086,7 @@
 "end_ref_usfm": "ZEC 8:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.8367,
-"match_method": "scored",
-"preferred_label": "Yerusalemu"
-}
-]
+"resource": []
 }
 },
 {
@@ -1192,23 +1180,7 @@
 "end_ref_usfm": "JDG 9:56"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Shechem",
-"type": "place",
-"confidence": 0.674,
-"match_method": "scored",
-"preferred_label": "Shekemu"
-},
-{
-"id": "person:Shechem",
-"type": "person",
-"confidence": 0.6301,
-"match_method": "scored",
-"preferred_label": "Shekemu"
-}
-]
+"resource": []
 }
 },
 {
@@ -1494,8 +1466,7 @@
 "end_ref_usfm": "LUK 15:25"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1553,8 +1524,7 @@
 "end_ref_usfm": "MRK 7:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1678,8 +1648,7 @@
 "end_ref_usfm": "HEB 12:29"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1749,8 +1718,7 @@
 "end_ref_usfm": "EZK 46:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1940,8 +1908,7 @@
 "end_ref_usfm": "GAL 3:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2101,8 +2068,7 @@
 "end_ref_usfm": "MRK 12:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2292,8 +2258,7 @@
 "end_ref_usfm": "LUK 24:53"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2851,8 +2816,7 @@
 "label": "Marko",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3090,8 +3054,7 @@
 "end_ref_usfm": "ISA 4:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3209,8 +3172,7 @@
 "end_ref_usfm": "COL 1:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3364,8 +3326,7 @@
 "end_ref_usfm": "MRK 9:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

@@ -252,8 +252,7 @@
 "end_ref_usfm": "LUK 15:32"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -443,8 +442,7 @@
 "end_ref_usfm": "GAL 3:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -598,8 +596,7 @@
 "end_ref_usfm": "2TI 3:17"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -777,8 +774,7 @@
 "end_ref_usfm": "PHP 2:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -872,23 +868,7 @@
 "end_ref_usfm": "JDG 9:56"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Shechem",
-"type": "place",
-"confidence": 0.674,
-"match_method": "scored",
-"preferred_label": "شَكِيمَ"
-},
-{
-"id": "person:Shechem",
-"type": "person",
-"confidence": 0.6301,
-"match_method": "scored",
-"preferred_label": "شَكِيمَ"
-}
-]
+"resource": []
 }
 }
 ]

@@ -126,8 +126,7 @@
 "end_ref_usfm": "REV 21:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -299,8 +298,7 @@
 "end_ref_usfm": "JAS 1:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -472,8 +470,7 @@
 "end_ref_usfm": "JOS 7:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -531,8 +528,7 @@
 "end_ref_usfm": "1CO 3:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -752,8 +748,7 @@
 "end_ref_usfm": "MIC 5:8"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -931,8 +926,7 @@
 "end_ref_usfm": "ISA 1:26"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1050,8 +1044,7 @@
 "end_ref_usfm": "MAT 27:53"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1457,16 +1450,7 @@
 "end_ref_usfm": "REV 20:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.5809,
-"match_method": "scored",
-"preferred_label": "Resurrection"
-}
-]
+"resource": []
 }
 },
 {
@@ -1770,8 +1754,7 @@
 "end_ref_usfm": "REV 22:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2027,8 +2010,7 @@
 "end_ref_usfm": "ROM 2:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2242,8 +2224,7 @@
 "end_ref_usfm": "ZEC 4:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2355,8 +2336,7 @@
 "end_ref_usfm": "ACT 17:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2444,8 +2424,7 @@
 "end_ref_usfm": "LUK 14:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2659,8 +2638,7 @@
 "end_ref_usfm": "1PE 4:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2748,8 +2726,7 @@
 "end_ref_usfm": "ACT 11:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2921,8 +2898,7 @@
 "end_ref_usfm": "PSA 89:45"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]
