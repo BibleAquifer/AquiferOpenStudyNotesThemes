@@ -84,8 +84,7 @@
 "end_ref_usfm": "ROM 8:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -629,16 +628,7 @@
 "end_ref_usfm": "ZEC 8:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.8367,
-"match_method": "scored",
-"preferred_label": "Jerusalem"
-}
-]
+"resource": []
 }
 },
 {
@@ -1050,16 +1040,7 @@
 "end_ref_usfm": "1CO 1:17"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"confidence": 0.8116,
-"match_method": "scored",
-"preferred_label": "Baptism"
-}
-]
+"resource": []
 }
 },
 {
@@ -1111,8 +1092,7 @@
 "end_ref_usfm": "REV 5:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

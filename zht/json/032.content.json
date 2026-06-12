@@ -158,8 +158,7 @@
 "label": "完全的獻上",
 "language": "zht"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -247,16 +246,7 @@
 "end_ref_usfm": "2CH 7:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "realia:Tabernacle",
-"type": "realia",
-"confidence": 0.5633,
-"match_method": "scored",
-"preferred_label": "Tabernacle"
-}
-]
+"resource": []
 }
 },
 {
@@ -386,8 +376,7 @@
 "end_ref_usfm": "ISA 33:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

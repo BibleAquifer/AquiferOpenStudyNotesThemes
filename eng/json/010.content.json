@@ -332,22 +332,6 @@
 "label": "2 Samuel 5:8",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.6758,
-"match_method": "scored",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "place:CityOfDavid",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "City of David"
-}
 ]
 }
 },
@@ -574,8 +558,7 @@
 "end_ref_usfm": "2CO 11:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -693,8 +676,7 @@
 "end_ref_usfm": "1CO 11:34"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -824,8 +806,7 @@
 "end_ref_usfm": "LUK 11:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1099,8 +1080,7 @@
 "end_ref_usfm": "ROM 11:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1374,8 +1354,7 @@
 "end_ref_usfm": "JOB 9:34"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1601,8 +1580,7 @@
 "end_ref_usfm": "1CO 3:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

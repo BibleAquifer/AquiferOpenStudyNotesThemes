@@ -144,8 +144,7 @@
 "end_ref_usfm": "AMO 5:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -509,8 +508,7 @@
 "end_ref_usfm": "DEU 5:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -700,8 +698,7 @@
 "end_ref_usfm": "EZK 8:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -903,16 +900,7 @@
 "end_ref_usfm": "JHN 20:31"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.5613,
-"match_method": "scored",
-"preferred_label": "Believe"
-}
-]
+"resource": []
 }
 },
 {
@@ -1264,8 +1252,7 @@
 "end_ref_usfm": "REV 21:8"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1353,16 +1340,7 @@
 "end_ref_usfm": "JAS 1:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:HavingLittleFaith",
-"type": "keyterm",
-"confidence": 0.5655,
-"match_method": "scored",
-"preferred_label": "Having Little Faith"
-}
-]
+"resource": []
 }
 },
 {
@@ -1690,8 +1668,7 @@
 "end_ref_usfm": "EXO 4:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

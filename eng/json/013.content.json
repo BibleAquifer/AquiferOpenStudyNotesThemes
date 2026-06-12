@@ -222,8 +222,7 @@
 "end_ref_usfm": "ISA 52:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -353,8 +352,7 @@
 "end_ref_usfm": "MAT 19:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -544,8 +542,7 @@
 "end_ref_usfm": "LUK 16:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -693,8 +690,7 @@
 "end_ref_usfm": "COL 1:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -830,8 +826,7 @@
 "end_ref_usfm": "ROM 2:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1087,16 +1082,7 @@
 "end_ref_usfm": "ACT 28:24"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.6131,
-"match_method": "scored",
-"preferred_label": "Jesus"
-}
-]
+"resource": []
 }
 },
 {
@@ -1244,8 +1230,7 @@
 "end_ref_usfm": "LUK 14:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1579,8 +1564,7 @@
 "end_ref_usfm": "1JN 5:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1908,8 +1892,7 @@
 "end_ref_usfm": "EXO 4:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2081,8 +2064,7 @@
 "end_ref_usfm": "JHN 1:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2182,8 +2164,7 @@
 "end_ref_usfm": "PSA 71:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2301,8 +2282,7 @@
 "end_ref_usfm": "COL 1:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

@@ -132,8 +132,7 @@
 "end_ref_usfm": "1CO 10:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -719,16 +718,7 @@
 "end_ref_usfm": "REV 22:9"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Angels",
-"type": "group",
-"confidence": 0.6023,
-"match_method": "scored",
-"preferred_label": "Angels"
-}
-]
+"resource": []
 }
 },
 {
@@ -792,8 +782,7 @@
 "end_ref_usfm": "LUK 2:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -857,8 +846,7 @@
 "end_ref_usfm": "ACT 17:29"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

@@ -156,8 +156,7 @@
 "end_ref_usfm": "MRK 12:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -191,8 +190,7 @@
 "end_ref_usfm": "LUK 2:40"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -376,8 +374,7 @@
 "end_ref_usfm": "HEB 10:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -639,8 +636,7 @@
 "end_ref_usfm": "PHP 2:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -806,8 +802,7 @@
 "end_ref_usfm": "JAS 5:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -883,8 +878,7 @@
 "end_ref_usfm": "JHN 16:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1206,8 +1200,7 @@
 "end_ref_usfm": "ACT 11:30"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1265,8 +1258,7 @@
 "end_ref_usfm": "1CO 3:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1512,8 +1504,7 @@
 "label": "出埃及記 3:15",
 "language": "zht"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1715,16 +1706,7 @@
 "end_ref_usfm": "HEB 13:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.669,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-}
-]
+"resource": []
 }
 }
 ]

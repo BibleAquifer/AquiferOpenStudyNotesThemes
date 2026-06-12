@@ -186,8 +186,7 @@
 "end_ref_usfm": "ISA 51:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -341,8 +340,7 @@
 "end_ref_usfm": "ISA 11:2"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -490,16 +488,7 @@
 "end_ref_usfm": "1KI 8:53"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.6051,
-"match_method": "scored",
-"preferred_label": "Canaã"
-}
-]
+"resource": []
 }
 },
 {
@@ -617,8 +606,7 @@
 "end_ref_usfm": "COL 3:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -700,8 +688,7 @@
 "end_ref_usfm": "2TH 3:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -801,8 +788,7 @@
 "end_ref_usfm": "JAS 4:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

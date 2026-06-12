@@ -332,22 +332,6 @@
 "label": "2 शमूएल 5:8",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.6758,
-"match_method": "scored",
-"preferred_label": "यरूशलेम"
-},
-{
-"id": "place:CityOfDavid",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "City of David"
-}
 ]
 }
 },
@@ -478,8 +462,7 @@
 "end_ref_usfm": "REV 21:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -627,8 +610,7 @@
 "end_ref_usfm": "AMO 5:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -776,8 +758,7 @@
 "end_ref_usfm": "REV 7:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -907,8 +888,7 @@
 "end_ref_usfm": "ISA 40:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1176,8 +1156,7 @@
 "end_ref_usfm": "GAL 2:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1415,8 +1394,7 @@
 "end_ref_usfm": "ISA 4:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1570,8 +1548,7 @@
 "end_ref_usfm": "ISA 11:2"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1817,8 +1794,7 @@
 "label": "निर्गमन 3:15",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2044,8 +2020,7 @@
 "end_ref_usfm": "2CO 11:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2481,8 +2456,7 @@
 "end_ref_usfm": "ROM 10:15"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2660,8 +2634,7 @@
 "end_ref_usfm": "JHN 10:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3067,16 +3040,7 @@
 "end_ref_usfm": "REV 20:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.5809,
-"match_method": "scored",
-"preferred_label": "Resurrection"
-}
-]
+"resource": []
 }
 },
 {
@@ -3284,8 +3248,7 @@
 "end_ref_usfm": "ACT 7:56"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3403,8 +3366,7 @@
 "end_ref_usfm": "1CO 11:34"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3534,8 +3496,7 @@
 "end_ref_usfm": "LUK 11:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3665,8 +3626,7 @@
 "end_ref_usfm": "PSA 1:3"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3718,8 +3678,7 @@
 "end_ref_usfm": "MAT 11:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3885,8 +3844,7 @@
 "end_ref_usfm": "MAT 16:19"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4112,8 +4070,7 @@
 "end_ref_usfm": "1CO 3:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4285,8 +4242,7 @@
 "end_ref_usfm": "JHN 1:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4614,8 +4570,7 @@
 "end_ref_usfm": "EXO 4:31"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -4817,16 +4772,7 @@
 "end_ref_usfm": "JHN 20:31"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.5613,
-"match_method": "scored",
-"preferred_label": "Believe"
-}
-]
+"resource": []
 }
 }
 ]

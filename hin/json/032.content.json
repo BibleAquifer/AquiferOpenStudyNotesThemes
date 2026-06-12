@@ -120,8 +120,7 @@
 "end_ref_usfm": "HEB 10:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -293,8 +292,7 @@
 "end_ref_usfm": "PSA 89:45"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -472,8 +470,7 @@
 "end_ref_usfm": "ACT 10:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -837,8 +834,7 @@
 "end_ref_usfm": "DEU 5:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1166,8 +1162,7 @@
 "end_ref_usfm": "1PE 1:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1261,23 +1256,7 @@
 "end_ref_usfm": "JDG 9:56"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Shechem",
-"type": "place",
-"confidence": 0.674,
-"match_method": "scored",
-"preferred_label": "शेकेम"
-},
-{
-"id": "person:Shechem",
-"type": "person",
-"confidence": 0.6301,
-"match_method": "scored",
-"preferred_label": "शेकेम"
-}
-]
+"resource": []
 }
 },
 {
@@ -1479,8 +1458,7 @@
 "end_ref_usfm": "REV 12:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

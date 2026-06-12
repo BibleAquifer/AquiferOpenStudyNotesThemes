@@ -186,8 +186,7 @@
 "end_ref_usfm": "DEU 8:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -443,8 +442,7 @@
 "end_ref_usfm": "DEU 16:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -622,16 +620,7 @@
 "end_ref_usfm": "JAS 3:17"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Wisdom",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Wisdom"
-}
-]
+"resource": []
 }
 },
 {
@@ -947,8 +936,7 @@
 "end_ref_usfm": "PSA 94:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1102,8 +1090,7 @@
 "end_ref_usfm": "GAL 3:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1179,8 +1166,7 @@
 "end_ref_usfm": "GEN 1:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1262,8 +1248,7 @@
 "end_ref_usfm": "2TH 3:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1579,8 +1564,7 @@
 "end_ref_usfm": "1JN 4:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1728,8 +1712,7 @@
 "end_ref_usfm": "AMO 5:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1793,8 +1776,7 @@
 "end_ref_usfm": "LUK 2:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2062,8 +2044,7 @@
 "end_ref_usfm": "1JN 2:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

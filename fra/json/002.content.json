@@ -180,8 +180,7 @@
 "end_ref_usfm": "1JN 3:18"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -305,8 +304,7 @@
 "end_ref_usfm": "EZK 14:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -892,16 +890,7 @@
 "end_ref_usfm": "REV 22:9"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Angels",
-"type": "group",
-"confidence": 0.6023,
-"match_method": "scored",
-"preferred_label": "Angels"
-}
-]
+"resource": []
 }
 },
 {
@@ -1067,8 +1056,7 @@
 "end_ref_usfm": "ISA 66:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1234,8 +1222,7 @@
 "end_ref_usfm": "EZK 33:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1377,8 +1364,7 @@
 "end_ref_usfm": "1CO 7:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1514,8 +1500,7 @@
 "end_ref_usfm": "ISA 3:3"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1717,16 +1702,7 @@
 "end_ref_usfm": "HEB 13:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.669,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-}
-]
+"resource": []
 }
 }
 ]

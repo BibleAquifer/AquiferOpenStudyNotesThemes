@@ -294,16 +294,7 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.6925,
-"match_method": "scored",
-"preferred_label": "Circumcision"
-}
-]
+"resource": []
 }
 },
 {
@@ -553,8 +544,7 @@
 "end_ref_usfm": "COL 2:23"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -750,8 +740,7 @@
 "end_ref_usfm": "GAL 5:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -899,8 +888,7 @@
 "end_ref_usfm": "REV 7:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1300,8 +1288,7 @@
 "end_ref_usfm": "PSA 98:3"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1449,8 +1436,7 @@
 "end_ref_usfm": "JER 10:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1640,8 +1626,7 @@
 "end_ref_usfm": "ISA 51:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1777,8 +1762,7 @@
 "end_ref_usfm": "1CO 10:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2010,8 +1994,7 @@
 "end_ref_usfm": "1TH 2:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2051,8 +2034,7 @@
 "end_ref_usfm": "ACT 7:56"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2242,8 +2224,7 @@
 "end_ref_usfm": "1TI 2:6"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2397,8 +2378,7 @@
 "end_ref_usfm": "ROM 5:21"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2486,16 +2466,7 @@
 "end_ref_usfm": "2CH 7:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "realia:Tabernacle",
-"type": "realia",
-"confidence": 0.5633,
-"match_method": "scored",
-"preferred_label": "Tabernacle"
-}
-]
+"resource": []
 }
 }
 ]

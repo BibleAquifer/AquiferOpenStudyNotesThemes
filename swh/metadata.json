@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-03-31",
+"date_created": "2026-06-12",
 "language": "swh",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-03-31T10:02:12.045742"
+"dateCreated": "2026-06-12T14:36:18.367955"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-03-31T10:02:12.045742"
+"timestamp": "2026-06-12T14:36:18.367955"
 }
 }
 },
@@ -96,7 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 7297,
+"size": 7136,
 "scope": {
 " ": [
 "Sanduku la Agano"
@@ -105,7 +105,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 117930,
+"size": 114959,
 "scope": {
 "a": [
 "Adhabu ya haki",
@@ -128,7 +128,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 36562,
+"size": 35673,
 "scope": {
 "b": [
 "Babeli: Mgawanyiko wa Mataifa",
@@ -142,7 +142,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 11752,
+"size": 11443,
 "scope": {
 "c": [
 "Chaguo la Maisha au Kifo",
@@ -152,7 +152,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 11729,
+"size": 11486,
 "scope": {
 "d": [
 "Dhambi Inaingia Ulimwenguni",
@@ -162,7 +162,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 8856,
+"size": 8605,
 "scope": {
 "e": [
 "Enzi ya Kale na enzi Mpya"
@@ -171,7 +171,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 16123,
+"size": 15836,
 "scope": {
 "f": [
 "Falme Nne za Dunia",
@@ -183,7 +183,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 24020,
+"size": 23325,
 "scope": {
 "g": [
 "Giza na Nuru"
@@ -192,7 +192,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 140598,
+"size": 136757,
 "scope": {
 "h": [
 "Haki kwa Imani",
@@ -215,7 +215,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 62299,
+"size": 60626,
 "scope": {
 "i": [
 "Ibada katika Yerusalemu",
@@ -230,7 +230,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 34000,
+"size": 33133,
 "scope": {
 "j": [
 "Jibu la Daudi kwa Viongozi Wasio na Urafiki",
@@ -243,7 +243,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 382014,
+"size": 372237,
 "scope": {
 "k": [
 "Kanisa",
@@ -304,7 +304,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 4234,
+"size": 4145,
 "scope": {
 "l": [
 "Laana na Baraka"
@@ -313,7 +313,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 488762,
+"size": 476283,
 "scope": {
 "m": [
 "Maagizo ya Mungu",
@@ -382,7 +382,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 112073,
+"size": 109198,
 "scope": {
 "n": [
 "Nabii Aliyeteseka",
@@ -405,7 +405,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 6881,
+"size": 6702,
 "scope": {
 "o": [
 "Ondoa Uovu"
@@ -414,7 +414,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 27600,
+"size": 26923,
 "scope": {
 "p": [
 "Pasaka",
@@ -426,7 +426,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 9874,
+"size": 9649,
 "scope": {
 "r": [
 "Roho ya Sheria",
@@ -436,7 +436,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 133006,
+"size": 129675,
 "scope": {
 "s": [
 "Sabini ya Sabasaba",
@@ -460,7 +460,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 35905,
+"size": 35026,
 "scope": {
 "t": [
 "Tamthilia na Ufunuo",
@@ -473,7 +473,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 456171,
+"size": 444634,
 "scope": {
 "u": [
 "Uaminifu wa Mungu kwa Watu Wake",
@@ -542,7 +542,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 16728,
+"size": 16341,
 "scope": {
 "v": [
 "Viongozi wa kanisa",
@@ -552,7 +552,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 89575,
+"size": 87152,
 "scope": {
 "w": [
 "Wajibu wa Jamii: Dhambi ya Akani",
@@ -570,7 +570,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 26802,
+"size": 26147,
 "scope": {
 "y": [
 "Yerusalemu",
@@ -581,7 +581,7 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 50348,
+"size": 49081,
 "scope": {
 "z": [
 "Zaburi ya Mateso",
@@ -593,105 +593,105 @@
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 5142
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 62285
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 20277
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 6643
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 7619
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 4648
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 11320
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 10895
+"size": 10846
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 68145
+"size": 67698
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 30833
+"size": 20146
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 6593
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 18486
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 195115
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 3258
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 248013
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 58174
+"size": 18323
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 4235
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 15383
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 6414
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 69262
+"size": 4206
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 19981
+"size": 19803
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 15227
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 30512
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 7559
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 61937
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 237441
+"size": 235859
 },
-"md/022.content.md": {
+"md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 10245
+"size": 193840
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 57783
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 11231
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 43811
+"size": 43586
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 14603
+"size": 14409
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 4603
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 4982
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 246473
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 3227
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 26074
+"size": 25940
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 10191
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 68730
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 6364
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -795,103 +795,103 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 70441
+"size": 47381
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 415937
+"size": 389579
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 168666
+"size": 142399
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 88858
+"size": 64110
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 90070
+"size": 64404
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 80980
+"size": 57209
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 101575
+"size": 76171
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 135909
+"size": 113167
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 511146
+"size": 483506
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 260610
+"size": 234037
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 153694
+"size": 127501
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1309773
+"size": 1280720
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61249
+"size": 38782
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1671384
+"size": 1643154
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 414932
+"size": 389207
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 73121
+"size": 50484
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 137020
+"size": 112306
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 78526
+"size": 54957
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 501238
+"size": 468628
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 165166
+"size": 139283
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1537677
+"size": 1511805
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 103678
+"size": 79143
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 346950
+"size": 317847
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 142170
+"size": 117439
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 235419
+"size": 209249
 }
 },
 "copyright": {

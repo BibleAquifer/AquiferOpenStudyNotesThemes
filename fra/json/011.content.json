@@ -332,22 +332,6 @@
 "label": "2 Samuel 5.8",
 "language": "fra"
 }
-],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.6758,
-"match_method": "scored",
-"preferred_label": "Jérusalem"
-},
-{
-"id": "place:CityOfDavid",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "City of David"
-}
 ]
 }
 },
@@ -574,8 +558,7 @@
 "end_ref_usfm": "2CO 11:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]
