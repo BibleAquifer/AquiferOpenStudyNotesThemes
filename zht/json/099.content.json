@@ -84,7 +84,8 @@
 "end_ref_usfm": "ACT 11:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -262,7 +263,16 @@
 "end_ref_usfm": "JAS 1:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 }
 ]

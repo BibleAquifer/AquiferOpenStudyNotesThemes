@@ -114,7 +114,16 @@
 "end_ref_usfm": "DEU 16:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.5928,
+"match_method": "scored",
+"preferred_label": "Passover"
+}
+]
 }
 },
 {
@@ -334,7 +343,8 @@
 "end_ref_usfm": "MIC 5:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -518,7 +528,8 @@
 "end_ref_usfm": "1JN 3:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -684,7 +695,8 @@
 "end_ref_usfm": "MAT 16:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -976,7 +988,8 @@
 "end_ref_usfm": "EZK 13:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

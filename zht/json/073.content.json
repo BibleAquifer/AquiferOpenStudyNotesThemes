@@ -396,7 +396,8 @@
 "end_ref_usfm": "PSA 98:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -646,7 +647,8 @@
 "end_ref_usfm": "PSA 80:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1148,7 +1150,8 @@
 "end_ref_usfm": "PSA 62:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1608,7 +1611,8 @@
 "end_ref_usfm": "PSA 40:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1912,7 +1916,8 @@
 "end_ref_usfm": "PSA 82:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2102,7 +2107,8 @@
 "end_ref_usfm": "NUM 16:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2298,7 +2304,8 @@
 "end_ref_usfm": "JHN 19:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2436,7 +2443,8 @@
 "label": "使徒行傳 6:2-6",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2614,7 +2622,8 @@
 "end_ref_usfm": "ROM 1:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2930,7 +2939,8 @@
 "end_ref_usfm": "1JN 4:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3024,7 +3034,23 @@
 "end_ref_usfm": "JDG 9:56"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.674,
+"match_method": "scored",
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 0.6301,
+"match_method": "scored",
+"preferred_label": "Shechem"
+}
+]
 }
 },
 {
@@ -3154,7 +3180,8 @@
 "end_ref_usfm": "EPH 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

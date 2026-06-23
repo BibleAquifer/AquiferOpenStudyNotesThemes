@@ -360,7 +360,8 @@
 "end_ref_usfm": "JHN 3:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -928,7 +929,8 @@
 "end_ref_usfm": "HEB 1:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1214,7 +1216,8 @@
 "end_ref_usfm": "LUK 15:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1392,7 +1395,8 @@
 "end_ref_usfm": "JER 27:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1912,7 +1916,8 @@
 "end_ref_usfm": "JER 44:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2066,7 +2071,8 @@
 "end_ref_usfm": "GAL 3:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2106,7 +2112,8 @@
 "end_ref_usfm": "DAN 2:49"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2254,7 +2261,16 @@
 "end_ref_usfm": "1KI 8:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.6051,
+"match_method": "scored",
+"preferred_label": "كَنْعَان"
+}
+]
 }
 },
 {
@@ -2432,7 +2448,8 @@
 "end_ref_usfm": "ISA 1:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2736,7 +2753,8 @@
 "end_ref_usfm": "PSA 108:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2872,7 +2890,8 @@
 "end_ref_usfm": "ISA 3:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2936,7 +2955,16 @@
 "end_ref_usfm": "2CH 6:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5688,
+"match_method": "scored",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
@@ -3078,7 +3106,8 @@
 "end_ref_usfm": "EZK 22:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3208,7 +3237,8 @@
 "end_ref_usfm": "REV 21:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3302,7 +3332,8 @@
 "end_ref_usfm": "ZEC 4:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3540,7 +3571,8 @@
 "end_ref_usfm": "PRO 4:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3868,7 +3900,8 @@
 "end_ref_usfm": "EXO 4:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4082,7 +4115,8 @@
 "end_ref_usfm": "1PE 4:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4128,7 +4162,8 @@
 "end_ref_usfm": "ISA 27:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4294,7 +4329,8 @@
 "end_ref_usfm": "ISA 66:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4460,7 +4496,8 @@
 "end_ref_usfm": "EZK 33:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4686,7 +4723,8 @@
 "end_ref_usfm": "MAT 26:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5146,7 +5184,8 @@
 "end_ref_usfm": "REV 21:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5306,7 +5345,8 @@
 "end_ref_usfm": "COL 2:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5712,7 +5752,8 @@
 "end_ref_usfm": "1PE 3:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5776,7 +5817,8 @@
 "end_ref_usfm": "ACT 17:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5864,7 +5906,8 @@
 "end_ref_usfm": "LUK 14:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6036,7 +6079,8 @@
 "end_ref_usfm": "1CO 11:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6124,7 +6168,8 @@
 "end_ref_usfm": "COL 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6440,7 +6485,8 @@
 "end_ref_usfm": "REV 3:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6516,7 +6562,8 @@
 "end_ref_usfm": "1TH 5:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6670,7 +6717,8 @@
 "end_ref_usfm": "2TI 4:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6830,7 +6878,8 @@
 "end_ref_usfm": "1KI 22:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6972,7 +7021,8 @@
 "end_ref_usfm": "1CO 7:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7270,7 +7320,8 @@
 "end_ref_usfm": "LUK 18:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7448,7 +7499,16 @@
 "end_ref_usfm": "JAS 1:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 },
 {
@@ -7650,7 +7710,16 @@
 "end_ref_usfm": "JHN 20:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5613,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 },
 {
@@ -8002,7 +8071,8 @@
 "end_ref_usfm": "REV 21:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8336,7 +8406,8 @@
 "end_ref_usfm": "REV 1:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8514,7 +8585,8 @@
 "end_ref_usfm": "JHN 10:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8632,7 +8704,8 @@
 "end_ref_usfm": "LEV 24:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8768,7 +8841,8 @@
 "end_ref_usfm": "JER 28:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9104,6 +9178,22 @@
 "label": "2 صموئيل 5: 8",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "أورشَلِيمَ"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
+}
 ]
 }
 },
@@ -9192,7 +9282,16 @@
 "end_ref_usfm": "JAS 1:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.5655,
+"match_method": "scored",
+"preferred_label": "Having Little Faith"
+}
+]
 }
 },
 {
@@ -9346,7 +9445,8 @@
 "end_ref_usfm": "2CO 10:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

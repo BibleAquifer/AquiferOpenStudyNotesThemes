@@ -294,7 +294,16 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.6925,
+"match_method": "scored",
+"preferred_label": "Circumcision"
+}
+]
 }
 }
 ]

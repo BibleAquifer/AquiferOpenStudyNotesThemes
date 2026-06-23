@@ -204,7 +204,8 @@
 "end_ref_usfm": "JER 36:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -268,7 +269,16 @@
 "end_ref_usfm": "2CH 6:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5688,
+"match_method": "scored",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
@@ -320,7 +330,8 @@
 "end_ref_usfm": "EZK 48:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -720,7 +731,8 @@
 "end_ref_usfm": "1PE 2:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -862,7 +874,8 @@
 "end_ref_usfm": "REV 21:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

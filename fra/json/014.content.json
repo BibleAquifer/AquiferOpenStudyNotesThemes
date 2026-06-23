@@ -174,7 +174,16 @@
 "end_ref_usfm": "JAS 1:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "croire"
+}
+]
 }
 },
 {
@@ -412,7 +421,8 @@
 "end_ref_usfm": "PRO 4:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -518,7 +528,8 @@
 "end_ref_usfm": "LUK 5:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -606,7 +617,16 @@
 "end_ref_usfm": "JAS 1:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.5655,
+"match_method": "scored",
+"preferred_label": "qui manque de foi"
+}
+]
 }
 },
 {
@@ -784,7 +804,8 @@
 "end_ref_usfm": "PHP 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1010,7 +1031,8 @@
 "end_ref_usfm": "1CO 3:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1170,7 +1192,8 @@
 "end_ref_usfm": "COL 2:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1348,7 +1371,8 @@
 "end_ref_usfm": "ACT 10:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1466,7 +1490,8 @@
 "end_ref_usfm": "ACT 17:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

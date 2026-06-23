@@ -72,7 +72,8 @@
 "end_ref_usfm": "ACT 2:47"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -484,7 +485,16 @@
 "end_ref_usfm": "1CO 1:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.8116,
+"match_method": "scored",
+"preferred_label": "baptême"
+}
+]
 }
 },
 {
@@ -794,7 +804,8 @@
 "end_ref_usfm": "1SA 2:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

@@ -252,7 +252,16 @@
 "end_ref_usfm": "ACT 28:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.6131,
+"match_method": "scored",
+"preferred_label": "Jesus"
+}
+]
 }
 },
 {
@@ -406,7 +415,8 @@
 "end_ref_usfm": "MRK 9:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -554,7 +564,8 @@
 "end_ref_usfm": "LUK 14:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

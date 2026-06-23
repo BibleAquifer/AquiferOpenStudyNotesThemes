@@ -270,7 +270,8 @@
 "end_ref_usfm": "JOB 9:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -430,7 +431,23 @@
 "end_ref_usfm": "2MA 2:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.7027,
+"match_method": "scored",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.6986,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
+}
+]
 }
 },
 {
@@ -656,7 +673,8 @@
 "end_ref_usfm": "1CO 3:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -984,7 +1002,8 @@
 "end_ref_usfm": "EXO 4:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1156,7 +1175,8 @@
 "end_ref_usfm": "JHN 1:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1358,7 +1378,16 @@
 "end_ref_usfm": "JHN 20:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5613,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
+]
 }
 }
 ]

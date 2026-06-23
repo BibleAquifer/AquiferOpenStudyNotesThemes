@@ -186,7 +186,8 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -274,7 +275,16 @@
 "end_ref_usfm": "JAS 1:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.5655,
+"match_method": "scored",
+"preferred_label": "Having Little Faith"
+}
+]
 }
 }
 ]

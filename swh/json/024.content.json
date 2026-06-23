@@ -324,7 +324,23 @@
 "end_ref_usfm": "GAL 4:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "Yerusalemu"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
+}
+]
 }
 },
 {
@@ -550,7 +566,8 @@
 "end_ref_usfm": "2CO 11:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -650,7 +667,8 @@
 "end_ref_usfm": "JAS 4:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]
