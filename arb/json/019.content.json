@@ -204,7 +204,8 @@
 "end_ref_usfm": "1KI 12:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -388,7 +389,8 @@
 "end_ref_usfm": "1JN 3:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -590,7 +592,8 @@
 "end_ref_usfm": "COL 3:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -780,7 +783,8 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1036,7 +1040,8 @@
 "end_ref_usfm": "ROM 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1538,7 +1543,8 @@
 "end_ref_usfm": "PSA 62:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1806,7 +1812,8 @@
 "end_ref_usfm": "HEB 3:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2014,7 +2021,8 @@
 "end_ref_usfm": "EPH 4:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2132,7 +2140,8 @@
 "end_ref_usfm": "MAT 27:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2304,7 +2313,8 @@
 "end_ref_usfm": "1TI 5:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2392,7 +2402,16 @@
 "end_ref_usfm": "1SA 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.698,
+"match_method": "scored",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
@@ -2504,7 +2523,8 @@
 "end_ref_usfm": "REV 22:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2772,7 +2792,8 @@
 "end_ref_usfm": "JHN 6:69"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2882,7 +2903,8 @@
 "label": "لاويين 1:1-7: 38",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3186,7 +3208,8 @@
 "end_ref_usfm": "REV 22:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3592,7 +3615,16 @@
 "end_ref_usfm": "REV 20:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.5809,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 }
 ]

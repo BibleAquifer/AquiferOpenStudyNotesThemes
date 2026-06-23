@@ -294,7 +294,16 @@
 "end_ref_usfm": "ZEC 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.5911,
+"match_method": "scored",
+"preferred_label": "Flock"
+}
+]
 }
 },
 {
@@ -538,7 +547,8 @@
 "label": "غلاطية 1: 8-9",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -692,7 +702,8 @@
 "end_ref_usfm": "ISA 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -816,7 +827,8 @@
 "end_ref_usfm": "LUK 23:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -946,7 +958,8 @@
 "end_ref_usfm": "ISA 33:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1118,7 +1131,8 @@
 "end_ref_usfm": "JAS 1:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1368,7 +1382,8 @@
 "end_ref_usfm": "ISA 54:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1474,7 +1489,8 @@
 "end_ref_usfm": "DAN 2:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1682,7 +1698,8 @@
 "end_ref_usfm": "JER 36:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1710,7 +1727,8 @@
 "end_ref_usfm": "REV 1:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1846,7 +1864,8 @@
 "end_ref_usfm": "ROM 2:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2174,7 +2193,8 @@
 "end_ref_usfm": "1PE 1:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2322,7 +2342,8 @@
 "end_ref_usfm": "COL 1:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2416,7 +2437,8 @@
 "end_ref_usfm": "ROM 3:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

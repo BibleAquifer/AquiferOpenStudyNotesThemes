@@ -144,7 +144,16 @@
 "end_ref_usfm": "1KI 8:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.6051,
+"match_method": "scored",
+"preferred_label": "Canaan"
+}
+]
 }
 }
 ]

@@ -174,7 +174,8 @@
 "end_ref_usfm": "2TI 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -292,7 +293,16 @@
 "end_ref_usfm": "DEU 16:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.5928,
+"match_method": "scored",
+"preferred_label": "Passover"
+}
+]
 }
 },
 {
@@ -524,7 +534,8 @@
 "end_ref_usfm": "1TH 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -930,7 +941,8 @@
 "end_ref_usfm": "1PE 3:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1120,7 +1132,8 @@
 "end_ref_usfm": "NUM 16:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1424,7 +1437,8 @@
 "end_ref_usfm": "PSA 82:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1614,7 +1628,8 @@
 "end_ref_usfm": "LUK 24:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1756,7 +1771,8 @@
 "end_ref_usfm": "PSA 99:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1982,7 +1998,8 @@
 "end_ref_usfm": "ROM 11:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2136,7 +2153,8 @@
 "end_ref_usfm": "JHN 10:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2320,7 +2338,8 @@
 "end_ref_usfm": "2CH 26:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2566,7 +2585,8 @@
 "label": "Exodus 3:15",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2762,7 +2782,8 @@
 "end_ref_usfm": "HEB 13:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2874,7 +2895,8 @@
 "end_ref_usfm": "1CH 28:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3016,7 +3038,8 @@
 "end_ref_usfm": "EPH 6:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3164,7 +3187,16 @@
 "end_ref_usfm": "1KI 8:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.6051,
+"match_method": "scored",
+"preferred_label": "Canaan"
+}
+]
 }
 },
 {
@@ -3336,7 +3368,8 @@
 "end_ref_usfm": "1CO 11:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3496,7 +3529,8 @@
 "end_ref_usfm": "1KI 22:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3650,7 +3684,8 @@
 "end_ref_usfm": "PSA 69:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4014,7 +4049,8 @@
 "end_ref_usfm": "DEU 5:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4132,7 +4168,8 @@
 "end_ref_usfm": "ACT 17:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4298,7 +4335,8 @@
 "end_ref_usfm": "2TI 2:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4590,7 +4628,8 @@
 "end_ref_usfm": "ROM 2:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4678,7 +4717,8 @@
 "end_ref_usfm": "ROM 8:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

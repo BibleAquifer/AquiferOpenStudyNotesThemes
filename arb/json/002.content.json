@@ -306,7 +306,8 @@
 "end_ref_usfm": "1SA 2:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -552,7 +553,8 @@
 "label": "الخروج 3: 15",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -772,7 +774,8 @@
 "end_ref_usfm": "MIC 5:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -848,7 +851,8 @@
 "end_ref_usfm": "ACT 2:47"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1122,7 +1126,8 @@
 "end_ref_usfm": "JOB 9:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

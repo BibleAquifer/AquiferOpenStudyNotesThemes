@@ -288,7 +288,8 @@
 "end_ref_usfm": "ROM 2:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -442,7 +443,8 @@
 "end_ref_usfm": "ISA 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -620,7 +622,8 @@
 "end_ref_usfm": "ROM 1:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -864,7 +867,8 @@
 "end_ref_usfm": "JHN 5:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

@@ -330,7 +330,8 @@
 "end_ref_usfm": "1JN 5:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -628,7 +629,16 @@
 "end_ref_usfm": "ZEC 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.5911,
+"match_method": "scored",
+"preferred_label": "Flock"
+}
+]
 }
 },
 {
@@ -668,7 +678,8 @@
 "end_ref_usfm": "DAN 2:49"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

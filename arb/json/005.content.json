@@ -396,7 +396,8 @@
 "end_ref_usfm": "1PE 2:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -574,7 +575,16 @@
 "end_ref_usfm": "JAS 3:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Wisdom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
+}
+]
 }
 },
 {
@@ -656,7 +666,8 @@
 "end_ref_usfm": "PHP 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1008,7 +1019,8 @@
 "end_ref_usfm": "2KI 4:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1108,7 +1120,8 @@
 "end_ref_usfm": "JHN 12:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1394,7 +1407,8 @@
 "end_ref_usfm": "HEB 10:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1608,7 +1622,8 @@
 "end_ref_usfm": "REV 20:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1720,7 +1735,8 @@
 "end_ref_usfm": "2CO 5:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1958,7 +1974,8 @@
 "end_ref_usfm": "PSA 51:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2256,7 +2273,8 @@
 "end_ref_usfm": "ACT 10:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2506,7 +2524,8 @@
 "end_ref_usfm": "PSA 80:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2732,7 +2751,8 @@
 "end_ref_usfm": "ACT 17:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2946,7 +2966,8 @@
 "end_ref_usfm": "1KI 5:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3100,7 +3121,8 @@
 "end_ref_usfm": "LUK 2:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

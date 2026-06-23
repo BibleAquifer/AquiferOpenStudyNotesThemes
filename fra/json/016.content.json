@@ -204,7 +204,8 @@
 "end_ref_usfm": "JER 36:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -250,7 +251,8 @@
 "end_ref_usfm": "2KI 3:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -416,7 +418,8 @@
 "end_ref_usfm": "MAT 16:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -594,7 +597,8 @@
 "end_ref_usfm": "2TI 2:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -844,7 +848,8 @@
 "end_ref_usfm": "ISA 54:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -982,7 +987,8 @@
 "label": "Actes 6.2-6",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -102,7 +102,8 @@
 "end_ref_usfm": "ACT 28:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -148,7 +149,8 @@
 "end_ref_usfm": "ISA 27:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -284,7 +286,8 @@
 "end_ref_usfm": "1CO 10:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -870,7 +873,16 @@
 "end_ref_usfm": "REV 22:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.6023,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
+]
 }
 },
 {
@@ -934,7 +946,8 @@
 "end_ref_usfm": "LUK 2:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

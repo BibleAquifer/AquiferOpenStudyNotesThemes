@@ -150,7 +150,8 @@
 "end_ref_usfm": "JHN 10:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -196,7 +197,8 @@
 "end_ref_usfm": "2KI 3:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -404,7 +406,8 @@
 "end_ref_usfm": "EPH 4:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -660,7 +663,8 @@
 "end_ref_usfm": "LUK 15:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1012,7 +1016,16 @@
 "end_ref_usfm": "EPH 5:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:GenericChurch",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "The Church"
+}
+]
 }
 },
 {
@@ -1124,7 +1137,8 @@
 "end_ref_usfm": "1CO 12:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1386,7 +1400,8 @@
 "end_ref_usfm": "ACT 1:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1558,7 +1573,8 @@
 "end_ref_usfm": "1TI 5:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1808,7 +1824,8 @@
 "end_ref_usfm": "1PE 2:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1866,7 +1883,8 @@
 "end_ref_usfm": "MRK 7:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1948,7 +1966,8 @@
 "end_ref_usfm": "2TH 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2168,7 +2187,8 @@
 "end_ref_usfm": "RUT 4:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2352,7 +2372,8 @@
 "end_ref_usfm": "MAT 13:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

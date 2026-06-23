@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-06-12",
+"date_created": "2026-06-23",
 "language": "eng",
 "localizations": [
 "arb",
@@ -39,7 +39,8 @@
 "zht",
 "fra",
 "ind",
-"rus"
+"rus",
+"spa"
 ],
 "order": "alphabetical",
 "content_type": "Html"
@@ -50,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-12T14:36:15.703030"
+"dateCreated": "2026-06-23T10:46:13.722480"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +65,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesThemes": {
-"timestamp": "2026-06-12T14:36:15.703030"
+"timestamp": "2026-06-23T10:46:13.722480"
 }
 }
 },
@@ -220,7 +221,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 80008,
+"size": 79842,
 "scope": {
 "f": [
 "Faith and Good Deeds",
@@ -238,7 +239,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 322071,
+"size": 321965,
 "scope": {
 "g": [
 "The Gift of Prophecy",
@@ -587,7 +588,7 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 65593
+"size": 65662
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
@@ -595,7 +596,7 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 144715
+"size": 144860
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -607,11 +608,11 @@
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 91183
+"size": 91309
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 42536
+"size": 42605
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
@@ -619,7 +620,7 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 27879
+"size": 27986
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
@@ -627,7 +628,7 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 52803
+"size": 52995
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
@@ -635,7 +636,7 @@
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 46892
+"size": 46978
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
@@ -643,23 +644,23 @@
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 160996
+"size": 161075
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 39455
+"size": 39516
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 7299
+"size": 7365
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 41422
+"size": 41316
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 50070
+"size": 50394
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -667,7 +668,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 42722
+"size": 42783
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
@@ -675,11 +676,11 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 122622
+"size": 122774
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 55420
+"size": 55494
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -703,11 +704,11 @@
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 58895
+"size": 58831
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 104509
+"size": 104469
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -799,11 +800,11 @@
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 301560
+"size": 300056
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1099879
+"size": 1099294
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
@@ -1191,10 +1192,25 @@
 "language": "hin",
 "title": "अब्राहम के साथ परमेश्वर की वाचा"
 },
+"ind": {
+"content_id": 769369,
+"language": "ind",
+"title": "Perjanjian Allah dengan Abraham"
+},
 "por": {
 "content_id": 800271,
 "language": "por",
 "title": "A aliança de Deus com Abraão"
+},
+"rus": {
+"content_id": 718749,
+"language": "rus",
+"title": "Завет Бога с Авраамом"
+},
+"spa": {
+"content_id": 873930,
+"language": "spa",
+"title": "El pacto de Dios con Abraham"
 },
 "swh": {
 "content_id": 764959,
@@ -7934,10 +7950,25 @@
 "language": "hin",
 "title": "यीशु का अनुसरण करना"
 },
+"ind": {
+"content_id": 769563,
+"language": "ind",
+"title": "Mengikuti Yesus"
+},
 "por": {
 "content_id": 800465,
 "language": "por",
 "title": "Seguindo Jesus"
+},
+"rus": {
+"content_id": 718840,
+"language": "rus",
+"title": "Следование за Иисусом"
+},
+"spa": {
+"content_id": 873997,
+"language": "spa",
+"title": "Siguiendo a Jesús"
 },
 "swh": {
 "content_id": 765153,

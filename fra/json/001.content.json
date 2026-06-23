@@ -198,7 +198,16 @@
 "end_ref_usfm": "JHN 20:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.5613,
+"match_method": "scored",
+"preferred_label": "croire"
+}
+]
 }
 }
 ]

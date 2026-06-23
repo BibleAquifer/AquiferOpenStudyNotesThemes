@@ -158,7 +158,8 @@
 "label": "Dévouer par interdit",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -372,7 +373,8 @@
 "end_ref_usfm": "1JN 2:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -526,7 +528,8 @@
 "end_ref_usfm": "2CO 10:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -812,7 +815,8 @@
 "end_ref_usfm": "ACT 4:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -942,7 +946,8 @@
 "end_ref_usfm": "EPH 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1168,7 +1173,8 @@
 "end_ref_usfm": "HEB 11:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1310,7 +1316,8 @@
 "end_ref_usfm": "JON 4:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1482,7 +1489,8 @@
 "end_ref_usfm": "1TI 5:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1732,7 +1740,8 @@
 "end_ref_usfm": "PRO 15:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

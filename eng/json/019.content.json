@@ -144,7 +144,8 @@
 "end_ref_usfm": "REV 7:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -544,7 +545,8 @@
 "end_ref_usfm": "PSA 98:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -698,7 +700,8 @@
 "end_ref_usfm": "MRK 9:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1014,7 +1017,8 @@
 "end_ref_usfm": "REV 3:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1168,7 +1172,8 @@
 "end_ref_usfm": "MAT 6:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1376,7 +1381,8 @@
 "end_ref_usfm": "1KI 12:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1614,7 +1620,8 @@
 "end_ref_usfm": "DAN 11:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1708,7 +1715,23 @@
 "end_ref_usfm": "JDG 9:56"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.674,
+"match_method": "scored",
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 0.6301,
+"match_method": "scored",
+"preferred_label": "Shechem"
+}
+]
 }
 },
 {
@@ -2006,7 +2029,16 @@
 "end_ref_usfm": "ZEC 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.5911,
+"match_method": "scored",
+"preferred_label": "Flock"
+}
+]
 }
 },
 {
@@ -2202,7 +2234,8 @@
 "end_ref_usfm": "GAL 5:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2266,7 +2299,8 @@
 "end_ref_usfm": "PHM 1:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2444,7 +2478,8 @@
 "end_ref_usfm": "ROM 1:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2688,7 +2723,8 @@
 "end_ref_usfm": "AMO 5:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2902,7 +2938,8 @@
 "end_ref_usfm": "1KI 5:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3470,7 +3507,8 @@
 "end_ref_usfm": "HEB 1:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3834,7 +3872,8 @@
 "end_ref_usfm": "JHN 3:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4150,7 +4189,8 @@
 "end_ref_usfm": "ROM 9:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4340,7 +4380,8 @@
 "end_ref_usfm": "PRO 16:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4644,7 +4685,8 @@
 "end_ref_usfm": "PSA 143:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4738,7 +4780,8 @@
 "end_ref_usfm": "ROM 3:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4976,7 +5019,8 @@
 "end_ref_usfm": "PSA 51:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5076,7 +5120,8 @@
 "end_ref_usfm": "HEB 12:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5194,7 +5239,8 @@
 "end_ref_usfm": "HAG 1:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5594,7 +5640,8 @@
 "end_ref_usfm": "1PE 2:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5766,7 +5813,8 @@
 "end_ref_usfm": "1PE 3:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5938,7 +5986,8 @@
 "end_ref_usfm": "LUK 24:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6122,7 +6171,8 @@
 "end_ref_usfm": "HEB 1:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6582,7 +6632,8 @@
 "end_ref_usfm": "REV 21:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

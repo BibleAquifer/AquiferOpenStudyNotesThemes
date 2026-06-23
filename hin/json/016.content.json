@@ -84,7 +84,16 @@
 "end_ref_usfm": "2CH 7:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.5633,
+"match_method": "scored",
+"preferred_label": "Tabernacle"
+}
+]
 }
 }
 ]

@@ -144,7 +144,8 @@
 "end_ref_usfm": "HAB 3:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -348,7 +349,8 @@
 "label": "創世記 4:1",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -712,7 +714,8 @@
 "end_ref_usfm": "JHN 3:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -860,7 +863,8 @@
 "end_ref_usfm": "HEB 12:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1032,7 +1036,8 @@
 "end_ref_usfm": "HEB 8:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

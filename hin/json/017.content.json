@@ -240,7 +240,8 @@
 "label": "गलातियों 1:8-9",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -580,7 +581,8 @@
 "end_ref_usfm": "MAT 21:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -788,7 +790,8 @@
 "end_ref_usfm": "1KI 12:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -852,7 +855,8 @@
 "end_ref_usfm": "PHM 1:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1410,7 +1414,8 @@
 "label": "मरकुस",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1708,7 +1713,8 @@
 "end_ref_usfm": "LUK 18:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1862,7 +1868,8 @@
 "end_ref_usfm": "PSA 69:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2034,7 +2041,8 @@
 "end_ref_usfm": "LUK 24:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2230,7 +2238,8 @@
 "end_ref_usfm": "HEB 13:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2324,7 +2333,8 @@
 "end_ref_usfm": "ZEC 4:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2508,7 +2518,8 @@
 "end_ref_usfm": "1JN 3:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2758,7 +2769,8 @@
 "end_ref_usfm": "PRO 15:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

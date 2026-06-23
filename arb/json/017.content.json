@@ -288,7 +288,8 @@
 "end_ref_usfm": "ROM 2:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -376,7 +377,8 @@
 "end_ref_usfm": "ROM 8:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -580,7 +582,8 @@
 "label": "تكوين 4: 1",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -836,7 +839,8 @@
 "end_ref_usfm": "NAM 1:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1038,7 +1042,8 @@
 "end_ref_usfm": "REV 12:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1228,7 +1233,8 @@
 "end_ref_usfm": "DEU 8:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1292,7 +1298,8 @@
 "end_ref_usfm": "JER 19:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1602,7 +1609,8 @@
 "end_ref_usfm": "ROM 2:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]
