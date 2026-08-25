@@ -28,8 +28,8 @@
 "showAdaptationNoticeForNonEnglish": false
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
-"resource_code": "TyndaleStudyNotesThemes",
-"date_created": "2026-07-14",
+"resource_code": "AquiferOpenStudyNotesThemes",
+"date_created": "2026-08-25",
 "language": "swh",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-07-14T14:39:09.195967"
+"dateCreated": "2026-08-25T16:17:28.637597"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,8 +63,8 @@
 "identification": {
 "primary": {
 "aquifer": {
-"TyndaleStudyNotesThemes": {
-"timestamp": "2026-07-14T14:39:09.195967"
+"AquiferOpenStudyNotesThemes": {
+"timestamp": "2026-08-25T16:17:28.637597"
 }
 }
 },
