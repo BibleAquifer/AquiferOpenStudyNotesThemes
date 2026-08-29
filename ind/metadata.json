@@ -3,10 +3,10 @@
 "aquifer_type": "StudyNotes",
 "resource_type": "Study Notes",
 "title": "Aquifer Open Study Notes (Themes)",
-"aquifer_name": "Study Notes - Themes (Tyndale)",
+"aquifer_name": "Aquifer Open Study Notes (Themes)",
 "version": "1.1.2",
 "collection_title": "Study Notes - Themes (Tyndale)",
-"short_name": "TSNT",
+"short_name": "AOSN-T",
 "license_info": {
 "title": "Aquifer Open Study Notes (Themes)",
 "copyright": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "AquiferOpenStudyNotesThemes",
-"date_created": "2026-08-25",
+"date_created": "2026-08-28",
 "language": "ind",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-25T16:17:26.460352"
+"dateCreated": "2026-08-28T17:17:07.409175"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "AquiferOpenStudyNotesThemes": {
-"timestamp": "2026-08-25T16:17:26.460352"
+"timestamp": "2026-08-28T17:17:07.409175"
 }
 }
 },
@@ -72,7 +72,7 @@
 "id": "Aquifer Open Study Notes (Themes)"
 },
 "abbreviation": {
-"id": "TSNT"
+"id": "AOSN-T"
 }
 },
 "languages": [
@@ -96,7 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 5823,
+"size": 6304,
 "scope": {
 "a": [
 "Aturan Hukum Kuno"
@@ -105,7 +105,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 13465,
+"size": 16678,
 "scope": {
 "i": [
 "Iman dan Perbuatan Baik"
@@ -114,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 12551,
+"size": 14981,
 "scope": {
 "k": [
 "Kepemimpinan Karismatik",
@@ -124,7 +124,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 4166,
+"size": 4435,
 "scope": {
 "l": [
 "Literatur Apokaliptik"
@@ -133,7 +133,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 6215,
+"size": 7341,
 "scope": {
 "m": [
 "Makan Bersama"
@@ -142,7 +142,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 21142,
+"size": 24923,
 "scope": {
 "p": [
 "Pengkhususan Total",
@@ -153,75 +153,75 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 7735
+"size": 6014
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 4025
+"size": 3779
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 4290
+"size": 3273
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 7449
+"size": 5041
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 10452
+"size": 7872
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 4398
+"size": 4012
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43878
+"size": 43570
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44844
+"size": 43880
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45108
+"size": 44279
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43590
+"size": 43420
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43641
+"size": 43194
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46170
+"size": 44984
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40107
+"size": 33453
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 75677
+"size": 35996
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65594
+"size": 36277
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 37092
+"size": 33014
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47029
+"size": 31564
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 88749
+"size": 44166
 }
 },
 "copyright": {

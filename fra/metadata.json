@@ -3,10 +3,10 @@
 "aquifer_type": "StudyNotes",
 "resource_type": "Study Notes",
 "title": "Aquifer Open Study Notes (Themes)",
-"aquifer_name": "Study Notes - Themes (Tyndale)",
+"aquifer_name": "Aquifer Open Study Notes (Themes)",
 "version": "1.1.2",
 "collection_title": "Study Notes - Themes (Tyndale)",
-"short_name": "TSNT",
+"short_name": "AOSN-T",
 "license_info": {
 "title": "Aquifer Open Study Notes (Themes)",
 "copyright": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Themes)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "AquiferOpenStudyNotesThemes",
-"date_created": "2026-08-25",
+"date_created": "2026-08-28",
 "language": "fra",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-25T16:17:26.480028"
+"dateCreated": "2026-08-28T17:17:07.422887"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "AquiferOpenStudyNotesThemes": {
-"timestamp": "2026-08-25T16:17:26.480028"
+"timestamp": "2026-08-28T17:17:07.422887"
 }
 }
 },
@@ -72,7 +72,7 @@
 "fr": "Aquifer Open Study Notes (Themes)"
 },
 "abbreviation": {
-"fr": "TSNT"
+"fr": "AOSN-T"
 }
 },
 "languages": [
@@ -96,7 +96,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 6711,
+"size": 8040,
 "scope": {
 " ": [
 "« Croire » dans l'Évangile de Jean"
@@ -105,7 +105,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 67898,
+"size": 81844,
 "scope": {
 "a": [
 "Aimer son prochain",
@@ -121,7 +121,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 30860,
+"size": 37210,
 "scope": {
 "b": [
 "Babel : la dispersion des nations",
@@ -132,7 +132,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 57339,
+"size": 68508,
 "scope": {
 "c": [
 "Célébration",
@@ -147,7 +147,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 73401,
+"size": 86071,
 "scope": {
 "d": [
 "Destruction complète",
@@ -164,7 +164,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 12833,
+"size": 14824,
 "scope": {
 "e": [
 "Être citoyen du royaume de Dieu",
@@ -174,7 +174,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 34228,
+"size": 41321,
 "scope": {
 "f": [
 "Famille, communauté et péchés sexuels",
@@ -185,7 +185,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 13048,
+"size": 15340,
 "scope": {
 "g": [
 "Gérer les conflits"
@@ -194,7 +194,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 13861,
+"size": 15247,
 "scope": {
 "h": [
 "Hérésies à l'époque de l'Église primitive",
@@ -204,7 +204,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 5742,
+"size": 6486,
 "scope": {
 "i": [
 "Identité communautaire"
@@ -213,7 +213,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 21247,
+"size": 25809,
 "scope": {
 "j": [
 "Jérusalem",
@@ -223,7 +223,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 541376,
+"size": 639408,
 "scope": {
 "l": [
 "La beauté de la nature",
@@ -303,7 +303,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 36902,
+"size": 44393,
 "scope": {
 "m": [
 "Mariage biblique",
@@ -315,7 +315,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 61504,
+"size": 73211,
 "scope": {
 "p": [
 "Par la foi",
@@ -332,7 +332,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 4058,
+"size": 4400,
 "scope": {
 "q": [
 "Quatre empires mondiaux"
@@ -341,7 +341,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 55049,
+"size": 63174,
 "scope": {
 "r": [
 "Réaction de David à son roi injuste (Saül)",
@@ -355,7 +355,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 43410,
+"size": 51830,
 "scope": {
 "s": [
 "Se soucier des pauvres",
@@ -367,7 +367,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 31488,
+"size": 39192,
 "scope": {
 "t": [
 "Ténèbres et lumière",
@@ -377,7 +377,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 4445,
+"size": 5526,
 "scope": {
 "v": [
 "Vivre pour Christ"
@@ -386,231 +386,231 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 7783
+"size": 5933
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 10217
+"size": 9164
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 16488
+"size": 11963
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 30387
+"size": 22483
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 11237
+"size": 8038
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 35765
+"size": 29024
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 23094
+"size": 16492
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 4391
+"size": 3806
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 41515
+"size": 31986
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 36622
+"size": 26327
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 298800
+"size": 226186
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 3773
+"size": 3526
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 19485
+"size": 14220
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 8389
+"size": 6904
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 3657
+"size": 2695
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 34135
+"size": 25716
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 19932
+"size": 14401
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 3121
+"size": 2355
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 16486
+"size": 11613
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43559
+"size": 42985
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56666
+"size": 52399
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49180
+"size": 47059
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 54832
+"size": 51245
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 58802
+"size": 54729
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45439
+"size": 44694
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50020
+"size": 47913
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45291
+"size": 44384
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46516
+"size": 45912
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43888
+"size": 43551
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46879
+"size": 45353
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 158253
+"size": 128066
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50454
+"size": 48028
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56100
+"size": 52557
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43638
+"size": 43502
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56592
+"size": 53996
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51434
+"size": 48612
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48947
+"size": 46912
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43332
+"size": 42987
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 48587
+"size": 32629
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 246862
+"size": 77417
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 126915
+"size": 50173
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 209571
+"size": 76422
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 250023
+"size": 94868
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 64785
+"size": 40413
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 144272
+"size": 58074
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71081
+"size": 41750
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 70252
+"size": 53058
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43628
+"size": 34148
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 99462
+"size": 45524
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1722984
+"size": 505805
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 146187
+"size": 55599
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 225572
+"size": 85290
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39684
+"size": 35178
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 200171
+"size": 96648
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 165431
+"size": 60201
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 139796
+"size": 52362
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45962
+"size": 32961
 }
 },
 "copyright": {
